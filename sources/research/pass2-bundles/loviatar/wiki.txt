@@ -1,0 +1,279 @@
+WIKI PAGE: Loviatar
+
+{{Deity
+| image               = Loviatar.jpg
+| caption             = 
+| name                = Loviatar
+| title               = The Maiden of Pain<ref name="HoF-p114"/><ref name="SCAG5e-p21,33" /><br /> The Willing Whip<ref name="HoF-p114"/><ref name="SCAG5e-p21,33" /><br />The Scourge Mistress<ref name="HoF-p114"/><ref name="SCAG5e-p21,33" /><br /> Patroness of Torturers<ref name="F&A-p100" />
+| adjective           = Loviatan<ref name="F&A-p104">{{Cite book/Faiths & Avatars|104}}</ref>
+| symbol              = 
+| aspects             = 
+| power               = 
+| status              = 
+| primordial          = 
+| pantheon            = [[Faerûnian pantheon]]
+| home                = 
+| formerhomes         = 
+| serves              = 
+| servedby            = 
+| minions             = 
+| died                = 
+| dominion            = 
+| formerdominion      = 
+| realm               = 
+| sphere              = 
+| portfolio           = 
+| domains             = 
+| spheres             = 
+| worshipers          = 
+| cleric alignments   = 
+| favored weapon      = 
+| holy days           = 
+| channel divinity    = 
+| race                = 
+| gender              = Feminine
+| mortalhomes         = 
+| apotheosis          = 
+| alignment           = 
+| class               = 
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Gehenna]] ([[Mungoth]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Pain
+| domains5eR          = 
+| worshipers5eR       = Those suffering from pain or betrayal
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,114">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,114}}</ref>
+| power5e             = 
+| alignment5e         = [[Lawful evil]]
+| symbol5e            = Nine-tailed barbed scourge
+| homeplane5e         = [[Gehenna]]/[[Mungoth]]<ref name="HoF-p99">{{Cite book/Forgotten Realms: Heroes of Faerûn|99}}</ref>
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Pain
+| domains5e           = [[Death domain|Death]]
+| worshipers5e        = Masochists, sadists, torturers
+| channel divinity5e  = ''[[Touch of death]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG5e-p21,33">{{Cite book/Sword Coast Adventurer's Guide|21,33}}</ref><ref name="PHB5e-p294">{{Cite book/Player's Handbook 5th edition|294}}</ref><ref name="DMG5e-p96-97">{{Cite book/Dungeon Master's Guide 5th edition|96-97}}</ref>
+| power4e             = [[Intermediate deity]]
+| alignment4e         = [[Evil]]
+| symbol4e            = 
+| dominion4e          = [[Banehold]]
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = Pain
+| domains4e           = [[torment domain|Torment]], [[Vengeance domain|Vengeance]]
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCG-pg80">{{Cite book/Forgotten Realms Campaign Guide|80}}</ref><ref name="Dragon378-32">{{Cite dragon/Domains in Eberron and the Forgotten Realms|32}}</ref>
+| power3e             = [[Lesser deity]]
+| alignment3e         = [[Lawful evil]]
+| symbol3e            = Nine-tailed barbed scourge
+| homeplane3e         = [[Barrens of Doom and Despair]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Agony, hurt, suffering, torment, torture
+| domains3e           = [[Evil domain|Evil]], [[Law domain|Law]], [[Lust domain|Lust]], [[Retribution domain|Retribution]], [[Strength domain|Strength]], [[Suffering domain|Suffering]], [[Pain domain|Pain]], [[Wrath domain|Wrath]]
+| worshipers3e        = Beguilers, evil warriors torturers, the depraved
+| cleric alignments3e = {{Alignment grid|off|off|off|on|off|off|on|on|off}}
+| favored weapon3e    = ''[[Painbringer]]'' ([[scourge]])
+| holy days3e         = 
+| class3e             = 
+| refs3e              = <ref name="FRCS-235">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|235}}</ref><ref name="F&P100">{{Cite book/Faiths and Pantheons|100}}</ref><ref name="PGF189">{{Cite book/Player's Guide to Faerûn|189}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref>
+| power2e             = [[Lesser deity]]
+| alignment2e         = [[Lawful evil]]
+| symbol2e            = Black nine-tailed whip, the ends barbed and bloody<br/>Chalk-white slim female left hand with fingertips downward and three drops of blood dripping from each
+| homeplane2e         = [[Gehenna]]/[[Mungoth]]
+| realm2e             = [[Ondtland]]
+| serves2e            = [[Bhaal]]
+| servedby2e          = 
+| portfolio2e         = Pain, hurt, agony, suffering, torment, torture
+| spheres2e           = Major: [[All sphere|All]], [[Charm sphere|Charm]], [[Combat sphere|Combat]], [[Elemental sphere|Elemental]], [[Healing sphere|Healing]], [[Necromantic sphere|Necromantic]], [[Sun sphere|Sun]]<br />Minor: [[Animal sphere|Animal]], [[Divination sphere|Divination]], [[Guardian sphere|Guardian]], [[Summoning sphere|Summoning]], [[Weather sphere|Weather]]
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = {{class table|edition=2e|[[Cleric]]|29|[[Wizard]]|23|[[Fighter]]|15}}
+| refs2e              = <ref name="F&A-p100">{{Cite book/Faiths & Avatars|100-101}}</ref><ref name="FRA-p24">{{Cite book/Forgotten Realms Adventures|24}}</ref>
+| power1e             = [[Demigod]]dess
+| alignment1e         = [[Lawful evil]]
+| symbol1e            = A nine-stranded, barbed whip
+| homeplane1e         = [[Gehenna]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = Pain, hurt, torturers
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="drag54-p9">{{Cite dragon/54/Down-to-earth divinity|9}}</ref><ref name="FRCS1e-CotR-p12">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|12}}</ref>
+| animals             = 
+| plants              = 
+| monsters            = [[Chain devil]]s<br/> [[Incubi]]<br/> [[Succubi]]
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  = <ref name="HoF-p114">{{Cite book/Forgotten Realms: Heroes of Faerûn|114}}</ref>
+| church              = yes
+}}
+'''Loviatar''' ({{Pronounce|loh|VEE|a|tar|refs=<ref name="F&P100"/>}} {{Pronounce|loh|vee|A|tar|alt=yes|audio=Loviatar.ogg|refs=<ref name="FRCS1e-CotR-p12">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|12}}</ref>}}) was the [[evil]] goddess of agony and was both queen and servant to the [[greater deity|greater god]] [[Bane]].<ref name="FRCG-pg80">{{Cite book/Forgotten Realms Campaign Guide|80}}</ref> '''The Maiden of Pain''' was the master of inflicting physical and psychological suffering, her portfolio encompassing hurt and torture.<ref name="F&P100"/>
+
+{{quote
+|The Maiden of Pain, Loviatar, teaches us that pain is a most powerful and sacred sensation. And should our pain delight her—should we ''embrace'' such a gift—she will grant her most sacred of blessings.
+|[[Abdirak]], worshiper of Loviatar.<ref name="bg3">{{Cite game/Baldur's Gate III}}</ref>
+}}
+
+==Description==
+Loviatar appeared as a slim, beautiful [[human]] maiden, with straight, thigh-length, platinum-blonde hair. She dressed in either black leather embellished with outlandish spikes or revealing white silks decorated with silver [[chain]]s. She was cold and sinister in demeanor, speaking softly and moving with sensual grace. Her black blood was thick, like syrup.<ref name="F&A-p100" /> 
+
+[[File:Talona loviatar xvim.png|thumb|250px|right|''Loviatar, surrounded by [[Iyachtu Xvim]] and [[Talona]].'']]
+==Personality==
+Loviatar was cold-hearted and calculatingly cruel by nature, an aggressive and domineering despot that truly enjoyed acts of sadism. Indeed, she had an instinct for inflicting pain, and not just physical suffering, always knowing just what to say and how to say it to best wound and discourage both mortals and other deities. Unlike most bullies however, Loviatar herself did not fear pain or even experience hurt. She was nearly impervious to any emotion, whether fear, love, or even hate. Attempts to harm her, whether through physical damage or verbal humiliation, prompted only laughter at the attempt, and more than one mortal had been startled to see her advance towards them with the full intention of receiving any damage that would come from doing so.<ref name="F&A-p100" /> 
+
+Perhaps Loviatar's only psychological weakness was her own calculating nature. Her understanding of humanity, for example, relied on the fundamental assumption that they were innately selfish. Truly heroic or self-sacrificing behavior could untangle her carefully woven plots.<ref name="F&A-p100" />
+
+==Realm==
+Loviatar established her abode on the [[Mungoth|third layer of Gehenna]], where her palace of ice stood fortified by potent enchantments cast by her parents, '''Tuonetar''' and '''Tuoni''', shielding it from the realm’s erratic bursts of heat. Her devoted servants were met not with kindness, but with the torment and cruelty she deemed fitting.<ref name="MotP1e-108">{{Cite book/Manual of the Planes 1st edition|108}}</ref>
+
+==Relationships==
+For anyone, god or mortal, to even slightly affect Loviatar's cold heart would be miraculous in and of itself.<ref name="F&A-p100" />
+
+Prior to the [[Time of Troubles]], Loviatar was a servant of [[Bhaal]] and had a heated rivalry with her fellow servant [[Talona]].<ref name="F&A-p45">{{Cite book/Faiths & Avatars|45}}</ref> In the {{YearlinkName|-33}},<ref name="N.EoM-p12">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|12}}</ref> demigoddess [[Kiputytto]], Loviatar's sister, was slain by Talona. This made Loviatar and Talona heated rivals, leaving the Lady of Pain to torment Talona in revenge.<ref name="TEV">{{Cite web/theedverse/2022-11-07 - Loviatar & Talona}}</ref> Loviatar thought that Talona should and would eventually serve her.<ref name="F&A-p101">{{Cite book/Faiths & Avatars|101}}</ref> During that time she was also affiliated with [[Malar]].<ref name="F&P100" />
+
+For a time she fell under the sway of [[Shar]], though the return of [[Bane]] changed this, as she once again served as his consort. Loviatar's portfolio conflicted most with that of [[Ilmater]], because Loviatar despised those who helped others. She also hated [[Eldath]] and [[Lliira]] for offering rewards without any suffering to achieve them.<ref name="F&P100" />
+
+==Symbol==
+[[File:Loviatar symbol.jpg|thumb|left|''A holy symbol of Loviatar.'']]
+Her symbol was a nine-stranded whip, with barbed strands.<ref name="F&P100" />
+
+==Worshipers==
+{{main|Church of Loviatar}}
+Bringing pain and suffering was the aim of all Loviatans, either through physical torture or sometimes more subtly and psychologically. Beauty, intelligence, and acting were useful attributes of a Loviatan, but the ability to fully understand someone was the best skill a Loviatan could acquire, as knowing someone fully could help a Loviatan inflict maximum pain, one way or another. Loviatar's followers were encouraged to wipe [[Ilmater]]'s followers from the face of the Realms.<ref name="F&P100" />
+
+{{quote
+|''Be wary of your mortal limitations. While it is tempting to allow pain's ecstasies to sweep you away, particularly during a delicious bout of self-flagellation, broken bones hinder worship of Our Maiden of Pain. Instead, when the body is spent, focus on whipping, or perhaps nail removal (pliers or blade is recommended) to ensure Loviatar may forever revel in your agony—as is her right.''
+|On Receiving Her Grace, a book on the worship of Loviatar<ref name="bg3"/>
+}}
+
+Loviatans often engaged in self-flagellation, often in the morning when praying for spells. They celebrated each season with the Rite of Pain and Purity, a ritual that involved followers dancing on glass, thorns, or barbed-wire while being whipped by higher-level Loviatans. A smaller ritual occurring every twelve days involved followers passing their bodies through the flames of candles.<ref name="F&P100" />
+
+During warfare, priestesses of Loviatar scourged their naked shoulders or tore their cheeks with their nails to evoke magic.<ref name="U-p72">{{Cite book/Unclean|72}}</ref>
+
+[[File:Loviatar Symbol-5e.png|thumb|right|''A holy symbol of Loviatar.'']]
+Titles used by novices were Kneeling Ones.<ref name="FaA-102">{{Cite book/Faiths & Avatars|102}}</ref>
+
+Confirmed priests used the titles (in ascending order):<ref name="FaA-102"/>
+
+* Taystren
+* Adept (in Pain)
+* Sister/Brother (in Torment)
+* Supremar
+* Caressor (of Terrors)
+* Whiplass/Whiplar
+* Paingiver
+* Whipmistress/Whip Master
+* High Whipmistress/Whipmaster
+* Branded (of the God)
+* Truescar
+The last two titles are awarded to those who have been head of a temple or who have personally distinguished themselves.<ref name="FaA-102"/> In the old text priests were referred to as Lovites before the use of Loviatan replaced it.<ref name="FaA-101">{{Cite book/Faiths & Avatars|101}}</ref>
+
+Specialty priests, called pains, operate as a separate arm of the faith. They travel from place to place carrying out the goddess's will as envoys, agents, or inquisitors rather than being permanently stationed at a temple. Ordinary clerics of Loviatar hold the pains in high regard. A temple mainly consists of clerics, but one to three pains can be called upon if needed. Mystics often are assigned to groups of pains and monk, while living only with monks and monasteries. They usually swear fealty to the temple that their abbey is a part of in the hierarchy. <ref name="FaA-101"/>
+
+The faith of Loviatar was the state religion in the country of [[Dambrath]].<ref name="SS-p102">{{Cite book/Shining South|102}}</ref> Under Queen Cathtyr the priesthood of Loviatar grew to the thousands.<ref name="tSS-25">{{Cite book/The Shining South (1993)|25}}</ref> The [[Crinti]] priestesses there had their own secret religious language, known as the "[[Maiden's Tongue]]".<ref name="D.SiT-p28">{{Cite dragon/Speaking in Tongues|28}}</ref> The Crinti considered copying the idea of the trade enclave from the Red Wizards of Thay combining a trade center and a place for the faithful to Loviatar to worship.<ref name="SS-75">{{Cite book/Shining South|75}}</ref>
+
+===Temples Dedicated to Loviatar===
+* [[House of Nine Blessings]], in [[Calimport]].<ref name="C-p31">{{Cite book/Calimport|31}}</ref>
+* [[House of Scarlet Hooks]] in [[Calaunt]].<ref name="FRAp80">{{Cite book/Forgotten Realms Adventures|80–81}}</ref>
+* [[Lady's Hand Monastery]], in [[Ladypeak]].<ref name="SM-p12">{{Cite book/Silver Marches|12-13}}</ref>
+* [[Resting Place of the Whip]] in [[Melvaunt]].<ref name="MotM p.12">{{Cite book/Mysteries of the Moonsea|12}}</ref>
+* [[Tower of Pain Exalted]] in [[Zhentil Keep]].<ref name="FRA-p120">{{Cite book/Forgotten Realms Adventures|120}}</ref>
+* [[House of Pain]] in [[Undermountain]].<ref name="CoS.W-p41">{{Cite book/City of Splendors: Waterdeep|41}}</ref>
+
+===Orders===
+The Loviatan religion has no knightly orders.
+* [[Disciples of the White Rod]]: These [[monk]]s of the faith of Loviatar were named in honor of the token granted to their founder by Loviatar and held in the home abbey near [[Calimport]] as a relic. Mystics follow a philosophy called Way of Transcendence. <ref name="FaA-102">{{Cite book/Faiths & Avatars|102}}</ref>
+
+==Appendix==
+{{Incomplete|}}
+===Background===
+Loviatar is named for [[Wikipedia:Loviatar|Loviatar]], a Finnish goddess of death and pestilence of the same name, originally appearing in the 1{{st}}-edition [[Deities & Demigods 1st edition|''Deities & Demigods'']].<ref name="Dragon 54">{{Cite dragon/54/Down-to-earth divinity|52}}</ref>
+
+===Further Reading===
+* {{Cite book/Maiden of Pain}}
+===Gallery===
+<gallery>
+Abdirak garb.png|''[[Abdirak]], a torturer and worshiper of Loviatar, wearing the garments of his faith.''
+Priest of Loviatar.png|''A priestess of Loviatar.''
+Lliira priest 4e.jpg|''A priestess of Loviatar dancing with a devotee of Lliira.''
+</gallery>
+
+===Appearances===
+{{Appearances
+| adventures          = 
+| adventure refs      = 
+| novels              = 
+| novel refs          = ''[[Shadowdale (novel)|Shadowdale]]''
+| films               = 
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = 
+| video game refs     = 
+| board games         = 
+| board game refs     = 
+| card games          = 
+| card game refs      = 
+| miniatures          = 
+| miniature refs      = ''[[Dungeons & Dragons Miniatures]]''
+| organized play      = 
+| organized play refs = 
+}}
+
+===References===
+{{Refs}}
+
+===Connections===
+{{Faerûnian pantheon}}
+{{Deity list}}
+[[Category:Evil domain deities]]
+[[Category:Law domain deities]]
+[[Category:Retribution domain deities]]
+[[Category:Strength domain deities]]
+[[Category:Suffering domain deities]]
+[[Category:Faerûnian pantheon]]
+[[Category:Finnish pantheon]]
+[[Category:Human deities]]
+[[Category:Intermediate deities]]
+[[Category:Lesser deities]]
+[[Category:Lawful evil deities]]
+[[Category:Pain domain deities]]
+[[Category:Vengeance domain deities]]
+[[Category:Torment domain deities]]
+[[Category:Death domain deities]]
+[[Category:Lust domain deities]]
+[[Category:Wrath domain deities]]
+[[Category:Inhabitants of Banehold]]
+[[Category:Inhabitants of Mungoth]]
+[[Category:Inhabitants of Gehenna]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the Fiendish Planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[es:Loviatar]]

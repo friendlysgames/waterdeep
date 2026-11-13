@@ -1,0 +1,153 @@
+WIKI PAGE: Siamorphe
+
+{{Deity
+| image               = Siamorphe.jpg
+| caption             = 
+| name                = Siamorphe
+| title               = The Divine Right<ref name="F&P-p106-7"/>
+| aspects             = 
+| status              = 
+| primordial          = 
+| pantheon            = 
+| home                = 
+| formerhomes         = 
+| minions             = 
+| gender              = Feminine<br />{{Former}} Masculine
+| died                = 
+| basicrefs           = <ref name="P&P-p58-60" />
+| mortalrace          = [[Human]]
+| mortalsex           = Various
+| mortalhomes         = Various
+| apotheosis          = Various
+| mortalrefs          = <ref name="P&P-p58-60" />
+| power5e             = [[Demigod]]
+| alignment5e         = 
+| symbol5e            = 
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Nobility, responsibility
+| domains5e           = 
+| worshipers5e        = 
+
+| channel divinity5e  = 
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="scag-p151">{{Cite book/Sword Coast Adventurer's Guide|151}}</ref>
+| power4e             = [[Exarch]]
+| alignment4e         = [[Lawful good]]
+| symbol4e            = 
+| dominion4e          = [[Eternal Sun]]
+| realm4e             = 
+| serves4e            = [[Amaunator]]
+| servedby4e          = 
+| sphere4e            = Nobility
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCG-p81">{{Cite book/Forgotten Realms Campaign Guide|81}}</ref>
+| power3e             = [[Demipower]]
+| alignment3e         = [[Lawful neutral]]
+| symbol3e            = Silver chalice with a golden sun on the side
+| homeplane3e         = [[House of the Triad]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Nobles, rightful noble rule, human royalty
+| domains3e           = [[Knowledge domain|Knowledge]], [[Law domain|Law]], [[Nobility domain|Nobility]], [[Planning domain|Planning]], [[Pride domain|Pride]]
+| worshipers3e        = Leaders, nobles, loremasters, those with inherited wealth or status
+| cleric alignments3e = {{alignment grid|on|off|off|on|off|off|on|off|off}}
+| favored weapon3e    = ''[[Noble Might]]'' (scepter/[[light mace]])
+| holy days3e         = 
+| class3e             = 
+| refs3e              = <ref name="F&P-p106-7">{{Cite book/Faiths and Pantheons|106-7}}</ref><ref name="FRCS3e-235">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|235}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref>
+| power2e             = [[Demipower]]
+| alignment2e         = [[Lawful neutral]]
+| symbol2e            = Silver chalice with golden sun on its side<br/>Silver circlet with golden sun on its brow
+| homeplane2e         = [[Prime Material plane]]/[[Toril]]
+| realm2e             = [[Faerûn]]
+| serves2e            = 
+| servedby2e          = 
+| portfolio2e         = Nobles, nobility, rightful noble rule, human royalty
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = {{class table|edition=2e|[[Cleric]]|20|[[Wizard]]|19|[[Fighter]]|10}}
+| refs2e              = <ref name="P&P-p58-60">{{Cite book/Powers and Pantheons|58-60}}</ref>
+| power1e             = 
+| alignment1e         = [[Lawful neutral]]
+| symbol1e            = 
+| homeplane1e         = 
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = Rightful rule of nobility
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="FRCS1e-17">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|17}}</ref>
+| animals             = 
+| plants              = 
+| monsters            = 
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  = 
+| church              = yes
+| temples             = yes
+}}
+'''Siamorphe''' ({{Pronounce|SY|a|morf|refs=<ref name="F&P-p106-7"/>}} {{Pronounce|SEE|a|morf|refs=<ref name="P&P-p58-60"/>|alt=yes}}) was a [[demipower]] of nobles and nobles' divine right to rule. She encouraged them to rule well and wisely for the more common classes beneath them. Her worship was most common among the nobility and their councilors, especially among those who sought reasons to explain why they were in charge.<ref name="P&P-p58-60"/>
+
+'''The Divine Right''' was the vessel of a semi-divine power that was passed down to a successor when the successor was dying. At any one time, the current Siamorphe was the latest in that lineage. By preference, the successor was a direct descendant of the previous power's mortal form, but anyone of noble blood would suffice. In the 13{{th}} and 14{{th}} centuries, the present Siamorphe was one Lady Siamorphe of [[Waterdeep]], chosen when she was killed in a riot in the {{yearlinkName|1256}}, inheriting the role from the former Siamorphe, who was a nobleman of [[Baldur's Gate]].<ref name="P&P-p58-60"/>
+
+==Description==
+In the mid-to-late 14{{th}} century DR, Siamorphe usually appeared as an older lady of the nobility, her hair touched with grey but well kept, and her iron-gray eyes missing nothing. Her clothing showed the jeweled purple of the true nobility, with a [[silver]] chalice and [[adamantine]] scepter in her hands, and a tiara carved from a single [[diamond]] on her brow.<ref name="P&P-p58-60"/>
+
+==Relationships==
+Though she dwelled in the [[House of the Triad]],<ref name="F&P-p106-7"/> she had no true allies or superiors among the gods.<ref name="F&P-p106-7"/>
+
+She opposed those who fostered tyranny and corruption, most especially [[Bane]], [[Cyric]], and [[Gargauth]].<ref name="P&P-p58-60"/><ref name="F&P-p106-7"/>
+
+==Worshipers==
+[[File:Siamorphe symbol.jpg|thumb|''Siamorphe's holy symbol.'']]
+In the 14{{th}} century [[DR]], the priests of Siamorphe's faith, called [[Scions of Siamorphe]], most often acted as advisers (both spiritual and practical) to the nobility. Elaborate rituals were revived from the decay that had occurred under the previous Siamorphe, and unique ceremonies were created for the noble families of Waterdeep and [[Tethyr]], and were becoming quite fashionable. A baptism ceremony for a new heir could easily cost the family 10,000 [[gp]].<ref name="P&P-p58-60"/>
+
+The faith supported a holy day in the [[Sea Ward of Waterdeep|Sea Ward]] and [[North Ward of Waterdeep|North Ward]] of Waterdeep called the [[Divine Pageantry]]. The nobility took over the [[Heroes' Walk]] and [[Heroes' Garden]] and the [[Street of Glances]] down to the temple at the [[Street of the Singing Dolphin]]. During the Divine Pageantry, the nobles dressed and acted in archaic and stilted fashions, and threw coins (most often [[copper]] and [[silver]]) to the commoners.<ref name="F&P-p106-7"/>
+
+===Dogma===
+The faith argued that nobles were given a divine right to rule, provided they ruled responsibly and well. The nobility had an obligation to rule with the best interest of their subjects in mind, even when those obligations interfered with their personal desires.<ref name="P&P-p58-60"/>
+
+The benefits of nobility were provided to them so that they could rule well. Their wisdom and charisma were inherited from their noble ancestors, and the leisure that their station provided was theirs so that they might be educated to properly perform their duties.<ref name="F&P-p106-7"/>
+
+===Temples===
+Most of Siamorphe's temples were small family shrines in the houses of the nobility of Waterdeep, and recently in Tethyr.<ref name="F&P-p106-7"/> Her only true remaining temple was the [[Chapel and Chalice of the Divine Right]] in Waterdeep. The relatively small house of worship was within the walls of the [[Assumbar]] family's villa, and was the central building of the three that bordered the Street of the Singing Dolphin.<ref name="P&P-p58-60"/>
+
+==Appendix==
+{{Incomplete}}
+===References===
+{{Refs}}
+===Connections===
+{{Faerûnian pantheon}}
+{{Deity list}}
+[[Category:Faerûnian pantheon]]
+[[Category:Human deities]]
+[[Category:Exarchs]]
+[[Category:Demipowers]]
+[[Category:Lawful neutral deities]]
+[[Category:Knowledge domain deities]]
+[[Category:Law domain deities]]
+[[Category:Nobility domain deities]]
+[[Category:Planning domain deities]]
+[[Category:Pride domain deities]]
+[[Category:Inhabitants of the House of the Triad]]
+[[Category:Inhabitants of the Celestial planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants of the Prime Material Plane]]

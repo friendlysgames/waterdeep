@@ -1,0 +1,1 @@
+sources/adventure-wdh.json:3406: "{@creature Avi|WDH} worships Eldath, god of peace, and uses his magic to quench hot steel. He is an expert armorsmith. {@creature Avi|WDH} is laid back and speaks plainly. He has the statistics of a {@creature priest}, with these changes:",

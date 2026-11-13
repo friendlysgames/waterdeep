@@ -1,0 +1,342 @@
+WIKI PAGE: Ilsensine
+
+{{Deity
+| image               = IlsensineAvatar.png
+| caption             = Ilsensine surrounded by a circle of mind flayers.
+| name                = Ilsensine 
+| title               = The Tentacled Lord<ref name="Id2e-p53" /><br /> The Great Brain<ref name="OHG2e-p136"/><ref name="DDGttUp83"/><ref name="SatO-p94" /><br />  The God-Brain<ref name="PCS-SB2e-p32-33">{{Cite book/Planescape Campaign Setting/Sigil and Beyond|32-33}}</ref><ref name="PaB.TSO-p197" />
+| symbol              = 
+| aspects             = 
+| power               = 
+| primordial          = 
+| pantheon            = 
+| home                = 
+| formerhomes         = 
+| serves              = 
+| servedby            = 
+| minions             = 
+| died                = 
+| dominion            = 
+| formerdominion      = 
+| realm               = 
+| sphere              = 
+| portfolio           = 
+| domains             = 
+| spheres             = 
+| worshipers          = 
+| cleric alignments   = 
+| favored weapon      = 
+| holy days           = 
+| channel divinity    = 
+| race                = 
+| gender              = 
+| mortalhomes         = 
+| apotheosis          = 
+| alignment           = 
+| class               = 
+| power5e             = [[Deity]]
+| alignment5e         = 
+| symbol5e            = 
+| homeplane5e         = [[Outlands]]<br/> {{Former}} [[Far Realm]]
+| realm5e             = [[Caverns of Thought]]
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Mastery of the mind, [[psionics]]
+| domains5e           = 
+| worshipers5e        = [[Mind flayer]]s
+| channel divinity5e  = 
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="VGM5e-p80">{{Cite book/Volo's Guide to Monsters|80}}</ref><ref name="PaB.TSO-p197">{{Cite book/Phandelver and Below: The Shattered Obelisk|197}}</ref><ref name="SatO-p94">{{Cite book/Planescape: Adventures in the Multiverse/Sigil and the Outlands|94}}</ref>
+| power4e             = 
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = 
+| power3e             = [[Greater deity]]
+| alignment3e         = [[Lawful evil]]
+| symbol3e            = A brain with two tentacles<br/> A stylized illithid face rendered in jade green
+| homeplane3e         = [[Deep Caverns]]
+| realm3e             = [[Caverns of Thought]]
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Conquest, knowledge, magic, mental dominion, mental power
+| domains3e           = [[Charm domain|Charm]], [[Evil domain|Evil]], [[Knowledge domain|Knowledge]], [[Law domain|Law]], [[Magic domain|Magic]], [[Mentalism domain|Mentalism]], [[Mind domain|Mind]], [[Slime domain|Slime]], [[Tyranny domain|Tyranny]]
+| mantles3e           = {{Mantles|Evil|Law|Magic|Mental Power}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = [[Illithids]]
+| cleric alignments3e = {{alignment grid |off|off|off|on|off|off|on|on|off}}
+| favored weapon3e    = Tentacle ([[whip]] or an [[unarmed strike]] for non-illithids)
+| holy days3e         = 
+| class3e             = 
+| refs3e              = <ref name="F&P-p221">{{Cite book/Faiths and Pantheons|221}}</ref><ref name="EPH3e-p222">{{Cite book/Expanded Psionics Handbook|222}}</ref><ref name="PGF3e-p148-149">{{Cite book/Player's Guide to Faerûn|148-149}}</ref><ref name="LoM3e-p177">{{Cite book/Lords of Madness: The Book of Aberrations|177}}</ref><ref name="LOD">{{Cite book/Lords of Darkness|157-158}}</ref>
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Lawful evil]]
+| symbol2e            = Glowing brain with two tentacles
+| homeplane2e         = [[Concordant Opposition]]
+| realm2e             = [[Caverns of Thought]]
+| serves2e            = 
+| servedby2e          = [[Maanzecorian]] (dead)
+| portfolio2e         = Mental dominion, magic
+| spheres2e           = [[All sphere|All]], [[Astral sphere|Astral]], [[Charm sphere|Charm]], [[Divination sphere|Divination]], [[Law sphere|Law]], [[Numbers sphere|Numbers]], [[Sun sphere|Sun (reverse)]], [[Thought sphere|Thought]], [[Time sphere|Time]]
+| worshipers2e        = Illithids
+| cleric alignments2e = {{Alignment grid|off|off|off|off|off|off|on|off|off}}
+| holy days2e         = 
+| class2e             = {{Class table|edition=2e|[[Wizard]]|23}}
+| refs2e              = <ref name="Id2e-p40-41">{{Cite book/The Illithiad|38, 40-41}}</ref><ref name="OHG2e-p136">{{Cite book/On Hallowed Ground|136}}</ref><ref name="MMy2e-p68">{{Cite book/Monster Mythology|68}}</ref>
+| power1e             = 
+| alignment1e         = 
+| symbol1e            = 
+| homeplane1e         = 
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = 
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = 
+| animals             = 
+| plants              = 
+| monsters            = [[Cranium rat]]s<ref name="OHG2e-p136" />
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  = 
+| rules               = 
+}}'''Ilsensine''' (meaning "great brain" or "powerful brain" in [[Undercommon]])<ref name="Dr281-p48-49">{{Cite dragon/281/By Any Other Name|48-49}}</ref><ref name="DDGttUp83">{{Cite book/Drizzt Do'Urden's Guide to the Underdark|83}}</ref><ref group="note">Technically by the order of the prefix and suffix, Ilsen meaning brain and sine meaning great or powerful, this would be more literally read as "brain great" or "brain powerful", but is interpreted to align with the given title of "The Great Brain".</ref> was the patron deity and creator of the [[illithid]]s,<ref name="OHG2e-p136" /> and the '''Tentacled Lord'''  embodied their ideals of mental prowess, unlimited knowledge, and willful dominion over all other lifeforms.<ref name="LoM3e-p177" /> Although predominantly focused on mind flayers, the '''God-Brain''' was the patron of all beings that enslaved the thoughts of others.<ref name="EPH3e-p222" />
+
+Ilsensine was known as such by the sages and scholars of most races, but illithids identified them differently. Rather than a name, telepathically communicating mind flayers used a series of visual images and symbolic denotations to represent it.<ref name="MMy2e-p61">{{Cite book/Monster Mythology|61}}</ref> A psionic inflection used to mark [[Oryndoll]] as a holy place of Ilsensine was enough to cause fear in those minds the name was projected into.<ref name="DDGttUp74">{{Cite book/Drizzt Do'Urden's Guide to the Underdark|74}}</ref>
+
+{{quote|Knowledge is the only power.|Ilsensine<ref name="Finder-ch13">{{Cite book/Finder's Bane||13}}</ref>}}
+{{TOC limit|2}}
+==Description==
+A being of the mind and spirit, Ilsensine lacked any physical body, instead incarnating as a cohesive thought. Radiating a lambent, [[emerald]] hue<ref name="Id2e-p40-41" /><ref name="LoM3e-p71-72">{{Cite book/Lords of Madness: The Book of Aberrations|71-72}}</ref> this manifestation took the shape of a gigantic, pulsing mass of cerebral matter.<ref name="OHG2e-p136"/><ref name="LoM3e-p71-72" /> As was depicted by the mind flayers and as was actually the case, around the disembodied, brain-like form was a number of ganglionic tendrils radiating outwards in all directions, immeasurable in length and uncountable in number. Running along surfaces and through the earth, the God-brain's tentacles extended beyond sight and to all the nigh-infinite reaches of the multiverse.<ref name="MMy2e-p68" /><ref name="Id2e-p40-41" /><ref name="LoM3e-p71-72" /><ref name="LoM3e-p177" /><ref name="EPH3e-p222" /><ref name="PCS-SB2e-p32-33" /><ref name="LoM3e-p82">{{Cite book/Lords of Madness: The Book of Aberrations|82}}</ref>
+
+When incarnating in an [[avatar]], Ilsensine's floating form was much easier to comprehend, appearing as spectral {{SI|8|ft|long=yes}} across, green-glowing brain with only two tentacles.<ref name="MMy2e-p68" />
+
+===Manifestations===
+The religious authorities of Oryndoll held that a sparkling sheet of naturally formed [[calcite]] at the south edge of [[Orynoll]]'s [[Thrall Caverns]], known as the Flowstone Tapestry, was a manifestation of Ilsensine's thought processes. They believed that by studying the swirling patterns of the {{SI|50|ft|long=yes}} high {{SI|200|ft|long=yes}} long formation that profound revelations into the nature of divinity could be had. It was not known if this was true and non-illithids were rarely allowed to view the alleged majesty of Ilsensine, but many illithids spent countless hours analyzing it and while reports indicated it was not magical, it did radiate a natural hypnotism effect.<ref name="DDGttUp84">{{Cite book/Drizzt Do'Urden's Guide to the Underdark|84}}</ref>
+
+==Personality==
+[[File:Ilsensine.jpg|thumb|right|150px|''A symbol of Ilsensine, world domination of the mind flayers.'']]
+Alien and elusive,<ref name="CC-PC">{{Cite web/Class Chronicles: Psionic Classes}}</ref> Ilsensine's thoughts were a relentless tide of dark deceptions and unimaginable deviancy. According to [[elf|elven]] myths, before the creation of mortal beings, it surpassed all its divine peers in subversive intent, always striving to undo what others accomplish and defy established convention, and even loosing the mind flayers to act as a counter-creation after mortals came into existence.<ref name="Id2e-p40-41" /> It was a cold and calculating being<ref name="LoM3e-p177" /> of practically limitless knowledge, and its philosophies mirrored that of the illithids, holding information as the greatest commodity, darkness the greatest illumination, and the mind the greatest strength.<ref name="LoM3e-p71-72" />
+
+Another dominating facet of Ilsensine's unending thoughts was megalomania<ref name="PCS-SB2e-p32-33" /> for its motivation was the supremacy of the greatest race in its mind; its own illithid creations. Of all those that it knew of, it judged them the most worthy mortals, and sought for them to conquer all planes. Its thoughts unceasingly insisted that they were meant to rule all reality, enslaving, using and consuming the rampant "cattle", and enjoying the conquest as they did so.<ref name="Id2e-p40-41" /><ref name="PCS-SB2e-p32-33" /><ref name="EPH3e-p222" /><ref name="MMy2e-p68" /><ref name="LoM3e-p71-72" /> This was to be done through mental domination, superior knowledge, and the expression will and force of mind that was magic.<ref name="MMy2e-p68" />
+
+{{Fq
+| width  = 415px
+| source = [[Finder Wyvernspur]] explaining how he once bested Ilsensine.<ref name="Finder-ch13" />
+| text   = I gave Ilsensine a recursive song, a tuneful little ditty in which the last verse leads directly back into the first, forming a closed loop. Ilsensine couldn't get the tune out of his head and with his powerful brain, he couldn't stop thinking about it. Then, his mind power being what it is, it spread to his priests.
+}}
+
+Despite its many strengths, Ilsensine was not infallible. Aside from being supremely arrogant,<ref name="MMy2e-p68" /> Ilsensine was not impervious to emotion, and in fact, could be overtaken by it. Litanies of hatred constantly radiated from its mind, mercilessly hammering any nearby with its insane (by non-illithid standards) declaration of the illithid manifest destiny. The deeper one delved into its lair, the worse it became, growing from a whisper to a buzz until obscenities were being screamed directly into the unfortunate's mind.<ref name="PCS-SB2e-p32-33" /> More crucially than simply feeling emotions however, Ilsensine's feelings could drive it towards problematic behavior.<ref name="CC-PC" />
+
+Though Ilsensine had experienced fury before,<ref name="MMy2e-p59-60">{{Cite book/Monster Mythology|59-60}}</ref> a relatively recent incident raised its anger such that it qualified as a new and strange sensation. It had not only lost a shard of its consciousness, but had no idea how it happened. In its anger, Ilsensine shocked the mind flayers into looking for the artifact, and yet was either not fully aware or didn't care about how its anger affected its people.<ref name="CC-PC" /> Even leaving anger aside, despite mind flayers legends on its extraordinary deliberation,<ref name="MMy2e-p61" /> Ilsensine had allegedly made mistakes out of impatience in the past. In its discontent with its rate of information reception and craving for mental essences to feast upon it, Ilsensine may have accidentally created a force it was incapable of controlling.<ref name="UCF">{{Cite book/Uncaged: Faces of Sigil|106-107}}</ref>
+
+==Powers==
+Ilsensine was ultimately about one thing; power, specifically raw, psychic power. Such was the force of its psionic thought waves that everyone that approached its true form, psionically attuned or otherwise, could sense its energy, and only the mindless could ignore it. This created a condition within its realm known as brain burn, describing the constant sizzle that one could only hope to endure. Within its proximity, psionic powers became nulled and no secrets could stay hidden, nor dark thought or mental illness remain unrevealed, as all willpower and consciousness was inexorably ripped and drained by the god-brain.<ref name="PCS-SB2e-p32-33" />
+
+Illithids correctly believed Ilsensine's mental power to be omnipresent, depicting its tendrils as coiling across not only all space, but also all time.<ref name="MMy2e-p61" /> It was possessed of an eidetic memory<ref name="PCS-SB2e-p32-33" /> and an enormous, all-sensing mental capacity,<ref name="LoM3e-p71-72" /> its far-reaching nerves letting it gather information from across the worlds and planes simultaneously<ref name="Id2e-p40-41" /> and through doing so tap into all knowledge that existed.<ref name="LoM3e-p71-72" /> It was important to note however that Ilsensine was not omniscient (although it was possible they knew more than any other being),<ref name="Id2e-p40-41" /> for there were realms beyond even its reach, the happenings of which it could not perceive.<ref name="MCPAII">{{Cite book/Monstrous Compendium Planescape Appendix II|26-27}}</ref>
+
+A being of [[mental energy]], Ilsensine lacked a physical form, and as such physical strength, fortitude, or agility, although its avatar could move by levitating through the air. Compensating for this was its incredible magical might, granting its avatar the power to cast any spell the most powerful of [[wizard]]s could. In particular, it could cast ''[[mass charm]]'' and ''[[mass suggestion]]'' each thrice a day, project a ''[[prismatic spray]]'' once per day, and ''[[mind blast]]'' at will.<ref name="MMy2e-p68" />
+
+Simply attempting to bring harm to Ilsensine was a formidable task, as it was not only impervious to [[spell]]s of mental control but also those that would affect a physical body. Weaker magics could not affect it at all, weapons of a ''+2'' enchantment could harm it, and it was further immune to [[inflict wounds]] magic, [[energy drain]]ing, paralysis, and [[petrification]]. Its own tentacles could only be blocked through magical equipment, draining the minds of those struck (and its choice on whether they sapped intellect or intuition), restoring itself, and reducing those fully drained into mindless [[juju zombie]]s.<ref name="MMy2e-p68" />
+
+Ilsensine's [[zombie]]s were thoughtless puppets totally enslaved to the god-brain's will, controlled by a psionic link without which they would be nothing but lifeless husks. Though not particularly dangerous themselves, Ilsensine could channel all its psionic powers through them, albeit at the cost of instantly destroying the conduit. Aside from the touch of its tentacles, as well as poking too hard at its ganglia allegedly frying the brain, all those who remained subject to Ilsensine's brain-burn for long would become zombies, although mind-shielding magic could forestall this indefinitely for as long as it held.<ref name="PCS-SB2e-p32-33" />
+
+==Possessions==
+Ilsensine possessed at least one hidden cache of strange and alien magical artifacts deep within the [[Underdark]].<ref name="MMy2e-p59-60" />
+
+[[File:Tendril_Rings_of_Ilsensine.png|thumb|right|250px|''Tendril rings of Ilsensine.'']]
+Only illithid communities visited by Ilsensine's [[proxy]] [[Lugribossk]] or a manifestation of the god themselves could create the psionic [[bracer]]s known as ''[[Tendril rings of Ilsensine]]''. Instilled with the god-brain's power, the rings, worn on a [[ulitharid]]'s tentacles, could connect to Ilsensine once a week when rubbed together, leaking an infinitesimal fraction of Ilsensine's power into the surroundings. Those within several hundred feet became subject to Ilsensine's alien thoughts, leaving normal mortals stunned, horrifed, and incapable of concentration while producing an extremely soothing effect for illithids.<ref name="Dragon255p30">{{Cite dragon/255/The New Illithid Arsenal|30}}</ref>
+
+==Divine Realm==
+Though often thought of as omnipresent mental energy, Ilsensine was strangely based underneath the Outlands, the outer plane of [[true neutral]]ity, in its own vast, subterranean realm known as the [[Caverns of Thought]], or sometimes simply Ilsensine's realm.<ref name="MMy2e-p61" /><ref name="Id2e-p40-41" /><ref name="LoM3e-p71-72" /><ref name="PCS-17">{{Cite book/Planescape Campaign Setting/Sigil and Beyond|17}}</ref> Some speculated that it managed to persist here because of Ilsensine's great might, the moral relativism of its followers, or its position as a god of knowledge and thought outweighing its lawful evil leanings,<ref name="OHG2e-p136" /> but the real reason was because it conspired against all alignments. Even so, it was quite possible that the god-brain maintained realms on other planes.<ref name="PCS-17" />
+
+The Caverns of Thought were cold and heartless, consisting of black, slimy tunnels just cold enough to be uncomfortable without being chilly, the stone slick with fungus save for the spots speculated to be Ilsensine's nerves that warmly pulsed as if alive. There was no secret within its realm that Ilsensine did not know and no movement its nerves it did not sense. The twisting caverns crossed and recrossed each other, but like the inescapable Mazes of [[Sigil]] itself, all paths lead to one place, Ilsensine's court at the heart of the realm.<ref name="PCS-SB2e-p32-33" />
+
+[[File:Caverns of thought-2e.jpg|thumb|right|250px|Visitors of the Caverns of Thought suffering the mental effects of Ilsensine's presence.
+]]
+The only condition that really mattered within the Caverns of Thought was the characteristic brain burn caused by the mind-wracking drone of Ilsensine's loathsome thoughts. This wore down the minds of anyone wandering within the caverns, the rate at which they had to struggle against its influence increasing in speed the deeper in they went. The struggle was daily at less than a mile in, twice a day at less than five miles, and hourly less than ten miles in (this also being the point psionics ceased functioning). Past ten miles in it was every ten minutes and once in Ilsensine's court they would have to fight for every minute they stayed.<ref name="PCS-17" /><ref name="PCS-SB2e-p32-33" />
+
+Ilsensine's realm was primarily occupied by zombies, either the petitioners or planars who stayed too long. Only the very lucky left with their minds intact, and those few who left Ilsensine's court would be wise to question their wits, for none could stand before them for long without changing at least a little.<ref name="PCS-SB2e-p32-33" /> However, there were also mind flayer petitioners present, much the same in appearance and behavior as they were in life,<ref name="PGF3e-p148-149" /> and it was suspected secret portals to the Lower Planes were present as darker [[fiend]]s of the [[Lower Planes]] also took up residence in and around the area when visiting the Outlands.<ref name="PCS-17" /> Even so, the only structures present were bits of wall and bedding left by those that attempted to establish themselves within.<ref name="PCS-SB2e-p32-33" />
+
+In the [[Great Wheel Cosmology]], Ilsensine shared their realm with [[Gzemnid]], the lesser [[beholder]] god of [[illusion]] and obscurement. It being rumored that the Gas Giant interwove their realms so Ilsensine would keep both bound to the Outlands, and it was often unclear if they shared one realm or for whatever reason refrained from differentiating them. Their knotwork of tunnels often intertwined, further making it difficult to figure out where one was as psychic force drained the mind.<ref name="OHG2e-p136" /><ref name="PCS-17" /> In the [[World Tree cosmology]], the Caverns of Thoughts were part of the greater [[Deep Caverns]] where dwelt the [[Great Mother|Great Beholder Mother]] and [[Laogzed]].<ref name="PGF3e-p148-149" />
+
+==Activities==
+Through its multiplanar ganglia, Ilsensine gathered information from all across the multiverse simultaneously. It peered into the minds of the greatest sages across the cosmos and sapped the fading memories from the desiccating brains of deceased wizards, perceiving every thought and learning every secret before storing them all away for future use. It acquired magic and stared across space and time itself in its quest for omniscience.<ref name="LoM3e-p71-72" /><ref name="LoM3e-p177" /><ref name="Id2e-p40-41" /><ref name="MMy2e-p70">{{Cite book/Monster Mythology|70}}</ref>
+
+Mind flayers depicted the god-brain as ever-seeking to extend their influence,<ref name="MMy2e-p61" /> yet despite Ilsensine's constant quest for knowledge, this was not entirely accurate. In truth, Ilsensine was often too self-absorbed to actually act,<ref name="MMy2e-p68" /> preferring to watch and wait from its immobile form in the center of the Caverns of Thought<ref name="MCPAII" /> and spending much of its time in brooding fantasies of tyrannical ascendance.<ref name="MMy2e-p68" />
+
+When stirred from its dreams of domination,<ref name="Id2e-p89">{{Cite book/The Illithiad|89}}</ref> on extremely rare occasions, Ilsensine might send an avatar or proxy to the [[Material Plane]] to either its most reverent illithids or those that could benefit the most from a specific divine intervention. Illithids responded to such an honor by offering up the brains of great captured intellects in homage for it to absorb, which was sometimes rewarded by the god-brain granting those involved with a handful of spells of widely varying power for a few days.<ref name="Id2e-p40-41" /><ref name="MMy2e-p68" /> When illithid conclaves were held regarding major territorial aggressions and plots with decade-spanning schedules, Ilsensine might also have an avatar attend and observe the meeting.<ref name="MMy2e-p68" />
+
+However, Ilsensine was far more likely to send a proxy than an avatar, usually dispatching Lugribossk for direct intervention and particularly for assisting a notably bold illithid plan to subjugate.<ref name="Id2e-p40-41" /><ref name="Id2e-p89" /> Communications were reserved for the most prized servants and performed via telepathic contact. To those that displeased it however, Ilsensine was known to make its demands of illithid domination clear through a personal appearance via an avatar, consuming half the offending illithids to encourage the survivors.<ref name="MMy2e-p68" />
+
+==Relationships==
+{{Fq
+| width  = 300px
+| source = Ilsensine on the powers of the Realms<ref name="Finder-ch13" />
+| text   = ...[[Abeir-Toril]]. There are so many gods worshiped in that world it's hard to keep track of them all. We wouldn't be surprised to find they have a god there with dominion over the tableware and ale mugs.
+}}
+
+Ilsensine was not welcoming of others into its realm, preferring those it could control.<ref name="PCS-17" /> Between that and the brain burn there was little reason to visit the Caverns of Thought save for one. If one could gain the god-brain's favor, likely requiring the surrender of part of one's mind (such as memory and/or sanity) as payment, they could beseech its cosmic knowledge. With Ilsensine's constant, reality-spanning sensory input and perfect memory, it likely knew more of dark secrets than any being in the cosmos, such as the weakness of any given foe.<ref name="PCS-SB2e-p32-33" /> From here it was said, one could learn the answer behind almost any planar activity, assuming they could stay sane enough to ask the question,<ref name="PCS-17" /> and most that got as far as Ilsensine's court never came back in the first place.<ref name="PCS-SB2e-p32-33" />
+
+Ilsensine never rose exceptional mortal illithids to divinity, even as demigods, jealous as they were of their power and position,<ref name="MMy2e-p61" /> but they did have a servitor deity in [[Maanzecorian]], the mind flayer god of knowledge and philosophy.<ref name="MMy2e-p68" /> Much like Ilsensine in attitude, he refrained from granting apotheosis out of jealousy<ref name="MMy2e-p61" /> and believed illithids to be the natural rulers of all realms and dominators of the other races, who were fit only for food and servitude. Unlike his master however, the Philosoflayer believed that other brains could provide valuable knowledge before consumption and that such an activity was most pleasurable after prolonged waiting.<ref name="MMy2e-p68" />
+
+Maanzecorian's veneration could have never reached that of Ilsensine,<ref name="Id2e-p40-41" /> but he kept his priesthood small partially to avoid the appearance of trying to usurp Ilsensine's primacy.<ref name="MMy2e-p61" /> He was always deferential to the Tentacled Lord,<ref name="MMy2e-p68" /> but despite this position the god-brain was still his rival,<ref name="DG2e-p17">{{Cite book/Dead Gods|17-18}}</ref> and he did not always pass along everything he learned.<ref name="MMy2e-p68" /> He even kept a base called the [[Rotting Oracle]], located between the realms of Ilsensine and Gzemnid, as an espionage post, having his spies and proxies keep tabs on his superior.<ref name="DG2e-p17" />
+
+Besides Maanzecorian, Ilsensine had no allies save for the [[drow]] goddess of vengeance [[Kiaransalee]]. Foes included most of the rest of the [[drow pantheon]], including [[Eilistraee]], [[Lolth]], [[Selvetarm]] and [[Vhaeraun]], the [[elf]] god of revenge [[Shevarash]], and the [[deep gnome]] god [[Callarduran Smoothhands]].<ref name="DD">{{Cite book/Demihuman Deities|13, 23, 26, 33, 36, 129, 143}}</ref>
+===Dwarves===
+Ilsensine had a notably complex relationship with deities of [[dwarf|dwarven]] origin. They enjoyed an obscure, non-hostile relationship with Dumathoin,<ref name="F&P3e-p118">{{Cite book/Faiths and Pantheons|118}}</ref> dwarven god of underground exploration, but the exact relationship was unknown to other gods and their followers had no such accord.<ref name="DD-60">{{Cite book/Demihuman Deities|60}}</ref> Dumathoin's Deepshaft Hall, part of the overall [[Dwarvish Mountain]] shared by [[Dugmaren]] and [[Vergadain]], intertwined with Ilsensine's (although Ilsensine's was deeper) so it seemed likely Ilsensine had an interest in what Dumathoin did, but it was unclear what Dumathoin wanted in turn, if anything. Ilsensine even mind-wiped one of his petitioners and sent him back as a spy, but it was unclear if Dumathoin was unaware or indifferent.<ref name="PCS-17" /><ref name="OHG2e-p81">{{Cite book/On Hallowed Ground|81}}</ref><ref name="PCS-SB2e-p36-39">{{Cite book/Planescape Campaign Setting/Sigil and Beyond|36-39}}</ref>
+
+{{Fq
+| width  = 400px
+| source = An excerpt from ''[[Sigil]] and Beyond'', a sacred tome for aficionados of the [[Outer Planes]].<ref name="Id2e-p40-41" />
+| text   = The Derro tell a tale of their god, Diirinka, and his twin brother, Diinkarazan, when they were but newly formed children of the dwarven pantheon. Seeking to expand their own dominion, the two delved deeply into the earth and were soon rewarded; they unearthed a vast cavern streaming with raw energy and strewn with alien artifacts. As the young deities squabbled over the find, Ilsensine manifested in spectral terror, furious to find the young deities rooting through its realm. In a paroxysm of fear, Diirinka stabbed his brother in the back and fled, leaving Diinkarazan's mind to be horribly consumed by the tentacled one, while his body was thrown into the Abyss where yet it lies.
+}}
+The [[derro]] god [[Diirinka]], the most magical of dwarf deities, stole much of his magic from Ilsensine, having left his brother [[Diinkarazan]] to suffer for their looting. A furious Ilsensine placed a complex curse on the Diinkarazan, trapping him in a layer of the [[Abyss]] to be tormented by visions of what he feared most (including Ilsensine), a curse that left him insane save for once every fifty years or so. To ensure he would be permanently trapped, the Tentacled Lord created the artifact known as [[Ilsensine's ring]], and save for a greater god willing it, only the ring's destruction could grant Diinkarazan freedom.<ref name="MMy2e-p59-60" /><ref name="MMy2e-p65">{{Cite book/Monster Mythology|65}}</ref><ref name="DOTOM">{{Cite book/Dawn of the Overmind|56-57}}</ref>
+
+There was a fierce enmity between Ilsensine and [[Deep Duerra]], the [[duergar]] god of psionics, for she had stolen several secrets of the Invisible Art and robbed it of psionic energy many times.<ref name="F&P3e-p117">{{Cite book/Faiths and Pantheons|117}}</ref><ref name="RoF">{{Cite book/Races of Faerûn|16}}</ref><ref name="DD-54">{{Cite book/Demihuman Deities|54}}</ref> Besides hating Duerra, Ilsensine had also long sought vengeance against her superior [[Laduguer]] for some ancient slight.<ref name="DD-71">{{Cite book/Demihuman Deities|71}}</ref>
+
+===Agents===
+{{Fq
+| width  = 400px
+| source = The writings of [[Bilfar]] the [[Diviner]].<ref name="PCS2e-MS-p9" />
+| text   = Where they come from I cannot tell - there are too many images of too many places - but in all of these there is a common thread. It is a pulsing green vein that is the cord to a master who steals secrets from others. [It] is the eyes and ears of its lord, gathering in all it sees and hears to please that ravenous power. A thousand eyes gather a thousand scenes all at once.
+}}
+
+Aside from other deities, Ilsensine had various planar agents, not least of which were the [[eater of knowledge|eaters of knowledge]], allegedly created by implanting some of the god-brain's own cerebral matter into a zombie petitioner. Caring little for their individual fates, eaters were sent to record places Ilsensine couldn't sense by devouring native minds, and otherwise acted as heralds to bear its words, instruments of its vengeance, payments for services performed by another power, or aids to its illithid followers (though even they were wary of the eaters).<ref name="MCPAII" />
+
+Ilsensine also dispatched cranium rats as spies (quickly killing anyone who discovered this purpose) as eyes and ears for places beyond its influence,<ref name="Id2e-p40-41" /><ref name="PCS2e-MS-p9">{{Cite book/Planescape Campaign Setting/Monstrous Supplement|9}}</ref> and possibly used them for long-distance communication.<ref name="LoM3e-p71-72" /> This could be done in the form of individual cranium rats or as hive minds, but while the latter were more capable, gathering too many in a single area risked them gaining the ability to break free of Ilsensine's control. A notable example of this phenomenon was "[[The Us]]" a cranium rat hive mind based in Sigil that broke free of Ilsensine's control so hated the god-brain that it acted to bring it pain and death.<ref name="UCF" />
+
+Aside from these servants, Ilsensine generally used [[thought slayer]]s as heralds. Strangely, its planar allies consisted of [[demon]]s, specifically the psionic [[cerebrilith]]s, logical [[marilith]]s, and seductive [[succubi]].<ref name="EPH3e-p222" />
+
+==Worshipers==
+[[File:Symbol_of_Ilsensine.jpg|thumb|left|250px|''Symbol of Ilsensine.'']]
+Many sages correctly assumed that Ilsensine was the most important and powerful of the illithid gods due to representing the broadest concept. Ilsensine represented not just mental mastery, but psionic unity between the self and universal knowledge. Exactly what it meant to attain this state was a subject of interpretation between [[elder brain]]s and each had their own ideas on how to reach it, with some illithids and elder brains who devoted themselves to Ilsensine pursuing ways to dominate and even supplant knowledge [[god]]s on their quest to fully incorporate themselves into the universal consciousness.<ref name="VGM5e-p80" />
+
+Unlike in many Underdark theocracies, the Ilsensine clergy was simply one faction among many within their kind, normally forming into the [[Venerator Creed]].<ref name="DDGttUp22">{{Cite book/Drizzt Do'Urden's Guide to the Underdark|22}}</ref> This priesthood was small and select,<ref name="Id2e-p40-41" /> for while normal illithids and elder brains alike could devote themselves to Ilsensine,<ref name="VGM5e-p80" /> few chose to do so and serve as its clerics. Every city had a handful of clerics,<ref name="LOD" /> but despite the efforts of the Venerators to spread their membership, some communities simply lacked mind flayers able to channel a spell from the god-brain.<ref name="Id2e-p53">{{Cite book/The Illithiad|53}}</ref> The reason for this reluctance despite Ilsensine's complete dominion over the race stemmed from the nature of its creations.<ref name="Id2e-p40-41" />
+
+Mind flayers did not worship their deity in the same sense that humans did, and were in fact incapable of true worship due to their innate and extreme egotism. Mind flayers envied its seemingly limitless knowledge and revered the god-brain for its all-sensing mental capacity,<ref name="LoM3e-p71-72" /> but they revered them as the manifestation of an idealized psionic and philosophical state of mind, the physical motions performed during occasional meditation on this ideal often being misinterpreted as proper worship.<ref name="VGM5e-p80" /> To the mind flayers, Ilsensine was the ultimate culmination of an elder brain's aspirations,<ref name="LoM3e-p71-72" /> what it (and thus any mind flayer who successfully joined in mental and spiritual union with it)<ref name="Id2e-p40-41" /> could become after innumerable eons of growth.<ref name="LoM3e-p71-72" />
+
+Another reason for Ilsensine's lack of priesthood was the nature of his being. Ilsensine's omnipresent mental power was the source of their [[telepathy]], [[mind blast]]s, and acute awareness, and the power of the illithids likewise flowed back to him and further increased his strength.<ref name="MMy2e-p61" /><ref group="note"> It is unclear if this means that Ilsensine is continually empowering the mind flayers, or simply a statement that as their creator he is responsible for them having their abilities</ref> Thus, the energies of Ilsensine were everywhere, requiring no specific channeling or focus through spellcasters.<ref name="MMy2e-p61" /> Most mind flayers seemed more interested in developing their personal psionics than channeling another's power anyway, even that of their own god, and had a lower maximum capacity for attaining divine strength.<ref name="Id2e-p40-41" />
+
+[[File:Mindprayer.jpg|thumb|right|250px|A mind flayer bowing before a symbolic idol of Ilsensine.]]
+Becoming a cleric of Ilsensine also came with several disadvantages for an illithid, the most immediate of which was an extreme reduction in magical resistance performed as a simple act of will by Ilsensine itself. Without doing so, a mind flayer's magical resistance would prevent it from effectively channeling its divine power. The primary disincentive to mind flayers however was that in most communities, pledging one's self to Ilsensine was to forfeit the right to join the elder brain after death.<ref name="Id2e-p40-41" /> Mind flayers lacked a mythical view of the afterlife and gods of the [[outer planes]], often disbelieved in the idea they had souls that went there after death,<ref name="VGM5e-p80" /> and even when aware would rather merge with the elder brain than serve Ilsensine after death.<ref name="EPH3e-p222" /> Illithids already denied the possibility of communion usually worshiped Ilsensine in hopes their souls would be taken in.<ref name="Id2e-p56">{{Cite book/The Illithiad|56}}</ref>
+
+These drawbacks in mind, there were mind flayers that did willingly dedicate themselves to Ilsensine. The primary advantage Ilsensine offered to mind flayer devotees was the ability to grant clerical spells, allowing them to advance their own psionics while simultaneously walking another path of power.<ref name="Id2e-p40-41" /> Mind flayer clerics provided healing their communities and acted as medics for their hunting parties. They often served as thrallmasters, capturing unusual slaves on the surface, for they could not only control the living with psionics but the [[undead]] through their spells.<ref name="EPH3e-p222" /><ref group="note"> Sourcebooks are inconsistent on whether they possess the [[turn undead]] ability most clerics possess.</ref>
+
+The secondary advantage Ilsensine offered was information. As any sane illithid understood, knowledge was power, and if one could gain its favor the answers to many difficult questions could be obtained.<ref name="Id2e-p40-41" /> Mind flayers might entreat or supplicate Ilsensine,<ref name="LoM3e-p71-72" /> but their lacking capacity for proper worship meant they only did so as the mood struck them, wandering into its temple to make boon requests or sacrifices.<ref name="LoM3e-p82" /> Through their worship, mind flayer priests enlisted its aid to know things hidden even to an elder brain, sometimes emulating it through the use of cranium rats as spies and long-range messengers.<ref name="LoM3e-p71-72" />
+
+===Dogma===
+The teachings of the god-brain were that the spawn of Ilsensine were destined to conquer the surface and establish dominion over all other races, the source of their motivation for collective dominance being the powers of their deity.<ref name="DDGttUp78">{{Cite book/Drizzt Do'Urden's Guide to the Underdark|78}}</ref><ref name="FRCS2E">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|64}}</ref> Priests of Ilsensine concerned themselves with exploration and knowledge, specifically exploiting knowledge gained through exploration.<ref name="Id2e-p40-41" /> They also were known to match wits with powerful [[gith]] psions.<ref name="EPH3e-p222" /> 
+
+Those of the Venerator Creed made a point to expand for the "Glory of Ilsensine" and were the direct representatives of the god-brain's interests in illithid society.<ref name="Id2e-p53" /> They worked closely with the [[Abysmal Creed]], who in a sense functioned as missionaries to non-illithids, ranging far to reaveal the horror of the Tentacled Lord to unsubjugated races.<ref name="DDGttUp81">{{Cite book/Drizzt Do'Urden's Guide to the Underdark|81}}</ref>
+
+Though a distinction was made between the clerics and acolytes of an illithid clergy, the ability to cast priestly spells was not a requirement to be considered a cleric; it was entirely possible for both types to merely be normal mind flayers versed in Ilsensine's lore.<ref name="LoM3e-p82" /><ref name="Id2e-p53" /> Though not abhorred as [[arcane]] casters were,<ref group="note"> An example dungeon in ''[[Lords of Madness]]'' has two illithid [[sorcerer]]s acting as non-magical priests, but it is not clear as to why this is allowed, simply that they are not questioned in their activities by sanction of the elder brain.</ref> priests usually did not mix with the rest of society.<ref name="LoM3e-p71-72" />
+
+Priests of Ilsensine rarely left their temples save for the performance of important ceremonies.<ref name="LoM3e-p71-72" />  Clerical illithids might conduct processions and pick thralls out for obscure purposes, and sometimes silently moved through the community on unclear errands.<ref name="LoM3e-p82" /> They lived monastically, pursuing knowledge for its own sake and engaging in psionic enhancement experiments.<ref name="LoM3e-p71-72" />
+
+===Rituals===
+In addition to offering the minds of sages, illithids honored by a visit from Ilsensine customarily dedicated a few in their community to its priesthood.<ref name="Id2e-p40-41" /> So few were its clerics that novitiates received one-on-one apprenticeships with seniors<ref name="EPH3e-p222" /> (though cults formed under these cirumstances tended to die with the originally chosen mind flayers),<ref name="Id2e-p40-41" /><ref name="DDGttUp83"/> the would-be cleric treated as little better than a thrall until he proved himself by casting a divine spell through imitation of his teacher.<ref name="EPH3e-p222" /> 
+
+Illithid custom saw mind flayers pray to Ilsensine upon consuming an especially delicious brain, the leftover ichor used to trace their symbol on a nearby surface. Prayers to the god-brain were performed telepathically, tentacles held perfectly still as a matter of respect.<ref name="EPH3e-p222" />
+
+=== Temples ===
+''Main article: [[:Category:Temples to Ilsensine|Temples to Ilsensine]]''
+
+Communities with a Venerator presence possessed temples dedicated to Ilsensine where the faithful could offer reverence,<ref name="Id2e-p53" /> generally taking the form of small, non-descript shrines in out-of-the-way corners of the community.<ref name="EPH3e-p222" /> In the cases of larger houses of worship, chambers might be attached to the central temple for the devoted to reside in.<ref name="LoM3e-p82" />
+
+Almost under [[Mistfall house]] was a forgotten temple that might have been devoted to Ilsensine.<ref name="VGttD-p125">{{Cite book/Volo's Guide to the Dalelands|125}}</ref>
+
+===Notable Churches===
+* [[Unworthy of Ilsensine]]: A 14{{th}} century [[DR]] cult located under the [[Giant's Run Mountains]] in the [[Dragon Coast]], run by the mind flayer [[Qooql]].<ref name="CoR-p.90">{{Cite book/Champions of Ruin|90}}</ref>
+
+* [[Oryndoll]]: Was a holy site of Ilsensine, due to the [[Encephalithid]] being the deity's [[avatar]] twice. Ilsensine's clergy was powerful in city, and controlled many [[Shrines of the Great Brain|shrines]] as well as a full [[Grotto of Sacred Thoughts|temple]] to the deity.<ref name="DDGttUp83"/>
+
+===Others===
+Though Ilsensine was the god of mind flayers, it promised power to all who followed them, so sometimes non-illithids, especially evil psions, formed cults in service to it.<ref name="EPH3e-p222" />
+
+==History==
+{{Fq
+| width  = 400px
+| source = Asmus Anagoge of the Arcane Order.<ref name="Id2e-p40-41" />
+| text   = Sages cannot deny the existence of a being named Ilsensine residing in the Outer Planes, as described more fully later in this tome. Reliance upon the Ilsensine creation myth as the utter truth relieves seekers from odious searches, translations, and the cross-referencing of abstruse concepts among dusty texts of questionable value. However, an easy route to knowledge does not always guarantee accuracy.
+}}
+
+Ilsensine was a mystery of the cosmos, their true origin nigh-impossible to discern.<ref name="Id2e-p40-41" /> This origin was made even more confusing given the origins of the mind flayer race in the future prior to their grand act of time travel<ref name="LoM3e-p71-72" /> and the conception that the god-brain's omnipresence extended throughout time.<ref name="MMy2e-p61" />
+
+In any case, Ilsensine was held by the illithids as the Creator God,<ref name="MMy2e-p61" /> and allegedly existed alongside other deities before they created mortals.<ref name="Id2e-p40-41" /> Illithids held that while other divine beings blundered in the Material Plane trying to stake claims with proto-creations, Ilsensine patiently perfected its own, the mind flayers being the result of an aeons-long series of experiments to craft the perfect species.<ref name="MMy2e-p61" />
+
+===Arrival===
+Ilsensine made itself known in the Realms immediately following the [[duergar]] uprising in [[Oryndoll]] against the illithids in approximately {{Yearlink|-4000}}. The established governing bodies were in disarray in the aftermath of the rebellion and the city nearly collapsed from the resulting chaos, saved only by the sudden appearance of an avatar of Ilsensine, believed to have been summoned by its elder brain.<ref name="DDGttUp75">{{Cite book/Drizzt Do'Urden's Guide to the Underdark|75}}</ref><ref name="FRCSp213">{{cite book/Forgotten Realms Campaign Setting|213}}</ref>
+
+Following that appearance, Oryndoll diverge from standard illithid cities in many ways,<ref name="DDGttUp75" /> developing many psionic innovations along with a highly religious culture.<ref name="FRCSp213" /> Ilsensine's manifestation apparently altered the tadpole pool so that the spawn rate of ulitharids was greatly increased.<ref name="DDGttUp75" /> Furthermore, not only did the Venerator Creed emerge (as was typical for a mind flayer community after Ilsensine's visits), but the Tentacled Lord permitted Venerators to join the elder brain upon death, a practice forbidden in other communities. Venerators of Oryndoll taught that joining the elder brain guaranteed an afterlife as part of Ilsensine itself, and as a result of this acceptance the Venerators of Oryndoll persisted for centuries without dying out.<ref name="DDGttUp75" /><ref name="DDGttUp83"/>
+
+===Recent History===
+Sometime in the mid-14{{th}} century, Maanzecorian died before the [[demon lord]] [[Orcus]], at the time a god of undeath known as Tenebrous, making Ilsensine the unquestioned supreme god of the mind flayers. <ref name="DG2e-p124">{{Cite book/Dead Gods|124}}</ref> 
+
+In [[1358 DR]], during the [[Time of Troubles]], Ilsensine manifested in Oryndoll again, adopting as its avatar the city's elder brain and, as a consequence of its manifesation, stimulating the minds of the resident illithids.<ref name="DDGttUp75" /> This further increased the influence of the Venerators,<ref name="DDGttUp83"/> making [[Cephalossk]], the [[Creed (illithid)|Creedmaster]] of the Venerators, the most politically powerful (ignoring his monumental clerical powers<ref name="DDGttUp83"/> that exceeded usual illithid capacities)<ref name="Id2e-p40-41" /> inividual, save the elder brain itself. ''Tendril Rings'' were given to the elder brain and all Creedmasters in power at the time of Ilsensine's appearance, but those of the high priest Cephalossk had various additional, secret powers even he did not fully grasp.<ref name="DDGttUp83"/><ref name="DDGttUp78" />
+
+The mental stimulation also and saw the [[Loretaker Creed]] renew their assaults on surface lore holdings and caused a burst of creative energy that resulted in the creation of new technologies, new psionic items, and more psionic disciplines from the [[Creative Creed]].<ref name="DDGttUp75" /> Shortly after, a band of adventurious illithids went on a pilgrimage to the Caverns of Thought, and while their success was unknown and uncommented on by the pilgrims themselves, they returned with the belief in [[Thoon]], which was deemed heretical by the orthodox clergy and saw them exiled.<ref name="MMV-p125">{{Cite book/Monster Manual V|125}}</ref>
+
+The unexpected loss of a shard of its consciousness had sent Ilsensine into a rage from which it could not calm until the fragment was restored. It dedicated all its energies into finding it and knowingly or not had compelled the council of Oryndoll to find it.<ref name="CC-PC" /> It was speculated that Ilsensine was angry with Oryndoll, as astral travelers reported seeing strange explosions in [[astral plane|astral space]] near [[portal]]s from the City of Loretakers, and psychics claimed to have heard strange alien screams and had visions of an enormous, betentacled head quaking in anger.<ref name="CC">{{Cite web/Class Chronicles: Psionic Races and Classes (Ghostwise Halflings, Githyanki, Mind Flayers, Yuan-ti, and Psionic Bestiary)}}</ref> The artifact had somehow ened up buried somewhere in the sandy caves of the [[Sembia]]n coast, and many groups of mercenaries were hired to obtain it (without being told what it was).<ref name="CC-PAtL">{{Cite web/Class Chronicles: Psionics Across the Land}}</ref>
+
+==Trivia==
+A few of the more esoteric thinkers among the [[Awaiter Creed]], specifically those located in the small illithid settlement of [[Pen'serre]], wondered if Ilsensine could meet a similar fate to Maanzecorian and of the potential repercussions of the death of the only other illithid god.<ref name="UdD-p3">{{Cite web enhancement/Underdark Dungeons|3}}</ref>
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+:;Novels
+::''[[Finder's Bane]]''
+:;Card Games
+::''[[Blood Wars]]''
+
+===Further Reading===
+* {{Cite book/Tome of Magic 3.5}}
+* {{Cite dragon/205/The Plane Truth Part III: The Transformation}}
+* {{Cite dragon/215/The Game Wizards}}
+* {{Cite dragon/218/The Game Wizards}}
+* {{Cite dragon/241/Legacies of the Suel Imperium}}
+* {{Cite web/The Avatar Trilogy: The Gods Walk Toril}}
+
+===Gallery===
+<gallery columns="2" widths="200">
+IlsensineBW.jpg|Ilsensine depicted in a ''[[Blood Wars]]'' card.
+</gallery>
+
+===References===
+{{Refs}}
+
+===Connections===
+{{monster deities}}
+{{Deity list}}
+[[Category:Greater deities]]
+[[Category:Monster deities]]
+[[Category:Illithid pantheon]]
+[[Category:Lawful evil deities]]
+[[Category:Evil domain deities]]
+[[Category:Knowledge domain deities]]
+[[Category:Law domain deities]]
+[[Category:Mentalism domain deities]]
+[[Category:Mind domain deities]]
+[[Category:Psionics domain deities]]
+[[Category:Slime domain deities]]
+[[Category:Tyranny domain deities]]
+[[Category:Inhabitants of the Dismal Caverns]]
+[[Category:Inhabitants of the Caverns of Thought]]
+[[Category:Inhabitants of the Outlands]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]

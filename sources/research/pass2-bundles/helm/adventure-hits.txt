@@ -1,0 +1,9 @@
+sources/adventure-wdh.json:1403: "Any non-evil character can join the Order of the Gauntlet in Waterdeep. Clerics, monks, and paladins are especially welcome, particularly if they worship Helm, Torm, or Tyr.",
+sources/adventure-wdh.json:3942: "The Order of the Gauntlet looks for members who seek to fight evil in all its forms. Adventurers who worship Helm, Torm, or Tyr are especially sought after.",
+sources/adventure-wdh.json:30938: "Helm",
+sources/adventure-wdh.json:30939: "Helm's Hall",
+sources/adventure-wdh.json:31536: "At night, this holiday becomes solemn and serious, as many Waterdavians offer prayers in thanks for the lives they have under their gods. The Griffon Cavalry sets up an immense bonfire at the peak of Mount Waterdeep, honoring the fallen and the risen gods Myrkul, Cyric, Kelemvor, Mystra, Helm, and Ao who appeared here. In thanks for their defense during Myrkul's invasion and the resulting fires that raged through the Southern, Dock, and Castle Wards, Gods' Day is also a semiofficial \"Be Kind to the Guard and Watch Day\" in Waterdeep. Feel free to participate by handing out small gifts and kind words, but be aware that any gift of greater value than a few nibs might be interpreted as a bribe."
+sources/adventure-wdmm.json:2861: "{@b Helm}. A green copper helm with a protective visor lies on the floor, draped in cobwebs.",
+sources/adventure-wdmm.json:61572: "name": "20. Hidden Helm",
+sources/adventure-wdmm.json:61582: "{@b Spelljamming Helm}. In the middle of the room is a gilded wooden throne with a cushioned seat and backrest covered in black velvet sewn with silver stars. This high-backed, 200-pound chair is the {@item helm of the Scavenger|WDMM}, which was stolen by Halaster from the ship of the same name (see {@area level 19, area 13|9a2|x}).",
+sources/adventure-wdmm.json:61588: "name": "Helm of the Scavenger",

@@ -1,0 +1,252 @@
+WIKI PAGE: Malar
+
+{{Deity
+| image               = Malar p44.jpg
+| caption             = Malar the Beastlord.
+| name                = Malar
+| title               = The Beastlord<ref name="HoF-p114">{{Cite book/Forgotten Realms: Heroes of Faerûn|114}}</ref><ref name="SCAG5e-p21,33" /><br /> The Great Beast<ref name="FA3e-p113">{{Cite book/Faiths and Pantheons|113}}</ref><br /> The Beast of Beasts<ref name="FA3e-p113" /><br /> The Bloodgod<ref name="HoF-p114"/><ref name="FA3e-p113" /><br /> The Black-Blooded One<ref name="SCAG5e-p21,33" /><br /> The Wild Hunter<ref name="HoF-p114"/><ref name="F&A"/><br /> Master of the Hunt<ref name="EIotE">{{Cite book/Evermeet: Island of Elves}}</ref>
+| adjective           = Malarite<ref name="F&A-p107">{{Cite book/Faiths & Avatars|107}}</ref><br/>Malarian<ref name="VR-p26">{{Cite book/The Vilhon Reach/Player's Guide|26}}</ref>
+| aspects             = The Stalker ([[Vilhon Reach]])<ref name="F&A"/><br/>Render ([[Endless Ice Sea|Endless Ice]], [[Great Glacier]])<ref name="F&A"/><br/> [[Blue Bear]] ([[Uthgardt]])<ref name="F&A"/><br/>[[Herne]] ([[orc]]s of the [[High Forest]])<ref name="F&A"/><br/>The Great One ([[worg]]s)<ref name="edverse">{{Cite web/theedverse/2022-08-28 - Worg Religion}}</ref>
+| status              = 
+| pantheon            = [[Faerûnian pantheon]]<br/>[[Gods of Fury]]
+| race                = 
+| gender              = Masculine
+| mortalhomes         = 
+| apotheosis          = 
+| alignment           = 
+| class               = 
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Carceri]] ([[Colothys]])
+| realm5eR            = 
+| serves5eR           = [[Talos]]<ref name="HoF-p123"/>
+| servedby5eR         = 
+| portfolio5eR        = Hunt
+| domains5eR          = 
+| worshipers5eR       = [[Barbarian]]s, hunters, [[lycanthrope]]s
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,114">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,114}}</ref>
+| power5e             = Deity 
+| alignment5e         = [[Chaotic evil]]
+| symbol5e            = Clawed paw
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Hunt
+| domains5e           = [[Nature domain|Nature]]
+| worshipers5e        = [[Hunter|hunters]], [[Lycanthropy|lycanthropes]], [[barbarian]]s, [[druid]]s, [[ranger]]s
+
+| channel divinity5e  = ''[[Charm animals and plants]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG5e-p21,33">{{Cite book/Sword Coast Adventurer's Guide|21, 33}}</ref><ref name="PHB5e-p61-62,294">{{Cite book/Player's Handbook 5th edition|61-62, 294}}</ref>
+| power4e             = [[Exarch]]
+| alignment4e         = [[Evil]]
+| symbol4e            = 
+| dominion4e          = [[Deep Wilds|The Deep Wilds]]
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = Beasts
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCG4e-p81">{{Cite book/Forgotten Realms Campaign Guide|81}}</ref>
+| power3e             = [[Lesser deity]]
+| alignment3e         = [[Chaotic evil]]
+| symbol3e            = Bestial claw with brown fur and curving bloody talons
+| homeplane3e         = [[Fury's Heart]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Bloodlust <br /> Evil [[lycanthropes]] <br /> Hunters <br /> Marauding beasts and monsters <br /> Stalking
+| domains3e           = [[Animal domain|Animal]], [[Bestial domain|Bestial]], [[Chaos domain|Chaos]], [[Evil domain|Evil]], [[Gluttony domain|Gluttony]], [[Hunt domain|Hunt]], [[Moon domain|Moon]], [[Strength domain|Strength]], [[Wrath domain|Wrath]]
+| mantles3e           = {{Mantles|Chaos|Evil|Natural World|Physical Power}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = [[Druids]], evil lycanthropes, hunters, [[rangers]], and sentient carnivores
+| cleric alignments3e = 
+| favored weapon3e    = A beast's claw ([[claw bracer]])
+| holy days3e         = 
+| class3e             = {{class table|edition=3e|[[Ranger]]|20|[[Druid]]|10|[[Barbarian]]|10}}
+| refs3e              = <ref name="FRCS-235">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|235}}</ref><ref name="PGF189">{{Cite book/Player's Guide to Faerûn|189}}</ref><ref name="FP3e-p43">{{Cite book/Faiths and Pantheons|43}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref><ref name="D342-89">{{Cite dragon/342/The Wild Hunt|89}}</ref>
+| power2e             = [[Lesser deity]]
+| alignment2e         = [[Chaotic evil]]
+| symbol2e            = Bestial claw with brown fur, curving talons tipped with fresh red blood
+| homeplane2e         = [[Carceri]]/[[Colothys]]
+| realm2e             = [[Land of the Hunt|The Land of the Hunt]]
+| serves2e            = [[Talos]]
+| servedby2e          = 
+| portfolio2e         = Hunters, marauding beasts and monsters, blood, bloodlust, evil [[lycanthropes]], stalking
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = {{class table|edition=2e|[[Ranger]]|30|[[Druid]]|17}}
+| refs2e              = <ref name="F&A">{{Cite book/Faiths & Avatars|105}}</ref>
+| power1e             = 
+| alignment1e         = 
+| symbol1e            = 
+| homeplane1e         = 
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = 
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = 
+| animals             = 
+| plants              = 
+| monsters            = [[Displacer beast]]s<br/>[[owlbear]]s<br/>[[peryton]]s
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  = <ref name="HoF-p114"/>
+| rules               = 
+| church              = yes
+}}
+'''Malar''' ({{Pronounce|MAHL|arr|refs=<ref>{{Cite book/Forgotten Realms Campaign Setting 3rd edition|245}}</ref><ref name="FP3e-p43" />}} {{Pronounce|MAY|larr|alt=yes|audio=Malar.ogg|refs=<ref name="FRCS1e-CotR-p12">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|12}}</ref>}}) was the [[lesser deity]] of hunting, stalking, bloodlust, and bestial savagery in the [[Faerûnian pantheon]].<ref name="F&A" /> '''The Beastlord''' was the epitome of the dark, bloody side of nature.<ref name="SCAG5e-p21,33" /> In his more favorable [[aspect]]s, he was worshiped by those who identified with the wild nature, as well as the grace and amorality of predators<ref name="F&A" /> or as the hunger and hunting instinct of beasts.<ref name="SCAG5e-p126">{{Cite book/Sword Coast Adventurer's Guide|126}}</ref> 
+
+He was a member of the [[Gods of Fury]] led by [[Talos]].<ref name="HoF-p123">{{Cite book/Forgotten Realms: Heroes of Faerûn|123}}</ref><ref name="F&A" /> Following the [[Spellplague]], he was briefly believed to be dead<ref name="TRoS-ch2">{{Cite digital book/The Rose of Sarifal/Kindle||2}}</ref> and then served as an [[exarch]] of [[Silvanus]]<ref name="FRCG-p63">{{Cite book/Forgotten Realms Campaign Guide|63}}</ref> until after the [[Second Sundering]], when he was once again a fully fledged deity and one of the gods of the [[First Circle]].<ref name="SCAG5e-p126" />  
+
+{{Quote
+|It is ever the way of nature that the strongest should rule.
+|Malar explaining his philosophy<ref name="EIotE">{{Cite book/Evermeet: Island of Elves}}</ref>
+}}
+
+==Description==
+Malar had two favored forms when he was prowling the Realms: the Beast and the Master of the Hunt. As the Beast, he was a {{SI|12|ft|long=yes}} long, man-high feline creature, sleek and supple in his movements. His ebony fur was matted with blood, which dripped endlessly from his talons and fangs, and he could not speak in this form. The Master of the Hunt meanwhile was humanoid and as tall as the Beast was long, though it too had black fur. Above his red eyes was a large rack of antlers able to melt away and reappear at his will, while below them was a whuffling, flesh-draped hole rather than a nose and mouth. Though able to speak in this form, he only did so in a low, growling undertone or vicious snarl.<ref name="F&A" /> In some manifestations, he was known to rapidly shift between the forms of many massive predatory beasts, including [[panther]]s, [[bear]]s, [[ape]]s, and [[alligator]]s.<ref name="TRoS-ch10">{{Cite digital book/The Rose of Sarifal/Kindle||10}}</ref>
+
+==Relationships==
+Malar was one of the [[Deities of Fury]], led by [[Talos]]. He held a long-standing alliance with [[Lolth]] against the [[Seldarine]], and is allied with other dark deities like [[Bane]] and [[Loviatar]]. He fought against deities of peace, civilization, and nature, but held particular hate for [[Nobanion]] for defeating him in a battle during the [[Time of Troubles]].
+{{Fq
+| width  = 250px
+| source = Malar refusing to back down.<ref name="EIotE"/>
+| text   = I hunt wherever I want and ''whomever'' I want.
+}}
+
+After the events of the Spellplague, Malar became subject to Silvanus' rule as a resident of the [[Deep Wilds]]. Despite this, Silvanus did not rein in Malar.<ref name="AtRDT-p4">{{cite web |url=http://secretsofthearchmages.net/Threads/Wotc/2015/ForgottenRealms/1514971.htm|title=The one and only "Ask the Realms authors/designers thread" 4|accessmonthday=January 29th|accessyear=2017|author=[[Richard Baker]]|date=August 12th, 2008}}</ref>
+
+==Worshipers==
+[[File:Malar symbol.jpg|thumb|left|Holy symbol of Malar.]]
+Malar was a minor deity not unique to [[Toril]], a divine scavenger who foraged for worshipers among perhaps a hundred predatory races across an equally vast number of worlds.<ref name="EIotE"/> Malarites were generally frowned upon by civilization, as they tended to wreak havoc in their wake.<ref name="FaA-106"/><ref name="FP3e-p43" /> One exception where the worship of Malar was allowed was in [[Cormyr]].<ref name="CaN-p74"/><ref name="FP3e-p43" /> Malar was never widely worshipped. Like other Gods of Fury, he was more often invoked to ward off his wrath—typically manifested through wild beasts—than to seek his favor. Nonetheless, some groups did devote themselves to him, forming roaming bands that terrorized settled regions and poached whatever they required.<ref name="FRA-2ed-p26">{{Cite book/Forgotten Realms Adventures|26}}</ref> Despite being revered among some [[druid]]s as a primal deity of predators,<ref name="FP3e-p43" /><ref name="SCAG5e-p126" /> his faithful were historically hostile to druids owing to their hatred for the Balance that druids sought to maintain between nature and civilization.<ref name="F&A" /> Priests of Malar were known to actively hunt druids, and in turn, [[druid circle]]s and factions like the [[Harpers]] made efforts to locate and dismantle Malarite strongholds whenever possible.<ref name="FRA-2ed-p26" />
+
+The [[church of Malar|"church" of Malar]] had no formal hierarchy. Instead, it revolved around the primal concept of the hunt. [[Specialty priest]]s of Malar typically wore woodland garb in earthy tones—most often red and brown. Their headpieces were fashioned from the skulls or pelts of formidable predators such as [[bear]]s, [[wolves]], or great cats—ideally slain by the priest himself, using either bare hands or clawed weapons. The most dominant figure within any group was known as the [[huntmaster]], who held authority over the rest. It was the huntmaster who determined the timing, prey, and location of ceremonial hunts. This role could be filled by a [[cleric]], a specialty priest, or even a [[fighter]], [[rogue]], or [[wizard]]. Challenges to the huntmaster’s position occurred at any time, and while some stepped down voluntarily, most resolved such disputes through deadly combat.<ref name="FRA-2ed-p26" />
+
+The [[People of the Black Blood]] were tribes of [[Lycanthropes]] that venerated Malar. In the [[1372 DR|Year of Wild Magic, 1372 DR]], it was estimated that the total population was at least 3,000 individuals scattered across the forests of [[Faerûn]] in groups of fifty to one hundred.<ref name="LoD-167-168">{{Cite book/Lords of Darkness|167-168}}</ref>
+
+===Dogma===
+Malarites believed that it was an honor to Malar to make one's killing bloody and long. His followers sometimes formed in bands, called "Hunts". While forbidden to slay the young or the pregnant, Hunts typically followed his dogma and evoked wanton slaughter in Malar's name.<ref name="FaA-106"/><ref name="FP3e-p43" /> They were opposed to the druidic concept of Balance, which they perceived as a threat to the savage rights of predators and hunters.<ref name="F&A" />
+
+===Holy Days===
+[[File:Malar Symbol-5e.png|thumb|right|''Another holy symbol of Malar.'']]
+The [[High Hunt]] ritual was a vicious hunt in which a captured humanoid was released, and for the next day and night attempted to escape the prowling worshipers of the Beastlord. If they managed to survive, they won their freedom as well as, perhaps, other things.<ref name="FaA-106">{{Cite book/Faiths & Avatars|106}}</ref>
+
+The [[Feast of the Stags]] day made Malar's worship more tolerable in certain areas. For this event, all people were invited to partake of the bounty of the hunt, regardless of faith. At this time, priests of Malar chose some widows, orphans, elderly, or infirm citizens and promised to provide meat for their tables for the winter.<ref name="FP3e-p43" /><ref name="FaA-106" />
+
+===Notable Worshipers===
+* [[Garmos Saernclaws]], one of the most respected servants of Malar, responsible for the [[gospel of Saernclaws]] by which all priests of Malar were bound, ensuring that hunts remained clean and poison-free.<ref name="CaN-p74">{{Cite book/Cormyr: A Novel/Paperback 1998|74|5}}</ref>
+* [[Anth-Malar]] was the [[Chosen]] of [[Malar]] and leader of the Furious Hunt [[lycanthrope]] cult in the early 1370s [[DR]].<ref name="Dun187-p87">{{Cite dungeon/129/The Twisted Run|87}}</ref>
+* [[Isarr Kronenstrom]]
+
+===Relics===
+The weapon known as the ''[[Claws of Malar]]'' was regarded as sacred and exclusive to his followers. Any outsider who wielded the ''Claws'' risked becoming the target of the next hunt, as Malarites considered such use a grave offense.<ref name="FRA-2ed-p26" />
+
+==History==
+{{Fq
+| width  = 250px
+| source = Malar speaking with Lolth.<ref name="EIotE"/>
+| text   = It is not my way to humiliate my quarry, but to destroy it. Your ways are not mine, elf, yet I cannot deny the appeal in the picture you paint. A gelded [[Gruumsh]]! I am not a subtle god, but there is irony even I can appreciate!
+}}
+
+===Conflict with the Catlord===
+At some point in the 1350s [[DR]], [[Pasha]] [[Abon Duum]] of [[Manshaka]] had fortuitously been granted guardianship of the [[kittenlord]], heir to the power of the [[cat lord]], a minor power of felines. However, Duum desired to corrupt and dominate the child, and therefore made a deal with the mightier power Malar to keep the vengeful old [[Catlord (old)|Catlord]] off his back. Duum wished to use the cat lord's power of [[planes|planar]] travel to journey into the [[Outer Planes]] and, using the [[Claw of Malar]], even challenge [[Tyr]], god of justice, and gain awesome power. In exchange, when he was done with the boy, Duum would give him to the Beastlord. Learning of Duum's wicked intentions for the boy, the Catlord came and rescued him, but Malar pounced upon the Catlord as he fled.<ref name="ADDc-16b">{{Cite comic/The Last Betrayal|23}}</ref>)
+
+The Catlord handed over the boy to the rogue [[Conner]] (who'd been guided onto the scene by the goddess [[Selûne]],<ref name="ADDc-16b"/> and to buy time for him to carry the child away and hide him, fought Malar. The Catlord and Malar battled for three days and three nights, before the Catlord escaped, and it was a year before his wounds even healed. The scars would not.<ref name="ADDc-16a">{{Cite comic/The Last Betrayal|2}}</ref><ref group="note" name="clawnote">It is unclear how Duum obtained the Claw of Malar, whether from the god Malar himself or separately. The actual details of Duum's and Malar's plan are unknown.</ref> However, in the [[1357 DR|Year of the Prince, 1357 DR]], Duum was tricked and thwarted and Tyr seized the Claw of Malar instead.<ref name="ADDc-16c">{{Cite comic/The Last Betrayal|14}}</ref>
+
+===Era of Upheaval===
+During the [[Time of Troubles]] in [[1358 DR]], Malar's avatar battled [[Sebek]] in the [[Adder Swamp]] in a titanic battle that destroyed large areas of the region.<ref name="poly108">{{Cite polyhedron/108/Forgotten Deities: Sebek|4}}</ref><ref group="note" name="sebeknote">This source states that Malar slew Sebek and assumed control of his cult. However, sourcebooks including ''[[Powers & Pantheons]]'' and ''[[Faiths and Pantheons]]'' directly contradict the claim that Sebek was killed or replaced.</ref>
+
+{{Fq
+| text = Malar is dead. Great Malar is dead.
+| source = [[Argon Bael]]<ref name="TRoS-ch2" />
+}}
+Following the Spellplague, Malar was much reduced,<ref name="FRCG-p63" /> and it was said that he had in fact been slain after being hunted down by his own beasts. This rendered him unable to affect anything but his followers' dreams, and to visit them in their nightmares.<ref name="TRoS-ch3">{{Cite digital book/The Rose of Sarifal/Kindle||3}}</ref> His [[spirit]] was said to be trapped in the [[Abyss]]<ref name="TRoS-ch14">{{Cite digital book/The Rose of Sarifal/Kindle||14}}</ref> while his body was said to be in [[Malar's tomb|a tomb]] on the island of [[Moray]] within the [[Moonshae Isles]], where his worship was kept alive among the lycanthropes of the [[Black Blood tribe]] by his [[Angel of vengeance|angelic servant]], [[Argon Bael]]. Bael struggled to keep Malarite worship and rituals alive as he touted a prophecy of his god's return, which would require the intervention of a [[greater deity]].<ref name="TRoS-ch3" /> It was not until the late 1470s DR that Bael successfully revived Malar, having arranged for the god's spirit and mind to return within the body of a [[cat-shifter]] named [[Kip]] with the approval of Malar's longtime enemy, [[Chauntea]].<ref name="TRoS-ch9">{{Cite digital book/The Rose of Sarifal/Kindle||9}}</ref>{{TRoS-time}} After a bloody day of slaughtering much of Moray's inhabitants and [[Battle of Caer Moray|laying siege to Caer Moray]], Malar shed the last vestiges and memories of Kip, and assumed his true form once more.<ref name="TRoS-ch12">{{Cite digital book/The Rose of Sarifal/Kindle||12}}</ref>
+
+==Appendix==
+{{Incomplete|}}
+===Background===
+Malar was first created by [[Ed Greenwood]], mentioned in the "Down-to-earth divinity" article of [[Dragon magazine 54|''Dragon'' magazine #54]] (October 1981, pg 52).
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+| adventures          = 
+| adventure refs      = ''[[Candlekeep Mysteries]]'': "[[Candlekeep Mysteries/Lore of Lurue|Lore of Lurue]]"
+| novels              = ''[[Evermeet: Island of Elves]]'';''[[The Rose of Sarifal]]''
+| novel refs          = 
+| films               = 
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         =
+| video game refs     = ''[[Icewind Dale II]]''
+| board games         = 
+| board game refs     = 
+| card games          = {{Spellfireapp|1st|4th}}
+| card game refs      = 
+| organized play      = ''[[Queen for a Day]]''
+| organized play refs = 
+}}
+
+===Gallery===
+<gallery>
+Priest of Malar.png|''A hide-wearing cultist of Malar.''
+</gallery>
+===Further Reading===
+* {{Cite dungeon/126/Vampires of Waterdeep: Blood of Malar}}
+
+===References===
+{{refs}}
+
+===Connections===
+{{Faerûnian pantheon}}
+{{Deity list}}
+[[Category:Chaotic evil deities]]
+[[Category:Deities of Fury]]
+[[Category:Beast Cult patrons]]
+[[Category:Animal domain deities]]
+[[Category:Bestial domain deities]]
+[[Category:Chaos domain deities]]
+[[Category:Evil domain deities]]
+[[Category:Gluttony domain deities]]
+[[Category:Hunt domain deities]]
+[[Category:Moon domain deities]]
+[[Category:Nature domain deities]]
+[[Category:Strength domain deities]]
+[[Category:Wrath domain deities]]
+[[Category:Exarchs]]
+[[Category:Lesser deities]]
+[[Category:Faerûnian pantheon]]
+[[Category:Human deities]]
+[[Category:Nature deities]]
+[[Category:Inhabitants of Colothys]]
+[[Category:Inhabitants of Carceri]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of Fury's Heart]]
+[[Category:Inhabitants of the Fiendish Planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Inhabitants of the Deep Wilds]]
+[[Category:Members of The Circle of Nine]]
+[[Category:Members of the First Circle]]

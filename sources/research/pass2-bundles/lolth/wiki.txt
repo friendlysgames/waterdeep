@@ -1,0 +1,472 @@
+WIKI PAGE: Lolth
+
+{{Deity
+| image               = 
+<gallery>
+Lolth AFR alt.jpg|5e
+Lolth 4e.jpg|4e
+Lolth.jpg|3e
+Lolth2e.png|2e
+Lolth1e.png|1e
+</gallery>
+| caption             = 
+| name                = Lolth
+| title               = 
+Queen of Spiders<ref name="FRCS-245"/><ref name="FRHoF-p113">{{Cite book/Forgotten Realms: Heroes of Faerûn|113}}</ref><br />
+Demon Queen of Spiders<ref name="D54">{{Cite dragon/54/Down-to-earth divinity}}</ref><br/>
+Queen of the Demonweb Pits<ref name="FRCS-245"/><ref name="FRHoF-p113" /><br/>
+Queen of Darkness<ref name="por">{{Cite game/Pool of Radiance: Ruins of Myth Drannor}}</ref><br/>
+Queen of the Drow<ref name="LC">{{Cite organized play/LC/Crawl|13}}</ref><br/>
+Dark Mother<ref name="Diss-p214">{{Cite book/Dissolution/Paperback 2003|214}}</ref><ref name="ddo-Web">{{Cite game/Dungeons & Dragons Online/Web of Chaos}}</ref><br/>
+Dark Eminence<ref name="ddo-Menace">{{Cite game/Dungeons & Dragons Online: Menace of the Underdark}}</ref><br/>
+Mother of Lusts<ref name="Diss-p200">{{Cite book/Dissolution/Paperback 2003|200}}</ref><br/>
+The Lady of Shadows<ref name="MM3-p126">{{Cite book/Monster Manual 3 4th edition|126}}</ref><br/>
+The Lady of Chaos<ref name="TW">{{Cite book/Tangled Webs}}</ref><br/>
+The Mistress of Lies<ref name="MM3-p126" /><br/>
+Weaver of Destiny<ref name="SotD-ch2">{{Cite book/Storm of the Dead/Paperback (2007)|chapter=2}}</ref><br/>
+Weaver of Webs<ref name="DotU19">{{Cite book/Drow of the Underdark|19}}</ref><br/>
+The Weaver<ref name="dhd-p12">{{Cite book/Demihuman Deities|12}}</ref><br/>
+Fleshcarver<ref name="DotU19"/><br/>
+Spider Bitch<ref name="Diss-p200"/>
+| adjective           = Lolthite<ref name="DD-p31">{{Cite book/Demihuman Deities|31}}</ref>
+| aspects             = Araushnee<ref name="DD-p26-28"/><ref name="FRHoF-p113" /><br/>Lloth<ref name="DD-p26-28"/><br/>Megwandir<ref name="DD-p26-28"/><br/>[[Moander]]<ref name="DD-p26-28"/><br/>[[Spinner of Shadows]]<ref name="ddo-Web"/><br/>[[Zinzerena]]<ref name="DD-p26-28"/>
+| status              = 
+| primordial          = 
+| pantheon            = [[Dark Seldarine]]<ref name="fap-p112">{{Cite book/Faiths and Pantheons|112}}</ref><br/>{{Former}} [[Seldarine]]<ref name="e:ioe-ch3"/><br/>[[Faerûnian pantheon]]<ref name="HoF-pp99,113">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,113}}</ref>
+| gender              = Feminine
+| died                = 
+| mortalhomes         = 
+| apotheosis          = 
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Abyss]] ([[Demonweb Pits]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = [[Spider]]s
+| domains5eR          = 
+| worshipers5eR       = Evil [[drow]], folk who travel the [[Underdark]]
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="FRHoF-pp99,113">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,113}}</ref>
+| power5e             = [[Lesser deity]]
+| alignment5e         = [[Chaotic evil]]
+| symbol5e            = [[Spider]]
+| homeplane5e         = The [[Abyss]]
+| realm5e             = [[Demonweb Pits]]
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = [[Drow]], [[spider]]s
+| domains5e           = [[Trickery domain|Trickery]], [[War domain|War]]<ref name="MTF5e-p53,57" />
+| worshipers5e        = 
+| channel divinity5e  = ''[[Invoke duplicity]]''<br />''[[Cloak of shadows (channel divinity)|Cloak of shadows]]''<br />''[[Guided strike]]''<br />''[[War god's blessing]]''
+| holy days5e         = 
+| challenge5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG-23, 108">{{Cite book/Sword Coast Adventurer's Guide|23, 108}}</ref><ref name="DMG5-p10-11">{{Cite book/Dungeon Master's Guide 5th edition|10-11}}</ref><ref name="MTF5e-p53,57">{{Cite book/Mordenkainen's Tome of Foes|53,57}}</ref><ref name="PHB5e-p62-63">{{Cite book/Player's Handbook 5th edition|62-63}}</ref>
+| power4e             = [[Greater deity]]
+| alignment4e         = [[Chaotic evil]]
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = [[Darkness domain|Darkness]], [[Poison domain|Poison]], [[Strife domain|Strife]]
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCG-p75">{{Cite book/Forgotten Realms Campaign Guide|75}}</ref><ref name="Dragon378-32">{{Cite dragon/Domains in Eberron and the Forgotten Realms|32}}</ref><ref name="MM3-p128">{{Cite book/Monster Manual 3 4th edition|128}}</ref>
+| power3e             = [[Intermediate deity]]
+| alignment3e         = [[Chaotic evil]]
+| symbol3e            = 
+| homeplane3e         = The [[Demonweb Pits]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Assassins, chaos, darkness, drow, evil, spiders
+| domains3e           = [[Chaos domain|Chaos]], [[Darkness domain|Darkness]], [[Demonic domain|Demonic]], [[Destruction domain|Destruction]], [[Drow domain|Drow]], [[Envy domain|Envy]], [[Evil domain|Evil]], [[Lust domain|Lust]], [[Pride domain|Pride]], [[Spider domain|Spider]], [[Trickery domain|Trickery]], [[Wrath domain|Wrath]]
+| mantles3e           = {{Mantles|Chaos|Destruction|Evil|Light and Darkness}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = Drow, depraved [[elves]], sentient spiders
+| cleric alignments3e = {{Alignment grid|off|off|off|off|off|on|off|on|on}}
+| favored weapon3e    = ''Spider'' ([[dagger]])
+| holy days3e         = 
+| challenge3e         = 
+| class3e             = {{class table|edition=3e|[[Cleric]]|20|[[Fighter]]|10|[[Wizard]]|10}}
+| refs3e              = <ref name="FP-p40-41">{{Cite book/Faiths and Pantheons|40-41}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref><ref name="PGtF-p189">{{Cite book/Player's Guide to Faerûn|189}}</ref>
+| power2e             = [[Intermediate deity]]
+| alignment2e         = [[Chaotic evil]]<ref name="DotU-42">{{Cite book/Drow of the Underdark|42}}</ref>
+| symbol2e            = Black spider with female drow head (at bottom of figure)
+| homeplane2e         = [[Abyss]]<br/>{{Former}} [[Arborea]]
+| realm2e             = [[Demonweb Pits|The Demonweb Pits]] (66th layer of the Abyss)<br/>{{Former}} [[Lolth's Grove]] in [[Arvandor]]
+| serves2e            = 
+| servedby2e          = 
+| portfolio2e         = Assassins, chaos, darkness, drow, evil, spiders
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = {{Alignment grid|off|off|off|off|off|on|on|on|on}}
+| holy days2e         = 
+| class2e             = {{class table|edition=2e|[[Cleric]]|33|[[Wizard]]|31|[[Fighter]] |20}}{{Former}}{{class table|edition=2e|[[Cleric]]|16|[[Wizard]]|14}} 
+| refs2e              = <ref name="DD-p26-28">{{Cite book/Demihuman Deities|26-28}}</ref><ref name="DotU-35">{{Cite book/The Drow of the Underdark|35}}</ref><ref name="PoC">{{Cite book/Planes of Chaos/The Book of Chaos|41-42}}</ref>
+| power1e             = [[Lesser deity]]
+| alignment1e         = [[Chaotic evil]]
+| symbol1e            = 
+| homeplane1e         = [[Abyss]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = [[Spider]]s
+| worshipers1e        = [[Drow]]
+| cleric alignments1e = {{Alignment grid|off|off|off|off|off|off|off|off|on}}
+| holy days1e         = 
+| class1e             = {{class table|edition=1e|[[Cleric]]|16|[[Fighter]]|16|[[Magic-user]]|14}}
+| refs1e              = <ref name="D&D-p92">{{Cite book/Deities & Demigods 1st edition|92}}</ref><ref name="FF-p24-25">{{Cite book/Fiend Folio 1st edition|24-25}}</ref>
+| animals             = [[Spider]]s 
+| plants              = 
+| monsters            = [[Yochlol]]s
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  = <ref name="FRHoF-p113" />
+| church              = yes
+}}
+'''Lolth''' ({{Pronounce|lalth|refs=<ref name="D93-APG-p28">{{Cite dragon/93/Ay pronunseeAYshun gyd|28}}</ref>}} {{Pronounce|lolth|refs=<ref name="D93-APG-p28" />|alt=yes}} {{Pronounce|loalth|refs=<ref name="FRCS-245">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|245}}</ref>|alt=yes}}), or '''Lloth''',<ref name="MC-71">{{Cite book/Menzoberranzan/The City|71}}</ref><ref name="DD-28">{{Cite book/Demihuman Deities|28}}</ref><ref name="eoe-p472">{{Cite book/Evermeet: Island of Elves/MMP|472}}</ref> known as the '''Queen of Spiders''' as well as the '''Queen of the Demonweb Pits''',<ref name="FRCS-245">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|245}}</ref><ref name="FRCG-p75">{{Cite book/Forgotten Realms Campaign Guide|75}}</ref><ref name="FaP-40">{{Cite book/Faiths and Pantheons|40}}</ref> was the most influential [[deity|goddess]] of the [[drow]], within the pantheon of the [[Dark Seldarine]].<ref name="dhd-p12">{{Cite book/Demihuman Deities|12}}</ref>
+{{Quote
+|Station is the way of Lolth, the ambition she bestows to further the chaos, to keep her drow "children" along their appointed course of self imprisonment.
+|[[Drizzt Do'Urden]]<ref name="hl-ch1">{{Cite book/Homeland||1}}</ref>
+}}
+
+==Description==
+Lolth could appear either as a {{SI|12|ft|long=yes}} diameter, crimson-eyed black widow [[spider]], or a {{SI|6|ft|long=yes}} tall, beautiful female drow often garbed entirely in clinging spiders or sometimes in artful, drow [[chainmail]] dresses or tunics. The form most commonly found in the Abyss however, thought to be her true form, was a combination of the others, a giant spider with the head of a coldly beautiful female drow.<ref name="DD-p26-28" />
+
+==Personality==
+Lolth was a goddess of cold cruelty not out of place in the darkest depths of the endless Abyss,<ref name="FRCG-p75" /> reveling in betrayal and bloodshed<ref name="FRPG-152">{{Cite book/Forgotten Realms Player's Guide|152}}</ref> and toying with everyone from her minions to her victims.<ref name="FRCG-p75" /> She not only enjoyed, but thrived upon torture, destruction, and death, whether personally performing it or causing it. Every interaction was ultimately done with malice,<ref name="DD-p26-28"/><ref name="FP-p40-41" /> ill will seething from her every move, and even those who knew her well could be surprised by just how deep her viciousness went.<ref name="FCI" /> Her malevolence could be compared to the rage of the brutal orc deity [[Gruumsh]], but where his fury was as mindlessly violent as a force of nature, her malice was complicated and deliberate. Furthermore, Gruumsh could at least be said to be steady and constant in his hate, whilst Lolth's was utterly capricious.<ref name="HCCAG7">{{Cite dragon/408/History Check: Corellon and Gruumsh|7}}</ref>
+
+Lolth demanded absolute fealty and obedience from all drow,<ref name="FRCG-p75" /><ref name="FRPG-152" /> and questioning her motives or wisdom was considered a sin.<ref name="DD-p29"/> This applied even to male drow despite her considering them to be unclean, and she took vengeful notice if one abandoned her faith.<ref name="FRCG-p75" /> She also secretly desired the worship of other types of elves, as well as [[human]]s, and enjoyed corrupting them into her service even more than torment and devastation.<ref name="DD-28" /> In contrast, she fomented unending chaos amongst the drow, eternally setting them against each other. Ostensibly this was to weed out the weak and complacent, leaving only the strongest, cruelest, and most devious to serve her, and to some degree she believed this, but it was also simply for her own amusement and supremacy.<ref name="DD-p26-28"/><ref name="FaP-182">{{Cite book/Faiths and Pantheons|182}}</ref><ref name="DAD">{{Cite book/Deities and Demigods|81}}</ref>
+
+Despite her demands for loyalty, those who blindly obeyed Lolth's demands would find themselves quickly led to their deaths. In truth, Lolth's capricious nature meant that there were few hard-and-fast rules, and much uncertainty as to her desires. The successful had to pay attention to her ever-changing wants,<ref name="DD-p29"/> for her favor was fickle,<ref name="FRPG-152" /> and those who she played favorites with (a frequent occurrence) would inevitably find her turning on them without warning.<ref name="DD-p29"/> The Spider Queen was technically capable of displays of kindness and aiding those she fancied,<ref name="FP-p40-41" /><ref name="FCI" /><ref name="DD-p29"/> and would always give one chance for the disfavored to redeem themselves, but this usually meant a dangerous mission and in others might just mean silently watching their next move.<ref name="DD-p29"/> She could never be relied on and her ultimate motivation was almost always manipulative.<ref name="FP-p40-41" /><ref name="FCI" /><ref name="DD-p29"/>
+
+Lolth's promotion of infighting amongst her worshipers led many to believe she was insane, and this assessment was not baseless. Indeed, ever since her fall from grace her sanity had frayed and fractured until she became the petty, conniving monster she was commonly known as.<ref name="BoVDG">{{Cite book/The Book of Vile Darkness/Dungeon Master's Book|76}}</ref> Her will was not merely fluid, but often times contradictory,<ref name="DD-p29"/> although even if she was mad, the drow placed more importance on a deep and devious sense of cunning than mental stability.<ref name="MTOF-p54">{{Cite book/Mordenkainen's Tome of Foes|54}}</ref> Ironically, for all her demands for obedience, nothing demanded her attention and admiration more than treachery, even towards herself (if only temporarily). Guile and political ruthlessness were the signs of her favorite servants, and she ultimately admired ambition more than she did loyalty.<ref name="FCI" />
+
+==Powers==
+Lolth could readily transform at will between her drow, drider, and giant spider forms,<ref name="FP-p40-41" /><ref name="D&D-p92" /><ref name="FF-p24-25" /><ref name="DD-p28">{{Cite book/Demihuman Deities|28}}</ref> with some sources claiming that certain powers of hers were tied to specific forms,<ref name="D&D-p92" /><ref name="FF-p24-25" /> but during the transformation process she could not utilize any of her spell-like powers.<ref name="DD-p28" /> She was capable of moving between places almost instantaneously, by means of being able to cast ''[[plane shift]]'', ''[[teleport without error]]'',<ref name="FP-p40-41" /> and ''[[dimension door]]'' at will.<ref name="DD-p28" /> She could also communicate telepathically,<ref name="D&D-p92" /><ref name="FF-p24-25" /><ref name="DD-p28" /> out to a range of {{SI|90|ft|long=yes}}.<ref name="DD-p28" />
+
+At will Lolth could cast ''[[comprehend languages]]'', ''[[confusion]]'', ''[[darkness, 15' radius]]'', ''[[dispel magic]]'', ''[[summon spider]]s'', ''[[tongues]]'', ''[[true seeing]]'',<ref name="D&D-p92" /><ref name="FF-p24-25" /><ref name="DD-p28" /><ref group="note" name="spider-powers-1">In 1st edition [[AD&D]], Lolth's ability to cast ''comprehend languages'', ''confusion'', ''darkness, 15' radius'', ''dispel magic'', ''phase door'', ''read magic'', ''tongues'', and ''true seeing'' were limited to her spider form. ''Summon spiders'', having not been invented until 2nd edition AD&D, was instead just an innate ability, but also tied to her spider form. In ''[[Demihuman Deities]]'', these was all changed to allow Lolth access to them in any of her three forms.</ref> ''[[charm arachnid]]'', and ''[[ESP|detect thoughts]]'' (though was only able to target drow with it).<ref name="DD-p28" /> When she used ''summon spiders'' it could conjure forth around nine to sixteen [[large spider]]s, seven to twelve [[huge spider]]s, two to eight [[giant spider]]s, and/or one to four [[phase spider]]s.<ref name="D&D-p92" /><ref name="FF-p24-25" /><ref name="DD-p28" />
+
+Once per day each, Lolth could use the spell-like powers ''[[change self]]'', ''[[clairvoyance]]'', ''[[domination]]'', ''[[Evard's black tentacles]]'', and ''[[mind blank]]''.<ref name="DD-p28" /> Derived from her [[divine domain]]s, Lolth had the power to cast ''[[command plants]]'', ''rebuke plants'', and ''[[smite]]'' fifteen times per day.<ref name="FP-p42">{{Cite book/Faiths and Pantheons|42}}</ref>
+
+Lolth's others spell-like abilities that were neither tied to a specific form nor limited to a certain number per day were as followed:
+:''[[animate objects]]'', ''[[armor of darkness]]'', ''[[blacklight]]'', ''[[blasphemy]]'', ''[[blindness/deafness]]'', ''[[chaos hammer]]'', ''[[circle of doom]]'', ''[[clairaudience/clairvoyance]]'', ''[[cloak of chaos]]'', ''[[cloak of dark power]]'', ''[[contagion]]'', ''[[create undead]]'', ''[[creeping doom]]'', ''[[darkbolt]]'', ''[[desecrate]]'', ''[[discern lies]]'', ''[[disintegrate]]'', ''[[dispel good]]'', ''[[dispel law]]'', ''[[earthquake]]'', ''[[false vision]]'', ''[[gate]]'', ''[[giant vermin]]'', ''[[greater dispelling]]'', ''[[greater planar ally]]'', ''[[harm]]'',<ref name="FP-p42" /> ''[[heal]]'' on herself three times per day,<ref name="D&D-p92" /><ref name="FF-p24-25" /><ref name="DD-p28" /><ref group="note" name="spider-powers-1" /> ''[[implosion]]'', ''[[inflict critical wounds]]'', ''[[inflict light wounds]]'', ''[[insect plague]]'', ''[[invisibility]]'', ''[[magic circle against good]]'', ''[[magic circle against law]]'', ''[[mislead]]'', ''[[nightmare]]'', ''[[nondetection]]'', ''[[obscuring mist]]'', ''[[phantom steed]]'' (took the form of vermin, like spiders),<ref name="FP-p42" /> ''[[phase door]]'',<ref name="D&D-p92" /><ref name="FF-p24-25" /><ref name="DD-p28" /><ref group="note" name="spider-powers-1" /> ''[[polymorph any object]]'', ''[[power word, blind]]'', ''[[power word, kill]]'', ''[[protection from good]]'', ''[[protection from law]]'', ''[[prying eyes]]'',<ref name="FP-p42" /> ''[[read magic]]'',<ref name="D&D-p92" /><ref name="FF-p24-25" /><ref name="DD-p28" /><ref group="note" name="spider-powers-1" /> ''[[screen]]'', ''[[shatter]]'', ''[[spider climb]]'', ''[[spider curse]]'', ''[[spider shapes]]'', ''[[spiderform]]'', ''[[stone spiders]]'', ''[[suggestion]]'', ''[[summon monster IX]]'' (as chaos or evil spell only), ''[[summon swarm]]'', ''[[time stop]]'', ''[[unholy aura]]'', ''[[unholy blight]]'', and ''[[word of chaos]]''.<ref name="FP-p42" />
+
+She could also cast a number of divine and [[arcane]] spells,<ref name="D&D-p92" /><ref name="FF-p24-25" /><ref name="DD-p28" /><ref name="FP-p42" /> though only while in her drow form.<ref name="D&D-p92" /><ref name="FF-p24-25" /><ref name="DD-p28" /> While she typically drew from the [[chaos domain|chaos]] and [[evil domain|evil]] domains for her divine spells,<ref name="FP-p42" /> she was said to be capable of drawing from any [[sphere]] or [[school of magic]].<ref name="DD-p28" /> While in her drow form, Lolth had access to the innate drow abilities ''[[dancing light]]'', ''[[darkness]]'', and ''[[faerie fire]]'',<ref name="FP-p42" /> and she could enact an effect similar to ''[[charm person]]'' upon a human or [[demihuman]] by physically embracing them.<ref name="DD-p28" />
+
+Prior to the [[Time of Troubles]], her spider form was said to be capable of ''gating'' in one or two [[vrock]], [[hezrou]], or [[glabrezu]] to aid her, and had access to all [[psionic]] attack and defense modes, as well as a number of disciplines and major sciences. These included ''[[body equilibrium]]'', ''[[clairvoyance (psionic)|clairvoyance]]'', ''[[dimension walking]]'', ''[[domination (psionic)|domination]]'', ''[[mind bar]]'', ''[[molecular rearranagement]]'', and ''[[probability travel]]''.<ref name="D&D-p92" /><ref name="FF-p24-25" /> Beyond these powers, her spider form was noted for its poisonous bite and ability to produce webs from its abdominal spinnerets, equivalent to the ''[[web]]'' spell.<ref name="D&D-p92" /><ref name="FF-p24-25" /><ref name="DD-p28" /><ref name="FP-p42" /> Some claimed this was limited to eight times per day.<ref name="FP-p42" /> She could spin her spinnerets around to fire webbing in any direction.<ref name="DD-p28" /> She could produce these webs in the form of nets or sheets of webbing,<ref name="FP-p42" /> that were {{SIrange|30|60|ft|long=yes}} in length.<ref name="D&D-p92" /><ref name="FF-p24-25" /><ref name="DD-p28" /><ref name="FP-p42" /> All webs produced by her were toxic<ref name="FP-p42" /><ref name="D&D-p92" /><ref name="FF-p24-25" /> to all but Lolth and spiders<ref name="FP-p42" /> due to a poisonous excretion upon the strands.<ref name="D&D-p92" /><ref name="FF-p24-25" />
+
+She could not be harmed by weapons that weren't magical,<ref name="D&D-p92" /><ref name="FF-p24-25" /><ref name="FP-p42" /> specifically of a ''+2'' or greater enchantment,<ref name="FP-p42" /> and was resistant to harm from [[fire]].<ref name="FP-p40-41" /> Once believed to be wholly vulnerable to [[acid]] and all manner of [[poison]]s,<ref name="D&D-p92" /><ref name="FF-p24-25" /> it was later determined that she was wholly immune to both.<ref name="FP-p42" /> Sources also differed on whether she was merely resistant to harm from cold and electrical-based attacks,<ref name="DD-p28" /> or immune to them. She was additionally immune to [[disease]]s, [[death magic]] effects, being paralyzed, being disintegrated, [[transmutation]] spells, mind-affecting effects, and the spells ''[[banishment]]'', ''[[energy drain]]'', and ''[[imprisonment]]''<ref name="FP-p42" /> The one Lolth was especially susceptible to was [[holy water]].<ref name="D&D-p92" /><ref name="FF-p24-25" />
+
+In any form she took, all of Lolth's senses operated outward at a distance of {{SI|15|mi|k|long=yes}}. Her vision could even penetrate the haze of magical darkness.<ref name="FP-p42" /> In addition to the normal vision and [[darkvision]] of drow,<ref name="FP-p42" /><ref name="D&D-p92" /><ref name="FF-p24-25" /> she could perceive the world through [[ultravision]].<ref name="D&D-p92" /><ref name="FF-p24-25" /> Unlike drow, she was neither harmed nor discomforted by light.<ref name="DD-p28" /> And like many other deities, she could perceive anything within {{SI|15|mi|k}} of her worshipers, holy sites, sacred objects, and location where her name or one of her many titles had been spoken in the past hour.<ref name="FP-p42" />
+
+Lastly, Lolth was capable of creating [[magic item]]s that generated darkness, provided divination, or granted the user a disguise. Some examples of these included a ''[[wand of deeper darkness]]'', a ''[[crystal ball]]'', or a ''[[hat of disguise]]''. She could also create magical items from simple weapons, martial weapons, and [[light armor|light]] or [[medium armor]].<ref name="FP-p43">{{Cite book/Faiths and Pantheons|43}}</ref> She customarily left a magical item with the poisonous spiders she left to aid, guard, or watch over those who served here.<ref name="DD-p28" />
+
+==Relationships==
+Lolth disdained planar beings less powerful than herself, viewing them as either pawns or foes. At the same time, she held those more powerful than herself in contempt, coveting the status of the most powerful beings and seeking to ascend to their station through deception, betrayal, and murder.<ref name="FCI">{{Cite book/Fiendish Codex I: Hordes of the Abyss|122-123}}</ref>
+
+===The Dark Seldarine===
+[[File:Dark Seldarine - F&P.jpg|370x370px|thumb|right|The Dark Seldarine, with Lolth in the center.]]
+Lolth was the leader of the [[Dark Seldarine]], but was opposed to varying degrees by all other members of it. She was the mother of both [[Eilistraee]] and [[Vhaeraun]],<ref name="dhd-p12" /> along with [[Vandria Gilmadrith|Vandria]], though the latter never supported the acts of her mother or joined the Dark Seldarine.<ref>{{Cite book/Races of the Wild|24}}</ref>
+
+====Vhaeraun====
+On one hand, Lolth encouraged her son's rivalry with her, for it appealed to her love of chaos.<ref name="PGoF-150">{{Cite book/Player's Guide to Faerûn|150}}</ref> On the other hand, her son's successes at swaying the drow to his cause of destroying her, her followers, and her version of society,<ref name="FaP-114">{{Cite book/Faiths and Pantheons|114}}</ref> led her to consider him a threat.<ref name="MC-71" /> He amassed the second largest following among drow overall<ref name="LoD-29">{{Cite book/Lords of Darkness|29}}</ref> (the largest on the surface),<ref name="RoF-37">{{Cite book/Races of Faerûn|37}}</ref> and was an ever expanding force,<ref name="DSR">{{cite web
+| url            = http://www.wizards.com/default.asp?x=books/fr/drowsocial
+| title          = Drow Social Relationships
+| accessdate     = 2016-08-20
+| date           = 2002-10-28
+| publisher      = Wizard of the Coast
+| archiveurl     = https://web.archive.org/web/20030219070501/http://www.wizards.com/default.asp?x=books/fr/drowsocial
+| archivedate    = 2003-03-19
+}}</ref> to the point that Lolth considered Vhaeraun her real enemy and rival.<ref name="DD-37">{{Cite book/Demihuman Deities|37}}</ref><ref name="MC-72">{{Cite book/Menzoberranzan/The City|72}}</ref>
+
+The two had no common ground: Lolth promoted favoritism towards females,<ref name="FaP-41" /> while Vhaeraun promoted gender equality;<ref name="FaP-114" /> the Spider Queen wanted surface elves to be sacrificed by her worshipers,<ref name="DD-p29">{{Cite book/Demihuman Deities|29}}</ref> while the Masked Lord urged his followers to cooperate with surface elves;<ref name="DD-36">{{Cite book/Demihuman Deities|36}}</ref> Lolth ordered her followers to keep [[drow]] society stagnant in every regard, while<ref name="MC-52-53">{{Cite book/Menzoberranzan/The City|52-53}}</ref> Vhaeraun attracted those who wanted change in their societal progress, economic growth, and territorial expansion;<ref name="MC-72" /> and Lolth wanted to extinguish the drow race's desire to return to the surface,<ref name="MC-53">{{Cite book/Menzoberranzan/The City|53}}</ref><ref name="LEoF-54">{{Cite book/Lost Empires of Faerûn|54}}</ref> while Vhaeraun encouraged settling the surface.<ref name="FaP-114" /><ref name="DD-38">{{Cite book/Demihuman Deities|38}}</ref>
+
+Vhaeraun's [[masked traitor]]s, clerical spies Lolth had mistakenly believed members of her own clergy, were enough of a problem that she considered their discovery, and warning her clergy of their existence, worthy of her personal attention.<ref name="DD-37-38">{{Cite book/Demihuman Deities|37-38}}</ref> Indeed, Lolth, who normally gave worshipers of other drow gods a second chance on being found out, made an exception for Vhaeraun's followers, who were killed right away.<ref name="MC-13-14">{{Cite book/Menzoberranzan/The City|13-14}}</ref>
+
+====Other Enemies in the Dark Seldarine====
+[[Image:Lolth symbol - Mike Schely.jpg|thumb|383x383px|right|The holy symbol of Lolth, Queen of Spiders.]]
+The other members of the Dark Seldarine were generally of minor importance and Lolth's behavior towards them could be described as derisive.<ref name="RoF-37" />
+
+She considered her daughter [[Eilistraee]] to be an inconsequential fool, a moody girl<ref name="E.IoE-173">{{Cite book/Evermeet: Island of Elves/MMP|173}}</ref> who could be easily manipulated into serving her ends.<ref name="SofD-306">{{Cite book/Storm of the Dead/Paperback (2007)|306}}</ref> The epithet used by Eilistraee's followers' to describe Lolth was "the Tyrant Poisoner".<ref name="SF-p66">{{Cite book/Silverfall/Paperback 2005/Qilué|66}}</ref>
+
+[[Ghaunadaur]] was a different matter. She feared the possibility that he could sway the drow towards his cause,<ref name="MC-71" /> but he did not care enough for drow matters to attract many of them.<ref name="RoF-37" />
+
+====Allies in the Dark Seldarine====
+[[Kiaransalee]] and [[Selvetarm]] were her allies (and the only ones in the drow pantheon), who acted as her servants.<ref name="dhd-p12" /> The former was forced into subservience due to the power gap between her and Lolth, but she gained a degree of freedom after she killed [[Orcus]] and took [[Thanatos (Abyss)|Thanatos]], the [[demon lord]]'s realm.<ref name="DD-23">{{Cite book/Demihuman Deities|23}}</ref> The latter was Lolth's grandchild and her (self-appointed) champion.<ref name="DD-34">{{Cite book/Demihuman Deities|34}}</ref><ref name="U-33">{{Cite book/Underdark|33}}</ref> Selvetarm was practically enslaved to her, but was quite comfortable under her rule,<ref name="DD-34" /> enough to botch his chance at gaining freedom when his father, Vhaeraun, was about to kill Lolth.<ref name="PGoF-169-170">{{Cite book/Player's Guide to Faerûn|169-170}}</ref>
+
+===Others===
+====The Seldarine====
+Lolth was an enemy of the [[Seldarine]], especially of [[Corellon Larethian]], her former husband; [[Sehanine Moonbow]], for the part she played in foiling her scheme to overthrow Corellon; and [[Fenmarel Mestarine]], who was her partner in adultery but ultimately did not join her betrayal.<ref name="DD-28" /> While her hatred was deep, she did not actually put any significant effort into acting on it, preferring to keep the drow engaged in deep infighting, rather than united against those whom she considered her enemies.<ref name="DD-p29" />
+
+====Other Enemies====
+She once helped [[Gruumsh]] to attempt to kill [[Corellon Larethian]],<ref name="DD-26">{{Cite book/Demihuman Deities|26}}</ref> but after he failed, they later became enemies.<ref name="FaP-40" /> She also was the enemy of a long list of [[Underdark]] deities.<ref name="DD-26" />
+
+====Other Allies====
+Lolth had occasional alliances with [[Loviatar]] and [[Malar]].<ref name="FaP-40" /> Some believed there may have been an ancient pact between Lolth and the [[duergar]] deity [[Laduguer]], due to his race's use of [[steeder]]s and her having never been known to use them as minions.<ref name="DD-p29" />
+
+==Worshipers==
+{{Quote|I spin thy web of chaos, Mother, I spin it in your name - let not the threads unravel.|A basic prayer to Lolth.<ref name="BG3">{{Cite game/Baldur's Gate III}}</ref>}}{{fq
+| width  = 400px
+|text=Children? Pawns, more likely, dancing dolls for the Spider Queen, puppets on the imperceptible but impervious strands of her web. All climb the Spider Queen's ladders; all hunt for her pleasure; and all fall to the hunters of her pleasure.
+|source=Drizzt Do'Urden<ref name="hl-ch1"/>
+}}
+Lolth's follower base was varied. It mainly consisted of [[drow]],<ref name="FaP-40" /> but also included [[aranea]], [[chitine]], [[draegloth]]s and [[deep dragon]]s.<ref name="FaP-183">{{Cite book/Faiths and Pantheons|183}}</ref> She gained a few [[elf|elven]] followers,<ref name="FaP-40" /> and tried to gain more worshipers by assuming the aspect of [[Moander]], a [[deity]] of rot.<ref name="DD-28" />
+
+Lolth drove her worshipers into heavy infighting under the pretense of culling the weak, while her actual goals were to hold absolute control over the [[dark elves]], prevent the rise of alternative faiths or ideas, and avoid complacency (even though she found amusement in the strife that plagued her followers' communities).<ref name="DD-26, 29">{{Cite book/Demihuman Deities|26,29}}</ref> However, in the long run, her influence proved to be an obstacle to the growth and success of her drow followers, preventing them from unifying against common enemies or for a common cause.<ref name="MC-52-53" /><ref name="TDotU">{{Cite book/The Drow of the Underdark}}</ref>
+
+Any attempt by the drow to emulate Lolth was doomed to fail, for unlike other humanoids, their arachnid deity was without their form or psychology. They were ashamed that they could not fully live up to her demands, and in truth, the Spider Queen was one they could never truly please.<ref name="DotU15">{{Cite book/Drow of the Underdark|15}}</ref> Any boon she granted to them was only in service to escalating conflict and causing further strife, and in the end, she cared nothing for them.<ref name="BoVDG" />
+
+===Clerics===
+{{fq
+| width  = 250px
+|text=Ascension to power in drow society is a simple process of assassination. The Spider Queen is a deity of chaos, and she and her high priestesses, the true rulers of the drow world, do not look with ill favor upon ambitious individuals wielding poisoned daggers.
+|source=Drizzt Do'Urden<ref name="hl-ch1"/>
+}}
+Lolth's [[clerics]] were almost exclusively female (although there were a few males). They represented the rulers of most Lolthite communities, and strictly followed the Spider Queen's will, forcing the drow into extreme subservience to their deity, and into the constant state of conflict that dominated their lives. Each priestess strove for the favor of the Spider Queen and was ready to do anything in order to gain status in her goddess' eyes.<ref name="FaP-40" /><ref name="FaP-41">{{Cite book/Faiths and Pantheons|41}}</ref><ref name="DD-29-30">{{Cite book/Demihuman Deities|29-30}}</ref> Her clergy sacrificed the living and treasure for her glory. Their vestments were normally adorned with spider motifs. Her rituals required them to wear darker clothes or none at all.<ref name="FaP-41" /><ref name="DD-29-30" />
+
+===Orders===
+;Militant Myrlochar, Order of Soul Spiders
+The [[Militant Myrlochar]], sometimes known as the Order of Soul Spiders, was an elite fighting organization composed exclusively of male [[crusader]]s, and found in the dark elven cities where Lolth was worshiped and males were allowed entrance into her priesthood. They directly served the reigning [[Matron Mother]]s of the city and were employed to kill their targets. They were usually used without pause until they got killed.<ref name="DD-30">{{Cite book/Demihuman Deities|30}}</ref>
+
+;Handmaidens of the Spider Queen
+The [[Handmaidens of the Spider Queen]] were an order of female crusaders. Also called the "Daughters of the [[Yochlol]]", they had no ties to specific cities, and were used when Lolth wanted an entire city brought back into line. At least three times in recorded history did the Handmaidens of the Spider Queen destroy entire drow cities to prevent them from straying too far from Lolth. One of their usual tasks was to terrorize merchants who took [[Vhaeraun]] as their patron, as well as settlements run by the [[church of Vhaeraun|followers of Vhaeraun]] or [[Ghaunadaur]]'s (or where those faiths were prominent).<ref name="DD-30" />
+
+{{fq
+| width  = 300px
+|text=Great Goddess, Mother of the Dark, grant me the blood of my enemies for drink and their living hearts for meat. Grant me the screams of their young for song, grant me the helplessness of their males for my satisfaction, grant me the wealth of their houses for my bed. By this unworthy sacrifice I honor you, Queen of Spiders, and beseech of you the strength to destroy my foes.
+|source=A secret sacrificial prayer in [[Abyssal language|Abyssal]] known only to high priestesses:<ref name="Condemn-p237">{{Cite book/Condemnation/Paperback|237}}</ref>
+}}
+
+==History==
+===Dawn Age===
+Before her fall, Lolth was known as Araushnee, the lesser elven [[goddess]] of destiny and artisans. She was consort to Corellon, leader of all the elf deities,<ref name="DD-26" /> and ruled with him and Sehanine as the indisputable heads of their pantheon.<ref name="TPA 37-40">{{Cite book/The Plane Above|37-40}}</ref> Unflinching as the fallen night, she too had played a part in the creation of the earliest elves; her cutting jests brought forth tears of laughter from Corellon from which mortal fey were spawned, as did Sehanine's arcing acrobatics. Sometimes the laughter between the three was dark and mocking, but more often, it was true and heartfelt.<ref name="TPA 37-40"/>
+
+Araushnee would become the main goddess of the dark elves, whose nightly complexion matched her own,<ref name="DD-26" /> and have twins with Corellon, [[Vhaeraun]] (the elder) and [[Eilistraee]] (the younger),<ref name="E.IoE-68">{{Cite book/Evermeet: Island of Elves/MMP|68}}</ref> as well as a third child, [[Vandria Gilmadrith]].<ref>{{Cite book/Races of the Wild|24}}</ref>
+
+====War of the Seldarine====
+{{quote|''Yet another sign of Corellon’s weakness. He should have slain the orc when he had the chance. I would have. Or, at the very least, I would have gelded him!''|Lolth commenting on Corellon sparing Gruumsh's life.<ref name="E.IoE-35-36">{{Cite book/Evermeet: Island of Elves/MMP|35-36}}</ref>}}<br/>
+
+The events regarding Lolth's rebellion were lost to time and the timelessness of the [[Feywild]], and too distorted by shadows and echoes for anyone to be sure of her first betrayal. Not even the likes of Sehanine or Corellon could say if she had always thought differently to them, or if there had been some kind of inciting incident. Some divinations suggest the troubles dated back to before [[Arvandor]] was even complete, when the [[orc]] god [[Gruumsh]], Corellon's long-standing rival, tried to destroy it. Though she respected his wish to face Gruumsh alone, she secretly admired his rage, and at some point dallied with him.<ref name="TPA 37-40"/> The passions of her soul would grow darker to the point she even consorted with the lords of the Abyss, but though they aided her corruption, they were not responsible for her fall from grace.<ref name="DMG359-p66">{{Cite dragon/359/1d20 Villains: D&D's Most Wanted; Preferably Dead|66}}</ref>
+
+Whatever the reason or chronology, Araushnee grew jealous of her husband and discontent with her station.<ref name="DMG359-p66"/> Corellon would give her almost anything she asked, but her desire was power that could only be taken, and her ambition was to rule all the Seldarine.<ref name="E.IoE">{{Cite book/Evermeet: Island of Elves/MMP}}</ref><ref name="E.IoE-30">{{Cite book/Evermeet: Island of Elves/MMP|30}}</ref><ref name="E.IoE-21">{{Cite book/Evermeet: Island of Elves/MMP|21}}</ref> Slowly, over the course of her treachery, her connection to the elves would weaken.<ref name="E.IoE"></ref>
+
+During her first attempt, she aided [[Gruumsh]] in trying to kill her husband by imbuing the [[scabbard]] that he had crafted for his sword with magic that would cause the weapon to shatter during the fight.<ref name="E.IoE-30"/><ref name="E.IoE-21"/> However, this plan failed due to [[Sehanine Moonbow]]'s interfering with it:<ref name="E.IoE-22-23">{{Cite book/Evermeet: Island of Elves/MMP|22-23}}</ref> she knew that Araushnee had tampered with the scabbard, because the Weaver had conducted this very first step of her betrayal during the night, when Sehanine's sight could reach her.<ref name="E.IoE-46-47">{{Cite book/Evermeet: Island of Elves/MMP|46-47}}</ref>
+
+Later, Araushnee agitated [[Malar]] into attacking the wounded Corellon<ref name="E.IoE-35-36" /> after she witnessed the Beastlord killing the [[orc]] god Herne on [[Faerûn]],<ref name="DD-26" /> but even that failed, as the elven lord managed to chase his aggressor away.<ref name="E.IoE-39-40">{{Cite book/Evermeet: Island of Elves/MMP|39-40}}</ref>
+{{fq
+|text=I name you, Araushnee, traitor to the Seldarine.
+|source=Sehanine Moonbow<ref name="e:ioe-ch3">{{Cite book/Evermeet: Island of Elves/MMP||3}}</ref>
+}}
+Araushnee's next move was to gather a host of gods on hostile footing with the Seldarine,<ref name="E.IoE-45">{{Cite book/Evermeet: Island of Elves/MMP|45}}</ref> forming an army to assault Arvandor and overthrow Corellon. The army itself was so badly organized, that she was confident that they would fail.<ref name="E.IoE-50">{{Cite book/Evermeet: Island of Elves/MMP|50}}</ref> Her true plan was to give the cursed scabbard back to Corellon, as during the battle that would later unfold, the item would cause arrows shot by Eilistraee to hit his chest instead. According to Lolth's plan, that would have killed Corellon while turning her daughter into a scapegoat.<ref name="E.IoE-61-62">{{Cite book/Evermeet: Island of Elves/MMP|61-62}}</ref>
+
+Before the attack by the anti-Seldarine faction was ready, Sehanine confronted Araushnee about her betrayal (as mentioned above, she knew Araushnee to be a traitor),<ref name="E.IoE-46-47" /> but Araushnee struck first and imprisoned her with the help of her son Vhaeraun.<ref name="DD-36-37">{{Cite book/Demihuman Deities|36-37}}</ref><ref name="E.IoE-51">{{Cite book/Evermeet: Island of Elves/MMP|51}}</ref> Together, they also made sure that Eilistraee would find and deliver the scabbard to Corellon, and that she would be in his vicinity during the battle.<ref name="E.IoE-51, 56">{{Cite book/Evermeet: Island of Elves/MMP|51, 56}}</ref>
+
+Once the battle started, the Weaver's plan almost went as she expected, supported even further by [[Ghaunadaur]]'s entrance.<ref name="E.IoE-137">{{Cite book/Evermeet: Island of Elves/MMP|137}}</ref> When an ogre god charged Corellon, who had been immobilized by the Elder Eye, Eilistraee swiftly fired a few arrows to save her father, but the scabbard drew the projectiles towards the Protector instead, nearly slaying him.<ref name="E.IoE-61-62" /> Despite all, the anti-Seldarine army lost and retreated as expected, and after the battle Araushnee tried to finish Corellon with a dose of poison crafted by Eilistraee to aid her followers in the hunt, pretending it to be water from [[Elysium]] with healing qualities gathered by her daughter.<ref name="E.IoE-63">{{Cite book/Evermeet: Island of Elves/MMP|63}}</ref> However her plan ultimately failed due to Sehanine's intervention, as the Lady of Dreams had managed to break out from Vhaeraun's prison, albeit at immense cost to herself.<ref name="DD-36-37" /> Sehanine, [[Aerdrie Faenya]], and [[Hanali Celanil]] joined into the triune goddess [[Angharradh]], and used their combined magic to save Corellon's life.<ref name="E.IoE-65-66">{{Cite book/Evermeet: Island of Elves/MMP|65-66}}</ref>
+{{fq
+|text=Araushnee, your sentence has been spoken by the Seldarine. For what you have done, for what you have become, you are declared tanar'ri. Be what you are, and go where you must.
+|source=Corellon Larethian<ref name="e:ioe-ch5">{{Cite book/Evermeet: Island of Elves/MMP||5}}</ref>
+|float=left
+}}
+When the elven lord awakened, a trial was called in. Vhaeraun and Eilistraee became members in exile of the Seldarine — willingly in the case of Eilistraee, as she had foreseen that the dark elves would have needed her light and hope in the future.<ref name="E.IoE-67-69">{{Cite book/Evermeet: Island of Elves/MMP|67-69}}</ref> Araushnee meanwhile was stripped of all but a sliver of her divinity and transformed into a [[tanar'ri]] with the form of a giant spider. Corellon could not bring himself to destroy her, and instead banished her to the Abyss, bidding her to join the [[demons]] she had come to resemble. Furious for her defeat, she made one last attempt on her lover's life, but was thwarted and bested by her husband. Despite all, the Protector still loved her and still could not bring himself to finish her off, allowing her to escape into the opened portal into the realm of demons.<ref name="DMG359-p66"/><ref name="E.IoE-70-72">{{Cite book/Evermeet: Island of Elves/MMP|70-72}}</ref>
+
+===Aftermath===
+After her exile, Araushnee took the name "Lolth". She conquered the 66th layer of the [[Abyss]], the [[Demonweb Pits]], for herself.<ref name="DD-26" /> Lolth was initially opposed by [[Kiaransalee]], an elven [[deity|goddess]] whom she swiftly subjugated, and Ghaunadaur, with whom she had a longer conflict. That Which Lurks tried to subsume her, but failed, and in his rage robbed his followers of their intellect. It also downsized his follower base and his power with it, thus allowing Lolth to emerge victorious.<ref name="E.IoE-137-138">{{Cite book/Evermeet: Island of Elves/MMP|137-138}}</ref> 
+
+After securing control over her layer, she plotted to exact vengeance against Corellon. Being unable to directly strike at him, she planned to be worshiped as a goddess by the elves, bringing misery to them and therefore to their "father".<ref name="E.IoE-138-139">{{Cite book/Evermeet: Island of Elves/MMP|138-139}}</ref> When the [[moon elf]] [[Kethryllia Amarillis]] came to retrieve her lover in the [[Abyss]] during a battle for the city of [[Sharlarion]], Lolth became interested in the world the elf came from, [[Toril]]. She sensed the presence of [[Vhaeraun]], at that time the major [[deity]] in [[Ilythiir]], and her attention was drawn there. Her fascination grew as she witnessed the Ilythiiri, at the time under [[Ka'Narlist]], preparing for war when Kethryllia had unknowingly revealed their position to them. Lolth admired the old mage's craftiness and he became her first worshiper and consort.<ref name="E.IoE-152-156">{{Cite book/Evermeet: Island of Elves/MMP|152-156}}</ref>
+
+Ilythiir, the southern empire, was much to her liking, as it was richer and more cosmopolitan, but mainly because of the fierceness of its people, of their ambitions, and of their ability to act on those.<ref name="E.IoE-173" />
+
+===First Flowering===
+[[File:Lolth_p82.jpg|300px|thumb|Queen of the Demonweb Pits.]]
+Originally, [[Ilythiir]] and the other elven nations were not on openly hostile footing,<ref name="RoF-27">{{Cite book/Races of Faerûn|27}}</ref> but Lolth poisoned this relationship by causing wars and strife.<ref name="E.IoE-157-158">{{Cite book/Evermeet: Island of Elves/MMP|157-158}}</ref> This led the elves to decide to create a dark elf-free piece of land.<ref name="E.IoE-158">{{Cite book/Evermeet: Island of Elves/MMP|158}}</ref> They caused the First Sundering, which split a region of the [[Faerûn|continent]] from the mainland in order to create an island out of it, a process which caused countless victims, a large part of the [[church of Vhaeraun]] among them.<ref name="E.IoE-174">{{Cite book/Evermeet: Island of Elves/MMP|174}}</ref> Vhaeraun's efforts to remedy this were undermined by the ongoing conflict between him and Eilistraee, granting Lolth and Ghaunadaur the opportunity to fill the void.<ref name="DD-36-37" /> The Spider Queen then started her machinations that would eventually lead to the Crown Wars.<ref name="DD-28" />
+
+One legend of the half-elven [[Crinti]] of the [[Shining South]] told a story of the Ilythiiri wizard whose name was lost to time. She was only known as the [[Spider Queen (wizard)|Spider Queen]]. According to the legend, the wizard stumbled across the veil and into the realm of the [[Unseelie Court]] where she learned their dark fey magics by unfortunate firsthand experiences. She was imprisoned and tormented but serendipitously escaped the fey realm. The Spider Queen was believed to have been driven insane by the fell magics but gained unimaginable power, becoming the most powerful spell-caster in Ilythiir. Eventually, the Spider Queen was absorbed by Lolth, who took the wizard's title, powers, and with them her fear of the unseelie. Lolth ended up passing that compulsory fear of the unseelie music onto her drow children and subsequently onto the Crinti half-elves. This lore was preserved within the tomes found in libraries of [[Halruaa]].<ref name="TMH-153">{{Cite book/The Magehound/MMP|153|11}}</ref>
+
+===Crown Wars===
+For Lolth, the [[Crown Wars]] were an opportunity to gain control over the dark elves and at the same time exact vengeance against the Seldarine.<ref name="E.IoE-173" />
+
+Lolth's church grew in prominence during the Second Crown War.<ref name="LEoF-52">{{Cite book/Lost Empires of Faerûn|52}}</ref> At that time, [[Aryvandaar]], the [[sun elf]] nation, had started a military campaign against dark elves of [[Miyeritar]] (which would later culminate in the genocidal [[Dark Disaster]]). Both to avenge their Miyearitari cousins, and in fear that Aryvandaar could similarly lay waste on Ilythiir, the Ilythiiri joined the conflict against the elven empire. The Ilythiiri [[coronal]] summoned [[Wendonai]], a [[balor]] in service of Lolth, and bought power from it.<ref name="AotL-211-212">{{Cite book/Ascendancy of the Last|211-212}}</ref> Lolth swiftly acted, using this golden opportunity to get the dark elves under her control.<ref name="LEoF-54" />
+
+Other noble families of Ilythiir followed their royalty's example, summoning further demonic allies sent by Vhaeraun, Kiaransalee and Ghaunadaur,<ref name="LEoF-54" /> which gained them influence as well, but not as much as Lolth was acquiring with Wendonai tainting the noble bloodlines of the nation.<ref name="RoF-35">{{Cite book/Races of Faerûn|35}}</ref>
+
+At that time, the Ilythiiri were still refining their worship. They knew that Lolth was a spider deity, and that the other five gods and goddesses, who would later become known as the [[Dark Seldarine]],<ref name="LEoF-59">{{Cite book/Lost Empires of Faerûn|59}}</ref> (with the exception of [[Selvetarm]], who was not born yet)<ref name="DD-34" /> were in some kind of relationship. They did not however understand the relationships among them. The Ilythiiri thus experimented with the iconography of these gods, depicting them as spider deities too.<ref name="AotL-13">{{Cite book/Ascendancy of the Last|13}}</ref> These efforts to put the drow deities in this relation in each other were considered so offensive by the depicted, that Lolth, Vhaeraun, Ghaundaur and Kiaransalee killed their high priests for it.<ref name="LEoF-59" />
+
+During the Fourth Crown War, the elves' wish for divine salvation, the worship of Lolth who was starting to spread among the Ilythiiri, and the taint of Wendonai which had corrupted their leaders, caused the elves to gather at the Elven Court and summon the power of the Seldarine to curse the dark elves and turn them into [[drow]] (even innocent ones and the followers of Eilistraee, who had already been exterminated by the Aryvandaari). The combined forces of the remaining elven nations then violently chased the newly formed race underground.<ref name="LEoF-55-56">{{Cite book/Lost Empires of Faerûn|56}}</ref>
+
+===Era of Upheaval===
+[[File:Lolth_symbol.jpg|300px|thumb|right|The symbol of Lolth, during the [[Era of Upheaval]].]]
+Once in the [[Underdark]], the drow lived in a borderline animal state. With Eilistraee's power nearly collapsed due to the loss of so many of her people, and with Vhaeraun's, Kiaransalee's and Ghaunadaur's power being unable to compete with Lolth's, she became the main drow deity. She gathered them together and urged them into the foundation of their first city, [[Telantiwar]]. It later destroyed itself through infighting, causing the drow to spread throughout the Underdark.<ref name="RoF-35" />
+
+A thorn in her side was a [[demon lord]] called [[Zanassu]], who claimed dominion over spiders. Lolth got rid of him by using Selvetarm, her grandchild who was born from Vhaeraun and [[Zandilar]] when the Spider Queen's followers attacked the [[Yuirwood]]. Lolth convinced Selvetarm that killing the demon would have made Eilistraee, whom had befriended him and whom he had come to admire, happy. To that end he fought and defeated Zanassu, but ended up absorbing his power and being bound to Lolth's will in the process. Lolth thus solved two problems: one of her rivals was gone, and her daughter was prevented from getting an ally.<ref name="DD-34" />
+
+===Time of Troubles===
+During the [[Time of Troubles]], apart from appearing in [[Menzoberranzan]] and assuming the aspect of [[Moander]] to attract more surface elves, [[humans]], and [[half-elves]], Lolth spread information on [[Zinzerena]], a [[deity|goddess]] from another world. When she appeared on [[Toril]], Lolth killed her, gaining the portfolios of chaos and assassination, and learning how the distribution and absorption of divine energy worked under [[Ao]]'s new rules.<ref name="DD-28" />
+
+In [[1361 DR]], Lolth carried out her vengeance on the [[Ancient Ones]], who were Maztican drow that had betrayed her to serve [[Zaltec]], the Maztican war god, following the [[Rockfire]] cataclysm. She corrupted the [[Darkfyre]] caldron used by the Ancient Ones and caused it to turn them into driders. <ref>{{cite book/viperhand||21}}</ref>
+[[File:Flame sword of lolth.jpg|thumb|''The fabled [[Flame Sword of Lolth]].''|299x299px]]
+In [[1369 DR]], Lolth guided one of her High Priestesses, [[Azurna]] in search of the ''[[Flame Sword of Lolth]]'' to establishing a presence in [[Undermountain]]. The ''Flame Sword'' was a powerful artifact created by the Queen of Spiders during the [[War of the Seldarine]]. The sword held immense power and was able to cut through the Planes. Upon her defeat, the elven gods took the sword, and eventually, it was hidden within Undermountain by [[Halaster Blackcloak]]. In [[1370 DR]], Azurna successfully assembled the ''spider statue'' that blocked the vault of the sword, allowing Lolth to manifest her giant drider avatar and tried to reclaim the item. She was confronted by an adventurer agent of [[Khelben Arunsun]], and the avatar was defeated. In the subsequent release of divine energy, ''Flame Sword of Lolth'' disappeared, slipping from the goddess' grasp once again.<ref name="Dec">{{Cite game/Descent to Undermountain}}</ref>
+
+===War of the Spider Queen===
+The War of the Spider Queen was a period during which Lolth transformed herself into a [[greater deity]], turned the [[Demonweb Pits]] into an independent plane.<ref name="TGHotR-153">{{Cite book/The Grand History of the Realms|153}}</ref>
+
+====Silence of Lolth====
+In [[1372 DR]], Lolth suddenly became silent, starting an event know as "[[Silence of Lolth]]". She became completely inactive and no longer granted spells or communed with her followers.<ref name="TGHotR-153" />
+
+Vhaeraun took advantage of the situation and tried to assassinate his mother. She was seriously injured, but later saved by Selvetarm.<ref name="PGtF-170">{{Cite book/Player’s Guide to Faerûn|170}}</ref>
+
+When she finally awoke in [[1373 DR]], she called for three candidates to become her [[Chosen]]<ref name="R-234-241">{{Cite digital book/Resurrection/Kindle|234-241}}</ref> and finalize her transformation:<ref name="R-217-222">{{Cite digital book/Resurrection/Kindle|217-222}}</ref> [[Danifae Yauntyrr]], [[Quenthel Baenre]] and [[Halisstra Melarn]].<ref name="R-234-241" /> The first two came on their own to the Demonweb Pits, the last one was sent by Eilistraee to kill Lolth.<ref name="R-298-302">{{Cite digital book/Resurrection/Kindle|298-302}}</ref> However, in the Demonweb Pits, after being defeated by the other two, Halisstra converted back to Lolth.<ref name="R-4001-4029">{{Cite digital book/Resurrection/Kindle|4001-4029}}</ref>
+
+Out of the three, Danifae was chosen to become part of the Spider Queen, Quenthel was sent back home<ref name="R-5221-5234">{{Cite digital book/Resurrection/Kindle|5221-5234}}</ref> and Halisstra was made Lolth's Lady Penitent,<ref name="R-5278-5281">{{Cite digital book/Resurrection/Kindle|5278-5281}}</ref> her Chosen, whose duty was to hunt and kill followers of Eilistraee and Vhaeraun.<ref name="FCGG-72">{{Cite book/Forgotten Realms Campaign Guide|72}}</ref>
+
+====The Reckoning====
+In [[1375 DR]], Lolth convinced Eilistraee to play a game of ''[[sava]]'' with the players' lives (and therefore the very fate of the drow) at stake.<ref name="tGHotR-158">{{Cite book/The Grand History of the Realms|158}}</ref> Eilistraee accepted, seeing an opportunity to free the drow from Lolth's web once and for all, despite the great risk she'd be taking.<ref name="SotW-3">{{Cite book/Sacrifice of the Widow|3}}</ref> Lolth's strategy involved the employment of only two powerful servants of hers: Halisstra Melarn and [[Wendonai]]. Vhaeraun, her son, came up with a new plan to kill her. He wanted to assassinate his sister and unite their churches to increase his power and become strong enough to kill his mother.<ref name="SoW-246-247">{{Cite book/Sacrifice of the Widow|246-247}}</ref> Halisstra Melarn managed to get her hands on [[Malvag]], the organizer of Vhaeraun's plot. Lolth ordered her Chosen to ensure his survival, and she went as far as reviving him after he was killed by [[Cavatina Xarann]], a priestess of Eilistraee, to ensure that Vhaeraun would have a chance at attacking his sister.<ref name="SotW-114-120">{{Cite book/Sacrifice of the Widow|114-120}}</ref> When that happened, Eilistraee emerged victorious and took her brother's portfolio and the title of Masked Lady, while Vhaeraun supposedly died.<ref name="tGHotR-158-159">{{Cite book/The Grand History of the Realms|158-159}}</ref><ref group="note">''[[The Grand History of the Realms]]'' explicitly says that Vhaeraun's assassination attempt failed and Eilistraee killed him. However, in [http://forum.candlekeep.com/topic.asp?TOPIC_ID=19841&whichpage=22#476639 one of his answers], [[Ed Greenwood]] suggests that Eilistraee actually spared her brother's life. The Dark Maiden defeated Vhaeraun with the indirect help of her ally [[Mystra (Midnight)|Mystra]], as the [[Weave]] frustrated the Masked Lord's magic while enhancing Eilistraee's. The goddess temporarily took her brother's portfolio, and trapped his sentience in the Weave, where it was enfolded in a dream by Mystra. The ''Lady of Mysteries'' did that to ensure that the two drow siblings would survive the cataclysm that she knew was coming—the [[Spellplague]]—in which she would be "killed" to renew the Weave, and magic would go wild.</ref>
+
+Meanwhile, Lolth's Chosen,<ref name="FCGG-72" /> Halisstra, was sent to the [[church of Eilistraee]] to inform them of the whereabouts of the [[Crescent Blade]] (which Wendonai had made into a vessel for himself), and to lead Cavatina Xarann to the Demonweb Pits.<ref name="SotW-184-186">{{Cite book/Sacrifice of the Widow|184-186}}</ref> There the priestess killed Selvetarm with the Crescent Blade.<ref name="SotW-284-285">{{Cite book/Sacrifice of the Widow|284-285}}</ref> This event later caused his church to be completely absorbed into Lolth's:<ref name="SofD-33">{{Cite book/Storm of the Dead/Paperback (2007)|33}}</ref> the Spider Queen claimed that Selvetarm's loss was part of her plan, and Eilistraee too was led to believe it.<ref name="AotL-5">{{Cite book/Ascendancy of the Last|5}}</ref>
+
+When Cavatina returned from the Demonweb, [[Qilué Veladorn]] took possession of the Wendonai-possessed Crescent Blade.<ref name="SotW-296">{{Cite book/Sacrifice of the Widow|296}}</ref> Qilué recognized an evil presence in the weapon and planned to banish it, but the demon successfully convinced her to not act on it, for it would have destroyed the blade. Wendonai also let himself seemingly be killed by Cavatina,<ref name="SofD-227-228">{{Cite book/Storm of the Dead/Paperback (2007)|296-297}}</ref> which put the balor above suspicion of other followers of Eilistraee.<ref name="AotL-54">{{Cite book/Ascendancy of the Last|54}}</ref> He would remain at Qilué's side for the next few years,<ref name="AotL-106-117, 144">{{Cite book/Ascendancy of the Last|106-117, 144}}</ref> although the High Priestess of Eilistraee also started to hatch a plan to actually kill the [[balor]] by taking him into herself and using her [[Silver Fire]] to destroy him.<ref name="AotL">{{Cite book/Ascendancy of the Last}}</ref>
+
+Meanwhile, Kiaransalee joined the game in [[1377 DR]]. The ensuing battle between Eilistraee and the Revenancer resolved in favor of the Dark Maiden:<ref name="tGHotR-158-159" /> the forces of Eilistraee successfully assaulted the [[Acropolis of Thanatos]], Kiaransalee's main temple, and a ritual cast by [[Q'arlynd Melarn]] nearly erased her name from the minds of all living beings on Toril, leading to the goddess' disappaearance. At the same time, Qilué kept fighting against with Wendonai's influence, and his presence could be felt when the Dark Sister ordered the death of the defenseless clerics of the Revenancer in the Acropolis after that goddess' death.<ref name="SofD-297">{{Cite book/Storm of the Dead/Paperback (2007)|297}}</ref>
+
+Ghaunadaur joined the conflict in [[1378 DR]], planning to attack Eilistraee in order to free his avatar trapped under her temple of the [[Promenade of the Dark Maiden|Promenade]].<ref name="AotL-3">{{Cite book/Ascendancy of the Last|3}}</ref> Qilué agreed to a risky plan to protect the temple from the followers of Ghaunadaur:<ref name="AotL-106-117, 144" /> it failed (intentinally botched by former Vhaeraunites)<ref name="AotL-248-250">{{Cite book/Ascendancy of the Last|248-250}}</ref> and the temple was lost.<ref name="AotL-262">{{Cite book/Ascendancy of the Last|262}}</ref> Through its portal network the slime god's followers managed to kill many members of the church of Eilistraee.<ref name="AotL-268">{{Cite book/Ascendancy of the Last|268}}</ref> Lolth also unleashed Halisstra on her daughter's worshipers, inflicting great losses that culminated in the following year.<ref name="M.CoI-12">{{Cite book/Menzoberranzan: City of Intrigue|12}}</ref>
+
+In fact, in [[1379 DR]], Eilistraee—while inhabiting the body of Qilué Veladorn—tried to free Halisstra from Lolth's clutches and convince her to kill the Spider Queen. However, Wendonai successfully nudged Halisstra into slaying Qilué and, apparently, the Masked Lady with her.<ref name="AotL-291-293">{{Cite book/Ascendancy of the Last|291-293}}</ref><ref group="note">In the [http://forum.candlekeep.com/topic.asp?TOPIC_ID=19841&whichpage=22#476639 same answer] mentioned in the previous note, Ed Greenwood hints that Eilistraee actually managed to survive Halisstra's attempt to kill her, albeit much weakened. When Qilué Veladorn was killed, since the Masked Lady was inhabiting her body, a great part of her power was dragged into the [[Weave]] with the Chosen's soul (the souls of Mystra's chosen often become "Voices in the Weave" after their death, as explained in the novel [[Spellstorm (novel)|''Spellstorm'']], and their memories and experiences are shared by Mystra). After that, for about a century, Eilistraee could only manfest herself as a floating black mask surrounded by moonlight, capable of silently communicating with mortals, but not of answering prayers or granting spells (except by direct touch). After Mystra and the Weave were completely restored in [[1487 DR]], the goddess of magic could finally give Eilistraee her own lost power, and do the same with Vhaeraun, after having awakened him from his dream.</ref> Lolth then left Halisstra to die, because she had exhausted her use as a Chosen.<ref name="FCGG-72" />
+
+Meanwhile, Q'arlynd Melarn's managed to cast a second [[elven high magic]] spell, which he had been preparing with Qilué Veladorn.<ref name="AotL-146, 162, 264-265">{{Cite book/Ascendancy of the Last|146, 162, 264-265}}</ref> The intent was to turn all drow of the church of Eilistraee into [[dark elf|dark elves]],<ref name="AotL-287">{{Cite book/Ascendancy of the Last|287}}</ref> but only few hundreds of the few thousands worshipers of Eilistraee (which she had as a lesser deity)<ref name="F&P-p6">{{Cite book/Faiths and Pantheons|6}}</ref> were changed.<ref name="AotL-302-303">{{Cite book/Ascendancy of the Last|302-303}}</ref> Corellon took the souls of the transformed ones (and only the transformed ones) under his protection and into his portion of [[Arvandor]]<ref name="AotL-307-308">{{Cite book/Ascendancy of the Last|307-308}}</ref> (even though Eilistraee's realm, which continued existing,<ref name="AotL" /> already was in Arvandor, and so were the souls of her followers within it).<ref name="F&P-p23">{{Cite book/Faiths and Pantheons|23-25}}</ref> Corellon's servant [[Solar]]s claimed that, with this act, there was no more need for Eilistraee: to Corellon, all the willing drow had been saved, while the unwilling were cast down and left in Lolth's clutches as a necessary sacrifice.<ref name="AotL-302-308">{{Cite book/Ascendancy of the Last|302-308}}</ref>
+
+[[File:Queen_of_the_Demonweb_Pits.jpg|300px|thumb|left|The Spider Queen fights off surface elves.]]
+As her final move, Lolth tried to kill Ghaunadaur. The attempt failed, as the ooze god proved to be stronger than expected.<ref name="M.CoI-21">{{Cite book/Menzoberranzan: City of Intrigue|21}}</ref>
+
+===Post-Spellplague===
+In the following century, Lolth enjoyed a position of supremacy among the drow. She did suffer opposition from the [[Jaezred Chaulssin]],<ref name="M.CoI-68-70">{{Cite book/Menzoberranzan: City of Intrigue|68-70}}</ref> the [[skulker of Vhaeraun|skulkers of Vhaeraun]]—the term used to describe those members of the [[church of Vhaeraun]] who retained divine magic despite their [[Vhaeraun|god's]] death—and the followers of Ghaunadaur.<ref name="D413">{{Cite dragon/413/Character Themes: Fringes of Drow Society}}</ref> The latter group was however a dying force, at least among drow, for Lolth successfully extinguished the knowledge about that god.<ref name="FCGG-74">{{Cite book/Forgotten Realms Campaign Guide|74}}</ref>
+
+At some point in the years leading up to [[1479 DR]], Lolth ordered her servants to begin collecting [[blueflame ghost|blue fire]] items and relics important to [[Mystra]] in order to use them to craft her own [[Demon Weave]].<ref name="SL|2765">{{Cite digital book/Spinner of Lies|2765}}</ref> Her ultimate goal was to become the new goddess of magic,<ref name="SL|3549">{{Cite digital book/Spinner of Lies|3549}}</ref> but she ended up failing with the return of Mystra.<ref name="A-4754-4757">{{Cite digital book/Archmage/Kindle|4754-4757}}</ref> In truth, Lolth's plan was doomed to fail from its conception, because she lacked the competence and understanding to sustain a Weave. In fact, despite her efforts, Lolth wasn't actually creating her own Weave; she was merely leeching off the remaining strands of Mystra's, which acted as a barrier between [[Toril]] and another cataclysm: one of such an immensity that it could have wreaked havoc across the whole planet and its Underdark.<ref name="MoF">{{Cite book/Magic of Faerûn|4}}</ref><ref name="CKDW">{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2015)/Demon Weave}}</ref> Lolth's incompetence left the Weave on the verge of total collapse, and forced some of the then active [[Chosen of Mystra]] to sustain Lolth's construct on her behalf, unbeknownst to her,<ref name="CKDW" /> until Mystra recovered and reclaimed the Weave.<ref name="A-4754-4757" />
+
+===Post-Sundering===
+[[File:Lolth MTG detail.jpg|thumb|''Lolth in the process of getting very handsy.''|385x385px]]
+After the event known as the [[Second Sundering]], Lolth was no longer unrivaled as the goddess of the drow (even if she still retained her position of dominance), for the dead members of the Dark Seldarine were revived.<ref name="SCAG-23, 108">{{Cite book/Sword Coast Adventurer's Guide|23, 108}}</ref><ref name="EdGreenwood-p468322">{{Cite web/Candlekeep forum
+| title      = Questions for Ed Greenwood (2015)
+| author     = [[Ed Greenwood]]/The Hooded One
+| topicid    = 19841
+| postid     = 468322
+| whichpage  = 13
+| date       = 2015-04-17
+| accessdate = 
+}}</ref><ref name="DM">{{Cite book/Death Masks}}</ref> A further disadvantage for the Spider Queen, Eilistraee and Vhaeraun reached a truce and even reciprocal friendship after their return, which allowed them to focus their forces towards their main goal, rather than squandering resources in battling each other (although their followers still skirmished often).<ref name="EdGreenwood-p476496">{{Cite web/Candlekeep forum
+| title      = Questions for Ed Greenwood (2015)
+| author     = [[Ed Greenwood]]/The Hooded One
+| topicid    = 19841
+| postid     = 476469
+| whichpage  = 21
+| date       = 2015-11-11
+| accessdate = 
+}}</ref> Moreover, Zinzerena managed to re-emerge and escape Lolth's grasp, depriving Lolth of the portfolio of assassination. Lolth also lost the portfolio of chaos (that she had stolen from Zinzerena about a century earlier): it went to [[Malyk (demipower)|Malyk]], drow god of rebellion and wild magic.<ref name="MToF53">{{Cite book/Mordenkainen's Tome of Foes|53}}</ref>
+
+The wizard [[Mordenkainen]] claimed that, after the Second Sundering, [[Vhaeraun]] had dramatically steered away from his previous stance of rebellion against Lolth's system, and instead assumed a position of subservience to the Spider Queen, even coming to embody the ideal of drow male according to the Lolthite matriarchy: "swift, silent, obedient". According to Mordenkainen, Vhaeraun's faith became tolerable in Lolth-controlled cities, and was often practiced by males who wished for a better lot in life, but that weren't willing to openly oppose Lolth's matriarchy, rather than by drow who strove to demolish the system at its root.<ref name="MToF55-56">{{Cite book/Mordenkainen's Tome of Foes|55, 56}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Gallery===
+<gallery>
+RotUd_Lolth.jpg|''Lolth in [[Rise of the Underdark]].''
+MM3 4e.jpg|''Lolth featured on the cover of [[Monster Manual 3 4th edition]].''
+Descent Lolth avatar.jpg|thumb|''The [[avatar]] of Lolth that appeared in [[Undermountain]] in [[1370 DR]].''
+Lolth miniature.jpg|''A miniature of Lolth by Galeforce9.''
+Lolth MM 3e concept art.jpg|''Lolth, Queen of Spiders. Concept art for ''[[Monster Manual 3rd edition]]''.''
+Lolth MM3 4e.jpg|''Her Supreme Lolthiness.''
+Lolth 5e.png|''Lolth in the shadows.''
+Lolth VD.png|''Lolth in the light.''
+Lolth VEoR.png|''Lolth as depicted in [[Vecna: Eve of Ruin]]. Art by [[Ekaterina Burmak]].''
+Lolth nw.png|''Lolth's appearance in [[Neverwinter (game)|Neverwinter]].''
+Lolth's heraldry.png|''A symbol of Lolth that represented the roof of the Underdark on the top, Demonweb Pits star at the center, and the arrow pointing down towards the Abyss on the bottom.''
+</gallery>
+===Appearances===
+{{Appearances
+| adventures          = ''[[Vecna: Eve of Ruin]]''
+| adventure refs      = 
+| novels              = ''[[Evermeet: Island of Elves]]'';''[[Starlight & Shadows]]'';''[[Condemnation]]'';''[[The Lady Penitent]]'';''[[Storm of the Dead]]'';''[[Ascendancy of the Last]]''
+| novel refs          = ''[[Homeland]]''; ''[[The Magehound]]''
+| films               = 
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = ''[[Menzoberranzan (game)|Menzoberranzan]]'';''[[Descent to Undermountain]]'';{{DDOapp|WoC|Menace}}
+| video game refs     = {{BGapp|BG|SoA|ToB|EE|EE2|BG3}}
+| board games         = 
+| board game refs     = 
+| card games          = ''[[Blood Wars]]'';''[[Epic Stat Cards]]'';{{MTGapp|AFR}}
+| card game refs      = 
+| miniatures          = ''[[Icons of the Realms]]''
+| miniature refs      = ''[[Dungeons & Dragons Miniatures]]''
+| organized play      = 
+| organized play refs = ''[[The Killing Grounds]]''
+}}
+
+===Further Reading===
+* {{Cite book/Elves of Evermeet}}
+* {{Cite book/Cormanthyr: Empire of the Elves}}
+
+===External Links===
+{{External link disclaimer}}
+* {{BG3}}
+* {{CRW}}
+* {{DnD 4e Wiki external link}}
+
+===References===
+{{Refs|2}}
+
+===Connections===
+{{Deity list}}
+{{Drow pantheon}}
+{{Seldarine}}
+{{Zakharan pantheon}}
+[[de:Lolth]]
+[[es:Lolth]]
+[[pl:Lolth]]
+[[Category:Dark Seldarine]]
+[[Category:Beast Cult patrons]]
+[[Category:Zakharan pantheon]]
+[[Category:Savage gods of Zakhara]]
+[[Category:Chaotic evil deities]]
+[[Category:Lesser deities]]
+[[Category:Intermediate deities]]
+[[Category:Greater deities]]
+[[Category:Chaos domain deities]]
+[[Category:Darkness domain deities]]
+[[Category:Demonic domain deities]]
+[[Category:Destruction domain deities]]
+[[Category:Drow domain deities]]
+[[Category:Envy domain deities]]
+[[Category:Evil domain deities]]
+[[Category:Lust domain deities]]
+[[Category:Poison domain deities]]
+[[Category:Pride domain deities]]
+[[Category:Spider domain deities]]
+[[Category:Strife domain deities]]
+[[Category:Trickery domain deities]]
+[[Category:War domain deities]]
+[[Category:Wrath domain deities]]
+[[Category:Inhabitants of the Demonweb Pits]]
+[[Category:Inhabitants of the Abyss]]
+[[Category:Inhabitants of Arvandor]]
+[[Category:Inhabitants of Arvandor (layer)]]
+[[Category:Inhabitants of Arborea]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the Fiendish Planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Inhabitants of feminine gender]]

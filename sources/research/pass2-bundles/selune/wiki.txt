@@ -1,0 +1,380 @@
+WIKI PAGE: Selûne
+
+{{GA}}
+{{Otheruses4|the goddess|the moon|Selûne (moon)}}
+{{Deity
+| image               = Selune.jpg
+| caption             = Three avatars of the Moonmaiden.
+| name                = Selûne
+| title               = Our Lady of Silver<ref name="FRCS1e-p13"/><ref name="FRA-p29"/><ref name="FRCS2e-p52"/><ref name="F&A-p134"/><ref name="tWoN-p51"/><ref name="FRCS3e-p248"/><ref name="FaP-p55"/><ref name="SCAG-p36"/><ref name="HoF-p119">{{Cite book/Forgotten Realms: Heroes of Faerûn|119}}</ref><br />The Moonmaiden<ref name="F&A-p134"/><ref name="tWoN-p51"/><ref name="FRCS3e-p248"/><ref name="FaP-p55"/><ref name="SCAG-p36"/><ref name="HoF-p119"/><ref name="OHG-p170"/><ref name="FRPG-p152"/><ref name="FRCG-p80"/><br/>The Night White Lady<ref name="F&A-p134"/><ref name="tWoN-p51"/><ref name="SCAG-p36"/><ref name="HoF-p119"/><br/>She Who Guides<ref name="tWoN-p51"/><br/>Selûne Moonmother<ref>{{Cite polyhedron/98/Elminster's Everwinking Eye: More Hidden Powers of Turmish|23}}</ref><br/>Moon Bitch (derogatory)<ref name="BG3" />
+| adjective           = Selûnite<ref name="FA-p137">{{Cite book/Faiths & Avatars|137}}</ref><ref name="DragonAn89">{{Cite dragon annual/1998/By Dragons Ruled and Divided|14}}</ref>
+| aspects             = [[Sehanine Moonbow]]<ref name="DiEatFR">{{Cite dragon/Domains in Eberron and the Forgotten Realms|37}}</ref><br/>Bright Nydra ([[Farsea Marshes]])<ref name="F&A-p134"/><br/>Elah ([[Bedine]])<ref name="F&A-p134"/><br/>Lucha ([[Shining Lands]])<ref name="F&A-p134"/>
+| pantheon            = [[Faerûnian pantheon]]
+| race                = 
+| gender              = Feminine
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Ysgard]] ([[Ysgard (layer)|Ysgard]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Moon, stars, navigation, motherhood
+| domains5eR          = 
+| worshipers5eR       = [[Lycanthrope]]s, sailors, spellcasters
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,119">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,119}}</ref>
+| power5e             = 
+| alignment5e         = [[Chaotic good]]
+| symbol5e            = Pair of eyes surrounded by seven stars
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = 
+| domains5e           = [[Knowledge domain|Knowledge]], [[Life domain|Life]], [[Twilight domain|Twilight]]
+| worshipers5e        = 
+| channel divinity5e  = ''[[Knowledge of the ages]]''<br />''[[Read thoughts]]''<br />''[[Preserve life]]''<br />''[[Twilight sanctuary]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="PHB5e-p59-60,294">{{Cite book/Player's Handbook 5th edition|59-60,294}}</ref><ref name="SCAG-p21">{{Cite book/Sword Coast Adventurer's Guide|21}}</ref><ref name="TCE5e-p34-35">{{Cite book/Tasha's Cauldron of Everything|34-35}}</ref>
+| power4e             = [[Greater deity]]
+| alignment4e         = [[Good]]
+| symbol4e            = Two female eyes surrounded by seven stars
+| dominion4e          = [[Gates of the Moon]]
+| realm4e             = [[Argentil]]
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = Moon
+| domains4e           = [[Arcana domain|Arcana]], [[Change domain|Change]], [[Moon domain|Moon]], [[Selûne domain|Selûne]]
+| worshipers4e        = Mariners, travelers, people needing comfort
+| cleric alignments4e = 
+| channel divinity4e  = ''[[Eyes of Selûne]]''<br/>''[[Life and Light]]''
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRPG-p152">{{Cite book/Forgotten Realms Player's Guide|133,152}}</ref><ref name="FRCG-p80">{{Cite book/Forgotten Realms Campaign Guide|63,76,80}}</ref><ref name="Dragon378-32">{{Cite dragon/Domains in Eberron and the Forgotten Realms|32}}</ref><ref name="NCS-p60">{{Cite book/Neverwinter Campaign Setting|60-61}}</ref>
+| power3e             = [[Intermediate deity]]
+| alignment3e         = [[Chaotic good]]
+| symbol3e            = Pair of female eyes surrounded by seven silver stars
+| homeplane3e         = [[Gates of the Moon]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = [[Moon]], stars, navigation, navigators, non-[[evil]] [[lycanthropes]], questers, wanderers
+| domains3e           = [[Chaos domain|Chaos]], [[Chastity domain|Chastity]], [[Good domain|Good]], [[Moon domain|Moon]], [[Night domain|Night]], [[Protection domain|Protection]], [[Travel domain|Travel]]
+| mantles3e           = {{Mantles|Chaos|Freedom|Good|Light and Darkness}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = Female spellcasters, [[good]] and [[neutral]] lycanthropes, navigators, [[Sun Soul|Sun Soul monks]], sailors
+| cleric alignments3e = {{Alignment grid|off|on|on|off|off|on|off|off|off}}
+| favored weapon3e    = ''[[Rod of Four Moons]]'' ([[heavy mace]])
+| holy days3e         = 
+| class3e             = {{class table|edition=3e|[[Wizard]]|20|[[Cleric]]|20|[[Bard]]|9}}
+| refs3e              = <ref name="FRCS3e-p248">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|234-235,248-249}}</ref><ref name="FaP-p55">{{Cite book/Faiths and Pantheons|55-58}}</ref><ref name="D342-89">{{Cite dragon/342/The Wild Hunt|89}}</ref><ref name="D355-26">{{Cite dragon/355/Seven Saintly Domains|26}}</ref><ref name="MotN-p10">{{Cite book/Mistress of the Night|10}}</ref>
+| power2e             = [[Intermediate deity]]<br/>{{Former}} [[Lesser deity]]<br/>{{Former}} [[Greater deity]]
+| alignment2e         = [[Chaotic good]]
+| symbol2e            = Two darkly beautiful human female eyes surrounded by a circle of seven silver stars
+| homeplane2e         = [[Ysgard|Gladsheim; Ysgard]]/[[Ysgard (layer)|Ysgard]]
+| realm2e             = [[Gates of the Moon]]
+| serves2e            = 
+| servedby2e          = 
+| portfolio2e         = The [[moon]], stars, navigation, navigators, wanderers, seekers, [[good]] and [[neutral]] [[lycanthrope]]s<br/> {{former}} Moon, moonlight, stars, dreams, purity, beauty, love, marriage, navigation, navigators, tracking, wanderers, seekers, diviners, good and neutral lycanthropes, autumn
+| spheres2e           = <small>Major:</small> [[All sphere|All]], [[Animal sphere|Animal]], [[Astral sphere|Astral]], [[Combat sphere|Combat]], [[Divination sphere|Divination]], [[Guardian sphere|Guardian]], [[Healing sphere|Healing]], [[Necromantic sphere|Necromantic]], [[Summoning sphere|Summoning]], [[Sun sphere|Sun]], [[Weather sphere|Weather]]<br/><small>Minor:</small> [[Charm sphere|Charm]], [[Elemental sphere|Elemental]], [[Plant sphere|Plant]]
+| worshipers2e        = 
+| cleric alignments2e = {{Alignment grid|on|on|on|on|on|on|off|off|off}}
+| holy days2e         = Conjuring of the Second Moon ([[Shieldmeet]]); Mystery of the Night (varies)
+| class2e             = {{class table|edition=2e|[[Wizard]]|30|[[Cleric]]|22|[[Mystic]]|20|[[Fighter]]|16|[[Bard]]|12}}
+| refs2e              = <ref name="FRA-p29">{{Cite book/Forgotten Realms Adventures|29-30}}</ref><ref name="FRCS2e-p52">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|52, card}}</ref><ref name="F&A-p134">{{cite book/Faiths and Avatars|134-135}}</ref><ref name="tWoN-p51">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|51-52}}</ref><ref name="OHG-p170">{{Cite book/On Hallowed Ground|170-171,181}}</ref>
+| power1e             = [[Lesser deity]]
+| alignment1e         = [[Chaotic good]]
+| symbol1e            = Circle of seven stars around two feminine eyes
+| homeplane1e         = [[Gladsheim]]
+| realm1e             = 
+| serves1e            = [[Sune]]
+| servedby1e          = 
+| portfolio1e         = [[Moon]], stars, navigation
+| worshipers1e        = Female spellcasters, [[lycanthrope]]s, navigators, those who work at night
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="FRCS1e-p13">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|13-14,16,17,18}}</ref>
+| animals             = [[Owl]]s
+| plants              = 
+| monsters            = [[Song dragon]]s, [[weredragon]]s, good [[lycanthrope]]s, shapechangers, [[Shards]]
+| minerals            = [[Moonstone]]
+| colors              = Blue, silver
+| misc manifestations = 
+| manifestation refs  = <ref name="F&A-p134"/><ref name="tWoN-p51"/><ref name="FaP-p55"/><ref name="F&P-WE"/>
+| church              = yes
+}}
+'''Selûne''' ({{Pronounce|seh|LOON|eh|refs=<ref name="FRCS1e-p13"/><ref name="F&A-p134"/><ref name="tWoN-p51"/>}} {{Pronounce|alt=yes|seh|LOON|ay|refs=<ref name="FRCS3e-p248"/>}}), also known as '''Our Lady of Silver''', the '''Moonmaiden''', and the '''Night White Lady''', was the [[god]]dess of the moon in the [[Faerûnian pantheon]]. In the 14{{th}} and 15{{th}} centuries [[DR]], she held the [[portfolio]]s of the moon, stars, navigation, navigators, wanderers, questers, seekers, and non-evil [[lycanthropes]].<ref group="note">The [[Forgotten Realms Campaign Setting 3rd edition|''Forgotten Realms Campaign Setting'' (3rd edition)]], page 235, shows a table listing Selûne as also possessing the portfolio of prophecy. However, this is not reflected in her full write-up in the same book, nor in any other account of her. It may have been placed in error; the immediately preceding entry is for [[Savras]], god of divination, but Savras is also not formally given a prophecy portfolio anywhere either. Although the errata for the FRCS does not mention this discrepancy, 3rd-edition rules advise adopting text over tables when discrepancies occur, so it is not included here.</ref>
+
+In the time of ancient [[Netheril]], when she was a greater goddess, she held the portfolios of the moon, moonlight, and stars; beauty and purity; love and marriage; navigation and navigators; tracking, wanderers, and seekers; diviners and dreams; good and neutral lycanthropes; and autumn. Hers was the moon's mysterious power, the heavenly force that governed the world's tides and a mother's reproductive cycles, caused lycanthropes to shift form, and drew one to the brink of [[madness]], and back again. Her nature, appearance, and mood all changed in turn with the moon's phases.<ref name="FRCS1e-p13"/><ref name="FRA-p29"/><ref name="FRCS2e-p52"/><ref name="F&A-p134"/><ref name="tWoN-p51"/><ref name="FRCS3e-p248"/><ref name="FaP-p55"/><ref name="SCAG-p36"/><ref name="OHG-p170"/><ref name="FRPG-p152"/>
+
+She was also known as [[Bright Nydra]] in the [[Farsea Marshes]]; as '''Elah''' among the [[Bedine]] of [[Anauroch]]; and as '''Lucha''', called '''She Who Guides''', in the [[Shining Lands]], where she was part of the faith of the [[Adama]].<ref name="F&A-p134"/><ref name="tWoN-p51"/> Her name was shared by the moon of [[Toril]], [[Selûne (moon)|Selûne]];<ref name="FRCS2e-p52"/> it was unknown if the moon was named for the goddess or the goddess for the moon.<ref name="FRCS1e-p13"/> Regardless, most Faerûnian humans believed the moon to be the goddess herself watching over the world and the lights that trailed behind it to be her tears, from both joy and sorrow.<ref name="SCAG-p36">{{Cite book/Sword Coast Adventurer's Guide|36}}</ref>
+
+{{quote
+|''Let all on whom my light falls be welcome if they desire to be so. As the silver moon waxes and wanes, so too does all life. Trust in my radiance, and know that all love alive under my light shall know my blessing. Turn to the moon, and I will be your true guide.''
+|The words of Selûne, which all novices were charged with.<ref name="F&A-p136">{{Cite book/Faiths and Avatars|136}}</ref>
+}}
+
+==Description==
+[[File:Luna scrying.jpg|thumb|left|''Luna, an avatar of Selûne''.]]
+In both her [[avatar]]s and her religious artwork, Selûne appeared in many forms, like the phases of the moon. One was a dusky-skinned [[human]] woman with long limbs; perfect and exquisite beauty; wide, radiant, lime-green eyes; and long, ivory-hued hair that fell to her knees. Another was an ethereal young girl of slender frame, dark eyes, and dark hair, wearing diaphanous robes colored white or resembling dappled moonlight, which trailed her "moondust" or "moon motes". A third was a matronly middle-aged woman, plump yet fair and aging gracefully, with gray-streaked dark hair. This one sometimes lived among mortals; the most notable such avatar was the innkeeper '''[[Luna]]'''. A simple depiction of the goddess was of a woman's face on the disc of the moon.<ref name="FRCS1e-p13"/><ref name="FRCS2e-p52"/><ref name="F&A-p134"/><ref name="tWoN-p51"/><ref name="FaP-p55"/><ref name="OHG-p170"/>
+
+She was also ever changing, aging but ageless. If watched over time, her appearance seemed to grow to full radiance or to age and fade away, in keeping with the waxing or waning of the moon. Such changes only affected her external appearance and did not reflect any change in might, at least to mortal eyes.<ref name="FRCS1e-p13"/><ref name="F&A-p134"/><ref name="FaP-p55"/><ref name="FRPG-p152"/> But, over time, she did indeed wax and wane in power and prominence.<ref name="FRPG-p152"/>
+
+In any form or state, whenever she was in darkness, Selûne's avatar continually emanated a faint blue-white glow like moonlight.<ref name="F&A-p134"/><ref name="tWoN-p51"/>
+
+==Personality==
+Like the cycles of the moon, Selûne had many and changing moods and natures. Her faithful, coming from many walks of life, viewed her in countless different ways, and she reflected this.<ref name="FRA-p29"/><ref name="F&A-p134"/><ref name="FaP-p55"/> Sometimes she was enthusiastic, vivacious, joyous, and majestic, given to action and dance.<ref name="F&A-p134"/><ref name="FaP-p55"/><ref name="OHG-p170"/> At other times, she was subdued, motherly, and almost poetic<ref name="F&A-p134"/> or tranquil and embracing.<ref name="OHG-p170"/> Then she was remote and weighed down by sadness at defeats and tragedies, even those that happened long, long ago.<ref name="F&A-p134"/><ref name="FRCS3e-p248"/><ref name="FaP-p55"/> Finally, she could be aggressive and fierce, but cold, and with little mercy for her enemies.<ref name="F&A-p134"/><ref name="OHG-p170"/> These shifting personalities made her versatile.<ref name="OHG-p170"/> Nevertheless, she was viewed as a calm power ''circa'' [[1489 DR]].<ref name="SCAG-p36"/>
+
+More often than not, Selûne was caring and accepting of most beings, and forgiving of most of her followers' faults. She was both ageless and ancient. She was quietly mystical and, as a being of [[chaos]], well used to change. She had a serene and peaceful nature and was slow to anger; she would not fight if she could help it, but nor did she hold back if she must. She was fiercely protective when confronted by evil. The one constant was her eternal conflict with Shar.<ref name="FRA-p29"/><ref name="FRCS2e-p52"/><ref name="F&A-p134"/><ref name="tWoN-p51"/><ref name="FRCS3e-p248"/><ref name="FRCS3e-p248"/><ref name="FRPG-p152"/>
+
+She was generous and freely bestowed gifts and blessings on mortals.<ref name="FRA-p29"/><ref name="F&A-p134"/><ref name="tWoN-p51"/> She also made few demands of her followers.<ref name="FRCS2e-p52"/><ref name="F&A-p134"/><ref name="tWoN-p51"/> When beseeched by her clergy, she always responded.<ref name="F&A-p134"/>
+
+==Abilities==
+[[File:Selûne vs Shar.jpg|thumb|right|250px|''Selûne battles Shar, while her Shards swoop overhead.'']]
+When manifested as an avatar, she could cast a wide variety of magical [[spell]]s, except those of the [[plant sphere]] and any that conjured darkness. She would avoid reversed and injurious forms of healing spells and [[necromantic sphere]] spells, unless absolutely necessary. She could freely cast [[divination]] spells, even alongside other spells. Her spells all had a similar appearance, beginning as streaks of moonbeams and only revealing their true effect when they struck. She radiated ''[[protection from evil]]'' to a distance of a 100 yards (90 meters), and no good summoned creature within this range could be dispelled or banished. Meanwhile, a ''[[holy word]]'' from her automatically banished [[evil]] [[extraplanar]] beings.<ref name="F&A-p134"/><ref name="tWoN-p51"/>
+
+She could not be damaged by electricity and light spells, and could not be affected by [[illusion]], [[enchantment]], or ''[[charm]]'' and [[charm sphere]] spells. No [[lycanthrope]] could attack her. She could not be detected or revealed by divination magic unless she willed it.<ref name="F&A-p134"/>
+
+If pressed into battle, Selûne was an awesome warrior, fighting with divine fury but with martial and magical skill in coordination.<ref name="F&A-p134"/>
+
+She typically manifested as trails of dancing motes of light, similar to [[will-o'-wisp]]s, commonly called "moondust" or "moon motes", which could shed moonlight where there should be none.<ref name="FRCS1e-p13"/><ref name="F&A-p134"/><ref name="tWoN-p51"/><ref name="F&P-WE">{{Cite web enhancement/Deity Do's and Don'ts|9, 14}}</ref> In this form, she guided travelers lost in the night or journeying over hazardous terrain, and came to shine for her faithful when light was needed for a delicate action.<ref name="F&A-p134"/><ref name="tWoN-p51"/> These moon motes occasionally exuded a radiant, sparkling, pearly-hued liquid known as "[[drops fallen from the moon]]", which was the holy essence of Selûne and was prized by the faithful.<ref name="F&A-p134"/><ref name="tWoN-p51"/><ref name="F&A-p136"/>
+
+To indicate her favor or presence or to help mortals, Selûne might send [[owl]]s; [[weredragon]]s or [[song dragon]]s; certain breeds of good lycanthropes or other shapechanging creatures; or one of her loyal [[planetar]] servants known as the [[Shards]],<ref name="F&A-p134"/><ref name="tWoN-p51"/><ref name="F&P-WE"/> or lesser beings known as [[sliver]]s.<ref name="D-353-VG-OotFR-pp67-68">{{Cite dragon/353/Volo's Guide: Outsiders of the Forgotten Realms|67-68}}</ref> Other signs were the colors blue and silver and the appearance of [[moonstone]]s. For example, a Selûnite captured by Sharrans who spied a moonstone ring on one of their fingers would understand there was a spy in the cult.<ref name="F&P-WE"/> Selûne would also create ''[[moonfire]]'' for her faithful during a ritual, which could enchant items or the worshipers themselves.<ref name="F&P-WE"/><ref name="F&A-p136"/>
+
+Finally, Selûne could sense any deed that occurred in the open light of the moon, anywhere in the world. She could also instantly create any [[magical item]] that could heal, influence shapechangers, or bestow spells of the [[Moon domain]].<ref name="FaP-p55"/>
+
+==Activities==
+[[File:Selûne and her Tears.jpg|thumb|left|''The moon Selûne and her Tears.'']]
+She was believed to control the ebb and flow of the tides and to comfort those in need during the night. Her moon shined a light in the darkness, holding evil at bay. She had infused her spirit with the moon, and there eternally watched over the world.<ref name="FRCG-p80"/> Through the moon, she controlled the powers of lycanthropes.<ref name="FRCS1e-p13"/> [[Lycanthropy]] was often known by the euphemism "Selûne's Kiss"; one so touched was said to be "kissed by Selûne".<ref>{{Cite book/Heroes' Lorebook|55}}</ref>
+
+In the time of Netheril, and later in the Shining Lands under the guise of Lucha, she was believed to guide herders to good pastures, to aid ships lost on the sea and travelers lost in the wilds, to deliver love to those who sought it and bless marriages, to guarantee the safety of births, and to watch over relationships and connections between people.<ref name="F&A-p134"/><ref name="tWoN-p51"/> In Netheril, Selûne blessed all things beautiful purely for the sake of their beauty, and granted visions to people who desired them for good purposes.<ref name="tWoN-p51"/>
+
+Avatars of Selûne most often wandered the [[Outer Planes]], seeking out magical lore or an advantage to help her destroy Shar once and for all. She was reluctant to manifest avatars in [[Faerûn]], as Shar took joy in obliterating them there.<ref name="FaP-p55"/> However, Selûne often provided her priests with temporary powers or spells to help them achieve the missions she gave them.<ref name="EGPEFR-p160"/>
+
+Selûne was in constant conflict with Shar, her sister and the goddess of darkness.<ref name="FRPG-p152"/><ref name="FRCG-p80"/> Their war was the eternal drama of the sky, vital to the balance of nature: the dark of the night devouring the light of the moon, before the moon was renewed and the cycle repeated.<ref name="ADDc-22"/> In their never-ending struggle across the sky, Selûne was slain by Shar at every new moon.<ref name="FRCS1e-p13"/> They fought incessantly to undercut the other.<ref name="OHG-p170"/>
+
+Babes born beneath a full moon often grew up to exhibit magical talent, thanks to Selûne's link with [[Mystra]].<ref name="FRCS1e-p13"/> Meanwhile, those conceived under moonlight were believed to "have the moon alive within them" and expected to turn to the worship of Selûne.<ref name="EGPEFR-p160">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|160-161}}</ref>
+
+Folk were encouraged to pray to Selûne under moonlight, for she gained real power at such times. Furthermore, she could guide those who meditated under moonlight, even if they did not pray to her.<ref name="EGPEFR-p160"/>
+
+==Divine Realm==
+[[File:GatesOfTheMoon.jpg|thumb|right|''Argentil, standing on an island in the middle of the sea of the Gates of the Moon.'']]
+Selûne dwelled in a planar realm called the [[Gates of the Moon]].<ref name="F&A-p134"/><ref name="FaP-p55"/><ref name="PGTF-p54"/> Under the [[Great Wheel cosmology]], her realm stood on the [[plane]] of [[Ysgard]], also called [[Gladsheim]].<ref name="FRCS1e-p13"/><ref name="FRA-p29"/><ref name="FRCS2e-p52"/><ref name="F&A-p134"/><ref name="tWoN-p51"/><ref name="OHG-p170"/> Under the subsequent [[World Tree cosmology]], the Gates of the Moon was considered its own plane.<ref name="FaP-p55"/><ref name="PGTF-p54">{{Cite book/Player's Guide to Faerûn|154}}</ref><ref name="FRCS3e-p258">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|258}}</ref> Under the [[World Axis cosmology]], the Gates of the Moon was a dominion in the [[Astral Sea]].<ref name="FRCG-p80"/> In the middle of the Gates of the Moon, Selûne resided in a shining silver hall named [[Argentil]], a place of beauty, quietness, and moonlight.<ref name="FRCG-p80"/><ref name="PGTF-p54"/>
+
+==Possessions==
+In battle, Selûne sometimes wielded a ''moon blade +3'', in fact a lasting form of the ''[[moon blade]]'' spell.<ref name="F&A-p134"/><ref name="tWoN-p51"/> However, her favored weapon was the ''[[Rod of Four Moons]]'' (also called the ''Wand of Four Moons''), a four-flanged [[heavy mace]] of potent magical power.<ref name="F&A-p134"/><ref name="tWoN-p51"/><ref name="FRCS3e-p248"/><ref name="FaP-p55"/> [[Selûne's scale mail]] comprised opalescent, circular scales that glowed faintly with silver light; she donned it only in battle, but might lend it to beings on a quest for her, without losing any of its protection herself.<ref name="F&A-p134"/>
+
+==Relationships==
+Selûne counted as her allies fellow deities of the moon, beauty, fortune, joy, light, magic, and weather. Among them were the first [[Mystra]] and the second [[Mystra (Midnight)|Mystra]], who was her greatest ally against Shar since 1358 DR. [[Eilistraee]] and [[Lliira]], meanwhile, shared her love of frolicking under the moon. Even after parting ways, Selûne continued to have fully cooperative and amiable relationships with [[Sune]] and Lliira both. Selûne respected [[Lathander]] for his passion, and hoped they could cooperate to shine light on Shar's dark deeds. Other allies were [[Sehanine Moonbow]], an elven goddess of the moon, whom she worked closely with; fellow gods of travelers and mariners [[Shaundakul]] and [[Valkur]]; the goddesses of nature [[Chauntea]] and [[Eldath]]; and [[Tymora]], goddess of luck. She was also allies with [[Angharradh]], [[Corellon]], and [[Cyrrollalee]].<ref name="FRCS1e-p13"/><ref name="F&A-p134"/><ref name="FRCS3e-p248"/><ref name="FaP-p55"/><ref name="OHG-p170"/><ref name="F&A-p47">{{cite book/Faiths and Avatars|47,57,90,96,128,149,166}}</ref><ref>{{Cite book/Demihuman Deities|13,97,100,125}}</ref> Outside the Realms, she was on good terms with Celestian, Hermes, and Soma, gods of other worlds.<ref name="OHG-p170"/> In the time of Netheril, she was an ally of [[Mystryl]], [[Jannath]], and [[Tyche]]. However, Mystryl saw Selûne as smothering and maternal and sometimes rebelled against her well-intentioned wishes.<ref name="tWoN-p51"/><ref name="tWoN-p37">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|37,49,60}}</ref>
+
+Her eternal enemy was her sister [[Shar]], goddess of the night, a war that had been waged since before all other Faerûnian gods existed, before time was recorded. They fought constantly in all realms of existence, across the sky at night and in other planes, waged through their mortal followers and their servitor beings, and in person. Selûne labored always to thwart Shar's dark plots. They would never forgive and never forget.<ref name="FRCS1e-p13"/><ref name="FRA-p29"/><ref name="FRCS2e-p52"/><ref name="F&A-p134"/><ref name="tWoN-p51"/><ref name="FRCS3e-p248"/><ref name="FaP-p55"/><ref name="OHG-p170"/><ref name="F&A-p138">{{cite book/Faiths and Avatars|138}}</ref><ref name="tWoN-p55">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|55}}</ref>
+
+Her other great foes were [[Mask]], for the mischief and wickedness he made in the shadows formed by her moon's light at night; [[Umberlee]], over the fates of ships at sea; and the rotting god [[Moander]].<ref name="FRCS1e-p13"/><ref name="F&A-p134"/><ref name="FRCS3e-p248"/><ref name="FaP-p55"/><ref name="F&A-p109">{{cite book/Faiths and Avatars|109,119,173}}</ref> In the time of Netheril, she was opposed to Moander, [[Kozah]], and [[Targus]]. However, Targus, god of war, thought Selûne was too beautiful, in soul and self, for him to hate.<ref name="tWoN-p51"/><ref name="tWoN-p42">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|42,45,58}}</ref> The deity of the dark side of the moon – [[Jessar]], was an enemy of Selûne and Sharess.<ref name="LC1">{{Cite organized play/LC/Night of the Lunar Eclipse|2}}</ref>
+
+The [[Zakharan pantheon|Zakharan deity]] [[Selan]] was a moon goddess who shared a similar name and outlook with Selûne, but had a somewhat different area of interest, namely beauty.<ref name="LoF51">{{Cite book/Land of Fate/Adventurer's Guide to Zakhara|51}}</ref><ref group="note">Thus the connection between the two remains a mystery, though Selûne's earlier Netherese incarnation was also a goddess of beauty.</ref>
+
+She was served specially by the [[Shards]], a band of unique [[planetar]]s of shining aspect. They usually bestowed mortals with gifts and boons on her behalf.<ref name="FRCS1e-p13"/><ref name="FRA-p29"/><ref name="F&A-p134"/><ref name="tWoN-p51"/><ref name="FRCS3e-p248"/><ref name="FaP-p55"/> Lesser creatures of similar appearance, called slivers, also acted as her special servants.<ref name="D-353-VG-OotFR-pp67-68" /> Selûne sometimes transformed favored [[petitioner]]s into shards, [[Celestial eladrin|eladrins]], or [[lillend]]s as a reward for their faithful service in their mortal lives.<ref name="PoF-p54">{{Cite book/Power of Faerûn|54}}</ref>
+
+Selûne was the mother of [[Aylin|Dame Aylin]], an [[aasimar]] that battled against the forces of [[the Absolute]].<ref name="BGIII">{{Cite game/Baldur's Gate III}}</ref>
+
+==Symbol==
+[[File:Selûne symbol BG3.png|thumb|left|''The holy symbol of Selûne.'']]
+Her holy symbol was a bright pair of eyes of a darkly beautiful human woman, encircled by seven silver stars.<ref name="FRCS1e-p13"/><ref name="FRA-p29"/><ref name="FRCS2e-p52"/><ref name="F&A-p134"/><ref name="tWoN-p51"/><ref name="FRCS3e-p248"/><ref name="FaP-p55"/><ref name="FRPG-p152"/><ref name="FRCG-p80"/><ref name="MotN-p10" />
+
+==Worshipers==
+{{Main|Church of Selûne}}
+{{Quote|Let your moon be my light, and I shall let my sword be your shining symbol.|A basic prayer to Selûne.<ref name="BG3">{{Cite game/Baldur's Gate III}}</ref>}}
+
+Selûne and her teachings of compassion and guidance were appealing to all folk who lived their lives by the moonlit night sky, and hence her faithful were a very diverse group. She was followed by those who were lost and those who were questing. Sailors and navigators, who traveled by the stars, often prayed to the Night White Lady to protect them from [[Umberlee]], the Queen of the Depths. Others who labored by night at honest work prayed to her for similar reasons. Some sought her for protection in the dark or from the dark forces of Shar. [[Lycanthrope]]s, whether those of good heart, neutrality, or a few who relished their condition, honored the Moonmaiden as the mistress of their nature. Astrologers, diviners, fortune-tellers, mystics, and those just curious about the future acknowledged her as a ruler of fate. Female spellcasters revered her, particularly those born during a full moon or who had an interest in divination, and a few dedicated themselves to her.<ref name="FRCS1e-p13" /><ref name="FRCS2e-p52" /><ref name="F&A-p134" /><ref name="tWoN-p51" /><ref name="FRCS3e-p248" /><ref name="FaP-p55" /><ref name="SCAG-p36" /> She was also worshiped by [[illusion]]ists, some sages, and good [[thief|thieves]].<ref name="FRCS1e-p13" />
+
+In particular, she was commonly worshiped by human women.<ref name="FRCS1e-p13"/><ref name="FRCS2e-p52"/><ref name="F&A-p134"/><ref name="tWoN-p51"/><ref name="FRCS3e-p248"/><ref name="FaP-p55"/><ref name="SCAG-p36"/> They looked to Selûne for guidance, courage, and strength, while couples hoped she would bless them with children when the time was right.<ref name="F&A-p134"/><ref name="tWoN-p51"/> In the 14{{th}} century DR, the church's ideology of female empowerment made her popular with [[Wikipedia:Alewife (trade)|alewives]], laundresses, seamstresses, and servants.<ref name="FaP-p55"/>
+
+[[File:Moon-Blessed Cleric.png|thumb|right|350px|A [[half-elven]] cleric of Selûne wielding her ''[[holy symbol]]''.]]
+Meanwhile, the church's philosophy of self-reliance and finding one's path made her popular with all kinds of mavericks, eccentrics, and outsiders, such as adventurers and outcasts.<ref name="F&A-p134"/><ref name="tWoN-p51"/> She was one of those gods worshiped by non-wicked [[tiefling]]s of the late 15{{th}} century DR.<ref name="SCAG-p36"/>
+
+Even those not dedicated to Selûne would pay their respects to her. For example, a band of adventurers on a night-time raid might make an offering to Selûne for guidance.<ref name="FRCS1e-p13"/> Most goodly folk paid homage to Selûne during the full moon.<ref name="FaP-p55"/> Even evil [[thief|thieves]] would try to placate her.<ref name="FRCS1e-p13"/>
+
+In the Shining Lands of [[Durpar]], [[Estagund]], and [[Var the Golden]] in [[southeast Faerûn]], Selûne was known as Lucha, She Who Guides. Here, she was seen as part of the [[Adama]], a unifying world spirit that included all gods, the world, and everything.<ref name="F&A-p134"/> Almost everyone in Durpar worshiped Lucha, in the belief that she personally watched over all marriages performed by her priests, as most marriages in Durpar were. It was also believed she guided traders to the best customers.<ref name="F&A-p136"/>
+
+The itinerant [[Gur]]s of the [[Western Heartlands]] followed Selûne, for she was a goddess of wanderers and navigation. They thought of themselves as "children of Selûne".<ref name="RoF-p106">{{Cite book/Races of Faerûn|106}}</ref><ref name="SCAG-p111">{{Cite book/Sword Coast Adventurer's Guide|111}}</ref>
+
+Among the [[fomorian]]s who dwelt beneath [[Gwynneth]] in the [[Moonshae Isles]], some regarded her as a merciful patron goddess of maidenhood as well as the moon.<ref name="TRoS-fomorians">{{Cite digital book/The Rose of Sarifal/Kindle||8,11,13}}</ref>
+
+===Beliefs===
+According to Moonsea superstition, one who mocked Selûne while aboard a ship would never complete their voyage. The sailors of Thentia took this very seriously. Furthermore, Thentians saw the whole Moonsea as sacred to the goddess.<ref name="tM-RG-p38"/> Another Moonsea legend held that couples who came to [[Point Moonsea]] on the first night of Selûne's feast day and exchanged their vows would suffer no strife in their marriage.<ref name="tM-PG-p32">{{Cite book/The Moonsea/Player's Guide|32}}</ref>
+
+[[Moonstone]]s were believed to be sacred to Selûne by her followers.<ref name="VGtATM-p44">{{Cite book/Volo's Guide to All Things Magical|44}}</ref> Some folk believed [[silver]] to be Selûne's hardened tears.<ref name="VGtATM-p57">{{Cite book/Volo's Guide to All Things Magical|57}}</ref> Silver cups were the favored receptacles for [[milk]] offerings to Selûne.<ref name="bg">{{Cite game/Baldur's Gate III}}</ref>
+
+===Heresies===
+Those who believed in the [[Dark Moon heresy]] held that Selûne and Shar were two faces of the same goddess.<ref name="PoF-p47">{{Cite book/Power of Faerûn|47}}</ref>
+
+By [[1489 DR]], some tiefling followers of Selûne claimed to have received visions of her in their own image, describing her as the "pale horned goddess of the moon". Such visions were claimed by tieflings of several faiths, such as [[Tymora]]'s. Though disturbing to mainstream churches, the tieflings argued these visions meant the heart and soul meant more to the gods than appearance and bloodline.<ref name="SCAG-p119">{{Cite book/Sword Coast Adventurer's Guide|119}}</ref>
+
+==History==
+Selûne was believed to be one of the oldest deities known in Faerûn. Many legends were told about her, the central one being her conflict with her sister Shar at the beginning of all things.<ref name="SCAG-p36"/> It was told by clerics of Selûne, Shar, and Chauntea,<ref name="MoF-p4">{{Cite book/Magic of Faerûn|4,6-7}}</ref> but it was repeated in so many religions in Faerûn it was widely held to be true.<ref name="FRCS3e-p260">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|260}}</ref>
+
+===Creation===
+[[File:Shar vs Selune.jpeg|thumb|right|250px|''The goddesses Shar and Selûne locked in their eternal battle of dark and light.'']]
+According to one of the most ancient myths of the creation of the world and the heavens, after [[Realmspace|the universe]] and its [[crystal sphere]] were created by Lord [[Ao]], there was naught but the primordial essence, the protoplasmic raw stuff of existence. Described as chaos and timeless nothingness, the sphere was filled with no more than dim misty shadows, neither light nor dark, for such things had not yet separated. (All that moved here were the [[shadevari]], the thirteen lords of shadow, whose origin, whether from elsewhere or from the shadow itself, is unknown.<ref name="F&A-p141"/>) In time, Selûne coalesced from the primordial essence, alongside her twin sister, Shar. The goddesses were beautiful, identical but polar opposites, silver-haired and raven-haired, one representing the light, the other the dark in the manner of [[Wikipedia:Yin and yang|yin and yang]]. Yet they were so close they saw themselves as one being, known later as the '''Two-Faced Goddess''' or the '''Sisters-Who-Were-One'''. They complemented each other<ref name="FRCS3e-p248"/><ref name="MoF-p4"/><ref name="FRCS3e-p260"/><ref name="F&A-p141">{{Cite book/Faiths & Avatars|141}}</ref> and brought order out of the chaos.<ref name="FRCG-p80"/>
+
+Together, they created from the cosmic ether [[Abeir-Toril]] and the other heavenly bodies and infused these worlds with life. In the process, they formed the goddess [[Chauntea]] (at that time, the embodiment of all matter in Realmspace, later only of the world of Abeir-Toril), whom they worked with to bless the worlds with life.<ref name="FRCS3e-p248"/><ref name="FaP-p55"/><ref name="FRCG-p80"/><ref name="MoF-p4"/><ref name="FRCS3e-p260"/><ref name="F&A-p141"/> This universe was illuminated by the cool radiant face of Selûne and darkened by the hair and welcoming embrace of Shar. However, there was no fire or heat on any of these bodies. Desiring to nurture life on the worlds that formed her body and limbs, Chauntea asked the Two-Faced Goddess for warmth. Then, for the first time, Selûne and Shar were divided, being of two minds on whether they should let there be more life on the worlds or not.<ref name="FaP-p55"/><ref name="MoF-p4"/><ref name="FRCS3e-p260"/><ref name="F&A-p141"/>
+
+===The War of Light and Darkness===
+The two goddesses then fought over the fate of their creations. From the residues of these struggles emerged the original deities of magic, war, disease, murder, death, and others.<ref name="FRCS3e-p248"/><ref name="FaP-p55"/><ref name="MoF-p4"/><ref name="FRCS3e-p260"/><ref name="F&A-p141"/> Seizing an advantage, Selûne reached out of the universe altogether and into a [[Elemental Plane of Fire|plane of fire]] and, though it burned her painfully, brought forth a fragment of [[elemental fire|ever-living flame]]. She ignited a heavenly body—[[the Sun]]—in order to give warmth to Chauntea.<ref name="FaP-p55"/><ref name="MoF-p4"/><ref name="FRCS3e-p260"/><ref name="F&A-p141"/><ref group="note">''[[Faiths & Avatars]]'' page 141 has Selûne create the Sun after the beginning of the war with Shar, while ''[[Faiths & Pantheons]]'' page 56 has this as the trigger for the war with Shar.</ref>
+
+{{fq
+| float  = right
+| width  = 
+| text   = From the shadows of chaos, two sisters are born,<br />One bright Selûne, the other dark Shar.<br />A harmonious balance soon to be torn<br />When Selûne gifts life with flame from afar!
+| source = An excerpt from a ballad by [[Veseene|Veseene the Lark]]<ref name="MotN-p8">{{Cite book/Mistress of the Night|8}}</ref>
+}}
+This greatly enraged Shar; she renewed her assault on her injured sister and began to blot out all light and warmth in the universe, or the lights of Selûne, gravely weakening her. Desperate to protect the early life, Selûne tore out some of her own divine essence, though it nearly killed her, and hurled it at her sister. Selûne's essence tore through Shar, bonding with some of Shar's essence and pulling it loose. This magical energy combined to form the goddess [[Mystryl]], the original goddess of [[magic]]. Although Mystryl was composed of both light and dark magic, she initially sided with Selûne, her first mother, giving her the upper hand. Mystryl balanced the conflict and mediated an uneasy truce.<ref name="FRCS3e-p248"/><ref name="FaP-p55"/><ref name="MoF-p4"/><ref name="FRCS3e-p260"/><ref name="F&A-p141"/> Shar was cast into her darkness for centuries, enabling light and warmth to bathe Abeir-Toril and the other worlds.<ref name="FaP-p55"/>
+
+However, the battle left Selûne deeply wounded, and thereafter her power would wax and wane with the ages, though she would gain strength from alliances with her daughters and sons, as well as interloper deities from other [[planes]]. Meanwhile, Shar, who'd retained much of her might, once again grew strong, and was aided by the shadevari. Consumed with bitterness and loneliness, she vowed revenge and lurked in the darkness until her time to strike. The war between the sisters would go on forever more, with battles both large and small, obvious and subtle, but life struggled and flourished on the worlds, watched over by Chauntea.<ref name="FaP-p55"/><ref name="MoF-p4"/><ref name="FRCS3e-p260"/>
+
+===The Dawn War===
+When the [[primordial]]s began to attack the newly born worlds of Realmspace, Shar and Selûne set aside their differences temporarily and moved to defend those worlds against the threat. Other gods were born from the conflict or were summoned from other [[Cosmology|universes]] to aid the native gods in their struggles against the primordials and their servants. This conflict was later known as the [[Dawn War]].<ref name="FRCG-p42">{{Cite book/Forgotten Realms Campaign Guide|42}}</ref><ref>{{Cite book/Heroes of the Elemental Chaos|32}}</ref>
+
+===In the Time of Netheril===
+Selûne was worshiped by the [[Netherese]] in the ancient empire of [[Netheril]], where she was known as part of the [[Netherese pantheon]], alongside Shar, Mystryl, [[Jannath]] (later known as Chauntea), [[Amaunator]], [[Jergal]], [[Kozah]], [[Moander]], [[Targus]], and [[Tyche]].<ref name="tWoN-p18">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|18,19}}</ref> A temple dedicated to Selûne, the [[Abbey of the Moon]], was established in {{Yearlink|-3847}}.<ref name="tWoN-p64">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|64}}</ref><ref name="tGHotR-p27">{{Cite book/The Grand History of the Realms|27}}</ref>
+
+In the {{YearlinkName|-339}}, [[Karsus's Folly]] triggered the death of Mystryl and caused the cataclysmic Fall of Netheril. The city of [[Opus]] was believed to have escaped the destruction visited upon the other Netherese enclaves. It wasn't clear how this happened, but some sources told that Selûne herself saved the city.<ref name="tWoN-p82">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|82}}</ref> She did indeed, spiriting the entire city and its citizens into the Gates of the Moon, where it was named [[Selûnarra]].<ref name="LEoF-p109">{{Cite book/Lost Empires of Faerûn|109,112}}</ref>
+
+===The Dawn Cataclysm===
+During the divine conflict known as the [[Dawn Cataclysm]], Tyche, the goddess of luck, was covertly corrupted by Moander, the god of decay, whilst on her travels. She returned to her realm and found Selûne, a dear friend, had come to speak with her, as well as the god of the dawn [[Lathander]], Tyche's ex-lover and instigator of the Dawn Cataclysm, and the god of mages, [[Azuth]], who'd come to mediate. However, seeing the rot within Tyche, Selûne began to weep great tears and swiftly struck her with a bolt of light intended to purify her. However, Tyche instead split down the middle, producing first [[Tymora]], the goddess of good luck, and then [[Beshaba]], goddess of bad luck. The twins immediately fell to fighting and were separated only by Selûne, Lathander, and Azuth. In Tymora, Selûne had saved all that was good and pure in Tyche.<ref name="F&A-p44">{{Cite book/Faiths & Avatars|44}}</ref><ref name="SCAG-p40">{{Cite book/Sword Coast Adventurer's Guide|40}}</ref>
+
+Afterward, Selûne grieved the death of Tyche, her close friend and ally. In her weeping, she shed one crystalline tear, which fell to ground as a [[meteor]] in the land of [[Thar]]. It became a great and sacred [[artifact]], called the ''[[Tear of Selûne]]''.<ref name="VGtATM-p118">{{Cite book/Volo's Guide to All Things Magical|118-119}}</ref>
+
+===The Song of Selûne===
+[[File:Imgig Zu and Luna 1.jpg|thumb|right|''With the wand of power, the unsuspecting Selûne and a disguised Imgig Zu ride to Toril.'']]
+A legend titled the [[Song of Selûne]] told of her as a youthful goddess, residing in a mystic realm populated by deities. Impulsive and bored of a life of ease, she "borrowed" a [[wand of power]] from "her father" and used it to fly away in a bubble of force, so that she might experience life in other realms.<ref name="ADDc-03">{{Cite comic/The Secret of Selûne's Eye|7-9, 25}}</ref><ref group="note">The idea that Selûne has a father seems at odds with the conventional creation myth of the Realms, in which Selûne is said to have coalesced out of the primordial essence of Realmspace and no "father" is mentioned. However, since these sources also say Lord Ao created Realmspace, it is likely that this "father" is Ao. On the other hand, it is possible that this father is strictly the father of Luna, Selûne's avatar.</ref>
+
+In time, she encountered a mysterious and attractive warrior, [[Imgig Zu]], a lord of his people, and was smitten. He persuaded her to use the wand to transport him and his followers to Toril, but once they landed, they revealed themselves as hideous shapechanging monsters bent on conquest and ruin. Imgig Zu seized the wand of power and intended to kill the deceived goddess. Fortunately, [[Ostus Agrivar|a brave young wizard]] rode to her rescue, causing enough confusion and chaos that Selûne could escape. The goddess, now freed, used her own life force to imprison the monsters inside a pocket dimension within a [[moonstone]], now known as ''[[Selûne's Eye]]''.<ref name="ADDc-03"/>
+
+However, Selûne had weakened herself and sacrificed her immortal youthful vitality and beauty, aging thousands of years. This was a fact she kept hidden from the young wizard. The story had a few alternate endings. In some, Selûne learned her lesson and went back to her home, and brought the young mage with her. In others, Selûne died because of her sacrifice, but was resurrected come the next full moon. Still others told that the young mage loved her, but she rejected his advances because she was no longer young or beautiful.<ref name="ADDc-03"/><ref group="note">Luna closely resembles an aged version of the Selûne depicted in the Song of Selûne, implying this is the same avatar.</ref>
+
+===Modern History===
+Selûne had been an independent deity for millennia, but her might waned and in time she came to serve [[Sune]], goddess of love, for several centuries.<ref name="FRCS1e-p13"/><ref name="F&A-p134"/><ref name="FaP-p55"/>
+
+In the mid–14th century [[DR]], Selûne aided the god-like [[cat lord]]s. In late 1340s [[DR]], the conman and thief [[Conner]] attempted to rescue the young [[Vajra Valmeyjar]] from slavery to [[Pasha]] [[Abon Duum]] in [[Manshaka]]. He failed, but as he lay dying beneath a desert moon, Selûne healed him through divine intervention. He survived, but continually tried and failed to rescue Vajra.<ref name="ADDc-16">{{Cite comic/The Last Betrayal|2, 23-24}}</ref> At some point in the 1350s DR, known only as a mysterious woman, Selûne appeared to Conner. She foretold certain signs and sent him into the midst of a vicious battle between the old [[Catlord (old)|Catlord]] and the god [[Malar]], the Beastlord, to rescue the [[kittenlord]] from Duum's grasp. Conner claimed to be on a mission from a god to protect the child and the Catlord allowed him to carry the child away, and Conner was guided by the foretold signs. Thus Conner became the guardian of the cat lord's heir.<ref name="ADDc-16"/>
+
+For a long time, Selûne had chosen to live her life as a mortal woman in the city of [[Waterdeep]]. Named [[Luna]], she ran the [[Selûne's Smile]] inn and tavern in the city.<ref name="FRCS2e-p52"/><ref name="F&A-p134"/><ref name="ADDc-01">{{Cite comic/The Gathering}}</ref><ref name="ADDc-19"/> She kept her full divine powers and access to the planes behind a locked door in the inn and kept the ''Wand of the Four Moons'' at the [[House of the Moon]], her local temple.<ref name="ADDc-22"/><ref name="ADDc-19"/> Luna hired an older Vajra Valmeyjar, and from the {{YearlinkName|1357}}, onward, she became involved in the adventures of Vajra, [[Kyriani]], [[Timoth Eyesbright]], [[Onyx the Invincible]], and a returned Conner. Among other threats, they dealt with a resurgent Imgig Zu and returned the kittenlord to the Catlord.<ref name="ADDc-03"/><ref name="ADDc-16"/><ref name="ADDc-01"/><ref group="note">Although she is but an avatar of Selûne, Luna has a history and personality distinct from the deity and is a regular character of the [[Advanced Dungeons & Dragons (comic series)|''Advanced Dungeons & Dragons'']] comics series. Thus, this article chooses to treat Luna as an independent being to maintain focus on Luna and avoid overwhelming the main Selûne article. The deviations from the standard story of Selûne support this approach. Therefore, only events prior to the comic, key events, and a summary of relevant other events are included in this article; for more detail, please see the main [[Luna]] article.</ref>
+
+====The Time of Troubles====
+{{fq
+| float  = left
+| width  = 
+| source = Selûne to Shar during their battle over Waterdeep.<ref name="ADDc-22"/>
+| text   = This is the battle you and I must fight ''forever'', Shar—night devouring the light of the moon, the moon ''replenishing'' itself. That is ''our place'' in the balance of nature. The fragile, eternal balance ''Lord Ao'' has charged us gods to uphold.}}
+In the {{YearlinkName|1358}}, the [[Time of Troubles]] came, magic went awry, and the gods were forced to walk the Realms in mortal form. But Selûne was already doing just that as Luna, and remained unaware. Restricting herself to only non-divine powers, she knew no more than her mortal friends, until Onyx reported the appearance of an avatar in Waterdeep—an avatar of Selûne, one who was not Luna. Luna was shaken by the news and was shocked to discover she could no longer access her divine powers. Vajra and Luna went to investigate the other avatar. First, on Luna's instruction, Vajra snuck into the House of the Moon to find the ''Wand of the Four Moons''. When she couldn't find it, Luna began to doubt herself, wondering which of them was the real goddess. They then went to see the false Selûne for themselves. Luna confronted her, the other called her deluded and attacked her with spells and finally used the ''Wand of the Four Moons'' to knock Luna out. The temple guards took Luna prisoner, and the false Selûne declared she would drive her mad before killing her.<ref name="ADDc-19">{{Cite comic/Selune Rising}}</ref>
+
+Her true identity unknown to the clergy, Luna was kept as a prisoner at the House of the Moon, completely under the control of the false Selûne,<ref name="ADDc-21">{{Cite comic/Lunatics}}</ref> who used her stolen identity to confuse Luna and make her doubt herself. Over time, she broke her spirit and bent her to her will. Forgetting who she really was, Luna was reinvented as a faithful servant of Selûne and a member of the [[Swords of the Lady|Lunatics]], a fanatic Selûnite order.<ref name="ADDc-22">{{Cite comic/Total Eclipse}}</ref>
+
+[[File:Selune v Shar DC Comics.jpg|thumb|left|250px|''Selûne's light blasting Shar's Rod of Oblivion, during their battle over Waterdeep.'']]
+She even led a squad of Lunatics against her friends when they came to rescue her. They caught her, thinking she was Shar, but were shocked to find Luna under the mask.<ref name="ADDc-21"/> At last, Vajra convinced Luna of the truth of her identity, and they realized that the false Selûne was in fact Shar in disguise! The heroes escaped to the ruins of Selûne's Smile, where Shar ambushed them in the darkened guise of Selûne, determined to revenge herself on the heroes and slay Selûne once and for all. Powerless, Luna fell victim to the [[Rod of Oblivion]]. Then Timoth and Vajra noticed that the dimensional doorway to Luna's inner room was still present and ajar, even if the physical door and inn were gone. As Kyriani fought Shar as a distraction, Timoth, Vajra, and Onyx opened the door fully, releasing Selûne's godly power. Empowered, Luna transformed into a true avatar of Selûne.<ref name="ADDc-22"/> Famously, Selûne battled Shar over the streets of Waterdeep.<ref name="F&A-p136"/><ref name="ADDc-22"/><ref name="CoS-AGttC-p15">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|15}}</ref><ref name="tGHotR-p144">{{Cite book/The Grand History of the Realms|144}}</ref> Her light blasted away Shar's darkness, while she reminded her of their unceasing battle and the balance they must uphold, a balance restored by her friends. Shar vanished, and this avatar of Selûne became Luna once more.<ref name="ADDc-22"/>
+
+====Recent History====
+Following the [[Godswar]] of 1358 DR, Selûne and Sune parted on good terms and Selûne was free to do as she willed again.<ref name="F&A-p134"/><ref name="FaP-p55"/> Since then, she set out on her own once more, making new alliances in her unending war against Shar, such as with the new [[Mystra (Midnight)|Mystra]].<ref name="FaP-p55"/> With her growing faith, theologians of the 1360s DR predicted Selûne would once again be elevated among the gods, possibly within their own lifetimes.<ref name="F&A-p136"/>
+
+Around {{Yearlink|1367}}, there were frequent stories of people sighting Selûne gliding above the waters of the [[Moonsea]]. Meanwhile, sailors defending the goddess's name in tavern brawls saw their blades glow softly with a pale violet light. Her worship flourished in [[Thentia]].<ref name="tM-RG-p38">{{Cite book/The Moonsea/Reference Guide|38-39}}</ref>
+
+When the city of [[Zhentil Keep]] in the Moonsea lands was ruined by the mad god [[Cyric]]'s actions in the {{YearlinkName|1368}}, the sacred ''Tear of Selûne'' and the [[Seekers]] who found it were reported to have been in the city at the time. It was theorized by some theologians that Selûne had engineered this, to ensure the ''Tear'' was present during the terrible events, but, if true, her reasons were unknown.<ref name="VGtATM-p118"/>
+
+By the {{YearlinkName|1375}}, her faith had made major inroads into the [[Ffolk]] kingdom of [[Corwell]] on the Moonshae Isles.<ref name="TRoS-corwell">{{Cite digital book/The Rose of Sarifal/Kindle||0,1}}</ref>
+
+The [[Spellplague]] happened in the {{YearlinkName|1385}}. Selûne helped [[Kepeshkmolik Thymara]] to aid the other [[dragonborn]] survivors from [[Tymanchebar]]. She also entrusted Thymara with [[Nanna-Sin]]'s holy weapon, the [[Black Axe of the Moon's Champion]]. When Thymara asked Selûne what she was expecting in return for her help, Selûne only answered that she wanted the dragonborn to thrive on Toril. Thanks to Selûne's help, the dragonborn survivors were able to gather and found the city-citadel of [[Djerad Thymar]].<ref name="AotT/Hardcover-p291-294">{{Cite book/Ashes of the Tyrant/Hardcover|291-294}}</ref>
+
+After the Spellplague, Selûne became a popular deity across Faerûn, as her priesthood made pilgrimages to every corner of the continent, wanting to bring hope to people in those desperate times.<ref name="DU193-p21">{{Cite dungeon/193/Shards of Selûne|21}}</ref>
+
+==Appendix==
+===See Also===
+*[[Cegilune]]
+
+===Background===
+The name 'Selûne' is likely a combination of the words [[Wikipedia:Selene]] (Σελήνη), the ancient Greek name for both the moon and the goddess of the moon, and its Latin equivalent [[Wikipedia:Luna (goddess)|Luna]] (''Lūna''). Although the proper English language name of real-life Earth's only natural satellite is simply 'the Moon' with a capital M, it is often referred to as Luna in scientific writing, science fiction, and poetry to distinguish it from the moons of other planets.
+
+===Notes===
+{{Notes}}
+
+===Appearances===
+{{Appearances
+| adventures          = 
+| adventure refs      = 
+| novels              = ''[[Tymora's Luck]]''
+| novel refs          = ''[[The Rose of Sarifal]]''
+| films               = 
+| film refs           = 
+| comics              = ''[[The Secret of Selûne's Eye]]'';''[[Total Eclipse]]''
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = 
+| video game refs     = ''[[Icewind Dale II]]'';''[[Baldur's Gate III]]''
+| board games         = 
+| board game refs     = 
+| card games          = ''[[Blood Wars]]''
+| card game refs      = 
+| organized play      = 
+| organized play refs = ''[[Night of the Lunar Eclipse]]''
+}}
+
+===Gallery===
+<gallery>
+
+Selune and Shar.png|''Shar and Selûne in 5.5''
+Selune vs shar.jpg|''BG3 Concept art of Selûne and Shar side by side.''
+Selune symbol.jpg|''Another version of Selûne's holy symbol.''
+FnP1 1024x786.jpg|''Promotional wallpaper of Selûne.''
+</gallery>
+
+===External Link===
+{{External link disclaimer}}
+
+{{BG3}}
+
+===References===
+{{Refs}}
+
+===Connections===
+{{Faerûnian pantheon}}
+{{Bedine Pantheon}}
+{{Netheril deities}}
+{{Deity list}}
+[[de:Selûne]]
+[[Category:Chaotic good deities]]
+[[Category:Arcana domain deities]]
+[[Category:Change domain deities]]
+[[Category:Chaos domain deities]]
+[[Category:Chastity domain deities]]
+[[Category:Good domain deities]]
+[[Category:Knowledge domain deities]]
+[[Category:Life domain deities]]
+[[Category:Moon domain deities]]
+[[Category:Protection domain deities]]
+[[Category:Selûne domain deities]]
+[[Category:Travel domain deities]]
+[[Category:Twilight domain deities]]
+[[Category:Faerûnian pantheon]]
+[[Category:Greater deities]]
+[[Category:Human deities]]
+[[Category:Intermediate deities]]
+[[Category:Lesser deities]]
+[[Category:Netherese pantheon]]
+[[Category:The Three]]
+[[Category:Inhabitants of the Gates of the Moon]]
+[[Category:Inhabitants of Ysgard (layer)]]
+[[Category:Inhabitants of Ysgard]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the Celestial planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Inhabitants of the World Axis planes]]
+[[Category:Inhabitants of Argentil]]
+[[es:Selûne]]
+[[Category:Inhabitants of feminine gender]]
+[[Category:The Seven Gods of the Dancing Place]]

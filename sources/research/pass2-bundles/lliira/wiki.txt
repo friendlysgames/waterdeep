@@ -1,0 +1,234 @@
+WIKI PAGE: Lliira
+
+{{Deity
+| image               = Lliira_p99-1-.jpg
+| caption             = 
+| name                = Lliira
+| title               = Joybringer<ref name="SCAG5e-p21,33" /><br/>Our Lady of Joy<ref name="HoF-p112">{{Cite book/Forgotten Realms: Heroes of Faerûn|112}}</ref><ref name="SCAG5e-p21,33" /><br/>The Goddess of Joy<ref name="F&A-p96" /><br/>The Everchanging Goddess<ref name="F&A-p96" /><br/>Mistress of Revels<ref name="HoF-p112"/><ref name="SCAG5e-p21,33" /><br/>
+| adjective           = Lliiran<ref name="FaP-p100" />
+| aspects             = 
+| status              = 
+| primordial          = 
+| pantheon            = [[Faerûnian pantheon]]
+| minions             = 
+| died                = 
+| race                = 
+| gender              = Feminine
+| mortalhomes         = 
+| apotheosis          = 
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Arborea]] ([[Arvandor (layer)|Arvandor]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Joy, contentment, dance, freedom, festivals
+| domains5eR          = 
+| worshipers5eR       = [[Bard]]s, dancers, poets, revelers, singers
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,112">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,112}}</ref>
+| power5e             = 
+| alignment5e         = [[Chaotic good]]
+| symbol5e            = Triangle of three six-pointed stars
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Joy, happiness, contentment, dance, freedom, release, festivals
+| domains5e           = [[Life domain|Life]]
+| worshipers5e        = 
+
+| channel divinity5e  = ''[[Preserve life]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG5e-p21,33">{{Cite book/Sword Coast Adventurer's Guide|21,33}}</ref><ref name="PHB5e-p60">{{Cite book/Player's Handbook 5th edition|60}}</ref>
+| power4e             = [[Exarch]]
+| alignment4e         = [[Good]]
+| symbol4e            = 
+| dominion4e          = [[Gates of the Moon]]
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = Joy
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCS-p81">{{Cite book/Forgotten Realms Campaign Guide|81}}</ref>
+| power3e             = [[Lesser deity]]
+| alignment3e         = [[Chaotic good]]
+| symbol3e            = A triangle of three six-pointed stars (orange, yellow, red)
+| homeplane3e         = [[Brightwater]]
+| realm3e             = [[Quarter of the Orange Lanerns]]
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Dance <br /> Festivals <br /> Happiness <br /> Joy <br /> Freedom <br /> Liberty
+| domains3e           = [[Chaos domain|Chaos]], [[Charm domain|Charm]], [[Family domain|Family]], [[Good domain|Good]], [[Joy domain|Joy]], [[Lust domain|Lust]], [[Radiance domain|Radiance]], [[Sloth domain|Sloth]], [[Travel domain|Travel]]
+| worshipers3e        = [[Bard]]s, dancers, entertainers, poets, revelers, singers
+| cleric alignments3e = {{Alignment grid|off|on|on|off|off|on|off|off|off}}
+| favored weapon3e    = ''[[Sparkle]]'' ([[shuriken]])
+| holy days3e         = 
+| class3e             = 
+| refs3e              = <ref name="FRCS-235">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|235}}</ref><ref name="FaPp99">{{Cite book/Faiths and Pantheons|99}}</ref><ref name="PGtF-p147">{{Cite book/Player's Guide to Faerûn|147}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref><ref name="PGtF-p189">{{Cite book/Player's Guide to Faerûn|189}}</ref><ref>{{Cite dragon/321/The Limitless Light: A Tour of the Plane of Radiance|68}}</ref>
+| power2e             = [[Lesser deity]]
+| alignment2e         = [[Chaotic good]]
+| symbol2e            = Three six-pointed stars forming a triangle with their points touching, with an orange star on the top, a yellow on the left and a red on right
+| homeplane2e         = [[Arborea]]/[[Arvandor (layer)|Olympus]]
+| realm2e             = [[Brightwater]]
+| serves2e            = [[Sune]]
+| servedby2e          = 
+| portfolio2e         = Joy, happiness, dance, festivals, carefree celebration, contentment, release, hospitality, liberty<br/><small>during [[Waukeen]]'s absence also:</small><br/> Trade, money, wealth
+| spheres2e           = [[All sphere|All]], [[Animal sphere|Animal]], [[Charm sphere|Charm]], [[Creation sphere|Creation]], [[Elemental sphere|Elemental]], [[Healing sphere|Healing]], [[Necromantic sphere|Necromantic]], [[Protection sphere|Protection]], [[Sun sphere|Sun]], [[Weather sphere|Weather]]<br />'''Minor:''' [[Divination sphere|Divination]], [[Plant sphere|Plant]], [[Summoning sphere|Summoning]]
+| worshipers2e        = 
+| cleric alignments2e = Any, though evil worshipers were rare
+| holy days2e         = Lliira's Night<ref name="CoS:W-p253">{{Cite book/City of Splendors: Waterdeep|253}}</ref>
+| class2e             = {{class table|edition=2e|[[Mystic]]|28|[[Wizard]]|27|[[Spellsinger]]|24|[[Cleric]]|19|[[Bard]]|18}}
+| refs2e              = <ref name="F&A-p96">{{Cite book/Faiths & Avatars|96-97}}</ref><ref name="FRCS2eRtR-54">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (Revised)/Running the Realms|54}}</ref><ref name="FRA-p23-24">{{Cite book/Forgotten Realms Adventures|23-24}}</ref>
+| power1e             = [[Demigod]]dess
+| alignment1e         = [[Chaotic good]]
+| symbol1e            = 
+| homeplane1e         = [[Arvandor (layer)|Olympus]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = Dance, Carefree Feeling, Contentment, Patron of Festivals, Happiness, Hospitality, Joy, Release
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="drag54-p9">{{Cite dragon/54/Down-to-earth divinity|9}}</ref>
+| animals             = Bluebirds<br />Butterflies<br />Gold or white [[goat]]s<br />Pinto or piebald [[horse]]s<br />[[cat|Kittens]]<br />[[Dog|Puppies]]<br />[[Robin]]s<br />[[Sparrow]]s
+| plants              = [[Daisy|Daisies]]<br />Pansies<br />[[Snapdragon]]s<br />[[Violet]]s<br />Various types of wildflowers
+| monsters            = [[Aasimar]]<br />[[Coure]]s<br />[[Einheriar]]s <small>(all onetime mortal jokesters, dancers, revelers, and party folk)</small><br />[[Empyrean iota]]s<ref name="HoF-p112"/><br />[[Firre]]s<br />[[Lillend]]s<br />[[Movanic deva]]s<br />[[Pixie]]s<ref name="HoF-p112"/><br />[[Shiere]]s
+| minerals            = [[Agate]]<br />[[Diamond]]<br />[[Fire opal]]<br />[[Jasmal]]s<br />[[Lynx eye]]s<br />[[Microcline]]s<br />[[Opal]]s<br />[[Phenalope]]s<br />[[Rhodochrosite]]s<br />[[Rosaline]]s<br />[[Silkstone]]s<br />[[Star rose quartz]]es<br />[[Tabasheer]]s<br />[[Tremair]]s
+| colors              = Orange, red, yellow
+| misc manifestations = Dancing light that can speak<br />Sudden radiance on an object accompanied by joyous laughter or exultant, wordless singing.<br />Rainbows
+| manifestation refs  = <ref name="DD&D-p12">{{Cite web enhancement/Deity Do's and Don'ts|12}}</ref><ref name="F&A-p97">{{Cite book/Faiths & Avatars|97}}</ref>
+| rules               = 
+| church              = yes
+| temples             = yes
+}}
+'''Lliira''' ({{Pronounce|LEER|ah|audio=Lliira.ogg|refs=<ref name="FaPp99"/>}}) was a [[chaotic good]] [[lesser deity]] of joy (and for a time an [[exarch]] of [[Sune]])<ref name="FaPp99" /><ref name="FRCG-p81">{{Cite book/Forgotten Realms Campaign Guide|81}}</ref> in the [[Faerûnian pantheon]]. Everchanging and always lively, she was the embodiment of happiness and freedom,<ref name="F&A-p96" /> inspiring poets, musicians, and all who reveled in the wonder of a free, cheerful life. '''The Joybringer''' was the archetypal ingénue dancer, showing by example that few things should draw one away from the Elysian Rigadoon, a philosophy that prioritized above all things the act of joyful movement.<ref name="FaPp99" /> 
+
+{{quote|The arrow shot, sweet triumph strikes she home<br/>Into the breast of heroes, who no more shall roam.<br/>To the winds fly wits – ambition o'er leaps the stars!<br/>Our court we pay to Lliira – not to [[Shar]].|[[Luccio]] of [[Lomatra]]<ref name="CoB-p64">{{Cite book/The Council of Blades/MMP|64|4}}</ref>}}
+
+==Description==
+Lliira initially manifested as brightly whirling lights and smoke in the middle of the air before a young woman danced out from the cloud. This {{SI|9|ft|long=yes}} lady was sensuous and shapely, laughing and dancing through the air without concern for dignity or pride. She had eyes of pure blue, long, golden hair (sometimes streaked with silver or odd pastels of blue, pink, green, or lilac), and wore a tight-fitting body suit under a series of thin, translucent robes which artfully twirled and draped as she moved. A sparkling wake of winking lights trailed behind her as she danced, flashing at least {{SI|60|ft|long=yes}} behind her and longer if she so desired.<ref name="F&A-p96" />
+
+==Personality==
+Few things were sufficient to bring down Lliira's joyful revelry as she went about enjoying life without a care in the world, remaining somewhat detached from everyday events.<ref name="F&A-p96" /><ref name="FaPp99" /> She had a flair for performance,<ref name="FaPp99" /> but was neither ambitious nor greedy, willing to resist temptation and abstain from power out of loyalty and respect for promises made.<ref name="F&A-p96" />
+
+Lliira could not, however, tolerate violence or ill feelings, especially at celebrations, and was known to withhold her blessing from revels marred by it.<ref name="F&A-p96" /><ref name="SCAG-p33">{{Cite book/Sword Coast Adventurer's Guide|33}}</ref> A sword drawn in anything but ceremony was enough to drive her away, and she would simply leave if combat broke out. She herself refused to do harm to others unless absolutely necessary, though she did not consider certain methods of dealing with problematic people to be hurting them. She was willing to temporarily transform or transport others somewhere else, and likewise would personally pull pranks (such as replacing wine with sour milk) either as a joke or to get back at those who insulted her.<ref name="F&A-p96" />
+
+==Realm==
+Lliira resided within the [[divine domain]] of [[Brightwater]], sharing it with the goddesses Sune and [[Tymora]].<ref>{{Cite book/Planes of Chaos/The Book of Chaos|39}}</ref> After events of the [[Spellplague]], Lliira became an [[exarch]] of Sune and moved to the [[Gates of the Moon]] with her.<ref name="FRCG4e-81">{{Cite book/Forgotten Realms Campaign Guide|81}}</ref><ref name="PGtF-147">{{Cite book/Player's Guide to Faerûn|147}}</ref><ref name="FaP-99">{{Cite book/Faiths & Pantheons|99}}</ref><ref name="FRCG4e-63">{{Cite book/Forgotten Realms Campaign Guide|63}}</ref>
+
+==Relationships==
+Among the [[Faerûnian pantheon]], Lliira's best friend was the deity [[Milil]], due to him sharing of her love for revelry.<ref name="FaPp99" /><ref name="F&A-p96" /> She was also allied with the deities [[Deneir]] and [[Oghma]], but refused to view the latter as her superior.<ref name="F&A-p96" />
+
+Another deity she was good friends with for this reason was the goddess [[Sharess]].<ref name="P&P-p52">{{Cite book/Powers & Pantheons|52}}</ref> For a time they had a falling out due to her corruption by [[Shar]], but following her salvation through Sune during the [[Time of Troubles]] their relationship was rekindled.<ref name="FaP-p105">{{Cite book/Faiths and Pantheons|105}}</ref> 
+
+Prior to the Time of Troubles another good friend of hers was the goddess Waukeen. Her disappearance during this time lead many of her followers disaffected. When Lliira started answering their prayers in Waukeen's stead many of the Waukeenar assumed their goddess was dead and turned to the faith of Lliira, rededicating their temples to her.<ref name="FaP-p100" /><ref name="FRCS2eRtR-54" /><ref name="FRCS2eRtR-56-57">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (Revised)/Running the Realms|56-57}}</ref> When Waukeen eventually returned she was jealous and upset that so many of her faithful did not return to her service, and thus the friendship between the two goddesses became slightly soured.<ref name="FaP-p100">{{Cite book/Faiths and Pantheons|100}}</ref>
+
+==Worshipers==
+:{{Main|Church of Lliira}}
+[[File:Lliirasymbol.png|thumb|The [[Holy symbol]] of Lliira.]]
+Both the [[specialty priest]]s and [[cleric]]s of Lliira were known as "Joybringers" until 1365 DR, when members of the clergy became confused by the naming scheme. From that year onward the specialty priests were distinguished by the title of "Joydancer."<ref name="F&A-p97" />  Her clergy were renowned throughout [[Faerûn]] for their easy going and good-hearted nature, making them some of the most popular clerics in the continent.<ref name="FaPp99" />
+
+===Orders===
+* [[Order of the Leaping Stag]]<ref name="F&A-p99">{{Cite book/Faiths & Avatars|99}}</ref>
+* [[Scarlet Mummers|Order of the Scarlet Mummers]]: One of the church's first knightly orders, the Mummers were formed to avenge the murder of Lliira's High Revelmistress in Selgaunt. Their duties included protecting Lliiran temples and battling with [[Loviatar|Loviatans]]. Their battle prowess caused their fellows in the church to both fear and respect them.<ref name="FaP-p100" /><ref>{{cite web |author=Greenwood, Ed |url=http://www.wizards.com/default.asp?x=dnd/rl/20061115a |title=The Scarlet Mummers |accessdate=2008-07-14 |format= HTML|work= }}</ref>
+* [[Order of the White Violet]]<ref name="F&A-p99" />
+
+===Temples===
+''Main article: [[:Category:Temples to Lliira]]''
+* [[House of Happiness]] in [[Hillsfar]]
+* [[Palace of Holy Festivals]] in [[Selgaunt]].
+* [[Theater of Joy]] in [[Crimmor]]<ref name="LoI-A-30">{{Cite book/Lands of Intrigue/Amn|30}}</ref>
+
+Some speculated that the leaders of the mercantile organization [[Iron Throne]], whose identities were a mystery, were devotees of Lliira.<ref name="FRCS2e.RtR-p27">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|27}}</ref>
+
+==History==
+When [[Lord Ao]] cast nearly all the Faerûnian deities into mortal avatar form and scattered them across the surface of [[Toril]], Lliira was among them. As luck would have it, the first being she met was the avatar of [[Waukeen]]. Having been on good terms prior to this, the two goddesses decided to stick together while they worked out a plan of action.<ref name="FDaD-3">{{Cite book/For Duty & Deity|3}}</ref><ref name="F&A-p176-177">{{Cite book/Faiths & Avatars|176-177}}</ref>
+
+Waukeen advocated a straightforward approach: climbing the [[Celestial Stairway]] from its landing in [[Shadowdale]] and bribing [[Helm]] with his heart's desire to allow the two of them back into the [[Outer planes]]. Not known for her ambition, Lliira went along with the young and brash Waukeen's plan. They traveled to Shadowdale and began climbing the Staircase, when halfway up the stairs Helm appeared and threatened them. The two of them offered him many things, but nothing could entice the God of Guardians to shirk his duty. Weary of facing his wrath, the two goddesses then retreated into the forest of [[Cormanthor]] to devise a new plan.<ref name="FDaD-3" /><ref name="F&A-p176-177" />
+
+Being intimately familiar with illicit trade as well as legitimate commerce, Waukeen came upon the idea of smuggling her way into the Outer Planes by means of a convoluted route through the [[Astral plane]] and [[Lower Planes]]. An outsider deity known as [[Celestian]] agreed to transport Waukeen to the Astral plane as payment for a past debt, but would not go so far as to include Lliira in the bargain, for fear of the added risk. When it came time to go however, they discovered that Waukeen could not leave the [[Prime Material plane]], for Lord Ao had bound the Faerûnian gods to Toril with an unbreakable bond.<ref name="FDaD-4">{{Cite book/For Duty & Deity|4}}</ref>
+
+Waukeen came to the conclusion that it was her divinity that bounded her to the plane. At her request, Lliira promised to hold Waukeen's power and portfolio in stewardship until she could reclaim it.<ref name="F&A-p176-177" /><ref name="FDaD-4" /><ref name="F&A-p96" /> During this time she took her High Revelmistress of the city of [[Selgaunt]], [[Chlanna Asjros]], as a lover. Sometime after this period, a local cult of [[Loviatar]] murdered the priestess and this deeply affected Lliira.<ref name="FaP-p100" />
+
+Ten years later Waukeen was still no where to be seen, having become trapped in the [[Abyss]], and Lliira became increasingly worried over her friend's disappearance. No matter what she tried Lliira could not locate her and she watched as the [[Church of Waukeen]] gradually fell apart.<ref name="F&A-p176-177" />
+
+In [[1365 DR]], Lliira came to the conclusion that she would need to take control of the Church of Waukeen in order to preserve what she could for her friend when she eventually returned,<ref name="F&A-p96" /> reasoning that if she didn't a more basely motivated power would take it over.<ref name="F&A-p176-177" /> She transported her prophet to the gate of every temple to Waukeen. He was instructed to tell the worshipers there-in of Waukeen's uncertain status and that Lliira would be acting as regent for Waukeen's portfolio until she returned, answering any prayers for spells. But many of the Waukeenar, distraught and panic stricken, interpreted this to mean that their goddess was truly dead and they publicly announced it throughout the Realms.<ref name="F&A-p176-177" /><ref name="F&A-p96" />
+
+The Church of Waukeen flourished under Lliira's regency.<ref name="FDaD-p5">{{Cite book/For Duty & Deity|5}}</ref> However, she regularly felt uncomfortable with her role as regent and constantly felt tempted to completely fold Waukeen's power into herself. However, she managed to resist this urge, motivated by her sense of loyalty to her friend and her desire to respect her promise.<ref name="F&A-p96" /> When Waukeen eventually returned, Lliira graciously returned her mantle of divinity.<ref name="FDaD-57">{{Cite book/For Duty & Deity|57}}</ref>
+
+==Rumors & Legends==
+Following the Time of Troubles, a rumor arose that she hunted down and murdered the goddess [[Leira]] during this time for having a similar name to her. However, no evidence of this has ever arisen and is thus considered a falsehood.<ref name="FRA-p23-24" /><ref name="F&A-p96" />
+
+[[Enki]] was a son of the [[Untheric pantheon|Untheric deity]] Nammu. He was once a lover of Lliira.<ref name="TotOP-p11">{{cite book/Tales of the Outer Planes|11}}</ref>
+
+==Appendix==
+{{Incomplete|}}
+===Appearances===
+{{Appearances
+| adventures          = 
+| adventure refs      = 
+| novels              = 
+| novel refs          = ''[[The Council of Blades]]''
+| films               = 
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = 
+| video game refs     = 
+| board games         = 
+| board game refs     = 
+| card games          = 
+| card game refs      = 
+| organized play      = 
+| organized play refs = ''[[Day of the Raven]]''
+}}
+
+===Gallery===
+<gallery>
+File:Lliira symbol.jpg|A depiction of Lliira's holy symbol.
+File:Evergold.png|'''From left to right:''' the goddesses [[Hanali Celanil]], Sune, Lliira, and Sharess bathing in the pool of [[Evergold]].
+</gallery>
+===References===
+{{Refs}}
+
+===Connections===
+{{Faerûnian pantheon}}
+{{Deity list}} 
+[[de:Lliira]]
+[[Category:Lesser deities]]
+[[Category:Chaotic good deities]]
+[[Category:Chaos domain deities]]
+[[Category:Charm domain deities]]
+[[Category:Family domain deities]]
+[[Category:Good domain deities]]
+[[Category:Travel domain deities]]
+[[Category:Human deities]]
+[[Category:Exarchs]]
+[[Category:Life domain deities]]
+[[Category:Lust domain deities]]
+[[Category:Sloth domain deities]]
+[[Category:Joy domain deities]]
+[[Category:Inhabitants of the Gates of the Moon]]
+[[Category:Inhabitants of Brightwater]]
+[[Category:Inhabitants of Arvandor (layer)]]
+[[Category:Inhabitants of Arborea]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the Celestial planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Members of The Circle of Nine]]

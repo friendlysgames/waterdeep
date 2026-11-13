@@ -1,0 +1,244 @@
+WIKI PAGE: Sune
+
+{{Deity
+| image               = 
+<gallery>
+Sune Firehair 5e.png|5e
+Sune.jpg|3e
+</gallery>
+| caption2            = ''Various depictions of Sune, [[Faerûn]]ian [[greater deity|greater goddess]] of beauty and love.''
+| name                = Sune
+| title               = 
+Firehair<ref name="CotR-14">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|14}}</ref><ref name="FRA-31">{{Cite book/Forgotten Realms Adventures|31}}</ref><ref name="RtR-48-49">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (Revised)/Running the Realms|48&ndash;49}}</ref><ref name="FA-149">{{Cite book/Faiths & Avatars|149}}</ref><ref name="OHG-171">{{Cite book/On Hallowed Ground|171}}</ref><ref name="FRCS3e-251">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|251}}</ref><ref name="FaP-65">{{Cite book/Faiths & Pantheons|65}}</ref><br />Lady Firehair<ref name="HoF-p122">{{Cite book/Forgotten Realms: Heroes of Faerûn|122}}</ref><ref name="SCAG5e-p21,37-38" /><ref name="FA-149" /><ref name="FRCS3e-251" /><ref name="FaP-65" /><ref name="PGtF-147">{{Cite book/Player's Guide to Faerûn|146-147}}</ref><br />The Lady of Love<ref name="HoF-p122"/><ref name="SCAG5e-p21,37-38" /><ref name="FA-149" /><br />Goddess of Love<ref name="cru-p36">{{Cite book/Crucible|36}}</ref><br/>Goddess of Beauty and Love<ref name="cru-p30">{{Cite book/Crucible|30}}</ref><br/>Beautiful One<ref name="cru-p37">{{Cite book/Crucible|37}}</ref><br/>The Fickle and the Beautiful<ref name="cru-p160">{{Cite book/Crucible|160}}</ref><br/>The Princess of Passion<ref name="HoF-p122"/><ref name="SCAG5e-p21,37-38" /><ref name="FA-149" />
+| adjective           = Sunite<ref name="FA-p151">{{Cite book/Faiths & Avatars|151}}</ref>
+| aspects             = [[Hanali Celanil]]<ref name="FCCG-p130>{{Cite book/Forgotten Realms Campaign Guide|130}}</ref>
+| pantheon            = [[Faerûnian pantheon]]
+| gender              = Feminine
+| mortalhomes         = 
+| apotheosis          = 
+| alignment           = 
+| class               = 
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Arborea]] ([[Arvandor (layer)|Arvandor]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Love, beauty, passion
+| domains5eR          = 
+| worshipers5eR       = Artists, hedonists, lovers
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,122">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,122}}</ref>
+| power5e             = 
+| alignment5e         = [[Chaotic good]]
+| symbol5e            = Face of a beautiful red-haired woman
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Love, beauty, passion
+| domains5e           = [[Life domain|Life]], [[Light domain|Light]]
+| worshipers5e        = Hedonists, promoters of art
+
+| channel divinity5e  = ''[[Preserve life]]''<br />''[[Radiance of the dawn]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG5e-p21,37-38">{{Cite book/Sword Coast Adventurer's Guide|21,36-37}}</ref><ref name="PHB5e-p59-61,294">{{Cite book/Player's Handbook 5th edition|59-61,294}}</ref>
+| power4e             = [[Greater deity]]
+| alignment4e         = [[Good]]
+| symbol4e            = The face of a beautiful woman surrounded by a nimbus of red hair
+| dominion4e          = [[Gates of the Moon]]
+| realm4e             = Brightwater
+| serves4e            = 
+| servedby4e          = [[Lliira]], [[Sharess]]
+| sphere4e            = Beauty
+| domains4e           = [[Love domain|Love]], [[Skill domain|Skill]], [[Trickery domain|Trickery]]
+| worshipers4e        = Aristocracy and inhabitants of larger cities, lovers
+| cleric alignments4e = 
+| channel divinity4e  = ''[[Sune's touch]]''
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCG4e-63,77,80">{{Cite book/Forgotten Realms Campaign Guide|63, 77, 80}}</ref><ref name="Dragon378-32">{{Cite dragon/Domains in Eberron and the Forgotten Realms|32}}</ref><ref name="FRPG4e-137">{{Cite book/Forgotten Realms Player's Guide|137}}</ref>
+| power3e             = [[Greater deity]]
+| alignment3e         = [[Chaotic good]]
+| symbol3e            = The face of a red-haired, ivory-skinned beautiful woman
+| homeplane3e         = [[Brightwater]]
+| realm3e             = The Heartfire Quarter
+| serves3e            = 
+| servedby3e          = [[Lliira]], <small>'''formerly:'''</small> [[Selûne]]
+| portfolio3e         = Beauty, love, passion
+| domains3e           = [[Chaos domain|Chaos]], [[Charm domain|Charm]], [[Good domain|Good]], [[Lust domain|Lust]], [[Pleasure domain|Pleasure]], [[Pride domain|Pride]], [[Protection domain|Protection]]
+| mantles3e           = {{Mantles|Chaos|Communication|Good|Guardian}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = Aesthetes, hedonists, romantics, some [[Sun Soul monk]]s<ref name="DDaD-7">{{Cite web enhancement/Deity Do's and Don'ts|7}}</ref>
+| cleric alignments3e = {{alignment grid|on|on|on|off|off|on|off|off|off}}
+| favored weapon3e    = A [[silk]]en sash ([[whip]])
+| holy days3e         = [[Greengrass]], [[Midsummer]] night
+| class3e             = {{class table|edition=3e|[[Bard]]|10|[[Cleric]]|10|[[Sorcerer]]|20}}
+| refs3e              = <ref name="FRCS3e-251" /><ref name="FaP-65-67">{{Cite book/Faiths & Pantheons|65-67}}</ref><ref name="PGtF-189">{{Cite book/Player's Guide to Faerûn|189}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref>
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Chaotic good]]
+| symbol2e            = The face of a fire-haired maiden
+| homeplane2e         = [[Arborea]]/[[Arvandor (layer)|Olympus]]
+| realm2e             = [[Brightwater#Great Wheel Cosmology|Brightwater]]
+| serves2e            = 
+| servedby2e          = [[Lliira]]
+| portfolio2e         = Beauty, love, passion
+| spheres2e           = [[All sphere|All]], [[Astral sphere|Astral]], [[Charm sphere|Charm]], [[Creation sphere|Creation]], [[Divination sphere|Divination]], [[Guardian sphere|Guardian]], [[Healing sphere|Healing]], [[Protection sphere|Protection]], [[Sun sphere|Sun]], [[Time sphere|Time]], [[Thought sphere|Thought]] <small>'''minor:'''</small> [[Combat sphere|Combat]], [[Elemental sphere|Elemental]], [[Necromantic sphere|Necromantic]], [[Summoning sphere|Summoning]]
+| worshipers2e        = Nobility, those who appreciate art and literature, those looking for love
+| cleric alignments2e = {{alignment grid|on|on|on|on|on|on|off|off|off}}
+| holy days2e         = [[Greengrass]], [[Midsummer]] night
+| class2e             = {{class table|edition=2e|[[Cleric]]|30|[[Wizard]]|35}}
+| refs2e              = <ref name="FRA-31" /><ref name="RtR-48-49" /><ref name="OHG-171" /><ref name="FA-149-151">{{Cite book/Faiths & Avatars|149-151}}</ref>
+| power1e             = 
+| alignment1e         = [[Chaotic good]]
+| symbol1e            = A beautiful fire-haired maiden
+| homeplane1e         = [[Arvandor (layer)|Arvandor]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = Love, beauty, charisma, passion
+| worshipers1e        = admirers of physical beauty
+| cleric alignments1e = {{alignment grid|off|off|on|off|off|off|off|off|off}}
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="CotR-14" />
+| animals             = 
+| plants              = 
+| monsters            = 
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  = 
+| church              = yes
+| temples             = yes
+}}
+'''Sune''' ({{Pronounce|SOO|nee|refs=<ref name="FRCS3e-251" /><ref name="FaP-65-67" />}}) was the [[greater deity|greater]] [[god]]dess of beauty and passion in the [[Faerûnian pantheon]].<ref name="SCAG5e-p21,37-38" /> '''Lady Firehair''', as her symbol depicted,<ref name="FaP-65" /> was the goddess of beauty in all its forms; whether it be sights, sounds, smells, tastes, and feels, the experience of pleasure was the touch of Sune. The '''Lady of Love''' was the goddess of all love, including the more negative aspects like obsessions, murderous passions, and the tragedies that could be born from love,<ref name="EdGreenwood">{{Cite web/Candlekeep forum
+| title      = Questions for Ed Greenwood (2014)
+| author     = [[Ed Greenwood]]/The Hooded One
+| topicid    = 18725
+| postid     = 
+| whichpage  = 11
+| date       = 2014-04-24
+| accessdate = 2022-12-31
+}}</ref> but also of deeper connections, of matches destined and forbidden, as well the transformation of ugliness into beauty.<ref name="SCAG5e-p21,37-38" />
+
+{{quote|Beauty is more than skin deep; it issues from the core of one's being and shows one's fair (or foul) face to the world.|A Sunite saying.<ref name="SCAG5e-p21,37-38" /><ref name="FA-150">{{Cite book/Faiths & Avatars|150}}</ref>}}
+
+==Description==
+When Sune appeared to the mortals of [[Faerûn]], she did so as a human female of unearthly beauty dressed in only a near-transparent [[gown]] of [[silk]]. She was known for her lustrous, impossibly long red hair, the color of which persisted regardless of any other permutations in her appearance, and which often assumed the appearance of flames. Aside from this, her physical manifestation would change from time to time. Her skin might be golden, mahogany, reddish, or ivory, and her eyes might be sky-blue, forest green, almond-shaped, or of darkest amber or honey, while also possessing [[ruby]] red plump lips.<ref name="FA-149-151" /> She occasionally wore ruby [[gemstone]]s in her hair.<ref name="nwn">{{Cite game/Neverwinter Nights}}</ref>
+
+==Personality==
+[[File:Sune's Intervention Arena.png|thumb|''One of Sune Firehair's manifestations.''|345x345px]]
+Sune was a benevolent goddess<ref name="FaP-65-67"/> who abhorred the destruction of beauty.<ref name="FA-149-151" /> She thrived on the tenderest of emotions<ref name="FRCG4e-63,77,80" /> and truly loved and protected her followers,<ref name="OHG-171" /> reserving her deepest love for the mortals who revered her.<ref name="FRCG4e-63,77,80" /> She was also one of the most vain entities in the cosmos,<ref name="OHG-171" /> enjoying attention and sincere flattery while avoiding the horrific and boorish.<ref name="FaP-65-67" />
+
+The sometimes whimsical Princess of Passion alternated between deep passion and casual flirtation with others.<ref name="FaP-65-67" /> When she was truly interested in a person or god, she wholeheartedly believed in these deep-seated feelings, but although she was one of the most passionate beings in existence, her focus lasted only a short time (as long as the subject continued to be enticing) before she lost interest and moved on.<ref name="OHG-171" />
+
+==Powers==
+To look upon Sune's avatar could very well end a battle before it began. Her looks, if unclothed, could kill if she so desired, a powerful form of [[death magic]] difficult to resist. Even when garbed however, she could ''[[Rapture|enrapture]]'' anyone she wanted within {{SI|90|ft|long=yes}}. Such was her appearance that it was almost impossible to tear one's eyes away after so much as a glance, and none but immortals could resist at least getting a good look. Animals would never attempt to harm her, and upon seeing her, no male being of any kind would either, the latter to the point that even thinking to do so was simply impossible.<ref name="FA-149"/>
+
+Sune could cast [[spell]]s from all [[arcane]] [[Magic#School|school]]s and divine [[sphere]]s, but her charm [[magic]] (including spells of the [[charm sphere]] and school of [[enchantment]] which affected emotions, beguiled, enthralled, [[command]]ed, persuaded, or otherwise worked similarly to ''[[charm person]]'' spells) were four times as potent and much harder to resist.<ref name="FA-149"/>
+
+==Possessions==
+The [[silk]]en [[sash]] Sune wore acted as a ''+5'' [[whip]], enchanted with ''[[chaotic]]'', ''[[defending]]'', ''[[keen]]'', and ''[[shock]]'' properties.<ref name="FaP-65-67" />
+==Realm==
+Sune shared a realm with various other goddesses, originally with just [[Tymora]] and [[Lliira]], but later expanding the group to include [[Sharess]] and [[Waukeen]]. That realm was [[Brightwater]], located in the [[outer plane]] of [[Arborea]] in the [[Great Wheel cosmology]] and a plane of its own in the [[World Axis cosmology]]. Brightwater was a well-settled realm devoted to beauty, among other things, all of which shined from every face and building; constant entertaining activities went on in Brightwater, and it was no less glamorous than [[Arvandor]] for its civilization.<ref name="PGtF-147" /><ref name="POC48">{{Cite book/Planes of Chaos/Map-Arborea|48-49}}</ref>
+
+Brightwater was structured like a [[Material Plane]] city into wards or sectors, each a divine realm, with Waukeen's in the middle and the others arranged around it, and Sune's realm was known as the Heartfire Quarter.<ref name="PGtF-147" /> Smaller, quieter, and much more private than most of Brightwater's other locales, the Heartfire Quarter consisted of small rooms and hidden courtyards, the night air filled with the aromas of incense and candle-light. The outer reaches were lined with festhalls, matchmaker shops and inns for young couples, and every street was marked with a monument to love's triumphs.<ref name="PGtF-147" /><ref name="POC48" />
+
+Though devoted to the ideals of love, it was not without its dangers. Most paths were unexplored and crimes of passion were common, as were rumors (never proven) of [[succubi]] and [[incubi]] infiltrators. The only ones willing to dare the inner precincts were the stout of heart and [[petitioner]]s seeking to merge with the goddess, the winding streets near the center said to destroy some forever and merge others into the realm.<ref name="POC48" />
+
+The Heartfire Quarter stood juxtaposed to Lliira's Quarter of Orange Lanterns, both geographically (being separated by Sharess's realm of [[Rapture]]) and philosophically. It was deeper than Lliira's domain of constant celebrations, a realm of beauty inhabited by those wanting more than just a party. It was a place of quiet mysteries whose contemplative denizens, drawn in by Sune's secretive smile, sought something beyond material gratification and even love. It was unclear what awaited those drawn to the center of the realm, often the adventuring sort who came after the delights of the other realms dimmed, but it was known what they sought: serenity, bliss, perfection, and true passion.<ref name="PGtF-147" /><ref name="POC48" />
+
+During the [[Spellplague]], Sune moved Brightwater to [[Selûne]]'s realm, the [[Gates of the Moon]]. Most of the other goddesses joined her in her romantic city, though Tymora had her own area within the Gates known as the [[Tymora#Divine_Realm|Great Wheel]], and Waukeen's [[Marketplace Eternal]] moved to [[Amaunator]]'s realm.<ref name="FRCG4e-63,77,80" />
+
+==Relationships==
+Sune had been romantically linked with many members of the Faerunian pantheon in the many myths of the realms; for example she was said to have been smitten with [[Torm]] for his actions during the [[Time of Troubles]],<ref name="FaP-65-67" /> and many deities, including Torm himself as well as Amaunator, had become smitten with her in turn. In regards to such matters, the Lady of Love was simultaneously distant and flirtatious.<ref name="FRCG4e-63,77,80" />
+
+Sune was served by both Lliira and Sharess and was allies with [[Milil]], [[Lathander]], and Selûne, the latter of which was also a servant of Lady Firehair in the past before going her own way,<ref name="FaP-65-67" /> though they were still extremely friendly and cooperative.<ref name="FA-135">{{Cite book/Faiths & Avatars|135}}</ref> She also gave her aid to [[Mystra]] in her struggle against [[Shar]] and the [[Shadow Weave]], for she had earned the service of Sharess when she saved the [[demipower]] from being subsumed by Shar, and as such was considered an enemy by the Nightbringer. <ref name="FaP-65-67" />
+
+By her nature, it was difficult for any being to be angry at Sune for long, and so the goddess had no true enemies.<ref name="FaP-65-67" />  Those foes she did have included the [[Gods of Fury]], whose functions destroyed many beautiful things both living and non-living.<ref name="FA-149-151" /> She helped limit the destruction caused by the rages of their leader [[Talos]],<ref name="OHG-171" /> and was envied by the Bitch Queen [[Umberlee]] for her beauty.<ref name="FRCS3e-254">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|254}}</ref> She also had no love for [[Talona]], goddess of disease, or [[Tempus]], god of battle, on similar grounds, although the latter considered her too flighty and irrelevant to be worth the conflict or even dislike.<ref name="FaP-65-67" /> 
+
+Outside of the Realms, Sune was considered a "backwater power with delusions of grandeur" by her deific peers, such as [[Freya]], [[Aphrodite]] and [[Hanali Celanil]], but otherwise they got on well together - Sune of course, believing that she was the most beautiful of all of them.<ref name="OHG-171" />
+
+==Worshipers==
+[[File:Sune symbol.jpg|thumb|left|250px|''The [[holy symbol]] of Sune.'']]
+{{main|Church of Sune}}
+Sune's clerics sought to bring beauty to the world in many forms, all of which were pleasing to the senses. They created great works of art, became patrons for promising actors, and imported exotic luxuries like satin and fine wines. Her followers also enjoyed looking beautiful, and hearing tales of romance. The stories ranged from star-crossed love, true love overcoming all else, to following one's heart.<ref name="SCAG-p37">{{Cite book/Sword Coast Adventurer's Guide|37}}</ref> The negative aspects of love, as would be expected, were downplayed and kept from public view in the interest of making the faith welcoming for all.<ref name="EdGreenwood" />
+
+Her temples usually held social salons and displayed mirrors for use by lay parishioners. Some of them even had public baths for the local populace.<ref name="SCAG-p37">{{Cite book/Sword Coast Adventurer's Guide|37}}</ref> Her shrines often stood on the corner of busy city streets. They would have a small ornate overhanging roof with a mirror underneath. They were used to check one's appearance while honoring Sune with prayer. Some shrines even held [[perfume]] and cosmetic items for those who could not afford such luxuries themselves.<ref name="SCAG-p38">{{Cite book/Sword Coast Adventurer's Guide|38}}</ref>
+
+===Orders===
+* [[Sisters and Brothers of the Ruby Rose]]: A knightly order affiliated with the [[Church of Sune]], made up of [[bards]], [[fighters]], and [[paladins]]. Their primary mission was to guard Sunite temples and holy sites, and occasionally accompany clerics doing good works or questing for something important to the Lady of Love. Initiation into the order was done by standing vigil in a temple of Sune for an entire night. If the goddess showed her favor by granting a vision or some other boon, the candidate was accepted into the order.<ref name="FA-151">{{Cite book/Faiths & Avatars|151}}</ref>
+
+===Notable Sunites===
+* [[Adon|Adon of Sune]]
+* [[Histra|Histra of the Edificant Library]]
+* [[Taegan Nightwind]]<ref name="tR-p?">{{Cite book/The Rage}}</ref>
+* [[Joelle Emmeline]]<ref name="tS-p?">{{Cite book/The Sentinel}}</ref>
+
+==History==
+[[File:Sune Symbol-5e.png|thumb|250px|''The [[holy symbol]] of Sune.'']]
+Sune's history was mostly told in myth regarding her various romances and flirtations with other gods.<ref name="FA-149"/> Tales existed of her relationships with practically every god except [[Talos]], [[Umberlee]], [[Malar]], [[Auril]], [[Tempus]], and [[Talona]], whom Sune abhorred for their acts of destruction.<ref name="FA-149"/>
+
+During the [[Time of Troubles]], Sune rescued [[Sharess]] from death at the hands of [[Shar]] and restored the corrupted deity to her original state before Shar's influence affected her.<ref>{{Cite book/Powers & Pantheons|52}}</ref>
+
+During the [[Spellplague]], Sune's plane of Brightwater was destroyed, but [[Selûne]] invited Sune and her exarchs to join her in the [[Gates of the Moon]]. During this period of transition, it was revealed that many lesser powers of love in the Realms, most notably [[Hanali Celanil]], were all aspects of Sune. Sune, along with [[Tyr]] and [[Lathander]] was one of the triumvirate of deities who declared that [[Cyric]] should be imprisoned for the apparent death of Mystra.<ref>{{Cite book/Forgotten Realms Campaign Guide|74}}</ref>
+
+==Rumors & Legends==
+Some speculated that Sune was in fact the same or similar as the goddess Athena of the [[Olympian pantheon]].<ref name="FRCS1e-CotR-p18">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|18}}</ref><ref group="note">Although the text says "Athena", it is more likely Venus or Aphrodite, as she is a goddess of love and beauty commonly depicted with red hair, while Athena is not. Furthermore, "Sune" is the final four letters of "Venus" reversed.</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+| card games = {{MTGapp|HBG}}
+| organized play = ''[[Queen for a Day]]''
+}}
+
+===Gallery===
+<gallery>
+Priest of Sune.png|''A priestess of Sune Firehair in the traditional garb of the [[Church of Sune]].''
+</gallery>
+===References===
+{{Refs}}
+[[FR:Sunie]]
+===Connections===
+{{Faerûnian pantheon}}
+{{Netheril deities}}
+{{Deity list}}
+[[de:Sune]]
+[[Category:Chaotic good deities]]
+[[Category:Chaos domain deities]]
+[[Category:Charm domain deities]]
+[[Category:Good domain deities]]
+[[Category:Love domain deities]]
+[[Category:Protection domain deities]]
+[[Category:Skill domain deities]]
+[[Category:Trickery domain deities]]
+[[Category:Faerûnian pantheon]]
+[[Category:Greater deities]]
+[[Category:Human deities]]
+[[Category:Pleasure domain deities]]
+[[Category:Clerics]]
+[[Category:Wizards]]
+[[Category:Bards]]
+[[Category:Sorcerers]]
+[[Category:Light domain deities]]
+[[Category:Life domain deities]]
+[[Category:Lust domain deities]]
+[[Category:Pride domain deities]]
+[[Category:Inhabitants of the Gates of the Moon]]
+[[Category:Inhabitants of Brightwater]]
+[[Category:Inhabitants of Arvandor (layer)]]
+[[Category:Inhabitants of Arborea]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the Celestial planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Inhabitants of feminine gender]]
+[[Category:Members of the Circle of Greater Powers]]

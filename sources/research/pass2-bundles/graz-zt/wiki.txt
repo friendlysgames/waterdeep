@@ -1,0 +1,259 @@
+WIKI PAGE: Graz'zt
+
+{{Deity
+| image              = <gallery>
+Graz'zt-5e.png|5e
+Grazzt_edit.jpg|4e
+Graz'zt - E. M. Gist.jpg|3e
+Graz'ztProfile.jpg|2e
+Graz'zt.jpg|1e
+</gallery>
+| caption2            = Various depictions of Graz'zt.
+| name                = Graz'zt
+| title               = The Dark Prince<ref name="FC13e-p65-66" /><br />The Dark Man<ref name="BoVD-pp68">{{Cite book/Book of Vile Darkness|68}}</ref><br />The Shadow King<ref name="BoVD-pp68"/><br />The Prince of Pleasure<ref name="OotA5e-p240-241">{{Cite book/Out of the Abyss|240-241}}</ref>The Lord of Forbidden Pleasures<ref name="MTF5e-p30">{{Cite book/Mordenkainen's Tome of Foes|30}}</ref>
+| adjective           = 
+| aspects             = 
+| pantheon            = 
+| gender              = Masculine
+| died                = 
+| basicrefs           = 
+| mortalrace          = 
+| mortalsex           = 
+| mortalhomes         = 
+| apotheosis          = 
+| mortalrefs          = 
+| power5e             = [[Demon lord]]
+| alignment5e         = [[Chaotic evil]]
+| symbol5e            = 
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = 
+| domains5e           = 
+| worshipers5e        = 
+| channel divinity5e  = 
+| holy days5e         = 
+| challenge5e         = 24
+| class5e             = 
+| refs5e              = <ref name="OotA5e-p240-241">{{Cite book/Out of the Abyss|240-241}}</ref><ref name="MTF5e-p148-149">{{Cite book/Mordenkainen's Tome of Foes|148-149}}</ref>
+| power4e             = [[Demon lord]]
+| alignment4e         = [[Chaotic evil]]
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="MotP4e-p131">{{Cite book/Manual of the Planes 4th edition|130-131}}</ref>
+| power3e             = [[Demon lord]]
+| alignment3e         = [[Chaotic evil]]
+| symbol3e            = A black, six-fingered hand
+| homeplane3e         = The [[Abyss]]
+| realm3e             = [[Azzagrat]]
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Tyrants, despot, guile, debauchery
+| domains3e           = [[Chaos domain|Chaos]], [[Demonic domain|Demonic]], [[Evil domain|Evil]], [[Temptation domain|Temptation]]
+| worshipers3e        = 
+| cleric alignments3e = 
+| favored weapon3e    = [[Bastard sword]]
+| holy days3e         = 
+| challenge3e         = 32<ref group="note">In ''[[Fiendish Codex I: Hordes of the Abyss]]'', his challenge rating is given as only 22, and in the ''[[Book of Vile Darkness (sourcebook)|Book of Vile Darkness]]'', it is given as only 24.</ref>
+| class3e             = 
+| refs3e              = <ref name="BoVD-pp130-132">{{Cite book/Book of Vile Darkness|130-132}}</ref><ref name="FC13e-p65-66">{{Cite book/Fiendish Codex I: Hordes of the Abyss|65-66, 155}}</ref><ref name="D360-p12-13">{{Cite dragon/360/Demonomicon of Iggwilv: Graz'zt, the Dark Prince|12-13}}</ref>
+| power2e             = 
+| alignment2e         = 
+| symbol2e            = 
+| homeplane2e         = 
+| realm2e             = 
+| serves2e            = 
+| servedby2e          = 
+| portfolio2e         = 
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = 
+| refs2e              = 
+| power1e             = 
+| alignment1e         = 
+| symbol1e            = 
+| homeplane1e         = 
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = 
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = 
+| animals             = 
+| plants              = 
+| monsters            = 
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  = 
+| usethe              = 
+| church              = 
+| temples             = 
+}}
+'''Graz'zt''' was the [[demon lord|demon prince]] of pleasure, decadence, and unlimited self-indulgence, as well as the patron of corrupt authorities and tyrants who would rule by force. He ruled the 45{{th}}, 46{{th}}, and 47{{th}} layers of the [[Abyss]], known as [[Azzagrat]] or the Triple Realm.<ref name="FC13e-p65-66" /><ref name="MToF-28" /> The appearance of '''the Dark Prince''' belied the true depths of his wickedness,<ref name="MM5">{{Cite book/Monster Manual 5th edition|52}}</ref> his existence a warning that not all that was beautiful was also good.<ref name="MTF5e-p148-149" /> All things were but playthings in the eyes of the '''Prince of Pleasure'''; he simply hadn't claimed them yet.<ref name="MToF-28" />
+
+{{quote
+|I live for the moment when I can turn something pure into something perverse.
+|Graz'zt<ref name="BoVD4e-p44">{{Cite book/The Book of Vile Darkness/Dungeon Master's Book|44}}</ref>
+}}
+
+==Description==
+[[File:Graz'zt - Jeremy Jarvis.jpg|thumb|left|250px|''Graz'zt in all his handsome glory.'']]
+Standing {{SI|9|feet|long=yes}} tall, Graz'zt appeared as a lithe yet muscular large [[humanoid]]. His skin shone like polished [[obsidian]] and his eyes glittered with malevolent green light. He had yellowed fangs, pointed ears, and six slender fingers adorning each hand. He was sometimes described as having six small black horns half-hidden amid his thick black hair. These [[fiend]]ish traits were apparent, regardless of whatever form Graz'zt chose to take. He was considered the comeliest [[demon]] in the Abyss, and dressed in the most expensive and elegant finery on the entire plane.<ref name="BoVD-pp130-132"/><ref name="FC13e-p65-66"/><ref name="MToF-28" />
+
+==Personality==
+Graz'zt was a cruel and charismatic demon lord who focused on his pleasure above all else. Despite this and his chaotic nature, he was collected and patient, to the point that some likened him closer to a [[devil]] rather than a demon. He understood that to see his goals come to fruition it required not just force, but to control those who believe themselves to be at the forefront.<ref name="BoVD-p130" /><ref name="HotA-p65" />
+
+He was arrogant and enjoyed the notion that he was the most cunning and intelligent being within the whole of the Abyss.<ref name=":0">{{Cite book/Book of Vile Darkness|131}}</ref><ref name="HotA-p65" />
+
+Unlike his kin, he paid a great deal of attention to the [[Prime Material plane]] through his spies and he was known to have interacted with mortals quite often, trading favors, aid, or information with them only to then demand a service later on.<ref name=":0" /><ref>{{Cite book/Fiendish Codex I: Hordes of the Abyss|66}}</ref>
+
+Graz'zt was a schemer and was always forming plots that would allow him to best his enemies and secure himself more power. He loved guile and seduction greatly and though he did not dislike war, he preferred to charm or trick his foes rather than simply beat them in combat. If provoked however, he was capable of extreme violence.<ref name=":0" /><ref name="D360-p10-11" /><ref name="HotA-p65" />
+
+As the Prince of Pleasure, the only sin as far as he was concerned was moderation. He was fond of procreating with humanoids who had made pacts with fiends and was one of the most notorious sources of [[cambion]]s within the [[Lower Planes]]. He enjoyed contrasts and mismatches that others considered grotesque, while he despised kindness or restrictions. Due to his insatiable appetites, the Dark Prince never went anywhere without a retinue of female monsters such as [[lamia]]s, [[Succubus|succubi]], or [[marilith]]s.<ref name="HotA-p65" /><ref name="BoVD-p130" /><ref name="MToF-p148" /><ref name="MM5" /><ref name="D360-p10-11" />
+
+In contrast to his hedonism, he kept his mind clear of distractions so as to focus on claiming more land and minions, all while defeating his enemies one at a time. His endless schemes led to his ultimate goal, which was the complete subjugation and unification of the Abyss and from there the whole of the Lower Planes in an attempt to then command a terrible army of [[fiend|fiends]] to raze all other planes within the multiverse to the ground.<ref name="HotA-p65" /><ref name="BoVD-p130">{{Cite book/Book of Vile Darkness|130}}</ref><ref name="MToF-p148">{{Cite book/Mordenkainen's Tome of Foes|148}}</ref><ref name="MM5" /><ref name="D360-p10-11" />
+
+==Abilities==
+Graz'zt, being one of the most powerful demons within the abyss, had an extensive list of abilities both common and unique to him. He had a vast repertoire of magical abilities at his disposal, so vast that many had assumed he was a sorcerer or wizard. Many of the magical abilities Graz'zt had at his disposal were largely based around controlling the battle field by restricting, dominating, and or destroying his foes with brutal efficiency.<ref name="BoVD-p130" /><ref name="HotA-p65" />
+
+His magic allowed him to [[Dominate person|dominate]] the minds of mortals; [[Greater dispel magic|dispel]] powerful magic with ease; smite his foes with an empowered [[Unholy blight|miasma of darkness]]; or invoke intense fear with a word and sneer. His most powerful spell however, was the ability to [[trap the soul]] of any being he wished, sealing them away in a gem of his choosing.<ref name="HotA-p65" />
+
+However, he did not hesitate to fight in close range as he was just as dangerous. As a [[tanar'ri]], he was resistant to most forms of energy, specifically being immune to electricity and [[poison]], while resistant to fire, cold, and [[acid]]. He also boasted a potent resistance to magic, making spells far less effective. He also sported surprisingly effective self healing abilities. He possessed an acidic-burst bastard sword called "Angdrelve", also called the "Wave of Sorrow", which corroded the flesh of his foes and a [[Cloak of displacement|major cloak of displacement]] which made hitting him all the harder. If pushed, he also possessed the ability to summon powerful demons to his side for support.<ref name="HotA-p65" /><ref name="BoVD-p130" /><ref name="MToF-p148" />
+
+==Combat==
+[[File:Iggwilv summoning Graz'zt.jpg|right|thumb|''Graz'zt and Iggwilv.'']]
+Wielding an [[acid]]-drenched [[greatsword]] in one hand and a profane [[tower shield]] in the other, the Dark Prince was incredibly skilled in close melee.{{Fact}}
+
+He did not hesitate to use his vast collection of spells, with him having a particular fondness for the spells [[charm person]] and unholy blight, using the latter to weed out good or lawful beings. During combat, he was known to use a dominate person spell on any obvious fighters, as to quickly have them turn on their allies, while inspiring fear in spellcasters to stop them from assisting those he singled out. He typically began combat by dispelling any effects that his foes were using to empower themselves. He was also known to begin combat with the spells [[detect thoughts]] and [[unholy aura]].<ref name="HotA-p65" /><ref name="BoVD-p130" />
+
+Graz'zt preferred to fight in melee combat, using his swordplay and innate spells to overwhelm his foes. However, if he was wounded he would retreat periodically through teleportation. quickly recovering from his wounds before returning to finish the fight.<ref name="D360-p10-11" />
+
+==Relationships==
+===The Material Plane===
+{{quote
+|The dark man, the shadow king, the ebony skinned master of all things that revel in the night, oh master Graz'zt, spare me your wrath and grant me your favor!|[[Besmal]], human cultist of Graz'zt.<ref name="BoVD-pp68"/>
+}}
+Although he had not yet achieved divine status, Graz'zt was worshiped on the [[Material Plane]] by many monstrous races, most notably the [[lamia]]s. Many of his high priests, known as the Chosen, were female, and the rituals they performed were violent and involved themes of darkness and betrayal.<ref name="BoVD-pp130-132" /><ref name="FC13e-p65-66"/>
+
+The Dark Prince was a deeply sexual, erotic being. He was known on many worlds only in legend, as a dark figure who visited [[witch]]es and sorcerers, granting them sexual favors as well as magical powers.<ref name="BoVD-pp130-132" /> As a result, his female consorts had populated the multiverse with a depraved host of [[half-fiend]] children. Some learned of their father's identity and delved into the Abyss, hoping to usurp his power. His [[drow]] son, [[Athux]], led Graz'zt's demonic army, while his daughter [[Thraxxia]] served him as his private [[assassin]].<ref name="HotA-p118-121">{{Cite book/Fiendish Codex I: Hordes of the Abyss|118-121}}</ref>
+
+In the {{YearlinkName|-666}}, Graz'zt and [[Ayanna Orgolath]] had twin half-fiendish sons, named [[Ulthas Orgolath|Ulthas]] and [[Ulthar Orgolath|Ulthar]]. They would overthrow the [[lich]]-king of [[Narfell]], [[Belevan Crell|Belevan the Unliving]], and give rise to the [[Orgolath Dynasty]].<ref name="GHotR-81">{{Cite book/The Grand History of the Realms|81}}</ref>
+
+[[File:Graz'zt and Iggwilv - Wayne Reynolds.jpg|thumb|right|250px|''Graz'zt and Iggwilv.'']]
+For a time, Graz'zt was trapped on the Material Plane world of [[Oerth]] by the witch-queen [[Iggwilv]], who used his insight to elevate her own power. Eventually, however, she succumbed to the Dark Prince's charms. Graz'zt ultimately returned to the Abyss, but rumors abounded that he did, in fact, fall in love with his captor. A son, Iuz, was born of their union.<ref name="HotA-p118-121" />
+
+Some sources claimed that Graz'zt was the creator of the Vasharans, a breed of vilely evil [[human]]s. Deemed cruel and soulless by the gods who created him, the Vasharans' ancestor was destroyed... but Graz'zt breathed new life into the corpse, long before he attained his present status. It was a terrifying legacy, for the Vasharans were obsessed with deicide, and destroying all gods became the reason for their existence.<ref name="BoVD-pp12">{{Cite book/Book of Vile Darkness|12}}</ref>
+
+===The Abyss===
+Graz'zt was always attended by six powerful lamias, and his [[marilith]] escorts, [[Unhath]] and [[Reluhantis]], were never far from his side.<ref name="BoVD-pp130-132"/> [[Bodak]]s and similar horrors were found in his [[Argent Palace]].<ref name="HotA-p118-121"/>
+
+Technically, every demon living within Graz'zt's world-spanning empire was considered one of his loyal servants; those who proved otherwise were fed to the carnivorous plants in his perfumed hanging gardens. Noteworthy minions included a hulking [[goristro]] named [[Orwantz]], who acted as Graz'zt's personal border control for Azzagrat, and [[Rule-of-Three]], a [[cambion]] who met secretly with other fiends of the [[Lower Planes]], to strategize an attack against the celestials.<ref name="HotA-p118-121"/>
+
+Graz'zt's most powerful servant was a mysterious, hyper-intelligent demon named Verin. Like Graz'zt, Verin appeared almost human, but his skin was deathly pale, and he constantly oozed spiritual slime. Verin could change his form at will, and often created a black-skinned mirror image of himself, known as Ztefano. He served as the Dark Prince's majordomo and chief ambassador to the other demon lords.<ref name="HotA-p118-121" /><ref name="D360-p12-13"/>
+
+The god [[Raxivort]] was once a servant of the Dark Prince.<ref name="HotA-p118-121" /><ref name="D360-p12-13" /> He stole powerful artifacts from Graz'zt and escaped to the howling chasms of [[Pandemonium]], where he became the divine patron of rodents and bats. Raxivort even has his own chosen race, a goblinoid horde known as the [[xvart]]s.<ref name="VGtM-199">{{Cite book/Volo's Guide to Monsters|199}}</ref>
+
+===Enemies===
+[[File:WaukeenAndGraz'zt.jpg|thumb|250px|''Graz'zt "hosting" Waukeen in the Abyss.'']]
+Through his own schemings and mischief, Graz'zt became the chief enemy of [[Waukeen]], a goddess of wealth and merchantry. During the [[Time of Troubles]], the deity bargained for safe passage across Zelatar with information regarding a secret horde of treasure. Graz'zt readily accepted the offer, but betrayed Waukeen as soon as she arrived in the Abyss. Imprisoned in the Argent Palace, the goddess was forced to witness profane celebrations held in her honor.<ref name="FDaD-4">{{Cite book/For Duty & Deity|4}}</ref><ref name="D360-p12-13" /> A sinister group known as the [[League of the Six-Fingered Gentlemen]] (sometimes the League of Six Rings) wormed its way into the hierarchy of the [[church of Waukeen]] during the time that Graz'zt had imprisoned the goddess in the Abyss. Once there, they were not rooted out, and busily spread the Harlot's Coin Heresy among Waukeen's faithful. This heretical schism of Waukeen's faith taught that Waukeen had been gradually selling off pieces of her divinity and virtue to Graz'zt in order to finance her church and it was for failing to pay her debts that the demon lord imprisoned her. These heretics claimed that Waukeen became free because she finally paid her debt to the demon, resulting in Graz'zt owning the majority of Waukeen's godhood. The heretics thus believed that all who worshiped Waukeen were really worshiping Graz'zt instead, and they're just fine with that.<ref name="D355-p71">{{Cite dragon/355/Volo's Guide: Demon Cults of the Realms|71}}</ref>
+
+Graz'zt warred with many other lords of the Abyss as well, including [[Baphomet]] and [[Yeenoghu]]. Thanks to the efforts of his son Athux, he overthrew the demon prince [[Adimarchus]], who ruled [[Layers of the Abyss#Layer 507: Occipitus|Occipitus]], the 507{{th}} layer of the Abyss.<ref name="HotA-p65">{{Cite book/Fiendish Codex I: Hordes of the Abyss|65}}</ref><ref name="DN4e-p58">{{Cite book/Demonomicon|58}}</ref><ref name="DunM116-p61-62">{{Cite dungeon/116/Asylum|61-62}}</ref>
+
+[[File:Tasha & Graz'zt.png|left|thumb|''Graz'zt and Tasha.'']]
+One of Graz'zt's most confusing enemies was the witch queen [[Iggwilv|Iggwilv (a.k.a. Tasha)]]. The two had been both lovers and bitter enemies over many years.<ref name="D414">{{Cite dragon/414/History Check: The Iggwilv-Graz'zt Affair}}</ref>
+
+Two of Graz'zt's other greatest enemies were [[Malcanthet]], Queen of the [[Succubi]], and [[Gwynharwyf]], champion of the [[Celestial eladrin|eladrin]].<ref name="D149-ST-EoME-p42">{{Cite dungeon/149/Enemies of My Enemy|42}}</ref> His conflict with the former ended up involving [[Kostchtchie]], the Prince of Wrath, who swore revenge against Graz'zt for humiliating him, although Graz'zt himself did not consider the upstart demon lord as much of a threat.<ref name="D345-DoI-K-PoW-pp25">{{Cite dragon/345/Demonomicon of Iggwilv: Kostchtchie: Prince of Wrath|25}}</ref>
+
+==History==
+[[File:Graz'zt vs heroes.png|thumb|''Graz'zt facing valiant heroes in the Abyss.'']]
+There were several competing, often contradictory theories as to Graz'zt's origin, some of which claimed that he was not a native to the Abyss, but was once an [[archdevil]] who served [[Asmodeus]]. In one of these theories, Graz'zt was chosen to lead an invasion of the Abyss as part of the [[Blood War]]&mdash;and conquered three layers of the Abyss&mdash;but became corrupted by the chaotic forces he had been sent to destroy and renounced his allegiance to the devils.<ref name="MotP4e-p131" /> Another theory claimed that Graz'zt became disillusioned with his place in [[Baator]] when he realized that the hierarchy of Hell ultimately benefited only one creature—Asmodeus—and felt that pledging his allegiance to the Abyss was the only way to place himself beyond Asmodeus's clutches.<ref name="MToF-28">{{Cite book/Mordenkainen's Tome of Foes|28}}</ref>
+
+Yet another theory suggested that Graz'zt was one of several demonic children of [[Pale Night]], sired after the fall of the [[obyrith]]s; this would make him the brother of several other demons, including [[Lupercio]], [[Vucarik]], [[Rhyxali]], and [[Zivorgian]]. Those who subscribed to this theory believed that Pale Night must have drawn some great evil entity to herself to father her children; suggestions for what this entity could have been included an evil god such as [[Set]], a [[baernoloth]], the patriarch of a race of immortal warriors from another reality, an Outer God of Crawling Chaos, and even a sentient portion of the Abyss itself. Some maintained that Asmodeus was drawn from the Nine Hells to mate with Pale Night, implying that there may be truth in both theories.<ref name="D360-p10-11">{{Cite dragon/360/Demonomicon of Iggwilv: Graz'zt, the Dark Prince|10-11}}</ref>
+
+During the {{YearlinkName|1486}}, on 15 Nightal, Graz'zt was summoned to the [[Deep Wastes|Underdark]] below the [[Earthfast Mountains]] near the [[Master's Library]], due to a ritual performed by [[Gromph Baenre]] that was originally meant to summon and bind [[Demogorgon]], but which failed and instead summoned several Demon Lords in various locations throughout the Underdark.<ref>{{Cite book/Hero/MMP||1}}</ref> In this location, he subdued a force of [[Zhentarim]].<ref name="AotH/Hardcover">{{Cite book/Ashes of the Tyrant/Hardcover}}</ref>
+
+==Appendix==
+{{wikipedia|Graz'zt}}
+{{Incomplete}}
+===Notes===
+{{Notes}}
+
+===See Also===
+* [[Belial]]
+
+===Gallery ===
+<gallery>
+Harlot's Coin.jpg|''Graz'zt with Waukeen's [[holy symbol]].''
+Iggwilv and Graz'zt-4e.jpg|''Graz'zt and Iggwilv.''
+Graz'zt - Ralph Horsley.jpg|''An aspect of Graz'zt, alongside a marilith.''
+Graz'zt sigil.png|''Abyss sigil.''
+</gallery>
+
+===Appearances===
+{{Appearances
+| adventures          = ''[[For Duty & Deity]]''
+| adventure refs      = 
+| novels              = ''[[Ashes of the Tyrant]]''  •  ''[[Hero]]''
+| novel refs          = ''[[The Glass Prison]]''
+| films               = 
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = ''[[Dungeons & Dragons Online]]'' <small>("[[Dungeons & Dragons Online/The Mines of Tethyamar|The Mines of Tethyamar]]" • "[[Dungeons & Dragons Online: Terror of Demogorgon|Terror of Demogorgon]])</small> • ''[[Idle Champions of the Forgotten Realms]]
+| video game refs     = 
+| board games         = 
+| board game refs     = 
+| card games          = ''[[Blood Wars]]''
+| card game refs      = 
+| miniatures          = ''[[Dungeons & Dragons Miniatures]]''
+| miniature refs      = 
+| organized play      = 
+| organized play refs = 
+}}
+
+===Further Reading===
+*{{Cite dungeon|author=[[Stephen S. Greer]]|title=Fiend's Embrace|issue=121|year=2005}}
+*{{Cite book/Faces of Evil: The Fiends}}
+*{{Cite book/Planes of Chaos}}
+*{{Cite book/Monster Manual II 1st edition}}
+*[[Gygax, Gary]]. ''[[Dance of Demons]]'' ([[New Infinities]], [[1988]]).
+*[[Gygax, Gary]]. ''[[The Lost Caverns of Tsojcanth]]'' ([[TSR]], [[1976]]).
+*[[Gygax, Gary]]. ''[[Sea of Death]]'' ([[New Infinities]], [[1987]]).
+
+===References===
+{{Refs}}
+
+===Connections===
+{{Archdevils}}
+[[Category:Archdevils]]
+[[Category:Demon lords]]
+[[Category:Inhabitants of the Abyss]]
+[[Category:Inhabitants of the Nine Hells]]
+[[Category:Inhabitants of chaotic evil alignment]]
+[[Category:Inhabitants of Azzagrat]]
+[[Category:Inhabitants of Oerth]]
+[[Category:Lords of the Nine]]
+[[Category:Rulers]]
+[[Category:Males]]
+[[Category:Demonic domain deities]]
+[[Category:Archfiends]]
+[[Category:Shapechangers]]

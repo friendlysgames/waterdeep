@@ -1,0 +1,2 @@
+campaign/setting/deities/siamorphe.md:31: - **Rank:** Siamorphe is a demigod (5e, *Sword Coast Adventurer's Guide* p.151; *Dragon Heist* calls her the same) and a demipower in 2e and 3e. In 4e she is an exarch who serves Amaunator, with the Eternal Sun as her dominion. In 3e she has no true allies or superiors among the gods.
+campaign/setting/deities/siamorphe.md:109: - **Amaunator** (Deities, page planned): the power she serves in 4e.

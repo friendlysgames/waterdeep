@@ -1,0 +1,239 @@
+WIKI PAGE: Silvanus
+
+{{Otheruses4|the deity of nature|the [[Elf|elven]] member of the [[Company of Eight]]|Sylvanus Moondrop}}
+{{Deity
+| image               = 
+<gallery>
+Silvanus-3e.jpg|3e
+Silvanus-1e.png|1e
+</gallery>
+| caption2            = Silvanus the Oak Father
+| name                = Silvanus
+| title               = Oak Father<ref name="HoF-p121">{{Cite book/Forgotten Realms: Heroes of Faerûn|121}}</ref><ref name="SCAG5e-p21,37" /><ref name="FRCS-235" /><br />The Old Oak<ref name="HoF-p121"/><ref name="SCAG5e-p21,37" /><br />Old Father Tree<ref name="HoF-p121"/><ref name="SCAG5e-p21,37" /><br />The Forest Father<ref name="FRCS-235" /><ref name="FRCG4e-p76" /><ref name="FRPG-p153" /><br />Treefather<ref name="FRCS-235" /><br/>God of Wild Nature<ref name="cru-p30">{{Cite book/Crucible|30}}</ref><br />Green Father<ref name="PrayersFTF-p49">{{Cite book/Prayers from the Faithful|49}}</ref><ref name="TBK-p18">{{Cite book/The Border Kingdoms|18}}</ref>
+| adjective           = Silvanite<ref name="FA-p147">{{Cite book/Faiths & Avatars|147}}</ref>
+| aspects             = Irmider<ref name="PrayersFTF-p49"/><br />Orthaum<ref name="PrayersFTF-p49"/><br />Shabrathan<ref name="PrayersFTF-p49"/><br />Taoltrathan<ref name="PrayersFTF-p49"/>
+| status              = 
+| primordial          = 
+| pantheon            = [[Celtic pantheon]]<br />[[Faerûnian pantheon]]
+| home                = 
+| formerhomes         = 
+| gender              = Masculine
+| died                = 
+| basicrefs           = 
+| mortalrace          = 
+| mortalsex           = 
+| mortalhomes         = 
+| apotheosis          = 
+| mortalrefs          = 
+| favored weapon      = [[Hammer]]<ref name="drag115-p40">{{Cite dragon/115/Hammer of Thor, Spear of Zeus|40}}</ref>
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = [[Oak]] leaf
+| homeplane5eR        = [[The Outlands]]
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Wild nature
+| domains5eR          = 
+| worshipers5eR       = [[Barbarian]]s, [[Druid]]s, [[Ranger]]s, [[Wood elf|wood elves]]
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            =  
+| refs5eR             = <ref name="HoF-pp99,121">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,121}}</ref>
+| power5e             = 
+| alignment5e         = [[Neutral]]
+| symbol5e            = [[Oak]] leaf
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Wild nature
+| domains5e           = [[Nature domain|Nature]]
+| worshipers5e        = 
+
+| channel divinity5e  = ''[[Charm animals and plants]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG5e-p21,37">{{Cite book/Sword Coast Adventurer's Guide|21,37}}</ref><ref name="PHB5e-p61-62,294">{{Cite book/Player's Handbook 5th edition|61-62,294}}</ref>
+| power4e             = 
+| alignment4e         = [[Unaligned]]
+| symbol4e            = 
+| dominion4e          = [[Deep Wilds|The Deep Wilds]]
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = [[Malar]] ([[exarch]])
+| sphere4e            = Nature
+| domains4e           = [[Life domain|Life]], [[Storm domain|Storm]], [[Wilderness domain|Wilderness]]
+| worshipers4e        = Farmers, field workers, gardeners, hunters, trappers, and wealthy landowners<ref>{{Cite dragon/412/Channel Divinity: Chauntea and Silvanus|22}}</ref>
+| cleric alignments4e = 
+| channel divinity4e  = ''[[Blessing of Silvanus]]''<br />''[[Forest Father's Grasp]]''<ref name="drag412-p24" />
+| holy days4e         = [[Greengrass]]<br />[[Midsummer]]<br />[[Highharvestide]]
+| class4e             = 
+| refs4e              = <ref name="FRCG4e-p63,76">{{Cite book/Forgotten Realms Campaign Guide|63,76}}</ref><ref name="Dragon378-32">{{Cite dragon/Domains in Eberron and the Forgotten Realms}}</ref>
+| power3e             = [[Greater deity]]
+| alignment3e         = [[True neutral]]
+| symbol3e            = Green living oak leaf
+| homeplane3e         = [[House of Nature|The House of Nature]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Wild nature, [[Druids]]
+| domains3e           = [[Animal domain|Animal]], [[Plant domain|Plant]], [[Protection domain|Protection]], [[Renewal domain|Renewal]], [[Water domain|Water]]
+| mantles3e           = {{Mantles|Guardian|Life|Natural World|Repose}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = 
+| cleric alignments3e = {{alignment grid|off|on|off|on|on|on|off|on|off}}
+| favored weapon3e    = ''[[Great Mallet of Silvanus]]'' ([[maul]])
+| holy days3e         = [[Greengrass]], [[Midsummer]] night, [[Highharvestide]], [[Night the Forest Walks]]
+| class3e             = {{class table|edition=3e|[[Druid]]|20|[[Ranger]]|10|[[Barbarian]]|10}}
+| refs3e              = <ref name="FRCS-235">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|235}}</ref><ref name="FP3e-p63">{{Cite book/Faiths and Pantheons|63-64}}</ref><ref name="PGF3e-p158-159">{{Cite book/Player's Guide to Faerun|158-159}}</ref>
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Neutral]]
+| symbol2e            = Green living oak leave<br/>Oak tree in summer<br/>Wooden staff sprouting buds and tiny green leaves
+| homeplane2e         = [[Outlands]]
+| realm2e             = [[Tir na Og]] ([[Deep Forest|The Deep Forest]])
+| serves2e            = 
+| servedby2e          = [[Eldath]] and [[Mielikki]]
+| portfolio2e         = Untamed nature, forests, [[druid]]s
+| spheres2e           = 
+| worshipers2e        = Forest dwellers<ref name="OHG-p75" />
+| cleric alignments2e = {{alignment grid|off|off|off|on|on|on|off|off|off}}
+| holy days2e         = 
+| class2e             = {{class table|edition=2e|[[Druid]]|40|[[Fighter]]|25|[[Wizard]]|20}}
+| refs2e              = <ref name="OHG-p75">{{Cite book/On Hallowed Ground|75}}</ref><ref name="F&A-p145">{{Cite book/Faiths & Avatars|145}}</ref><ref>{{Cite book/Forgotten Realms Adventures|30}}</ref>
+| power1e             = [[Greater deity]]
+| alignment1e         = [[Neutral]]
+| symbol1e            = An [[oak]] leaf<ref name="FRCS-p14" /><br />A summer oak tree<ref name="D&D1e-p30" /><br />A wooden [[staff]]<ref name="FRCS-p14" />
+| homeplane1e         = [[Concordant Opposition]]
+| realm1e             = [[Tir na Og]]<ref name="MotP-p115">{{Cite book/Manual of the Planes 1st edition|115}}</ref>
+| serves1e            = 
+| servedby1e          = [[Eldath]] and [[Mielikki]]<ref name="FRCS-p17" />
+| portfolio1e         = Nature
+| worshipers1e        = [[Druid]]s,<ref name="FRCS-p14" /><ref name="D&D1e-p30" /> dwellers of the forest<ref name="D&D1e-p30" />
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = {{class table|edition=1e|[[Bard]]|15|[[Cleric]]|14|[[Druid]]|14|[[Fighter]]|13|[[Illusionist]]|19}}
+| refs1e              = <ref name="FRCS-p14">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|14}}</ref><ref name="D&D1e-p30">{{Cite book/Deities & Demigods 1st edition|30}}</ref><ref name="drag54-p8">{{Cite dragon/54/Down-to-earth divinity|8}}</ref>
+| animals             = [[Badger]]s<br />[[Deer]]
+| plants              = 
+| monsters            = [[Atomie]]s<br />[[Brownie]]s<br />[[Dryad]]s<br />[[Pixie]]s<br />[[Satyr]]s<br />[[Sprite (creature)|Sprites]]<br />[[Treant]]s<br />[[Unicorn]]s
+| minerals            = 
+| colors              = 
+| misc manifestations = An oak leaf blown out of nowhere<br />A fire-quenching, eerie green glow that's always accompanied by the sounds of faint whistling wind and running or dripping water
+| manifestation refs  = <ref name="F&A-p146" />
+| church     = yes
+}}
+'''Silvanus'''<ref group="note">The first edition boxed set, ''[[Forgotten Realms Campaign Set]]'', had an image of Silvanus's symbol, but labeled it Sylvanus, with a '''Y''' instead of an '''I'''.</ref> ({{Pronounce|sihl|VANN|us|refs=<ref name="FP3e-p63"/><ref name="F&A-p145" /><ref name="FRCS-p14" /><ref name="FRCS-p251">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|251}}</ref>}}) was the [[Celtic pantheon|Celtic]] and [[Faerûnian pantheon|Faerunian]] [[power]] of wild nature,<ref name="FRCS-p14" /> standing in contrast to the more ordered, agrarian nature represented by the goddess [[Chauntea]].<ref name="FRCS.2e-p48" /> He was one of the gods of the [[First Circle]].<ref name="SCAG5e-p126">{{Cite book/Sword Coast Adventurer's Guide|126}}</ref>
+
+{{quote|''The Forest Father is the eternal guardian of the forest. He is the god of all wild and untamed nature throughout Faerûn. Priests and druids of the realms call him Silvanus, though he is known by many names.''|[[Emmerich Hawk]] of [[Lonelywood]]<ref name="iwd">{{Cite game/Icewind Dale: Heart of Winter}}</ref>}}
+
+==Description==
+Silvanus had both an old and young [[avatar]] form that he was known to manifest in.<ref name="F&A-p145" />
+
+His old form was known as the '''Old Father'''. It took the form of an old, bearded [[human]] male face, either floating midair among trees or sprouting from the trunk of an especially large and old tree. The flesh of this form was always brown, gray, and fissured like old wood.<ref name="F&A-p145" />
+
+His young form was known as the '''Young Strider'''. This was a young,<ref name="F&A-p146">{{Cite book/Faiths & Avatars|146}}</ref><ref name="FRCS.2e-p48">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|48}}</ref> long-limbed [[humanoid]] male,<ref name="FRCS-p14" /><ref name="F&A-p146" /><ref name="FRCS.2e-p48" /> with particularly long legs,<ref name="D&D1e-p30" /> dressed in a suit of armor made of leaves and wielding a wooden [[mallet]].<ref name="F&A-p145" /><ref name="FRCS-p14" /><ref name="D&D1e-p30" /><ref name="FRCS.2e-p48" /> He most often assumed this form when a sacred grove was threatened or a circle of druids was attacked during their worship.<ref name="F&A-p146" />
+
+Another form he was known to manifest as was the '''Horned Hunter''',<ref name="F&A-p146" /> an entity similar in appearance to his fellow Celtic god [[Cerunnos]].<ref name="drag65-p52">{{Cite dragon/65/Tuatha De Danann — A revised Celtic mythos|52}}</ref> This form was an always silent man with burning white eyes, sporting a set of [[stag]] antlers and shaggy brown fur that was almost bark-like. This form always appeared among the trees, often just to indicate something by gesturing, nodding, or pointing before disappearing.<ref name="F&A-p146" />
+
+==Personality==
+Typical of nature deities, some described Silvanus as being wild and unpredictable, much like nature itself.<ref name="FRPG-p153" />
+
+He was chiefly concerned with nature itself,<ref name="OHG-p75" /> specifically wild nature,<ref name="FRCS.2e-p48" /> in both its natural beauty and fierce savagery.<ref name="FRPG-p153" /> Caring very little for maintaining a proper balance with civilization,<ref name="OHG-p75" /><ref name="drag412-p23">{{Cite dragon/412/Channel Divinity: Chauntea and Silvanus|23}}</ref> being wrathful towards those who threaten wild places.<ref name="FRCS-p251" /> He paid no attention to the machinations of mortals or other deities.<ref name="OHG-p75" /> 
+
+When it came to nature itself, he cared greatly for maintaining a balance between growth and decay,<ref name="FRCG4e-p76">{{Cite book/Forgotten Realms Campaign Guide|76}}</ref><ref name="FRPG-p153">{{Cite book/Forgotten Realms Player's Guide|153}}</ref><ref name="FRCS-p251" /><ref name="FRCS.2e-p48" /><ref name="drag412-p23" /> water and drought, fire and ice<ref name="FRCS-p251" /><ref name="FRCS.2e-p48" /><ref name="drag412-p23" /> &mdash; the natural cycle of life.<ref name="FRCS-p251" /><ref name="FRCS.2e-p48" /><ref name="EGPEFR-p165">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|165}}</ref> This was considered to be his dogma<ref name="FRCS-p251" /><ref name="FRCS.2e-p48" /> and he was emotionally distant in regards to its necessity.<ref name="FRCS-p251" /> This led some to view him as heartless, though in reality he valued all life.<ref name="drag412-p23" />
+
+He had a special hatred for those who used [[fire]] carelessly or with deliberate intention to cause destruction.<ref name="drag412-p24">{{Cite dragon/412/Channel Divinity: Chauntea and Silvanus|24}}</ref><ref name="F&A-p146" />
+
+==Powers==
+His avatar was capable of controlling any number of [[animal]]s and forest creatures with the sound of his voice. He could also make plants grow or shrink at any rate he willed.<ref name="D&D1e-p30" /> Both of his avatar forms could cast [[spell]]s from any [[sphere]] or [[school of magic]].<ref name="F&A-p145" /><ref name="F&A-p146" /> The Old Father form would cast spells from the [[animal sphere|animal]], [[plant sphere|plant]], and [[weather sphere|weather]] spheres at triple their normal effect,<ref name="F&A-p145" /> while for his Young Strider form this only occurred for spells of the weather sphere.<ref name="F&A-p146" />
+
+In addition, the Old Father avatar form of Silvanus could create and animate both plants and fungi, imitating similar spells from any sphere or school of magic. He could [[animal growth|shrink or enlarge animals]], summon animals to his aid, and command loyalty from any mundane animal, giant animal, or [[sylvan]] creature. Even turning animals against their owners. He frequently summoned [[treant]]s to his aid.<ref name="F&A-p146" />
+
+The Horned Hunter could also cast some spells, most notably ''[[telekinesis]]'' far beyond the normal weight limits, and only spoke to other creatures by a [[telepathy|telepathic]] means.<ref name="F&A-p146" />
+
+==Possessions==
+His Young Strider form<ref name="F&A-p146" /> typically dressed in a ''+5 suit of leaves armor'', which offered protection equivalent to [[plate mail]].<ref name="D&D1e-p30" /> Alternatively, some described him as wearing a set of [[scale armor]] whose scales were all in the shape of oak leaves.<ref name="F&A-p146" /><ref name="FRCS.2e-p48" /> This form of his was also seen to wield an enchanted mallet,<ref name="D&D1e-p30" /><ref name="F&A-p146" /> referred to as the ''[[great mallet of Silvanus]]''.<ref name="F&A-p146" />
+
+==Realm==
+The [[divine realm]] of Silvanus varied depending upon the [[cosmology]] that one used. In the [[Great Wheel cosmology]], it resided in the Celtic pantheon's realm of [[Tir na Og]].<ref name="OHG-p75" /><ref name="MotP-p115">{{Cite book/Manual of the Planes 1st edition|115}}</ref> It stood in the deepest reaches of that realm, going by the name of [[Summeroak]]<ref name="OHG-p75" /> or '''Deep Forest'''.<ref name="F&A-p145" /> 
+
+According to the [[World Tree cosmology]], the realm was located in the [[World Tree cosmology#Neutral Planes|neutral plane]] known as the [[House of Nature]].<ref name="PGF3e-p158-159" /> And finally, the [[World Axis cosmology]] placed his realm within the [[Deep Wilds]].<ref name="FRCG4e-p63">{{Cite book/Forgotten Realms Campaign Guide|63}}</ref>
+
+==Relationships==
+[[File:Gods of Nature.jpg|thumb|right|250px|''A gathering of the gods of nature: [[Mielikki]] and her unicorn, [[Chauntea]], [[Eldath]], and Silvanus.'']]
+Silvanus did not have many allies, nor did he have many enemies.<ref name="OHG-p75" />
+
+In the Faerûnian pantheon he was allied with and served by fellow non-[[evil]] deities of animals and nature.<ref name="FRCS-p251" /> Such as [[Eldath]], [[Mielikki]],<ref name="FRCS-p17" /><ref name="drag54-p55" /> and [[Shiallia]].<ref>{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|59}}</ref> The first viewed him as a father figure, but often found his robustness intimidating,<ref name="F&A-p57">{{Cite book/Faiths & Avatars|57}}</ref> while the second had crafted the ''[[banish blight]]'' spell partially as a gift to him.<ref name="F&A-p115">{{Cite book/Faiths & Avatars|115}}</ref>
+
+Other allies of Silvanus included [[Chauntea]] and [[Lathander]]<ref name="F&A-p47,90">{{Cite book/Faiths & Avatars|47,90}}</ref> &mdash; who he at times he would work with in their efforts against the [[Gods of Fury]].<ref name="FRCS-p17" /><ref name="drag54-p55">{{Cite dragon/54/Down-to-earth divinity|55}}</ref> As well as [[Ki (goddess)|Ki]], nature goddess of the [[Untheric pantheon]].<ref name="OHGp62">{{Cite book/On Hallowed Ground|62}}</ref>
+
+He was considered an enemy by [[Moander]], [[Malar]], [[Talona]], and [[Talos]].<ref name="F&A-p105,119,152,155">{{Cite book/Faiths & Avatars|105,119,152,155}}</ref> He actively opposed the latter three, as their love for destruction often upset the balance of nature.<ref name="FRCS-p251" /> After the events of the [[Spellplague]], Malar became subject to Silvanus' rule as a resident of the [[Deep Wilds]]. Despite this, Silvanus did not rein in Malar.<ref name="AtRDT-p4">{{cite web |url=http://secretsofthearchmages.net/Threads/Wotc/2015/ForgottenRealms/1514971.htm|title=The one and only "Ask the Realms authors/designers thread" 4|accessmonthday=January 29th|accessyear=2017|author=[[Richard Baker]]|date=August 12th, 2008}}</ref>
+
+==Worshipers==
+{{Main|Church of Silvanus}}
+Silvanus had both [[cleric]]s and [[druid]]s in his faith, though their presence varied by location,<ref name="FRCS-p14" /> with druids being the more prominent due to his narrow focus on wild nature without concern for balance.<ref name="FRCS-p251" /><ref name="OHG-p75" /><ref name="D&D1e-p30" /> One could even find [[halfling]] druids revering him over [[Halfling pantheon|their own pantheon's]] nature deity, though this was a rare occurrence.<ref name="UA-p115">{{Cite book/Unearthed Arcana 1st edition|115}}</ref><ref name="FRCS-p16">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|16}}</ref>{{FRCS-Unearthed Legends}} Some [[barbarian]]s,<ref name="FRCS-p18">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|18}}</ref> hermits, wilderness dwellers,<ref name="FRPG-p153" /> and [[ranger]]s also worshiped him.<ref name="FRPG-p153" /><ref name="F&A-p113">{{Cite book/Faiths & Avatars|113}}</ref>
+
+His clergy often worked together with the clergy of his allies, [[Church of Mielikki|Mielikki]] and [[Church of Eldath|Eldath]], towards common goals.<ref name="FRCS-p17">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|17}}</ref><ref name="drag54-p55" /><ref name="EGPEFR-p145,154">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|145,154}}</ref> With the latter two being instructed to support, protect, and (if the need arose) obey the clergy of Silvanus.<ref name="EGPEFR-p145,154" /> These included protecting the wilderness from further encroachment by civilization,<ref name="FRPG-p153" /> such as the felling of trees and limiting farms or ranches to already cleared land. Also the fighting of [[disease]]s, planting new plants, and fighting those who did the bidding of Malar.<ref name="FRCS-p251" /><ref name="EGPEFR-p165" />
+
+His worship was widespread across the east and south of [[Tethyr]], especially in the [[Forest of Tethir]],<ref>{{Cite book/Empires of the Sands|24}}</ref> in the [[Dalelands]],<ref>{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|31}}</ref> the [[Moonshae Isles]], the [[Chondalwood]] of the [[Vilhon Reach]], and the [[Yuirwood]] in [[Aglarond]].<ref name="drag412-p23" />
+
+==History==
+Silvanus originated as a member of the Celtic pantheon.<ref name="OHG-p168">{{Cite book/On Hallowed Ground|168}}</ref><ref name="F&A-p105" />
+
+Around the time of the rise of [[Netheril]],<ref name="P&P">{{Cite book/Powers & Pantheons|2,94}}</ref> a wave of planar immigrants came from [[Earth|another world]]<ref name="F&A-p105" /> and settled on Toril. One of these groups of people came from [[Wikipedia:Ireland|a rugged land]] with a culture tied to nature, the sea, and the warrior history of its [[Daghdha|dozen-king greater god]]. They brought along with them their own style of society and faiths,<ref name="P&P" /> the worship of Celtic deities, such as Silvanus.<ref name="F&A-p105">{{Cite book/Faiths & Avatars|105}}</ref> As was a common practice in the Celtic pantheon whenever it established itself on a world, Silvanus would go on to join one of the local pantheons,<ref name="OHG-p66">{{Cite book/On Hallowed Ground|66}}</ref> seeing as he was being pushed out of power in his own.<ref name="OHG-p38">{{Cite book/On Hallowed Ground|38}}</ref>
+
+==Rumors & Legends==
+Some myths claimed that Silvanus had fathered the goddess Mielikki with the goddess [[Hanali Celanil]].<ref name="DD-142">{{Cite book/Demihuman Deities|142}}</ref><ref name="F&A-p112>{{Cite book/Faiths & Avatars|112}}</ref> This legend sprung off from a desire by some to explain why Mielikki's worshipers were giving her the honorific "Daughter of Silvanus," which had originally come about due to her close alliance with Silvanus.<ref name="F&A-p112 />
+
+==Appendix==
+{{Incomplete}}
+===Notes===
+{{Notes}}
+===Appearances===
+:;Video Games
+::{{refonly}}
+::<small>''[[Icewind Dale (game)|Icewind Dale]]'' &bull; ''Icewind Dale: Heart of Winter •  [[Baldur's Gate III]]''</small>
+===Gallery===
+<gallery>
+Silvanus Symbol-5e.png|''Symbol of the Oak Father''
+Silvanus symbol.jpg|''Another symbol of Silvanus.''
+Priest of Silvanus.png|''A priest of Silvanus adorned in ceremonial armor of the church.''
+</gallery>
+===External Links===
+{{External link disclaimer}}
+* {{BG3}}
+===References===
+{{refs}}
+===Connections===
+{{Celtic pantheon}}
+{{Faerûnian pantheon}}
+{{Deity list}}
+[[Category:Animal domain deities]]
+[[Category:Faerûnian pantheon]]
+[[Category:Celtic pantheon]]
+[[Category:Greater deities]]
+[[Category:Human deities]]
+[[Category:Nature deities]]
+[[Category:Life domain deities]]
+[[Category:Plant domain deities]]
+[[Category:Protection domain deities]]
+[[Category:Renewal domain deities]]
+[[Category:Storm domain deities]]
+[[Category:Water domain deities]]
+[[Category:Wilderness domain deities]]
+[[Category:Seven Lost Gods of Westgate]]
+[[Category:True neutral deities]]
+[[Category:Nature domain deities]]
+[[Category:Inhabitants of the Deep Wilds]]
+[[Category:Inhabitants of the House of Nature]]
+[[Category:Inhabitants of the Outlands]]
+[[Category:Inhabitants of Tir na Og]]
+[[Category:Inhabitants of the Deep Forest]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the Neutral Planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Members of The Circle of Nine]]
+[[Category:Members of the First Circle]]
+[[Category:The Seven Gods of the Dancing Place]]

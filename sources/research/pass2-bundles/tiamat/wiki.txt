@@ -1,0 +1,341 @@
+WIKI PAGE: Tiamat
+
+{{GA}}
+{{Deity
+| image               = Tiamat.png
+| caption             = Tiamat the Dragon Queen
+| name                = Tiamat
+| title               = Archdevil<ref name="TheDragon">{{Cite dragon/38/Leomund's Tiny Hut: Rearranging and Redefining the Mighty Dragon|41}}</ref> <br /> The Avaricious<ref name="CotD-121">{{Cite book/Cult of the Dragon|121}}</ref><br /> Bane of Bahamut<ref name="CotD-121"/> <br />Creator of Evil Dragonkind<ref name="RotD">{{Cite book/Races of the Dragon|158}}</ref> <br />The Chromatic Dragon<ref name="Draco-p58-59">{{Cite book/Draconomicon (1990)|58-59}}</ref><br />The Dragon Queen<ref name="CotD-121"/><br />The Dark Lady<ref name="CotD-121"/><br /> The Many-Mawed<ref>{{Cite book/Elminster in Hell}}</ref> Nemesis of the Gods<ref name="CotD-121"/><br /> Queen of Chaos<ref name="CotD-121"/><br /> Queen of Evil Dragonkind<ref name="TheDragon"/>
+| aspects             = [[Azharul]]<ref name="QfEG.2015-p7"/><br />[[Tchazzar]]<ref name="CotD-121"/><ref name="FTD-p4,6">{{Cite book/Fizban's Treasury of Dragons|4,6}}</ref><br />[[w:c:dragonlance:Takhisis|Takhisis]]<ref name="FTD-p43"/><ref name="DMG5eR-p362">{{Cite book/Dungeon Master's Guide 5th edition (revised)|362}}</ref><ref name="DracoMD-p215">{{Cite book/Draconomicon: Metallic Dragons|215}}</ref><ref name="DMG5e-p225">{{Cite book/Dungeon Master's Guide 5th edition|225}}</ref><ref name="MotP1e-p111">{{Cite book/Manual of the Planes 1st edition|111}}</ref><br />The Undying Queen<ref name="CotD-121"/>
+| status              = 
+| primordial          = 
+| pantheon            = [[Faerûnian pantheon]]<br/>[[Draconic pantheon]]<br/>[[Untheric pantheon]]
+| adjective           = Tiamatan
+| home                = [[Baator]]
+| formerhomes         = 
+| minions             = 
+| gender              = Feminine
+| died                = {{Yearlink|-1071}} (allegedly)
+| mortalhomes         = 
+| apotheosis          = 
+| power5e             = [[Lesser deity]]
+| alignment5e         = [[Lawful evil]] and [[Chaotic evil]]
+| symbol5e            = Dragon head with five claw marks
+| homeplane5e         = The [[Nine Hells]]/[[Avernus]]
+| realm5e             = [[Tiamat's Lair]]
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = 
+| domains5e           = [[Death domain|Death]]<ref name="BGDA-p110-111">{{Cite book/Baldur's Gate: Descent into Avernus|110-111}}</ref>''<br />'' [[Trickery domain|Trickery]]
+| worshipers5e        = 
+| channel divinity5e  = ''[[Invoke duplicity]]''<br />''[[Cloak of shadows (channel divinity)|Cloak of shadows]]''<br />''[[Touch of death]]<ref name="BGDA-p110-111">{{Cite book/Baldur's Gate: Descent into Avernus|110-111}}</ref>''
+| holy days5e         = 
+| challenge5e         = 30<ref name="RoT5e-p10,92-93"/><ref name="dia-p151">{{Cite book/Baldur's Gate: Descent into Avernus|151}}</ref><ref group="note" name="note2">According to [https://x.com/ChrisPerkinsDnD/status/844726037204238336 a tweet] by [[Christopher Perkins]], the Tiamat encountered in ''[[The Rise of Tiamat]]'' is definitely her True Form. This official confirmation does not contradict the concept of her Aspect introduced in ''[[Fizban's Treasury of Dragons]]''.</ref>
+| class5e             = 
+| refs5e              = <ref name="PHB5e">{{Cite book/Player's Handbook 5th edition|63,296}}</ref><br /><ref name="MM5e">{{Cite book/Monster Manual 5th edition|86}}</ref><ref name="RoT5e-p10,92-93">{{Cite book/The Rise of Tiamat|10,92-93}}</ref><ref name="MTF5e-p11">{{Cite book/Mordenkainen's Tome of Foes|11}}</ref>
+| power4e             = [[Lesser deity]]
+| alignment4e         = [[Evil]]
+| symbol4e            = Five-pointed star
+| dominion4e          = [[Banehold]]
+| realm4e             = 
+| serves4e            = [[Bane]]
+| servedby4e          = 
+| sphere4e            = Greed
+| domains4e           = [[Strife domain|Strife]], [[Tyranny domain|Tyranny]], [[Vengeance domain|Vengeance]]
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="Dragon378-32">{{Cite dragon/378/Domains in Eberron and the Forgotten Realms|32}}</ref><br /><ref name="FRCG4e-62,80">{{Cite book/Forgotten Realms Campaign Guide|62, 80}}</ref><ref name="DMG4e">{{Cite book/Dungeon Master's Guide 4th edition|163}}</ref><ref name="DP-p119">{{Cite book/Divine Power|119}}</ref>
+| power3e             = [[Lesser deity]]
+| alignment3e         = [[Lawful evil]]
+| symbol3e            = A five-headed dragon
+| homeplane3e         = [[Nine Hells]]<br/>[[Dragon Eyrie]]<ref group="note" name="note1">For the truth behind Tiamat's planar whereabouts, see the [[Tiamat#History|History section]].</ref><br/>[[Heliopolis]]<ref group="note" name="note1" /><br/>{{Former}} [[Zigguraxus]]
+| realm3e             = [[Cave of Greed]]
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Chessenta, evil dragons, evil reptiles, greed
+| domains3e           = [[Evil domain|Evil]], [[Greed domain|Greed]], [[Law domain|Law]], [[Pride domain|Pride]], [[Scalykind Domain|Scalykind]], [[Tyranny domain|Tyranny]], [[Wrath domain|Wrath]]
+| worshipers3e        = [[Chromatic dragons]], [[Cult of the Dragon]], evil dragons, evil reptiles, [[fighters]], [[sorcerers]], thieves, and vandals
+| cleric alignments3e = {{alignment grid|off|off|off|on|off|off|on|on|off}}
+| favored weapon3e    =  A dragon head ([[heavy pick]])
+| holy days3e         = 
+| challenge3e         = 
+| class3e             = 
+| refs3e              = <ref name="FRCS-235">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|235}}</ref><br /><ref name="F&P-108">{{Cite book/Faiths and Pantheons|108}}</ref><ref name="PGtF-150">{{Cite book/Player's Guide to Faerûn|150}}</ref><ref name="PGtF-165">{{Cite book/Player's Guide to Faerûn|165}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref><ref name="PGtF-p189">{{Cite book/Player's Guide to Faerûn|189}}</ref><ref name="QfEG.2015-p7"/>
+| power2e             = [[Lesser deity]]
+| alignment2e         = [[Lawful evil]]
+| symbol2e            = A five-headed dragon or a red dragon before a black mountain
+| homeplane2e         = [[Baator]]/[[Avernus]]
+| realm2e             = [[Tiamat's Lair]]
+| serves2e            = [[Asgorath]] (as part of the draconic pantheon) <br/>[[Enlil]] (as part of the Untheric pantheon, prior to the Orcgate Wars)
+| servedby2e          = 
+| portfolio2e         = Evil dragons, chromatic dragons, evil reptiles, greed, and the nation of Chessenta
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = {{Class table|edition=2e|[[Fighter]]|25|[[Cleric]]|25|[[Wizard]]|25}}
+| refs2e              = <ref name="CuD-p121" /><ref name="P&P133">{{Cite book/Powers & Pantheons|133}}</ref>
+| power1e             = [[Archdevil]]
+| alignment1e         = [[Lawful evil]]
+| symbol1e            = 
+| homeplane1e         = [[Nine Hells]]
+| realm1e             = The [[Dragonspawn Pits of Azharul]]
+| serves1e            = [[Asgorath]] (as part of the draconic pantheon) <br/>[[Asmodeus]] (as part of the Lords of the Nine)
+| servedby1e          = 
+| portfolio1e         = 
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="TheDragon" /><ref name="TheDragon75">{{Cite dragon/75/The Nine Hells|18}}</ref><ref name="CuD-p121">{{Cite book/Cult of the Dragon|121}}</ref>
+| animals             = 
+| plants              = 
+| monsters            = 
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  = 
+| first               = 
+| based               = [[Wikipedia:en:Tiamat|Tiamat]] (Akkadian)
+| histrefs            = 
+| church              = yes
+}}
+'''Tiamat''' ({{Pronounce|TEE|a|mat|refs=<ref name="D93APG-p30">{{Cite dragon/93/Ay pronunseeAYshun gyd|30}}</ref><ref name="F&P-108"/>}}) was the [[chaotic evil]] and [[lawful evil]] [[dragon]] goddess of greed, queen of [[chromatic dragon|evil dragons]] and, for a time, reluctant servant of the [[greater deity|greater gods]] [[Bane]]<ref name="FRCG-pg62">{{Cite book/Forgotten Realms Campaign Guide|62}}</ref> and later [[Asmodeus]].<ref name="FitB-pg381-383">{{Cite book/Fire in the Blood/Hardcover 2014|381-383|25}}</ref> Before entering the [[Faerûnian pantheon]], she was a member of the [[Draconic pantheon]],<ref name="CuD-p121" /> and for some time she was also a member of the [[Untheric pantheon]].<ref name="P&P133"/>
+
+Tiamat was also the eternal rival of her brother [[Bahamut]], ruler of the good [[metallic dragon]]s.<ref name="DoF-p8">{{Cite book/Dragons of Faerûn|8}}</ref> Despite their enmity, legends held that they once worked together to create the ''[[First World]]'',<ref name="FTD-p4,6"/><ref name="DMG5eR-p362"/><ref name="5e-EoR-p253">{{Cite book/Vecna: Eve of Ruin|253}}</ref> which laid the foundation for [[Annam]] to forge the [[Material Plane]].<ref name="BPGG-p4"/>
+
+{{TOC limit|3}}
+==Description==
+[[File:Tiamat 3e.png|thumb|''Tiamat's humanoid avatar form.'']]
+Tiamat was a unique [[chromatic dragon]], who had one head for each primary color of the most common species of chromatics ([[black dragon|black]], [[blue dragon|blue]], [[green dragon|green]], [[red dragon|red]], [[white dragon|white]]). Each head was able to operate entirely independently of each other and had the powers of a member of the respective race of dragonkind.<ref name="Draco-p58-59"/> Her body also had traits in common with a [[wyvern]], including a long tail tipped with a venomous stinger.<ref name="RotD"/>
+
+She also had three main avatars. ''The Dark Lady'' was a [[mulan]] woman with long dark hair and completely black eyes. She always wore dark robes and frequently had a seductive smile on her face.<ref name="P&P-p134">{{Cite book/Powers & Pantheons|134}}</ref>
+
+''The Chromatic Dragon'' was a dragon with stubby legs and five heads that could be any combination of head belonging to a chromatic dragon, the skin of each merged into three stripes -- blue-green, gray and purple before they merged again into brown skin that covered her tail. Sometimes, ''The Chromatic Dragon'' appeared in the form of [[Tchazzar]] when manifesting in [[Chessenta]].<ref name="P&P-p134"/> ''The Undying Queen'' was a [[dracolich]] version of ''The Chromatic Dragon''.<ref name="P&P-p134"/>
+
+Tiamat had three manifestations in [[Avernus]] as well, one of which never left the gate to [[Dis]]. Her manifestation as [[Azharul]]<ref name="QfEG.2015-p7">{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2015)/Tiamat's Many Homes}}</ref> was her other 'public' face used for when foes challenged her to combat, meanwhile her original body remained secluded in her lair.<ref name="TheDragon75"/>
+
+==Personality==
+Tiamat was arrogant, greedy, hateful, spiteful and vain.<ref name="F&P-108"/><ref name="MonMyth">{{Cite book/Monster Mythology|106}}</ref> She never forgave any kind of slight<ref name="MonMyth"/> and was focused on obtaining more power and wealth. She disdained mortals, regarding them as mere disposable tools in her schemes. When needed, she was charming and fey, but her self-serving and reptilian personality betrayed her sooner or later.<ref name="F&P-108"/>
+
+After having experienced relative mortality as an archfiend, she became less reckless but also paranoid.<ref name="QfEG.2015-p7"/>
+
+Tiamat enjoyed the company of dragons, and had many great wyrm consorts of the chromatic varieties.<ref name="DracoCD-p244">{{Cite book/Draconomicon: Chromatic Dragons|244}}</ref>
+
+She had an insatiable greed for treasures, but preferred that her followers brought it to her in the form of gifts instead of searching for riches on her own.<ref name="F&P-108"/><ref name="Draco-p58-59"/>
+
+==Powers==
+[[File:Tiamat p93.jpg|thumb|left|200px|Tiamat as the Chromatic Dragon]]As a unique type of chromatic dragon with the traits of the five most common chromatic varieties, Tiamat was a foe to be reckoned with in battle.
+
+Along with all the standard powers and godly senses of a deity of her rank, those who saw her fight claimed that her heads were able to cooperate in battle, and that those heads had the ability to use the breath weapons and spell-like abilities common to their species. Although her sheer size prevented claw and kick attacks while on the ground, she was adept at their use while flying. She also had a stinger on her tail that injected a powerful venom on her foes, killing them in agonizing pain.<ref name="Draco-p58-59"/>
+
+==Realm==
+When she was part of the Untheric pantheon, Tiamat had a realm in [[Zigguraxus]].<ref name="PGtF-165"/> She also had a lair in Avernus, on the [[Nine Hells]], known as ''[[Tiamat's Lair]]''.<ref name="CuD-p121" /><ref name="QfEG.2015-p7"/>
+
+After the dissolution of the Untheric pantheon, her realm was the ''Dragonspawn Pits of Azharul'', a realm she obtained after having killed Azharul and renamed into the ''[[Cave of Greed]]''. It was located in the [[Dragon Eyrie]] lowest region,<ref name="PGtF-150">{{Cite book/Player's Guide to Faerûn|150}}</ref> and she somehow connected it to her lair in Avernus.<ref name="FRCS3e">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|258}}</ref>
+
+She was reputed to have a realm in [[Heliopolis]]<ref name="F&P-108"/> but in fact that was a hoax Tiamat used in hopes of confusing her enemies.<ref name="QfEG.2015-p7"/>
+
+==Activities==
+Tiamat wanted to take control of the Realms, and even as she was thwarted again and again by her enemies, she didn't give up. She had a particular interest in controlling [[Unther]] and Chessenta,<ref name="P&P134">{{Cite book/Powers & Pantheons|134}}</ref> and after the [[Spellplague]], she also had interest in [[Murghôm]], [[Tymanther]], and the dragon empires of [[Laerakond]].<ref name="FRCG4e-155">{{Cite book/Forgotten Realms Campaign Guide|155}}</ref> She didn't like to leave her lair,<ref name="Draco-p58-59"/> however, and usually acted to advance her agenda by using members of her Church or her agents in the [[Cult of the Dragon]].<ref name="P&P134"/><ref name="F&P-108"/>
+
+Tiamat kept an active watch over evil dragonkind and always stirred them to further actions of avarice, pride and wickedness.<ref name="MonMyth"/>
+
+As of [[1491 DR]], however, her primary goal was to break free from the Nine Hells.<ref name="QfEG.2015-p7"/><ref name="HotDQ">{{Cite book/Hoard of the Dragon Queen|5}}</ref>
+
+==Relationships==
+[[Image:tiamat1.jpg|thumb|left|200px|''The Cult of Tiamat'', by [[Wayne Reynolds]]]]Tiamat was the antithesis of her brother Bahamut, as both of them represented opposing values,<ref name="SCAG"/> and this enmity was reflected in the attitude of each deity's worshipers as well.<ref name="RotD"/> She was also at odds with Falazure (the evil aspect of [[Null]]) for some slight lost to history.<ref name="CuD-p121"/><ref name="MonMyth-p106">{{Cite book/Monster Mythology|106}}</ref> The god of the [[kobold]]s, [[Kurtulmak]], was also her servant.<ref name="Volos">{{Cite book/Volo's Guide to Monsters|64}}</ref>
+
+Being a member of certain pantheons made her some other enemies. She conflicted with [[Iyachtu Xvim]] as he was the only significant opposition to her joining the [[Faerûnian pantheon]], then later with his father, Bane. She also counted [[Ilmater]] among her enemies.<ref name="F&P-108"/> Tiamat had some kind of contract with the [[githyanki]] race after their leader [[Gith]] treated with her.<ref name="Mop3e">{{Cite book/Manual of the Planes 3rd edition|52}}</ref>
+
+Having once been an [[archfiend]] living on Avernus, Tiamat was loosely allied with [[Bel]] and lent him many [[Abishai]] to fight in the [[Blood War]]. She resented [[Mammon]] for converting some evil dragons away from her. She helped [[Asmodeus]] forge his ''[[Ruby Rod of Asmodeus|Ruby Rod]]''.<ref name="TheDragon75"/> She developed an enmity with Asmodeus<ref name="MM5e"/> and the archdevil Bel after they betrayed her.<ref name="QfEG.2015-p7"/> Nevertheless, after her failed escape from the Nine Hells, she chose to maintain a courteous relationship with Asmodeus.<ref name="5e-EoR-p253"/>
+
+She maintained a consort from each of the chromatic dragon races. She urged her evil dragonblood followers to populate the world and fill it with her spawn<ref name="RotD"/>
+
+Inhabitants of the [[Outer Planes]] noted that Tiamat was extremely similar to Takhisis, a major goddess worshiped on the world of [[Krynn]]. Both appeared as five-headed dragons with an alternate form as a "Dark Lady" and had similar personas and portfolios. Some planar inhabitants claimed they were the same goddess and others that they were as different as night and day, while still others said one was a reflection or avatar of the other. All these theories might have had a bit of truth, but the reality remained unknown.<ref>{{Cite book/Planes of Law/Baator|8}}</ref> Takhisis did, however, maintain a separate [[divine realm]] from Tiamat known as Abthalom, or the Nether Reaches, also in Avernus in [[Baator]].<ref>{{Cite book/On Hallowed Ground|165}}</ref>
+
+==Worshipers==
+{{Quote|Many mouths speak your hunger into this world, mistress. Let me be the loudest.|A basic prayer to Tiamat.<ref name="BG3">{{Cite game/Baldur's Gate III}}</ref>}}[[File:Tiamat symbol.jpg|thumb|right|150px|The [[unholy symbol]] of Tiamat.]]
+Tiamat had a reputation amongst the people of the state of [[Unther]] for battling with the other members of their pantheon and was blamed for every one of the many setbacks Unther experienced.<ref name="DoF-p8"/><ref name="P&P133"/> This later became an advantage when Gilgeam's behavior served to foment rebellion against him and those rebels began to worship her, eventually creating an organized church.<ref name="P&P133"/>
+
+Tiamat had made inroads into the [[Cult of the Dragon]] and claimed some members as her worshipers.<ref name="P&P-p134"/> Also, for fifteen years, the [[House Karanok|Karanok]] family of [[Luthcheq]] unwittingly served Tiamat while they were worshiping the [[primordial]] [[Entropy]]. Tiamat transformed Entropy into a conduit for her power and gained the Karanoks as pawns.<ref name="LoD-p136-137"/>
+
+Many evil dragons have worshiped Tiamat since their species first appeared on Toril,<ref name="CuD-p121"/><ref name="DoF-p8"/> and kobolds believed she was their creator, and although they didn't worship her as god, they revered her as their creator.<ref name="Volos"/> After the Spellplague, she also gained a few dragonborn followers.<ref name="SCAG"/>
+
+===Clergy===
+Tiamat accepted only evil clerics. They, like Tiamat herself, sought to place the world under the domination of evil dragons.<ref name="RotD"/>
+
+===Church of Tiamat===
+{{main|Church of Tiamat}}
+[[File:Tiamat MtG.jpg|thumb|right|350px|Followers of Tiamat praising their goddess]]
+The church of Tiamat was regimented by a strict hierarchy of ranks and titles. Her clerics were occupied by the twin tasks of acquiring an ever-increasing hoard of wealth for the faith and sabotaging the faiths of other deities. As a result, they occupied most of their time with an unending series of thefts, assassinations, acts of vandalism, and arson. In Unther and Chessenta they were primarily concerned with seizing as much power as possible, while in western Faerun, the cult's agents were focused on subverting the Cult of the Dragon.<ref name="F&P-108" />
+
+==Weaknesses==
+Tiamat was ontologically distinct from the gods that hailed from the Outer Planes,<ref name="FTD-p43"/> rendering her True Form vulnerable to discorporation by mighty mortals.<ref name="RoT5e-p10,92-93"/><ref group="note" name="note2"/><ref name="dia-p151"/><ref name="DracoCD-p245">{{Cite book/Draconomicon: Chromatic Dragons|245}}</ref>
+
+However, achieving her permanent destruction required specific conditions. Her primary weakness was her avarice, through which she could be lured from her stronghold by priceless ancient treasures and drawn into Bahamut's domain, leaving her vulnerable to imprisonment or death. Alternatively, she could be destroyed by heroes wielding magical equipment crafted from the remains of five ancient [[chromatic dragon]]s—one of each color—provided that at least one of the dragons was her former consort. Additionally, the ritual known as ''Fashioning Tiamat's True Death'' allowed for her total annihilation—by quenching weapons in Tiamat's own eggs, wielders could destroy her essence.<ref name="DracoCD-p246">{{Cite book/Draconomicon: Chromatic Dragons|246}}</ref>
+
+==History==
+For ages, sages debated whether Tiamat actually was a deity or not. Many believed she was the archetype of evil dragonkind, a [[devil]] or [[demon]], the avatar of another deity or even a mortal dragon so powerful that chromatic dragons revered her as their queen and creator. Whatever she was, sages knew for certain that she was powerful and worshiped by evil dragons as a goddess.<ref name="Draco-p58-59"/><ref name="RotD"/>
+
+===Origins===
+According to sages of the 14{{th}} century [[DR]], Tiamat was actually a goddess. She came into existence alongside the rest of the draconic pantheon when the first dragons were born.<ref name="Draco-p58-59"/> However, sages of the 15{{th}} century [[DR]] suggested that, while Tiamat possessed the power of a [[Lesser deity|lesser deity]]<ref name="MM5e"/>, since her origins were tied with those of the Material Plane, she was ontologically different from the gods that hailed from the [[Outer Planes]].<ref name="FTD-p43">{{Cite book/Fizban's Treasury of Dragons|43}}</ref>
+
+Her origins were highly conflicting, however, as there were many accounts about how she came into being. In the more commonly accepted traditions, she was the daughter of [[Asgorath]] and sister of Bahamut and [[Null]];<ref name="CuD-p121"/> while in the myths of the [[dragonborn]] of [[Abeir]], Bahamut and Tiamat were born from the sundered corpse of Asgorath instead, when Asgorath was killed in the [[Dawn War]].<ref name="SCAG">{{Cite book/Sword Coast Adventurer's Guide|112-113}}</ref> According to the ancient draconic myth ''[[Elegy for the First World]]'', Bahamut and Tiamat came into existence before the formation of the Material Plane.<ref name="FTD-p4,6"/> In Untheric myths, Tiamat came to Toril from another world along with the rest of the Untheric pantheon.<ref name="P&P133"/> In some legends, Tiamat was created during a war between evil dragons when the gods merged some combatants into a single being who decreed an end to the infighting.<ref name="polyhedron73-p22">{{Cite polyhedron/73/Bahamut and Tiamat|22}}</ref>
+
+Whatever the truth, her cult grew rapidly in the communities of chromatic dragons, especially among blue, green, and red dragons.<ref name="RotD"/>
+
+===Creation of the First World===
+According to ''[[Elegy for the First World]]'', Bahamut and Tiamat worked together to create the ''[[First World]]'' from the primordial chaos. After the creation of the ''First World'', they created the dragon god [[Sardior]] to help them to create the rest of the dragonkind: the first [[metallic dragon|metallic]] and [[chromatic dragon]]s. When the gods of the Outer Planes came to invade the ''First World'', Tiamat resisted and opposed them even after Bahamut was defeated. She was eventually defeated by the combined might of the gods and sealed away in Avernus, and the ''First World'' was shattered by some unexplained catastrophe.<ref name="FTD-p4,6"/><ref name="DMG5eR-p362"/><ref name="FTD-p166">{{Cite book/Fizban's Treasury of Dragons|166}}</ref><ref name="5e-EoR-p253"/> ''Diancastra's Saga'' offered a differing perspective, stating that [[Annam]] subsequently collected the fragments of the ''First World'' created by Tiamat and Bahamut, and scattered them to form the Material Plane with its myriad worlds.<ref name="BPGG-p4">{{Cite book/Bigby Presents: Glory of the Giants|4,6}}</ref>
+
+===Imprisonment in the Nine Hells===
+The reason for Tiamat's imprisonment in the Nine Hells remained shrouded in contradictory legends. One prominent theory held that she was confined there by Asmodeus in accordance with some ancient contract.<ref name="DMG5eR-p202">{{Cite book/Dungeon Master's Guide 5th edition (revised)|202}}</ref> Another myth stated that the [[Thousand Year War]] ended as a result of a curse that sealed Tiamat in Avernus after she slew an unknown giant [[deity]], making her unable to depart the plane unless summoned by a powerful ritual.<ref name="MTF5e-p11">{{Cite book/Mordenkainen's Tome of Foes|11}}</ref> Still other accounts claimed that she was sent to the Nine Hells as a punishment for opposing the gods when they first came to the ''First World''.<ref name="FTD-p4,6"/><ref name="FTD-p166"/>
+
+However, some sources indicated that Tiamat was not imprisoned at all,<ref name="TheDragon75"/><ref name="polyhedron73-p22"/> but rather chose to make her home in Avernus, serving as a watchdog for Asmodeus to guard the entrance to [[Dis]].<ref name="MotP1e-p109">{{Cite book/Manual of the Planes 1st edition|109}}</ref><ref name="PoL-p8,16,17">{{Cite book/Planes of Law/Baator|8,16-17}}</ref>
+
+===The Dragonfall Wars===
+Once dragons as a race had established themselves during the [[Time of Dragons]],<ref name="DoF-p7">{{Cite book/Dragons of Faerûn|7}}</ref> the various religious factions of dragons began to battle one another over their different ideologies. Over time, religious fervor waned and draconic philosophers came to the conclusion that gods who allowed such behavior were not worthy of their worship. This started the draconic apathy toward their gods which lasted for thousands of years. However, the hatred that had developed between Tiamat, Bahamut and their followers was so intense that they refused to stop fighting. Their conflict came to be known as the [[Dragonfall War]].<ref name="DoF-p7"/> During the first years of the war, Tiamat bred horrific and aberrant draconic creatures known as the [[dragonspawn|Spawn of Tiamat]], in an attempt to wipe out the followers of Bahamut.<ref name="DoF-p7"/>
+
+The war waxed and waned in intensity, with the last era of intense fighting occurring between {{Yearlink|-2087}} and {{Yearlink|-1071}}.<ref name="DoF-p8"/> It was during this time that the [[Unther]]ic empire began and with it, their pantheon became prominent. Tiamat became one of their deities by using a three-headed aspect,<ref name="P&P133"/> and her purpose in the Untheric pantheon was to balance the "order" represented by the other Untheric gods with her "chaos". However, the plane of Zigguraxus increased the worst traits of her nature, making her something too powerful to be balanced by the other Untheric gods alone.<ref name="TDYK/Hardcover-p266">{{Cite book/The Devil You Know|266}}</ref>
+
+Now that both Bahamut (who had become a member of the Untheric pantheon under the alias of [[Marduk]]) and Tiamat had humanoid worshipers, the Dragonfall War entered into a new period of intensity. The two siblings fought each other personally, with neither being able to gain the upper hand.<ref name="DoF-p8"/> Tiamat also worked against the other Untheric gods, with the result of the church of [[Enlil]] naming her the "Nemesis of the Gods" and blaming her for every problem the nation had.<ref name="P&P133"/>
+
+Then, in −1071 DR in a fight of the [[Orcgate Wars]] known as the [[Battle of the Gods]], Tiamat saw an opportunity to slay [[Gilgeam]] while he was battling [[Ilneval]]. However, Marduk intercepted her and in the ensuing battle they killed each other. With both of their Untheric aspects dead, Tiamat and Bahamut were both stripped of their divine power. Tiamat was reduced to the status of an [[archfiend]], her last few followers in Unther not enough to allow her to remain even as a lesser deity. However, as Gilgeam became a tyrannical God-King, the people of Unther never forgot the Nemesis of the Gods and they increasingly turned to her in secret for succor.<ref name="DoF-p8"/>
+
+As an archfiend, she was given rulership of Avernus by [[Asmodeus]]. Her job was to prevent outcast devils on that layer of [[Nine Hells|Hell]] from becoming a threat but performed so poorly that Asmodeus demoted her. Knowing her failure was not deliberate (by reading her thoughts), Asmodeus deigned to allow Tiamat to remain in Avernus unpunished, and even gave her a chance to regain her position if she impressed him in her duty as the guardian of the main gate to [[Dis]].<ref name="QfEG.2015-p7"/>
+
+===Rise of the Dragon Queen===
+[[Image:TiamatVsGilgeam.jpg|thumb|right|200px|''Gilgeam battles Tiamat'', by [[Dana Knutson]]]]This state of affairs lasted until [[1346 DR]] when some Untherite cultists managed to summon another aspect of Tiamat to [[Toril]]. This aspect, known as ''the Dark Lady'', fomented rebellion all over Unther against the church of Gilgeam. Gilgeam was so hated that the membership in her own church swelled, and Tiamat was elevated to status of a [[demigod]]dess. She also took the opportunity to influence the lich [[Sammaster]] and his Cult of the Dragon into tracking down the ''[[Dracorage mythal]]''.<ref name="DoF-p9">{{Cite book/Dragons of Faerûn|9}}</ref>
+
+During the [[Time of Troubles]], after [[Ao]] banished the gods from the [[Great Wheel cosmology|planes]], ''the'' ''Dark Lady'' was transformed back into her three-headed Untheric avatar, which was promptly slain by [[Gilgeam]]'s.<ref name="P&P133"/><ref name="DoF-p9"/> Even so, her divine essence was somehow divided into three and came to inhabit Tchazzar, [[Gestaniius]] and [[Skuthosiin]],<ref name="DoF-p38">{{Cite book/Dragons of Faerûn|38}}</ref> three powerful chromatic dragons. Tchazzar devoured the other two, combining the three essences and ushering in the reappearance of Tiamat's more powerful five-headed form, which she used to kill Gilgeam and therefore cause Ao to dissolve the Untheric pantheon completely.<ref name="P&P133"/>
+
+Having attained the status of a lesser deity once again, she was able to manifest avatars once more, until one of them was destroyed in [[1359 DR]] by King [[Gareth Dragonsbane]] who had been tasked by Bahamut to destroy the Wand of Orcus in her heartsblood. Having done so, the king of [[Damara]] also brought the worship of Bahamut back to his people, elevating Bahamut to the status of lesser deity and rekindling the Dragonfall War once more.<ref name="DoF-p9"/> In response, Tiamat unleashed her aberrant dragonspawn and many of her followers to Vaasa to make trouble for the Church of Bahamut in Damara,<ref name="DoF-p9"/><ref name="P&P-p134"/> while gaining some followers among disaffected members of the [[Cult of the Dragon]] in the process.<ref name="DoF-p9"/> This time, however, the Platinum Dragon countered them by reviving the ancient race known as the [[dragonborn of Bahamut]].<ref name="DoF-p9"/>
+
+She projected her wishes through the transformed primordial [[Entropy]], and while in this guise expanded her base of humanoid worshipers. She eventually joined the Faerûnian pantheon in [[1371 DR]] after gaining the worship of a cult in [[Luthcheq]].<ref name="LoD-p136-137">{{Cite book/Lords of Darkness|136-137}}</ref> Tiamat's body had been suffering from aches and pains that had been growing worse over time, but her elevation back to deity-hood reinvigorated her. However, the relative mortality she had experienced as an archfiend made her less reckless and more paranoid. She misinformed her clergy that she no longer resided in Avernus, but instead maintained a grand divine realm in [[Heliopolis]].<ref name="QfEG.2015-p7"/>
+
+When members of the [[Twisted Rune]] discovered that her only asset in Heliopolis was a disturbed [[lichnee]] [[netherese]] [[archwizard]], known as the [[Listener]], they attempted to steal his magic.  In retaliation, Tiamat manifested an aspect that defeated the intruders and forced them to kill the minor draconic deity [[Azharul]] in his home in [[Dragon Eyrie]]. With the Listener and the Twisted Rune's forced help, Tiamat subsumed Azharul, taking his body and divine realm, completely unbeknownst to anyone but herself. All the while, she had already begun creating her real divine realm in the mountains of Avernus.<ref name="QfEG.2015-p7"/>
+
+In [[1373 DR]], Sammaster managed to alter the ''Dracorage mythal'' to cause permanent [[insanity (condition)|insanity]] in all dragons unless they allowed themselves to become dracoliches. In one of the worst dracorages ever seen on Toril, Tiamat resurrected Tchazzar, Gestaniius and Skuthosiin to act as emissaries which she would use to solidify and expand her power base in Chessenta, [[Mulhorand]], [[Threskel]], and Unther.<ref name="DoF-p38"/><ref name="DoF-p10">{{Cite book/Dragons of Faerûn|10}}</ref>
+
+After the destruction of Sammaster and the end of the [[High Magic]] that sustained the ''Dracorage mythal'', she had to withstand an invasion launched by Bahamut on her demesne in [[Dragon Eyrie]].<ref name="GHotR-p154">{{Cite book/The Grand History of the Realms|154}}</ref>
+
+The destruction of the ''Dracorage mythal'' also heralded the prophesied "[[Draconic pantheon#Turning of the Great Cycle|Turning of the Great Cycle]]" which sparked off the religious fervor lacking in dragons since the beginning of the Dragonfall War, and Tiamat gained new draconic converts.<ref name="DoF-p10"/> In [[1374 DR]], lightning and meteor showers pounded Faerûn, and Bahamut and Tiamat instructed their respective followers to seek out specific sites that would each contain some form of dragon egg. Unfortunately for Bahamut, Tiamat's followers were much more effective in retrieving the eggs than his own. Tiamat's followers brought the eggs they collected to [[Unthalass]] in preparation for a new battle of the Dragonfall War.<ref name="DoF-p10"/>
+
+Tiamat spent her new forces mostly in her efforts to conquer the east, but that task proved more difficult than she envisioned. Only Tchazzar met with success, cementing his rule in Chessenta while Unther was conquered by Mulhorand. Her tentative ally [[Alasklerbanbastos]] also ruled Threskel and allowed Tiamat's church to establish a stronghold there. A short-lived but powerful cult of humanoid fanatics was also lost to her in the [[Wyrmbones]].<ref name="DoF-p38"/>
+
+Her losses outweighed her gains, however: during the Spellplague, Entropy ceased being a simple vessel for communication and spells, taking away her power base in Luthcheq.<ref name="FRCG4e-100">{{Cite book/Forgotten Realms Campaign Guide|100}}</ref> The dissolution of her subsumed realm in [[Dragon Eyrie]] during the Spellplague also saw the badly-wounded body of Azharul fall into the hands of Bane.<ref name="QfEG.2015-p7"/> Tymanchebar's transplantation from [[Abeir]] to [[Toril]] saw some of the strongest bastions of Tiamat's faith disappear overnight to be replaced with individuals who would become staunch enemies.<ref name="FRCG4e-186-187">{{Cite book/Forgotten Realms Campaign Guide|186-187}}</ref> In [[1479]], Tchazzar managed to conquer Threskel for himself, but this just drew him into a war with the Abeiran nation of [[Tymanther]] in which he was killed.<ref name="TSB">{{Cite book/The Spectral Blaze}}</ref>
+
+With her most powerful servant dead, her forces beginning to crumble and Bahamut's power increasing after he became the subservient god of [[Torm]],<ref name="FRPG4e">{{Cite book/Forgotten Realms Player's Guide|153}}</ref> the Dragonfall War stalled. In [[Banehold]], Bane discovered that Azharul was merely a vessel for Tiamat and enslaved it. Furious but overwhelmed by other events, Tiamat did not immediately retaliate against her enemy, instead serving Bane loyally despite his harassment. During this period, Tiamat discovered Bane's secrets and passed them on to Asmodeus.<ref name="QfEG.2015-p7" /><ref name="FRCG4e-238">{{Cite book/Forgotten Realms Campaign Guide|238}}</ref> 
+
+Some time in the next decade, Tiamat saw an opportunity and took it, wrenching Azharul out of Banehold along with much of Bane's divine energy. She used that energy to mend Azharul's broken body and increase her own divine power. Delighted, Asmodeus offered her the rulership of Avernus once more. However, to avoid disappointing Asmodeus again and to prevent a conflict with [[Bel]], Tiamat refused, instead offering to be Asmodeus' champion and devouring all who opposed him (and offering covert aid to [[Zariel]] to prevent Bel from becoming too powerful).<ref name="QfEG.2015-p7"/>
+
+Yet agreements in the Hells are binding, and Tiamat was subsequently placed under the direct compulsion of Bel. Her brief attempt at resistance allowed her to see into Bel's mind and learn of the directions Asmodeus had given him to imprison her in her divine realm to prevent her from becoming ambitious.<ref name="QfEG.2015-p7"/> Betrayed and angry, Tiamat instructed her followers in the Cult of the Dragon to assemble the ''[[Mask of the Dragon Queen]]'' that would allow her to finally escape Avernus and enter Toril.<ref name="HotDQ"/> Though the Cult's leader, [[Severin Silrajin]], successfully assembled the Mask and used it to bring [[Tiamat's Temple]] from her realm in Avernus to the [[Well of Dragons]],<ref name="RoT5e-p79,85">{{cite book/The Rise of Tiamat|79,85}}</ref> he and his forces were ultimately defeated and Tiamat was banished back to the Nine Hells.<ref>{{cite book/Storm King's Thunder|7}}</ref>
+
+==Appendix==
+===Appearances===
+{{Appearances
+| adventures          = ''[[The Throne of Bloodstone]]'';''[[Hoard of the Dragon Queen]]'';''[[The Rise of Tiamat]]'';''[[Baldur's Gate: Descent into Avernus]]'';''[[Vecna: Eve of Ruin]]''
+| adventure refs      = ''[[Storm King's Thunder]]'';''[[Waterdeep: Dungeon of the Mad Mage]]''
+| novels              = ''[[The Alabaster Staff]]''
+| novel refs          = ''[[Vampire of the Mists]]'';''[[Bury Elminster Deep]]'';''[[Rise of the King]]'';''[[Vengeance of the Iron Dwarf]]'';''[[Archmage (novel)|Archmage]]''
+| films               = ''[[Dungeons & Dragons: The Queen's Cradle]]''
+| film refs           = 
+| comics              = ''[[Tyranny of Dragons (comic)|Tyranny of Dragons]]'';''[[Saturday Morning Adventures: Endless Summer]]''
+| comic refs          = {{Comapp|Legends of Baldur's Gate|4}}
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = ''[[Idle Champions of the Forgotten Realms]]''
+| video game refs     =''[[Baldur's Gate III]]'' 
+| board games         = ''[[D&D Attack Wing]]''
+| board game refs     = 
+| card games          = ''[[Blood Wars]]'';{{MTGapp|AFR|SLD-HBD}}
+| card game refs      = 
+| miniatures          = ''[[Dungeons & Dragons Miniatures]]'';''[[Icons of the Realms]]''
+| miniature refs      = 
+| organized play      = ''[[Into the Depths]]'';''[[Ravens Bluff: Gateway to the Vast]]''
+| organized play refs = ''[[Another Serious Matter]]''
+}}
+
+===Inconsistencies===
+The adventure ''[[The Throne of Bloodstone]]'' depicts Tiamat being slain by Gareth Dragonsbane and his party on the instructions of Bahamut, as her heart was needed to destroy the Wand of Orcus. As originally written, this adventure took place in [[1148 DR]], too early for Dragonsbane to be included in the modern Forgotten Realms. The date was thus [[Wikipedia:retconned|retconned]] to 1359 DR in ''[[Dragons of Faerûn]]'' and ''[[The Grand History of the Realms]]''.
+
+''[[Faiths and Avatars]]'' suggested several theories for the survival of Tiamat: that the actual dragon slain was Takhisis (a deity from a different [[Crystal sphere]]), that a deity can only truly be slain on their home [[plane]] (unless they are stripped of their divinity, as happened during The Time of Troubles) and so Tiamat simply reappeared later, or that Dragonsbane simply slew a different multi-headed dragon or even an imposter. ''Dragons of Faerûn'' ultimately clarified the Dragonsbane party merely destroyed an [[avatar]]. Although Tiamat's avatar was also slain by Gilgeam, this indicates the death of the avatar did not destroy the god it belongs to, merely slow its plans for a time.
+
+===Notes===
+{{Notes}}
+
+===Gallery===
+===Card Games===
+<gallery widths="300px">
+Tiamat SLD-HBD.jpg|''Tiamat art from Magic the Gathering.''
+</gallery>
+====Promotional====
+<gallery widths="300px">
+Dungeon magazine 175.jpg|''Tiamat on the cover of [[Dungeon magazine 175|Dungeon #175]]''.
+Demis4 1024x786.jpg|''Promotional wallpaper of Tiamat''
+</gallery>
+====Video Games====
+<gallery widths="300px">
+TiamatNW.jpg|''Tiamat as depicted in [[Neverwinter: Rise of Tiamat]].''
+</gallery>
+
+===Further Reading===
+* {{Cite polyhedron/73/Bahamut and Tiamat}}
+* {{Cite book/Lost Empires of Faerûn}}
+
+===External Links===
+{{External link disclaimer}}
+{{CRW}}
+{{DnD4W}}
+{{DLW|Takhisis}}
+{{EW}}
+{{SJW}}
+
+===References===
+{{Refs}}
+
+===Connections===
+{{Draconic pantheon}}
+{{Faerûnian pantheon}}
+{{Untheric pantheon}}
+{{Archdevils}}
+{{Deity list}}
+[[FR:Tiamat]]
+[[de:Tiamat]]
+[[Category:Draconic pantheon]]
+[[Category:Dragon domain deities]]
+[[Category:Evil domain deities]]
+[[Category:Lesser deities]]
+[[Category:Law domain deities]]
+[[Category:Lawful evil deities]]
+[[Category:Lords of the Nine]]
+[[Category:Scalykind domain deities]]
+[[Category:Tyranny domain deities]]
+[[Category:Vengeance domain deities]]
+[[Category:Untheric pantheon]]
+[[Category:Babylonian pantheon]]
+[[Category:Archfiends]]
+[[Category:Inhabitants of Banehold]]
+[[Category:Inhabitants of the Cave of Greed]]
+[[Category:Inhabitants of the Dragon Eyrie]]
+[[Category:Inhabitants of the Neutral Planes]]
+[[Category:Inhabitants of Heliopolis]]
+[[Category:Inhabitants of Tiamat's Lair]]
+[[Category:Inhabitants of Avernus]]
+[[Category:Inhabitants of the Nine Hells]]
+[[Category:Inhabitants of Zigguraxus]]
+[[Category:Inhabitants of the Fiendish Planes]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Wrath domain deities]]
+[[Category:Pride domain deities]]
+[[Category:Greed domain deities]]
+[[Category:Strife domain deities]]
+[[Category:Inhabitants of feminine gender]]
+[[Category:Chaotic evil deities]]
+[[Category:Dragons (5e)]]
+[[Category:Inhabitants of the Realm]]

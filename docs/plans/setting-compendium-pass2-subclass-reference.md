@@ -1,6 +1,6 @@
 # Pass 2 subclass reference (generated)
 
-Generated from the 5etools class data (class-cleric.json, class-paladin.json, class-warlock.json) for the options ruled available in the Pass 2 brief. Each entry lists the subclass, its source and page, its feature names up to level 6 (plus the opening of its intro), and its always-prepared spells. Use it to pick the best fit and to describe a subclass accurately; the 2024 Player's Handbook text is the authority for the four core options. Regenerate from the 5etools mirror if it needs rebuilding.
+Generated from the 5etools class data (class-cleric.json, class-paladin.json, class-warlock.json) for the options ruled available in the Pass 2 brief. Each entry lists the subclass, its source and page, its feature names up to level 6 (plus the opening of its intro), and its always-prepared spells. Use it to pick the best fit and to describe a subclass accurately; the 2024 Player's Handbook text is the authority for the four core options. Regenerate with scripts/pass2/build_subclass_reference.py.
 
 ## Cleric
 

@@ -1,0 +1,345 @@
+WIKI PAGE: Bahamut
+
+{{GA}}
+{{Deity
+| image               = Bahamut holy symbol.jpg
+| caption             = Symbol of Bahamut
+| name                = Bahamut
+| title               = Angel of the Seven Heavens<ref name="TheDragon">[[Dragon (magazine)|The Dragon #38]] p.42</ref><ref name="BG3"/> <br /> Draco Paladin<ref name="MotP1e-88">{{Cite book/Manual of the Planes 1st edition|88}}</ref> <br /> The God of Dragons<ref name="DR378-p35">{{Cite dragon/378/Domains in Eberron and the Forgotten Realms|35}}</ref><br />Grandfather of Dragons <ref name="Dra378">{{Cite dragon/378/Deities & Demigods: Bahamut}}</ref><ref name="BG3"/> <br />Grand Master of Flowers<ref>{{Cite MTG|AFR|017|{{MTGc|Grand Master of Flowers||AFR|#=17}}|[[Ekaterina Burmak]]}}</ref> <br />King of the Good Dragons<ref name="DrBoD-p32">{{Cite book/Draconomicon|32}}</ref> <br /> Justicemaker<ref name="CuD-p120">{{Cite book/Cult of the Dragon|120}}</ref> <br /> The Justice Bringer (as Marduk)<ref name="OHG-65">{{Cite book/On Hallowed Ground|65}}</ref> <br/>Lord of the North Wind<ref name="DrBoD-p32" /> <br />Lord of Pure Incantations (as Marduk)<ref name="Demigods">{{Cite book/Deities & Demigods 1st edition|24}}</ref> <br /> The Platinum Dragon<ref name="CDp108">{{cite book/Complete Divine|108}}</ref><ref name="BG3"/> <br />The Valiant (as Marduk)<ref name="MotP1e-86">{{Cite book/Manual of the Planes 1st edition|86}}</ref>
+| aspects             = [[w:c:dragonlance:Fizban the Fabulous|Fizban the Fabulous]]<ref name="FTD-p30">{{Cite book/Fizban's Treasury of Dragons|30}}</ref><ref name="DMG5eR-p356">{{Cite book/Dungeon Master's Guide 5th edition (revised)|356}}</ref><ref name="AU">{{Cite book/Arcana Unleashed}}</ref><br />[[Marduk]]<ref name="DoF-p8">{{Cite book/Dragons of Faerûn|8}}</ref><br />[[w:c:dragonlance:Paladine|Paladine]]<ref name="FTD-p43"/><ref name="DMG5eR-p354">{{Cite book/Dungeon Master's Guide 5th edition (revised)|354}}</ref><br /> Xymor<ref name="CuD-p120" /><ref name="FToD-p6">{{Cite book/Fizban's Treasury of Dragons|6}}</ref>
+| adjective           = Bahamutan<ref name="FRCG4e-62,80" />
+| pantheon            = [[Faerûnian pantheon]]<br/>[[Draconic pantheon]]<br/>[[Untheric pantheon]]
+| gender              = Masculine
+| died                = {{Yearlink|-1071}} (allegedly)
+| mortalhomes         = 
+| apotheosis          = 
+| power1e             = [[Lesser deity]]
+| alignment1e         = [[Lawful good]]
+| symbol1e            = 
+| homeplane1e         = [[Celestia]] (as Bahamut)<br/>[[Twin Paradises]] (as Bahamut)<br/>[[Arcadia]] (as Marduk)
+| realm1e             = 
+| serves1e            = [[Asgorath]] (as Bahamut) <br/>[[Enlil]] (as Marduk)
+| servedby1e          = 
+| portfolio1e         =  City, wind, thunder, storms, and rain (as Marduk)
+| worshipers1e        = 
+| cleric alignments1e = {{alignment grid|on|on|off|off|off|off|off|off|off}}
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="TheDragon" /><ref name="Demigods" />
+| power2e             = [[Lesser deity]] (as Bahamut)<ref group="note">While [[Cult of the Dragon (sourcebook)|''Cult of the Dragon'' (1998)]] lists Bahamut as an lesser deity, [[Draconomicon (1990)|''Draconomicon'' (1990)]] states that Xymor is a greater deity.</ref> <br/>[[Greater deity]] (as Marduk)
+| alignment2e         = [[Lawful good]] (as Bahamut) <br/>[[Lawful neutral]] (as Marduk)
+| symbol2e            = A polar star above a milky nebula or a reptilian eye superimposed over a square of gold (as Bahamut) <br/>Silvery net (as Marduk)
+| homeplane2e         = [[Mount Celestia]]/[[Mercuria]] (as Bahamut)<br/>[[Arcadia]]/[[Abellio]] (as Marduk)
+| realm2e             = [[Bahamut's Palace]] (as Bahamut)<br/>[[Marduk (realm)|Marduk]] (as Marduk)
+| serves2e            = [[Asgorath]] (as Bahamut) <br/>[[Enlil]] (as Marduk)
+| servedby2e          = The Seven Gold Dragons (as Bahamut) <br/>Tellik the Unforgiving (as Marduk)<br/>Anthar (as Marduk)
+| portfolio2e         = Good dragons, [[metallic dragon]]s, wisdom, and enlightened justice (as Bahamut) <br/>City, Wind, Thunder, Storms, and Rain (as Marduk)
+| spheres2e           = 
+| worshipers2e        = Good dragons
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = {{Class table|edition=2e|[[Wizard]]|16|[[Cleric|Priest]]|16}}
+| refs2e              = <ref name="CuD-p120" /><ref name="OHG-65,182">{{Cite book/On Hallowed Ground|65, 134, 172, 175}}</ref><ref name="MonMyth"/>
+| power3e             = [[Lesser deity]]
+| alignment3e         = [[Lawful good]]
+| symbol3e            = A star above a milky nebula
+| homeplane3e         = [[Celestia]] (as Bahamut)<br/>[[Zigguraxus]] (as Marduk)
+| realm3e             = [[Bahamut's Palace]]
+| serves3e            = 
+| servedby3e          = The Seven Gold Dragons
+| portfolio3e         = Good dragons, wind, wisdom
+| domains3e           = [[Air domain|Air]], [[Cold domain|Cold]], [[Dragon domain|Dragon]], [[Good domain|Good]], [[Luck domain|Luck]], [[Nobility domain|Nobility]], [[Pride domain|Pride]], [[Protection domain|Protection]] and [[Storm domain|Storm]]
+| worshipers3e        = Good dragons, anyone seeking protection from evil dragons
+| cleric alignments3e = {{alignment grid|on|on|off|off|off|off|off|off|off}}
+| favored weapon3e    = "Bite" ([[heavy pick]]), claw
+| holy days3e         = 
+| class3e             = Colossal dragon
+| refs3e              = <ref name="DD-p58">{{Cite book/Deities and Demigods|58}}</ref><ref name="DrBoD-p32" /><ref>{{Cite book/Player's Guide to Faerûn|165}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref><ref name="Mop3e">{{Cite book/Manual of the Planes 3rd edition|134-135}}</ref><ref name="CDp108"/>
+| power4e             = [[Lesser deity]]
+| alignment4e         = [[Good]]
+| symbol4e            = Dragon's head in profile
+| dominion4e          = [[Celestia]]
+| realm4e             = [[Bahamut's Palace]] 
+| serves4e            = [[Torm]]
+| servedby4e          = The Seven Gold Dragons, [[Kuyutha]]
+| sphere4e            = Justice
+| domains4e           = [[Hope domain|Hope]], [[Justice domain|Justice]], [[Strength domain|Strength]], [[Torm domain|Torm]]
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = ''[[Armor of Bahamut]]'' <br /><small>'''[[Chromatic Bane]]s:'''</small> ''[[platinum mantle]]''<br /> <small>'''Hope domain:'''</small> ''[[Hope remains]]''<br /> <small>'''Torm domain:'''</small> ''[[Outmaneuver]]''
+| holy days4e         = 
+| class4e             = {{class table|edition=4e|Solo Soldier|36|}}
+| refs4e              = <ref name="Dragon378-32">{{Cite dragon/378/Domains in Eberron and the Forgotten Realms|32}}</ref><ref name="FRCG4e-62,80">{{Cite book/Forgotten Realms Campaign Guide|62, 80}}</ref><ref name="PHB4e">{{Cite book/Player's Handbook 4th edition|193}}</ref><ref name="DR378-p63">{{Cite dragon/378/Channel Divinity: Bahamut's Champions|63}}</ref><ref name="NCS-p53">{{Cite book/Neverwinter Campaign Setting|53}}</ref><ref name="DracoMD-2-204/209">{{Cite book/Draconomicon: Metallic Dragons|204-209}}</ref><ref name="Mop4e-p91">{{Cite book/Manual of the Planes 4th edition|91}}</ref><ref name="DP-p113">{{Cite book/Divine Power|113}}</ref>
+| power5e             = [[Lesser deity]]
+| alignment5e         = [[Lawful good]]
+| symbol5e            = Dragon's head in profile
+| homeplane5e         = [[Celestia]]
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         =Justice<ref name="BG3">{{Cite game/Baldur's Gate III}}</ref> 
+| domains5e           = [[Life domain|Life]], [[War domain|War]]
+| worshipers5e        = [[Metallic dragon]]s, [[dragonborn]]
+| channel divinity5e  = 
+| holy days5e         = 
+| challenge5e         = 30<ref name="FTD-p165">{{Cite book/Fizban's Treasury of Dragons|165}}</ref><ref group="note">This stat block is for the Aspect of Bahamut and represents his Avatar. This concept aligns with previous editions, specifically [[Dragon Magic]] (p.108) and [[Draconomicon: Metallic Dragons]] (p.208), where the Aspect of Bahamut is explicitly described as his Avatar.</ref>
+| class5e             = 
+| refs5e              = <ref name="PHB5e">{{Cite book/Player's Handbook 5th edition|296}}</ref><ref name="MM5e">{{Cite book/Monster Manual 5th edition|103}}</ref><ref name="SCAG"/>
+| first                = 
+| based               = [[wikipedia:en:Bahamut|Bahamut]] (Arab)
+| histrefs            = 
+}}
+'''Bahamut''' ({{Pronounce|ba|HA|mut|refs=<ref name="D.93.APG-p25">{{Cite dragon/93/Ay pronunseeAYshun gyd|25}}</ref><ref name="DD-p58" />|audio=Bahamut1.ogg}} {{Pronounce|BA|ha|mut|refs=<ref name="D.93.APG-p25" />|alt=yes|audio=Bahamut2.ogg}}) was the [[dragon]] [[god]] of justice and a subservient deity to [[Torm]], god of law.<ref name="FRPG4e">{{Cite book/Forgotten Realms Player's Guide|153}}</ref> Before entering the [[Faerûnian pantheon]], he was a member of the [[Draconic pantheon]], as a deity of good dragons, [[metallic dragon]]s, wisdom, and enlightened justice (justice tempered with mercy and punishment with forgiveness) known by the name of '''Xymor''' ({{Pronounce|ZIE|more|refs=<ref name="CuD-p120" /><ref name="Draco-p28">{{Cite book/Draconomicon (1990)|28}}</ref>}}). For some time, he was also a member of the [[Untheric pantheon]], under the alias of [[Marduk]].<ref name="DoF-p8" />
+
+His natural form was that of a [[platinum dragon]], said by many to be the only one of his kind.<ref name="Draco-p57">{{Cite book/Draconomicon (1990)|57}}</ref> He was also the eternal rival of his sister [[Tiamat]], queen of the [[chromatic dragon]]s.<ref name="DoF-p8">{{Cite book/Dragons of Faerûn|8}}</ref> Despite their enmity, legends said that they once worked together to create the ''[[First World]]'',<ref name="DMG5eR-p354"/><ref name="FTD-p4,6"/><ref name="5e-EoR-p253">{{Cite book/Vecna: Eve of Ruin|253}}</ref> which laid the foundation for [[Annam]] to forge the [[Material Plane]].<ref name="BPGG-p4"/>
+
+==Description==
+In his natural form, Bahamut was a massive dragon approximately {{SI|180|ft}}, with a tail the same length as his body,<ref name="DrBoD-p32" /> with [[platinum]] scales tougher than any shield<ref name="DracoMD-2">{{Cite book/Draconomicon: Metallic Dragons|207}}</ref> (said by some to be virtually indestructible) that glowed with a faint blue sheen,<ref name="poly19">{{Cite polyhedron/73/Bahamut and Tiamat|19}}</ref> and blue eyes, the exact color of which was hard to specify and may have depended on Bahamut's mood.<ref name="DrBoD-p32" /> As Xymor, he was described as a huge dragon wrapped in a scintillating aura of light so brilliant that it was impossible to tell his color.<ref name="Draco-p28" /> [[File:Grand Master of Flowers AFR.jpg|thumb|200px| ''Bahamut in his Grand Master of Flowers persona.'']]When he wished to wander the [[Prime Material Plane|mortal world]], he usually took the appearance of an old [[human]] or [[demihuman]] [[wizard]] dressed in peasant robes accompanied by seven canaries<ref name="DracoMD"/><ref name="Draco-p58">{{Cite book/Draconomicon (1990)|58}}</ref><ref name="MM5e"/> or other songbirds.<ref name="TLoAitFR">{{Cite web/The Legends of Adventures in the Forgotten Realms}}</ref> This persona came to be known among mortals as '''Fizban the Fabulous'''.<ref name="FTD-p30"/><ref name="DMG5eR-p356"/> Some sages believed Bahamut used this humanoid guise to not frighten non-dragon beings. They also believed that while Bahamut was fond of his old man guise, he had other guises as well. Other recorded guises included that of a prince with a carriage drawn by seven horses, an urchin accompanied by seven friends, a beggar followed by seven dogs,<ref name="poly19"/> a humble fisher or a young [[monk]] who bear the title of the "'''Grandmaster of Flowers'''",<ref name="TLoAitFR"/><ref name="AFR.282">{{Cite MTG|AFR|282|{{MTGc|Grand Master of Flowers||AFR|#=282}}|[[Yongjae Choi]]}}</ref> a [[Grandmaster of Flowers|title]] that was also used by the monks of the [[Monastery of the Yellow Rose]].<ref name="TBL-7">{{Cite book/The Bloodstone Lands|7}}</ref>
+
+===Diet===
+Bahamut's favored food was the early morning frost on blades of [[grass]], [[honey]], and daisy petals. He was able to eat anything, however, and he needed no sustenance while in his palace.<ref name="poly19"/>
+
+==Personality==
+
+Bahamut was stern and very disapproving of evil, always arguing with [[Asgorath]] about his crusade against it. He accepted no excuses for evil acts, and didn't tolerate even minor offenses by evil creatures.<ref name="DrBoD-p32" /><ref name="MonMyth">{{Cite book/Monster Mythology|105}}</ref>
+
+In spite of his stance, he was also considered one of the most compassionate beings in the multiverse. He had limitless empathy for the downtrodden, the dispossessed, and the helpless.<ref name="DrBoD-p32" /> He usually preferred to [[polymorph]] those who had offended him instead of killing them,<ref name="MonMyth"/> although it was also said that Bahamut loathed to sully himself with the blood of evil creatures.<ref name="poly19"/>
+
+By draconic standards, Bahamut was neither vain nor desirous of treasure. He valued wisdom, knowledge, prophecies, and songs instead.<ref name="MonMyth"/> He used the great wealth he had amassed over the ages to help those in need, while using the [[magic item]]s he had gathered to further his goals.<ref name="poly19"/> However, he also pursued viciously (usually sending his champions and followers) those who tried to steal the hoard from his palace as, after all, he was a god of justice.<ref name="DracoMD-208"/>
+
+Bahamut also liked to prove the strength and worthiness of his followers by battling against them in his dragon form, halting the combat when his followers were injured or when they overcame him. However, he was prone to get carried away by his zeal, and had powerful healers on hand in case he had gravely injured one of his followers in those battles.<ref name="DracoMD"/><ref name="DracoMD-2"/>
+
+While his court comprised only gold dragons, Bahamut enjoyed the company of all good dragons, delighting in their differences and varied personalities.<ref name="poly19"/>
+
+==Powers==
+[[File:Bahamut_p59.jpg|thumb|250px|''Bahamut in his dragon form.'']]
+Bahamut disdained combat, and he preferred to talk with his opponents and convince them to surrender using his legendary diplomatic skills.<ref name="RotD-2">{{Cite book/Races of the Dragon|152}}</ref> Bahamut spoke many languages, including [[Draconic language|Draconic]], [[Celestial language|Celestial]], [[Auran]], and [[Common]], although he had the ability to speak to any intelligent creature<ref name="D272-30"/> thanks to his ever-present, receptive form of [[telepathy]].<ref name="poly19"/>
+
+ 
+
+Despite his aversion to battle, he was easily capable of defending himself.<ref name="Draco-p58"/> Along with all the standard powers and godly senses of a deity of his rank, as well as the natural abilities of an ancient dragon, those who saw him fight claimed that he had two breath weapons, one a powerful ''[[cone of cold]]'', the other a vapor that turned his enemies into gaseous forms. A third special attack was his roar, which was so powerful that it could ''[[disintegrate]]'' creatures or objects within 100 feet (30 meters). If facing off against more powerful creatures, this roar would still permanently deafen those who weren't turned to dust.<ref name="Draco-p58"/> He was also capable of breathing the holy winds of Mount Celestia, which allowed him to heal his allies and even resurrect his fallen comrades.<ref name="FTD-p165"/> On top of that he was more powerful than any mortal dragon,<ref name="DracoMD-2"/> and was also reputed to know every [[Arcane magic|arcane]] and [[Divine magic|divine]] spell.<ref name="Draco-p58"/> Few things in the mortal world could cause him lasting harm.<ref name="FTD-p164">{{Cite book/Fizban's Treasury of Dragons|164}}</ref>
+
+Bahamut also had the ability to [[see invisibility|see invisible]] beings and objects, and to breathe underwater indefinitely. Likewise, he could freely use his breath weapons or cast spells while underwater.<ref name="Mop3e"/><ref name="D272-30"/>
+
+===Aspects===
+[[File:Aspect of Bahamut.jpg|thumb|250px|''An aspect of Bahamut.'']]
+Bahamut was able to create [[aspect]]s of himself from the willing sacrifice of a powerful metallic dragon worshiper. While the dragon died during the ritual, the newly created aspect remembered all of its previous life and was utterly bound to Bahamut's will forever after.<ref name="DracoMD-208">{{Cite book/Draconomicon: Metallic Dragons|208}}</ref> Unlike normal divine aspects of other gods, aspects of Bahamut were not extensions of Bahamut's self but rather independent beings. They were not as powerful as Bahamut's normal avatars, however.<ref name="RotD-152">{{Cite book/Races of the Dragon|152}}</ref>
+
+Bahamut disliked creating aspects in this way, as he preferred that his dragon worshipers remained as dragons rather than sacrifice themselves, but he sometimes asked one of his dragon worshipers to become an aspect when it was needed, to act as an emissary, to become a long-term guardian, or to chase evil beings way too powerful for his mortal followers to face.<ref name="DracoMD-208"/> Bahamut was also willing to create aspects if a worshiper performed a great sacrifice, such as offering their own life or a great treasure.<ref name="FTD-p164"/>
+
+Occasionally, aspects of Bahamut arose spontaneously on Celestia or a closely related plane. Unlike Bahamut's normal aspects, these spontaneous aspects were short-lived, biological echoes of Bahamut's divine will. These aspects usually faded to nothingness within a day. These aspects were usually the ones who answered the magical summons of Bahamut's worshipers.<ref name="RotD-152"/>
+
+According to some sages, aspects of Bahamut physically combined elements of all kinds of metallic dragons, and were big enough to tower even the greatest of the mortal ancient dragons.<ref name="FTD-p164"/> Aspects of Bahamut were fearless, surprisingly intelligent combatants who cared nothing for their continued existence, something that made them far more dangerous than mortal dragons because of their coldly calculated rage and battle acumen. Aspects of Bahamut usually fought to the death unless their existence was more important than any tactical gain they could get from a battle. Despite this, aspects of Bahamut were more willing to converse with mortals and deal diplomatically with them than most divine aspects, though they only spoke from positions of superiority due to being representatives of the Platinum Dragon.<ref name="RotD-152"/>
+
+==Realm==
+{{See also|Bahamut's Palace}}
+Myths claimed that the great fortified castle that Bahamut called home was somewhere "behind the east wind" and many scholars believed Bahamut's castle was located on the [[Elemental Plane of Air]].<ref name="Draco-p57" /> Others believed his palace was located "behind the north wind", this being the origin of his "Lord of the North Wind" title.<ref name="D272-30">{{Cite dragon/272/The King and Queen of Dragons: Bahamut &amp; Tiamat|30}}</ref> However, "[[Bahamut's Palace]]" was actually located on the [[plane]] of [[Celestia]].<ref name="FRCG4e-62,80"/> 
+
+==Activities==
+[[File:Bahamut4e.jpg|thumb|left|250px|''Bahamut's dragon and human forms.'']]
+Bahamut spent half of his time traveling the [[Prime Material plane|Material plane]]'s many worlds (including [[Toril]], [[Krynn]], and [[Abeir]])<ref name="FTD-p164"/><ref name="ID-p6-9">{{Cite adventurers league/Into Darkness|6-9}}</ref> in the guise of an old man.<ref name="Draco-p58"/> In this form, he traveled from one place to another with no apparent purpose and was quick to offer advice, information, or assistance to other travelers he encountered on the road. He always tried to assess the worthiness—viewed through a lens of justice, nobility, and honor—of everyone he met while traveling.<ref name="DracoMD">{{Cite book/Draconomicon: Metallic Dragons|204}}</ref> Some said that Bahamut had visited every known world and plane during these travels at least once in his lifetime.<ref name="poly19"/> When Bahamut assumed the form of the old man, he was usually accompanied by seven gold great wyrms polymorphed into canaries or some other small animal form,<ref name="Draco-p58"/><ref name="MM5e"/> always ready to attack anyone foolish enough to threaten their god.<ref name="DracoMD"/> 
+
+He spent the rest of his time holding court in his shining palace on Celestia. Good-aligned [[cleric]]s and [[paladin]]s usually took pilgrimages to his castle, seeking to receive the blessings of the Platinum Dragon.<ref name="MM5e"/><ref name="DracoMD"/>  
+
+Bahamut was ever watchful against the machinations of Tiamat,<ref name="MonMyth"/> and never interfered in the affairs of mortal creatures unless his actions could also stop her evil schemes.<ref name="MM5e"/><ref name="RotD">{{Cite book/Races of the Dragon|151}}</ref> However, when he confronted her, he always took the necessary actions to stop the spread of her influence and to undo whatever damage she had done.<ref name="DD-p60">{{Cite book/Deities and Demigods|60}}</ref> 
+
+Bahamut was unable to turn his back on any good creatures that were in need, however, even if Tiamat wasn't involved. Even so, he preferred to help them in indirect ways, such as giving them useful information, needed advice that bordered on prophecy, a safe refuge or healing, and bolstering them with his powerful magic.<ref name="DD-p60"/><ref name="DracoMD-3">{{Cite book/Draconomicon: Metallic Dragons|205}}</ref> 
+
+==Relationships==
+Bahamut's allies included good dragons, [[half-dragon]]s, dragonborn (both Abeiran<ref name="FRPG-p125"/> and ancient ones), and good draconic creatures.<ref name="RotD-2"/>
+
+Bahamut was a servant deity to Torm, occupying an equivalent position to that of a knight.<ref name="DR381-p92"/> As a comrade in arms of Torm, both deities had battled side-by-side against evil gods and devils on many occasions.<ref name="Whisper of Venom">{{Cite book/Whisper of Venom|135}}</ref>
+
+Bahamut's antithesis was Tiamat,<ref name="DoF-p8"/> as both of them represented opposing values,<ref name="SCAG"/> and this enmity was reflected in the attitude of each deity's worshipers as well.<ref name="DrBoD-p32" /> He was also at odds with Falazure, the evil aspect of [[Null]].<ref name="CuD-p121">{{Cite book/Cult of the Dragon|121}}</ref><ref name="MonMyth-p106">{{Cite book/Monster Mythology|106}}</ref>
+
+===Servitors===
+As Bahamut was active in the Material plane, he needed less divine servants than other deities. The best known of his few [[exarch]]s was [[Kuyutha]], a dragonborn [[demigod]].<ref name="DracoMD"/> As of [[1479 DR]], the [[King of Justice]] [[Tamarand]] was one of his few [[Chosen]].<ref name="DU177-p80">{{Cite dungeon/177/Realmslore: Vaasa|80}}</ref>
+
+After the [[Second Sundering]], [[Aasterinian]] was ranked as a [[greatwyrm]] and served as a messenger for Bahamut.<ref name="FToD-p93">{{Cite book/Fizban's Treasury of Dragons|93}}</ref>
+
+===The Seven Gold Wyrms===
+A council of seven ancient gold dragons comprised Bahamut's court.<ref name="DracoMD"/><ref name="Draco-p58"/><ref name="poly20"/> They were Bahamut's closest servants and friends. Each one worked on specific tasks, and served as Bahamut's emissaries in tasks that didn't demand the god's personal attention.<ref name="DracoMD-3"/> They also advised Bahamut on matters of honor and acted as a jury when the god was judging evildoers—often apprehended by his champions.<ref name="DracoMD"/>
+
+Some claimed these wyrms were reincarnations of dead kings, renowned for their sense of justice and returned to life to serve the Platinum Dragon.<ref name="Draco-p58"/> Gold dragons, however, believed that Bahamut chose among the most noble and courageous among them to serve him in this capacity, and they considered a position in his court to be the most prestigious of all. According to gold dragon traditions, Bahamut chose them through secret, elaborate, and dangerous tests that challenged their mettle.<ref name="poly20"/> Once appointed to a position in his court, that gold dragon served Bahamut until dead or until it was too old or infirm to aid their god.<ref name="DracoMD-3"/><ref name="poly20"/>
+
+It was unknown if there was some form of hierarchy among them.<ref name="DracoMD"/>
+
+As of the 15{{th}} century DR, the Seven Gold Wyrms were [[Borkadd]] the Claw, [[Kurya]] the Eye, [[Sonngrad]] the Wing, [[Gruemar]] the Voice, [[Marroshok]] the Tail, [[Troannaxia]] the Presence, and [[Urgala]] the Fang.<ref name="DracoMD-3"/>
+
+==Worshipers==
+{{Quote|Leave me blind to all but true light of justice, o Valiant One.|A basic prayer to the Platinum Dragon.<ref name="BG3"/>}}
+[[File:Bahamut.jpg|thumb|250px|''Bahamut in flight.'']]
+The majority of Bahamut's worshipers prior to the Spellplague were metallic dragons. While he was revered by all good dragons, gold, [[silver dragon|silver]], and [[brass dragon]]s held him in particularly high regard.<ref name="RotD"/>
+
+His worship grew in the decades following the [[Time of Troubles]], when he regained his divine status, as non-dragons began to take interest in his teachings.<ref name="DoF-p9"/> When he became a subservient deity to Torm, after the Spellplague, many Tormites also paid homage to Bahamut as well, and it wasn't uncommon for both gods to lend their strength to worshipers of either deity at the same time.<ref name="The Spectral Blaze">{{Cite book/The Spectral Blaze|106}}</ref>
+
+Followers of Bahamut often took quests to oppose the schemes of Tiamat and to stop or destroy her followers.<ref name="RotD-2"/> They were allies of worshipers of Torm,<ref name="The Spectral Blaze"/> [[Moradin]], [[Yondalla]], and other lawful good deities.<ref name="RotD-2"/>
+
+===Clergy===
+Bahamut accepted only clerics of good alignments. Whether they were dragons, dragonborn, half-dragons, or other beings attracted to his philosophy, clerics of the Platinum Dragon always had to strive to take constant but subtle actions on behalf of good while trying to do as little harm in the process as possible.<ref name="RotD"/>
+
+Dragon clerics were usually nurtured from birth, trained by a senior dragon cleric, usually a parent or close friend of their parents, although it was not unusual that a dragon of any age heard the call of Bahamut and sought out clerical training. As with any dragon deity, dragons who wanted to become clerics of Bahamut had to first acquire an appropriate holy symbol. This holy symbol became the most prized item of their hoards after that, as it was a symbol of their status in dragon society and of the cleric's devotion to Bahamut, and to lose it was considered a blasphemy. If a dragon cleric didn't try to recover a stolen or lost holy symbol, he or she would lose their investiture. Usually a dragon had to acquire his or her holy symbol on their own, but Bahamut also bestowed a holy symbol to a dragon he wanted to be his cleric.<ref name="TheDragon2">{{Cite dragon/86/Dragons and their deities|36-37}}</ref> 
+
+The holy symbol used by dragon clerics of Bahamut was a small dragon claw (about the size of a human hand) usually made of platinum or some other metal plated with platinum, although younger (and relatively poorer) dragons made theirs of their own metal type. They carried their holy symbol at all times, usually around their necks on a stout chain. One of the main goals of a dragon cleric was to acquire their most preferred type of holy symbol; in the case of Bahamut's worshipers, this was one made of platinum. In some instances, Bahamut blessed some of his clerics for services rendered by upgrading their holy symbol to one made of platinum.<ref name="TheDragon2"/>
+
+Bahamut was known to work with his clerics more often than other dragon deities, and he asked his clerics to oppose the greatest weaknesses of dragonkind, which in Bahamut's point of view were the tendency of good dragons to perform questionable acts because of greed or cowardice, the chance to be subdued (something all dragon gods frowned upon), and the existence of evil dragons.<ref name="TheDragon2"/>
+
+Like the dragon clerics of the other dragon deities, clerics of Bahamut were expected to perform three key functions alongside any other tasks he asked them to do: to act as role models for other good dragons, to function as emissaries of Bahamut in a given area, and to spread Bahamut's will to other dragons in that area while collecting sacrifices from Bahamut's worshipers. Those sacrifices were usually a small part of their dragon hoards, and dragon clerics were allowed to take a small share of this sacrifice as well, making this third function the favorite of many dragon clerics. Dragon clerics were also expected to sacrifice a part of their treasure to Bahamut once every year.<ref name="TheDragon2"/>
+
+If a dragon cleric transgressed Bahamut's dogma, committed questionable acts, or was subdued, either voluntarily or by force, he or she would lose favor with him and would need to atone by sacrificing part of their treasure or by performing special tasks, or they would lose part of their clerical powers. Repeated transgressions would earn them the loss of all their clerical abilities, a merciful punishment compared to how other dragon gods, such as Tiamat, punished their failed clerics.<ref name="TheDragon2"/>
+
+Non-draconic clerics of Bahamut typically learned his teachings at the foot of a wyrm, usually a gold or silver dragon in humanoid form. Teacher and student often traveled to see the effects of injustice and cruelty firsthand.<ref name="CDp108-9">{{cite book/Complete Divine|108-109}}</ref> Bahamut's wanderings gave rise to many bard tales about an unassuming old man with canaries who helped people on the roads<ref name="D272-30"/> that were well known among his faithful, and many of his human and demihuman priests undertook pilgrimages in the company of trained canaries, seeking to emulate their god.<ref name="DracoMD"/>
+
+===Orders===
+The [[Talons of Justice]] was an order of dragon paladins dedicated to Bahamut that followed the Ptarian Code.<ref name="DoF-p99">{{Cite book/Dragons of Faerûn|99}}</ref> No one knew exactly how many Talons there were, but the group probably numbered in the scores. Group members were spread throughout Faerûn, many living in [[human]] and [[demihuman]] form in cities and towns of other races.<ref name="Draco-p44">{{Cite book/Draconomicon (1990)|44}}</ref>
+
+The [[Platinum Cadre]] was an order of dragonborn knights from Tymanther who believed that not all dragons were evil, and that dragonborn were the [[dragonborn of Bahamut|ancient children of Bahamut]]. They worked actively to change Tymantheran prejudices about dragons, and although they were ridiculed by Tymantheran society, they were also acknowledged as some of the best warriors Tymanther had to offer, even if grudgingly.<ref name="FRPG-p125">{{Cite book/Forgotten Realms Player's Guide|125}}</ref><ref name="The Spectral Blaze-p79-80">{{Cite book/The Spectral Blaze|79-80}}</ref>
+
+===Temples===
+Temples to Bahamut were extremely rare, as the Platinum Dragon didn't appreciate being honored by objects, taking into account deeds instead. Many gold, silver, and brass dragons maintained small shrines to Bahamut in their lairs, usually nothing more than Bahamut's holy symbol engraved on a wall.<ref name="RotD-2"/>
+
+The few temples that were made to honor him were beautiful and elegant buildings with simple furniture and no embellishment or adornment. Those temples had meeting rooms where followers could gather to plan their next campaign against Tiamat, and a few smaller rooms where individuals could pray, meditate, or rest in privacy.<ref name="RotD-2"/>
+
+===Dogma===
+Bahamut's dogma was based on justice, nobility, protection, honor, mercy, and just authority.<ref name="BG3/><ref name="PHB4e"/> He taught his followers to always uphold the highest ideals of honor and justice; to be constantly vigilant against evil and to oppose it from all fronts; and to protect the weak, liberate the oppressed, and defend just order.<ref name="PHB4e"/> Bahamut advocated a "greater justice" that included fighting against evil and toppling oppressive regimes.<ref name="DR378-p35" /> He also liked to reward strength of purpose and character in his followers.<ref name="DR378-p37">{{Cite dragon/378/Domains in Eberron and the Forgotten Realms|37}}</ref>
+
+His dragon adepts followed the Ptarian Code,<ref name="DoF-p99"/> a draconic code of honor created by the gold dragon [[Ptaris]] in the ancient past. Originally intended as a code of conduct for the lords who attended the King of Justice, the Ptarian Code eventually was adopted by many gold and silver dragons.<ref name="Draco-p44"/> The Ptarian Code was similar to the codes of chivalry adopted by knightly orders of humanity. It included paying homage to Bahamut, as well to the draconic deities Lendys and Tamara.<ref name="Draco-p44"/> The major precepts were:
+[[File:Acolyte of Bahamut.jpg|thumb|right|350px|''An acolyte of Bahamut, praying at his shrine.'']]
+* ''Justice and Good above all.''
+* ''Honor and Fealty to the King.''
+* ''Honor and Respect to Righteous Innocence.'' 
+* ''Honor and Duty to the Balancer (Lendys), to Her Mercy (Tamara), and to the Justicemaker (Bahamut).'' 
+* ''Honor and Protection to the Lesser Races.'' 
+* ''Honor and Correction to the Enemies of Justice and Good.'' 
+* ''Honor and Forbearance for oneself.''<ref name="Draco-p44"/><ref name="DoF-p100">{{Cite book/Dragons of Faerûn|100}}</ref>
+
+===Rites===
+Bahamut's worshipers and clergy had no formal rituals or ceremonies. Those who followed the Platinum Dragon believed in the philosophy of "praying through their deeds". The only activity that was considered as something like a ritual was the ''[[Rite of Rebirth]]'', the magical process by which non-dragon humanoids transformed themselves into dragonborn.<ref name="RotD-2"/>
+
+==Weaknesses==
+Bahamut was ontologically distinct from the gods that hailed from the Outer Planes,<ref name="FTD-p43"/> rendering his True Form vulnerable to discorporation by mighty mortals.<ref name="DracoMD-208"/>
+
+However, achieving his permanent destruction required particular means. Malevolent entities could corrupt the specific rituals used by his high priests, forcibly summoning Bahamut in a grand temple where he could be slain. Legends also spoke of a rebellious son concealed within the planes who, if found, could challenge his father and seize his divine station by force. Furthermore, as the embodiment of pure virtue, if he were tricked into committing a supremely dishonorable act, he would voluntarily abdicate his divinity, leaving him as vulnerable as an ancient dragon.<ref name="DracoMD-p206">{{Cite book/Draconomicon: Metallic Dragons|206}}</ref>
+
+==History==
+For ages, sages debated whether Bahamut actually was a deity or not. Many believed he was the archetype of good dragonkind, the avatar of another deity, or even a mortal dragon so powerful that other dragons revered him like a god. Whatever he was, sages knew for certain that he was powerful, was venerated by many good dragons as their king, and was even respected by evil ones.<ref name="Draco-p57"/><ref name="RotD"/>
+
+===Origins===
+[[File:Symbol of Bahamut - Dennis Crabapple McClain.jpg|thumb|200px|left|''An earlier holy symbol of Bahamut, before becoming a member of the Faerûnian pantheon.'']] According to sages of the 14{{th}} century [[DR]], Bahamut was actually a god. He came into existence alongside the rest of the draconic pantheon when the first dragons were born,<ref name="Draco-p57"/> although in those ancient times he was known as Xymor by his dragon followers.<ref name="CuD-p120"/> However, sages of the 15{{th}} century [[DR]] suggest that, while Bahamut possessed the power of a [[lesser deity]]<ref name="MM5e"/>, since his origins were tied with those of the Material Plane, he was ontologically different from the gods that hailed from the [[Outer Planes]].<ref name="FTD-p43">{{Cite book/Fizban's Treasury of Dragons|43}}</ref>
+
+His actual origins were highly conflicting, however, as there were many accounts about how he came into being. In the more commonly accepted traditions, he was the son of Asgorath and brother of Tiamat and Null;<ref name="CuD-p120"/> while in the traditions of gold dragon society he was believed to be the son of [[Lendys]] and [[Tamara]].<ref name="Draco-p28">{{Cite book/Draconomicon (1990)|28}}</ref> Myths from the [[dragonborn]] of [[Abeir]] claimed instead that Bahamut and Tiamat were born from the sundered corpse of Io (the name by which dragonborn knew Asgorath) when he was killed in the [[Dawn War]].<ref name="SCAG">{{Cite book/Sword Coast Adventurer's Guide|112-113}}</ref> According to the ancient draconic myth ''[[Elegy for the First World]]'', Bahamut and Tiamat came into existence before the formation of the Material Plane.<ref name="FTD-p4,6"/>
+
+Whatever the truth, his cult grew rapidly in the communities of metallic dragons, especially among young gold dragons.<ref name="Draco-p28"/> Some sages speculate that this was because gold dragons believed Bahamut was once a gold dragon whose great goodness caused him to transcend his golden form and become a unique dragon breed.<ref name="poly20">{{Cite polyhedron/73/Bahamut and Tiamat|20}}</ref>
+
+===Creation of the First World===
+According to ''[[Elegy for the First World]]'', Bahamut and Tiamat worked together to create the ''[[First World]]'' from the primordial chaos. Following its formation, they created the dragon god [[Sardior]] to help them create the rest of the dragonkind: the first [[metallic dragon|metallic]] and [[chromatic dragon]]s. When the gods of the Outer Planes came to invade the ''First World'', Bahamut resisted and opposed them but was defeated by the combined might of the gods, and the ''First World'' was shattered by some unexplained catastrophe.<ref name="DMG5eR-p354"/><ref name="FTD-p4,6"/><ref name="5e-EoR-p253"/> ''Diancastra's Saga'' offered a differing perspective, stating that [[Annam]] subsequently collected the fragments of the ''First World'' created by Tiamat and Bahamut, and scattered them to form the Material Plane with its myriad worlds.<ref name="BPGG-p4">{{Cite book/Bigby Presents: Glory of the Giants|4,6}}</ref>
+
+The elegy mentioned that after the destruction of the ''First World'', Bahamut fled to Mount Celestia where he was accepted as one of the gods of that plane. When Bahamut recovered, he began to travel the Material Plane to try to understand the different gods of the Outer Planes and their creations, while mourning Tiamat after she was imprisoned.<ref name="FTD-p164"/><ref name="FTD-p4,6">{{Cite book/Fizban's Treasury of Dragons|4,6}}</ref><ref name="DMG5eR-p354"/>
+
+===The Dragonfall Wars===
+Once dragons as a race had established themselves during the [[Time of Dragons]],<ref name="DoF-p7">{{Cite book/Dragons of Faerûn|7}}</ref> the various religious factions of dragons began to battle one another over their different ideologies, in what is known as the [[Draco Holy Wars]].<ref name="Draco-p28"/> Among those conflicts, there was one related to Bahamut that divided the usually monolithic gold dragon culture. As the precepts of Bahamut became more popular, the younger golds began to forsake the worship of Lendys and Tamara, whom they regarded as old-fashioned and inconsistent, to embrace the faith of the Platinum Dragon,<ref name="Draco-p28"/> an attitude that put them at odds with older gold dragons, who worshiped those two dragon gods with fanatical devotion.<ref name="Draco-p29">{{Cite book/Draconomicon (1990)|29}}</ref> Although this conflict never degenerated into outright violence, religious intolerance became quite widespread among gold dragons, something that had no precedent until that time and never happened since.<ref name="Draco-p29"/>
+
+Over time, religious fervor waned and draconic philosophers came to the conclusion that gods who allowed such behavior were not worthy of their worship. This started the draconic apathy towards their gods that lasted for thousands of years. The followers of Bahamut and Tiamat didn't lose their faith toward their gods, however, and continued fighting in what was known as the [[Dragonfall War]].<ref name="DoF-p7"/>
+
+To combat Tiamat's [[dragonspawn|aberrant creations]], Bahamut created powerful draconic humanoids known as the ''[[dragonborn of Bahamut|Ux Bahamuti]]'', who served as his emissaries in the mortal realm during the first years of the war.<ref name="RotD-3">{{Cite book/Races of the Dragon|5}}</ref><ref name="DoF-p126">{{Cite book/Dragons of Faerûn|129}}</ref> The ''Ux Bahamuti'' were somehow related to the dragonborn native to Abeir; however, how they were related was a secret known only by a few older dragons.<ref name="Ed">{{cite web|author=[[Ed Greenwood]]|title=Ed's Twitter|url=https://twitter.com/TheEdVerse/status/722271292758585344|accessdate=2016-04-18}}</ref>
+
+The war waxed and waned in intensity, with the last era of intense fighting occurring between {{Yearlink|-2087}} and {{Yearlink|-1071}}.<ref name="DoF-p8"/> It was during this time that the [[Unther]]ic empire began and with it, their pantheon became prominent. Bahamut became part of that pantheon by taking the alias of Marduk, one of the Untheric greater deities. A second front in the Dragonfall War opened and the two dragon gods fought each other personally, with neither being able to gain the upper hand.<ref name="DoF-p8"/>
+
+In −1071 DR, in a battle of the [[Orcgate Wars]] known as the [[Battle of the Gods]], while [[Gilgeam]] fought with [[Ilneval]], Tiamat saw her chance to strike, but before she could kill the God-king, Marduk intervened and killed her, saving Gilgeam's life at the expense of his own. With both of their Untheric aspects dead, Tiamat and Bahamut were both stripped of their divine power. Marduk's church was eradicated and Bahamut was reduced to the status of [[celestial paragon]].<ref name="DoF-p8"/>
+
+===Return of the Dragon King===
+He was forced to stay like this, without enough followers to worship him as a god, living in the [[upper planes]]<ref name="MotP1e-88"/> or wandering the Material Plane, doing whatever good he could.<ref name="Draco-p57"/> Then, in the {{YearlinkName|1359}}, [[Gareth Dragonsbane]] and his companions returned from the [[Abyss]] after destroying the [[Wand of Orcus]]. They brought with them the [[Tree-Gem of Bloodstone|Tree-Gem]], which Bahamut had given back to them as a sign of his covenant to protect [[Damara]] from [[demons]]. The Tree-Gem brought renewed interest from non-dragons in the worship of Bahamut as a god, and as he gained new followers, and he was able to restore his deific status as a lesser deity once again.<ref name="DoF-p9">{{Cite book/Dragons of Faerûn|9}}</ref> However, at some point before the {{YearlinkName|1373}}, Bahamut was trapped in an ancient prison somehow related to the ''[[Dracorage mythal]]''.<ref name="GHotR-p154">{{Cite book/The Grand History of the Realms|154}}</ref>
+
+In the {{YearlinkName|1373}}, after the destruction of [[Sammaster]] and the end of the [[High Magic]] that sustained the ''Dracorage mythal'', Bahamut was able to free himself from his prison and reappeared in Celestia, and soon after launched an invasion of Tiamat's demesne in [[Dragon Eyrie]].<ref name="GHotR-p154"/>
+
+With the renewed faith in him, Bahamut began preparing for a renewal of the Dragonfall War as Tiamat had regained her status as a lesser deity thirteen years prior. He gifted his most devout followers with the ability to turn themselves into dragonborn of Bahamut, so that the war could continue between mortals again.<ref name="DoF-p9"/> The destruction of the ''Dracorage mythal'' also heralded the prophesied "[[Draconic pantheon#Turning of the Great Cycle|Turning of the Great Cycle]]", which sparked the religious fervor lacking in dragons since the beginning of the Dragonfall War.<ref name="DoF-p10">{{Cite book/Dragons of Faerûn|10}}</ref>
+
+In the {{YearlinkName|1374}}, lightning and meteor showers pounded Faerûn, and Bahamut and Tiamat instructed their respective followers to seek out such sites as they would each contain some form of dragon egg. Unfortunately for Bahamut, Tiamat's followers were much more effective in retrieving the eggs than his own.<ref name="DoF-p10"/>
+
+In the {{YearlinkName|1385}}, after the [[Spellplague]] had wreaked havoc in the planes, a group of demons led by the [[balor]] lord [[Axithar]] invaded the [[House of the Triad]], and when [[Tyr]] and Torm sent calls for help, Bahamut answered by sending his legions to aid in destroying the demons.<ref name="TCM-p184, 193-194">{{Cite book/The Crystal Mountain/MMP|184, 193-194}}</ref>
+
+Afterwards, Bahamut became part of the Faerûnian pantheon when Torm promoted him to the same position Torm once occupied while serving Tyr, becoming a temporary member of [[the Triad]],<ref name="DR381-p92">{{Cite dragon/381/Channel Divinity: Champions of Torm|92}}</ref> replacing Tyr until his return after the [[Second Sundering]] in the 1480s DR.<ref name="STK-p39">{{Cite book/Storm King's Thunder|39}}</ref> He also gained a few followers among the dragonborn of [[Tymanther]].<ref name="FRCG-p186">{{Cite book/Forgotten Realms Campaign Guide|186}}</ref>
+
+After Tiamat's failed attempt to escape from [[Avernus]] in the late years of the 1480s [[DR]], Bahamut sent the [[copper dragon]] [[Balarystul]] to that plane to keep an eye on the activities of Tiamat's followers.<ref name="DtA-p129">{{Cite book/Baldur's Gate: Descent into Avernus|129}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Gallery===
+<gallery>
+Bahamut dragon god of justice, honour & good.png|''Bahamut, flanked by seven''  ''ancient gold dragons''
+Bahamut Spellfire.jpg|''Another appearance of an aspect of Bahamut.''
+Bahamut with seven canaries.webp|Bahamut, accompanied by seven golden canaries.
+</gallery>
+===Appearances===
+:;Adventures
+::{{refonly}}
+::<small>''[[Hoard of the Dragon Queen]]'' • ''[[Baldur's Gate: Descent into Avernus]]'' • ''[[Dragons of Stormwreck Isle]]''</small>
+:;Novels
+::{{Refonly}}
+::<small>''[[The Spectral Blaze]]''</small>
+:;Video Games 
+::{{Refonly}}
+::<small>''[[Baldur's Gate III]]''</small>
+:;Card Games
+::''[[Blood Wars]]'' • {{MTGapp|AFR}}
+:;Miniatures
+::''[[Icons of the Realms]]''
+::{{Refonly}}
+::<small>''[[Dungeons & Dragons Miniatures]]''</small>
+:;Organized Play & Licensed Adventures
+::{{Refonly}}
+::<small>''[[Faces of Fortune]]'' • ''[[Ruined Prospects]]'' • ''[[Losing Fai]]'' • ''[[The Breath of Life]]'' • ''[[The Swarmed Heart]]'' • ''[[In the Hand]]'' • ''[[Into Darkness]]'' • ''[[The Harrowing of Hell]]''</small>
+
+===Further Reading===
+*{{Cite polyhedron/73/Bahamut and Tiamat}}
+*{{Cite dragon/272/The King and Queen of Dragons: Bahamut & Tiamat|30}}
+*{{Cite book/Draconomicon: Metallic Dragons|204-209}}
+===External Links===
+{{External link disclaimer}}
+{{CRW}}
+{{DnD4W}}
+{{DLW|Paladine}}
+{{EW}}
+{{SJW}}
+===References===
+{{Refs|2}}
+===Connections===
+{{Draconic pantheon}}
+{{Untheric pantheon}}
+{{Deity list}}
+[[Category:Air domain deities]]
+[[Category:Celestial paragons]]
+[[Category:Cold domain deities]]
+[[Category:Draconic pantheon]]
+[[Category:Dragon domain deities]]
+[[Category:Good domain deities]]
+[[Category:Justice domain deities]]
+[[Category:Lawful good deities]]
+[[Category:Lesser deities]]
+[[Category:Greater deities]]
+[[Category:Life domain deities]]
+[[Category:Hope domain deities]]
+[[Category:Luck domain deities]]
+[[Category:Platinum dragons]]
+[[Category:Protection domain deities]]
+[[Category:Strength domain deities]]
+[[Category:Untheric pantheon]]
+[[Category:War domain deities]]
+[[Category:Faerûnian pantheon]]
+[[Category:The Triad]]
+[[Category:Torm domain deities]]
+[[Category:Pride domain deities]]
+[[Category:Inhabitants of Bahamut's Palace]]
+[[Category:Inhabitants of Mercuria]]
+[[Category:Inhabitants of Mertion]]
+[[Category:Inhabitants of Mount Celestia]]
+[[Category:Inhabitants of Abellio]]
+[[Category:Inhabitants of Arcadia]]
+[[Category:Inhabitants of Bytopia]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of Zigguraxus]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Inhabitants of masculine gender]]
+[[Category:Dragons]]

@@ -1,0 +1,52 @@
+{{otheruses|Toril}}
+{{Celestial body
+| image         = 
+| caption       = 
+| name          = Abeir-Toril
+| type          = Planet
+| size class    = 
+| shape class   = 
+| type class    = 
+| class refs    = 
+| cluster       = 
+| satellites    = 
+| satellite of  = 
+| day length    = 
+| year length   = 
+| population    = 
+| usethe        = 
+| usein         = 
+| inhabitants   = 
+| locations     = yes
+| organizations = 
+}}
+'''Abeir-Toril''' ({{Pronounce|ai|BEER|toh|RILL|refs=<ref name="CotR-19">{{Cite book/Cyclopedia of the Realms|19}}</ref>}} {{Pronounce|alt=yes|ah|BEER|tor|RILL|refs=<ref name="FRCS2e-r-p4">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|4}}</ref>|audio=Abeir-Toril.ogg}}) was a prehistoric planet that existed before {{Yearlink|-31000}} when [[Ao]] sundered the world into two worlds: [[Abeir]] and [[Toril]].<ref name="FRCG-p41">{{Cite book/Forgotten Realms Campaign Guide|41}}</ref> The name was archaic, meaning "cradle of life".<ref name="CotR-19" />
+
+==Etymology==
+Abeir-Toril was a compound word, formed of two words that originated in the ancient language [[Auld Wyrmish]].<ref name="EAT">{{Cite web/theedverse/2021-01-30 - Etymology of Abeir and Toril}}</ref>
+
+==Geography==
+The shape of the planet was very different from either modern Abeir or modern Toril, consisting of one massive supercontinent known as [[Merrouroboros]].<ref name="FRCG-p5">{{Cite book/The Grand History of the Realms|5}}</ref>
+
+==Inhabitants==
+Abeir-Toril was dominated by [[abomination]]s from the [[Far Realm]],<ref name="Sd-p54">{{Cite book/Stardeep|54-56}}</ref> among them the most prominent were the [[aboleth]]s from the [[Abolethic Sovereignty]].<ref name="NCS-p90">{{Cite book/Neverwinter Campaign Setting|90}}</ref><ref name="PoS-p162">{{Cite book/Plague of Spells/MMP|162}}</ref> Other races that lived in this prehistoric world were the [[Giant|giantkin]] and the mysterious [[Creator race]]s.<ref name="FRCG-p5"/>
+
+==History==
+Abeir-Toril was one of many worlds that appeared after [[Ao]] crafted [[Realmspace]] out of the [[phlogiston]].<ref name="FRCG-p41" /> Though barren and devoid of life, creatures of manifest entropy and elemental nature known as the [[primordial]]s began to appear in Realmspace, coveting those worlds.<ref name="FRCG-p42">{{Cite book/Forgotten Realms Campaign Guide|42}}</ref> Unknown to the primordials, the first [[gods]] also began to appear in Realmspace. [[Selûne]] and [[Shar]] were the first ones,<ref name="FRCG-p42"/> and they began to create life on the world of Abeir-Toril, creating the goddess [[Chauntea]] and the sun to sustain that life.<ref name="FRCS-p261">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|261}}</ref> 
+
+When the twin goddesses became aware of the threat of the primordials, they rallied all the gods to defend the virgin worlds, even summoning gods from other [[Cosmology|dimensions]] to aid the native gods in the war.<ref name="FRCG-p42"/> This conflict was later known as the [[Dawn War]].<ref name="SCAG">{{Cite book/Sword Coast Adventurer's Guide|112-113}}</ref> While the gods and primordials battled for ages, life flourished on Abeir-Toril.<ref name="FRCG-p42"/> 
+
+The first lifeforms on Abeir-Toril were aberrant, however. Beings from the Far Realm who tried to gain a foothold in Realmspace,<ref name="Sd-p54"/> among them the [[Eldest]], the oldest-known aboleth and possibly the progenitor of the entire species.<ref name="PoS-p162"/> The gods also opposed against them, and the [[Cerulean Sign]] was a rune of power created during this time by the gods to oppose those beings.<ref name="Sd-p54"/>
+
+It was the end of the [[Shadow Epoch]], during the last period of the [[Days of Thunder]], that a conflict between the [[titan]]s and the [[batrachi]] sparked. To defeat their enemies, the batrachi summoned many primordials from their imprisonment. The gods quickly moved to battle their ancient foes, and a primordial called "[[Asgorath|Asgoroth the World Shaper]]" hurled an ice moon down to the surface of Merrouroboros in an event known as the [[Tearfall]], intending to destroy the world she could not claim as their own.<ref name="FRCG-p41" /><ref name="GHotR8">{{Cite book/The Grand History of the Realms|8}}</ref>
+
+It was this action that finally spurred Ao to action, leading to the "changing of stars", in which the world was separated into two twin planets, Abeir and Toril. Ao gave the primordials control over Abeir, while retaining sovereignty over Toril for the gods.<ref name="FRCG43">{{Cite book/Forgotten Realms Campaign Guide|43}}</ref> When Abeir-Toril was sundered, the city of [[Xxiphu]], the realm of the aboleth, remained on Abeir.<ref name="NCS-p90"/>
+
+Those events were unknown to [[Faerûn]]ian sages until after the [[Spellplague]], when the [[dragonborn]] of Abeir and the [[sarrukh]]s of [[Okoth]] revealed forgotten lore regarding the ancient past.<ref name="FRCG-p41" />
+
+==Appendix==
+===References===
+{{refs}}
+[[de:Abeir-Toril]]
+[[pl:Abeir-Toril]]
+[[Category:Locations]]

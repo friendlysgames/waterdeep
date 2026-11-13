@@ -1,0 +1,67 @@
+{{Celestial body
+| image         = 
+| caption       = 
+| name          = Abeir
+| type          = Planet
+| size class    = E
+| shape class   = Spherical
+| type class    = [[Earth (element)|earth]]
+| class refs    = <ref name="FRPG-p154"/><ref name="FRCG-p200"/><ref group="note">It can be assumed Abeir share the same basic characteristics of Toril, as both are twin planets.</ref>
+| satellites    = [[Selûne (moon)|Selûne]]<br />[[Tears of Selûne]]
+| satellite of  = [[The sun]]
+| day length    = 
+| year length   = 
+| population    = [[Dragon]]s<br />[[Elemental]]s<br />[[Aberration]]s<br />[[Human]]s<br />[[Humanoid]]s
+| locations     = yes
+| inhabitants   = yes
+| organizations = yes
+}}
+'''Abeir''' ({{Pronounce|ai|BEER|refs=<ref name="FRCS1e-CotR-p19">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|19}}</ref>}} {{Pronounce|ah|BEER|refs=<ref name="FRCS2e-r-p4">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)|4}}</ref>|alt=yes}}) was the twin planet of [[Toril]],<ref name="FRCG-p41">{{Cite book/Forgotten Realms Campaign Guide|41}}</ref> located in the same [[material plane]] of its sibling world, but within a "pocket dimension" that was out of synchronicity with Toril.<ref name="FRPG-p154">{{Cite book/Forgotten Realms Player's Guide|154}}</ref><ref name="AtRDT-p4">{{cite web |url=https://web.archive.org/web/20170620082509/http://secretsofthearchmages.net/Threads/Wotc/2015/ForgottenRealms/1514971.htm|title=The one and only "Ask the Realms authors/designers thread" 4|accessmonthday=January 29th|accessyear=2017|author=[[Richard Baker]]|date=August 12th, 2008}}</ref> Abeir revolved around the same [[The sun|sun]] of [[Realmspace]], and shared the lunar satellite [[Selûne (moon)|Selûne]] and its [[Tears of Selûne|Tears]] with Toril.<ref name="FRPG-p154"/> The name of this twin planet means life, vitality, the experience of living, and the cycle of life, depending on the words around it.<ref>{{Cite web|url=https://twitter.com/TheEdVerse/status/1355632073432817667|title=@TheEdVerse on Twitter|author=Ed Greenwood|date=30|year=2021|month=January}}</ref>
+
+==Geography==
+Abeir had a steel-colored sky due to the [[Arambar (energy)|arambar]], the residual energy left by the death of the [[primordial]] of the [[Arambar|same name]].<ref name="FRCG-p200">{{Cite book/Forgotten Realms Campaign Guide|200}}</ref>
+
+The known continents of Abeir were [[Shyr]], [[Marranth]], [[Irronther]],<ref name=":0">{{Cite web|url=https://www.youtube.com/watch?v=XBeeDMJFnzo|title=A Conversation With Elminster About Abeir - Youtube|author=Ed Greenwood|accessyear=2024|accessmonthday=May 15th}}</ref> and [[Laerakond]] (at least before it was transferred to Toril),<ref name="FRCG-p200"/> as well as a few archipelagos such as the [[Cold Strait]], the [[Ice Run (Abeir)|Ice Run]], and the [[Khannath]]; and a region of which little was known, [[Lhoraun]].<ref name=":0"/> Among the known bodies of water of Abeir were the [[Andol Sea]], the [[Arserpent Sea]], the [[Boiling Sea]], the [[Dun Seas]], the [[Frozen Seas]], and the [[Oshlar Sea]].<ref name=":0"/> 
+
+Like Toril, it also contained an [[Abeiran Underdark|Underdark]]<ref name="AtRDT-p4"/> (known as the [[Nardark]] to the local inhabitants).<ref name=":0"/> 
+
+For a time, [[Maztica]] was also part of this world as a consequence of the [[Spellplague]], but this landmass was returned to Toril during the [[Second Sundering]].<ref name="FRCG-p87">{{Cite book/Forgotten Realms Campaign Guide|87}}</ref><ref name="DMG5e-p68>{{Cite book/Dungeon Master's Guide 5th edition|68}}</ref><ref name="Volos">{{Cite book/Volo's Guide to Monsters|115}}</ref><ref name="D+11">{{Cite dragon+/11/Lore You Should Know: Tabaxi vs. tabaxi}}</ref>
+
+==Inhabitants==
+Abeir was inhabited primarily by primordials, [[dragon]]s, [[dragonborn]], [[dwarves]], [[genasi]], [[halfling]]s, [[human]]s, and a few other races that also inhabited Toril.<ref name="FRCG-p200"/><ref name="LFRMini1">{{Cite organized play/LFR/Stirring the Embers|52}}</ref> 
+
+[[Elves]] and other [[fey]] creatures were almost unheard of on Abeir,<ref name="FRCG-p200"/> although [[drow]] were known to inhabit its Underdark.<ref name="AtRDT-p4"/>
+
+Abeir was also inhabited by [[abomination]]s and other aberrant creatures from the [[Far Realm]], most of them the original inhabitants of [[Abeir-Toril]].<ref name="Sd-p54">{{Cite book/Stardeep|54-56}}</ref>
+
+==Languages==
+The people of Abeir primarily spoke the languages of [[Thorass]] and [[Aklave]].<ref name="GG.AL">{{Cite archive/Greenwood's Grotto/2023-09-16/Abeiran languages}}</ref>
+
+==Magic==
+[[Magic]] manifested differently on Abeir than in Toril, as there was no [[Weave]] and no normal way to contact any [[god]]s,<ref name="TDyK-p365-366">{{Cite book/The Devil You Know|365-366}}</ref> as gods were wary about this world.<ref name="TDyK-p355">{{Cite book/The Devil You Know|355}}</ref> Likewise, [[Cosmology|Planar]] magic (or at least planar magic that depended on the [[Nine Hells]]), such as that granted to [[warlock]]s by a pact, also worked differently and was more difficult to use than on Toril.<ref name="TDyK-p365-366"/>
+
+The only magic that worked normally on Abeir was that a creature could create on its own, such as the inherent [[elemental magic]] a primordial had in its body or a [[dragon breath|dragon's breath]].<ref name="TDyK-p365-366"/> [[Sorcerer]]s, especially those of a [[draconic bloodline]], were common among dragonborn.<ref name="Dra379-p73">{{Cite dragon/379/Displaced Lands and Dire Frontiers|73}}</ref> [[Swordmage]]s, on the other hand, were common among the genasi of Shyr.<ref name="Dra379-p69">{{Cite dragon/379/Displaced Lands and Dire Frontiers|69-70}}</ref><ref name="FRPG-p42">{{Cite book/Forgotten Realms Player's Guide|42}}</ref>
+
+Magic items also worked normally on Abeir, and Abeiran dragons usually scavenged primordial corpses in order to create powerful [[artifact]]s from their remains, such as the [[Breath of Petron]].<ref name="TDyK-p365-366"/>
+
+[[Psionics]] were also a type of magic that could be used on this world, however this kind of magic seemed to be as uncommon on Abeir as it was on Toril.<ref name="PsP-110">{{Cite book/Psionic Power|110}}</ref>
+
+Creating artificial [[portal]]s to Abeir was nearly impossible,<ref name="TDyK-p261">{{Cite book/The Devil You Know|261}}</ref> but a few natural portals connected Abeir and Toril.<ref name="AtRDT-p4"/>
+
+==History==
+After [[Ao]] sundered the world of Abeir-Toril, splitting it into the two twin planets, Abeir and Toril, he gave Abeir to the few primordials who survived the [[Dawn War]] to rule.<ref name="FRCG-p200"/><ref name="FRCG-p43">{{Cite book/Forgotten Realms Campaign Guide|43}}</ref> Those primordials were tired of war and were unable to overcome their dragon steeds when those rebelled against them, starting the conflict known as the [[War of Fang and Talon]].<ref name="Dra375">{{Cite dragon/375/Gontal: Dominions of Nehu|78}}</ref> After the war the few primordials who survived retreated into hiding and fell silent, and only a handful of dragon lords survived. Not long after, a mighty dragon called [[Gorloun]] founded the first dragon empire, and soon rival draconic realms sprang up thereafter, and the long [[Rule of Dragons]] began.<ref name="FRCG-p200"/> In the lands of the eastern continent Shyr, the despotic primordial [[Karshimis]] also created his own nation.<ref name="FRCG-p90">{{Cite book/Forgotten Realms Campaign Guide|90}}</ref> 
+
+These nations quarreled each other for ages, but draconic rule remained nearly unchallenged until the [[Spellplague|Blue Breath of Change]], when both worlds merged for a certain time.<ref name="FRCG-p200"/><ref name="FRCG-p43"/> Laerakond and other regions of Abeir were transported to Toril, and the fate of the remaining nations on the world of Abeir became a mystery to [[Faerûn]]ian sages.<ref name="FRCG-p200"/>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===References===
+{{refs}}
+===Connections===
+{{Realmspace}}
+[[Category:Locations in Realmspace]]
+[[Category:Locations]]
+[[Category:Satellites of the sun]]
+
+[[fr:Abeir]]

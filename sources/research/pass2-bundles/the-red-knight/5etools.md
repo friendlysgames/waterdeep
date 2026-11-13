@@ -1,0 +1,23 @@
+## The Red Knight | source FRHoF p.118 | pantheon Faerûnian
+- altNames: ['The Crimson General', 'The Grandmaster of the Lanceboard', 'The Lady of Strategy']
+- title: God of strategy
+- worshipers: Fighters, game players, strategists
+- plane: Arcadia (Buxenus)
+
+Where other war gods focus on the bravery, duty, or pain of battle, the Red Knight is concerned solely with the art of tactics. She is a god of planning and strategy. Her military genius allows her and her followers to see the greater picture in any war, rather than a series of battles won and lost.
+In spite of her calm and logical demeanor, the Lady of Strategy isn't without compassion. Faerûn's myths and legends depict her as a wise, daughter-like figure to the god Tempus, advising him in times of need. She aids mortal tacticians by fashioning boulders into red-veined {@creature Stone Golem|XMM|Stone Golems} shaped like lanceboard pieces, sending crimson {@b Pegasi} from the heavens above, or animating lanceboard pieces to demonstrate tactical maneuvers.
+Devotees of the Red Knight are rare in the general population. Her name is seldom invoked outside of battle, except perhaps in games of strategy such as lanceboard. High-ranking commanders of armies, instructors in colleges of war, quartermasters, and authors of tomes of tactics revere her.
+Worship of the Red Knight arose among a hero-venerating monastic order of Tempus in {@book Tethyr|FRHoF|2|Tethyr} shortly after the Time of Troubles. The Lady of Strategy visited these monks in a dream and delivered to them the Great Stratagem: an imperative to travel to places of warfare to educate generals and monarchs in the arts of strategy and battlefield tactics. Known as the Red Fellowship, her priests traveled throughout southwestern Faerûn sharing their wisdom. Many leaders they approached turned them away at first, but it soon became apparent that those who accepted the counsel of the Lady of Strategy gained a distinct tactical edge. Grateful victors built temples to the Red Knight, and gradually her faith spread. Today, her followers appear in nearly any land that has seen warfare in the past century. The Red Knight's greatest temples include an enchanted war table that visiting generals can rent out to visualize their tactics.
+The Red Knight's Chosen ride the god's crimson pegasi into combat. However, their most crucial work takes place in war rooms far from the front lines. These Chosen act as trusted advisers to powerful military forces in Faerûn, predicting their foes' next moves with eerie accuracy.
+
+## The Red Knight | source SCAG p.21 | pantheon Faerûnian
+- altNames: ['The Lady of Strategy', 'The Crimson General', 'The Grandmaster of the Lanceboard']
+- title: Goddess of strategy
+- alignment: ['L', 'N']
+- domains: ['War']
+- symbol: Red knight lanceboard piece with stars for eyes
+
+The Red Knight is the goddess of planning and strategy. Those who favor her call themselves the Red Fellowship. They believe wars are won by the best planning, strategy, and tactics. The worship of the Red Knight is filled with doctrine about strategy, such as: "Every war is a series of battles. Losing one doesn't mean losing the war." "In war, plan for peace. In peace, plan for war." "Seek allies among your enemy's enemies."
+Worship of the Red Knight arose among a hero-venerating monastic order of Tempus in Tethyr shortly after the Time of Troubles. The Red Knight has since grown in popularity because of what her followers call the Great Stratagem: for decades, her priests have been traveling to places of warfare to educate generals and kings in the arts of strategy and battlefield tactics. Many of the leaders they approached turned them away at first, but it soon became apparent that those who accepted the counsel of the Crimson General's followers gained a distinct benefit. Grateful victors built temples to the Lady of Strategy, and gradually her faith spread.
+Today, followers of the Red Knight can be found in nearly any land that has seen warfare in the past century. Worshipers of the Red Knight are rare in the general population, but those who revere her can frequently be found among high-ranking commanders of armies, instructors in colleges of war, quartermasters, and the authors of tomes of strategy. Each temple to the Red Knight includes an altar dedicated to Tempus, and so such a place is likely to be frequented by mercenaries and soldiers. A temple is surrounded by a vast pavilion and courtyard, which can be rented by companies of soldiers and mercenaries for practice and training. Her priests believe that drilling one's troops in a temple courtyard is a form of propitiation that the Red Knight looks upon with special favor.
+

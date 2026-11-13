@@ -1,0 +1,280 @@
+WIKI PAGE: Torm
+
+{{Deity
+| image               = File:Torm.jpg
+| caption             = Torm riding his [[gold dragon]] companion.
+| name                = Torm
+| title               = Torm the True<ref name="F&P-p74" /><ref name="HoF-p125">{{Cite book/Forgotten Realms: Heroes of Faerûn|125}}</ref><br/> The True Deity<ref name="F&P-p74" /><br/> The True God<ref name="FA-p162-165">{{Cite book/Faiths and Avatars|162-165}}</ref><br/> The Speaker of Truth<ref>{{cite web
+| url = https://twitter.com/TheEdVerse/status/1240132217118117894?ref_src=twsrc%5Etfw
+| title = The True God
+| accessdate = 2023-06-29
+| archiveurl =
+| archivedate =
+| author = [[Ed Greenwood]]
+| date = 2020-03-18
+| format = Tweet
+| work = [https://twitter.com/theedverse theedverse]
+| publisher = Twitter
+}}</ref><br/> The God of Duty<br/> The Loyal Fury<ref name="F&P-p74"/><ref name="SCAG-p39" /><ref name="HoF-p125"/><br/> The Hand of Righteousness<ref name="SCAG-p39">{{Cite book/Sword Coast Adventurer's Guide|39}}</ref><ref name="HoF-p125"/><br/> The Brave<ref name="FA-p162"/><br/> {{Derogatory}} The Fool<ref>{{Cite book/Prince of Lies}}</ref><br/> {{Derogatory}} The Foolish<ref name="F&P-p74" /><br />God of Guardians<ref name="ItV-p170">{{Cite book/Into the Void|170}}</ref>
+| adjective           = Tormish (worshipers)<br/>Tormtar (clergy)<ref name="FA-p165">{{Cite book/Faiths & Avatars|165}}</ref>
+| symbol              = 
+| aspects             = 
+| power               = [[Greater deity]]<ref name="FRCG-p77"/><br />[[Lesser deity]]<ref name="F&P-p74">{{Cite book/Faiths and Pantheons|74}}</ref><br />{{Former}} [[Demigod]]<ref name="F&P-p74"/>
+| pantheon            = [[Faerûnian pantheon]]
+| died                =[[Eleasis 13]], [[1358 DR]]<br />Resurrected by [[Ao]] on [[Marpenoth 15]], [[1358 DR]] 
+| dominion            = 
+| formerdominion      = 
+| realm               = 
+| sphere              = 
+| portfolio           = Duty<br />Loyalty<br />Obedience<br />Courage<br />Self-sacrifice
+| domains             = 
+| spheres             = 
+| worshipers          = 
+| cleric alignments   = 
+| favored weapon      = 
+| holy days           =The Divine Death; The True Resurrection; [[Shieldmeet]] 
+| channel divinity    = 
+| race                = 
+| gender              = Masculine
+| mortalhomes         = [[Chalsembyr]]
+| apotheosis          = 
+| alignment           = 
+| class               = 
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Mount Celestia]] ([[Mercuria]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Courage, self-sacrifice
+| domains5eR          = 
+| worshipers5eR       = Guardians, knights, [[Paladin]]s
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,125">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,125}}</ref>
+| power5e             = 
+| alignment5e         = [[Lawful Good]]
+| symbol5e            = White right gauntlet
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Courage, self-sacrifice, duty, loyalty
+| domains5e           = [[War domain|War]]
+| worshipers5e        = 
+| channel divinity5e  = ''[[Guided strike]]''<br />''[[War god's blessing]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="PHB5e-p294">{{Cite book/Player's Handbook 5th edition|63,294}}</ref><ref name="SCAG-p21">{{Cite book/Sword Coast Adventurer's Guide|21}}</ref><ref name="FRHoF-p125">{{Cite book/Forgotten Realms: Heroes of Faerûn|99, 125}}</ref>
+| power4e             = [[Greater deity]]
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = [[Celestia]]
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = [[Bahamut]], [[Ilmater]]
+| sphere4e            = 
+| domains4e           = [[Civilization domain|Civilization]], [[Justice domain|Justice]], [[Protection domain|Protection]], [[Torm domain|Torm]]
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = ''[[Torm's justice]]''<br/><small>'''Torm domain:'''</small> ''[[Outmaneuver]]''
+| holy days4e         = The Divine Death ([[Eleasis 13]]); The True Resurrection ([[Marpenoth 15]])
+| class4e             = 
+| refs4e              = <ref name="FRCG-p62">{{Cite book/Forgotten Realms Campaign Guide|62}}</ref><ref name="FRCG-p80">{{Cite book/Forgotten Realms Campaign Guide|80}}</ref><ref name="DR381-p92"/><ref name="FRCG-p77">{{Cite book/Forgotten Realms Campaign Guide|77}}</ref><ref name="Dragon378-32">{{Cite dragon/Domains in Eberron and the Forgotten Realms|32}}</ref><ref name="NCS-p63">{{Cite book/Neverwinter Campaign Setting|63}}</ref><ref name="FRPG-p153">{{Cite book/Forgotten Realms Player's Guide|158}}</ref>
+| power3e             = [[Lesser deity]]
+| alignment3e         = [[Lawful good]]
+| symbol3e            = Right-hand gauntlet held upright with palm forward (Hand Resolute)
+| homeplane3e         = [[House of the Triad]]
+| realm3e             = 
+| serves3e            = [[Tyr]]
+| servedby3e          = 
+| portfolio3e         = Duty, loyalty, obedience, [[paladin]]s
+| domains3e           = [[Good domain|Good]], [[Healing domain|Healing]], [[Law domain|Law]], [[Pride domain|Pride]], [[Protection domain|Protection]], [[Strength domain|Strength]], [[Zeal domain|Zeal]]
+| mantles3e           = {{Mantles|Good|Guardian|Law|Physical Power}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = Good [[fighters]] and warriors, guardians, heroes, knights, loyal courtiers, paladins
+| cleric alignments3e = {{alignment grid|on|on|off|on|off|off|off|off|off}}
+| favored weapon3e    = ''[[Duty's Bond]]'' ([[greatsword]])
+| holy days3e         = The Divine Death ([[Eleasis 13]]); The True Resurrection ([[Marpenoth 15]])
+| class3e             = {{class table|edition=3e|[[Paladin]]|20|[[Fighter]]|20|[[Cleric]]|10}}
+| refs3e              = <ref name="F&P-p74-77">{{Cite book/Faiths and Pantheons|74-77}}</ref><ref name="FRCS-235">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|235}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref><ref name="D355-26">{{Cite dragon/355/Seven Saintly Domains|26}}</ref>
+| power2e             = [[Lesser deity]]
+| alignment2e         = [[Lawful good]]
+| symbol2e            = A right-hand metal gauntlet held upright, palm open and toward the viewer (Hand Resolute); or a silver or gray metal shield bearing the open-handed gauntlet device with three black arrows embedded in the shield
+| homeplane2e         = [[Mount Celestia]]/[[Mercuria]]
+| realm2e             = [[Trueheart]]
+| serves2e            = [[Tyr]]
+| servedby2e          = 
+| portfolio2e         = Duty, loyalty, obedience, paladins
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = {{alignment grid|on|on|off|on|off|off|off|off|off}}
+| holy days2e         = The Divine Death ([[Eleasis 13]]); The True Resurrection ([[Marpenoth 15]])
+| class2e             = {{class table|edition=2e|[[Paladin]]|30|[[Crusader]]|30}}
+| refs2e              = <ref name="FA-p162">{{cite book/Faiths and Avatars|162-165}}</ref>
+| power1e             = 
+| alignment1e         = 
+| symbol1e            = 
+| homeplane1e         = 
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = 
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = 
+| animals             =[[Lion|Golden lions]]<ref name="FRHoF-p125"/> 
+| plants              =[[Rose|Pure white roses]] 
+| monsters            =[[Gold dragon|Gold dragons]]<br>[[Silver dragon|Silver dragons]]<br>[[Lammasu|Lammasus]]<br>[[Pegasus|Pegasi]] 
+| minerals            =[[Diamond|White diamond]] 
+| colors              =[[Steel]] 
+| misc manifestations =12-foot-tall flying metal [[gauntlet]] with a white aura and arcs of lightning<ref name="FRHoF-p125"/><br>[[Animated object|Animated weapons]]<br>Images burned into fabric (usually a gauntlet, [[shield]], or [[sword]]) 
+| manifestation refs  =<ref name="DD&D-p14">{{Cite web enhancement/Deity Do's and Don'ts|14}}</ref><ref name="FRHoF-p125"/> 
+| usethe              = 
+| church              = yes
+| temples             = yes
+|serves=[[Tyr]]}}
+'''Torm''' ({{Pronounce|TORM|refs=<ref name="FRCS-235"/><ref name="F&P-p74" />}}) was the [[Faerûnian pantheon|Faerûnian]] patron [[deity]] of [[paladin]]s and the god of duty, loyalty,<ref name="SCAG-p39" /> righteousness, obedience and,<ref name="F&P-p74" /> after the [[Spellplague]], law<ref name="DR381-p92">{{Cite dragon/381/Channel Divinity: Champions of Torm|92}}</ref> and valor.<ref>{{Cite book/Shadowbane: Eye of Justice|?}}</ref> By the late 15<sup>th</sup> and early 16<sup>th</sup> century [[DR]], Torm was the [[War domain|war]] god of courage and self-sacrifice.<ref name="PHB5e-p294" /><ref name="FRHoF-p125"/>
+
+{{quote
+|Men call me Torm the True because I value loyalty above all else. They call me Torm the Brave because I will face any danger to prove my respect of duty. Any who would call himself my follower must do the same.
+|Torm.<ref name="PoL0">{{Cite book/Prince of Lies|chapter=0}}</ref>
+}}
+
+==Description==
+{{quote
+|The Hand of Righteousness, the Loyal Fury, Torm the True
+|Torm's [[1501 DR]] epithet.<ref name="FRHoF-p125"/>
+}}
+
+[[File:The Triad.jpg|left|thumb|[[The Triad]], Torm on the right.]]
+Torm could appear as a {{SIAdj|12|ft|long=yes}} tall man in full, ancient [[plate mail]] stained dusky purple, usually without a helm<ref name="FA-p163" /> but sometimes with a helm. The elbows and knees jutted bone spikes carved from the first evil dragon slain in his name.<ref name="PoL0" /> Sometimes his form was that of a blond, handsome young man, while at others he was an aging warrior with grey-white hair, though he often shapeshifted into a [[lion]]-headed man when entering combat. No matter his form, he seemed stern in voice and manner, with dauntless courage set in his square jaw and righteous light flashing from his striking, deep blue eyes.<ref name="FA-p163" />
+
+==Personality==
+Torm's apparent demeanor seemed slightly different based on his current persona. In his younger form he had incredible charisma and self-confidence combined with quiet enthusiasm, while his older one seemed to have endured uncountable evils without being broken. In any case he possessed an eternal calm, and all his avatars were completely fearless.<ref name="FA-p163" /> He was kind and gentle to faithful friends, the weak, and the defenseless. However, against the forces of evil and injustice, he was stern and righteous. When he made his will known, Torm would send a golden [[lion]], but extreme cases had a gleaming [[List of armor|armor]] clad [[deva]] appear instead.<ref name="FRHoF-p125"/>
+
+==Divine Realm==
+Torm's [[divine realm]] was called Trueheart. In the [[Great Wheel cosmology]], it was located in [[Mercuria]], the second of the [[Seven Heavens]].<ref name="FA-p162"/><ref>{{Cite book/Planescape Campaign Setting/Map: Planescape Cosmographical Tables}}</ref><ref name="FRHoF-p125"/>
+
+==Relationships==
+Torm greatly revered [[Tyr]], seeing him as his spiritual father.<ref name="DR381-p92"/> He was also a staunch ally of [[Ilmater]].<ref name="F&P-p74" />
+
+Torm had a friendship with [[Helm]] prior to the latter's death in 1384 DR, though the two deities' priesthoods were cold to one another.<ref name="F&P-p74" /><ref name="DR381-p91">{{Cite dragon/381/Channel Divinity: Champions of Torm|91}}</ref>
+
+It was well known that he and the [[Red Knight]] were fond of one another, but whether the two were friends or lovers was something the duo kept to themselves.<ref>{{Cite book/Powers & Pantheons|44}}</ref><ref name="FRHoF-p125"/>
+
+Torm was also good friends with [[Lathander]] and [[Amaunator]], the latter even earning great respect from the Loyal Fury.<ref name="DR381-p92"/><ref name="FRHoF-p125"/>
+
+Torm was also a comrade of the dragon god [[Bahamut]], who was also a servant deity to him, much like a knight.<ref name="DR381-p92"/> Both gods had battled side-by-side against evil gods and devils on many occasions.<ref name="Whisper of Venom">{{Cite book/Whisper of Venom|135}}</ref>
+
+Torm had many enemies amongst the foul deities, chief among them [[Bane]] and [[Shar]]. He held especial enmity for [[Cyric]], as he saw how the dark god had greatly damaged Tyr.<ref name="DR381-p92"/> 
+
+===The Triad===
+{{main|The Triad}}
+Torm was one of the three deities of similar interests known as the Triad, along with Ilmater and Tyr. It was often said by common folk that Torm was the weakest of the three in his subservient role, but the role he played was of true importance: he acted as the nexus that held the three together. Torm tempered Tyr's zeal for justice with his gifts of mercy and humility.<ref name="FA-p162"/> 
+
+After the death of Tyr, Torm became the new leader of the Triad when he took the seat of the master of [[Celestia]]. In this "new" Triad, Bahamut took the role of the god of justice in place of Tyr, while Ilmater became the god of mercy, and Torm the god of law, acting as a point of balance between the other two gods.<ref name="DR381-p92">{{Cite dragon/381/Channel Divinity: Champions of Torm|92}}</ref>
+
+==Symbol==
+[[File:Torm symbol.jpg|thumb|''(1372 DR) The holy symbol of Torm.'']]The symbol of the '''Loyal Fury''', a right-hand gauntlet held upright with palm extended forward, was known as the Hand Resolute among his followers. It symbolized not only that Torm was the good right hand of [[Tyr]], representing the God of Justice's missing sword hand, but also the principle of forbearance. The Hand Resolute signified the principle that the just and true had to pause before acting to consider their actions first so as to ensure their intent would uphold the chivalric ideals Torm exemplified.<ref name="F&P-p74" /><ref name="SCAG-p39" /> Another symbol of the '''Loyal Fury''' was a silver or gray metal shield bearing the Hand Resolute with three black arrows embedded in the shield.<ref name="FA-p162" /> By [[1489 DR]] and [[1501 DR]], the symbol was a white right gauntlet.<ref name="PHB5e-p294" /><ref name="FRHoF-p125"/><ref name="FRHoF-p167">{{Cite book/Forgotten Realms: Heroes of Faerûn|167}}</ref>[[File:Tormsymbol.png|thumb|''(1489 DR) Another holy symbol of Torm or, in other words, a gauntlet.''<ref name="SCAG-p39" />|left]]
+
+==Worshipers==
+[[File:Half-orc PHB5e.jpg|thumb|250px|''A half-orc Tormtar paladin.'']]
+[[File:Ontharr Frume.jpg|thumb|313x313px|''[[Ontharr Frume]], a paladin of Torm in the 1480s DR during the quest of the [[Tyranny of Dragons]].'']]
+[[File:Paladin PHB5e.jpg|thumb|334x334px|''A human Tormtar paladin.'']]
+:{{Main|Church of Torm}}
+Known as Tormtar, Torm's worshipers consisted mainly of humans who favored the causes of both good and law. Righteousness, honesty, loyalty and truth were their primary pursuits. After the Time of Troubles, the number of [[dwarf|dwarven]] and [[elf|elvish]] members was increasing.<ref name="FA-p163" /> In the post-Spellplague world, which was more dangerous and darker than ever, Torm's followers shone as beacons of hope and courage.<ref name="DR381-p93">{{Cite dragon/381/Channel Divinity: Champions of Torm|93-94}}</ref> They strived to maintain order and peace, but also opposed unjust laws and were vigilant against corruption even if they risked their position in society as a result.<ref name="FRHoF-p125"/>
+
+By [[1501 DR]], the typical worshippers were [[Fighter|guardians]], [[Knight|knights]], and [[Paladin|paladins]].<ref name="FRHoF-p125"/>
+
+To atone for their failings and sins during the [[Time of Troubles]], the Tormtar had to undertake various obligations and responsibilities called the [[Church of Torm#Penance of Duty|Penance of Duty]]. To fulfill the Debt of Persecution, they had to aid the faithful of good gods whom they'd persecuted, such as by guarding their temples or helping them become re-established. In addition, they had to fulfill the Debt of Dereliction by expending every resource possible to eliminate cults of [[Cyric]] and [[Bane]], and the Debt of Destruction, by locating and recording areas of [[Dead-magic zone|dead]] and [[wild magic]] and repairing the [[Weave]].<ref name="FA-164">{{Cite book/Faiths & Avatars|164}}</ref><ref name="FA-p162"/><ref name="FRHoF-p125"/> Torm required the following:<ref name="FRPG-p153" />
+* Respect and enforce the law, and honor your traditions.<ref name="FRPG-p153" />
+* Demonstrate truthfulness, loyalty, and steadfast devotion to a rightful cause.<ref name="FRPG-p153" />
+* Do not flinch in the execution of your duty, no matter what the consequence.<ref name="FRPG-p153" />
+
+===Orders===
+* [[Order of the Golden Lion]]: High Cleric [[Barriltar Bhandraddon]] served as Torm's pontiff and ruled from the [[Temple of Torm's Coming]] in [[Tantras]]. From this place, the pontiff extended Torm's reach and worship by sponsoring knightly orders across the continent, including the Order of the Golden Lion. They wore a pair of golden lion's head pauldrons. They in particular performed the Penance of Duty as continued atonement for the Tormtar priests' dark actions during the Time of Troubles.<ref name="FaP-75">{{Cite book/Faiths and Pantheons|75}}</ref><ref name="FA-165">{{Cite book/Faiths & Avatars|165}}</ref><ref name="FRHoF-p125"/>
+* [[Eye of Justice]]: This order, based in [[Westgate]], was considered heretical by many Tormites in the 14<sup>th</sup> century DR. The Order worshiped a form of Torm they referred to as the "[[Heresy of the Threefold God|Threefold God]]", which they believed to be a combination of Torm and the dead gods Tyr and Helm. Members of this sect had no pity or fear and often used tactics some would consider questionable. The Order attracted outcasts from other orders as well as people seeking redemption for evil acts.<ref name="DR381-p93"/>
+* [[Girded Healers]]: Members of this order worshiped both Torm and Ilmater. The primary purpose of this order was to heal those touched by war or the Spellplague.<ref name="DR381-p93"/>
+
+==History==
+The origins of Torm were a mystery, although it was known he was once a mortal hero during the time of the fall of [[Netheril]], who eventually became a [[demigod]]. Many scholars believed that the mortal Torm lived in a nation on the [[Border Kingdoms]] known as [[Chalsembyr]].<ref name="F&P-p74" /> In life, Torm was the most faithful of warriors and obeyed all the commands of his king regardless of personal danger.<ref name="FA-p162" /> At some point before the {{YearlinkName|-238}}, Torm joined the forces of the god [[Tyr]], who at the time was carrying over his [[Procession of Justice]], as his war leader. Eventually, the alliance of Torm, Tyr, and [[Ilmater]], another ally of Tyr, became known as [[the Triad]].<ref name="F&P-p80">{{Cite book/Faiths and Pantheons|80}}</ref>
+
+[[File:Bane v Torm.png|left|thumb|''Bane versus Torm.'']]
+Torm gained considerable attention and praise during the [[Time of Troubles]], when his faithful helped keep one of the missing [[Tablets of Fate]] safe, and his own avatar battled and completely destroyed the avatar of [[Bane]] outside Tantras on [[Eleasis 13]] in the {{YearlinkName|1358}}, seemingly killing the god who had already been weakened by [[Mystra]] and her servant [[Elminster]].<ref name="F&P-p74">{{Cite book/Faiths and Pantheons|74}}</ref><ref name="GHotR-p142">{{Cite book/The Grand History of the Realms|142, 144}}</ref> Torm knew he did not have enough power to defeat Bane, so he chose to absorb the souls of his worshipers in Tantras knowing that they would be instantly killed. The transferring of souls was done voluntarily and took thousands of lives, but Torm chose to spare children aged 14 and below. These individuals became known as the [[Martyr's Progeny]].<ref name="F&P-p74" />
+
+Torm died in that battle, but because of his loyalty to his portfolio, Lord [[Ao]] resurrected Torm shortly after the end of the Time of Troubles<ref name="FA-p163">{{cite book/Faiths and Avatars|163}}</ref> and Tyr raised him to the status of lesser deity.<ref name="F&P-p74">{{Cite book/Faiths and Pantheons|74}}</ref> In response to his misguided followers' failing, Torm dictated their "debts" of Persecution, Dereliction and Destruction. These "debts" were known as the [[Church of Torm#Penance of Duty|Penance of Duty]].<ref name="FA-164" /> 
+
+In the {{YearlinkName|1384}}, the dark god [[Cyric]] manipulated Tyr to battle [[Helm]], god of guardians, over a misunderstanding. Tyr won, and Helm died.<ref name="DR381-p91">{{Cite dragon/381/Channel Divinity: Champions of Torm|91}}</ref> This divided the Triad, as Ilmater chose to leave their shared [[plane]], the House of the Triad, to live with the goddess [[Sune]] in [[Brightwater]].<ref name="GHotR-p159">{{Cite book/The Grand History of the Realms|159}}</ref> Crushed by grief and shame, Tyr abdicated his godhood and granted Torm all his divine power. Tyr counseled all of his followers to offer their allegiance to Torm.<ref name="DR381-p91"/><ref name="TCM-241">{{Cite book/The Crystal Mountain/MMP|241}}</ref> This was partially recorded by Helm's sword, ''[[Ever Watchful]]'', which eventually fell into the hands of [[Gedrin Thalavar|certain]] [[Kalen Dren|mortals]]. The misunderstanding established the [[Heresy of the Threefold God]] about Helm, Tyr, and Torm that lasted until the late 15{{th}} century [[DR]].<ref>{{Cite book/Downshadow|?}}</ref>
+
+In the {{YearlinkName|1385}}, after the Spellplague had wreaked havoc in the planes, a group of [[demon]]s led by the [[balor]] lord [[Axithar]] invaded the House of the Triad, and when Tyr and Torm sent calls for help, the [[dragon]] god [[Bahamut]] answered by sending his legions to aid in destroying the demons.<ref name="TCM-p184, 193-194">{{Cite book/The Crystal Mountain/MMP|184, 193-194}}</ref> However, Tyr died while defending the celestial planes during the ensuing battle.<ref name="DR381-p91"/><ref name="FRCG-p77">{{Cite book/Forgotten Realms Campaign Guide|77}}</ref>
+
+Afterwards, Torm became the chief deity of the Triad and promoted Bahamut to the same position he once occupied while serving Tyr, and Ilmater joined his fellow god once again.<ref name="DR381-p92"/> The three gods moved to the plane of Celestia<ref name="FRCG-p62"/> and re-purposed the role of the Triad in the Realms.<ref name="DR381-p92"/>
+
+Tyr managed to return to life during the event known as the [[Second Sundering]], in the [[1480]]s DR.<ref name="SCAG">{{Cite book/Sword Coast Adventurer's Guide|51}}</ref> With his revival, Torm seemingly returned to his position as Tyr's right hand<ref name="SCAG-p39" /> as the god of courage and self-sacrifice.<ref name="PHB5e-p294" />
+
+==Rumors and Legends==
+A group of hundreds of thousands of humanoid creatures of all types called [[the Wanderers]] walked eternally in formation across the inner surface of the [[Realmspace]] [[crystal sphere]], and their constant chant allowed the opening of portals used by [[spelljammer]]s. According to legend, they were exceptionally evil individuals sentenced at their death to this fate by the gods. Torm seemed to be responsible for their existence and to play an important role in this process, as each of the Wanderers wore his symbol on their palm.<ref>{{Cite book/Realmspace|4,77}}</ref>
+
+==Appendix==
+{{Incomplete|}}
+===Appearances===
+{{Appearances
+| adventures          = ''[[Tantras (adventure)|Tantras]]''
+| adventure refs      = 
+| novels              = ''[[Tantras (novel)|Tantras]]'';''[[Waterdeep (novel)|Waterdeep]]'';''[[Prince of Lies (novel)|Prince of Lies]]'';''[[Crucible: The Trial of Cyric the Mad]]''
+| novel refs          = 
+| films               = 
+| film refs           = ''[[Dungeons & Dragons: The Queen's Cradle|The Queen's Cradle]]''
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = 
+| video game refs     = 
+| board games         = 
+| board game refs     = 
+| card games          = ''[[Spellfire: Master the Magic]]''
+| card game refs      = 
+| miniatures          = 
+| miniature refs      = ''[[Dungeons & Dragons Miniatures]]''
+| organized play      = 
+| organized play refs = 
+}}
+
+===References===
+{{refs}}
+===Connections===
+{{Faerûnian pantheon}}
+{{Deity list}}
+[[Category:Paladins]]
+[[Category:Faerûnian pantheon]]
+[[Category:The Triad]]
+[[Category:Human deities]]
+[[Category:Formerly mortal deities]]
+[[Category:Lesser deities]]
+[[Category:Intermediate deities]]
+[[Category:Greater deities]]
+[[Category:Civilization domain deities]]
+[[Category:Good domain deities]]
+[[Category:Healing domain deities]]
+[[Category:Justice domain deities]]
+[[Category:Law domain deities]]
+[[Category:Pride domain deities]]
+[[Category:Protection domain deities]]
+[[Category:Strength domain deities]]
+[[Category:War domain deities]]
+[[Category:Zeal domain deities]]
+[[Category:Lawful good deities]]
+[[Category:Demipowers]]
+[[Category:Inhabitants of Mercuria]]
+[[Category:Inhabitants of Mount Celestia]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the House of the Triad]]
+[[Category:Inhabitants of the Celestial planes]]
+[[Category:Inhabitants of the World Tree planes]]

@@ -1,0 +1,227 @@
+WIKI PAGE: Talos
+
+{{Deity
+| image               = Talos.jpg
+| caption             = Talos, the Storm Lord.
+| name                = Talos
+| title               = 
+The Destroyer<ref name="HoF-p123">{{Cite book/Forgotten Realms: Heroes of Faerûn|123}}</ref><ref name="SCAG5e-p21,38" /><ref name="FRCS-252">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|252}}</ref><br /> The Storm Lord<ref name="HoF-p123"/><ref name="SCAG5e-p21,38" /><ref name="FRCS-252"/><br /> The Stormstar<ref name="nem-wn-42-45" /><br /> The Raging One<ref name="HoF-p123"/><ref name="nem-wn-42-45" /><br /> The Wildfire<ref name="nem-wn-42-45" />
+| adjective           = Talassan<ref name="FA-p157">{{Cite book/Faiths & Avatars|157}}</ref><br/>Talosian<ref name="VR-p26">{{Cite book/The Vilhon Reach/Player's Guide|26}}</ref>
+| aspects             = Bhaelros ([[Calimshan]])<ref name="HoF-p123"/><ref name="F&A"/><br/>Kozah ([[Netheril]], [[Bedine]])<ref name="F&A"/><ref name="nem-wn-42-45">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|42-45}}</ref><br/>[[Malyk (demipower)|Malyk]] ([[Underdark]])<ref name="F&A"/>
+| pantheon            = [[Faerûnian pantheon]]
+| race                = 
+| gender              = Masculine
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Pandemonium]] ([[Pandesmos]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = [[Auril]], [[Malar]], [[Umberlee]]
+| portfolio5eR        = Storms, forest fires, earthquakes, tornadoes, destruction
+| domains5eR          = 
+| worshipers5eR       = [[Barbarian]]s, [[Druid]]s, raiders
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,123">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,123}}</ref>
+| power5e             = 
+| alignment5e         = [[Chaotic evil]]
+| symbol5e            = Three lightning bolts radiating from a point
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Storms, forest fires, earthquakes, tornadoes, destruction
+| domains5e           = [[Tempest domain|Tempest]]
+| worshipers5e        = Ravagers, raiders, looters, brigands
+| channel divinity5e  = ''[[Destructive wrath]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG5e-p21,38">{{Cite book/Sword Coast Adventurer's Guide|21,38}}</ref><ref name="PHB5e-p62">{{Cite book/Player's Handbook 5th edition|62}}</ref>
+| power4e             = 
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = 
+| power3e             = [[Greater deity]]
+| alignment3e         = [[Chaotic evil]]
+| symbol3e            = An explosive lightning strike
+| homeplane3e         = [[Fury's Heart]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Conflagration <br /> Destruction <br /> Earthquakes <br /> Rebellion <br /> Storms <br /> Vortices
+| domains3e           = [[Chaos domain|Chaos]], [[Destruction domain|Destruction]], [[Evil domain|Evil]], [[Fire domain|Fire]], [[Storm domain|Storms]], [[Wrath domain|Wrath]]
+| mantles3e           = {{Mantles|Chaos|Destruction|Evil|Natural World}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = [[Barbarians]], [[druids]], [[fighters]], [[half-orcs]], those who fear the destructive power of nature
+| cleric alignments3e = {{alignment grid|off|off|off|off|off|on|off|on|on}}
+| favored weapon3e    = A lightning bolt ([[longspear]], [[shortspear]], or [[spear|halfspear]])
+| holy days3e         = 
+| class3e             = {{Class table|edition=3e|[[Barbarian]]|20|[[Wizard]] ([[Evoker]])|20}}
+| refs3e              = <ref name="FRCS-234">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|234-235}}</ref><ref name="FaP-p68"/><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref>
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Chaotic evil]]
+| symbol2e            = Three bolts of lightinig of different colors, radiating from one point
+| homeplane2e         = [[Pandemonium]]/[[Pandesmos]]
+| realm2e             = [[Towers of Ruin]]
+| serves2e            = 
+| servedby2e          = 
+| portfolio2e         = 
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = {{Class table|edition=2e|[[Fighter]]|37|[[Wizard]]|27|[[Cleric]]|15}}
+| refs2e              = <ref name="F&A">{{Cite book/Faiths & Avatars|155}}</ref>
+| power1e             = 
+| alignment1e         = 
+| symbol1e            = 
+| homeplane1e         = 
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = 
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = 
+| animals             = 
+| plants              = 
+| monsters            = [[quasit]]s<br />[[vargouille]]s<br />[[yeth hound]]s
+| minerals            = 
+| colors              = black, gold, silver
+| misc manifestations = Bellowing laughter in the heart of strong wings,<br />Pair of fist-sized storm clouds with lightning and thunder,<br />Red lightning
+| manifestation refs  = <ref name="HoF-p123"/><ref name="DD&D-p14">{{Cite web enhancement/Deity Do's and Don'ts|14}}</ref>
+| church              = yes
+}}
+'''Talos''' ({{Pronounce|TAHL|os|refs=<ref>{{Cite book/Forgotten Realms Campaign Setting 3rd edition|252}}</ref><ref name="FaP-p68"/>}}), known long ago as '''Kozah''', was the [[Faerûnian]] [[greater deity]] of storms and destruction. The '''Storm Lord''' was the destructive force of nature and leader of the [[Gods of Fury]] whose self-serving dogma demanded utter obedience from his priests, instructing them to spread destruction where they might.<ref name="FaP-p68" /><ref name="F&A" />
+
+Among the [[Bedine]] of [[Anauroch]], who descended from the citizens of Netheril, Talos was still known as Kozah by the 14{{th}} century [[DR]].<ref name="FaP-p68">{{Cite book/Faiths and Pantheons|68-71}}</ref> In [[Calimshan]] and [[Airspur (Chessenta)]], he was worshiped as '''Bhaelros'''<ref name="F&A" /><ref name="OE58">{{Cite book/Old Empires|58}}</ref> and in the [[Underdark]], he had an aspect with a small following as '''[[Malyk (demipower)|Malyk]]''', a god of [[wild magic]].<ref name="F&A" />  After the [[Spellplague]], many came to believe that Talos was, in fact, an [[aspect]] of the [[orc]]ish god [[Gruumsh]],<ref name="DFR">{{Cite dragon/378/Domains in Eberron and the Forgotten Realms|36-37}}</ref> but after the [[Second Sundering]] the two deities seemed more distinct.<ref name="SCAG-21,24,38,118">{{Cite book/Sword Coast Adventurer's Guide|21, 24, 38, 118}}</ref>
+
+{{quote
+|Talos can see nothing but a world that must be destroyed.
+|[[Mystra]].<ref name="PoL7">{{Cite book/Prince of Lies|chapter=7}}</ref>
+}}
+==Description==
+Talos appeared as a broad-shouldered, bearded man with one good eye. He wore [[half-plate armor]] over black [[leather armor|leather]] and black leather gloves. His empty eye socket was filled with whirling stars and covered with a dark eye patch.<ref name="F&A" /><ref name="FaP-p68" /> When he appeared in [[Calimshan]], he often took the form of a dusky-skinned, turbaned [[genie]] rising out of a sandstorm.<ref name="F&A" /><ref name="FaP-p68" />
+
+==Personality==
+Talos was violent, angry, short-tempered, impulsive, and frequently motivated by his fury.<ref name="F&A" /><ref name="FaP-p68" /><ref name="FRCS-252" /> He could be roused to raging destruction by the smallest offences and hold onto a grudge for centuries after the slight.<ref name="OHG-171">{{Cite book/On Hallowed Ground|171}}</ref> His actions often seemed petty and vengeful, and indeed they were.<ref name="F&A" /><ref name="FaP-p68" /> He reveled in chaos and exulted in unrestrained devastation, causing ruin for the pure joy of it.<ref name="F&A" /><ref name="FaP-p68" /><ref name="FRCS-252" /><ref name="OHG-171" />
+
+Talos was in many ways a bully without boundaries, comparable to a malicious, spoiled child in his motivation.<ref name="F&A" /><ref name="FaP-p68" /><ref name="OHG-171" /><ref name="FRCS-252" /> He was often driven to act out of the fear of looking weak or compromising to anyone,<ref name="FRCS-252" /> and reinforced his sense of self-worth time and time again by raining havoc and crushing beneath his might those too weak to stop him.<ref name="F&A" /><ref name="FaP-p68" /><ref name="OHG-170" >{{Cite book/On Hallowed Ground|170}}</ref><ref name="FRCS-252" /> He relished seeing what he or his followers could burn, flood, break, kill, or otherwise tear down.<ref name="F&A" /> His entire reason for existing was to prove, to mortals, gods, and himself that there was nothing that could be built that he couldn't destroy.<ref name="F&A" /><ref name="FaP-p68" /><ref name="OHG-171" /><ref name="FRCS-252" />
+
+==Divine Realm==
+Talos' [[divine realm]] was named the [[Towers of Ruin]], the Screaming Towers, or the Towers at the Heart of the Winds, as it was always surrounded by a mighty howling whirlwind. It was located in [[Pandesmos]], the topmost layer of [[Pandemonium]] in the [[Great Wheel cosmology]].<ref name="F&A" />
+
+==Relationships==
+===Allies===
+Talos was the leader of the Gods of Fury, a collection of deities including [[Auril]], [[Umberlee]], [[Malar]], and himself, that he brought together through sheer force and which he kept together under his tight control.<ref name="OHG-171" />
+
+Talos's relationship with Auril was allegedly close and cordial, as her ethos matched his, yet Talos had no compunction about attempting to erode her power and usurp her portfolio whenever possible.<ref name="F&A" /><ref name="FA-p30">{{Cite book/Faiths & Avatars|30}}</ref> Given his success in this department, Auril had made winters colder to remind them who still controlled the power of the cold itself. She also usually only called Umberlee for help, since Talos, despite usually responding, would hog all the glory and worship afterwards.<ref name="FA-p30" />
+
+Talos's relationship with Umberlee was simultaneously flirtatious and competitive.<ref name="F&A" /> Like with Auril, he had been encroaching upon her portfolio, trying to pick up violent nature in all its forms as his own. Though she might flirt with him on occasion, Umberlee would gladly kill him and become the sole deity of destruction herself if she could. Given her inability to directly affect the land and relative weakness however, she simply bided her time trying to distract him with romantic intrigues and instructing her priests to kill those who would ascribe the storms of the sea and shore to him.<ref name="FA-p173">{{Cite book/Faiths & Avatars|173}}</ref><ref name="FRCS-254">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|254}}</ref>
+
+Of the Gods of Fury, Talos's worst relationship was with Malar. They cooperated only grudgingly and the Beastlord would happily kill him if he had the power to.<ref name="F&A" /> Unfortunately for him, Talos's growing strength had left him weakened after the Time of Troubles.<ref name="FA-p105">{{Cite book/Faiths & Avatars|105}}</ref>
+
+Talos had recently attempted to court the affections of Beshaba, goddess of bad luck, perhaps with the goal of eventually controlling misfortune as well as destruction.<ref name="FA-p42">{{Cite book/Faiths & Avatars|42}}</ref> Whether or not this was the goal, this was how Beshaba saw it, and as such she spurned his overtures.<ref name="FaP-p 92">{{Cite book/Faiths and Pantheons|92}}</ref>
+
+Talos has a history of elevating powerful mortals to divinity and then forcing them to deplete themselves in his service. Such an example could be found in the [[necromancer]] god [[Velsharoon]], although this led to him abandoning Talos in favor of [[Azuth]]. In reality however, Velsharoon was still working with Talos, simply trying to play the Archwizard and Storm Lord off of each other. As part of this secret alliance of convenience, Velsharoon encouraged his followers to unleash their horrific creations upon the world, though Talos just seemed to be biding his time until the [[Lich]] Lord got his comeuppance.<ref name="FRCS-252" /><ref name="F&A" /><ref name="P&P-p76">{{Cite book/Powers & Pantheons|76}}</ref>
+
+===Enemies===
+Talos had no shortage of enemies; he hated deities that promoting learning, building, and nature, and had a particular hatred of anyone, mortal or divine, who would attempt to persistently or broadly change the weather.<ref name="FRCS-252" /><ref name="F&A" />
+
+[[Chauntea]] opposed deities of destruction and untimely death, especially Talos and his Gods of Fury,<ref name="FRCS-239">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|239}}</ref> but even the more hard-hearted [[Silvanus]] also hated him. Though he recognized the role that natural disasters played in [[the Balance]], Talos cared nothing for the natural order and was merely indulging his most destructive impulses,<ref name="FaP-p 63">{{Cite book/Faiths and Pantheons|63}}</ref> hence why his priests referred to Talos and similar deities as "the Unbalanced".<ref name="FA-p145">{{Cite book/Faiths & Avatars|145}}</ref> [[Mielikki]] was also particularly opposed to him (as she was towards Malar and [[Talona]]),<ref name="FaP-p48">{{Cite book/Faiths and Pantheons|48}}</ref> and [[Shiallia]] opposed him since he sought to destroy the woodlands she was sworn to protect.<ref name="FaP-p 106">{{Cite book/Faiths and Pantheons|106}}</ref> [[Eldath]], the pacifistic Mother Guardian of Groves, was also among his enemies.<ref name="F&A" />
+
+On the side of civilization, [[Oghma]] and [[Deneir]] opposed Talos for his destruction of knowledge,<ref name="FRCS-248">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|248}}</ref> with Deneir in particular, him being the god of written information, filled with rage towards him and the Gods of Fury despite his usual calm.<ref name="FaP-p93">{{Cite book/Faiths and Pantheons|93}}</ref> Talos was the only true foe of [[Gond]], for he not only threatened to destroy his inventions, but also usurp his dominion over destructive devices.<ref name="FaP-p26">{{Cite book/Faiths and Pantheons|26}}</ref> [[Tyr]] fiercely opposed deities of evil and lawlessness in general, but Talos was among those who has his particular enmity.<ref name="FaP-p80">{{Cite book/Faiths and Pantheons|80}}</ref> [[Helm]] had to combat his destructive impulses at every turn,<ref name="FaP-p28">{{Cite book/Faiths and Pantheons|28}}</ref> and [[Savras]] simply disliked his pointless death and destruction.<ref name="P&P-p49">{{Cite book/Powers & Pantheons|49}}</ref> The sworn enemy of all the Gods of Fury (particularly Umberlee but also Talos to a large extent) was [[Valkur]], who embodied the brave captain who could sail through anything they could unleash and protected sailors from them.<ref name="P&P-p72">{{Cite book/Powers & Pantheons|72}}</ref>
+
+Under the alias of [[Malyk (demipower)|Malyk]], Talos once tried to fold destructive and [[wild magic]] into his portfolio, only to be openly challenged by Mystra and forced to abandon this goal when most [[wild magic zones]] were neutralized.<ref name="F&A" /><ref name="FRCS-252" /> By her nature it was hard for anyone to stay angry at her for long and so she had no true enemies, but [[Sune]] nonetheless disliked Talos for his destruction of beautiful things.<ref name="FRCS-251">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|251}}</ref> The Morninglord [[Lathander]] somewhat naively blamed Talos and a few other evil gods for most of Toril's ills.<ref name="FaP-p 38">{{Cite book/Faiths and Pantheons|38}}</ref> All three (as well as Chauntea) worked to limit the effect of his rages.<ref name="OHG-171" />
+
+==Worshipers==
+{{Main|Church of Talos}}
+{{Quote|Hold me in your tempest, Stormbringer. Keep my strength to hand.|A basic prayer to Talos.<ref name="BG3">{{Cite game/Baldur's Gate III}}</ref>}}[[File:talos_symbol.jpg|thumb|left|''The holy symbol of Talos.'']]
+The [[church of Talos]] was small by the standards of a greater deity, and his followers were fanatical in their love of destruction. The clergy had no formal hierarchy; obedience was enforced through might. Priests of Talos were fond of extorting sailors and farmers, threatening that Talos would bring destructive storms upon them if they did not placate the angry god. They were wont to pursue wealth and luxury with many indulging in acts of random or spiteful violence, pillage, and banditry. Talossan [[clerics]] were also committed evangelists who sought to gain converts through fear or the enticement of raw power.<ref name="F&A" /><ref name="FaP-p68" />
+
+[[File:Talossymbol.png|thumb|''A [[helmet]] emblazoned with the symbol of Talos.'']]
+Clerics of Talos wore black robes and cloaks shot through with teardrops and jagged lines of gold and silver while high clergy wore blue-white ceremonial robes streaked with crimson. All of them wore eye patches.<ref name="F&A" /><ref name="FaP-p68" />
+His followers were known as Talassans.
+Talassan [[cleric]]s generally cross-trained as [[barbarians]], [[sorcerers]], [[wizards]], or as [[stormlord]]s.<ref name="FaP-p68" />
+
+Worship of Talos was outlawed in many countries. Most Talossan holy sites were secret because of the church's reputation. Public churches often took the form of castles or fortified strongholds that lay on earthquake fault lines or in the path of storms or lava; Talos ensured they remain unscathed.<ref>{{cite book/Faiths & Avatars|156}}</ref>
+
+===Rituals===
+Clerics of Talos celebrated Talossan festivals with ceremonies that summoned lightning and storms.<ref name="FA-p157" /><ref name="FaP-p68" />
+* Calling Down the Thunder: This ritual involved the sacrifice of an intelligent being by lightning.<ref name="FA-p157" /><ref name="FaP-p68" />
+* The Fury: In this ceremony, the cleric prayed, made berserk attacks to wreak as much destruction as possible in a small amount of time, then prayed again.<ref name="FA-p157" /><ref name="FaP-p68" />
+
+===Orders===
+The existence of religious orders affiliated with Talos was shrouded in mystery and rumor. Two speculated groups were:<ref name="FA-p157" /><ref name="FaP-p68" />
+* [[Lords of the Tempest]]: A group of [[wizards]] that specialized in combining elemental magic.<ref name="FA-p157" /><ref name="FaP-p68" />
+* [[Circle of Rust and the Worm]]: A cabal of insane sages and mystics of various disciplines with the aim of destroying the world.<ref name="FA-p157" /><ref name="FaP-p68" />
+
+==History==
+The Stormlord was said to have formed from the first battle between [[Selûne]] and [[Shar]], near the dawn of the world. The people of ancient [[Netheril]] worshiped him as '''Kozah''', and called him ''The Destroyer'' and ''The Raging One'', among other titles.<ref name="N.EoM-p42">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|42}}</ref>
+
+In the months following the [[Time of Troubles]], the clergy of Talos proclaimed that violent death fell within their god's portfolio. Whether the nascent god [[Cyric]] could answer this challenge remained uncertain.<ref name="FRA-2ed-p32">{{Cite book/Forgotten Realms Adventures|32}}</ref>
+
+Following the events of the Spellplague, Talos was believed to be one of several gods who was severely weakened,<ref name="RoS-ch3">{{Cite digital book/The Rose of Sarifal/Kindle||3}}</ref> and in an event known as the [[Stormstar Requiem]], he was said to have revealed himself to be the orcish god Gruumsh, which led to his expulsion from the ranks of the Gods of Fury.<ref name="Drag367">{{Cite dragon/367/Hall of the Frostmaiden|61}}</ref> Even so, Talos continued to be feared through the late 15{{th}} century [[DR]] alongside the likes of [[Bane]] or [[Asmodeus]],<ref name="RoS-ch9">{{Cite digital book/The Rose of Sarifal/Kindle||9}}</ref> even as it was believed that he could do little more than visit his faithful in their dreams and nightmares.<ref name="RoS-ch3" />
+
+Talos was restored to the pantheon following the Second Sundering,<ref name="SCAG5e-p21,38" /> and subsequently interceded in a conflict between Auril and Umberlee by siding with the latter, thus forcing Auril to retreat to [[Icewind Dale]] in the late 1480s DR.<ref name="RotF-p275">{{Cite book/Icewind Dale: Rime of the Frostmaiden|275}}</ref> After the [[Battle of Leilon]] in the late 15{{th}} century DR, Talos was furious with [[Fheralai Stormsworn]] for failing him, and his [[avatar]] appeared in a rage to punish her [[Cult of Talos]].<ref>{{Cite web/D&D Beyond/Divine Contention}}</ref>
+
+==Appendix==
+{{Incomplete}}
+===Gallery===
+<gallery>
+Priest of Talos.png|''A priest of Talos, adorned in the church's ceremonial garb and wielding a [[hammer]].''
+</gallery>
+===Appearances===
+{{Appearances
+| novels = ''[[Crucible: The Trial of Cyric the Mad]]''
+| novel refs = ''[[The Parched Sea]]'';''[[The Siege]]'';''[[The Rose of Sarifal]]''
+| organized play = ''[[Divine Contention]]''
+}}
+===References===
+{{Refs}}
+===Connections===
+{{Netheril deities}}
+{{Faerûnian pantheon}}
+{{Deity list}}
+[[de:Talos]]
+[[Category:Aspects]]
+[[Category:Greater deities]]
+[[Category:Chaotic evil deities]]
+[[Category:Deities of Fury]]
+[[Category:Chaos domain deities]]
+[[Category:Destruction domain deities]]
+[[Category:Evil domain deities]]
+[[Category:Fire domain deities]]
+[[Category:Storm domain deities]]
+[[Category:Tempest domain deities]]
+[[Category:Nature deities]]
+[[Category:Human deities]]
+[[Category:Netherese pantheon]]
+[[Category:Wrath domain deities]]
+[[Category:Inhabitants of Fury's Heart]]
+[[Category:Inhabitants of Pandesmos]]
+[[Category:Inhabitants of Pandemonium]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the Fiendish Planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Evokers (3e)]]
+[[Category:Evokers]]
+[[Category:Members of The Circle of Nine]]
+[[Category:Members of the Circle of Greater Powers]]
+[[Category:Members of the First Circle]]

@@ -1,0 +1,344 @@
+WIKI PAGE: Bane
+
+{{Deity
+| image               = Bane.jpg
+| caption             = Bane, the Black Lord
+| name                = Bane
+| title               = Lord Bane<ref name="CotR-10">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|10}}</ref><ref name="FA-36">{{Cite book/Faiths & Avatars|36}}</ref><br /> Lord of Darkness<ref name="HoF-p103">{{Cite book/Forgotten Realms: Heroes of Faerûn|103}}</ref><ref name="SCAG5e-p21,26" /><ref name="FA-36" /><ref name="FRCS3e-237" /><ref name="FaP-14" /><br /> The Dark One<ref name="FA-36" /><br /> The Black Lord<ref name="CotR-10" /><ref name="FA-36" /><ref name="FRCS2eR.RtR-55">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (Revised)/Running the Realms|55}}</ref><ref name="FRA-37">{{Cite book/Forgotten Realms Adventures|37}}</ref><ref name="FRCS3e-237">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|237}}</ref><ref name="FaP-14">{{Cite book/Faiths & Pantheons|14}}</ref><ref name="FRCG4e-73">{{Cite book/Forgotten Realms Campaign Guide|73}}</ref><br /> The Black Hand<ref name="HoF-p103"/><ref name="SCAG5e-p21,26" /><ref name="FA-36" /><ref name="FRCS3e-237" /><ref name="FaP-14" /><br/>Bane the Accursed<ref name="ddt-d">{{Cite book/The Diamond|2|1}}</ref>
+| adjective           = Banite<ref name="F&A-p38"/>
+| aspects             = 
+| power               = 
+| primordial          = 
+| pantheon            = [[Faerûnian pantheon]]
+| gender              = Masculine
+| died                = [[1358 DR]] (slain by [[Torm]]) <br/> [[1372 DR]] (resurrected)
+| favored weapon      = ''[[Black Hand of Bane]]'' (bejeweled [[gauntlet]])
+| race                = [[Human]]
+| sex                 = Male
+| mortalhomes         = 
+| apotheosis          = 
+| alignment           = 
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Acheron]] ([[Avalas]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Tyranny, ambition
+| domains5eR          = 
+| worshipers5eR       = Conquerors, [[Fighter]]s, [[Monk]]s, tyrants
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,102">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,102}}</ref>
+| power5e             = [[Quasi-deity]]<ref name="dia-p231">{{Cite book/Baldur's Gate: Descent into Avernus|231}}</ref>
+| alignment5e         = [[Lawful evil]]
+| symbol5e            = Upright black right hand, thumb and fingers together
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Ambition, control, tyranny
+| domains5e           = [[Order domain|Order]], [[War domain|War]]
+| worshipers5e        = Conquerors, dictators
+| channel divinity5e  = ''[[Guided strike]]''<br />''[[War god's blessing]]''<br />''[[Order's demand]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG5e-p21,26">{{Cite book/Sword Coast Adventurer's Guide|21,26}}</ref><ref name="PHB5e-p63,294">{{Cite book/Player's Handbook 5th edition|63,294}}</ref><ref name="BasicRules-108">{{Cite web/D&D Basic Rules: Player's Basic Rules Version 0.2|108}}</ref><ref name="GMR5e-p25-26">{{Cite book/Guildmasters' Guide to Ravnica|25-26}}</ref>
+| power4e             = [[Greater deity]]
+| alignment4e         = [[Evil]]
+| symbol4e            = A three-toed claw
+| dominion4e          = [[Banehold]]
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = [[Abbathor]], [[Fzoul Chembryl]], [[Hoar]], [[Hruggek]], [[Loviatar]], [[Maglubiyet]], [[Tiamat]]
+| sphere4e            = Tyranny
+| domains4e           = [[Civilization domain|Civilization]], [[Tyranny domain|Tyranny]], [[War domain|War]]
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCG4e-73" /><ref name="Dragon378-32">{{Cite dragon/378/Domains in Eberron and the Forgotten Realms|32}}</ref><ref name="FRCG4e-62,80">{{Cite book/Forgotten Realms Campaign Guide|62, 80}}</ref>
+| power3e             = [[Greater deity]]
+| alignment3e         = [[Lawful evil]]
+| symbol3e            = A black fist emanating green rays from between the fingers
+| homeplane3e         = [[Barrens of Doom and Despair]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Fear, hatred, tyranny<ref name="FRCS-Errata-p3">See FRCS Errata page 3; Bane does not have Strife, Cyric does. Please look at the discussion before hastily changing it back</ref>
+| domains3e           = [[Envy domain|Envy]], [[Evil domain|Evil]], [[Destruction domain|Destruction]], [[Hatred domain|Hatred]], [[Law domain|Law]], [[Pride domain|Pride]], [[Tyranny domain|Tyranny]], [[Wrath domain|Wrath]]
+| mantles3e           = {{Mantles|Conflict|Destruction|Evil|Law}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = Conquerors, evil fighters and monks, wizards, and tyrants
+| cleric alignments3e = {{alignment grid|off|off|off|on|off|off|on|on|off}}
+| favored weapon3e    = "[[Black Hand of Bane|The Black Hand of Bane]]" ([[gauntlet]])
+| holy days3e         = None
+| class3e             = {{class table|edition=3e|[[Blackguard]]|10|[[Cleric]]|10|[[Fighter]]|15|[[Rogue]]|20|[[Wizard]]|10}}
+| refs3e              = <ref name="FRCS3e-237" /><ref name="FaP-14" /><ref name="FaP-16">{{Cite book/Faiths & Pantheons|16}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref>
+| power2e             = [[Dead power]]
+| alignment2e         = [[Lawful evil]]
+| symbol2e            = Upright hand, palm out, fingers together, usually on a red field
+| homeplane2e         = [[Acheron]]/[[Avalas]]
+| realm2e             = [[Black Bastion]]
+| serves2e            = 
+| servedby2e          = [[Iyachtu Xvim]] (when alive)
+| portfolio2e         = Hatred, strife, tyranny
+| spheres2e           = [[All sphere|All]], [[Combat sphere|Combat]], [[Divination sphere|Divination]], [[Elemental sphere|Elemental]], [[Guardian sphere|Guardian]], [[Healing sphere|Healing]], [[Law sphere|Law]], [[Necromantic sphere|Necromantic]], [[Summoning sphere|Summoning]], [[War sphere|War]] <small>'''minor:'''</small> [[Creation sphere|Creation]], [[Numbers sphere|Numbers]], [[Sun sphere|Sun]] (reverse only)
+| worshipers2e        = Those who reveled in the elements of his portfolio
+| cleric alignments2e = {{alignment grid|off|off|off|off|off|off|on|on|on}}
+| holy days2e         = None
+| class2e             = {{class table|edition=2e|[[Cleric]]|36|[[Fighter]]|35|[[Wizard]]|30|[[Thief]]|10}}
+| refs2e              = <ref name="FA-36" /><ref name="FRCS2eR.RtR-55" /><ref name="FRA-37" /><ref name="OHG-168,182">{{Cite book/On Hallowed Ground|168, 182}}</ref><ref name="FA-37-39">{{Cite book/Faiths & Avatars|37-39}}</ref>
+| power1e             = [[Greater deity]]
+| alignment1e         = [[Lawful evil]]
+| symbol1e            = An open black hand, thumb and fingers aligned, sometimes with red field
+| homeplane1e         = [[Acheron]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = [[Bhaal]], [[Loviatar]], [[Malar]], [[Talona]]
+| portfolio1e         = Hatred, strife, tyranny
+| worshipers1e        = [[Zhentil Keep]] and the [[Zhentarim]]
+| cleric alignments1e = {{alignment grid|off|off|off|off|off|off|on|off|off}}
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="CotR-10" /><ref name="CotR-17,92-93">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|17, 92-93}}</ref>
+| animals             = [[Vulture]]s<br />Green-eyed [[black cat]]s<br />[[Bat]]s<br />Black [[dog]]s
+| plants              = 
+| monsters            = [[Baatezu]]<br />[[Beholder]]s<br />[[Black dragon]]s<br />[[Death tyrant]]s<br />[[Banelar naga]]s<br />[[Beasts of Xvim|Beasts of Bane]]<br />[[Fang dragon]]s<br />[[Green dragon]]s<br />[[Hell hound]]s
+| minerals            = [[Black sapphire]]s (to show approval)<br />Powdered red [[carnelian]] (to show disapproval)<br />[[Hematite]], [[emerald]]s, [[bloodstone]]s
+| colors              = Black, green, red
+| misc manifestations = Eyes of green or red flame surrounded by darkness<br />A black, taloned hand with an icy touch<br />Possession
+| manifestation refs  = <ref name="DD&D-p10">{{Cite web enhancement/Deity Do's and Don'ts|10}}</ref>
+| church              = yes
+}}
+'''Bane''' ({{Pronounce|BAYN|audio=Bane.ogg|refs=<ref name="CotR-10"/><ref name="FaP-14" />}}) was the [[Faerûnian pantheon|Faerunian]] [[god]] of tyrannical oppression, terror, and hate, known across [[Faerûn]] as the face of pure evil through malevolent despotism. From his dread [[plane]] of [[Banehold]], '''The Black Hand''' acted indirectly through worshipers and other agents to achieve his ultimate plan to achieve total domination of all Faerûn.<ref name="FRCS3e-237" /><ref name="F&P-p15"/>
+
+{{Quote|...I choose to rule for all eternity as the ultimate tyrant. I can induce hatred and strife at my whim, and all will bow down before me while in my kingdom.|Bane<ref name="SCAG5e-p31">{{Cite book/Sword Coast Adventurer's Guide|31}}</ref>}}
+
+==Description==
+When summoned, Bane had a dark and rather shadowy appearance with a resemblance of dark armor and his tell-tale jeweled, dark gauntlet. He emanated an aura of vast power and cruel intelligence.<ref name="Ud-p201">{{Cite book/Undead|201|8}}</ref><ref name="F&P-p15" />
+
+==Personality==
+Bane was a wholly malevolent and brutal deity that distanced himself from mere mortals, preferring to reign over his followers from afar. He savored the terror he instilled in others and the hatred that formed in mortals' hearts, utilizing this strife to gain greater control over the Realms.<ref name="FRCS-p238" />
+
+He embodied the principles of ambition and control and believed that the strong had not only the right, but the duty, to rule over the weak. He favored those with drive and courage, often aiding those who sought to establish order or conquer new territories. While he was seen as a savior in some regions, his teachings also led to dictatorships and the promotion of slavery.<ref name="SCAG-p26">{{Cite book/Sword Coast Adventurer's Guide|26}}</ref>
+
+[[File:SymboIOfBane.png|thumb|left|150px|The Black Hand of Bane]]
+
+==Abilities==
+When confronted with a potential battle, Bane would possess an individual and force their body to take on a twisted and monstrous form with leathery black skin and powerful claws that could rend flesh and metal alike. He gained any powers they held in their life, and protected his host from [[psionic]] control.<ref name="F&A-p37" />
+
+==Possessions==
+Unlike other deities Bane possessed no divine weapon, rather he favored his own ''[[Black Hand of Bane|gauntleted right hand]]''.<ref name="FRCS-p237-8" /><ref name="F&A-p37" /><ref name="FRCS-p234">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|234}}</ref> He was sometimes accompanied by a [[Fiendish creature|fiendish]] [[raven]] called [[Koravis]].<ref name="F&P-p17">{{Cite book/Faiths and Pantheons|17}}</ref>
+
+==Divine Realm==
+In the [[Great Wheel cosmology]] Bane's [[divine realm]], the [[Black Bastion]], could be found in [[Avalas]], the first layer of [[Acheron]].<ref name="FA-36" /><ref name="OHG-168,182"/> In the [[World Axis cosmology|World axis]] model, Bane's home plane was [[Banehold]],<ref name="FRCG-p62">{{Cite book/Forgotten Realms Campaign Guide|62}}</ref> or as it was [[World Tree cosmology|previously known]], the [[Barrens of Doom and Despair]].<ref name="F&P-p14">{{Cite book/Faiths and Pantheons|14}}</ref>
+
+==Relationships==
+While Bane believed himself the rightful ruler of all the planes and could not tolerate subservience to anyone,<ref name="FA-36" /> the god was willing, unlike many evil deities, to work with others if it served his interests and the god formed multiple alliances. Most notable perhaps was his alliance with Myrkul, which stretched back to when both were mortals and which continued until both of their deaths during the Time of Troubles. Bane also had working relations with the gods [[Loviatar]], [[Talona]], and [[Mask]];<ref name="F&A-p36-37" /> when Bane returned to life in 1372 DR, he quickly went about reforging these alliances, primarily by reasserting their fears of him.<ref name="F&P-p15-16">{{Cite book/Faiths and Pantheons|15-16}}</ref> 
+
+Besides allies, Bane also had servants such as Bhaal and his own son [[Iyachtu Xvim]] during his first life as a god,<ref name="F&A-p36-37" /> along with [[Abbathor]], [[Maglubiyet]], [[Hruggek]], and [[Tiamat]] during his second tenure.<ref name="FRCG-p80-81">{{Cite book/Forgotten Realms Campaign Guide|80-81}}</ref> [[Malar]] was also known to work along with Bane at times.<ref name="FRCS-p238">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|238}}</ref>
+
+Bane was the former lover of the goddess [[Kiputytto]]. He attempted to steal her divine power during their amorous encounters, but was ultimately unsuccessful.<ref name="GG.K&B">{{Cite archive/Greenwood's Grotto/2023-07-07/Kiputytto and Bane}}</ref>
+
+But as numerable as his allies, Bane had many enemies as well. For a time, Bane's most hated foe was the goddess of magic, [[Mystra]], whose power he coveted.<ref name="FA-36" /> Since his return, however, Bane's greatest foes were Cyric who stole from him many of his worshipers and the [[Zhentarim]], and the [[Triad]], particularly its formerly junior but now senior member Torm, who was the being responsible for Bane's first death. Bane was also enemies with the gods [[Amaunator]] and [[Oghma]] and called [[Helm]] and [[Midnight]] enemies as well when both gods lived.<ref name="FRCS-p238">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|238}}</ref>
+
+==Worshipers==
+{{Main|Church of Bane}}
+
+[[File:Blackgauntletofbane.jpeg|thumb|right|249x249px|A worshiper of Bane.]]
+Among the evil gods, [[Church of Bane|Bane's church]] was among the most stable and powerful. While there was a time when the god encouraged sectarianism and violent disputes,<ref name="F&P-p15-16">{{Cite book/Faiths and Pantheons|15-16}}</ref> that time has long since passed and today{{timescale}} the god's [[Faithful]] were as likely to solve their disputes through reasonable debate as through show of force. That being said, Bane's church was no less ruthless than that of [[Cyric]] or [[Shar]] and it obeyed a strict hierarchy extending from the god's most powerful worshipers to his weakest ones, with the god himself the lord of everything they did and, though worshipers of Bane came from every station in life, they all knew to whom they owed their blessings, ready to turn it over to the Black Lord at any time.<ref name="FRCS3e-237" />
+
+Banite customs were often quite spartan in nature and the god's followers celebrated no holidays in honor of their god, instead showing their gratitude to him through service and the ritual torture and sacrifice of sentient beings offensive to the god. Priests of Bane prayed for their [[prayer|spells]] at midnight, pledging their eternal loyalty and service to the Black Hand, knowing full well that the penalty for failure or disloyalty was death.<ref name="FRCS-p237-8">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|237-238}}</ref>
+{{fq
+| text   = Bane, right? The laziest tyrant of all. He sits on his backside while you lot run around doing all the work. Do you wipe his arse too? Hah!
+| source = Auntie Ethel a [[hag]], insulting Bane.<ref name="bg3">{{Cite game/Baldur's Gate III}}</ref>
+| float  = 
+| width  = 
+| styles = 
+}}
+The church of Bane increased greatly in recent history due to his return. With this he gained nearly all the worshipers of [[Iyachtu Xvim]], his half-[[demon]] son, as well as some of [[Cyric]]. Many of those among the god's worshipers were [[fighter]]s, [[monk]]s or [[blackguard]]s,<ref name="FRCS-p237-8" /> or [[wizard]]s.<ref name="F&A-p38">{{Cite book/Faiths and Avatars|38}}</ref>
+
+His clerics could be recognized by the black-enameled gauntlet worn on one fist.<ref name="U-p43">{{Cite book/Unclean|43}}</ref> They were able to cast spells against [[undead]], such as a flare of greenish phosphorescence which seared smaller undead or an even fiercer radiance that seared [[ghoul]]s and [[phantom]]s.<ref name="U-p42">{{Cite book/Unclean|42}}</ref>
+
+===Places of Worship===
+Although Bane was worshiped all over Faerûn, his presence was strongest in the [[Moonsea]] region, where, as of [[1479 DR]], the [[Church of Bane]] had its headquarters: the [[House of the Black Lord]] in [[Mulmaster]].<ref name="FRCG-238">{{Cite book/Forgotten Realms Campaign Guide|238}}</ref> During the same time, his Church was the only one allowed in [[Thay]].<ref name="FRCG-181">{{Cite book/Forgotten Realms Campaign Guide|181}}</ref> Other known temples include:
+
+* [[Black Altar]] – [[Zhentil Keep]]
+* [[Dark God Reformed]] – [[Voonlar]]
+* [[Dark Shrine]] – Zhentil Keep
+* [[Lyceum of the Black Lord]] – [[Phlan]]<ref name="MotA-54">{{Cite dungeon/170/Monument of the Ancients|54}}</ref>
+* [[Temple of Bane (Snowmantle)]] – [[Daggerdale]]
+
+==History==
+===Mortal Life===
+{{Person
+| image          = 
+| caption        = 
+| name           = Bane
+| true name      = 
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| home           = 
+| formerhomes    = 
+| sex            = Male
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = 
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = [[Lawful evil]]
+| class2e        = [[Fighter]]
+| refs2e         = <ref name="F&A-p38" />
+| alignment3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+Like many of the younger gods, Bane was once a mortal [[human]].<ref name="F&P-p15">{{Cite book/Faiths and Pantheons|15}}</ref> Little was known about the Black Hand's past, not even precisely when it was he lived, but the [[adventurer]] became known when he forged an alliance with two other mortal beings: [[Bhaal]] and [[Myrkul]]. Together, the three forged a pact of mutual aid and ambition: together they would conquer not just the world, but the heavens, becoming [[god]]s unto themselves. They targeted specifically the powerful god of death, [[Jergal]], who was among the most powerful of [[Toril]]'s deities at the time.<ref name="F&A-p37">{{Cite book/Faiths and Avatars|37}}</ref>
+
+===Divine Ascension===
+[[File:Bane Old Symbol.png|thumb|left|150px|An archaic [[holy symbol]] of Bane, predating the [[Era of Upheaval]]]] 
+The group, known as the [[Dead Three]],<ref name="Dng170p49">{{Cite dungeon/170/Monument of the Ancients|49}}</ref> soon became well-known to Jergal, surmounting every obstacle thrown their way. They obtained [[magic]]al power and even destroyed a [[primordial]] in the {{yearlinkName|-357}}. They served as generals to an army comprising forces from three human nations, savage [[gnoll]]s, and other races from the [[Moonsea North]], slaying [[Maram of the Great Spear]] at the [[Monument of the Ancients]] in the [[Frozen Forest]],<ref name="Dng170-p48-49">{{Cite dungeon/170/Monument of the Ancients|48-49}}</ref> taking the fallen [[primordial]]'s essence, and dividing it up equally amongst themselves. Unbeknown to them, this was all Jergal's doing, for the god had grown tired of his crown,<ref name="F&A-p37" /> even allowing powerful magic weapons such as the [[Jathiman Dagger]], gifted to Bane, to fall into the hands of the party.<ref name="F&P-p169">{{Cite book/Faiths and Pantheons|169}}</ref>
+
+When the time came to confront Jergal, the god of death tricked the Dead Three into turning on one another, each desiring the others' power. Jergal then intervened and proposed to divide up his portfolio for them, based upon a game of [[knucklebones]], which Bane promptly won. Bane claimed for his prize governance over the sphere of strife, believing he would be able to rule over all of Toril in this way.<ref name="F&A-p37" /> As it turned out, however, Bane would not only have to contend with Bhaal and Myrkul, who became powerful gods in of themselves, but with the rest of the divine, who would become his most hated foes.<ref name="FA-36" />
+
+===Time of Troubles===
+[[File:Bane symbol.jpg|thumb|right|250px|''The holy symbol of Bane, during the [[Era of Upheaval]].'']]
+{{main|Time of Troubles}}
+Although Bane had many foes, he did find allies in a few gods and in particular continued a working relationship with the other members of the Dead Three, with whom he plotted against his enemies, such as the goddess [[Mystra]]. It was during this time that Bane sired a son, [[Iyachtu Xvim]], some say by a [[tanar'ri]], others by a fallen [[paladin]] of good. Xvim resented his father but nonetheless served compliantly as his servant during this period, along with other servants of the Black Hand such as Bhaal.<ref name="FA-36" /> Iyachtu Xvim's true purpose, however, would not be revealed until many, many years later.<ref name="FRCS3e-237" />
+
+Eventually, Bane's plots backfired against him and in one particularly overambitious gambit, he and Myrkul attempted to steal the [[Tablets of Fate]] from [[Ao]] the Overgod himself. For this, the two and every other god were banished from their [[astral dominion]]s to traverse Toril's surface in an exercise of humility, precipitating the [[Time of Troubles]]. It was Ao's hope that through this, the gods would learn not only to be content with what power they had, but to respect the needs and wishes of their worshipers.<ref name="FRCS3e-p264">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|264}}</ref>
+
+However, not all the gods were so willing to learn and all of them tried to regain their divine power as quickly as possible. Bane was among these deities, but unfortunately for him he was slain by the young god [[Torm]] on [[Eleasias]] 13, [[1358 DR]] near [[Tantras]].<ref name="FRCS3e-p264">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|264}}</ref> Subsequently the majority of Bane's power fell from him to the mortal Cyric, who temporarily claimed the powers of all the Dead Three - all of whom perished in the Time of Troubles. A smaller portion fell to his son, Iyachtu Xvim,<ref name="F&A-p36-37">{{Cite book/Faiths and Avatars|36-37}}</ref> an eventuality that Bane had anticipated should he himself perish.<ref name="FRCS3e-237" />
+
+When news of his destruction spread across the Realms, at least a score of Faerûnian nations marked the occasion with widespread festivals of thanks and celebration.<ref name="F&P-p15"/>
+
+===Resurrection and return to power===
+[[File:Bane.JPG|thumb|right|300px|Return of Bane]]
+[[File:Bane_symbol_-_Mike_Schely.jpg|thumb|left|150px|Bane's talon symbol]]
+For Bane, it soon became apparent, death was but a temporary setback. Anticipating the possibility of his own death, Bane (like his companion Bhaal) had created a scion for the purpose of his own regeneration. When the time was right, on [[Midwinter]] in the {{YearlinkName|1372}}, Xvim&mdash;who was in fact little more than a cocoon to contain the essence of Bane&mdash;burst open into the black and armored figure of Bane, destroying the younger god entirely. Overnight the [[Faithful]] of Xvim, led by the god's [[Chosen]] [[Fzoul Chembryl]] converted to the worship of their returned master,<ref name="FRCS3e-p265">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|265}}</ref> as did many of Cyric's own worshipers.<ref name="FRCS3e-237" />
+
+After his miraculous resurrection, Bane reestablished his power base, regaining nearly all of his followers from Xvim and Cyric.<ref name="FRCS3e-237" /> He then went about reforming his church hierarchy, forcibly eliminating its tendencies towards in-fighting, which he previously had encouraged in order to separate the weak from the strong but which he had since determined to be self-defeating and destructive. Bane installed as the head of this new church Fzoul Chembryl, whom he took as his own Chosen. Bane also reestablished his old alliances with [[Loviatar]], [[Mask]], and [[Talona]],<ref name="F&P-p15-16">{{Cite book/Faiths and Pantheons|15-16}}</ref> who had previously worked alongside him before the Time of Troubles.<ref name="FA-36" />
+
+In the summer of the {{YearlinkName|1385}}, the [[lich]] [[Szass Tam]] performed a ritual, sacrificing a score of slaves, another score of his own necromancers, and tharchion [[Pyras Autorian]], to summon Bane for his aid.<ref name="Ud-p201" />
+
+Bane escaped the [[Spellplague]] largely unscathed and, in fact, the cataclysm largely benefited him, removing two of his chief rivals, [[Mystra (Midnight)|Mystra]]<ref name="S.tWY">{{Cite dragon/362/Countdown to the Realms: Spellplague: The Wailing Years}}</ref> and [[Cyric]] all at once.<ref name="GHR159">{{Cite book/The Grand History of the Realms|159}}</ref> In the century that followed Bane's power increased only further and the god conquered the [[goblinoid pantheon]], bringing [[Maglubiyet]] and [[Hruggek]] to heel before him. By the end of the Era of Upheaval Bane was as powerful&mdash;and as dangerous&mdash;as he had ever been.<ref name="FRCG4e-73" />
+
+In the late 15{{th}} century [[DR]], following the events of the [[Second Sundering]] when most deities withdrew their direct influence from Toril, Bane along with the returned Myrkul and Bhaal remained behind as [[quasi-deity|quasi-deities]]. Though he was still able to influence events over [[Faerûn]], Bane was essentially trapped in a mortal form.<ref name="dia-p231"/>
+
+==Appendix==
+===Notes===
+{{Notes}}
+====Bane vs. Bane====
+In 4{{th}} edition, beginning with the ''[[Player's Handbook 4th edition|Player's Handbook]]'', a new deity named Bane was introduced, an evil god of war and conquest, for the Nentir Vale/[[Nerath]] setting. However, the "Deities & Demigods: Bane" article in [[Dragon magazine 372|''Dragon'' #372]] states in the "Bane vs. Bane" sidebar "The Bane of the core D&D® setting is ''not'' the same god as the Bane of the Forgotten Realms® setting!" and ends saying the article "shouldn't necessarily apply to the Bane of Faerûn." While it argues some similarities with the Forgotten Realms Bane, it misses key difference that the Nerath Bane is a god of war, while the Realms Bane is a god of tyranny. The article gives the Nerath Bane a very different backstory, as a brother to Kord named Achra, but still gives him a curiously familiar title: the Black Hand.
+
+===Appearances===
+{{Appearances
+| adventures          = ''[[Shadowdale (adventure)|Shadowdale]]'' • ''[[Tantras (adventure)|Tantras]]''
+| adventure refs      = 
+| novels              = [[Avatar series]] <small>(''[[Shadowdale (novel)|Shadowdale]]'' • ''[[Tantras (novel)|Tantras]]'')</small>
+| novel refs          = 
+| films               = 
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = ''[[Pools of Darkness (game)|Pools of Darkness]]'' • ''[[Neverwinter Nights: Tyrants of the Moonsea]]'' • ''[[Baldur's Gate III]]''
+| video game refs     = ''[[Pool of Radiance (game)|Pool of Radiance]]''
+| board games         = 
+| board game refs     = 
+| card games          = {{MTGapp|CLB}}
+| card game refs      = 
+| miniatures          = 
+| miniature refs      = ''[[Dungeons & Dragons Miniatures]]''
+| organized play      = 
+| organized play refs = 
+}}
+
+===Gallery===
+<gallery>
+Bane avatar.jpg|The avatar of Bane during the [[Time of Troubles]].
+FnP2 1024x786.jpg|Promotional wallpaper of Bane
+Pools of darkness bane.png|Bane's manifestation during the events of [[Pools of Darkness]]
+Avatar of bane.jpg|The avatar of Bane taking over [[Trannus Kialton]].
+Bane CLB.jpg|''Stupid, sexy Bane.''
+Bane, Lord of Darkness CLB – Alternate.jpg|''Bane, still sexy, still stupid.''
+</gallery>
+===External Links===
+{{External link disclaimer}}
+* {{BG3|Bane (God)}}
+===Further Reading===
+* {{Cite dragon/54/Down-to-earth divinity}}
+===References===
+{{Refs}}
+===Connections===
+{{Faerûnian pantheon}}
+{{Deity list}}
+[[de:Tyrannos]]
+[[Category:The Dead Three]]
+[[Category:Civilization domain deities]]
+[[Category:Destruction domain deities]]
+[[Category:Evil domain deities]]
+[[Category:Hatred domain deities]]
+[[Category:Law domain deities]]
+[[Category:Tyranny domain deities]]
+[[Category:War domain deities]]
+[[Category:Faerûnian pantheon]]
+[[Category:Fighters]]
+[[Category:Greater deities]]
+[[Category:Humans]]
+[[Category:Human deities]]
+[[Category:Lawful evil deities]]
+[[Category:Formerly mortal deities]]
+[[Category:Clerics]]
+[[Category:Wizards]]
+[[Category:Thieves]]
+[[Category:Blackguards]]
+[[Category:Rogues]]
+[[Category:Fighters (2e)]]
+[[Category:Envy domain deities]]
+[[Category:Order domain deities]]
+[[Category:Pride domain deities]]
+[[Category:Wrath domain deities]]
+[[Category:Inhabitants of Avalas]]
+[[Category:Inhabitants of Acheron]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Astral Plane]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of Banehold]]
+[[Category:Inhabitants of the Fiendish Planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Skill domain deities]]

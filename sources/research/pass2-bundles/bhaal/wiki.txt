@@ -1,0 +1,243 @@
+WIKI PAGE: Bhaal
+
+{{Deity
+| image               = <gallery>
+Bhaal, Lord of Murder CLB.jpg|CLB
+Bhaal CLB alt.jpg|CLB-Alt
+</gallery>
+| caption             = Bhaal, Lord of Murder
+| name                = Bhaal
+| title               = Lord of Murder<ref name="HoF-p103">{{Cite book/Forgotten Realms: Heroes of Faerûn|103}}</ref><ref name="SCAG5e-p21,27" /><ref name="FRCS.CotR-p10">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|10}}</ref><br/>Dread Lord<ref name="dod">{{Cite game/Neverwinter Nights: Darkness over Daggerford}}</ref>
+| adjective           = Bhaalist<ref name="F&A-p47" />
+| aspects             = Bale<ref name="EE:CM-p23">{{Cite book/Elminster's Ecologies/The Cormyrean Marshes|23}}</ref><br /> Niynjushigampo<ref name="TH-p57">{{Cite book/The Horde/Volume I|57}}</ref><br/>
+| status              = 
+| power               = 
+| primordial          = 
+| pantheon            = [[Faerûnian pantheon]]
+| home                = 
+| formerhomes         = 
+| minions             = 
+| gender              = Masculine
+| died                = 
+| basicrefs           = 
+| mortalrace          = 
+| mortalsex           = 
+| mortalhomes         = 
+| apotheosis          = 
+| mortalrefs          = 
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Gehenna]] ([[Khalas]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Murder
+| domains5eR          = 
+| worshipers5eR       = [[Assassin]]s, murderers
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,103">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,103}}</ref>
+| power5e             = [[Quasi-deity]]<ref name="BG.DiA-p231">{{Cite book/Baldur's Gate: Descent into Avernus|231}}</ref><br/>{{Former}} [[Deity]]<ref name="scag-p21,23,27">{{Cite book/Sword Coast Adventurer's Guide|21,23,27}}</ref>
+| alignment5e         = [[Neutral evil]]
+| symbol5e            = 
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Murder
+| domains5e           = [[Death domain|Death]]
+| worshipers5e        = [[Assassin]]s, compulsive killers
+| channel divinity5e  = ''[[Touch of death]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG5e-p21,27">{{Cite book/Sword Coast Adventurer's Guide|21,27}}</ref><ref name="DMG5e-pp96-97">{{Cite book/Dungeon Master's Guide 5th edition|96-97}}</ref>
+| power4e             = 
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = 
+| power3e             = [[Intermediate deity|Intermediate]] ([[Dead power|Dead]])
+| alignment3e         = [[Lawful evil]]
+| symbol3e            = A skull surrounded by a counter-clockwise orbit of blood drops
+| homeplane3e         = [[Barrens of Doom and Despair]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Assassination, murder, violence, death (especially violent or ritual death)
+| domains3e           = [[Death domain|Death]], [[Destruction domain|Destruction]], [[Evil domain|Evil]], [[Retribution domain|Retribution]], [[Hatred domain|Hatred]], [[Law domain|Law]]
+| worshipers3e        = Murderers, assassins, bounty hunters, mercenaries
+| cleric alignments3e = {{alignment grid|off|off|off|on|off|off|on|on|off}}
+| favored weapon3e    = [[Dagger]]
+| holy days3e         = 
+| class3e             = 
+| refs3e              = <ref name="LEoF-pp41-42">{{Cite book/Lost Empires of Faerûn|41-42}}</ref><ref name="Dra322-FoF-DoB-p94">{{Cite dragon/322/Faiths of Faerun: Deathstalkers of Bhaal|94}}</ref>
+| power2e             = [[Intermediate deity]] (Dead)
+| alignment2e         = [[Lawful evil]]
+| symbol2e            = A circle of teardrops surrounding a skull
+| homeplane2e         = [[Gehenna]]/[[Khalas]]
+| realm2e             = The [[Throne of Blood]]
+| serves2e            = [[Bane]]
+| servedby2e          = [[Loviatar]], [[Talona]]
+| portfolio2e         = Death, murder, ritual death
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = {{Alignment grid|off|off|off|on|on|on|on|on|on}}
+| holy days2e         = [[Feast of the Moon]]
+| class2e             = {{class table|edition=2e|[[Thief]]|32|[[Fighter]]|27}}
+| refs2e              = <ref name="F&A-pp44-45" />
+| power1e             = [[Lesser deity]]
+| alignment1e         = [[Lawful evil]]
+| symbol1e            = A circle of bloody tears surrounding a skull
+| homeplane1e         = [[Gehenna]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = Death
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="FRCS.CotR-p10" />
+| animals             = 
+| plants              = 
+| monsters            = [[Doppelganger]]s<br/>[[Mezzoloth]]s
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  = <ref name="HoF-p121">{{Cite book/Forgotten Realms: Heroes of Faerûn|121}}</ref>
+| usethe              = 
+| church              = yes
+| temples             = yes
+}}
+'''Bhaal''' ({{Pronounce|BAWL|refs=<ref name="BG.DiA-p4">{{Cite book/Baldur's Gate: Descent into Avernus|4}}</ref>}} {{Pronounce|BAHL|alt=yes|refs=<ref name="F&A-pp44-45">{{Cite book/Faiths & Avatars|44-45}}</ref>}} {{Pronounce|beh|HAHL|alt=yes|audio=Bhaal.ogg|refs=<ref name="FRCS.CotR-p10" />}}), known as '''Niynjushigampo''' among his [[Gugari]] worshipers,<ref name="TH-p57" /> was the widely feared '''Lord of Murder''', the [[Faerûnian pantheon|Faerûnian]] [[god]] of violence and ritualistic killing.<ref name="F&A-pp44-45" />
+{{Quote
+|I choose death...I can destroy your kingdom, [[Bane]], by murdering your subjects, and I can starve your kingdom, [[Myrkul]], by staying my hand.
+|Bhaal<ref name="SCAG5e-p31">{{Cite book/Sword Coast Adventurer's Guide|31}}</ref>
+}}
+
+==Description==
+Bhaal had three [[avatar]] forms: the ''Slayer'', the ''Ravager'', and  [[Kazgoroth]]. The Slayer resembled a male, [[humanoid]] corpse with a feral face and ivory skin inset with deep lacerations that flowed with black ichor; he preferred to assume it when in urban areas. The Ravager meanwhile was a {{SI|30|ft|long=yes}} monster with a twisted, grimacing face that featured a flowing beard and mane, {{SI|7|ft|long=yes}} horns and eyes full of the flames of [[Gehenna]]; he assumed that form when visiting the rural regions of Toril. Kazgoroth form was simply a shape-shifting monstrosity.<ref name="F&A-pp44-45" />
+
+In some extreme cases, Bhaal's mortal Bhaalspawn children could actually turn into creatures said to be one of the listed avatars after Bhaal himself died, but these incarnations were even more monstrous and inhuman in shape, acting as little more than powerful killing machines. While powerful, they were weaker than a true god's avatars.<ref name="BGII.SoA">{{Cite game/Baldur's Gate II: Shadows of Amn}}</ref>
+
+==Personality==
+Bhaal only lived to hunt and kill, the presence of the living instilling in him an overpowering desire for death and destruction. He was at all times a cruel, violent and hateful being, though his behavior could vary from cold and calculating ruthlessness to a savage thirst for blood.<ref name="F&A-pp44-45" />
+
+==Divine Realm==
+[[File:Symbol-of-Bhaal.jpg|thumb|left|200px]]
+In the centuries before the [[Time of Troubles]], Bhaal’s divine realm was the ''[[Throne of Blood]]'' on [[Khalas]], the first layer of the [[outer plane]] of [[Gehenna]].<ref name="F&A-pp44-45" />
+
+==Relationships==
+A wholly evil, debased and sadistic god, Bhaal was reviled by a majority of the [[Faerûnian pantheon|pantheon]]; his [[divine]] foes included [[Chauntea]], [[Helm]], [[Ilmater]], [[Lathander]], [[Lliira]] and [[Tyr]]. Bhaal was served by the goddesses [[Talona]] and [[Loviatar]],<ref name="F&A-pp44-45" /> and he in turn served [[Bane]].<ref name="F&A-p36">{{Cite book/Faiths & Avatars|36}}</ref>
+
+During his godhood he was served by the [[imp]] "butler" [[Cespenar]].<ref name="BGII.ToB">{{Cite game/Baldur's Gate II: Throne of Bhaal}}</ref>
+
+Bhaal had several [[Bhaalspawn|spawn]], with [[the Dark Urge]] and [[Sarevok]] being two such individuals. Sarevok has his own legacy, in [[Orin the Red]] and [[Helena Anchev]].<ref name="BGIII">{{Cite game/Baldur's Gate III}}</ref>
+
+==Worshipers==
+{{Main|Church of Bhaal}}
+[[File:Reaperofbhaal.jpeg|thumb|238x238px|''A worshiper of Bhaal.'']]
+The clergy of Bhaal in [[Faerûn]] were known as Bhaalists or Bhaalyn, the latter being used more commonly in the lands east of the [[Dragon Reach]]. Together they were a disorderly network of local hierarchies,<ref name="F&A-pp44-45" /> with the urban and rural branches maintaining distant relations from one another. Collectively, they believed that murder was both a duty to their god and a game for their enjoyment. Each [[cleric]] of Bhaal was expected to perform at least one murder every [[tenday]], in the darkest moment in the dead of night.<ref name="F&A-p46">{{Cite book/Faiths & Avatars|46}}</ref>
+
+===Deathstalkers===
+During the time that he was dead, Bhaal had many scattered cultist groups, the most infamous being the [[Deathstalker]]s of Bhaal,<ref name="F&A-p47">{{Cite book/Faiths & Avatars|47}}</ref> who attempted to bring him back to life. For a while after the [[Bhaalspawn]] crisis, it was believed his essence had been locked away on the [[Upper Planes]], preventing his resurrection permanently. However, this proved to be incorrect. Bhaal's essence had been preserved in his half-mortal children, the Bhaalspawn, and after the death of the last two Bhaalspawn,<ref name="MiBG-CG-p3" /> Bhaal was revived.<ref name="SCAG5e-p17" />
+
+==History==
+===Mortal===
+[[File:Bhaalsymbol.png|thumb|220x220px|The violent symbol of Bhaal.]]
+Before his ascension to godhood, Bhaal was a power-hungry adventurer on Toril. Along with his companions Bane and [[Myrkul Bey al-Kursi]], he sought to attain the portfolio of the God of the Dead [[Jergal]]. After defeating one of the [[Seven Lost Gods]], the three were able to travel to Jergal's domain, the [[Castle of Bone]] in the [[Gray Waste]]. Upon their arrival, Jergal willingly offered his realm to the [[Dark Three]], though they couldn't decide amongst themselves who would rule.<ref name="F&A-p37">{{Cite book/Faiths & Avatars|37}}</ref><ref name="LEoF-p41">{{Cite book/Lost Empires of Faerûn|41}}</ref> 
+
+Upon Jergal's suggestion, the three divided his power, deciding how to divide it based on the outcome of a game. The three played a game of [[knucklebones]], and Bane emerged as the victor. He claimed the domains of [[Hatred domain|hatred]], [[Strife domain|strife]] and [[Tyranny domain|tyranny]] as his own. Myrkul, coming second, chose rule over the dead, the ultimate fate for all of Bane's minions. Finally, Bhaal chose the [[divine]] province of [[Death domain|death]].<ref name="F&A-p37" />
+
+===Godhood===
+Bhaal's reign of terror in the [[Moonshae Isles]] in the {{yearlinkName|1346}}, was a prime example of his cruelty and malice. Bhaal's shapeshifting avatar [[Kazgaroth]], which emerged from a [[Darkwell]], attempted to combine the [[firbolg]]s and [[Northmen]] into a conquering army set on destroying all the realms of the [[Ffolk]]. It even used its powers to corrupt some of the Northmen, turning them into [[blood warrior]]s who were bloodthirsty and extremely loyal to Kazgaroth.<ref name="HoH-pp79-80">{{Cite book/Hall of Heroes|79-80}}</ref> After Kazgaroth was slain by [[Tristan Kendrick]] and his allies, Bhaal sought to personally ravage and corrupt the Moonshae Isles. Through his cleric [[Hobarth]], he corrupted the Moonwell turning it into a Darkwell, formed an alliance with the [[Thayan]] wizard [[Cyndre]] in the court of High King [[Reginald Carrathal]], and raised an army of [[sahuagin]] and the [[undead]] through the sahuagin priestess [[Ysalla]].<ref name="BW">{{Cite book/Black Wizards/Paperback 1988|?}}</ref> The Darkwell turned into a cancerous wound on the earth that corrupted and killed anyone who came near it. Bhaal used the Darkwell to summon forth 'The Children of Bhaal,' which included [[Thorax]] the [[owlbear]], a flock of [[peryton]]s, and a [[displacer beast]] known as [[Shantu]], which would lead them. All this was done to destroy the [[Earthmother]] and seize the Moonshae Isles as his personal domain. As the God of Murder sucked out the warm life of the Moonshaes through the Darkwell, the Earthmother's strength continued to fade until her spirit was completely extinguished, ending her reign on the isles.<ref name="Darkwell-p119">{{Cite book/Darkwell/Paperback 2004|119|7}}</ref> Bhaal's army of undead, sahuagin, firbolgs, [[ogre]] mercenaries, and the Children of Bhaal led by proxies such as Hobarth and Ysalla wreaked havoc across the isles by killing numerous people and razing settlements until they were defeated by the Ffolk united by the newly crowned King of the isles, Tristan Kendrick.<ref name="Darkwell-p?">{{Cite book/Darkwell}}</ref> Finally, the Darkwell was corrupted enough to open a portal to his own realm. Bhaal sent forth his avatar, the Ravager, fueled by much of his divine power, but it was slain by Tristan, High King of the Ffolk, using the ''[[Sword of Cymrych Hugh]]''. Defeated and greatly weakened, Bhaal was banished from the Moonshae Isles and even temporarily exiled from [[Toril]].<ref name="F&A-p46" />
+
+===Time of Troubles===
+[[File:Cyric killing Bhaal.png|thumb|left|225px|''Bhaal about to be slain by Cyric.'']]
+On [[Eleint 16]], in the {{YearlinkName|1358}}, having lost his powers and being forced to walk [[Faerûn]] like the rest of the gods, Bhaal was slain by the upstart mortal [[Cyric]] using the avatar of [[Mask]], a sword named ''[[Godsbane]].'' In doing this, Cyric stole Bhaal's divinity and portfolio elements.<ref name="LEoF-p42">{{Cite book/Lost Empires of Faerûn|42}}</ref> However, much like Myrkul—who invested his divine essence in the [[artifact]] known as the ''[[Crown of Horns]]''—Bhaal was not utterly removed from Faerûn. Part of his divinity remained in the [[Winding Water]], around [[Boareskyr Bridge]] where he was slain, his blood having flowed into the river.<ref name="F&A-pp44-45" /> More importantly, Bhaal foresaw his death and impregnated many mortal women, creating his heirs, the [[Bhaalspawn]].<ref name="LEoF-p42" /> The Bhaalspawn were involved in a series of conflicts along the [[Sword Coast]], with one standing above the others and ultimately foiling Bhaal's plan to return through his children.<ref name="BGII.ToB" />
+
+[[File:Bhaal_dying.png|thumb|right|225px|''The Lord of Murder, murdered.'']]
+After the death of the Lord of Murder, the city-dwelling Bhaalists quickly converted to the worship of [[Cyric]], whom they referred to as ''Cyric-Bhaal''. The rural [[priest]]s maintained their faith for years to come, claiming they continued to receive their divine powers following their nightly prayers. The schism between Bhaal's remaining followers and the emerging Cyric-Bhaalists reached its apex in the {{YearlinkName|1367}}, getting to the point where the factions would ambush and assault one another. Soon later, the remaining worshipers of Bhaal stopped receiving their divine powers and began gradually converting to [[Church of Cyric|Cyricism]] or [[Church of Iyachtu Xvim|Xvimism]].<ref name="F&A-p46" />
+
+===Reemergence===
+For a time, it was believed that any possibility for Bhaal's resurrection had been stopped. The last known Bhaalspawn, [[Abdel Adrian]], resisted the murderous impulses caused by his lineage and became a famed and beloved figure in the city of [[Baldur's Gate]]. In the {{YearlinkName|1482}}, near the beginning of the era known as the [[Second Sundering]], [[Viekang]], another Bhaalspawn who was thought to be dead, attacked Adrian as he spoke to a crowd in the portion of town known as The Wide. While the ultimate winner of the duel is unknown, the victor transformed into a massive, blood-soaked creature and began a rampage that was only stopped when a group of adventurers new to Baldur's Gate defeated and killed the monstrosity.<ref name="MiBG-CG-p3">{{Cite book/Murder in Baldur's Gate/Campaign Guide|3}}</ref>
+
+With all of his children dead, all of Bhaal's essence was freed, allowing for his resurrection. Bhaal was revived, and reclaimed the murder domain from [[Cyric]].<ref name="SCAG5e-p17">{{Cite book/Sword Coast Adventurer's Guide|17}}</ref> However, the Lord of Murder was no longer a true deity, and was instead a being of [[quasi-deity|quasi-divine]] status. As with Bane and Myrkul, he was effectively a mortal.<ref name="BG.DiA-p231" /> In [[1492 DR]], the city of [[Baldur's Gate]] saw a spate of murders by cultists of the Dead Three.<ref name="BG.DiA-p11">{{Cite book/Baldur's Gate: Descent into Avernus|11}}</ref>
+
+==Appendix==
+{{Incomplete}}
+===Gallery===
+<gallery>
+Dead Three mural.jpg|''A mural depicting the [[Dead Three]].''
+Bhaal.png|''[[Kae Deverell|Bhaal's avatar]] giving the stink-eye.''
+Bhaal Avatar Bg3.png|''Bhaal posessing [[Sceleritas Fel]].''
+BaBG cover art.jpg|''Bhaal posessing a mortal, cover art from ''[[Betrayal at Baldur's Gate]]''.''
+Bhaal bg3.png|''Concept art for Bhaal from ''[[Baldur's Gate III]]''.''
+</gallery>
+
+===Further Reading===
+*{{Cite dragon/322/Faiths of Faerun: Deathstalkers of Bhaal}}
+
+===Appearances===
+{{Appearances
+| adventures          = ''[[Waterdeep (adventure)|Waterdeep]]''
+| adventure refs      = 
+| novels              = ''[[Tantras (novel)|Tantras]]''; ''[[Waterdeep (novel)|Waterdeep]]''; ''[[Black Wizards]]'' • ''[[Darkwell (novel)|Darkwell]]''
+| novel refs          = 
+| films               = 
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = {{BGapp|SoD|ToB|BG3}}
+| video game refs     = ''[[Neverwinter Nights: Darkness over Daggerford]]''
+| board games         = ''[[Betrayal at Baldur's Gate]]''
+| board game refs     = 
+| card games          = {{MTGapp|CLB}}
+| card game refs      = 
+| organized play      = 
+| organized play refs = 
+}}
+
+===External Links===
+{{External link disclaimer}}
+*{{BGW}}
+*{{BG3}}
+
+===References===
+{{Refs}}
+
+===Connections===
+{{Faerûnian pantheon}}
+{{Deity list}}
+[[de:Bhaal]]
+[[Category:The Dead Three]]
+[[Category:Death domain deities]]
+[[Category:Destruction domain deities]]
+[[Category:Evil domain deities]]
+[[Category:Retribution domain deities]]
+[[Category:Faerûnian pantheon]]
+[[Category:Humans]]
+[[Category:Intermediate deities]]
+[[Category:Lesser deities]]
+[[Category:Lawful evil deities]]
+[[Category:Formerly mortal deities]]
+[[Category:Inhabitants of Khalas]]
+[[Category:Inhabitants of Gehenna]]
+[[Category:Inhabitants of the Astral Plane]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]

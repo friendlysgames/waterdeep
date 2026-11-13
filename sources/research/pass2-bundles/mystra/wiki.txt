@@ -1,0 +1,213 @@
+WIKI PAGE: Mystra
+
+{{GA}}{{see also|Mystryl|Mystra (Midnight)}}
+{{Deity
+| image               = Mystra cover.jpg
+| caption             = 
+| name                = Mystra
+| title               = The Lady of Mysteries<ref name="SCAG5e-p21,35,125-126">{{Cite book/Sword Coast Adventurer's Guide|21, 35, 125-126}}</ref><ref name="CotR-13">{{Cite book/Cyclopedia of the Realms|13}}</ref><ref name="FRCS2e.RtR-47">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (Revised)/Running the Realms|47}}</ref><ref name="FRA-27">{{Cite book/Forgotten Realms Adventures|27}}</ref> <br /> The Mother of All Magic<ref name="SCAG5e-p21,35,125-126" /><ref name="FA-128">{{Cite book/Faiths & Avatars|128}}</ref> <br />Mistress of Magic<ref name="ElMotM-p122" /><br/> Our Lady of Spells<ref name="SCAG5e-p21,35,125-126" /><ref name="FA-128" /><br />The Mother of Mystery<ref name="por2">{{Cite game/Pool of Radiance: Ruins of Myth Drannor}}</ref><br/>Lady Magic<ref name="cru-p30">{{Cite book/Crucible|30}}</ref><br/>Lady of Magic<ref name="cru-p31">{{Cite book/Crucible|31}}</ref><br/>Lady of Might<ref name="ElMotM-p122" /><br/>One True Spell<ref name="ElMotM-p122">{{Cite book/Elminster: The Making of a Mage/MMP|122|7}}</ref><br/>Goddess of Magic<ref name="cru-p35">{{Cite book/Crucible|35}}</ref><br />{{Derogatory}} The Whore<ref>{{Cite book/Prince of Lies|176,319}}</ref><br/>The Harlot<ref name="cru-p160,194">{{Cite book/Crucible|160,194}}</ref>
+| adjective           = Mystran<ref name="FA-p130">{{Cite book/Faiths & Avatars|130}}</ref>
+| symbol              = A blue-white star<ref name="CotR-13" />
+| aspects             = Ri'dea'mystra<ref name="SFS2e-p56">{{Cite book/Sea of Fallen Stars|56}}</ref> 
+| pantheon            = [[Faerûnian pantheon]]
+| servedby            = [[Azuth]]<ref name="CotR-17">{{Cite book/Cyclopedia of the Realms|17}}</ref>
+| gender              = Feminine
+| died                = [[1358 DR]]<ref name="Shadow-21">{{Cite book/Shadowdale (adventure)|21}}</ref>
+| portfolio           = [[Magic]], Spells, [[The Weave]]
+| worshipers          = [[Bard]]s, [[wizard]]s, seekers of arcane lore, mostly [[human]]<ref name="FA-129">{{Cite book/Faiths and Avatars|129}}</ref>
+| mortalrace          = [[Human]]<ref name="N.EoM-12">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|12}}</ref>
+| mortalsex           = Female<ref name="N.EoM-12" />
+| mortalhomes         = [[Netheril]]<ref name="N.EoM-12" />
+| apotheosis          = {{Yearlink|-339}}<ref name="N.EoM-12" />
+| power5e             = 
+| alignment5e         = 
+| symbol5e            = 
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = 
+| domains5e           = 
+| worshipers5e        = 
+
+| channel divinity5e  = 
+| holy days5e         = 
+| class5e             = 
+| refs5e              = 
+| power4e             = 
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = 
+| power3e             = 
+| alignment3e         = 
+| symbol3e            = 
+| homeplane3e         = 
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = 
+| domains3e           = 
+| worshipers3e        = 
+| cleric alignments3e = 
+| favored weapon3e    = 
+| holy days3e         = 
+| class3e             = 
+| refs3e              = 
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Lawful neutral]]
+| symbol2e            = Blue-white star
+| homeplane2e         = [[Nirvana]]
+| realm2e             = 
+| serves2e            = 
+| servedby2e          = [[Azuth]]
+| portfolio2e         = Magic
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = 
+| refs2e              = <ref name="FRCS2e.RtR-47"/><ref name="FA-128"/>
+| power1e             = [[Greater deity]]
+| alignment1e         = [[Lawful neutral]]
+| symbol1e            = Blue-white star
+| homeplane1e         = [[Nirvana]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = [[Azuth]]
+| portfolio1e         = Magic
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="CotR-13" /><ref>{{Cite book/Cyclopedia of the Realms|17}}</ref>
+| animals             = 
+| plants              = 
+| monsters            = 
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  = 
+| church              = yes
+| temples             = yes
+}}
+'''Mystra''' ({{Pronounce|MISS|trah|audio=Mystra.ogg|refs=<ref name="CotR-13" /><ref>{{Cite book/Forgotten Realms Campaign Setting 3rd edition|247}}</ref><ref name="FP3e-p50">{{Cite book/Faiths and Pantheons|50}}</ref>}}) was a [[greater deity|greater goddess]] of the [[Faerûnian pantheon]]<ref name="CotR-13" /> and the second incarnation of the goddess of [[magic]] after her predecessor [[Mystryl]] sacrificed herself to protect the [[Weave]] from [[Karsus's Folly]].<ref name="N.EoM-12" /> The '''Mother of all Magic''', she was destroyed by [[Helm]] when she defied the will of [[Ao]] the overgod and attempted to leave the [[Prime Material Plane]] during the [[Time of Troubles]].<ref name="Shadow-21" /> At the conclusion of the [[Godswar]], Ao offered the position of Goddess of Magic to the wizard [[Midnight]],<ref name="Waterdeep-41">{{Cite book/Waterdeep (adventure)|41}}</ref> who reluctantly accepted and took Mystra's name in order to smooth the transition after so much chaos.<ref name="FA-128" />
+
+{{quote|''I am Mystra. I am the Lady of Might and the Mistress of Magic! I am Power Incarnate! Wherever magic is worked, there am I – from the cold poles of [[Toril]] to its hottest jungles, whatever the hand or claw or will that works the sorcery! Behold me and fear me! Yet behold me and love me–as all who deal with me in honesty do. This world is my domain. I am magic, mightiest among all those men worship. I am the One True Spell at the heart of all spells. There is no other.''|The Mother of All Magic to young [[Elminster Aumar]]<ref name="ElMotM-p122" />}}
+
+==Description==
+The only known description of the mortal that became Mystra was of a "beautiful peasant girl" who was just beginning her studies of the [[magic|Art]].<ref name="N.EoM-12" />
+
+[[Image:CaitlanMoonsong.jpg|thumb|200px|left|Caitlan Moonsong, who served as an avatar of Mystra.]]
+As a goddess, Mystra could ''[[shape change]]'' at will<ref name="Shadow-42">{{Cite book/Shadowdale (adventure)|42}}</ref> and mortals who saw her reported she changed constantly.<ref name="CotR-13" /> Others described her appearing in a form resembling a multicolored [[will-o'-wisp]].<ref name="CotR-13" /><ref name="FRCS2e.RtR-47" /> When Mystra revealed herself to Midnight just before the gods were forced to walk the land of [[Toril]], she was at first just a dark figure surrounded by an aura of blue-white light. As she created the pendant that held some of her power, the glow revealed the face of a "beautiful, willful young woman, with hints of a long-borne pain."<ref name="Shadow-5">{{Cite book/Shadowdale (adventure)|5}}</ref> Mystra's avatar at the time was a slim, young girl named [[Caitlan Moonsong]] who had a graceful bearing, large, dark eyes and short-cropped blond hair. Caitlan went barefoot and wore plain ankle-length robes of a dark hue.<ref name="Shadow-12">{{Cite book/Shadowdale (adventure)|12}}</ref> When possessed by Mystra, she appeared taller and her hair moved as if it were alive.<ref name="Shadow-21" />
+
+==Personality==
+This incarnation of the Mother of All Magic was quite the opposite of her predecessor, [[Mystryl]]. Whereas Mystryl was quixotic and quick to change,<ref name="N.EoM-49">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|49}}</ref> Mystra was said to be a manifestation of the Cosmic Balance&mdash;maintaining order in the world of magic by correcting great inequalities if things went askew.<ref name="CotR-13" /> Indeed, in the wake of the [[Fall of Netheril]], one of her first acts as the Lady of Spells was to ban the use of all magic greater than ninth level.<ref name="N.EoM-12" /> Among sages and historians this was known as [[Mystra's Ban]].<ref name=LEoF-43">{{Cite book/Lost Empires of Faerûn|43}}</ref> She was not as concerned with the ethics of [[Good]] versus [[Evil]] as long as the laws of magic were upheld.<ref name="OHG-170">{{Cite book/On Hallowed Ground|170}}</ref>
+
+Early in Mystra's tenure, she chose a champion, called the [[Magister]], to wander the Realms, applying the Art as he or she saw fit, choosing enemies that would bring glory to the title. She fully expected that her representative would be challenged and eventually defeated by other mages, only to be replaced by another spellcaster worthy of the office. It was her belief that in this way the Art would be strengthened and improved through conflict and adversity.<ref name="Mag-2">{{Cite book/The Magister|2}}</ref>
+
+Toward the end of her reign as the keeper of the Weave, she had grown tired and bitter, fed up with the schemes, maneuverings, and blatant attacks that her preeminent position attracted from every power-hungry being, sycophant, and fawning parasite, for century after century. Her pride in her status, and the kindness and respect she received from those that aided or worshiped her for other than magical gain, kept her hopes alive.<ref name="Shadow-42" />
+
+==Abilities==
+The Lady of Spells could cast any spell ever known at maximum level, one offensive and one defensive spell per minute. The only exceptions to this were if she cast ''[[wish]]'', ''[[time stop]]'', ''[[alter reality]]'', or ''[[gate]]'', which required enough concentration that no other spell could be cast in combination.<ref name="CotR-13" /><ref name="Shadow-42" /> She could ''shape change'' at will and could grant other creatures spell knowledge by touching them.<ref name="Shadow-42" /> She controlled and provided the Weave, allowing (relatively) safe access to the power of raw magic to mortal spellcasters and magical craftsmen.<ref name="FA-128" /><ref name="Shadow-42" />
+
+==Activities==
+Mystra kept watch over magical research and regulated the advancement and dissemination of magical knowledge throughout the mortal world.<ref name="Shadow-42" />
+
+==Relationships==
+The first Magister was [[Azuth]], a powerful and brash young wizard who found joy and beauty in works of Art.<ref name="PP-47">{{Cite book/Powers & Pantheons|47}}</ref> Eventually, she sponsored him to godhood to serve her and he became a [[demipower]], the Patron of Wizards,<ref name="CotR-10">{{Cite book/Cyclopedia of the Realms|10}}</ref> passing the mantle of Magister on to his successor. Another strong wizard, this one efficient and methodical, caught Mystra's eye and she also sponsored [[Savras]] the All-Seeing to godhood.<ref name="PP-47" /> Azuth and Savras both sought the favor of Mystra (some say romantically as well) and the two fought for many years, both gaining in power, becoming [[lesser deity|lesser deities]] in the process.<ref name="PP-47" /><ref name="FA-34">{{Cite book/Faiths & Avatars|34}}</ref> Eventually, Azuth defeated Savras, reducing him back to demigod status and imprisoning him in a jewel-encrusted staff, the [[Scepter of Savras]].<ref name="PP-47" /><ref name="VGtATM-113">{{Cite book/Volo's Guide to All Things Magical|113}}</ref> Azuth grew to be Mystra's friend and adviser and they had great affection for each other.<ref name="FA-34" />
+
+The Lady of Mysteries was known to work with [[Oghma]] and his cadre ([[Gond]], [[Milil]], and [[Deneir]]),<ref name="CotR-17" /> although she had some sort of rivalry with Gond.<ref name="FA-128" /> Bane attempted to wrest power from Mystra at some point and he captured and tortured her avatar during the [[Godswar]].<ref name="FA-128" /> [[Talos]] was another deity that did not get along with Mystra.<ref name="FA-128" />
+
+In the 8th century of [[Dale Reckoning]], Mystra possessed a powerful sorceress named [[Elué]], and in seven years she had seven daughters known collectively as the [[Seven Sisters]]. As a result of Mystra's presence at conception and birth, all seven daughters were strong immortal spellcasters. They each served Mystra in their own unique way.<ref name="FRCS3e-280">{{Cite book/FRCS|280}}</ref> Outside of [[Realmspace]], Mystra was an ally of Wee Jas from [[Oerth]].<ref name="OHG-167">{{Cite book/On Hallowed Ground|167}}</ref>
+
+===Mystra's Chosen===
+[[File:Elminster and mystra.png|thumb|''Mystra, manifesting herself in front of young [[Elminster]].'']]
+{{main|Chosen of Mystra}}Mystra also had powerful unaging servants among her ranks of followers, including [[Elminster Aumar|Elminster]], [[Khelben Arunsun]],<ref name="FRCS3e-247">{{Cite book/FRCS|247}}</ref> the [[Seven Sisters]],<ref name="FRCS3e-280" /> the [[necromancer]] [[Sammaster]].<ref name="RtR-25">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (Revised)/Running the Realms}}</ref><ref name="GHotR-105">{{Cite book/The Grand History of the Realms|105}}</ref>.
+===The Church===
+{{main|Church of Mystra}}All manner of spellcasters ([[cleric]]s, [[crusader]]s, [[druid]]s, [[monk]]s, [[paladin]]s, [[rangers]], [[shaman]]s, and [[wizard]]s) were included in the hierarchy of Mystra's church. Wizards who primarily followed Azuth or other deities would usually show some devotion to Mystra as well.<ref name="FRCS2e.RtR-47" />
+
+==History==
+Moments after the [[Fall of Netheril]], a peasant girl with rudimentary magical training but an aptitude for spells became the new Goddess of Magic and managed to catch three of Netheril's floating cities as they plummeted, bringing them to rest on the ground and saving thousands of her people.<ref name="N.EoM-12" /> Being of a more [[Alignment|lawful]] disposition than her predecessor, she laid down new rules for all spellcasters, banning spells above 10th level, limiting who had access to magic, limiting how many spells of each level could be held in the mind, increasing the time it took to cast spells, and forcing long periods of memorization or prayer each day to replace spells cast previously. [[Arcanist]]s no longer had to specialize in a form of magic but could generalize. This eventually led to arcanists being called wizards.<ref name="N.EoM-116">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|116}}</ref>
+
+Little is known of the acts of the Lady of Mysteries except through the words and works of her church and her [[Chosen of Mystra|Chosen]]. Her known deeds are:
+* She established the title of Magister to be granted to one master of the Art at a time, and let them do as they willed for good or ill.<ref name="Mag-2" />
+* She sponsored [[Azuth]] and [[Savras]] to godhood, asking them to help her govern her rather deep and vital portfolio.<ref name="PP-47" />
+* In [[240 DR]], she made [[Elminster Aumar]] one of her Chosen.<ref name="GHotR-67">{{Cite book/The Grand History of the Realms|67}}</ref>
+* In [[292 DR]], [[Aloevan]] of [[Ardeep]] became a Chosen of both Mystra and [[Sehanine Moonbow]]<ref name="GHotR-69">{{Cite book/The Grand History of the Realms|69}}</ref>
+* In [[464 DR]], Mystra rewarded the self-sacrifice of a wandering wizard tutored in [[Myth Drannor]] by rescuing him from death and making him the Nameless Chosen, later known as [[Khelben|Khelben "Blackstaff" Arunsun]].<ref name="GHotR-88">{{Cite book/The Grand History of the Realms|88}}</ref>
+* In [[761 DR]],<ref name="FRCS3e-280" /> Mystra schemed to create the [[Seven Sisters]] by possessing their sorceress mother [[Elué]].<ref name="GHotR-101">{{Cite book/The Grand History of the Realms|101}}</ref> All seven grew to be powerful in their own ways and became her Chosen.<ref name="FRCS3e-280" />
+* In [[851 DR]], [[Sammaster]] the necromancer accepted the offer to become a Chosen of Mystra.<ref name="GHotR-105" />
+* The [[House of Wonder]] in [[Waterdeep]] was dedicated to Mystra in [[1215 DR]].<ref name="GHotR-125">{{Cite book/The Grand History of the Realms|125}}</ref>
+* In [[1358 DR]], in the last hour before the gods were banished to walk the land as mortals, Mystra entrusted [[Midnight]] with a portion of her power in the form of a pendant, and asked her to keep it safe for a time.<ref name="Shadow-5" />
+
+[[Image:MystraImprisoned.jpg|thumb|right|Mystra imprisoned by Bane.]]
+As the centuries passed, Mystra grew tired of the ceaseless grasping for power through pleading, flattery, or treachery. She and her portfolio were the target of gods and mortals alike and that took its toll on the Mother of All Magic.<ref name="Shadow-42" /> Being thrown down to Toril with all the other gods and then being captured and tortured by [[Bane]] was apparently the last straw;<ref name="Shadow-5" /> Mystra sought dissolution.<ref name="Waterdeep-2">{{Cite book/Waterdeep (adventure)|2}}</ref> After securing a portion of her power with Midnight, Mystra disappeared.<ref name="Shadow-5" /> Days later, [[Caitlan Moonsong]] pleaded to a group of adventurers ([[Adon]], the mortal [[Kelemvor Lyonsbane]], and the mortal [[Cyric]]) to rescue her mistress from imprisonment in [[Castle Kilgrave]] in northern [[Cormyr]].<ref name="Shadow-12" /> Midnight accompanied the band of heroes on the rescue mission and with her help they succeeded in freeing Mystra from the clutches of [[Bane]].<ref name="Shadow-20">{{Cite book/Shadowdale (adventure)|20}}</ref>
+
+[[Image:MystraVsHelm.jpg|thumb|left|350px|Mystra assails Helm with her magic.]]
+Immediately upon being freed, Mystra possessed Caitlan as her avatar and retrieved the pendant from Midnight, regaining much of her power. She then opened a ''gate'' to the [[Ethereal Plane]] and took the group to the [[Celestial Stairway]], which was guarded by [[Helm]]. Mystra argued with Helm saying she had nothing to do with the theft of the [[Tablets of Fate]] and to let her pass so that she might speak to Lord [[Ao]] and regain her rightful place as keeper of the Weave. Helm steadfastly refused to let her pass and gave her fair warning.<ref name="Shadow-21" />
+
+Furious, she attacked him with bolts and beams of energy, fire and ice, mystic blades and magical hammers, and dread creatures with fangs and claws, coils and maws, wings and tentacles. Helm held firm, absorbing or brushing off each of her assaults. Weeping blue-flame tears of anger and frustration, she grappled with Helm and fire leaped from her mouth. Helm held her off with one hand and raised his visor. As their gaze met, Mystra let out a terrible scream heard across the Realms as she saw her doom written in his face. Helm drew back and punched his gauntleted fist through her chest and Caitlan's body exploded in a blindingly hot flash of devastating power.<ref name="Shadow-21" />
+
+When the heroes regained their sight, they were standing on a circular stone foundation; all that was left of Castle Kilgrave. The landscape around them was charred and blasted for a half-mile (800 meters) in every direction.<ref name="Shadow-21" /> Helm had lowered his visor and stood in the mouth of the ''gate''. He admonished the group to seek out the Tablets of Fate with more wisdom than the former goddess. He then vanished through the ''gate'' as it closed behind him. Midnight looked down to find Mystra's pendant lying at her feet.<ref name="Shadow-22">{{Cite book/Shadowdale (adventure)|22}}</ref>
+
+==Rumors and Legends==
+* Those who thought Mystra was eternal said that she gave the races of the [[Prime Material Plane]] the first lessons that unlocked the secrets of magic. Those with a wry wit said she regretted this ever afterward.<ref name="CotR-13" />
+* It was a widely held belief among practitioners of magic that Mystra adjudicated success in magical experimentation to create new potions, spells, and magical items,<ref name="CotR-13" /> and with good reason.<ref name="Shadow-42" />
+* It was believed that the newly reincarnated goddess either destroyed Karsus's notes on his ultimate spell,<ref name="PP-36">{{Cite book/Powers & Pantheons|36}}</ref> or sent them flying off to the far corners of the multiverse.<ref name="N.EA-10">{{Cite book/Netheril: Empire of Magic/Encyclopedia Arcana|10}}</ref>
+
+==Appendix==
+===Notes===
+* The 3{{rd}} edition sourcebook, ''[[Magic of Faerûn]]'', incorrectly states that this incarnation of Mystra was slain "in [[Waterdeep]] in battle with [[Myrkul]] and other powerful beings."<ref name="MoF-5">{{Cite book/Magic of Faerûn|5}}</ref>
+* The alignments of the clergy in the infobox were derived from the list on page 129 of ''[[Faiths & Avatars]]'' (LG, NG, CG, LN, CN, LE) and subtracting those that were likely due to Midnight's influence (NG, CG, CN), leaving just the lawful alignments. A DM can alter this to fit the campaign of course.
+
+===Trivia===
+* The [[Dwarven Dungeons]]' Main Halls' entrance that was located in [[Stillwater Ruins|Stillwater Ruins.]] In the final days of the [[Weeping War]] it was sealed by the ''word of power'' "''Alahnmalyr''" (the word of [[Mystra]]).<ref name="POD2">{{Cite game/Pool of Radiance: Ruins of Myth Drannor}}</ref>
+* Worshipers of the goddess often swore "by Mystra's Truth."<ref name="tMH-57">{{Cite book/The Magehound/MMP|57|4}}</ref>
+
+===Appearances===
+{{Appearances
+| novels          = [[Shadowdale (novel)|''Shadowdale'']]; {{Drapp|390|Lord of the Darkways}}; ''[[Elminster: The Making of a Mage]]''
+| novel refs      = ''[[The Magehound]]''
+| video game refs = ''[[Pool of Radiance: Ruins of Myth Drannor]]''; ''[[Baldur's Gate III]]''
+}}
+
+===Gallery===
+<gallery widths="200">
+Mystra symbol 1.svg|''The [[holy symbol]] of Mystra.''
+Midnight.JPG|''[[Midnight]], the last Chosen of Mystra.''
+Pre TOT mystra.jpg|''Mystra traveling the planes before the [[Time of Troubles]].''
+Mystra's death.jpg|''Mystra's death during the Time of Troubles.''
+</gallery>
+
+===References===
+{{Refs}}
+
+===Connections===
+{{Faerûnian pantheon}}
+{{AoH deity list}}
+[[de:Mystra]]
+[[Category:Faerûnian pantheon]]
+[[Category:Greater deities]]
+[[Category:Human deities]]
+[[Category:Lawful neutral deities]]
+[[Category:The Pentad]]
+[[Category:The Three]]
+[[Category:Magic domain deities]]
+[[Category:Inhabitants of Mechanus]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of feminine gender]]
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:The Seven Gods of the Dancing Place]]

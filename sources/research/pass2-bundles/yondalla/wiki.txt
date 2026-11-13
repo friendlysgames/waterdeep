@@ -1,0 +1,178 @@
+WIKI PAGE: Yondalla
+
+{{Deity
+| image               = Yondalla_p98.jpg
+| caption             = A depiction of Yondalla
+| name                = Yondalla
+| title               = The Protector and Provider<ref name="FP141">{{Cite book/Faiths and Pantheons|141}}</ref><ref name="DD-179"/><br/>The Nurturing Matriarch<ref name="FP141"/><ref name="DD-179"/><br/>The Blessed One<ref name="FP141"/><ref name="DD-179"/><br/>Matriarch Protector and Sovereign Creator<ref name="BGIII">{{Cite game/Baldur's Gate III}}</ref>
+| adjective           = Yondallan<ref name="DD-p181">{{Cite book/Demihuman Deities|181}}</ref>
+| symbol              = 
+| aspects             = Dallillia ([[Sword Coast]] south of [[Waterdeep]])<ref name="DD-179"/><br/>Perissa ([[Moonshae Isles|Moonshaes]])<ref name="DD-179"/>
+| power               = 
+| status              = 
+| primordial          = 
+| pantheon            = [[Yondalla's Children]]<ref name="MToF-pp102-103">{{Cite book/Mordenkainen's Tome of Foes|102-103}}</ref><ref name="SCAG5e-p23,109" />
+| home                = 
+| formerhomes         = 
+| died                = 
+| race                = 
+| gender              = Feminine
+| mortalhomes         = 
+| apotheosis          = 
+| power5e             = 
+| alignment5e         = [[Lawful good]]
+| symbol5e            = Cornucopia on a shield
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Fertility, protection
+| domains5e           = [[Life domain|Life]],<br/>
+[[Twilight domain|Twilight]]<ref name="TCoE-p34">{{Cite book/Tasha's Cauldron of Everything|34-35}}</ref>
+| worshipers5e        = Halflings
+
+| channel divinity5e  = ''[[Preserve life]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG5e-p23,109">{{Cite book/Sword Coast Adventurer's Guide|23,109}}</ref><ref name="PHB5e-p296">{{Cite book/Player's Handbook 5th edition|296}}</ref>
+| power4e             = 
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = 
+| power3e             = [[Greater deity]]
+| alignment3e         = [[Lawful good]]
+| symbol3e            = 
+| homeplane3e         = [[Green Fields]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Protection, Bounty, Halflings, Children, Security, Leadership, Wisdom, Creation, Family, Tradition
+| domains3e           = [[Family domain|Family]], [[Gluttony domain|Gluttony]], [[Good domain|Good]], [[Halfling domain|Halfling]], [[Law domain|Law]], [[Protection domain|Protection]]
+| mantles3e           = {{Mantles|Communication|Freedom|Good|Repose}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = Children, [[halflings]], leaders, [[paladins]], parents
+| cleric alignments3e = {{alignment grid |on|on|off|on|off|off|off|off|off}}
+| favored weapon3e    = [[Hornblade (short sword)|''Hornblade'']] ([[short sword]])
+| holy days3e         = 
+| class3e             = 
+| refs3e              = <ref name="FRCS-240">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|240}}</ref><ref name="FP141" /><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref>
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Lawful good]]
+| symbol2e            = Shield with cornucopia
+| homeplane2e         = [[Mount Celestia]]/[[Venya]]
+| realm2e             = [[Green Fields]]
+| serves2e            = 
+| servedby2e          = [[Arvoreen]],<ref>{{Cite book/Demihuman Deities|162}}</ref> [[Brandobaris]],<ref>{{Cite book/Demihuman Deities|166}}</ref> [[Cyrrollalee]],<ref>{{Cite book/Demihuman Deities|169}}</ref> [[Sheela Peryroyl]],<ref>{{Cite book/Demihuman Deities|172}}</ref> [[Urogalan]]<ref>{{Cite book/Demihuman Deities|175}}</ref>
+| portfolio2e         = Death, nature, protection,<ref name="TSS" /> fertility, the [[halfling]] race, children, security, leadership, diplomacy, wisdom, the cycle of life, creation, family, familial love, tradition, community, harmony, prosperity
+| spheres2e           = <small>'''major:'''</small> [[All sphere|All]], [[Animal sphere|Animal]], [[Creation sphere|Creation]], [[Divination sphere|Divination]], [[Guardian sphere|Guardian]], [[Law sphere|Law]], [[Necromantic sphere|Necromantic]], [[Protection sphere|Protection]], [[Healing sphere|Healing]], [[Plant sphere|Plant]], [[Weather sphere|Weather]], [[Wards sphere|Wards]]<br /><small>'''minor:'''</small> [[Combat sphere|Combat]], [[Sun sphere|Sun]]
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = {{Class table|edition=2e|[[Cleric]]|37|[[Paladin]]|30|[[Wizard]]|29}}
+| refs2e              = <ref name="DD-179">{{Cite book/Demihuman Deities|179-180}}</ref><ref name="TSS">{{Cite book/The Shining South (1993)/Luiren Specialty Priests}}</ref>
+| power1e             = 
+| alignment1e         = 
+| symbol1e            = 
+| homeplane1e         = 
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = 
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = 
+| animals             = 
+| plants              = 
+| monsters            = 
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  = 
+| rules               = 
+}}
+'''Yondalla''' ({{Pronounce|yon|DAH|lah|refs=<ref name="FP141" />}}) was the creator of the [[halfling]] race and matriarch of not only the [[halfling pantheon]], but the whole race itself. With her charming personality and friendly demeanor she was an example to all halflings; who almost all shared her curiosity, loyalty and sense of mischief.<ref name="FP141" />
+
+{{quote|''Fill my cup with plenty, mother. May it never run dry.''|A basic prayer to Yondalla<ref name="bg3">{{Cite game/Baldur's Gate III}}</ref>}}
+
+==Relationships==
+Yondalla had close bonds with [[Garl Glittergold]], [[Corellon Larethian]] and [[Moradin]]. With the passion with which she loved and admired her fellow halfling deities, sometimes known as 'Yondalla's Children', she scorned certain evil deities, such as [[Bane]], [[Cyric]], [[Talona]], [[Talos]], and the [[Deities of Fury]].<ref name="FP141" />
+
+==Worshipers==
+{{Quote|Fill my cup with plenty, mother. May it never run dry.|A basic prayer to Yondalla.<ref name="BG3">{{Cite game/Baldur's Gate III}}</ref>}}[[File:Yondalla_symbol.jpg|250px|left|thumb|The holy symbol of Yondalla]]
+Despite her widespread worship among halflings and her central role in their society; her temples were unusually rare, those that did exist were designed to look like a well-hidden halfling burrow-home and were filled with weapons and food so that the communities that surrounded them could hold out against possible invaders. Her clergy were afforded a lot of respect by the followers of other gods for their defensive capabilities in spite of their small stature.
+
+[[Cleric|Clerics]] of Yondalla considered the short sword to be a favored weapon, in honor of the Goddess' sword [[Hornblade (short sword)|Hornblade]].<ref>[[Ed Greenwood]], [[Sean K. Reynolds]], [[Skip Williams]], [[Rob Heinsoo]] (June 2001). ''[[Forgotten Realms Campaign Setting 3rd edition]]''. ([[Wizards of the Coast]]), p. 240. ISBN [[Special:BookSources/0-7869-1836-5|0-7869-1836-5]].</ref> Powerful clerics were granted the ability to cast ''[[Curse of Yondalla]]'', a spell reserved to be used against those who committed foul crimes against halflings.<ref name="DD-182">{{Cite book/Demihuman Deities|182}}</ref>
+
+[[File:Halfling funeral.png|center|381x381px|A statue of Yondalla watched over a halfling funeral|thumb]]
+
+==History==
+{{sectstub}}
+
+==Appendix==
+===Gallery===
+<gallery>
+Yondalla priest.png|''A [[hin]] priest of Yondalla.''
+</gallery>
+===Further Reading===
+* {{Cite dragon/177/Defenders of the Hearth|82-88}}
+* {{Cite book/Faiths and Pantheons}}
+===Appearances===
+{{Appearances
+| adventures          = 
+| adventure refs      = 
+| novels              = 
+| novel refs          = 
+| films               = 
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = 
+| video game refs     = ''[[Baldur's Gate III]]''
+| board games         = 
+| board game refs     = 
+| card games          = 
+| card game refs      = 
+| miniatures          = 
+| miniature refs      = ''[[Dungeons & Dragons Miniatures]]''
+| organized play      = 
+| organized play refs = 
+}}
+
+===References===
+{{Refs}}
+===Connections===
+{{Halfling pantheon}}
+{{Deity list}}
+[[Category:Aspects of Chauntea]]
+[[Category:Yondalla's Children]]
+[[Category:Greater deities]]
+[[Category:Lawful good deities]]
+[[Category:Family domain deities]]
+[[Category:Gluttony domain deities]]
+[[Category:Good domain deities]]
+[[Category:Halfling domain deities]]
+[[Category:Law domain deities]]
+[[Category:Protection domain deities]]
+[[Category:Inhabitants of Green Fields]]
+[[Category:Inhabitants of Venya]]
+[[Category:Inhabitants of Mount Celestia]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the Celestial planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Twilight domain deities]]
+[[es:Yondalla]]

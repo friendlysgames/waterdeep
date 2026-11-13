@@ -1,0 +1,332 @@
+WIKI PAGE: Corellon
+
+{{Deity
+| image               = 
+<gallery>
+Corellon p63.jpg|3e
+Corellon-1e.png|1e
+</gallery>
+| caption2            = Corellon, Ruler of All Elves.
+| name                = Corellon Larethian
+| title               = Coronal of Arvandor<ref name="DDp101"/><ref name="F&Pp125-126"/><br /> Ruler of All Elves<ref name="DDp101"/><ref name="F&Pp125-126"/><br /> Creator of the Elves<ref name="DDp101"/><ref name="F&Pp125-126"/><br /> Father of Elvenkind<ref name="HCCAG9">{{Cite dragon/408/History Check: Corellon and Gruumsh|9}}</ref><br /> First of the Seldarine<ref name="DDp101"/><ref name="F&Pp125-126"/><br /> Preserver of Life<ref name="DDp101"/><ref name="F&Pp125-126"/><br /> The Protector<ref name="DDp101"/><ref name="F&Pp125-126"/><br /> The Big Fairy (derogatory)<ref name="DM62">{{Cite dragon/62/The Gods of the Orcs|28}}</ref><br/>Lord of Cowardice (derogatory)<ref name="HCCAG8">{{Cite dragon/408/History Check: Corellon and Gruumsh|8}}</ref><br/>Lord of the wood<ref name="DP-p90">{{Cite book/Divine Power|90}}</ref><br/>Lord of the stars<ref name="DP-p90"/><br/>Maker of songs<ref name="DP-p90"/><br/>Teacher of arts<ref name="DP-p90"/><br/>Lord of magic<ref name="DP-p90"/><br/>Lord of starlight<ref name="DP-p90"/><br/>Lover of beauty<ref name="DP-p90"/><br/>Poet of night<ref name="DP-p90"/>
+| adjective           = Corellite<ref name="FRCS4e-p74">{{Cite book/Forgotten Realms Campaign Guide|74}}</ref>
+| aspects             = 
+| pantheon            = [[Seldarine]]
+| minions             = 
+| died                = 
+| gender              = Masculine<ref name="DD1e-p91">{{Cite book/Deities & Demigods 1st edition|91}}</ref><ref name="DD-101" /><ref name="MTF5e-p35-36">{{Cite book/Mordenkainen's Tome of Foes|35-36}}</ref><ref group="note">Although Corellon had no biological sex and appeared as either a male or a female, all sources refer to him by male pronouns exclusively, since elves perceived him as a father figure. His avatar is also stated to manifest as an "androgynous male elf" in ''[[Demihuman Deities]]'', p. 101.</ref>
+| mortalhomes         = 
+| apotheosis          = 
+| power5e             = [[Deity]]
+| alignment5e         = [[Chaotic good]]
+| symbol5e            = Quarter moon or starburst
+| homeplane5e         = [[Arborea]]
+| realm5e             = [[Arvandor]]
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Art, magic
+| domains5e           = [[Arcana domain|Arcana]], [[Life domain|Life]], [[Light domain|Light]], [[War domain|War]]
+| worshipers5e        = 
+
+| channel divinity5e  = ''[[Arcane abjuration]]''<br />''[[Preserve life]]''<br />''[[Radiance of the dawn]]''<br />''[[Guided strike]]''<br />''[[War god's blessing]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG-23, 125-126">{{Cite book/Sword Coast Adventurer's Guide|23, 125-126}}</ref><ref name="PHB5e-p60-61,63,296">{{Cite book/Player's Handbook 5th edition|60-61,63,296}}</ref><ref name="MTF5e-p43-45,48">{{Cite book/Mordenkainen's Tome of Foes|43-45,48}}</ref>
+| power4e             = [[Greater deity]]
+| alignment4e         = [[Good]]
+| symbol4e            = 
+| dominion4e          = [[Arvandor]]
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = [[Fey]]
+| domains4e           = [[Corellon domain|Corellon]], [[Arcana domain|Arcana]], [[Skill domain|Skill]], [[Wilderness domain|Wilderness]]
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = ''[[Step together]]''
+| holy days4e         = [[Shieldmeet]]
+| class4e             = 
+| refs4e              = <ref name="FRCG-62, 73-74">{{Cite book/Forgotten Realms Campaign Guide|62, 73-74, 80}}</ref><ref name="Dragon378-32">{{Cite dragon/Domains in Eberron and the Forgotten Realms|32}}</ref><ref name="NCS-54-56">{{Cite book/Neverwinter Campaign Setting|54-56}}</ref>
+| power3e             = [[Greater deity]]
+| alignment3e         = [[Chaotic good]]
+| symbol3e            = 
+| homeplane3e         = [[Arvandor]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = [[Vandria Gilmadrith]], [[Alobal Lorfiril]]<ref>{{Cite book/Races of the Wild}}</ref>
+| portfolio3e         = Arts, crafts, elves (esp. [[sun elves]]), magic (elven magic, [[High Magic]]), music and bards, poetry and poets, war and warriors
+| domains3e           = [[Chaos domain|Chaos]], [[Elf domain|Elf]], [[Good domain|Good]], [[Magic domain|Magic]], [[Pride domain|Pride]], [[Protection domain|Protection]], [[War domain|War]]
+| mantles3e           = {{Mantles|Chaos|Good|Guardian|Magic}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = 
+| cleric alignments3e = {{alignment grid|off|on|on|off|off|on|off|off|off}}
+| favored weapon3e    = [[Sahandrian]] ([[longsword]])
+| holy days3e         = 
+| class3e             = 
+| refs3e              = <ref name="F&Pp125-126"/><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref>
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Chaotic good]]
+| symbol2e            = Crescent moon
+| homeplane2e         = [[Arborea]]/[[Arvandor (layer)|Olympus]]
+| realm2e             = [[Arvandor]]
+| serves2e            = 
+| servedby2e          = [[Aerdrie Faenya]],<ref>{{Cite book/Demihuman Deities|94}}</ref> [[Angharradh]],<ref>{{Cite book/Demihuman Deities|97}}</ref> [[Deep Sashelas]],<ref>{{Cite book/Demihuman Deities|104}}</ref> [[Erevan Ilesere]],<ref>{{Cite book/Demihuman Deities|108}}</ref> [[Fenmarel Mestarine]],<ref name="DD-111"/> [[Hanali Celanil]],<ref>{{Cite book/Demihuman Deities|114}}</ref> [[Kirith Sotheril]],<ref name="D236">{{Cite dragon/236/The Seldarine Revisited}}</ref> [[Labelas Enoreth]],<ref>{{Cite book/Demihuman Deities|117}}</ref> [[Rillifane Rallathil]],<ref>{{Cite book/Demihuman Deities|120}}</ref> [[Sehanine Moonbow]],<ref name="DD-125"/> [[Shevarash]],<ref>{{Cite book/Demihuman Deities|129}}</ref> [[Solonor Thelandira]],<ref>{{Cite book/Demihuman Deities|132}}</ref> [[Tethrin Veraldé]]<ref name="D236"/>
+| portfolio2e         = Arts, crafts, elves (esp. [[gold elves]]), magic (elven magic, [[High Magic]]), music and bards, poetry and poets, war and warriors
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = {{class table|edition=2e|[[Fighter]]|36|[[Wizard]]|35|[[Bard]]|29|[[Cleric]]|25}}
+| refs2e              = <ref name="DDp101"/>
+| power1e             = Greater deity
+| alignment1e         = [[Chaotic good]]
+| symbol1e            = Quarter moon
+| homeplane1e         = [[Arvandor (layer)|Olympus]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = [[Rillifane Rallathil]], [[Hanali Celanil]], [[Deep Sashelas]], [[Labelas Enoreth]]
+| portfolio1e         = Elves; arts, crafts, music, poetry, and magic
+| worshipers1e        = Elves
+| cleric alignments1e = Chaotic good
+| holy days1e         = 
+| class1e             = {{Class table|edition=1e|[[Bard]]|15|[[Cleric]]|13|[[Druid]]|13|[[Illusionist]]|20|[[Magic-user]]|20|[[Ranger]]|20}}
+| refs1e              = <ref name="DD1e">{{Cite book/Deities & Demigods 1st edition|91}}</ref>
+| rules               = 
+| animals             = 
+| plants              = 
+| monsters            = [[Aasimar]]<br />[[Solar]]s<br />[[Baelnorn]]s<br />[[Centaur]]s<br />[[Dryad]]s<br />[[Celestial]] [[elves]]<br />[[Gold dragon]]s<br />[[Hybsil]]s<br />[[Lillend]]s<br />[[Lythari]]<br />[[Nymph]]s<br />[[Silver dragon]]s<br />[[Unicorn]]s<br />[[Song dragon]]s
+| minerals            = [[Beljuril]], [[diamond]], [[moonstone]], [[star ruby]], [[star sapphire]]
+| colors              = Blue, silver
+| misc manifestations = A blue aura<br />Shooting stars<br />A rising, blue-tinted crescent moon<br />A blue star
+| manifestation refs  = <ref name="DD&D-p10">{{Cite web enhancement/Deity Do's and Don'ts|10}}</ref>
+| church              = yes
+}}
+'''Corellon''', or more fully '''Corellon Larethian''' ({{Pronounce|kor|el|un|_|la|RETH|ee|an|refs=<ref name="D.93.APG-p26">{{Cite dragon/93/Ay pronunseeAYshun gyd|26}}</ref>|audio=Corellon.ogg}}), whose titles included '''Creator of the Elves''' and '''the Protector''', was the patron god of all [[elves]]. He was the creator and preserver of the [[Tel'Quessir]], governing those things held in the highest esteem among elves, such as magic, music, arts, crafts, poetry, and warfare. Corellon lived in the realm of [[Arvandor]]. He blessed those who aided others and became angered at those who defiled the dead.<ref name="DDp101">{{Cite book/Demihuman Deities|101-103}}</ref><ref name="F&Pp125-126">{{Cite book/Faiths & Pantheons|125-126}}</ref>
+
+{{quote
+|''Starleaf turned, and her eyes widened in awe and terror. Standing before her were two golden-haired elves, too beautiful to be mortal beings. The male was dressed in armor, and lights swirled like dizzy stars within the wondrous sword that hung at his side. His female counterpart, gloriously gowned and shining with gems the color of starlight, stepped forward and lifted the stunned forest elf to her feet. Starleaf knew without doubt that she beheld the most powerful of the elven gods, and she sank into a deep reverence.''
+|[[Starleaf]] gazing upon Corellon and [[Angharradh]]<ref name="EIoE-p151">{{Cite book/Evermeet: Island of Elves/Hardcover|151}}</ref>
+}}
+
+==Description==
+As the personification of all things elven, Corellon was at once a warrior and a poet, a mage and a bard, and a male and a female. However, in his love of [[Araushnee]], he settled into the aspect of a male [[gold elf]] warrior, a counterpart to her female [[dark elf]] artist.<ref name="EIotE-29">{{Cite book/Evermeet: Island of Elves/MMP|29}}</ref> While he retained the capacity to assume female or male form, he conventionally appeared as an androgynous male elf possessed of lithe build and preternatural beauty. His [[avatar]]s stood {{SI|7|ft|long=yes}} tall and displayed exceptional speed, reflexes, and grace, as well as a strength obvious to all.<ref name="DD-101">{{Cite book/Demihuman Deities|101}}</ref>
+
+He always appeared wearing a sky-blue [[cloak]], a large [[amulet]] displaying a crescent moon within a circle, and a pair of dazzling gauntlets.<ref name="DD-101"/>
+
+==Personality==
+Corellon was highly intelligent, possessing the mind of a supreme military strategist and skills of a warrior, but his heart was that of an artist, musician and wizard, preferring to seclude himself from the rest of the world surrounded by loved ones while making new spells and pushing the boundaries of artistic expression.<ref name="DM408-p6"/><ref name="DM408-p7"/> If any artistic masterpiece of elven civilization were to be lost to the annals of history, Corellon would keenly search for it and return it to his people.<ref name="CD-p110">{{Cite book/Complete Divine|110}}</ref>
+
+He carried himself with grace and beauty. Guided by wisdom and careful consideration, he spread the knowledge of the arcane arts to those he deemed worthy.<ref name="DM408-p6"/>
+While Corellon shared the elven trait of pride that could border arrogance,<ref name="EIotE-21">{{Cite book/Evermeet: Island of Elves/MMP|21}}</ref> this never got the better of him. He was a god with an endless willingness to learn from others and acted on it, even including mortals in his sources of discovering new information, methods, and philosophies.<ref name="DD-101"/>
+
+All life in its many forms was sacred to Corellon and as one is vigilant against their enemies so should they be vigilant against their own shortcomings and lapses in judgement less they become the very thing they fought against.<ref name="MM-p26"/>
+
+The Protector believed that mercy, love and pity were the three most important traits that a good person should have and emphasized showing those traits when dealing with those who walk the path of evil. The god frowned upon mortals who dispense cruelty and death when the situation does not call for it or could easily be avoided. Despite this, Corellon sometimes did not heed his own mantra and enacted harsh poetic justice, with little place for forgiveness. Even so, when enough time passes, the god was humble enough to realize when he overreacted in his judgement or in the wrong and made sure to do everything in his power to make amends.<ref name="MM-p26">{{Cite book/Monster Mythology|26}}</ref>
+
+In his youth he was described as a "glory seeking deity" alongside the rest of the Seldarine<ref name="PoCBoC-p39">{{Cite book/Planes of Chaos/The Book of Chaos|39}}</ref> and was indifferent to the lives and troubles of non-fey and non-elves.<ref name="TPA-p37-38">{{Cite book/The Plane Above|37-38}}</ref> If dark elf legends hold any degree of truth he even considered the N'Tel'Quess as lesser races and entertained Araushnee's proposition to conquer and rule over them, before ultimately changing his mind and rejecting her proposal, believing that such actions were not befitting of elven culture and that elves should live by example not lower themselves to their "inferiors".<ref name="DotU-p32">{{Cite book/Drow of the Underdark|32}}</ref> By interacting with other gods and their creations during the Dawn War and later through Sehanine's guidance, Corellon opened his eyes to the beauty and love of other creations that were not his own, seeing their imperfections as wonders that made them unique and worth fighting for.<ref name="TPA-p37-38"/>
+
+==Powers==
+Corellon was a master swordsman and a powerful mage. He expertly wielded his longsword and longbow and could cast spells from all spheres and schools. He could cast any ritual of [[elven high magic]] like casting a normal spell and could summon one to four powerful [[air elemental]]s once every 10 minutes who then served him as long as he needed them.<ref name="DD-101"/>
+
+Corellon was immune to everything that inhibited his ability to move, caused wounds, or tampered with his mind, as well as to all [[illusion]] spells. It was impossible to hurt him with a weapon with an enchantment of less than ''+3''.<ref name="DD-101"/>
+
+==Possessions==
+Corellon owned ''[[Sahandrian]]'', his glittering [[longsword]], and ''[[Amlath'hana]]'', his [[longbow]], which he could use to hit targets up to {{SI|1|mile|k|long=yes}} away. He did not lack for ammunition because his quiver had an endless supply of arrows.<ref name="DD-101"/>
+
+His amulet worked like an ''[[amulet of pure good]]''. He had a [[wand]] that worked like a ''[[staff of power]]'', ''[[staff of the magi]]'', and a ''[[wand of frost]]'' with unlimited uses.<ref name="DD-101"/>
+
+==Divine Realm==
+Corellon's realm was on [[Arvandor]] on the [[Arvandor (layer)|first layer]] of [[Arborea]].<ref name="DD-100">{{Cite book/Demihuman Deities|100}}</ref> He resided in the [[Crescent Grove]] palace alongside his consort Sehanine Moonbow.<ref name="PGtF">{{Cite book/Player's Guide to Faerûn|143}}</ref><ref name="OHG-95">{{Cite book/On Hallowed Ground|95}}</ref><ref name="OHG-97">{{Cite book/On Hallowed Ground|97}}</ref>
+
+==Activities==
+Elves believed that they were reincarnated with a definitive, final goal of perfection. Corellon, alongside [[Sehanine Moonbow]], was the souls' guide towards that perfected state.<ref name="DD-125">{{Cite book/Demihuman Deities|125}}</ref>
+
+He wandered incognito on [[Toril]] to observe priests and craftsmen, and was even known to take a direct hand in protecting elven borders. As a general rule, he watched over the elven race as a guardian.<ref name="DD-101"/>
+
+The one type of magic that the Protector considered too corrupt for elves, and thus the province of drow, was use of the [[Shadow Weave]]. He was angered by an elf who experimented with it.<ref name="MoF-8">{{Cite book/Magic of Faerûn|8}}</ref>
+
+==Relationships==
+===Allies===
+====Seldarine====
+[[File:Seldarinehunting.PNG|thumb|250px|right|''Left to right: the gods Labelas Enoreth (top), Rillifane Rallathil, Corellon Larethian, Solonor Thelandira, and Malar (foe, foreground).'']]
+Corellon was the leader of the [[Seldarine]], the elven pantheon,<ref name="F&Pp125-126"/> and was generally close with all of them, except [[Fenmarel Mestarine]]<ref name="DD-92">{{Cite book/Demihuman Deities|92}}</ref> who was the partner in adultery of [[Lolth]], his former wife.<ref name="DD-111">{{Cite book/Demihuman Deities|111}}</ref> After the latter's banishment he was married to [[Angharradh]].<ref name="F&Pp125-126"/> Of the three children he had with his first wife, only [[Vandria Gilmadrith]] remained with him in the Seldarine.<ref>{{Cite book/Races of the Wild|23-24}}</ref>
+
+====Others====
+He was allied with various deities from the [[Faerûnian pantheon]] who dealt with nature or magic as well with the leaders of the [[Morndinsamman|dwarven]], [[Lords of the Golden Hills|gnomish]], and [[Yondalla's Children|halfling]] pantheons,<ref name="F&Pp125-126"/> because to Corellon, [[human]] expansion was a source of fear.<ref name="DD-100"/>
+
+He was allied with his daughter [[Eilistraee]].<ref name="F&Pp125-126"/> This relationship was polite but distant, and [[Erevan Ilesere]] was closer to his daughter than he was.<ref name="DDp13">{{Cite book/Demihuman Deities|13}}</ref> He was also known to be on good terms with the other deities of magic [[Azuth]], [[Mystra]], and (through Sehanine) [[Savras]].<ref name="MoF-p8">{{Cite book/Magic of Faerûn|8}}</ref>
+
+There was an [[archfey]] known as the Rose King who claimed to be Corellon's [[demigod]] son. Although this was never proven, the archfey's own daughter, Liria Valthorin, became a devout follower of the elven god, leading an organization known as the House of Flowers against the [[drow]] that caused the death of the Rose King.<ref>{{Cite dragon/386/Channel Divinity: Corellon|64}}</ref>
+
+===Enemies===
+====Gruumsh====
+According to [[orc]]s, the relationship between [[Gruumsh]] and the elven deities degenerated to hostility after the latter participated in a prank with the gods of other pantheons. They rigged a lot drawing to determine where each race was entitled to live and there were none for the orcs. Gruumsh was mocked, but destitution for the orcs was averted by Gruumsh creating a niche for the orcs to live. Henceforth, the orc pantheon was an enemy of the others, including of the elven one.<ref name="MM-43">{{Cite book/Monster Mythology|43}}</ref>
+
+While the orcs deny it, Corellon was said to have cut out one of Gruumsh's eyes.<ref name="F&Pp149">{{Cite book/Faiths & Pantheons|149}}</ref>
+
+====Dark Seldarine====
+Corellon counted the whole [[drow]] pantheon, the [[Dark Seldarine]], as his enemies. These included [[Lolth]], his former wife; [[Vhaeraun]], his son; and [[Selvetarm]], his grandson, with only his daughter [[Eilistraee]] an exception.<ref name="DD-100" /><ref name="F&Pp125-126" />
+
+[[Lolth]] was once Corellon's wife.<ref name="DD-26">{{Cite book/Demihuman Deities|26}}</ref> She tried to take over his position as the head of the Seldarine and failed. For this crime, she was sentenced to banishment. She changed into a spider monster and attacked Corellon. Corellon couldn't kill her and she escaped.<ref name="E.IoE-70-72">{{Cite book/Evermeet: Island of Elves/MMP|70-72}}</ref> Lolth hated Corellon and, due to her inability to fight him directly, her hatred took the form of hurting surface elves.<ref name="E.IoE-139">{{Cite book/Evermeet: Island of Elves/MMP|139}}</ref> She considered this at best a secondary priority. Having fun at urging and seeing the drow fighting themselves was more important to her than putting efforts in killing the people of her former husband.<ref name="LoD-29">{{Cite book/Lords of Darkness|29}}</ref>
+
+After [[Vhaeraun]]'s betrayal during the War of the Seldarine, Corellon Larethian exiled him.<ref name="E.IoE-69">{{Cite book/Evermeet: Island of Elves/MMP|68-69}}</ref> He gave up on the idea of getting his son Vhaeraun to abandon his ways.<ref name="DD-101"/> He even vowed to kill him, if he ever tried to hurt his sister,<ref name="E.IoE-69"/> which was an empty threat, for the Masked Lord did threaten the Dark Maiden's life, without known action against him on Corellon's part.<ref name="E.IoE-109">{{Cite book/Evermeet: Island of Elves/MMP|109}}</ref>
+
+===Other===
+Other enemies of his were the [[goblinoid pantheon|goblinoid]] and [[orc pantheon]]s and [[Bane]], [[Cyric]], [[Malar]], and [[Talos]].<ref name="F&Pp125-126"/>
+
+===Servitors===
+The Seldarine as whole, Corellon included, favored [[Agathinon|agathinons]], [[asuras]] and elder [[treants]] as agents of their will. The Father of Elvenkind also had the following species under his command:  [[aasimar]], [[aasimon]] (such as his twin [[solars]]), [[baelnorn]], [[buraq]], [[cath shee]], [[centaurs]], [[cooshee]], [[disenchanter]]s, [[dryads]], [[einheriar]], [[celestial eladrin|eladrins]] (particularly [[firre]]s and [[ghaele]]s), [[elven cat]]s, [[feystag]]s, [[firestar]]s, [[firetail]]s, [[gold dragon]]s, [[hamadryads]], [[hollyphant]]s, [[hybsil]]s, [[Incarnate|incarnates of charity]], [[Incarnate|courage]], [[Incarnate|faith]], [[Incarnate|hope]], [[Incarnate|justice]], [[Incarnate|temperance]], and [[Incarnate|wisdom]], [[ki-rin]], [[kholiathra]], [[lillendi]], [[lythari]], [[marut]]s, [[moon dog]]s, [[moon-horse]]s, [[noctral]]s, [[nymph]]s, [[oread]]s, [[per]]s, [[phoenix]]es, [[Reverend Ones|reverend ones]], [[Seelie fey|seelie faeries]], [[sharn]], [[silver dog]]s, [[silver dragon]]s, [[sylph]]s, [[spectral wizard]]s, [[spellhaunt]]s, [[sprite]]s, [[sunfly|sunflies]], [[t'uen-rin]], [[unicorns]], [[weredragon]]s, and [[wizshade]]s.<ref name="DD-p122">{{Cite book/Demihuman Deities|122}}</ref>
+
+==Worshipers==
+{{Quote|I bid my soul glide across the moon and stars with you, Elffather.|A basic prayer.<ref name="BG3">{{Cite game/Baldur's Gate III}}</ref>}} [[File:Corellonpriest.png|thumb|250px|''A priest of Corellon.'']]
+===Orders===
+* [[Fellowship of the Forgotten Flower]]: The fellowship was a loosely structured organization made of elven knights or elven warriors dedicated to the recovery of lost elven relics from long-abandoned realms.<ref name="DDp101"/>
+* [[Knights of the Golden Wyrm]]<ref name="DD-p124">{{Cite book/Demihuman Deities|124}}</ref>
+* [[Swords of the Seldarine]]<ref name="DD-p124"/>
+* [[Blade of Sahandrian]]<ref name="DD-p124"/>
+* [[Fey Staghorns]]<ref name="DD-p124"/>
+* [[Wings of Yathaghera]]<ref name="DD-p124"/>
+* [[Knights of the Alicorn]]<ref name="DD-p124"/>
+* [[Weavers of Bladesong]]<ref name="DD-p124"/>
+* [[Vassals of the Reverend Ones]]<ref name="DD-p124"/>
+* [[Swords of Evereska]]<ref name="DD-p124"/>
+
+===Temples===
+{{Main|:Category:Temples to Corellon Larethian}}
+
+==History==
+{{Fq
+| width  = 375px
+| source = A discourse on the history, myths and legends of Corellon Larethian<ref name="DM394-p33">{{Cite dragon/394/Channel Divinity: Corellon's Devoted|33}}</ref>
+| text   = You have come seeking truth about Corellon. To this I will ask you a question. What is truth when it comes to the gods? What is history and what is legend? Is there a difference? Is it not said that Corellon sired the elven races? You have heard the tale where elves rose from his blood spilled by Gruumsh during that fateful contest where Corellon took the monstrous god’s eye. But have you also heard the tale in which Corellon battled the Spider Queen and cast her into the abyssal darkness? It is said elvenkind also rose from the blood she spilled. There is also the tale of how the elven people were born from those tears he shed during the times of the Triune Harmony, with the races rising from tears of sorrow, beauty, and mirth. What would you say if I told you all three tales were true? How can this be? Corellon is a god, and with the gods all things are possible.
+}}
+Genesis myths of the people collectively known as elvenkind-[[elves]], [[eladrin]] and [[drow]]-connected their bloodlines to their one and only creator Corellon Larethian. Of course, each myth had its own version of the tale or a different spin on a another which was a natural result of elves dispersing into different lands and planes, while morphing into different cultures as the years pass. The most popular myths revolve around Corellon's tears of sorrow, beauty, and mirth from which [[dark elves]], [[high elves]] and [[wood elves]] were created from the respective corresponding emotions. They were created during the time of the Triune Harmony, when Sehanine, Corellon and Araushnee lived in blissful peace with one another. The three elven nations were united as one people and gave prayer to Corellon and the Seldarine. When Araushnee's rebellion tore through the realm, dark elves answered her call to war, spilling the blood of their kin and in doing so ended the unity of elvenkind.<ref name="DM394-p34-35">{{Cite dragon/394/Channel Divinity: Corellon's Devoted|34-35}}}}</ref>
+
+The second grouping of myths have their origins in ancient times and recount Corellon's battles, the wounds he received and spilled blood. One particular story depicted Araushnee as a demonic seductress who made love to the naive god, and from moments of passion the dark elves were conceived. Understanding the depravity he just partook in, Corellon battled the demon and banished her to the [[Abyss]]. During the battle drops of Corellon's blood fell on the [[Prime Material]] and wherever the divine blood rained the elves were given flesh and form.<ref name="DM394-p34-35"/>
+
+Similarly, legends depicting the fated duals of Corellon and Gruumsh mention how the elves were born from Corellon's bleeding wounds inflicted by Gruumsh, while the [[orcs]] in parallel were formed from Gruumsh's blood flowing out of the injuries brought upon by Corellon's blades and arrows.<ref name="DM394-p34-35"/>
+
+===The Twin Gods===
+In [[Heresy|heretical]] teachings, Corellon was the twin brother of the [[orc]] god [[Gruumsh]]. The twins were sons of a primogenitor god, who's divinations warned him of the incoming [[Dawn War]]. To ensure the survival of his sons and the victory of the gods over the [[primordials]], the deity ended his own life and redistributed the power he had between the two children. Corellon was made beautiful, weightless as a feather and intelligent, while his brother embodied darkness and the mastery over chaos and savagery. As the older brother with wisdom well above his age, the primogenitor gave Corellon the secrets of the [[Art]] knowing that his oldest son would not abuse the knowledge or share it with the unworthy. Gruumsh, lacking Corellon's brilliance and looks, had a special place in the primogenitor's heart, bestowing him with the power of foresight. The primogenitor hoped that his two sons will combine their power and lead the gods to victory in the wars to come.<ref name="DM408-p6">{{Cite dragon/408/History Check: Corellon and Gruumsh|6}}</ref>
+
+The rivalry and clash of blades between the two brothers began long before the Dawn War due to their contrasting personalities, but these battles lacked the hatred and intensity of later conflicts.<ref name="DM408-p6"/>
+
+===Prior to the War of the Seldarine===
+The Coronal of Arvandor, prior to being known as Corellon Larethian was just Corellon in the beginning until he consumed another deity by the name of Larethian, claiming their powers and byname.<ref name="GG-SS">{{Cite archive/Greenwood's Grotto/2023-03-10/Seldarine "surnames"}}</ref> Corellon dominated Larethian's mind and absorbed the god without killing them, before finally annexing Larethian's church and faithful.<ref name="LLOTR-10">{{Cite web/Ed Greenwood's Patreon/Lost Lore of the Realms 10}}</ref> Larethian seemed to have had some connection and involvement in the previously mentioned ''Twin Brother'' heresy, much of which was shrouded in mystery.<ref name="Q&A-5">{{Cite web/Ed Greenwood's Patreon/Q&A 5}}</ref>   
+
+Corellon originally came from the plane of [[Ysgard]] where he was the god of hunting and archery. The Ysgardian hunter aspect was engaged in a long-protracted conflict with the beast lord [[Malar]] who had killed and hurt several of Corellon's loved ones, family and friends alike, vowing to never end the hunt until all of them were avenged while also motivated to keep those he cherished from harm's way, which only Malar's death could grant.<ref name="Q&A7">{{Cite web/Ed Greenwood's Patreon/Q&A 7}}</ref> At some point, he decided to conquer part of [[Arborea]] by driving out the resident [[giant]]s and thus [[Arvandor]] was founded. The surviving giants went to the land, the elves abandoned their emigration to Arvandor and founded [[Jotunheim]] on Ysgard, the first layer of Ysgard.<ref name="39, 115">{{Cite book/Planes of Chaos/The Book of Chaos|39, 115}}</ref> With the passage of time and the changing of Corellon's personality, the Ysgardian aspect faded away and lost all worshipers, and the conflict with Malar took a back seat, as the troubles the elves faced in days ahead required Corellon's full attention and leadership that only the Allfather of Elvenkind could grant.<ref name="Q&A7"/> 
+
+Corellon once had many forms for every elven aspect, but he settled into that of a male gold elf warrior when he made Araushnee his bride. This was to create a duality with her: male and female, warrior and artist, day and night. He also gave dominion over the [[dark elves]] to his wife. They had twin children, the elder called Vhaeraun, the younger called Eilistraee, who was the favored one.<ref name="EIotE-29, 68">{{Cite book/Evermeet: Island of Elves/MMP|29, 68}}</ref>
+
+Before the collapse of the [[First World]], Corellon planted the World Tree [[Yggdrasil]] in its soil and cultivated its growth. Its branches spread to the [[Outer Planes]] and when First World shattered, the seeds of the World Tree grew into and formed all of the planets of the [[Material Plane]].<ref name="DMG5eR-p198">{{Cite book/Dungeon Master's Guide 5th edition (revised)|198}}</ref>
+
+====The Feywild====
+The two were joined by [[Sehanine Moonbow]] and together formed a triumvirate of gods that ruled over the [[Feywild]] and the [[Fey Pantheon]].<ref name="TPA-p37"/> It was said that Corellon was the first immortal to lay his eyes on the beauty and wonder of the Feywild, so enamored was he that he decided to claim the land for his creations.<ref name="WPRnC-p34">{{Cite book/Wizards Presents: Races and Classes|34}}</ref> Before his arrival, the Feywild was the land of untamed nature, lawless with no courts, churches, kingdoms or civilizations, where wild beasts roamed the land and the fey were even more anarchic, frolicking and capering wherever and whenever they pleased. Elvenkind did not exist during those days, while [[gnomes]], [[treant]]s, [[satyrs]], [[dryads]] and other fey who compromised the [[Court of Stars of the Feywild]]-the parliament of [[archfey]]<ref name="MotP4e-p36-37">{{Cite book/Manual of the Planes 4th edition|36-37}}</ref>-were in abundance.<ref name="DM422-p4-6">{{Cite dragon/422/Hyrsam, Prince of Satyrs|4-6}}</ref> Legends further claim that Corellon created the [[fey]] out of all the sadness, beauty and happiness he experienced, which he liquefied into tears. His crying was often brought upon by laughter, gazing at Sehanine's acrobatics or Araushnee's quips and wit. Even when they mocked one another their feelings were genuine, sharing trust and empathy when needed, and together displayed their power and wealth to the rest of the world. Their unity began to shatter during the [[Dawn War]] when Araushnee began drifting apart from the pair culminating in her rebellion, marking the end of the Fey Pantheon.<ref name="TPA-p37">{{Cite book/The Plane Above|37}}</ref>
+
+====The Dawn War====
+Corellon didn't immediately join the armies of the gods in their conflict against the primordials, preferring to seclude himself in the Feywild with the Seldarine and the Fey Gods, dedicating his body and soul to the creation of music, magic and art that no being in existence could ever surpass. Records of these times say that it was in this era when the first [[elves]] and [[eladrin]] came to be.<ref name="DM408-p6"/> Eventually, Corellon realized the danger lingering over creation and decided to join the fray, bringing with him armies of fey and mortal worshipers. His twin brother Gruumsh on the other hand, fought from the very beginning, battling the primordials from one dawn to the next, without a hint of weariness or loss of strength, earning him the title He Who Never Sleeps. Both brothers were devoted to the cause, fighting arm to arm, shoulder to shoulder, driving off the [[demons]] and primordials back from whence they came, just as the primogenitor predicted. Corellon battled with the might of a true general, never lagging behind his brother. The war filled Corellon's heart with a sense of camaraderie towards his twin, but for Gruumsh this marked the beginning of his resentment for he only harbored ill will towards his sibling, fueled by jealousy for the divine coalition's preferential treatment of Corellon, despite the fact that the elven god arrived late to the hour while his orc sibling answered the first call to arms and fought when the first blood was spilled. Corellon was admired by all, his military accomplishments applauded him as the master of warfare and the greatest [[mage]] to have ever lived.<ref name="DM408-p7">{{Cite dragon/408/History Check: Corellon and Gruumsh|7}}</ref>
+
+====The Godswar====
+[[File:Corellon vs Gruumsh.jpg|thumb|250px|left|''Corellon Larethian cutting out the eye of Gruumsh.'']]
+By this point, his enmity with Gruumsh was already quite old.<ref name="EIotE-19">{{Cite book/Evermeet: Island of Elves/MMP|19}}</ref> According to legends, it started with him participating in rigging lots to the detriment of Gruumsh (see Relationships).<ref name="MM-43" /> But he managed to draw the god to the negotiation table. Gruumsh attacked him there, destroying ''Sahandrian''. Corellon fought back but lost, owing to a combination of elven arrogance and support from a traitor—unbeknownst to him, his wife Araushnee had caused his blade to break. While running for his life to reach Arvandor, he was tracked down by the [[orc]] god and there Sehanine Moonbow appeared and restored his sword to him. The two gods fought and Corellon disarmed and gouged out one of Gruumsh's eyes, but the battle ended because Corellon couldn't kill an unarmed and wounded enemy. Corellon then went home to Arvandor, because Gruumsh promised he would fight him if he stayed and the elven god didn't want to risk his own demise.<ref name="EIotE-19-28">{{Cite book/Evermeet: Island of Elves/MMP|19-28}}</ref> In elven myth, drops of Corellon's blood mixed with the tears of Sehanine (or in some stories Angharradh) and from this emerged the first elves.<ref name="DD-100"/><ref name="F&Pp125-126"/> Meanwhile, from the mingled blood or Corellon and Gruumsh was spawned the [[Elf-Eater]].<ref name="CoR-150">{{Cite book/Champions of Ruin|150}}</ref>
+
+====Battle with Malar====
+Back home, he was assaulted by Malar, who was persuaded by Araushnee to attack Corellon. They fought and the elven god won.<ref name="EIotE-34-42">{{Cite book/Evermeet: Island of Elves/MMP|34-42}}</ref>
+
+===War of the Seldarine===
+Araushnee again tried to kill her husband, by starting a war with an army of pantheons opposed to the Seldarine, like the [[goblin pantheon]], [[bugbear pantheon]], [[kobold pantheon]], and others, though this army was expected to lose. The real plan that Araushnee and her son and confidant Vhaeraun pursued, involved arranging for Eilistraee to give her father a cursed [[scabbard]] that drew arrows to the wearer, and let her daughter shoot her father to death by drawing her arrows. The battle began, but by this point Corellon knew that he had a traitor in his pantheon. When Ghaunadaur appeared (unplanned for by Araushnee), Corellon understood the depths of depravity the traitor was capable of for the ooze god could only come to Arvandor when a real force of evil was there. He was attacked by an [[ogre]] god and tried to draw his weapon but ''Sahandrian'' stuck in the cursed sheath and Eilistraee's arrows hit him.<ref name="EIotE-55-62, 137">{{Cite book/Evermeet: Island of Elves/MMP|55-62,137}}</ref>
+
+Two factors saved Corellon: the sturdiness of his ribcage and the fact that Eilsitraee used ogre-sized arrows too big to pass through his ribs. Araushnee tried to poison him with a dose of Eilistraee's hunting poison, but was saved by Sehanine Moonbow. The moon goddess created his new wife Angharradh with Aerdrie Faenya and Hanali Celanil. After healing her husband, Araushnee and Vhaeraun were put on trial. Sehanine recounted her story and the sentence was banishment for Araushnee. Eilistraee went willingly into exile at the request of her brother for she had visions of undefined dark times<ref name="EIotE-63-69">{{Cite book/Evermeet: Island of Elves/MMP|63-69}}</ref> (which would be providing a force for good for the drow against the evil of Lolth and Vhaeraun).<ref name="DD-13">{{Cite book/Demihuman Deities|13}}</ref>
+
+Araushnee was declared a [[tanar'ri]] and after a short fight against her former husband escaped.<ref name="EIotE-69-72">{{Cite book/Evermeet: Island of Elves/MMP|69-72}}</ref>
+
+===[[First Flowering]]===
+Around {{Yearlink|-17600}},<ref name="TGHotR-10">{{Cite book/The Grand History of the Realms|10}}</ref> non-dark elves chose to create a dark elf–free piece of land. They tried to create it, and would have botched it if not for Corellon's and other elven gods' direct intervention. [[Evermeet]] was created with the [[First Sundering]]—the literal sundering of an entire continent—as a side effect. The Protector and Angharradh appeared before [[Starleaf]] and gave her the [[Tree of Souls]].<ref name="EIotE-157-163">{{Cite book/Evermeet: Island of Elves/MMP|157-163}}</ref>
+
+===[[Crown Wars]]===
+The sun elf nation of [[Aryvandaar]] wanted to get rid of the dark elves as a species. They devised a ritual that tied the dark elves to ''[[faerzress]]'' and thus to the [[Underdark]], keeping them there.<ref name="SotD-277-280">{{Cite book/Storm of the Dead|277-280}}</ref> Towards that end, Corellon's magic, channeled through his priests and high mages, turned all dark elves into [[drow]] and they were forced into the Underdark around {{Yearlink|-10000}}.<ref name="TGHotR-15">{{Cite book/The Grand History of the Realms|15}}</ref>
+
+After the [[Fourth Crown War]], Corellon urged the elves to form the [[Elven Court]]. They decided [[House Vyshaan]] to be the responsible party for the Crown Wars and believed they had Corellon's mandate to kill them. The Fifth Crown War started and ended thus<ref name="LEoF-56">{{Cite book/Lost Empires of Faerûn|56}}</ref> around {{Yearlink|-9200}}.<ref name="TGHotR-16">{{Cite book/The Grand History of the Realms|16}}</ref>
+
+===[[Age of Humanity]]===
+Some time before [[714 DR]], before the fall of [[Cormanthor]], elves wearied of competing with [[human]]s over land and wanted land for themselves free of encroaching human expansion.<ref name="RoF-27">{{Cite book/Races of Faerûn|27}}</ref> Under Corellon, the Seldarine started the [[Retreat]],<ref name="DD-92"/> a mystical compulsion felt by elves to abandon their lands for [[Evermeet]].<ref name="RoF-27" /> Most of Corellon's orders followed the call and left [[Faerûn]].<ref name="DDp101"/>
+
+In [[1379 DR]], a [[High Magic]] ritual performed by [[Q'arlynd Melarn]] transformed hundreds among those drow who were not tainted by [[Wendonai]]'s blood or who followed Eilistraee into dark elves, and Corellon thus permitted the souls of the newly transformed dark elves to enter his domain in Arvandor.<ref name="AotL-302-303, 307">{{Cite book/Ascendancy of the Last|302-303, 307}}</ref>
+
+===Post-Spellplague===
+After the [[Spellplague]] of [[1385 DR]], Corellon's power stayed that of a [[greater deity]], something that couldn't be said about the other deities of the Seldarine.<ref name="FRCG-80-81">{{Cite book/Forgotten Realms Campaign Guide|80-81}}</ref>
+
+==Appendix==
+{{Incomplete|}}
+===Background===
+[[James M. Ward]] created Corellon Larethian for ''[[Deities & Demigods 1st edition|Deities & Demigods]]'' (1980).
+
+===Notes===
+{{Notes}}
+
+===Appearances===
+:;Video Games
+::{{Refonly}}
+:: <small>''[[Baldur's Gate III]]''</small>
+:;Miniatures
+::<small>''[[Dungeons & Dragons Miniatures]]''</small>
+
+===Gallery===
+<gallery>
+Corellon symbol.gif|''The holy symbol of Corellon.''
+Corellon symbol - Mike Schely.jpg|''A later holy symbol of Corellon.''
+Corellon_symbol_2.svg|''A later holy symbol of Corellon.''
+Corellon painting.png|''A late 15{{th}} century [[DR]] painting of Corellon as a dark haired woman.''
+Priest of Corellon Larethian.png|''A [[priest]] of Corellon Larethian in ceremonial armor of the faith.''
+LightDomain PHB5e2024.png|''A cleric of Corellon.''
+</gallery>
+
+===External Links===
+{{External link disclaimer}}
+* {{BG3|Corellon Larethian}}
+* {{CRW}}
+* {{DnD 4e Wiki external link}}
+
+===Further Reading===
+*{{Cite book/On Hallowed Ground}}
+*{{Cite book/Demihuman Deities|121-126}}
+*{{Cite book/Evermeet: Island of Elves/Hardcover}}
+*{{Cite book/Elves of Evermeet}}
+*{{Cite book/Faiths & Pantheons|125-126}}
+*{{Cite book/Deities and Demigods}}
+*{{Cite book/Complete Divine}}
+*{{Cite book/Deities & Demigods 1st edition}}
+*{{Cite book/Forgotten Realms Campaign Guide|73-74}}
+
+===References===
+{{Refs}}
+
+===Connections===
+{{Seldarine}}
+{{Deity list}}
+[[Category:Magic domain deities]]
+[[Category:Seldarine]]
+[[Category:Arcana domain deities]]
+[[Category:Chaotic good deities]]
+[[Category:Chaos domain deities]]
+[[Category:Good domain deities]]
+[[Category:Protection domain deities]]
+[[Category:Skill domain deities]]
+[[Category:War domain deities]]
+[[Category:Wilderness domain deities]]
+[[Category:The Pentad]]
+[[Category:Elf domain deities]]
+[[Category:Light domain deities]]
+[[Category:Pride domain deities]]
+[[Category:Inhabitants of Arvandor]]
+[[Category:Inhabitants of Arvandor (layer)]]
+[[Category:Inhabitants of Arborea]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the Celestial planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Inhabitants of the World Axis planes]]
+[[Category:Life domain deities]]
+[[Category:Sexless]]
+[[Category:Inhabitants of masculine gender]]
+[[Category:Overgods]]
+[[Category:The Seven Gods of the Dancing Place]]

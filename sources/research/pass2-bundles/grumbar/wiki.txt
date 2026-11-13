@@ -1,0 +1,196 @@
+WIKI PAGE: Grumbar
+
+{{Deity
+| image               = Grumbar 3e.jpg
+| caption             = 
+| name                = Grumbar
+| title               = Earthlord<ref name="F&A-p66-67">{{Cite book/Faiths & Avatars|66-67}}</ref><br /> Gnarly One<ref name="F&A-p66-67" /><ref name="FRCS2e.RtR-p61">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|61}}</ref><br /> King of the Land Below the Roots<ref name="F&A-p66-67" /><br /> Boss of Earth<ref name="F&A-p66-67" /><ref name="FRA-p36">{{Cite book/Forgotten Realms Adventures|36}}</ref><br /> Boss of the Earth Elementals<ref name="F&A-p66-67" /><ref name="AL.CD-p14">{{Cite adventurers league/Chelimber's Descent|14}}</ref> 
+| adjective           = Grumbarryn<ref name="F&A-p66-67"/>
+| aspects             = Etugen ([[Hordelands]])<ref name="F&A-p66-67" /><br />Grome ([[Zakhara|Zakharan]] [[duergar]])<ref name="F&F-33">{{Cite book/Land of Fate/Fortunes and Fates|33}}</ref>
+| primordial          = yes
+| pantheon            = [[Faerûnian pantheon]]<ref name="SCAG5e-p21">{{Cite book/Sword Coast Adventurer's Guide|21}}</ref>
+| race                = 
+| gender              = Masculine
+| power5e             = [[Deity]]
+| alignment5e         = [[Neutral]]
+| symbol5e            = Mountain
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = [[Earth (element)|Earth]]
+| domains5e           = [[Knowledge domain|Knowledge]]
+| worshipers5e        = [[Druid]]s
+
+| channel divinity5e  = ''[[Knowledge of the ages]]''<br />''[[Read thoughts]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG5e-p21,125,126">{{Cite book/Sword Coast Adventurer's Guide|21,125,126}}</ref><ref name="PHB5e-p59-60">{{Cite book/Player's Handbook 5th edition|59-60}}</ref>
+| power4e             = [[Primordial]]
+| alignment4e         = [[Unaligned]]
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = [[Root Hold]]
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = [[Earth (element)|Earth]]
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCG-p81">{{Cite book/Forgotten Realms Campaign Guide|81}}</ref>
+| power3e             = [[Greater deity]]
+| alignment3e         = [[True neutral]]
+| symbol3e            = Mountains on purple<ref name="FRCS3e-234-235">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|234-235}}</ref>
+| homeplane3e         = [[Elemental Plane of Earth]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = [[Elemental earth]] <br /> Solidity <br /> Changelessness <br /> Oaths
+| domains3e           = [[Balance domain|Balance]],<ref name="Undk-p53">{{Cite book/Underdark|53}}</ref> [[Cavern domain|Cavern]], [[Earth domain|Earth]], [[Metal domain|Metal]], [[Time domain|Time]]
+| worshipers3e        = [[Elemental archon (prestige class)|Elemental archons]] (earth), [[fighters]], [[monks]], [[rangers]]
+| cleric alignments3e = {{alignment grid |off|on|off |on|on|on |off|on|off}}
+| favored weapon3e    = A stony fist ([[warhammer]])
+| holy days3e         = None known
+| class3e             = 
+| refs3e              = <ref name="FaP"/>
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Neutral]]
+| symbol2e            = 
+| homeplane2e         = [[Elemental Plane of Earth]]
+| realm2e             = [[Great Mountain|The Great Mountain]]
+| serves2e            = 
+| servedby2e          = 
+| portfolio2e         = 
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = {{Class table|edition=2e|[[Cleric]]|30|[[Wizard]]|30}}<ref group="note">Also a 30 HD [[earth elemental]].</ref>
+| refs2e              = <ref name="F&A-p66-67" /><ref name="OHG-p181">{{Cite book/On Hallowed Ground|181}}</ref>
+| power1e             = [[Lesser power]]
+| alignment1e         = [[Neutral]]
+| symbol1e            = 
+| homeplane1e         = [[Elemental Plane of Earth]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = [[Earth (element)|Earth]]
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="FRCS-p16">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|16}}</ref>
+| animals             = 
+| plants              = 
+| monsters            = [[Earth elemental]]s<br />[[Earth genasi]]<br />[[Xorn]]s
+| minerals            = Rich metal veins
+| colors              = Brown, gray-green
+| misc manifestations = Earthquakes
+| manifestation refs  = <ref name="DD&D-p12">{{Cite web enhancement/Deity Do's and Don'ts|12}}</ref>
+| church              = yes 
+}}
+'''Grumbar''' ({{Pronounce|GRUM|bar|refs=<ref name="FaP">{{Cite book/Faiths and Pantheons|96}}</ref>}}), known as the goddess '''Etugen''' in the [[Hordelands]],<ref name="TH.VI-p13" /> and as '''Grome''' among the [[duergar]] of [[Zakhara]],<ref name="F&F-33" />  was the elemental embodiment of [[Earth (element)|earth]] in the Realms. He was one of the four elemental deities worshiped in [[Faerûn]], also known as [[Elemental Lords]], those [[primordial]]s that remained on [[Toril]] when it was separated from [[Abeir]].<ref name="FRCG-p78-79">{{Cite book/Forgotten Realms Campaign Guide|78-79}}</ref> Nonetheless, the '''Earthlord''' retained worshipers and had power equivalent to that of a god.<ref name="F&A-p66-67" />
+
+{{Quote|''Grumbar's oath unchanging and true<br />Earth remains strong protecting all''|Inscription at a Grumbarryn altar<ref name="AL.CD-p14" />}}
+
+==Description==
+He appeared as an enormous [[earth elemental]] with red eyes that glimmered like [[rubies]].<ref name="F&A-p66-67" />
+
+To those who sought an audience with him during their visit to the Plane of Earth, Grumbar appeared in a pocket of air—on the surface of a great wall, where his face, unique to each visitor, would materialize. Presumably, for visitors from other elemental planes, there were relevant elemental pockets.<ref name="MoTP1-p45">{{Cite book/Manual of the Planes 1st edition|45}}</ref>
+
+==Personality==
+Grumbar was a quiet and resolute being, who resisted change more so than other divine powers. He bore the weight of secret knowledge and protected the great riches that were found within the earth.<ref name="F&A-p66-67" />
+
+Visitors to the Plane of Earth who sought to negotiate with Grumbar had to be prepared, for he did not bargain. They either had to accept his terms or reject them entirely—never to return.<ref name="MoTP1-p45" />
+
+==Divine Realm==
+Under the [[Great Wheel cosmology|Great Wheel]] and [[World Tree cosmology|World Tree]] cosmologies, Grumbar dwelled within the Great Mountain in the Elemental Plane of Earth.<ref name="F&A-p66-67" /><ref name="PGtF-p142">{{Cite book/Player's Guide to Faerûn|142}}</ref>  When that plane fell into the [[Elemental Chaos]] following the cataclysm of the [[Spellplague]], Grumbar formed a new domain for himself, called [[Root Hold]].<ref name="FRCG-p66>{{Cite book/Forgotten Realms Campaign Guide|66}}</ref>
+
+==Relationships==
+Grumbar had ties with other deities of elemental earth, including [[Geb]], [[Garl Glittergold]], [[Dumathoin]], [[Laduguer]], and [[Urogalan]], but these were loose at best. Grumbar was opposed to [[Akadi]] and her flimsy and ever-changing ways. In the battle of the archomentals of [[Sunnis]] and [[Ogrémoch]], Grumbar secretly balanced one against the other, remaining the most powerful ruler of elemental earth himself.<ref name="IP-p36-37">{{Cite book/The Inner Planes|36-37}}</ref> 
+
+Ogrémoch was actually one of Grumbar's children, as was his twin, [[Entemoch]].<ref name="M.CoI-p103">{{Cite book/Menzoberranzan: City of Intrigue|103}}</ref> 
+
+Grumbar and [[orc pantheon|orcish deity]] [[Luthic]] were involved in a secret romance, unbeknownst to the god [[Gruumsh]].<ref name="Sent-p84-91 />
+
+==Worshipers==
+[[File:Grumbar symbol.jpg|thumb|''The holy symbol of Grumbar.'']]
+{{Main|Church of Grumbar}}
+Like the other elemental deities, with the exception of [[Kossuth]], Grumbar had a minimum of followers in Faerûn. He cared little for most of these worshipers.<ref name="F&A-p66-67" /><ref name="FaP"/>
+
+The church of Grumbar was organized into small sects known as Holds, each comprising three groups of seven members, divided by their individual skillsets, each supported by a number of lay people. Those who followed the Earthlord could often be found in public preaching against evils of boarding ships and setting sail to uncharted lands, preferring exploration on the continent of Faerûn.<ref name="F&A-p66-67" />
+
+In [[Faerûn]], there were notable Grumbarryn temples found in various mountain ranges, including the [[Spine of the World]], the [[Giantspire Mountains|Giantspires]], and the [[Muaraghal Mountains]].<ref name="F&A-p66-67" /> He was among the deities worshiped by the continents population of [[earth genasi]].<ref name="RoF-p117">{{Cite book/Races of Faerûn|117}}</ref> Among [[druid]]s who honored the [[First Circle]], Grumbar was not merely a god of earth but an embodiment of the rolling hills themselves and of the fertility of soil.<ref name="SCAG-p126">{{Cite book/Sword Coast Adventurer's Guide|126}}</ref>
+
+Among the [[Tuigan]] people the Hordelands, Grumbar was known by its many nomadic tribe as a goddess called ''Etugen''. They believed she was the source of most blessings their people received. Such as good pastures, the growth of their herds, and protection against some [[disease]]s.<ref name="TH.VI-p13">{{Cite book/The Horde/Volume I|13}}</ref><ref name="RoF-p109">{{Cite book/Races of Faerûn|109}}</ref>
+
+On the continent of [[Zakhara]], Grumbar was called one of the [[Zakharan pantheon#The cold gods of the elements|cold gods of the elements]]. As those were seen as uncaring for human affairs, they were considered opposed to the Land of Fate's pervasive culture of [[Enlightenment]]. Only a few Zakharans were willing to worship a cold god in order to gain power.<ref name="LoF.AGZ-p57">>{{Cite book/Land of Fate/Adventurer's Guide to Zakhara|57}}</ref> Some [[yak-men]], ever opposed to Enlightenment, helped in the administration of Grumbar's realm on the Elemental Plane of Earth.<ref name="DrM241">>{{Cite dragon/241/Campaign Classics: The Roof of the World}}</ref>
+
+In [[Kara-Tur]], Grumbar had another great place of worship found in the [[Wu Pi Te Shao Mountains]].<ref name="F&A-p66-67" />
+
+An altar existed within Grumbar's Temple in the subterranean levels of [[Sadrach's Splinter]], alongside other [[Elemental Lords|Elemental Lords']] temples within other parts the spire, created by the [[elemental magic]] [[wizard]] [[Sadrach]].<ref name="Sent-p2332">{{Cite book/The Sentinel/Hardcover|233}}</ref><ref name="Sent-p233">{{Cite book/The Sentinel/Hardcover|285}}</ref> In [[1486 DR]], the Earthlord received the ''[[Eye of Gruumsh (relic)|Eye of Gruumsh]]'' on this altar.<ref name="Sent-p84-91" />
+
+===Orders===
+* [[Disciples of the Changeless Face]], stoic [[monk]]s who protected Grumbarryn knowledge.<ref name="F&A-p66-67" />
+* [[Sardonyx Knights]], stalwart crusaders who protected Grumbar's temples.<ref name="F&A-p66-67" />
+
+==History==
+As of the {{YearlinkName|1369}}, Grumbar had made only four known appearances on Toril in the annals of recorded history. The first occasion of his divine presence being known was during the creation of the [[Great Rift]] in [[south Faerûn]].<ref name="F&A-p66-67" />
+
+During the events of the [[Second Sundering]], in the late 15{{th}} century [[DR]]. Luthic presented Grumbar with a gift, the ''[[Eye of Gruumsh (relic)|Eye of Gruumsh]]'', to reaffirm her love for Grumbar, in the wake of lies and doubts spread by the goddess [[Shar]].<ref name="Sent-p84-91>{{Cite book/The Sentinel/Hardcover|84-91}}</ref> In response, Grumbar's earth refilled the vast [[Underchasm]].<ref name="Sent-p295">{{Cite book/The Sentinel/Hardcover|295}}</ref>
+
+==Appendix==
+{{Incomplete}}
+===Gallery===
+<gallery>
+Priest of Grumbar.png|''A priest of Grumbar, the Earthlord.''
+</gallery>
+===Appearances===
+:; Novels
+::{{Refonly}}
+:: ''[[The Sentinel]]''
+:; Video Games
+::{{Refonly}}
+:: ''[[Descent to Undermountain]]''
+
+===Behind The Scenes===
+[[Ed Greenwood]] initially used ''Grome'', one of Michael Moorcock's Elemental gods as found in the original ''[[Deities & Demigods 1st edition]]'', as the elemental lord of earth for his home campaign set in the [[Forgotten Realms]]. As he stated in [[Dragon magazine 54]], the elemental gods "may later be replaced in (his) universe by 'official' ''[[AD&D]]'' beings as these are published".<ref name="DrM-p54">{{Cite dragon/54/Down-to-earth divinity}}</ref>
+
+===Notes===
+{{notes}}
+
+===References===
+{{refs}}
+
+===Connections===
+{{Faerûnian pantheon}}
+{{Primordial list}}
+{{Deity list}}
+{{Zakharan pantheon}}
+
+[[Category:True neutral primordials]]
+[[Category:Primordials from the Elemental Chaos]]
+[[Category:Balance domain primordials]]
+[[Category:Cavern domain primordials]]
+[[Category:Earth domain primordials]]
+[[Category:Metal domain primordials]]
+[[Category:Time domain primordials]]
+[[Category:Human deities]]
+[[Category:Earth elementals]]
+[[Category:True neutral deities]]
+[[Category:Earth domain deities]]
+[[Category:Zakharan pantheon]]
+[[Category:Savage gods of Zakhara]]
+[[Category:Inhabitants of Root Hold]]
+[[Category:Inhabitants of the Elemental Chaos]]
+[[Category:Knowledge domain deities]]
+[[Category:Balance domain deities]]
+[[Category:Inhabitants of the Elemental Plane of Earth]]
+[[Category:Inhabitants of the Inner Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the Elemental Planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Members of the First Circle]]

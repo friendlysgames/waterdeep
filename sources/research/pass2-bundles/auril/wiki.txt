@@ -1,0 +1,296 @@
+WIKI PAGE: Auril
+
+{{Deity
+| image               = Auril p91.jpg
+| caption             = An [[avatar]] of Auril.
+| name                = Auril
+| titles              = 
+The Cold Goddess<ref name="SCAG5e-p21,25" /><br />
+The Queen of Cold and Frost<ref name="rofm-p319" /><br/>
+Queen of Frozen Tears<ref name="rofm-p276" /><br/>
+The Frostmaiden<ref name="HoF-p101">{{Cite book/Forgotten Realms: Heroes of Faerûn|101}}</ref><ref name="SCAG5e-p21,25" /><ref name="FRCS.CotR-p10">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|10}}</ref><br />
+Brittle Maiden<ref name="rofm-p276" /><br/>
+Frost Sprite Queen<ref name="D376-p10">{{Cite dragon/376/Realmslore: Sarifal|10}}</ref><br />
+Lady Frostkiss<ref name="SCAG5e-p21,25" /><ref name="FR.FaA-p30">{{Cite book/Faiths & Avatars|30-33}}</ref><br />
+Lady Icekiss<ref name="rofm-p276">{{Cite book/Icewind Dale: Rime of the Frostmaiden|276}}</ref><br/>
+Storm-bringer<ref name="DM367-p58">{{Cite dragon/367/Hall of the Frostmaiden|58}}</ref><br/>
+Sovereign of Summers Lost<ref name="rofm-p319">{{Cite book/Icewind Dale: Rime of the Frostmaiden|319}}</ref><br/>
+General of Winter's War<ref name="rofm-p319" /><br/>
+Winter's Womb<ref name="rofm-p276" /><br/>
+Icedawn<ref name="HoF-p101"/><ref name="SCAG5e-p21,25" /><br/>The Cold Crone<ref name="HoF-p101"/>
+| adjective           = Aurilian<ref name="FR.FaA-p33">{{Cite book/Faiths & Avatars|33}}</ref> or Aurilite<ref name="IWD2">{{Cite game/Icewind Dale II}}</ref>
+| aspects             = Aurilandür<ref name="D376-p10">{{Cite dragon/376/Realmslore: Sarifal|10}}</ref><br />Alaphaer (archaic)<ref name="PftF-p87">{{Cite book/Prayers from the Faithful|87}}</ref><ref name="Dun170-MotA-p64">{{Cite dungeon/170/Monument of the Ancients|64}}</ref><br />Saukuruk ([[Great Glacier]])<ref name="TGG-p39">{{Cite book/The Great Glacier|39}}</ref><ref name="FR.FaA-p30"/>
+| pantheon            = [[Deities of Fury]], [[Faerûnian pantheon]]
+| serves              = [[Silvanus]] following the Stormstar Requiem<ref name="Dragon367-p61">{{Cite dragon/367/Hall of the Frostmaiden|61}}</ref><br />formerly [[Talos]]
+| holy days           = Midwinter Night
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Pandemonium]] ([[Pandesmos]])
+| realm5eR            = 
+| serves5eR           = [[Talos]]<ref name="HoF-p123">{{Cite book/Forgotten Realms: Heroes of Faerûn|123}}</ref>
+| servedby5eR         = 
+| portfolio5eR        = Winter
+| domains5eR          = 
+| worshipers5eR       = [[Druid]]s, inhabitants of cold climates
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,101">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,101}}</ref>
+| power5e             = [[Lesser deity]]<ref name="rofm-p274">{{Cite book/Icewind Dale: Rime of the Frostmaiden|274}}</ref>
+| alignment5e         = [[Neutral evil]]
+| symbol5e            = Six-pointed snowflake
+| homeplane5e         = 
+| realm5e             = 
+| portfolio5e         = Winter
+| domains5e           = [[Nature domain|Nature]], [[Tempest domain|Tempest]]
+| worshipers5e        = [[Druids]]
+| channel divinity5e  = ''[[Charm animals and plants]]''<br />''[[Destructive wrath]]''
+| class5e             = 
+| challenge5e         = 9-11<ref name="rofm-p274-278"/><ref group="note">According to [[Icewind Dale: Rime of the Frostmaiden]] (p. 274), "Casting such great magic night after night while also granting spells to her devoted followers" leaves Auril in a "weakened state". Page 276 of the same book clarifies that her true divine power is "far beyond what is reflected in the stat blocks presented". Additionally, [[Forgotten Realms: Adventures in Faerûn]] (p. 119) specifies that she is "in a mortal form". Therefore, the three provided stat blocks represent her weakened mortal forms, rather than her true divine power.</ref>
+| refs5e              = <ref name="PHB5e-p69,294">{{Cite book/Player's Handbook 5th edition|69, 294}}</ref><ref name="LotCSSB-52">{{Cite book/Legacy of the Crystal Shard/Campaign Guide|52}}</ref><ref name="SCAG5e-p21,25">{{Cite book/Sword Coast Adventurer's Guide|21, 25}}</ref>
+| power4e             = [[Deity]]
+| alignment4e         = [[Chaotic evil]]
+| symbol4e            = 
+| dominion4e          = Deep Wilds
+| realm4e             = [[Winter Hall]], the [[Deep Wilds]]
+| sphere4e            = Winter
+| domains4e           = [[Storm domain|Storm]], [[Winter domain|Winter]]
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| class4e             = 
+| refs4e              = <ref name="FRCG-63">{{Cite book/Forgotten Realms Campaign Guide|63}}</ref><ref name="FRCG-80">{{Cite book/Forgotten Realms Campaign Guide|80}}</ref><ref name="Dragon378-32">{{Cite dragon/Domains in Eberron and the Forgotten Realms|32, 38}}</ref>
+| power3e             = [[Lesser deity]]
+| alignment3e         = [[Neutral evil]]
+| symbol3e            = White snowflake on gray diamond with white border<ref name="FRCS-235">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|235}}</ref>
+| homeplane3e         = [[Fury's Heart]]
+| realm3e             = [[Winter's Hall]]
+| portfolio3e         = Cold, winter
+| domains3e           = [[Air domain|Air]], [[Cold domain|Cold]], [[Evil domain|Evil]], [[Storm domain|Storm]], [[Water domain|Water]], [[Wrath domain|Wrath]]
+| worshipers3e        = [[Druids]], [[avariel]]s, [[Elemental archon (prestige class)|elemental archons]] (air or water), [[fey]], [[frost giant]]s, inhabitants of cold climates, [[rangers]], [[spriggan]]s, [[bheur]]s (winter hags)
+| cleric alignments3e = {{alignment grid|off|off|off|off|off|off|on|on|on}}
+| favored weapon3e    = ''[[Icemaiden's Caress]]'' (Ice Axe) ([[battleaxe]])
+| class3e             = 
+| refs3e              = <ref name="FRCS-234">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|234}}</ref><ref name="FaP-91">{{Cite book/Faiths and Pantheons|91}}</ref><ref name="PGtF-84">{{Cite book/Player's Guide to Faerun|84}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref>
+| power2e             = [[Lesser deity]] {{former}} [[Archfey]]
+| alignment2e         = [[Neutral evil]]
+| symbol2e            = White snowflake on gray diamond (a Heraldic Lozenge) with white border
+| homeplane2e         = [[Pandemonium]]
+| realm2e             = [[Winter's Hall]], [[Pandesmos]]
+| portfolio2e         = Cold, winter
+| spheres2e           = [[Time sphere|Time]], [[Wards sphere|Wards]]<ref name="D192">{{Cite dragon/192/Sage Advice|76}}</ref>
+| worshipers2e        = Clerics, Specialty Priests, Shamans
+| cleric alignments2e = {{alignment grid|off|off|off|off|off|off|on|on|on}}
+| class2e             = {{class table|edition=2e|[[Wizard]]|27|[[Fighter]]|20|[[Cleric]]|15}}
+| refs2e              = <ref name="FR.FaA-p30"/>
+| power1e             = [[Demipower]] 
+| alignment1e         = [[Neutral evil]]
+| symbol1e            = White snowflake on gray diamond with white border
+| homeplane1e         = [[Pandemonium]]
+| realm1e             = 
+| portfolio1e         = Cold, Winter
+| worshipers1e        = [[Northmen]]
+| cleric alignments1e = {{alignment grid|off|off|off|off|off|off|off|on|off}}
+| class1e             = 
+| refs1e              = <ref name="FRCS.CotR-p10"/><ref name="tSF-p19">{{Cite book/The Savage Frontier|19}}</ref><ref name="FRCS.CotR-p18">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|18}}</ref>
+| animals             = 
+| plants              = 
+| monsters            = [[Water elemental]]s<br />[[Ice para-elemental]]s<br />[[Undead]]<br />[[Winter wolf|Winter wolves]]<br />[[Frost giant]]s<br />[[Frostwind virago]]s<br />[[Winter hag]]s
+| minerals            = 
+| colors              = Blue, icy-white
+| misc manifestations = An icy breath with a cold, ruthless chuckle<br />A blue-white aura leaving a trail of frost<br />A blank-eyed face of frost with hair emitting cold
+| manifestation refs  = <ref name="DD&D-p10">{{Cite web enhancement/Deity Do's and Don'ts|10}}</ref><ref name="MM-V-p59">{{Cite book/Monster Manual V|59}}</ref>
+| church              = yes 
+}}
+'''Auril''' ({{Pronounce|AW|rill|audio=Auril.ogg|refs=<ref name="FaP-91"/>}}), called '''Saukuruk''' by her few worshipers among the [[Iulutiun]]s of the Great Glacier,<ref name="TGG-p39" /> was the [[neutral evil]] [[goddess]] of winter and cold in the [[Faerûnian pantheon]]. The embodiment of winter's cruelty<ref name="rofm-p274" /> and all its deadliest aspects,<ref name="Dragon378-32" /> '''Lady Frostkiss''' had a heart of ice to match her lethally cold beauty, eternally preserved beneath a sheet of rime.<ref name="FaP-91" /> As [[Talos]], leader of the [[Gods of Fury]], eroded her power over snow storms, '''The Cold Goddess'''<ref name="FR.FaA-p30" /> made her season even more frigid to remind the people in the north who controlled the cold.<ref name="FR.FaA-p31" />
+
+The '''Frost Sprite Queen'''<ref name="D376-p10" /> was additionally seen as being synonymous with the [[Queen of Air and Darkness]] by some communities of [[fey]], such as those of the [[Shiverpine Forest]] in the [[Deep Wilds]].<ref name="Dragon367-p58">{{Cite dragon/367/Hall of the Frostmaiden|58-62}}</ref> However, after the Sundering the Queen of Air and Darkness was seen to be only impersonating Auril in order to retain followers on Toril.<ref>https://twitter.com/TheEdVerse/status/1228370295649599488?s=20</ref>
+
+{{Quote
+|Cover all the lands with ice. Quench fire wherever it is found. Let in the winds and the cold; cut down windbreaks and chop holes in walls and roofs that my breath may come in. Work darknesses to hide the cursed sun so that the chill I bring may slay. Take the life of an arctic creature only in great need, but slay all others at will. Make all Faerûn fear me.
+|Auril's charge to her clergy<ref name="FR.FaA-p31">{{Cite book/Faiths & Avatars|31}}</ref>
+}}
+==Description==
+Auril was known to take several distinct forms. The first was a furious figure of action known as '''The Frostmaiden''', the most frequently seen [[avatar]] in all but south and east Faerun. The Frostmaiden appeared as a lithe, attractive [[human]] woman with blue skin and a body made from ice and snow, her free-flowing hair long and white. She wore a fine, thickly furred gown and frost swirled around her.<ref name="FRCS.CotR-p10" /><ref name="FR.FaA-p31" /><ref name="FB-p42">{{Cite book/Frostburn|42}}</ref>
+
+Auril's other form was the '''Icedawn''', an impassive apparition of icy hauteur that silently glided through the air. The Icedawn wore an ornate crown and hooked, spurred armor of opaque and light blue ice.<ref name="FR.FaA-p31" />
+
+In the late 15{{th}} century, Auril was weakened by casting great magic night after night over Icewind Dale, and she manifested in her three mortal forms; the '''Cold Crone''' appeared as a {{SI|7|feet|long=yes}} tall, hunched bipedal creature with a snowy [[owl]]'s head topped by a pair of curled ram's horns. She had cloven hooves, arms ending in sharp, black talons, and grayish-white wolf fur covering her from the neck down.<ref name="rofm-p274-278">{{Cite book/Icewind Dale: Rime of the Frostmaiden|274-278}}</ref>
+
+Auril's second form was the '''Brittle Maiden''' or '''Lady Icekiss''', a {{SI|10|ft|long=yes}} tall figure of fearsome feminine aspect with a thin cloak of mist surrounding her and eyes that burned with a cold, blue light. Made entirely of ice and frost, her body crackled while she moved, with icy blades growing from her form at odd angles and breaking off after growing too long.<ref name="rofm-p274-278" />
+
+Auril's third form was called '''Winter's Womb''' (or the '''Queen of Frozen Tears''' by her most devoted). It was a {{SI|3|ft|long=yes}} in diameter diamond of ice with facets and a sharp point at the bottom. Hovering in the air, the diamond contained her divine spark and radiated intense cold in every direction, her voice seeming to emanate from its heart.<ref name="rofm-p274-278" />
+
+==Personality==
+Arrogant and vain,<ref name="FB-p42" /><ref name="FaP-91" /> Auril was incapable of true feelings of love, honor, or other noble emotions,<ref name="FaP-91" /> yet adored her ice and all forms of beauty.<ref name="rofm-p274" /> From natural wonders, to art objects, to the artists themselves, the Frostmaiden froze them all in magical ice, preserving them from the ravages of time and hoarding them away for her viewing pleasure alone.<ref name="rofm-p274" /> Her ultimate goal was to cover the Realms and all other lands beneath her ice and snow.<ref name="Dragon378-32" /><ref name="FB-p42">{{Cite book/Frostburn|42}}</ref>
+
+Despite being capricious, fickle and unpredictable,<ref name="FB-p42" /><ref name="FaP-91" /> Auril was also supremely cold, unfeeling and apathetic. She was incapable of mercy or compassion,<ref name="rofm-p274" /> a sadist that took great pleasure in torturing her enemies and harassing her foes.<ref name="FB-p42" /> She trapped offenders in blizzards and drove them insane with visions of warmth and the comforts of home, ultimately seeking to kill them with the sheer, bitter cold.<ref name="Dragon378-32" /><ref name="FaP-91"/>
+
+Although all of this was true, many wise men and women questioned the source of her erratic behavior and have concluded that the goddess had something akin to [[multiple personality disorder]] (indicated by the dual nature of the ''[[Ring of Winter]]'' whose holder was the [[neutral good]] human Artus Climber),<ref name="VGtATM-p112">{{Cite book/Volo's Guide to All Things Magical|112}}</ref> where each personality represented a different aspect of winter. The goddess was aware of her mental state, and at least one of her personalities was somewhat benign in nature and was worshiped by the [[Sossrim]] in the far north.<ref name="MentalState">{{cite web
+| url            = https://x.com/TheEdVerse/status/1932120682927730893
+| title          = Ed Greenwood on Twitter
+| accessdate     = 2025-06-09
+| author         = [[Ed Greenwood]]
+| date           = 2025-06-09
+}}</ref><ref name="RoF-p108">{{Cite book/Races of Faerûn|108}}</ref>
+
+==Divine Realm==
+Auril had a [[divine realm]] called [[Winter's Hall]] in [[Pandesmos]], the topmost layer of [[Pandemonium]] in the [[Great Wheel cosmology]].<ref name="FR.FaA-p30" /><ref name="PoC-p90">{{Cite book/Planes of Chaos/The Travelogue|90}}</ref> [[Norse pantheon|Norse]] god [[Wikipedia:Loki|Loki]] also made Winter's Hall his abode, a place to hide away whenever he fell out of grace with the other [[Norse pantheon|Aesir]].<ref>{{Cite book/On Hallowed Ground|147}}</ref>
+
+During the [[Spellplague]], Auril's realm was located within the [[Astral dominion|Astral Dominion]] of the [[Deep Wilds]] and was known as the [[Land Under Eternal Ice]].<ref name="Dragon367-p58" />
+
+==Relationships==
+In earlier centuries, Auril was a member of the Deities of Fury, along with [[Malar]], [[Umberlee]], and [[Talos]], and used their combined destructive powers to inspire much reverent fear and tribute.<ref name="rofm-p274" /> Her relationship with Talos was said to be close and cordial, but this was no obstacle from his attempt to usurp her following and she preferred not to rely on him due to his habit of responding but then directing all glory to himself.<ref name="FR.FaA-p155">{{Cite book/Faiths & Avatars|155}}</ref> Meanwhile she and Malar mutually hated each other. Umberlee was the only one she cooperated with to some degree of confidence,<ref name="FaP-91" /><ref name="FR.FaA-p31" /> but eventually the wrathful sea goddess came to despise her enduring cold and the motionless sheets of ice her roiling seas were turned into, forming an alliance with the other Gods of Fury against the Frostmaiden.<ref name="rofm-p274" />
+
+Following the Spellplague, Auril gained significant power by siphoning the faiths of [[Ulutiu]], [[Aerdrie Faenya]], and [[Gruumsh]]/[[Talos]] into her own. In addition to her classic portfolio of cold and winter, the Frostmaiden claimed dominion over wind and storms, bringing her into direct conflict with the ancient primordial power [[Akadi]].<ref name="Dragon367-p61">{{Cite dragon/367/Hall of the Frostmaiden|61}}</ref>
+
+Auril and [[Chauntea]] were mortal enemies, constantly battling each other.<ref name="FRCS.CotR-p11">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|11}}</ref><ref name="PGtF-50">{{Cite book/Player's Guide to Faerun|50}}</ref> [[Sune]] opposed Auril, as she blamed her for the destruction of much that was beautiful.<ref>{{Cite book/Faiths and Pantheons|66}}</ref> [[Uthgar]] despised Auril because the [[Elk tribe]] abandoned him for her faith.<ref>{{Cite book/Faiths and Pantheons|85}}</ref> [[Rellavar Danuvien]], a minor [[elf|elven]] [[deity|god]] of cold, sought to interfere in the plans of Auril whenever he could.<ref name="DM236-p16">{{Cite dragon/236/The Seldarine Revisited|16}}</ref>
+
+At one stage, Auril was in a relationship with [[Thrym]], god of the frost giants. During that time she became the mother to the [[empyrean]] daughter [[Nalkara]].<ref name="WDofMM5e-p301">{{Cite book/Waterdeep: Dungeon of the Mad Mage|301}}</ref> At one point, long before the 14{{th}} century DR, Auril had a tryst with [[Garagos]]. The product of that relationship was a demi-god [[xixecal]], called [[Arctus]], the Walking Winter, who was imprisoned inside the [[Reghed Glacier]], growing powerful and filled with destructive rage over the centuries.<ref name="NWNdoom">{{Cite game/Neverwinter Nights: Doom of Icewind Dale}}</ref>
+
+==Worshipers==
+[[File:Aurilsymbol.png|thumb|right|250px||''The [[holy symbol]] of Auril.'']]
+{{Main|Church of Auril}}
+Sacrifices and veneration were primarily performed for the Frostmaiden out of fear.<ref name="FaP-91" /><ref name="FB-p42" />
+
+In the [[North Faerûn|North]],<ref name="PGtF-14">{{Cite book/Player's Guide to Faerun|14}}</ref> Auril was a commonly worshiped, and feared, goddess and an integral part of northern cultures. Worship of the Frostmaiden was common in lands such as the [[Great Glacier]],<ref name="PGtF-12">{{Cite book/Player's Guide to Faerun|12}}</ref> the [[Icerim Mountains]],<ref name="PGtF-30">{{Cite book/Player's Guide to Faerun|30}}</ref> [[Sossal]]<ref name="RoF-p108">{{Cite book/Races of Faerûn|108}}</ref> and [[Vaasa]].<ref name="PGtF-15">{{Cite book/Player's Guide to Faerun|15}}</ref><ref name="RoF-p110">{{Cite book/Races of Faerûn|110}}</ref>
+
+[[Northlander]]s considered Auril one of their primary deities and was a key part of their culture. She was feared and seen as the harbinger of winter upon the whole world. In the late autumn and over the winter, regular sacrifices were made to her. Sacrifices of food were placed upon rafts which were then set adrift in the ocean. Human sacrifices, usually prisoners of war or slaves, were placed on these rafts. Human sacrifice was a rare occurrence and was only seen during dire times.<ref name="tSF-p20">{{Cite book/The Savage Frontier|20}}</ref>
+
+In the [[Moonsea]] region, followers of the Frostmaiden were shunned by society<ref name="MotM-p6">{{Cite book/Mysteries of the Moonsea|6}}</ref> and were most commonly encountered in [[Mulmaster]]<ref name="PotFS">{{Cite book/Pirates of the Fallen Stars|16}}</ref> and [[Zhentil Keep]]. During the winter in Zhentil Keep, followers of Auril openly recruited from the destitute, homeless and refugees. They were offered salvation, instead of the risk of freezing to death in an alley, if they joined the faith.<ref name="RoZK-p69">{{Cite book/Ruins of Zhentil Keep/Campaign Book|69}}</ref>
+
+Worship and sacrifices to Auril were sparse in the [[Sea of Fallen Stars]] region, isolated to the northern shores.<ref name="PotFS" /> [[Illuskan]] invaders brought the worship of Auril to [[Tethyr]].<ref name="RoF-p104">{{Cite book/Races of Faerûn|104}}</ref>
+
+Auril was a key part of the religion of [[taer]]s<ref name="UE-p14">{{Cite book/Unapproachable East|14}}</ref> and most taer clerics venerated the Frostmaiden.<ref name="UE-p73">{{Cite book/Unapproachable East|73}}</ref> 
+
+Auril was one of the deities worshiped by [[Air genasi|air]] and [[water genasi]], especially those who lived in cold regions. Air genasi tended to be zealous in their worship, with a fanatical devotion to Auril. They enjoyed inflicting pain on other creatures using cold air.<ref name="RoF-p115-116">{{Cite book/Races of Faerûn|115-116}}</ref><ref name="RoF-p129">{{Cite book/Races of Faerûn|129}}</ref>
+
+Auril was one of the deities worshiped by members of the [[Arcane Brotherhood]].<ref name="LoD-p110">{{Cite book/Lords of Darkness|110}}</ref>
+
+Auril used [[frost giant]]s and [[winter wolves]] to deliver commands to her cults,<ref name="PoC-p90" /> while [[frostwind virago]]s<ref name="MM-V-p59" /> and [[winter hag]]s<ref name="DM367-p61">{{Cite dragon/367/Hall of the Frostmaiden|61}}</ref> were the handmaidens of the Frostmaiden.
+
+Druids considered her to be among the [[First Circle]] of nature deities, and saw her as deserving of veneration in spite of her more violent tendencies relative to some other members of the Circle.<ref name="PHB5e-p69,294" />
+
+===Holy Days===
+* Midwinter (Night), [[Hammer 30]] to [[Alturiak 1]]. This was the most holy night of the year for the clergy, a festival of ice-dancing that lasted all night.<ref name="FR.FaA-p30" /> [[Druid]]s were also known to pay respect to the Frostmaiden on this date.<ref name="LotCSSB-52" />
+* The [[Coming Storm]] and the [[Last Storm]], informal but enthusiastically celebrated rituals where the priests gathered and called howling ice storms down on a region to mark the onset and end of winter.<ref name="FR.FaA-p30" />
+* [[Auril's Blesstide]], or Auril's Day, was a holiday (of sorts) held annually in the city of [[Waterdeep]] on the first day of new frost in the year. It was not so much a holiday as a way to seek to appease the Frostmaiden in hopes of a mild winter.<ref name="CoS-W-p15">{{Cite book/City of Splendors: Waterdeep|15}}</ref>
+
+===Temples===
+Shrines dedicated to Auril could be found in [[Bezantur]],<ref name="SB-p34">{{Cite book/Spellbound/Campaign Guide|34}}</ref> [[Calaunt]],<ref name="FRA-p80">{{Cite book/Forgotten Realms Adventures|80}}</ref> [[Iriaebor]],<ref name="FRA-p90">{{Cite book/Forgotten Realms Adventures|90}}</ref> [[Nashkel]],<ref name="LoI-p33">{{Cite book/Lands of Intrigue/Amn|33}}</ref> [[Phlan]],<ref name="Dun170-p54">{{Cite dungeon/170/Monument of the Ancients|54}}</ref> [[Tasseldale]],<ref name="FRC2e-p38">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|38}}</ref> and [[Zhentil Keep]].<ref name="FRA-p120">{{Cite book/Forgotten Realms Adventures|120}}</ref>
+
+Notable temples to Auril were:
+* The [[House of Auril's Breath]] in [[Glister]]<ref name="FR.FaA-p30" />
+* [[Icedawn's House]], south of [[Nashkel]]<ref name="LoI.A-p33">{{Cite book/Lands of Intrigue/Amn|33}}</ref>
+* The [[Towers of Fury]] in [[Calimport]]<ref name="C-p35">{{Cite book/Calimport|35}}</ref>
+* The [[Winter Palace (temple)|Winter Palace]] in [[Luskan]]<ref name="SCAG5e-p21,25" />
+* [[Ice Temple]], located between [[Andora]] and the [[Wandering Village]] in [[Icewind Dale]]<ref>{{Cite game/Icewind Dale II}}</ref>
+
+===Notable Worshipers===
+* [[Artus Cimber]], [[Chosen]] of Auril following the [[Spellplague]].<ref name="Dragon367-p61">{{Cite dragon/367/Hall of the Frostmaiden|61}}</ref>
+* [[Bjornhild Solvigsdottir]], queen of the [[Reghedmen]] [[Tribe of the Tiger]] during the late 15{{th}} century [[DR]].<ref name="SKT-p65">{{Cite book/Storm King's Thunder|65}}</ref>
+* [[Cierre]], wandering [[drow]] surface spy.<ref name="SM-p105">{{Cite book/Silver Marches|105}}</ref>
+* [[Gerti Orelsdottr]], effective leader of the [[Shining White]] [[frost giant]]s.<ref name="SM-p106">{{Cite book/Silver Marches|106}}</ref>
+* [[Hedrun Arnsfirth]], [[Chosen]] of Auril during the [[Second Sundering]].<ref>{{Cite book/Legacy of the Crystal Shard}}</ref>
+* [[Ihanora]] the Merciful, the Chosen of Auril ''circa'' [[1099 DR]] and the creator of ''[[the Snow Maiden's Reaver]]''.<ref name="iwd" />
+* [[Iyraclea]], self-styled queen of the [[Great Glacier]].<ref name="Dragon367-p61">{{Cite dragon/367/Hall of the Frostmaiden|61}}</ref>
+* [[Lysan]], priestess of Icewind Dale.<ref name="iwd">{{Cite game/Icewind Dale}}</ref>
+
+==History==
+{{Fq
+| width  = 350px
+| source = The Rime of the Frostmaiden.<ref name="rofm-p319" />
+| text   = We bow to she who wears the crown;<br/> Let the world shiver with dread.<br/> Clad in winter's whitest gown,<br/> her snow enshrouds the dead.<br/> Her fury sheds but frozen tears<br/> as gray clouds issue forth.<br/> Her wind across the wasteland shears,<br/> bringing blizzards from the north.<br/> Ice-kissed flowers caught mid-bloom,<br/> beauty kept in all its grace.<br/> Summer's gone to its silent tomb,<br/> stilling in her cold embrace.<br/> All the world in winter's white,<br/> sheathed in sleet and ice.<br/> Set upon never-ending night,<br/> she conjures paradise.<br/> Behold her everlasting rime,<br/> see how it covers all;<br/> Weep not for those she traps in time<br/> behind her glacial wall.<br/> Soverign of Summers Lost,<br/> General of Winter's War;<br/> Long live the Queen of Cold and Frost.<br/> May she reign forevermore.
+}}
+In the {{YearlinkName|1450}}, Auril intervened in [[Calimshan]]'s [[Second Era of Skyfire]], freezing over the [[Skyfire Wastes]] and sending her followers to battle both [[Calim]]'s [[genie]]s and [[Memnon (efreeti)|Memnon]]'s [[efreeti]].<ref name="DM367-p61"/>
+
+In the {{YearlinkName|1485}}, Chosen of Auril, [[Hedrun Arnsfirth]], began her war in Icewind Dale.<ref name="SCAG5e-p17">{{Cite book/Sword Coast Adventurer's Guide|17}}</ref>
+
+In the late 15{{th}} century [[DR]], Auril encroached onto [[Umberlee]]'s domain by freezing her chaotic tides. Ending their alliance, Umberlee turned to the other Gods of Fury, Talos and Malar, and with their help forced Auril to retreat to the most frigid region of Toril: the [[Sea of Moving Ice]]. From an island known as [[Solstice]], the Goddess of Winter caused the [[Everlasting Rime]] beginning in the {{YearlinkName|1487}}. This seemingly eternal winter covered the area and extended over [[Icewind Dale]] for two years.<ref name="rofm-p274" /><ref name="rofm-p5">{{Cite book/Icewind Dale: Rime of the Frostmaiden|5}}</ref> Sustaining such a powerful curse took a heavy toll on Auril,<ref name="rofm-p274"/> reducing her to a mortal form vulnerable to mighty adventurers.<ref name="FRAiF">{{Cite book/Forgotten Realms: Adventures in Faerûn|119}}</ref> Yet, because she was ontologically a true goddess, she could not be permanently destroyed. So long as she retained her earthly worshippers, she could be reborn upon the next winter solstice, reclaiming her full divine power.<ref name="rofm-p276">{{Cite book/Icewind Dale: Rime of the Frostmaiden|276}}</ref>
+
+==Trivia==
+Among the northern islands of the [[Trackless Sea]], such as [[Gundarlun]], the [[Purple Rocks]], [[Ruathym]] and [[Tuern]], the constant, bitterly-cold northwest winds were called "Auril's Breath".<ref name="tSF-p14">{{Cite book/The Savage Frontier|14}}</ref> 
+
+==Appendix==
+{{Incomplete|}}
+===See Also===
+*[[:Category:Aurilian spells|Spells granted by or related to the Frostmaiden]]
+
+===Further Reading===
+*Loki's (and Auril's) realm of Winter's Hall is featured in a trading card as a battlefield: {{Cite card/Blood Wars|[[w:c:cardguide:Winter's Hall (BWBS)|Winter's Hall]]}}
+*{{Cite dragon/54/Down-to-earth divinity}}
+*{{Cite dragon/312/Faiths of Faerun: Prayers of the Frostmaiden}}
+
+===Gallery of Holy Symbols===
+<gallery>
+AURIL.GIF|''Symbol of Auril from ''[[Faiths & Avatars]]'' ''
+Auril symbol.jpg|''Symbol of Auril from ''[[Faiths & Pantheons]]'' ''
+Symbol_of_Auril.jpg|''A holy symbol of Auril.''
+Icedawn.png|''Icedawn, an avatar of Auril from [[Spellfire: Master the Magic]].''
+</gallery>
+===Appearances===
+{{Appearances
+| adventures          = ''[[Icewind Dale: Rime of the Frostmaiden]]''
+| adventure refs      = 
+| novels              = 
+| novel refs          = 
+| films               = 
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = ''[[Demeo x Dungeons & Dragons: Battlemarked]]''
+| video game refs     = ''[[Neverwinter Nights: Doom of Icewind Dale]]''
+| board games         = 
+| board game refs     = 
+| card games          = ''[[Spellfire: Master the Magic]]''
+| card game refs      = 
+| organized play      = 
+| organized play refs = 
+}}
+
+===Notes===
+{{Notes}}
+
+===References===
+{{Refs|2}}
+
+===Connections===
+{{Faerûnian pantheon}}
+{{Deity list}}
+[[de:Auril]]
+[[Category:Wizards]]
+[[Category:Fighters]]
+[[Category:Clerics]]
+[[Category:Archfey]]
+[[Category:Deities of Fury]]
+[[Category:Air domain deities]]
+[[Category:Evil domain deities]]
+[[Category:Storm domain deities]]
+[[Category:Water domain deities]]
+[[Category:Exarchs]]
+[[Category:Lesser deities]]
+[[Category:Human deities]]
+[[Category:Intermediate deities]]
+[[Category:Nature deities]]
+[[Category:Neutral evil deities]]
+[[Category:Faerûnian pantheon]]
+[[Category:Nature domain deities]]
+[[Category:Tempest domain deities]]
+[[Category:Wrath domain deities]]
+[[Category:Cold domain deities]]
+[[Category:Winter domain deities]]
+[[Category:Inhabitants of the Feywild]]
+[[Category:Inhabitants of the Deep Wilds]]
+[[Category:Inhabitants of Fury's Heart]]
+[[Category:Inhabitants of Winter's Hall]]
+[[Category:Inhabitants of Pandesmos]]
+[[Category:Inhabitants of Pandemonium]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the Fiendish Planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Members of the First Circle]]
