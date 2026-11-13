@@ -14,9 +14,9 @@
 
 *The Dark Maiden*
 
-- **Title:** God of Song and Moonlight (FRHoF). SCAG (2014) prints "Goddess of song and moonlight".
+- **Title:** God of Song and Moonlight (FRHoF). FRHoF is newer and wins. SCAG (2014) prints "Goddess of song and moonlight" as the older printing.
 - **Other Names:** The Dark Maiden, the Lady of the Dance, Lady Silverhair (FRHoF). The wiki adds the Dark Dancer and the Dancing Goddess, the Masked Lady for the years she held her brother's portfolio (1375 DR to 1379 DR), and Darkfire of Love, a nickname from the Seven Sisters.
-- **Pantheon:** Faerûnian (FRHoF). SCAG and MTF (2014) file her under the Drow pantheon, the Dark Seldarine. The wiki says she belonged to the Seldarine before her exile.
+- **Pantheon:** Faerûnian (FRHoF, newer and wins). SCAG and MTF (2014) file her under the Drow pantheon, the Dark Seldarine, as the older printing. The wiki says she belonged to the Seldarine before her exile.
 - **Areas of Concern:** Song, dance, moonlight, freedom from tyranny, swordwork, the hunt, drow who leave the Underdark (derived from the FRHoF and MTF text and the wiki portfolio; no entry lists Areas of Concern)
 - **Domains:** Light, Nature (SCAG, 2014). MTF (2014) adds Life.
 - **Symbol:** A sword-wielding, dancing drow female silhouetted against the full moon (SCAG, 2014)
@@ -52,7 +52,7 @@
   - She was born to Araushnee, who later took the name Lolth, and to Corellon Larethian, and she is the sister of Vhaeraun (*Faiths & Pantheons*, 3e; *Demihuman Deities*, 2e). When evil gods attacked Arvandor, Araushnee's treachery almost tricked her into killing her own father. Corellon banished the dark elven gods, and although she was cleared of guilt she insisted on sharing the exile, because she foresaw that the drow would need her. She swore never to use a ranged weapon again, and the sword became her only weapon (*Demihuman Deities*, 2e; *Faiths & Pantheons*, 3e).
   - The Seldarine cursed and exiled the dark elves around -10000 DR, and Lolth and Ghaunadaur gained most of them. Her faith stayed marginal for millennia (*The Grand History of the Realms*, 4e; *Demihuman Deities*, 2e).
   - In the 1370s DR her realm moved to Arvandor (*Faiths & Pantheons*, 3e). In 1375 DR Vhaeraun tried to kill her and failed, and she took his portfolio and the title of the Masked Lady for a time (*The Grand History of the Realms*, 4e).
-  - She was defeated and disappeared in 1379 DR, in her long conflict with Lolth over the drow (*Ascendancy of the Last*; the wiki's 4e row calls her a dead power). She returned in the Second Sundering, in Flamerule 1489 DR, three years before the campaign (derived), and the wiki says she has been seen dancing in many places along the Sword Coast (SCAG and MTF, 5e; Ed Greenwood, as the wiki cites him).
+  - She was defeated and disappeared in 1379 DR, in her long conflict with Lolth over the drow (*Ascendancy of the Last*; the wiki's 4e row calls her a dead power). She returned after the Second Sundering, in Flamerule 1489 DR (wiki), and the wiki says she has been seen dancing in many places along the Sword Coast (SCAG and MTF, 5e; Ed Greenwood, as the wiki cites him). The Sundering ended in 1487 DR, so the return came after it. The return is about three years before the campaign (derived arithmetic only).
   - After her return she and Vhaeraun reached an understanding, though some of their followers still fight each other (Ed Greenwood, as the wiki cites him).
 - **In the campaign:** Eilistraee is alive and present in 1492 DR, as every power is. FRHoF describes her in the present tense, and the published Undermountain adventure gives her a temple. Her death and disappearance in 1379 DR are history, and Draft Notes records the difference.
 

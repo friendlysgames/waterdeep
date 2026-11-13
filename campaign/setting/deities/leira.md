@@ -14,7 +14,7 @@
 
 *The Lady of the Mists*
 
-- **Title:** God of Illusion (FRHoF); SCAG (2014) writes "Goddess of illusion"
+- **Title:** God of Illusion (FRHoF). The page uses FRHoF's title because FRHoF is newer than SCAG, whose printing reads "Goddess of illusion".
 - **Other Names:** The Lady of Deception, the Lady of the Mists, Mistshadow (FRHoF); the Guardian of Liars and the Mother of Illusionists (wiki, *Faiths & Avatars*, 2e)
 - **Pantheon:** Faerûnian
 - **Areas of Concern:** Illusion, disguise, deception, secrets, lies (derived). The wiki portfolio is illusions, disguises and deception (5e, *Heroes of Faerûn*); no entry lists Areas of Concern.
@@ -100,7 +100,7 @@ Leira is the Lady of the Mists, a chaotic neutral power of illusion and deceptio
 > - **Conflict, death story:** The wiki puts her death at Blackfeather Bridge, months after the Time of Troubles, at Cyric's hand (wiki, `Leira` History). *Dragon Heist* says that in times long past Waukeen buried her under a mountain of molten gold (`sources/adventure-wdh.json:31405`). The page reports both, says no source reconciles them, and calls the second festival lore. The **Waukeen** page tells the same *Dragon Heist* tale.
 > - **Conflict, date:** The wiki infobox gives her death as 1358 DR "(apparently)", and its History text says "months after" the Time of Troubles. The page uses the History wording.
 > - **Conflict, temples:** SCAG (2014) says her temples exist only in Nimbral. The wiki says her faith was the state religion of Nimbral and Samarach, and that her priests fled to Samarach after the rebellion. The page gives both and does not decide which holds in 1492 DR.
-> - **Conflict, title:** FRHoF says "God of illusion" and SCAG says "Goddess of illusion". The page keeps FRHoF as the title, notes SCAG, and uses "she" throughout, as the wiki and both books' text do.
+> - **Settled, title:** FRHoF says "God of illusion" and SCAG says "Goddess of illusion". FRHoF outranks SCAG because it is newer (`CLAUDE.md`, Sundering canon and 5e source precedence), so the Title field uses FRHoF and names SCAG's printing. The prose uses "she", as the wiki and both books' text do, and a separate decision covers it.
 > - **Consistency, checked:** The Leiruin tale agrees with `waukeen.md:49`. The Lliira rumor agrees with `lliira.md:54` and `:117` (the page reports it as a rumor the wiki calls false). Liar's Night agrees with `mask.md:67` and `cyric.md:66`. The pages for Oghma and Azuth already call her an opponent and an ally.
 > - **Derived:** The one-line edict, the Areas of Concern, the Trickery Domain and Thaumaturge fit (the domain kept after the wider pass), and the paladin verdict that no oath fits.
 > - **Research:** No omen is sourced beyond the FRHoF displacer beast line. Which of her names Waterdhavians use: the epithet line leads with the Lady of the Mists because SCAG and FRHoF give it, but the Leiruin and Liar's Night entries write only "Leira". Whether a disguised shrine exists in Waterdeep. Whether Leiruin is a holy day to her faithful, since the published text frames it as a guild day.

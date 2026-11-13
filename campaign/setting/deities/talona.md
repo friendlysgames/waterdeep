@@ -14,7 +14,7 @@
 
 *The Lady of Poison*
 
-- **Title:** God of Poison and Disease (FRHoF)
+- **Title:** God of Poison and Disease (FRHoF). The page uses FRHoF's title because FRHoF is newer than SCAG, whose table reads "Goddess of poison and disease".
 - **Other Names:** The Lady of Poison, the Mistress of Disease, the Plague Crone (FRHoF); the Plague-crone (SCAG, 2014); the Mother of All Plagues (wiki)
 - **Pantheon:** Faerûnian
 - **Areas of Concern:** Poison, disease, plague, blight, brackish wells, failing crops (derived from the FRHoF and SCAG text and the wiki portfolio; no entry lists Areas of Concern)
@@ -22,7 +22,7 @@
 - **Symbol:** Three teardrops in a triangle (SCAG, 2014)
 - **Alignment:** Chaotic Evil (SCAG, 2014)
 - **Plane:** Carceri (Cathrys) (FRHoF)
-- **Typical Followers:** Those suffering from plague (FRHoF); survivors of pestilence (wiki, citing SCAG)
+- **Typical Followers:** Those suffering from plague (FRHoF)
 
 > Placate the Lady of Poison with blood and tears, or she will bring the sickness back.
 
@@ -40,7 +40,7 @@
 - **The Talontar:** The wiki calls her priests the Talontar and her lay worshipers Talonites. The Talontar wore ragged gray-green robes that they washed and never mended, and senior members scarred or tattooed their bodies. They sold poisons, antidotes and medicines, built up an immunity to disease and poison through inoculation and magic, and treated the sick or buried the dead. Paranoid merchants and rulers hired them to test food for poison (*Faiths & Avatars*, 2e).
 - **The fanatics:** Her most devoted followers brew poisons in her name and summon magical contagions to punish people for neglecting her (FRHoF).
 - **The Plague Rats:** An elite order of assassins, thieves and wererats that the wiki places throughout the North and the Western Heartlands (*Faiths & Avatars*, 2e). No campaign file names the order.
-- **Who follows:** Those suffering from plague (FRHoF). The wiki's 5e row gives survivors of pestilence, its 3e row gives assassins, druids, healers, rogues and the diseased and ill, and its 2e row gives wererats.
+- **Who follows:** Those suffering from plague (FRHoF). The wiki's 3e row gives assassins, druids, healers, rogues and the diseased and ill, and its 2e row gives wererats. Its 5e row gives survivors of pestilence, taken from SCAG, and FRHoF's line replaces it.
 - **Chosen in the campaign:** None. No file names a Chosen of Talona. FRHoF says her Chosen, drawn from the fanatics, are gifted with immunity to poisons and magical maladies.
 - **Messengers:** When she wants to demand propitiation, she sends a vulture, a giant rat or the corpse of a creature infested by insects. The messenger is wrapped in a sickly yellow-brown glow (FRHoF).
 - **Omen:** No source gives one. [research]
@@ -97,7 +97,7 @@ Talona is the Lady of Poison, the goddess of disease and poison, whom the people
 > - **No campaign tie, searched:** A search of `campaign/` for Talona, Talontar, the Lady of Poison, the Mistress of Disease, the Plague Crone, the Plague Rats, plague and teardrop returns only Deities pages that list her as a foe or an ally (`tyr.md:43`, `chauntea.md:44`, `kelemvor.md:49`, `bhaal.md:44`, `shar.md:51`, `silvanus.md:54`, `mielikki.md:44`, `ilmater.md:50`, `bane.md:44`). Neither Dragon Heist file names her.
 > - **Poisoners checked, none tied:** The campaign's poisoners are Rella Asp, a Cassalanter operative (`campaign/setting/notable-figures/cassalanters/12-rella-asp.md:6`; `campaign/setting/organizations/10-cassalanters.md:52`), the poisoning in Doom Raiders Mission 2 (`campaign/quests/faction-events/doom-raiders/m02-the-poisoned-delivery/ev-01-the-poisoned-delivery.md:285`), and Asmagh, the apothecary of the Castle Ward folk tradition (`campaign/gazetteer/waterdeep/castle-ward.md:161`). No file says any of them serves Talona, so the page draws no link. The Cassalanters' Founders' Day ritual stays out entirely: no file connects it to her, and the Cassalanter secrecy rule keeps the family's worship under Asmodeus and out of this page.
 > - **Lycanthropes:** The wiki gives wererats as her 2e worshipers and the Plague Rats as a wererat order. No file links her to Kelso Fiddlewick, the wererat leader of the Shard Shunners (`campaign/setting/notable-figures/independents-adversaries/03-kelso-fiddlewick.md`), so the page links none.
-> - **Not a conflict, wording:** The PHB reads "three teardrops on a triangle" and the SCAG reads "in a triangle" (research `5etools.md:18` and `:27`). The page uses the SCAG wording. FRHoF prints "god" and SCAG "goddess", so the page uses "she" with the wiki's feminine gender field. FRHoF gives "Those suffering from plague" and the wiki's 5e row (citing SCAG) gives "Survivors from pestilence" (research `5etools.md:4`; `wiki.txt:61`). Both are listed.
+> - **Settled, wording:** The PHB reads "three teardrops on a triangle" and the SCAG reads "in a triangle" (research `5etools.md:18` and `:27`). The page uses the SCAG wording, since FRHoF gives no symbol. FRHoF prints "god" and SCAG "goddess"; FRHoF outranks SCAG because it is newer (`CLAUDE.md`, Sundering canon and 5e source precedence), so the Title field uses FRHoF's wording, while the prose uses "she" with the wiki's feminine gender field. FRHoF gives "Those suffering from plague" and the wiki's 5e row (citing SCAG) gives "Survivors from pestilence" (research `5etools.md:4`; `wiki.txt:61`). FRHoF wins, so the Typical Followers field carries FRHoF's line alone and the other survives only as the note in Who follows.
 > - **Not a conflict, alliance date:** The wiki dates the Shar alliance "circa 1369 DR" (research `wiki.txt:151`), and the Shar page says it was recent as of 1370 DR (`campaign/setting/deities/shar.md:51`). The two agree.
 > - **Wording check on another page:** The Chauntea page calls her "the Lady of Pestilence" (`campaign/setting/deities/chauntea.md:44`). Neither FRHoF, SCAG nor the wiki gives that title, so this page does not list it. Not edited.
 > - **Derived:** The one-line edict, written from the FRHoF text on propitiation and the rites of three drops of blood or tears, because no source gives one. Areas of Concern. The Death Domain (Dungeon Master's Guide) and Thaumaturge fits, with Life Domain as the alternative, and the paladin judgment (Oathbreaker as a loose fit, Oath of the Ancients as the nearest for a paladin who opposes her). The warlock line keeps the fallback.

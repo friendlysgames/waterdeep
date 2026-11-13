@@ -47,8 +47,8 @@
   - The SCAG tells the handover as the Legend of Knucklebones. The three mortals fought over who should rule, so Jergal offered a game of skill, first skull bowling and then knucklebones. Malar arrived to claim a share and was left only the beasts. Bane won first choice, Myrkul second and Bhaal third, and Jergal smiled at being relieved of the office (SCAG, 2014).
   - The wiki calls the three mortals the Dark Three. It says he was a greater deity older than many greater gods of Faerûn and that he became Myrkul's seneschal, a post he kept after Myrkul died and Cyric and then Kelemvor took the office (*Faiths & Pantheons*, 3e).
   - After the Second Sundering he was reported in a gate-town of Sylvania, inviting visitors to a game of skull bocce at an undead club called the Afterparty (*Planescape: Adventures in the Multiverse*, 5e).
-  - In 1492 DR his avatar Withers woke in a temple on the Sword Coast that had lain abandoned for over a century. He aided a party of adventurers for a small fee, and afterward he dismissed Bane, Bhaal and Myrkul as vermin who would trouble the Realms no more (*Baldur's Gate III*, video game).
-- **In the campaign:** Jergal is present in 1492 DR as a scribe of the dead who serves Kelemvor. The wiki's Withers account places his avatar on the Sword Coast, not in Waterdeep, and no campaign file uses it.
+  - The video game *Baldur's Gate III*, set in 1492 DR, has his avatar Withers wake in a temple on the Sword Coast that had lain abandoned for over a century. He aids a party of adventurers for a small fee, and afterward he dismisses Bane, Bhaal and Myrkul as vermin who would trouble the Realms no more. This is a video-game event and not a campaign event. It does not change the status of Bane, Bhaal or Myrkul in this campaign, where all three are present in 1492 DR.
+- **In the campaign:** Jergal is present in 1492 DR as a scribe of the dead who serves Kelemvor. The wiki's Withers account places his avatar on the Sword Coast, not in Waterdeep, and no campaign file uses it. It is history here, as the Draft Notes say.
 
 > **[GM]**
 >

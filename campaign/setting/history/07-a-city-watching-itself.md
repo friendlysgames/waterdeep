@@ -22,7 +22,7 @@
 >
 > #### Lore Summary
 > - Laeral Silverhand became Open Lord about three years before the campaign, after the other Lords voted Dagult Neverember out and asked her to take his place. She accepted reluctantly, was overwhelmed at first, and has since settled into the work.
-> - She governs with deputies and uses her own magic sparingly, because it has waned since the Spellplague. Only Elminster knows how far, and she admits it to one Lioncrown of the Lords' Alliance.
+> - She governs with deputies and uses her own magic sparingly, because it waned with Mystra's death and the Spellplague. It has come back since the Weave returned in 1487, though not fully. Only Elminster knows how far, and she admits it to one Lioncrown of the Lords' Alliance.
 > - At campaign start she believes the vault lies in Neverwinter. She does not know the Stone of Golorr has resurfaced, and she does not know four villain factions are moving on the city.
 > - She wants the 500,000 gp in the city treasury and wants it recovered without a public scandal. If she learns that the party holds it, she asks once for its return and offers a finder's fee of 10 percent.
 > - Her intelligence comes from Jalester Silvermane and the Watch, and it is about three moves behind. The party's reports, most of all those carried by the Lords' Alliance, are what bring her up to date.

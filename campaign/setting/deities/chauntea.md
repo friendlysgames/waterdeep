@@ -14,7 +14,7 @@
 
 *The Great Mother*
 
-- **Title:** God of Agriculture (FRHoF). SCAG (2014) and the 2014 Player's Handbook print "Goddess of agriculture".
+- **Title:** God of Agriculture (FRHoF). The page uses FRHoF's title because FRHoF is newer than SCAG and the 2014 Player's Handbook, whose printings read "Goddess of agriculture".
 - **Other Names:** The Great Mother, the Grain Goddess (FRHoF). The wiki adds the Earthmother, the Golden Goddess, the Lady of the Harvest and the Mother of All Flowers, and the regional names Bhalla in Rashemen, Jannath in Netheril, Pahluruk near the Great Glacier and Grandmother among the Uthgardt.
 - **Pantheon:** Faerûnian
 - **Areas of Concern:** Agriculture, the harvest, gardens, hearth and home, and the birth of children (derived from the FRHoF and SCAG text; no entry lists Areas of Concern)
@@ -88,7 +88,7 @@ Chauntea, the Great Mother, is the goddess of farming and the harvest. Farmers a
 > **[GM]**
 >
 > #### Draft Notes
-> - **Conflict, title and gender:** FRHoF prints "God of agriculture" (`research/deities/chauntea/5etools.md:3`), and SCAG and the PHB print "Goddess of agriculture" (`:19`, `:28`). The wiki's gender row reads Feminine (`wiki.txt:16`). The page uses FRHoF for the title and notes the other, and writes "she" throughout.
+> - **Settled, title:** FRHoF prints "God of agriculture" (`research/deities/chauntea/5etools.md:3`), and SCAG and the PHB print "Goddess of agriculture" (`:19`, `:28`). The wiki's gender row reads Feminine (`wiki.txt:16`). FRHoF outranks SCAG because it is newer (`CLAUDE.md`, Sundering canon and 5e source precedence), so the Title field uses FRHoF and names the older printings. The prose writes "she", which a separate decision covers.
 > - **Conflict, alignment:** SCAG and the wiki's 5e, 3e and 2e rows give Neutral Good (`5etools.md:29`; `wiki.txt:40`, `:69`, `:85`). The wiki's 4e row gives Lawful Good (`wiki.txt:54`). The page follows SCAG.
 > - **Conflict, realm:** The wiki's 2e row gives Great Mother's Garden (`wiki.txt:88`) and its 4e row gives Green Fields (`wiki.txt:57`). FRHoF gives Elysium (Eronia) only, so the page lists both realms by edition and uses FRHoF for the Plane field.
 > - **Conflict, the Earthmother:** SCAG says the Ffolk of the Moonshae Isles treat the Earthmother as a separate power (`5etools.md:36`). The wiki lists her as an aspect of Chauntea (`wiki.txt:10`) and ties the name to Jannath in her early days (`wiki.txt:161`). The page gives both accounts.

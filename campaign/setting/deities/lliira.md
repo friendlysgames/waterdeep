@@ -14,7 +14,7 @@
 
 *Our Lady of Joy*
 
-- **Title:** God of Joy (FRHoF). The 2014 Player's Handbook and SCAG print "Goddess of joy", and every source uses "she".
+- **Title:** God of Joy (FRHoF). The page uses FRHoF's title because FRHoF is newer than SCAG and the 2014 Player's Handbook, whose printings read "Goddess of joy". Every source uses "she".
 - **Other Names:** Mistress of Revels, Our Lady of Joy (FRHoF); Joybringer (SCAG, 2014); the Lady of Joy (*Dragon Heist*); the Everchanging Goddess, the Goddess of Joy (wiki, *Faiths & Avatars*, 2e)
 - **Pantheon:** Faerûnian
 - **Areas of Concern:** Joy, festivals, dance, contentment, freedom, hospitality (derived from the FRHoF and SCAG text and the wiki's 2e portfolio; no entry lists Areas of Concern)
@@ -108,7 +108,7 @@ Lliira, Our Lady of Joy, is the goddess of joy, dance and festivals, and people 
 > **[GM]**
 >
 > #### Draft Notes
-> - **Conflict, title and gender:** FRHoF titles her "God of joy" (bundle `5etools.md:3`), while SCAG and the 2014 PHB say "Goddess of joy" (`5etools.md:14` and `:23`). The page uses the FRHoF title and feminine pronouns, as the Waukeen page does.
+> - **Settled, title:** FRHoF titles her "God of joy" (bundle `5etools.md:3`), while SCAG and the 2014 PHB say "Goddess of joy" (`5etools.md:14` and `:23`). FRHoF outranks SCAG because it is newer (`CLAUDE.md`, Sundering canon and 5e source precedence), so the Title field uses FRHoF and names the older printings. The prose keeps feminine pronouns, as the Waukeen page does, and a separate decision covers them.
 > - **Conflict, rank by edition:** FRHoF gives no rank, the wiki's 2e and 3e rows say lesser deity, its 1e row says demigoddess, and its 4e row says exarch of Sune (`wiki.txt:19, 49, 64, 79 and 93`, Grep numbering). The page keeps her an independent deity in 1492 DR and gives the exarch rank as history.
 > - **Conflict inside the wiki:** The wiki says Waukeen was missing "ten years later" and gives the regency as 1365 DR (`wiki.txt:166` and `:168`, Grep numbering). The Time of Troubles was 1358 DR, which is seven years before 1365 DR. The page gives the year and does not count the years.
 > - **Epithet:** The line leads with Our Lady of Joy because FRHoF and SCAG use it and *Dragon Heist* writes "the Lady of Joy" (`sources/adventure-wdh.json:31470`). Which name Waterdhavians actually use is [research].
