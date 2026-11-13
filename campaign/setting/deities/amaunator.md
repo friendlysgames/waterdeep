@@ -46,7 +46,7 @@
   - **Siamorphe and Waukeen (4e):** After he returned, he lived on the astral dominion of the Eternal Sun with Waukeen, and Siamorphe served him as his exarch (*Forgotten Realms Campaign Guide*, 4e). The same book says he found Sune attractive.
   - **Torm:** They are good friends, and Torm holds him in great respect (*Dragon* 381, 4e; FRHoF).
   - **Enemies:** Bane is his enemy (*Forgotten Realms Campaign Setting*, 3e). Shar opposed him as well, at least while he stood in the Netherese pantheon (2e and 3e sources).
-  - **Mystryl:** In the Netherese pantheon the goddess of magic and the god of law kept to their own spheres, and he never acted on his claim to time for fear of her displeasure (*Faiths & Avatars*, 2e).
+  - **Mystryl:** In the Netherese pantheon the god of magic and the god of law kept to their own spheres, and he never acted on his claim to time for fear of her displeasure (*Faiths & Avatars*, 2e).
 - **Origin and rise:** Wiki-sourced, with the book or edition named on each fact.
   - **Ancient Netheril:** He was the sun god of the Netherese, a greater deity revered by many rulers, soldiers and powerful wizards. He judged disputes over the Pantheon Contour, the agreement among the Netherese gods (*Faiths & Avatars*, 2e). A misplaced mark in a legal paper let him call himself god of time, but he never acted on it (*Faiths & Avatars*, 2e).
   - **The fall of Netheril:** Netheril fell in -339 DR (see **The Long Shadow**). The wiki says Amaunator did nothing to stop it, because a divine contract gave magic to Mystryl and he had no right to interfere (*Faiths & Avatars*, 2e). His Netherese worshipers abandoned him over it, and only the lower and middle classes stayed (*Lost Empires of Faerûn*, 3e).
@@ -101,7 +101,7 @@ Amaunator is the god of the sun and of law, known as the Keeper of the Eternal S
 - **Torm** (Deities): his good friend.
 - **Bane**, **Shar** (Deities): the powers who are his enemies in the wiki accounts.
 - **Silvanus** (Deities): the god to whom SCAG compares his temper.
-- **Mystra** (Deities): the successor to Mystryl, the goddess of magic whose sphere he left alone.
+- **Mystra** (Deities): the successor to Mystryl, the god of magic whose sphere he left alone.
 - **The Long Shadow** (History): the fall of Netheril in -339 DR.
 
 > **[GM]**
@@ -114,5 +114,5 @@ Amaunator is the god of the sun and of law, known as the Keeper of the Eternal S
 > - **Derived:** The edict. Areas of Concern. The Order Domain fit with Light Domain as the alternative, the Thaumaturge order, Oath of the Crown with Oath of Devotion as the alternative, and the Vestige warlock fit with the Celestial patron as the alternative. The nearest festival being Midsummer.
 > - **Research:** An omen apart from the 2e manifestations. Which of his names Waterdhavians use (the epithet line leads with the Keeper of the Eternal Sun because it is the first alternate name in FRHoF and SCAG, and *Dragon Heist* never names him). How often ordinary Waterdhavians name him. Any Waterdeep shrine, temple or follower. Whether the Spires of the Morning priests have any view on the claim that Lathander is Amaunator's aspect.
 > - **Wiki holy days:** The 2e holy days, the third full moon of the year and the summer solstice, are the only sourced days. The page does not map them onto the Harptos calendar beyond the Midsummer note.
-> - **Names with no page:** Mystryl, At'ar the Merciless, Daelegoth Orndeir, Elversult and the Pantheon Contour are plain text. Mystryl, the previous goddess of magic, is described on the **Mystra** page but is not on the roster.
+> - **Names with no page:** Mystryl, At'ar the Merciless, Daelegoth Orndeir, Elversult and the Pantheon Contour are plain text. Mystryl, the previous god of magic, is described on the **Mystra** page but is not on the roster.
 > - **Left out:** The wiki's description of his avatar, abilities, possessions, favored animals, monsters, minerals and plants, the 3e and 2e domain, sphere and alignment grids and the 3e favored weapon. The Elturel globe, which the wiki credits to him only in 4e and which no campaign file uses. The Pantheon Contour's contents, which the wiki does not state.

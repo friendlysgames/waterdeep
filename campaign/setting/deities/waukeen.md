@@ -5,7 +5,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **What this page is:** the deity entry for Waukeen, the Coinmaiden and goddess of trade, and the reference for the Waukeentide and Sornyn festivals.
+> - **What this page is:** the deity entry for Waukeen, the Coinmaiden and god of trade, and the reference for the Waukeentide and Sornyn festivals.
 > - **Where it is used:** Waukeen never appears in person, and no campaign NPC worships her. She comes up through the festival calendar, above all Waukeentide, the tenday in which the Cassalanters host the public galas that open the villa to the party.
 > - **Featured in:** **Cassalanter Villa** (the Waukeentide events), and the published *Dragon Heist* and *Dungeon of the Mad Mage* characters who carry her symbol, none of whom is a campaign NPC.
 > - **Spoiler limit:** everything above the `## Overview` may be read by the GM only. The Overview is the common-knowledge tier. Nothing about Waukeen is secret, and this page makes no claim about the Cassalanters' faith.
@@ -46,7 +46,7 @@
   - She was one of the first gods to support **Gond** and his inventions when most of the others doubted them. **Shaundakul** is an ally because his care for long-range traders and caravans overlaps with hers (*Faiths & Avatars*; *Faiths & Pantheons*).
   - Her one real enemy among the Faerûnian gods is **Mask**. She also nurses an unending hatred and a wish for revenge against the demon lord **Graz'zt**, who broke a deal with her and held her captive (*Faiths & Pantheons*; *Faiths & Avatars*; *Player's Guide to Faerûn*).
   - In the 3e books her realm shares Brightwater with quarters held by Lliira, **Tymora**, **Sune** and Sharess (*Forgotten Realms Campaign Setting*; *Player's Guide to Faerûn*).
-- **Leiruin and Leira (*Dragon Heist*):** In times long past, Waukeen caught **Leira**, the goddess of illusions and deception, trying to cheat her in a deal. She buried Leira under a mountain of molten gold as punishment, and Leiruin commemorates it.
+- **Leiruin and Leira (*Dragon Heist*):** In times long past, Waukeen caught **Leira**, the god of illusions and deception, trying to cheat her in a deal. She buried Leira under a mountain of molten gold as punishment, and Leiruin commemorates it.
 - **Her realm:** FRHoF gives the Outlands. The wiki places her in the Marketplace Eternal, a bazaar that covers many square miles. It lies in the Outlands in the 1e and 2e books, in Brightwater in 3e, and around **Amaunator**'s Palace of the Four Suns on the Eternal Sun after the Spellplague in 4e.
 - **Origin and rise:** Wiki-sourced, with the book named on each fact.
   - She joined the Faerûnian pantheon late, sometime after Tyr's arrival in -247 DR, and her popularity grew with the expansion of trade and the merchant class. Her church became wealthy and admired for its generosity, risk-taking and business sense (*Cyclopedia of the Realms*; *The Grand History of the Realms*; *Faiths & Pantheons*).
@@ -59,7 +59,7 @@
 > **[GM]**
 >
 > #### Using Waukeen as a Deity
-> - **The ordinary Waterdhavian's view:** Voice her as the patron of the market. A sage, a priest or a regular at the bar says she is the Coinmaiden, the goddess of trade and wealth, and that shopkeepers, caravan guides, moneychangers and a good many smugglers pray to her. They add that she smiles on the hard-working and the free spender and frowns on misers, that her followers give a tenth of their profits to a struggling business instead of the temple plate, and that she once buried Leira under a mountain of molten gold for cheating her in a deal. Every Tarsakh the city keeps Waukeentide in her honor with gifts, all-night sales and guild galas. How Waterdhavians feel about her stand against monopolies, in a city whose eighteen guilds control every significant trade, is unsourced. [research]
+> - **The ordinary Waterdhavian's view:** Voice her as the patron of the market. A sage, a priest or a regular at the bar says she is the Coinmaiden, the god of trade and wealth, and that shopkeepers, caravan guides, moneychangers and a good many smugglers pray to her. They add that she smiles on the hard-working and the free spender and frowns on misers, that her followers give a tenth of their profits to a struggling business instead of the temple plate, and that she once buried Leira under a mountain of molten gold for cheating her in a deal. Every Tarsakh the city keeps Waukeentide in her honor with gifts, all-night sales and guild galas. How Waterdhavians feel about her stand against monopolies, in a city whose eighteen guilds control every significant trade, is unsourced. [research]
 > - **Waterdeep:** Waukeen has no temple or shrine in the city in any source, and she has two festivals.
 >   - The Dragon Heist Major Temples table has no Waukeen row. The same table lists Holyhands House in the North Ward as a temple for all deities, which includes her.
 >   - The Castle Ward gazetteer names no temple of hers, and the wiki's temple sentence names no Waterdeep site. Whether any shrine or Goldeye exists in the city is [research].
@@ -78,7 +78,7 @@
 
 ## Overview
 
-Waukeen, the Coinmaiden, is the goddess of trade and wealth, and merchants, caravan guides, moneychangers and smugglers all pray to her. Her faithful hold that open competition for wealth helps a society prosper, and they oppose guilds that form monopolies. Followers give a tenth of their profits to struggling businesses and new ventures instead of to a temple. Waterdeep honors her each Tarsakh with Waukeentide, a tenday of gift-giving, all-night sales and guild galas.
+Waukeen, the Coinmaiden, is the god of trade and wealth, and merchants, caravan guides, moneychangers and smugglers all pray to her. Her faithful hold that open competition for wealth helps a society prosper, and they oppose guilds that form monopolies. Followers give a tenth of their profits to struggling businesses and new ventures instead of to a temple. Waterdeep honors her each Tarsakh with Waukeentide, a tenday of gift-giving, all-night sales and guild galas.
 
 > **[GM]**
 >
@@ -88,7 +88,7 @@ Waukeen, the Coinmaiden, is the goddess of trade and wealth, and merchants, cara
 > - **Cover:** Goldenight and Guildsmeet put crowds in the Cynosure and the Field of Triumph, and any surveillance of the villa during Waukeentide has cover (festival calendar).
 > - **No Chosen, no intervention:** No file has Waukeen appear or speak, and none names a Chosen of hers. Her reach in the story is the festival calendar.
 
-**Tone:** Brisk and good-humored. Waukeen is a goddess of open markets, so describe what trade offers before what it costs, and keep her at a distance, since the campaign writes no scene in which she speaks.
+**Tone:** Brisk and good-humored. Waukeen is a god of open markets, so describe what trade offers before what it costs, and keep her at a distance, since the campaign writes no scene in which she speaks.
 
 ---
 

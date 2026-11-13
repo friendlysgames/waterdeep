@@ -5,7 +5,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **What this page is:** the deity entry for Beshaba, the goddess of misfortune, and a reference for characters who ward off bad luck or serve her.
+> - **What this page is:** the deity entry for Beshaba, the god of misfortune, and a reference for characters who ward off bad luck or serve her.
 > - **Where it is used:** Beshaba never appears in person. No campaign file names her and she has no temple in Waterdeep. The only place the city honors her is the Reign of Misrule, a festival in the published *Dragon Heist* calendar that falls on Marpenoth 10, after the campaign's main window.
 > - **Featured in:** no quest. The **Tymora** and **Lathander** pages in this journal mention her as Tyche's second half.
 > - **Spoiler limit:** nothing about Beshaba is secret. Everything above the `## Overview` may be read by the GM only. The Overview is the common-knowledge tier.
@@ -52,26 +52,26 @@
 - **Origin and rise:** FRHoF and the wiki agree on the outline and differ on the cause.
   - The Netherese revered a single god of luck, Tyche, who ruled good and bad fortune together. According to myth Tyche became corrupted and died, and her essence appeared as two sisters, Beshaba and Tymora, who share her portfolio (FRHoF).
   - The wiki puts the split in the Dawn Cataclysm, a disaster tied to Lathander's schemes. Tyche was infected by the taint of the dark god Moander, and her friend Selûne forced her to divide. The two halves sprang out fully formed and began to fight at once (*Faiths & Avatars*, 2e; *Faiths & Pantheons*, 3e).
-  - In Selûne's telling, Beshaba took everything Moander had tainted and came out as the goddess of ill fortune, lovely to see and spiteful at heart. Other gods pulled the sisters apart, and Beshaba fled to the dark planes (*Tymora's Luck*, novel).
+  - In Selûne's telling, Beshaba took everything Moander had tainted and came out as the god of ill fortune, lovely to see and spiteful at heart. Other gods pulled the sisters apart, and Beshaba fled to the dark planes (*Tymora's Luck*, novel).
 - **In the campaign:** Beshaba is present in 1492 DR, but no file shows her acting.
 
 > **[GM]**
 >
 > #### Using Beshaba as a Deity
-> - **The ordinary Waterdhavian's view:** Voice her as the bad luck everyone talks around. A sage, a priest or a regular at the bar says she is Lady Doom, the sister of Tymora and the goddess of misfortune, and that you invoke her when a wagon wheel breaks and ask her to spare you when you cross a rickety bridge. They add that you welcome her at weddings so she does not take offense, that you never pray to both sisters, and that you fold your thumbs in and hold up your fingers like horns to turn her eye aside. A regular may swear "Beshaba's bad breath!" when things go wrong (wiki, *Pool of Radiance: Ruins of Myth Drannor*, a video game). Most people fear her and few admit to serving her.
+> - **The ordinary Waterdhavian's view:** Voice her as the bad luck everyone talks around. A sage, a priest or a regular at the bar says she is Lady Doom, the sister of Tymora and the god of misfortune, and that you invoke her when a wagon wheel breaks and ask her to spare you when you cross a rickety bridge. They add that you welcome her at weddings so she does not take offense, that you never pray to both sisters, and that you fold your thumbs in and hold up your fingers like horns to turn her eye aside. A regular may swear "Beshaba's bad breath!" when things go wrong (wiki, *Pool of Radiance: Ruins of Myth Drannor*, a video game). Most people fear her and few admit to serving her.
 > - **Waterdeep:** Beshaba has no temple or shrine in the city. The only thing the sources place there is a festival.
 >   - The Dragon Heist Major Temples table has no Beshaba row. It lists Holyhands House in the North Ward as the temple of "All deities", which includes her by its own wording (`sources/adventure-wdh.json:30924`). No campaign file mentions a shrine, a priest or a worshiper of hers.
 >   - The Reign of Misrule falls on Marpenoth 10 (`sources/adventure-wdh.json:31522`). The text says "This day honors Beshaba, goddess of misfortune," and "People of the city are expected to break trust, belie oaths, and disobey the normal order-as long as no laws are actually broken and no rift is made that can't be later bridged" (`:31526`).
 >   - The campaign calendar lists the Reign among the days after the Flamerule 11 window, which matter only if play runs past it (`campaign/setting/history/09-timekeeping-and-the-festival-calendar.md:111`). It names the day and not the goddess.
 >   - Charcoal antlers on a wall are a general custom of cities (FRHoF). No file places one in Waterdeep, and the wiki has no Waterdeep text for her.
-> - **A cleric PC:** The domain is Trickery (SCAG, 2014). Trickery Domain (derived; Player's Handbook, 2024) is a direct fit by name, and no other available domain suits a goddess of misfortune better. The Divine Order that fits is Thaumaturge (derived), because her rare clerics warn others of misfortune or inflict it, and neither is a task of guarding. Her clerics are rare and no file says how Waterdeep treats one. [research]
+> - **A cleric PC:** The domain is Trickery (SCAG, 2014). Trickery Domain (derived; Player's Handbook, 2024) is a direct fit by name, and no other available domain suits a god of misfortune better. The Divine Order that fits is Thaumaturge (derived), because her rare clerics warn others of misfortune or inflict it, and neither is a task of guarding. Her clerics are rare and no file says how Waterdeep treats one. [research]
 > - **A paladin PC:** Oathbreaker (derived; Dungeon Master's Guide, 2014). The fit is loose. FRHoF does not list paladins among her followers and no available oath concerns luck. Oathbreaker is the paladin who serves an evil power, and the Reign of Misrule asks the city to break trust and belie oaths in her name. Oath of Vengeance (Player's Handbook, 2024) is the alternative for a paladin shaped by a grievance, as SCAG describes her clerics.
 > - **A warlock PC:** Fiend Patron (derived; Player's Handbook, 2024). The fit is loose. Her plane is the Abyss (FRHoF), her messenger is a quasit (FRHoF), and her Chosen are said to let demons slip into the world (FRHoF). The wiki adds alu-fiend servants (*Tymora's Luck*, novel). No source calls her a warlock patron.
 > - **Campaign ties:** No campaign file uses this power. The published adventure names her once, in the Reign of Misrule entry. The **Tymora** and **Lathander** pages in this journal mention her as the second half of Tyche.
 
 ## Overview
 
-Beshaba is the chaotic evil goddess of misfortune, whom Waterdhavians know as Lady Doom and as the sister and rival of Tymora. People call on her name when a wheel breaks or a bridge sways, and in cities they draw her black antlers on walls to mark unlucky places. Waterdeep has no temple of hers, but the Reign of Misrule on Marpenoth 10 honors her with a day of pranks and broken trust. Most folk fear her and few worship her, though it is thought wise to welcome her at weddings and other formal gatherings so that she takes no offense.
+Beshaba is the chaotic evil god of misfortune, whom Waterdhavians know as Lady Doom and as the sister and rival of Tymora. People call on her name when a wheel breaks or a bridge sways, and in cities they draw her black antlers on walls to mark unlucky places. Waterdeep has no temple of hers, but the Reign of Misrule on Marpenoth 10 honors her with a day of pranks and broken trust. Most folk fear her and few worship her, though it is thought wise to welcome her at weddings and other formal gatherings so that she takes no offense.
 
 > **[GM]**
 >

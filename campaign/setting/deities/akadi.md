@@ -5,7 +5,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **What this page is:** the deity entry for Akadi, the Lady of Air and goddess of elemental air, for players who want a wandering priest of the wind, a traveler's patron or a devout character with an elemental power, and for a GM who needs a name behind a gust, a good flying current or a mild rain.
+> - **What this page is:** the deity entry for Akadi, the Lady of Air and god of elemental air, for players who want a wandering priest of the wind, a traveler's patron or a devout character with an elemental power, and for a GM who needs a name behind a gust, a good flying current or a mild rain.
 > - **Where it is used:** Akadi never appears in person, and no campaign file or published adventure names her. The page records that Waterdeep gives her no temple, and that the one elemental air cult in the files, the Howling Hatred, served Yan-C-Bin and not her.
 > - **Featured in:** No quest. Her name appears only on other Deities pages, as the goddess whose limits mark the edge of **Talos**'s storms and as an ally of **Shaundakul**. The nearby Howling Hatred appears in the Order of the Gauntlet's **Order of the Gauntlet First Meeting** and **Savra's Past**.
 > - **Spoiler limit:** everything above the `## Overview` may be read by the GM only. The Overview is the common-knowledge tier. Nothing about Akadi is secret, but the Howling Hatred notes in the GM Notes touch Savra Belabranta's private past and an unproven suspicion about the cult's money.
@@ -29,7 +29,7 @@
 ## Influence and Followers
 
 - **Rank:** Akadi is a goddess of the Faerûnian pantheon and one of the four elemental powers, with Grumbar (earth), Istishia (water) and Kossuth (fire), as the SCAG titles name them. The wiki ranks her a greater deity in its 2e and 3e rows, a lesser power in 1e and a deity in 5e. In 4e she is a primordial (see Draft Notes).
-- **What she is:** She is the element of air and the goddess of elemental air, speed and flying creatures (*Faiths & Pantheons*, 3e). She is both the whispering wind and the turbulent tempest, sweet and moist at times and bitter and cold at others, and her form changes with the seasons (*Faiths & Avatars*, 2e).
+- **What she is:** She is the element of air and the god of elemental air, speed and flying creatures (*Faiths & Pantheons*, 3e). She is both the whispering wind and the turbulent tempest, sweet and moist at times and bitter and cold at others, and her form changes with the seasons (*Faiths & Avatars*, 2e).
 - **What the faith asks:** Akadi is a being of freedom and travel, and she told her followers to move as much as they can from place to place and from activity to activity (*Faiths & Pantheons*, 3e; *Forgotten Realms Campaign Guide*, 4e). Her followers travel across Faerûn, listen to the howl of the winds, spread word of her glory and act on whatever interests them at the moment (*Faiths & Pantheons*, 3e).
 - **Life experiments:** Some clerics throw themselves into a goal of their own, useful or personal. Examples include breeding sleeker hawks or faster running hounds, working out how orcs cope with powerful windstorms, and designing artificial wings for cats (*Faiths & Pantheons*, 3e).
 - **How she treats mortals:** Her reactions are hard to read, because she behaves almost alien toward mortals who are not native to the Plane of Elemental Air. Like the other elemental lords she is relatively uncaring toward her followers on Toril, though she shows some small affection, mostly when large offerings are made (*Faiths & Avatars*, 2e).
@@ -57,7 +57,7 @@
 > **[GM]**
 >
 > #### Using Akadi as a Deity
-> - **The ordinary Waterdhavian's view:** Voice her as a distant power that most people never think about. A sage, a priest or a regular at the bar says she is the Lady of Air, the goddess of the wind and of flying creatures, and that she is one of the four elemental powers, with a cloud for a symbol. Sages describe her as a giant blue woman with feathery wings that fade into the clouds, and add that she cares little for mortals unless the offering is large. Priests of other gods say she can be asked for a good wind or a gentle rain, and that real storms belong to Talos, or to Umberlee at sea. How Waterdeep feels about her, and which of her names the city uses, is unsourced. [research]
+> - **The ordinary Waterdhavian's view:** Voice her as a distant power that most people never think about. A sage, a priest or a regular at the bar says she is the Lady of Air, the god of the wind and of flying creatures, and that she is one of the four elemental powers, with a cloud for a symbol. Sages describe her as a giant blue woman with feathery wings that fade into the clouds, and add that she cares little for mortals unless the offering is large. Priests of other gods say she can be asked for a good wind or a gentle rain, and that real storms belong to Talos, or to Umberlee at sea. How Waterdeep feels about her, and which of her names the city uses, is unsourced. [research]
 > - **Waterdeep:** Akadi has no temple, shrine, priest or festival in the city in any source.
 >   - The Dragon Heist Major Temples table has no Akadi row (`sources/adventure-wdh.json:30921-30996`). The "All deities" row, Holyhands House in the North Ward (`:30923-30925`), is the only listing that could cover her, and no source says her faithful use it.
 >   - Her one holy day, Midsummer, falls after the campaign window (`campaign/setting/history/09-timekeeping-and-the-festival-calendar.md:46`, `:111`), and no file says Waterdeep marks it for her.
@@ -70,7 +70,7 @@
 
 ## Overview
 
-Akadi is the neutral goddess of air, wind and flying creatures, and Waterdhavians who know her call her the Lady of Air. Sages count her among the four elemental powers and picture her as a giant blue woman with feathery wings that fade into the clouds. She is thought to care little for mortals unless the offering is large, and her few followers travel from place to place spreading her word. She can be asked for a good wind or a gentle rain but not for a storm, and Waterdeep has no temple of hers.
+Akadi is the neutral god of air, wind and flying creatures, and Waterdhavians who know her call her the Lady of Air. Sages count her among the four elemental powers and picture her as a giant blue woman with feathery wings that fade into the clouds. She is thought to care little for mortals unless the offering is large, and her few followers travel from place to place spreading her word. She can be asked for a good wind or a gentle rain but not for a storm, and Waterdeep has no temple of hers.
 
 > **[GM]**
 >

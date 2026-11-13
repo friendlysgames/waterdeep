@@ -86,7 +86,7 @@ Istishia is the Water Lord, the elemental god of water itself and not of any par
 
 ## Cross-References
 
-- **Eldath**, **Valkur** (Deities): two powers of water the wiki lists among his ties. Valkur is the sailors' god he has no interest in, and Eldath is the goddess of peace and quiet water whom Avi follows.
+- **Eldath**, **Valkur** (Deities): two powers of water the wiki lists among his ties. Valkur is the sailors' god he has no interest in, and Eldath is the god of peace and quiet water whom Avi follows.
 - **Umberlee** (Deities): the sea goddess whose storms he ignores, and the one whose offerings the city collects at the Fair Seas Festival.
 - **Kossuth** (Deities): the elemental lord of fire, whom he opposes in every way.
 - **Akadi**, **Grumbar** (Deities): the other two elemental lords, of air and earth.

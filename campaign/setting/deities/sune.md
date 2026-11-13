@@ -5,7 +5,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **What this page is:** the deity entry for Sune, the goddess of love and beauty, and the reference for the Temple of Beauty and the Grand Revel.
+> - **What this page is:** the deity entry for Sune, the god of love and beauty, and the reference for the Temple of Beauty and the Grand Revel.
 > - **Where it is used:** Sune never appears in person, and no campaign NPC worships her. She comes up through the Temple of Beauty in the Sea Ward and the Grand Revel on Alturiak 14, which falls before the campaign opens on Ches 1.
 > - **Featured in:** No quest or event names her. Her part in the wiki's 1384 DR account is told on the **Tyr**, **Siamorphe** and **Tymora** pages.
 > - **Spoiler limit:** everything above the `## Overview` may be read by the GM only. The Overview is the common-knowledge tier. Nothing about Sune is secret, and this page makes no claim about the Cassalanters.
@@ -65,7 +65,7 @@
 > **[GM]**
 >
 > #### Using Sune as a Deity
-> - **The ordinary Waterdhavian's view:** Voice her as the lady of the mirror and the bath. A sage, a priest or a regular at the bar says she is the goddess of love and beauty, shown as a woman with long red hair, and that her temple in the Sea Ward lets anyone bathe and primp before a night out. They add that her followers are called hedonists but that her priests make art and back young talents, and that beauty runs deeper than skin. Every Alturiak 14 her clergy lead the Grand Revel, with ring dances in the streets and love feasts at dusk. How Waterdhavians feel about her clergy outside the festival is unsourced. [research]
+> - **The ordinary Waterdhavian's view:** Voice her as the lady of the mirror and the bath. A sage, a priest or a regular at the bar says she is the god of love and beauty, shown as a woman with long red hair, and that her temple in the Sea Ward lets anyone bathe and primp before a night out. They add that her followers are called hedonists but that her priests make art and back young talents, and that beauty runs deeper than skin. Every Alturiak 14 her clergy lead the Grand Revel, with ring dances in the streets and love feasts at dusk. How Waterdhavians feel about her clergy outside the festival is unsourced. [research]
 > - **Waterdeep:** Sune has one temple in the city, the Temple of Beauty in the Sea Ward, and one festival.
 >   - The Dragon Heist Major Temples table lists "Sune, Temple of Beauty, Sea Ward". The Sea Ward text calls it the place to refresh yourself on the road or to primp before an important meeting or a night out. Its marbled public baths and mirrored salons are open from before dawn to after dusk, and neither they nor the advice and aid of the temple's many pleasant attendants cost a fee, though donations are encouraged (`sources/adventure-wdh.json:30883`).
 >   - No campaign file names the temple, and there is no Sea Ward gazetteer page. The temple's high priest and clergy are unnamed in every source. [research]
@@ -79,9 +79,9 @@
 
 ## Overview
 
-Sune, called Lady Firehair, is the goddess of love and beauty, and she is pictured as a woman with impossibly long red hair. Her followers say beauty comes from within, and they honor her through romance, art and the pleasures of the senses. Her Temple of Beauty in the Sea Ward keeps public baths and mirrored salons, and visitors use them free of charge. Her clergy also lead the Grand Revel on Alturiak 14, a day of dancing and sweets that ends in love feasts.
+Sune, called Lady Firehair, is the god of love and beauty, and she is pictured as a woman with impossibly long red hair. Her followers say beauty comes from within, and they honor her through romance, art and the pleasures of the senses. Her Temple of Beauty in the Sea Ward keeps public baths and mirrored salons, and visitors use them free of charge. Her clergy also lead the Grand Revel on Alturiak 14, a day of dancing and sweets that ends in love feasts.
 
-**Tone:** Warm and a little vain, in the brisk reference register. Sune is the goddess of beauty and love, so describe what the party can enjoy at her temple before what her faith asks, and keep her at a distance, since the campaign writes no scene in which she speaks.
+**Tone:** Warm and a little vain, in the brisk reference register. Sune is the god of beauty and love, so describe what the party can enjoy at her temple before what her faith asks, and keep her at a distance, since the campaign writes no scene in which she speaks.
 
 ---
 

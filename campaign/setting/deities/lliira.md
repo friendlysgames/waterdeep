@@ -5,7 +5,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **What this page is:** the deity entry for Lliira, the goddess of joy, and the reference for Lliira's Night.
+> - **What this page is:** the deity entry for Lliira, the god of joy, and the reference for Lliira's Night.
 > - **Where it is used:** Lliira never appears in person, and no campaign NPC worships her. She comes up through the festival calendar, above all Lliira's Night on Flamerule 7, which falls in the ten days between Founders' Day and the Cassalanter twins' ninth birthday.
 > - **Featured in:** The festival calendar only, in the ten days between Founders' Day and Flamerule 11 that close **Cassalanter Villa**. No quest or event names her.
 > - **Spoiler limit:** everything above the `## Overview` may be read by the GM only. The Overview is the common-knowledge tier. Nothing about Lliira is secret, and this page makes no claim about the Cassalanters.
@@ -62,7 +62,7 @@
 > **[GM]**
 >
 > #### Using Lliira as a Deity
-> - **The ordinary Waterdhavian's view:** Voice her as the lady of the dance floor. A sage, a priest or a regular at the bar says she is the goddess of joy, dance and festivals, that her priests, the joybringers, dress like guests at a ball and throw excellent parties, and that her faithful wear something bright. They add that she turns away from any feast where a blade is drawn. Every Flamerule 7 the city keeps her night with dances, balls, pink drinks and fireworks until dawn, and Waterdhavians say the custom began here before it spread along the Sword Coast. How they feel about her clergy outside the festivals is unsourced. [research]
+> - **The ordinary Waterdhavian's view:** Voice her as the lady of the dance floor. A sage, a priest or a regular at the bar says she is the god of joy, dance and festivals, that her priests, the joybringers, dress like guests at a ball and throw excellent parties, and that her faithful wear something bright. They add that she turns away from any feast where a blade is drawn. Every Flamerule 7 the city keeps her night with dances, balls, pink drinks and fireworks until dawn, and Waterdhavians say the custom began here before it spread along the Sword Coast. How they feel about her clergy outside the festivals is unsourced. [research]
 > - **Waterdeep:** Lliira has no temple or shrine of her own in the city in any source, and she has two festivals.
 >   - The Dragon Heist Major Temples table has no Lliira row. The same table lists Holyhands House in the North Ward as a temple for all deities, which includes her.
 >   - No campaign file or ward gazetteer page names a shrine, a priest or a joybringer of hers. The Grand Revel text speaks of "the clergy of" Lliira, which implies that her clergy are in the city, but it names no temple or person. Whether a joybringer lives in Waterdeep is [research].
@@ -76,7 +76,7 @@
 
 ## Overview
 
-Lliira, Our Lady of Joy, is the goddess of joy, dance and festivals, and people honor her at any celebration. Her priests, the joybringers, wear festival clothes and throw parties, and they are among the most beloved clergy in Faerûn. Her faithful wear at least one bright, cheerful color, and she turns her favor away from any revel where fighting breaks out or weapons are drawn. Waterdeep keeps her night on Flamerule 7 with dances and balls across the city and smokepowder fireworks until dawn.
+Lliira, Our Lady of Joy, is the god of joy, dance and festivals, and people honor her at any celebration. Her priests, the joybringers, wear festival clothes and throw parties, and they are among the most beloved clergy in Faerûn. Her faithful wear at least one bright, cheerful color, and she turns her favor away from any revel where fighting breaks out or weapons are drawn. Waterdeep keeps her night on Flamerule 7 with dances and balls across the city and smokepowder fireworks until dawn.
 
 > **[GM]**
 >
@@ -84,7 +84,7 @@ Lliira, Our Lady of Joy, is the goddess of joy, dance and festivals, and people 
 > - **Lliira's Night and the ten days:** The festival falls on Flamerule 7, six days after Founders' Day and four days before the twins' ninth birthday on Flamerule 11 (derived). The festival calendar lists it and Sornyn as the two festivals inside the ten days between the feast and the birthday. Its hook is cover. Envoys and strangers are expected in the city and fireworks boom until dawn, so unfamiliar faces and loud noises draw no notice.
 > - **Presence in the story:** No file has Lliira appear or speak, and none names a Chosen or a worshiper of hers. Her reach in the story is the festival date, and no scene is written for it.
 
-**Tone:** Warm and light, in the brisk reference register. Lliira is a goddess of celebration, so describe what the party can enjoy before what she forbids, and keep her at a distance, since the campaign writes no scene in which she speaks.
+**Tone:** Warm and light, in the brisk reference register. Lliira is a god of celebration, so describe what the party can enjoy before what she forbids, and keep her at a distance, since the campaign writes no scene in which she speaks.
 
 ---
 
@@ -101,7 +101,7 @@ Lliira, Our Lady of Joy, is the goddess of joy, dance and festivals, and people 
 
 - **Waukeen** (Deities): the friend whose portfolio and church Lliira held in trust.
 - **Tymora**, **Deneir**, **Oghma**, **Helm** (Deities): an ally who shares Brightwater in the 3e books, two allies, and the guardian of the Celestial Stairway.
-- **Sune**, **Milil**, **Leira**, **Shar**, **Loviatar** (Deities): the goddess she served, her best friend, the goddess of the false murder rumor, the corrupter of Sharess, and the power whose followers her knights fight.
+- **Sune**, **Milil**, **Leira**, **Shar**, **Loviatar** (Deities): the goddess she served, her best friend, the god of the false murder rumor, the corrupter of Sharess, and the power whose followers her knights fight.
 - **Timekeeping and the Festival Calendar** (History): the date of Lliira's Night and the ten days between Founders' Day and the birthday.
 - **Cassalanter Villa** (quest): the quest whose Founders' Day deadline opens the ten days that hold Lliira's Night.
 

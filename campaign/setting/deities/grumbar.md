@@ -88,7 +88,7 @@ Grumbar, the Earthlord, is the neutral god of earth and one of the four elementa
 
 ## Cross-References
 
-- **Akadi** (Deities): the goddess of air whom he opposes, and whose Knights of the Wind's Four Quarters fought his followers.
+- **Akadi** (Deities): the god of air whom he opposes, and whose Knights of the Wind's Four Quarters fought his followers.
 - **Kossuth**, **Istishia** (Deities): the other two Elemental Lords. The wiki says Kossuth is the one elemental power with a large following.
 - **Garl Glittergold** (Deities): the gnome god of the wiki's list of loosely tied earth powers.
 - **Moradin** (Deities): the dwarf head of the pantheon, whose Hall of Moradin lies in the Vault of Dragons. No source in the Grumbar research ties him to Grumbar.

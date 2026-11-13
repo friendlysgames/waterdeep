@@ -5,7 +5,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **What this page is:** the deity entry for Mystra, goddess of magic, and the reference for the faith practiced at the House of Wonder in the Sea Ward.
+> - **What this page is:** the deity entry for Mystra, god of magic, and the reference for the faith practiced at the House of Wonder in the Sea Ward.
 > - **Where it is used:** Mystra never appears in person. The campaign reaches her through the House of Wonder, through her daughter Laeral Silverhand, and through Manshoon's plan to supplant her.
 > - **Featured in:** **Fireball!** (the House of Wonder on the nimblewright sweep). Through Laeral Silverhand she also touches **Sea Maidens Faire**, **Kolat Towers** and **Vault of Dragons**, and through Manshoon's plan she touches **Gralhund Villa** and **Kolat Towers**.
 > - **Spoiler limit:** everything above the `## Overview` may be read by the GM only. The Overview is the common-knowledge tier and never mentions Manshoon. Manshoon's aim to absorb the Weave sits in the GM Notes and in the Never reveal bullet.
@@ -50,19 +50,19 @@
   - The FRHoF calls Azuth, Kelemvor and Selûne her traditional allies and names Cyric as the foremost enemy of her Knights, who defend against his plots and seek out his temples and shrines to destroy them.
   - Bane tried to wrest power from her and captured and tortured her avatar during the Godswar. Talos did not get along with her (*Faiths & Avatars*).
 - **Origin and rise:** Wiki-sourced, with the book or edition named on each fact. The FRHoF says she has changed many times over the millennia, with two known passings of her mantle.
-  - Her predecessor Mystryl sacrificed herself to protect the Weave from Karsus's Folly. In the moments after the Fall of Netheril a peasant girl with an aptitude for spells became the new goddess of magic and caught three of Netheril's floating cities as they fell. The wiki dates her apotheosis to -339 DR (*Netheril: Empire of Magic*).
+  - Her predecessor Mystryl sacrificed herself to protect the Weave from Karsus's Folly. In the moments after the Fall of Netheril a peasant girl with an aptitude for spells became the new god of magic and caught three of Netheril's floating cities as they fell. The wiki dates her apotheosis to -339 DR (*Netheril: Empire of Magic*).
   - She was more lawful than Mystryl and set new rules for spellcasters, among them a ban on the highest levels of magic, known to sages as Mystra's Ban (*Netheril: Empire of Magic*; *Lost Empires of Faerûn*). She created the title of Magister, held by one master of the Art at a time (*The Magister*).
   - She made Elminster Aumar a Chosen in 240 DR and rescued a wandering wizard from death in 464 DR, who became the Nameless Chosen and later Khelben "Blackstaff" Arunsun. In 761 DR she possessed the sorceress Elué, and the Seven Sisters followed (*The Grand History of the Realms*; *Forgotten Realms Campaign Setting*, 3e).
   - The House of Wonder in Waterdeep was dedicated to her in 1215 DR (*The Grand History of the Realms*).
   - In 1358 DR, in the last hour before the gods were cast down to walk Toril, she entrusted a pendant holding some of her power to the wizard Midnight. Bane then captured her, and she sought dissolution. Her avatar attacked Helm at the Celestial Stairway, and he destroyed it in an explosion above Castle Kilgrave (*Shadowdale*; *Waterdeep*, the 2e adventure).
-  - At the end of the Godswar, Ao offered the post of goddess of magic to Midnight, who accepted reluctantly and took Mystra's name to smooth the transition (*Waterdeep*, the 2e adventure; *Faiths & Avatars*). *Dragon Heist* places this on the slopes of Mount Waterdeep.
+  - At the end of the Godswar, Ao offered the post of god of magic to Midnight, who accepted reluctantly and took Mystra's name to smooth the transition (*Waterdeep*, the 2e adventure; *Faiths & Avatars*). *Dragon Heist* places this on the slopes of Mount Waterdeep.
   - In 1385 DR the Spellplague gripped the world. *Dragon Heist* says it has since been divined that Cyric's hatred for her boiled over into her murder, and that parts of Toril switched places with parts of another world. The Lathander page records the wiki's 4e account, in which Cyric and Shar killed her.
 - **In the campaign:** Mystra is present in 1492 DR. The House of Wonder is a working temple with a high priest, and no file treats her as dead or absent. *Dragon Heist* says her death, rebirth and withdrawal from the world weakened Laeral, and the page treats those events as history (see Draft Notes).
 
 > **[GM]**
 >
 > #### Using Mystra as a Deity
-> - **The ordinary Waterdhavian's view:** Voice her as the patron of every spellcaster in the city. A sage, a priest or a regular at the bar says she is the Lady of Mysteries, the goddess of magic and of the Weave that every spell is drawn from, and that wizards, sages and alchemists favor her. They add that her priests look out for children with a spark and find them a teacher, and that the House of Wonder in the Sea Ward is the finest temple to the gods of magic in the world. Older Waterdhavians tell that she was once the mortal Midnight, raised to godhood on the slopes of Mount Waterdeep at the end of the Time of Troubles, and a sage adds that Cyric is blamed for murdering her in the Spellplague. Anyone who follows city politics knows that the Open Lord, Laeral Silverhand, is one of her daughters. Nobody in this conversation mentions Manshoon.
+> - **The ordinary Waterdhavian's view:** Voice her as the patron of every spellcaster in the city. A sage, a priest or a regular at the bar says she is the Lady of Mysteries, the god of magic and of the Weave that every spell is drawn from, and that wizards, sages and alchemists favor her. They add that her priests look out for children with a spark and find them a teacher, and that the House of Wonder in the Sea Ward is the finest temple to the gods of magic in the world. Older Waterdhavians tell that she was once the mortal Midnight, raised to godhood on the slopes of Mount Waterdeep at the end of the Time of Troubles, and a sage adds that Cyric is blamed for murdering her in the Spellplague. Anyone who follows city politics knows that the Open Lord, Laeral Silverhand, is one of her daughters. Nobody in this conversation mentions Manshoon.
 > - **Waterdeep:** Mystra has one temple in the city, the House of Wonder in the Sea Ward.
 >   - The Dragon Heist Major Temples table lists "Mystra, House of Wonder, Sea Ward". The Sea Ward text calls it "surely the most splendid temple dedicated to the gods of magic" with Mystra foremost among them, and it points visitors to the ornate towers, brilliant mosaics and magical displays. Humble violets grow among the ostentation, planted in memory of Ahghairon, whose favorite flower they were. The temple stands near the crossing of Diamond Street and Delzorin Street.
 >   - On Ahghairon's Day, Eleasis 1, commoners leave violets atop the altars of the House of Wonder. The Sea Ward's Pharra's Alley is named for the first leader of the House, though it is better known for its Circle of Skulls.
@@ -79,7 +79,7 @@
 
 ## Overview
 
-Mystra is the goddess of magic and of the Weave, the force from which every spell is drawn. Waterdhavians call her the Lady of Mysteries, and her House of Wonder in the Sea Ward is held to be the most splendid temple to the gods of magic in the world. Her followers are wizards, sages, alchemists and anyone else who works with magic, and they hold that magic should be preserved and shared with those who have the gift. Sages tell that she was once the mortal Midnight, made a goddess on the slopes of Mount Waterdeep, and the Open Lord, Laeral Silverhand, is one of her daughters.
+Mystra is the god of magic and of the Weave, the force from which every spell is drawn. Waterdhavians call her the Lady of Mysteries, and her House of Wonder in the Sea Ward is held to be the most splendid temple to the gods of magic in the world. Her followers are wizards, sages, alchemists and anyone else who works with magic, and they hold that magic should be preserved and shared with those who have the gift. Sages tell that she was once the mortal Midnight, made a goddess on the slopes of Mount Waterdeep, and the Open Lord, Laeral Silverhand, is one of her daughters.
 
 > **[GM]**
 >
@@ -89,14 +89,14 @@ Mystra is the goddess of magic and of the Weave, the force from which every spel
 > - **Manshoon's plan:** Manshoon wants the Stone of Golorr for the ancient Weave knowledge encoded in its aboleth memory. He means to use it to absorb the Weave and supplant Mystra, and the vault's gold pays for the preparations. The plan links to **Gralhund Villa** and **Kolat Towers**. In **Gralhund Villa** the party does not learn his name, his goals or the Weave motive, so no priest of Mystra can speak of it before the party's evidence supports it.
 > - **The House of Wonder in Fireball!:** The nimblewright detector gives a quiet click at the temple, and the high priest confirms the guardian was there all morning with multiple witnesses. Treat it as a cleared stop in the montage and add no further plot to it.
 
-**Tone:** Wondering and exact. Mystra is the goddess of magic, so describe what magic lets people do before the rules she set on it, and keep her at a distance. The campaign writes no scene in which she appears.
+**Tone:** Wondering and exact. Mystra is the god of magic, so describe what magic lets people do before the rules she set on it, and keep her at a distance. The campaign writes no scene in which she appears.
 
 ---
 
 ## Source References
 
 - Deity research note (FRHoF p.117 entry, current 2024-era canon): title, other names, worshipers, plane, the Weave, the orders (Knights of the Mystic Fire, Children of the Starry Quill, Order of the Shooting Star, Sisterhood of the Silver Fire), Chosen, silver fire, messengers, allies and the enemy of the Knights, and the two passings of her mantle.
-- Same note, SCAG p.21 entry (2014), used for alignment, domains and symbol, and for the goddess of possibilities and the clergy composition. Marked "SCAG, 2014" where used. The PHB p.294 entry repeats the SCAG alignment, domains and symbol with a slightly different symbol wording.
+- Same note, SCAG p.21 entry (2014), used for alignment, domains and symbol, and for the god of possibilities and the clergy composition. Marked "SCAG, 2014" where used. The PHB p.294 entry repeats the SCAG alignment, domains and symbol with a slightly different symbol wording.
 - `sources/adventure-wdh.json`: the Major Temples of Waterdeep table row (Mystra, House of Wonder, Sea Ward, lines 30957-30961), the Sea Ward text on the House of Wonder and its violets (lines 30877 and 30880), Pharra's Alley (line 31330), Ahghairon's Day (line 31479), the Time of Troubles and Spellplague history (lines 30483-30485), Gods' Day (line 31536), the Dock Ward guildhall (line 8276), Laeral's parentage and the Spellplague (lines 32201-32202), and the letter that styles her "Chosen of Mystra" (line 26646).
 - `sources/adventure-wdmm.json:61940`: the caption "The exterior of the House of Wonder (temple of Mystra) in the Sea Ward".
 - `campaign/quests/act-ii/fireball/ev-03-the-nimblewright-hunt.md:31`: the House of Wonder sweep row.

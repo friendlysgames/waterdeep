@@ -108,7 +108,7 @@ Tempus is the god of war, called the Lord of Battles and the Foehammer, and his 
 
 ## Cross-References
 
-- **The Red Knight** (Deities): the goddess of strategy whose ascension he sponsored and who looks to him as a father.
+- **The Red Knight** (Deities): the god of strategy whose ascension he sponsored and who looks to him as a father.
 - **Gond**, **Beshaba**, **Eldath**, **Sune** (Deities): his friend, his former lover and the two goddesses who differ from him.
 - **Selûne**, **Shar**, **Lathander** (Deities): the powers of the primordial clashes behind his rise and the 1345 DR unrest.
 - **Valkur**, **Eilistraee** (Deities): a casual friend and the goddess whose followers call him the Butcher.

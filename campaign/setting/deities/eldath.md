@@ -5,7 +5,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **What this page is:** the deity entry for Eldath, the goddess of peace, and the reference for Avi's faith at Steam and Steel.
+> - **What this page is:** the deity entry for Eldath, the god of peace, and the reference for Avi's faith at Steam and Steel.
 > - **Where it is used:** Eldath never appears in person and has no temple or shrine in the sources. Her only tie to the campaign is Avi, the water genasi armorsmith who worships her.
 > - **Featured in:** **Trollskull Alley** and **Fireball!**, through Avi. Neither quest names Eldath as a power.
 > - **Spoiler limit:** everything above the `## Overview` may be read by the GM only. The Overview is the common-knowledge tier. Nothing about Eldath is secret.
@@ -47,7 +47,7 @@
   - She was opposed to **Tempus** but not his enemy. He thought her naive, respected her convictions, and punished any of his followers who harmed her faithful or desecrated her shrines (*Faiths & Avatars*, 2e).
   - Druids count her among the First Circle (SCAG, 2014). A character in the novel *The Jewel of Turmish* calls her a healer who serves Silvanus and helps the druids of the Emerald Enclave.
 - **Origin and rise:** Wiki-sourced, with the book named on each fact.
-  - The wiki describes her as a lake spirit (*Dragon* 376) who was often worshiped as a goddess of peace and calm waters (*Faiths & Pantheons*, 3e). Among the Bedine of Anauroch she is the Mother of the Waters (*Anauroch*).
+  - The wiki describes her as a lake spirit (*Dragon* 376) who was often worshiped as a god of peace and calm waters (*Faiths & Pantheons*, 3e). Among the Bedine of Anauroch she is the Mother of the Waters (*Anauroch*).
   - Bedine legend says the sun goddess At'ar, jealous of her beauty, imprisoned her at the oasis of Elah'zad in the Anauroch desert (*Anauroch*; *The Parched Sea*; *Faiths & Avatars*).
   - The wiki page has no Spellplague or Second Sundering text for her, and its 4e rows are blank.
 - **In the campaign:** Eldath is alive and present in 1492 DR. No file treats her as dead or absent.
@@ -55,7 +55,7 @@
 > **[GM]**
 >
 > #### Using Eldath as a Deity
-> - **The ordinary Waterdhavian's view:** Voice her as the goddess of quiet water. A sage, a priest or a regular at the bar says she is the Quiet One, the goddess of waterfalls, springs, pools and still glades, and that water she has blessed heals the sick and comforts the dying. They add that villages outside the city keep a pond or a glade for her, where people leave broken weapons and the remains of old arguments, and that it is taboo to strike one of her priests. How the city feels about her, and which of her names Waterdhavians use, is unsourced. [research]
+> - **The ordinary Waterdhavian's view:** Voice her as the god of quiet water. A sage, a priest or a regular at the bar says she is the Quiet One, the god of waterfalls, springs, pools and still glades, and that water she has blessed heals the sick and comforts the dying. They add that villages outside the city keep a pond or a glade for her, where people leave broken weapons and the remains of old arguments, and that it is taboo to strike one of her priests. How the city feels about her, and which of her names Waterdhavians use, is unsourced. [research]
 > - **Waterdeep:** Eldath has no temple or shrine in the sources.
 >   - The Dragon Heist Major Temples table has no Eldath row. Its "All deities" row, Holyhands House in the North Ward, covers her by its own wording (`sources/adventure-wdh.json:30923-30925`).
 >   - The Sea Ward text calls the Shrines to Nature "resplendent gardens dedicated to nature gods like Mielikki and Silvanus" (`sources/adventure-wdh.json:30884`). It names no other god, and the table row lists only those two. Whether she is honored there is unsourced. [research]
@@ -72,7 +72,7 @@
 
 ## Overview
 
-Eldath is the goddess of peace and quiet water, and her followers call her the Quiet One. Waterfalls, springs, pools and still glades are her places, and water she has blessed is said to heal the sick and comfort the dying. Her priests wander between village ponds and woodland shrines, and it is taboo to strike one. No temple of hers is known in Waterdeep, and her one known worshiper in the city is Avi, the armorer at Steam and Steel in Trollskull Alley.
+Eldath is the god of peace and quiet water, and her followers call her the Quiet One. Waterfalls, springs, pools and still glades are her places, and water she has blessed is said to heal the sick and comfort the dying. Her priests wander between village ponds and woodland shrines, and it is taboo to strike one. No temple of hers is known in Waterdeep, and her one known worshiper in the city is Avi, the armorer at Steam and Steel in Trollskull Alley.
 
 > **[GM]**
 >

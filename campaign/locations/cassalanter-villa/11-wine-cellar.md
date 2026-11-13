@@ -10,7 +10,7 @@ A single guard patrols the cellar on the night shift (midnight to dawn). During 
 
 The cellar is accessed from the kitchen corridor via the key ring kept in the pantry (C10). During the day, Jandar or a senior staff member retrieves bottles for meals. During events, the kitchen staff make multiple cellar runs over the course of the evening.
 
-The Siamorphe sun symbol is prominent. A DC 12 Intelligence (Religion) check identifies Siamorphe as the goddess of nobility. Elzerina knows "a funny door behind a sun" in the cellar — she has seen it from the corridor, though the door was closed and she did not enter. She describes the symbol accurately if asked.
+The Siamorphe sun symbol is prominent. A DC 12 Intelligence (Religion) check identifies Siamorphe as the god of nobility. Elzerina knows "a funny door behind a sun" in the cellar — she has seen it from the corridor, though the door was closed and she did not enter. She describes the symbol accurately if asked.
 
 **Finding the secret door (without prior knowledge):** DC 18 Intelligence (Investigation). The carving's central circle is a pressure point — pressing it rotates a stone counterweight, withdrawing a latch. The door swings inward on a balanced pivot, soundlessly. Jandar (if turned) will describe its location directly, no check required.
 

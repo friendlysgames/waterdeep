@@ -5,7 +5,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **What this page is:** the deity entry for Auril, the Frostmaiden and goddess of winter, for players who want a cold-climate cleric or a devout character with a feared patron, and for a GM who needs a power to stand behind a hard winter.
+> - **What this page is:** the deity entry for Auril, the Frostmaiden and god of winter, for players who want a cold-climate cleric or a devout character with a feared patron, and for a GM who needs a power to stand behind a hard winter.
 > - **Where it is used:** Auril never appears in person, and no campaign file names her. The page records the one *Dungeon of the Mad Mage* line that names her, and the one Waterdeep holiday the wiki ties to her, so that no later page invents more.
 > - **Featured in:** No quest. Her name appears only on other Deities pages, as one of the Gods of Fury with **Talos**, **Malar** and **Umberlee**.
 > - **Spoiler limit:** everything above the `## Overview` may be read by the GM only. The Overview is the common-knowledge tier. Nothing about Auril is secret.
@@ -64,7 +64,7 @@
 > **[GM]**
 >
 > #### Using Auril as a Deity
-> - **The ordinary Waterdhavian's view:** Voice her as a power people bargain with and never love. Dragon Heist says Waterdhavian winters are harsh, with snow piled around the city, ice filling the harbor and the gates sealed (`sources/adventure-wdh.json:607`), so a sage, a priest or a regular at the bar knows what she is blamed for. They say she is the Frostmaiden, the goddess of winter, shown as a six-pointed snowflake. They add that few care for her except those who live by the winter or truly love it, that everyone else lays in stores against the cold and leaves her an offering, and that druids honor her among the nature powers. They know Luskan's Winter Palace and its ice-packed runners from the road north. Old-timers may mention Auril's Blesstide, the first day of new frost, when the city once sought a mild winter from her (wiki). How the city feels about her worship is unsourced. [research]
+> - **The ordinary Waterdhavian's view:** Voice her as a power people bargain with and never love. Dragon Heist says Waterdhavian winters are harsh, with snow piled around the city, ice filling the harbor and the gates sealed (`sources/adventure-wdh.json:607`), so a sage, a priest or a regular at the bar knows what she is blamed for. They say she is the Frostmaiden, the god of winter, shown as a six-pointed snowflake. They add that few care for her except those who live by the winter or truly love it, that everyone else lays in stores against the cold and leaves her an offering, and that druids honor her among the nature powers. They know Luskan's Winter Palace and its ice-packed runners from the road north. Old-timers may mention Auril's Blesstide, the first day of new frost, when the city once sought a mild winter from her (wiki). How the city feels about her worship is unsourced. [research]
 > - **Waterdeep:** Auril has no temple, shrine or priest in the city in any source.
 >   - The Dragon Heist Major Temples table has no Auril row (`sources/adventure-wdh.json:30921-30996`). The "All deities" row, Holyhands House in the North Ward (`:30923-30925`), is the only listing that could cover her, and no source says her faithful use it.
 >   - The wiki's temple and shrine lists leave Waterdeep out. The nearest temple is the Winter Palace in Luskan (FRHoF).
@@ -80,7 +80,7 @@
 
 ## Overview
 
-Auril, the Frostmaiden, is the goddess of winter and cold, and Waterdhavians picture her with a six-pointed snowflake for a symbol. She is merciless, and her followers are druids and people of the cold lands, who leave her offerings of food and fuel and pray for a mild winter. Her priests warn the folk around them to stock up before the cold comes. Her best-known temple is the Winter Palace in Luskan, and Waterdeep has no temple of hers.
+Auril, the Frostmaiden, is the god of winter and cold, and Waterdhavians picture her with a six-pointed snowflake for a symbol. She is merciless, and her followers are druids and people of the cold lands, who leave her offerings of food and fuel and pray for a mild winter. Her priests warn the folk around them to stock up before the cold comes. Her best-known temple is the Winter Palace in Luskan, and Waterdeep has no temple of hers.
 
 **Tone:** Grave and plain, with no spectacle. Auril is the cold that does not care, so describe the frost and what it preserves before the goddess, and let the careful stocking of food and fuel carry the page. Keep her at a distance, since the campaign writes no scene in which she acts.
 
