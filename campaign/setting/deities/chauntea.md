@@ -28,7 +28,7 @@
 
 ## Influence and Followers
 
-- **Rank:** Chauntea is a goddess of the Faerûnian pantheon and the most widely worshiped god among the common folk of Faerûn (FRHoF). The wiki files her among the greater deities in its 1e, 2e and 3e rows, and as plain "deity" in its 5e row.
+- **Rank:** Chauntea is a deity of the Faerûnian pantheon and the most widely worshiped god among the common folk of Faerûn (FRHoF). The wiki files her among the greater deities in its 1e, 2e and 3e rows, and as plain "deity" in its 5e row.
 - **What the faith asks:** Her teaching is full of farming parables. It tells folk to nurture, tend and plant wherever they can, and to put something new in the ground wherever something is torn down (FRHoF). Growing and reaping, the eternal cycle, is a common theme, and destruction for its own sake is anathema to her (SCAG, 2014). The wiki adds that she urges people in civilized lands to repair what they damage, and that blight on the natural world draws her fury (*Faiths & Pantheons*, 3e).
 - **Farm and hearth:** SCAG (2014) calls her a rural deity who is rarely prayed to behind city walls, except by kitchen gardeners. She is also the Great Mother of crib, hearth and home, so she is welcome in every house at mealtimes and at the birth of a child. FRHoF says city people pray to her at those two moments.
 - **Clergy and temples:** Her temples keep a great body of practical lore about farming and cultivation. Her priests work closely with rural communities, dress humbly in beige and muted green, and are happy to dig in the dirt beside the farmers (FRHoF; SCAG, 2014).
