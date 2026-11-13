@@ -363,6 +363,8 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 **Escalation tiers:** Villain escalation uses four tiers only — Unaware, Suspicious, Alert, Lockdown (see **Running the Villains**).
 
+**Sundering canon and 5e source precedence:** The Second Sundering ended in **1487 DR**: Mystra and the Weave are restored, Abeir and Toril are separate, and every god merged or absorbed in the Spellplague era (Lathander and Amaunator, Talos and Gruumsh, Azuth and Asmodeus) is separate again. A source that says two powers were "separate by 1491 DR" means it has already happened by that year, so the campaign's 1492 DR starts with every merger undone. Where Forgotten Realms: Heroes of Faerûn (2025) and the Sword Coast Adventurer's Guide (2014) disagree, **Heroes of Faerûn wins** because it is newer; for example Tymanther is "no more". Where Heroes of Faerûn is silent, the Sword Coast Adventurer's Guide stands. The wiki and the novels rank below both. (User: "1487 is the canon date iirc, all gods were unmerged, by 1491 means that it has already happened by that year, Heroes of Faerun takes precedent over scag, since it's newer.")
+
 ### Process Rules
 
 **Git commits:** Commit to git at the end of every turn in which files were changed. The commit message must explain *why* the changes were made — not just what changed. Reference the design decision or consistency issue that drove each edit. This preserves reasoning across context compaction, so future sessions can understand not just what is in the files but why it got there.
