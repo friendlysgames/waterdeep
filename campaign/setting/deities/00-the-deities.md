@@ -53,7 +53,7 @@ Rows are sorted by the first domain listed, then by name. A power with no 5etool
 | **Lathander** | God of Dawn and Renewal | Life, Light |
 | **Lliira** | God of Joy | Life |
 | **Sune** | God of Love and Beauty | Life, Light |
-| **Yondalla** | Goddess of fertility and protection | Life, Twilight |
+| **Yondalla** | God of fertility and protection | Life, Twilight |
 | **Eilistraee** | God of Song and Moonlight | Light, Nature (MTF, 2014, adds Life) |
 | **Kossuth** | God of Fire | Light |
 | **Milil** | God of Poetry and Song | Light |
@@ -61,7 +61,7 @@ Rows are sorted by the first domain listed, then by name. A power with no 5etool
 | **Malar** | God of the Hunt | Nature |
 | **Mielikki** | God of Forests | Nature |
 | **Silvanus** | God of Wild Nature | Nature |
-| **Akadi** | Goddess of Air | Tempest |
+| **Akadi** | God of Air | Tempest |
 | **Gruumsh** | God of storms and war | Tempest, War |
 | **Istishia** | God of Water | Tempest |
 | **Talos** | God of Storms | Tempest |
@@ -334,7 +334,7 @@ Eight powers lead the faiths of peoples other than the humans of Faerûn. Their 
 | **Corellon Larethian** | Elven, the Seldarine | God of Art and Magic | Elves, especially elf wizards | Shares the Temple of the Seldarine, Castle Ward; no temple of his own |
 | **Moradin** | Dwarven, the Morndinsamman | God of creation | Dwarves, smiths, miners, engineers, fighters | No temple, shrine, priest or festival |
 | **Garl Glittergold** | Gnomish | God of Trickery and Gems | Gnomes | No temple, shrine, priest or festival |
-| **Yondalla** | Halfling | Goddess of fertility and protection | Halflings | Shrine on Larkhaven Street, Southern Ward |
+| **Yondalla** | Halfling | God of fertility and protection | Halflings | Shrine on Larkhaven Street, Southern Ward |
 | **Gruumsh** | Orc | God of storms and war | Orcs, half-orcs | No temple, shrine, priest or festival |
 | **Maglubiyet** | Goblinoid | Goblinoid god of war | Goblins, hobgoblins and bugbears | No temple, shrine, priest or festival |
 | **Tiamat** | Nonhuman (PHB, 2014) | Dragon goddess of evil | Chromatic dragons, evil dragons and evil reptiles | No temple, shrine, priest or festival |

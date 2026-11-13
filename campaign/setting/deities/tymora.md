@@ -5,7 +5,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **What this page is:** the deity entry for Tymora, the goddess of good fortune, and the reference for the faith practiced at the Tower of Luck.
+> - **What this page is:** the deity entry for Tymora, the god of good fortune, and the reference for the faith practiced at the Tower of Luck.
 > - **Where it is used:** Tymora never appears in person. Her only tie to the campaign is Meloon Wardragon, a Force Grey fighter who serves her and whose luck runs out when an intellect devourer takes him over.
 > - **Featured in:** **Trollskull Alley** (Meloon), and the Meloon events listed on his Notable Figures page. The Players' Guide names her among the visible houses of worship.
 > - **Spoiler limit:** everything above the `## Overview` may be read by the GM only. The Overview is the common-knowledge tier and never mentions Meloon's occupation. The faith itself holds no secret.
@@ -60,7 +60,7 @@
 > **[GM]**
 >
 > #### Using Tymora as a Deity
-> - **The ordinary Waterdhavian's view:** Voice her as the friendly goddess of the gamble. A sage, a priest or a regular at the bar says she is Lady Luck, who smiles on anyone bold enough to take a chance. They add that you toss a copper to a beggar before a risky job, and that a coin landed in the hand of the statue at the Tower of Luck is a good sign. The sage knows she and Beshaba came from one goddess of luck, and warns that you do not pray to both. In Waterdeep she is the temple "popular with adventurers and criminals alike" (`campaign/setting/waterdeep-lore.md:36`), and *Dragon Heist* closes its warning about Three Daggers Alley in the Dock Ward with "don't test Tymora's favor." Nobody in this conversation mentions Meloon.
+> - **The ordinary Waterdhavian's view:** Voice her as the friendly god of the gamble. A sage, a priest or a regular at the bar says she is Lady Luck, who smiles on anyone bold enough to take a chance. They add that you toss a copper to a beggar before a risky job, and that a coin landed in the hand of the statue at the Tower of Luck is a good sign. The sage knows she and Beshaba came from one god of luck, and warns that you do not pray to both. In Waterdeep she is the temple "popular with adventurers and criminals alike" (`campaign/setting/waterdeep-lore.md:36`), and *Dragon Heist* closes its warning about Three Daggers Alley in the Dock Ward with "don't test Tymora's favor." Nobody in this conversation mentions Meloon.
 > - **Waterdeep:** Tymora has one temple in the city, the Tower of Luck in the Sea Ward.
 >   - Every placement found: the Dragon Heist Major Temples table lists "Tymora, Tower of Luck, Castle Ward" (`sources/adventure-wdh.json:30983-30985`). The Dragon Heist Sea Ward text describes the Tower of Luck inside the Sea Ward section (`:30882`) and puts the Shrines to Nature "just a block away" (`:30884`), which the table also places in the Sea Ward. `campaign/setting/waterdeep-lore.md:36` lists it among the Sea Ward's major temples, and `campaign/gazetteer/waterdeep/castle-ward.md:165` and `:240` place it in the Sea Ward. The retired `campaign/structure/ch2-city-of-splendors.md:56` agrees.
 >   - This page follows the Sea Ward. The campaign files win over the table, and the published Sea Ward text agrees with them. The conflict is in Draft Notes for the hub.
@@ -76,7 +76,7 @@
 
 ## Overview
 
-Tymora is the chaotic good goddess of good fortune, called Lady Luck and pictured as a tall, graceful young woman with silver hair. Gamblers, rogues, merchants and adventurers pray to her before any venture where a little luck would help. Her temple in Waterdeep is the Tower of Luck in the Sea Ward, a glass-roofed atrium where visitors toss a coin to a bronze statue of her above a fountain. Her creed is that fortune favors the bold, and she is sister to Beshaba, the goddess of misfortune.
+Tymora is the chaotic good god of good fortune, called Lady Luck and pictured as a tall, graceful young woman with silver hair. Gamblers, rogues, merchants and adventurers pray to her before any venture where a little luck would help. Her temple in Waterdeep is the Tower of Luck in the Sea Ward, a glass-roofed atrium where visitors toss a coin to a bronze statue of her above a fountain. Her creed is that fortune favors the bold, and she is sister to Beshaba, the god of misfortune.
 
 > **[GM]**
 >
@@ -85,7 +85,7 @@ Tymora is the chaotic good goddess of good fortune, called Lady Luck and picture
 > - **The occupation:** An intellect devourer from Xanathar's Guild takes his body and reports to the Guild through a courier. In the campaign it takes him after the Field of Triumph, about three tendays before the first day of the watch. The party can force it out in **The Trouble with Meloon**, and the real Meloon then remembers the occupation as a long dream.
 > - **At the table:** The voice notes list a toast to Tymora before every drink among Meloon's habits, and "Tymora's luck!" as his signature phrase. The Meloon page gives the faith no other role. Meloon's events are listed on his Notable Figures page.
 
-**Tone:** Warm, quick and a little rueful. Tymora is a goddess of the daring, so describe the chance she offers before the loss that follows a bad throw, and let her worshipers carry the cheer. Keep her at a distance, since the campaign writes no scene in which she appears.
+**Tone:** Warm, quick and a little rueful. Tymora is a god of the daring, so describe the chance she offers before the loss that follows a bad throw, and let her worshipers carry the cheer. Keep her at a distance, since the campaign writes no scene in which she appears.
 
 ---
 

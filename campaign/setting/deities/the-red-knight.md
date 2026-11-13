@@ -67,7 +67,7 @@
 
 ## Overview
 
-The Red Knight is the Lady of Strategy, a lawful neutral goddess of planning and tactics. Her symbol is a red lanceboard knight with stars for eyes, and her followers call themselves the Red Fellowship. Few people outside the armies revere her, mostly commanders, instructors at war colleges, quartermasters and the authors of strategy books. Her name is rarely heard away from battle except over a game of lanceboard, and none of Waterdeep's major temples is hers.
+The Red Knight is the Lady of Strategy, a lawful neutral god of planning and tactics. Her symbol is a red lanceboard knight with stars for eyes, and her followers call themselves the Red Fellowship. Few people outside the armies revere her, mostly commanders, instructors at war colleges, quartermasters and the authors of strategy books. Her name is rarely heard away from battle except over a game of lanceboard, and none of Waterdeep's major temples is hers.
 
 **Tone:** Calm and orderly. The Red Knight is a god of planning, so describe the preparation before the fight and let her followers sound patient and exact. Keep her in the present tense and at a distance, since the campaign writes no scene in which she acts, and keep Waterdeep out of her story, because no source puts her in the city.
 

@@ -53,7 +53,7 @@
 > **[GM]**
 >
 > #### Using Loviatar as a Deity
-> - **The ordinary Waterdhavian's view:** Voice her as a goddess people prefer not to discuss. A sage, a priest or a regular at the bar says she is the Maiden of Pain, the goddess of agony, whose symbol is a barbed scourge with nine tails. They say torturers and the cruel favor her, that her temples are rare, and that her followers meet in secret cells that sometimes keep prisoners. Priests of Ilmater and Lliira add that their faiths oppose hers (*Faiths & Pantheons*, 3e). How Waterdhavians feel about her beyond this, and which of her names they use, is unsourced. [research]
+> - **The ordinary Waterdhavian's view:** Voice her as a goddess people prefer not to discuss. A sage, a priest or a regular at the bar says she is the Maiden of Pain, the god of agony, whose symbol is a barbed scourge with nine tails. They say torturers and the cruel favor her, that her temples are rare, and that her followers meet in secret cells that sometimes keep prisoners. Priests of Ilmater and Lliira add that their faiths oppose hers (*Faiths & Pantheons*, 3e). How Waterdhavians feel about her beyond this, and which of her names they use, is unsourced. [research]
 > - **Waterdeep:** Loviatar has no temple or shrine in the city in the campaign sources.
 >   - The Dragon Heist Major Temples table has no Loviatar row. Its "All deities" row, Holyhands House in the North Ward, covers her by its own wording (`sources/adventure-wdh.json:30922-30926`).
 >   - The wiki lists a House of Pain in Undermountain and gives no ward (`City of Splendors: Waterdeep`, p. 41). No campaign or Dragon Heist line mentions it.
@@ -65,7 +65,7 @@
 
 ## Overview
 
-Loviatar is the goddess of pain, called the Maiden of Pain, and her symbol is a barbed scourge with nine tails. Her faithful hold that all suffering is holy, and torturers and others who break the will of their victims favor her. Temples to her are rare, and her followers meet in secret cells that sometimes kidnap and keep prisoners. No temple of hers is known in Waterdeep.
+Loviatar is the god of pain, called the Maiden of Pain, and her symbol is a barbed scourge with nine tails. Her faithful hold that all suffering is holy, and torturers and others who break the will of their victims favor her. Temples to her are rare, and her followers meet in secret cells that sometimes kidnap and keep prisoners. No temple of hers is known in Waterdeep.
 
 **Tone:** Cold and plain. Loviatar is a goddess of cruelty, so describe what her faith believes and does in a few direct sentences, and never dwell on the suffering itself. Keep her at a distance, since the campaign writes no scene in which she acts.
 

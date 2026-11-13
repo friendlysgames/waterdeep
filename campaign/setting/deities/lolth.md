@@ -5,7 +5,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **What this page is:** the deity entry for Lolth, the Spider Queen and goddess of the drow, and the record of the one rule the campaign sets for her: Bregan D'aerthe has rejected her.
+> - **What this page is:** the deity entry for Lolth, the Spider Queen and god of the drow, and the record of the one rule the campaign sets for her: Bregan D'aerthe has rejected her.
 > - **Where it is used:** Lolth never appears in person, and no source places a temple or cult of hers in Waterdeep. She reaches play through Bregan D'aerthe's contempt for her, which Soluun Xibrindas, the company's black coin and its first-meeting answers all state, and through the drow priestesses of the published *Dungeon of the Mad Mage*.
 > - **Featured in:** The Bregan D'aerthe faction events **Bregan D'aerthe First Meeting**, **Houseless Noble**, **Kreb Drops the Cover**, **The Killer's Fate** and **The Compromised Eye**, and the Doom Raiders mission **The Dockside Killer**. Soluun also appears in **Sea Maidens Faire**, where the published shrine to Lolth in his stateroom is dropped.
 > - **Spoiler limit:** everything above the `## Overview` may be read by the GM only. The Overview is the common-knowledge tier and never mentions Bregan D'aerthe. The Never reveal line holds the links between Jarlaxle, Zardoz Zord and the goddess.
@@ -51,7 +51,7 @@
   - She once helped **Gruumsh** (Deities) try to kill Corellon, and the two became enemies after he failed (*Faiths & Pantheons*, 3e).
   - She had occasional alliances with **Loviatar** and **Malar** (*Faiths & Pantheons*, 3e). The Malar page records his long-standing alliance with her against the Seldarine.
 - **Origin and rise:** Wiki-sourced, with the book or edition named on each fact.
-  - Before her fall she was Araushnee, a lesser elven goddess of destiny and artisans and the consort of Corellon. She ruled with him and Sehanine as the heads of their pantheon (*Demihuman Deities*; *The Plane Above*, 4e).
+  - Before her fall she was Araushnee, a lesser elven god of destiny and artisans and the consort of Corellon. She ruled with him and Sehanine as the heads of their pantheon (*Demihuman Deities*; *The Plane Above*, 4e).
   - FRHoF says she tried to overthrow Corellon with an army of spirits and was banished to the Abyss, where she made herself a spider form and took the name Lolth. The wiki adds that she conquered the sixty-sixth layer of the Abyss, the Demonweb Pits (*Demihuman Deities*), and that she drew in Gruumsh, **Malar** and an army of hostile gods before the Seldarine beat her (*Evermeet: Island of Elves*).
   - Her church grew in the Second Crown War. After the Fourth Crown War the elves cursed the dark elves into drow and drove them underground, where she became the main drow goddess and urged them to found their first city, Telantiwar (*Lost Empires of Faerûn*, 3e; *Races of Faerûn*, 3e).
   - During the Time of Troubles she killed Zinzerena, a goddess from another world, and gained the portfolios of chaos and assassination (*Demihuman Deities*).
@@ -64,7 +64,7 @@
 > **[GM]**
 >
 > #### Using Lolth as a Deity
-> - **The ordinary Waterdhavian's view:** Voice her as the goddess of a distant and hostile people. A sage, a priest or a regular at the bar says she is the Spider Queen, the chaotic evil goddess of the drow, shown as a giant spider or as a drow woman with a spider's body. They add that her priestesses rule the drow houses of the Underdark, that her worshipers offer blood sacrifice and are taught to kill anyone outside the faith, and that spiders are her omens. A well-read speaker mentions FRHoF's report of aboveground cults drawn by trails of spiders, with no cult placed in Waterdeep. The only line on the city's attitude to drow is that Fel'rekt Lafeen knows what happens to drow the Watch catches (`campaign/quests/faction-events/bregan-daerthe/s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:136`). Which of her names the city uses is unsourced. [research]
+> - **The ordinary Waterdhavian's view:** Voice her as the god of a distant and hostile people. A sage, a priest or a regular at the bar says she is the Spider Queen, the chaotic evil god of the drow, shown as a giant spider or as a drow woman with a spider's body. They add that her priestesses rule the drow houses of the Underdark, that her worshipers offer blood sacrifice and are taught to kill anyone outside the faith, and that spiders are her omens. A well-read speaker mentions FRHoF's report of aboveground cults drawn by trails of spiders, with no cult placed in Waterdeep. The only line on the city's attitude to drow is that Fel'rekt Lafeen knows what happens to drow the Watch catches (`campaign/quests/faction-events/bregan-daerthe/s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:136`). Which of her names the city uses is unsourced. [research]
 > - **Waterdeep:** No source places a temple, shrine, priest, holy day or cult of Lolth in the city.
 >   - The Dragon Heist Major Temples table has no Lolth row (`sources/adventure-wdh.json:30910-30997`). The two rows that could cover her are "All deities" at Holyhands House in the North Ward and "All elven deities" at the Temple of the Seldarine in the Castle Ward. No source says her faithful use either, and the wiki lists the Seldarine as a pantheon she left.
 >   - The published adventure puts a shrine of Lolth in Soluun's stateroom aboard the *Scarlet Marpenoth*, area U3, with Soluun "worshiping before" it (`sources/adventure-wdh.json:26345`, `:26350`). The campaign's U3 entry has Soluun cleaning his weapons and no shrine (`campaign/locations/sea-maidens-faire/05-scarlet-marpenoth.md:40`), so the shrine is dropped.
@@ -82,13 +82,13 @@
 
 ## Overview
 
-Lolth is the chaotic evil goddess of spiders and the drow, called the Spider Queen and the Queen of the Demonweb Pits. Her priestesses rule the great drow houses of the Underdark, and her worshipers practice blood sacrifice. Spiders are her omens, especially below ground, and she sends demons called yochlols as messengers or spies. No temple of hers stands in Waterdeep.
+Lolth is the chaotic evil god of spiders and the drow, called the Spider Queen and the Queen of the Demonweb Pits. Her priestesses rule the great drow houses of the Underdark, and her worshipers practice blood sacrifice. Spiders are her omens, especially below ground, and she sends demons called yochlols as messengers or spies. No temple of hers stands in Waterdeep.
 
 > **[GM]**
 >
 > #### GM Notes
 > - **The company's line, in the campaign's words:** The Bregan D'aerthe history page says "Jarlaxle rejected Lolth, Bregan D'aerthe rejects her, and its members speak of her as the goddess they walked away from" (`campaign/setting/history/03-bregan-daerthes-long-road.md:36`). Soluun's Emotions entry adds that the band "like every member of Bregan D'Aerthe, rejects Lolth" (`campaign/setting/notable-figures/bregan-daerthe/02-soluun-xibrindas.md:14`).
-> - **The Dockside Killer:** "If a character has Soluun in hand and asks him about the goddess of his people, he answers with open contempt for Lolth, since Bregan D'aerthe rejects her" (`campaign/quests/faction-events/doom-raiders/m01-the-dockside-killer/ev-01-the-dockside-killer.md:343`). The design notes add that he never speaks of her with devotion (`design-notes.md:13`).
+> - **The Dockside Killer:** "If a character has Soluun in hand and asks him about the god of his people, he answers with open contempt for Lolth, since Bregan D'aerthe rejects her" (`campaign/quests/faction-events/doom-raiders/m01-the-dockside-killer/ev-01-the-dockside-killer.md:343`). The design notes add that he never speaks of her with devotion (`design-notes.md:13`).
 > - **The Killer's Fate and Kreb Drops the Cover:** Soluun never says her name "with anything but disgust" (`campaign/quests/faction-events/bregan-daerthe/s05-the-killers-fate/ev-01-the-killers-fate.md:242`). Fel'rekt Lafeen "never mentions Lolth" (`s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:136`).
 > - **The Compromised Eye:** The published Jarlaxle mission says "for Lolth's sake, be discreet" (`sources/adventure-wdh.json:3633`). The campaign cuts the line because Bregan D'aerthe has rejected her (`campaign/quests/faction-events/bregan-daerthe/m04-the-compromised-eye/design-notes.md:13`).
 > - **The coin:** In **Houseless Noble** every speaker mentions her with contempt (`campaign/quests/faction-events/bregan-daerthe/r50-houseless-noble/ev-01-houseless-noble.md:27`). The black coin shows a spider caught in its own web with a blade slanting through it. Zardoz calls her "the old eight-legged lady with a knife in her" and says she is on the coin "so we remember who we told to go to hell" (`:233`). A member who has marked **Jarlaxle Unmasked** hears Jarlaxle call the spider "the goddess my people were taught to kneel to, with a knife through her" (`:243`). A DC 14 Intelligence (Arcana or History) check reads the design as an old drow house sigil with the spider canceled by the blade, a mark of defiance against the goddess (`:249`).
@@ -101,7 +101,7 @@ Lolth is the chaotic evil goddess of spiders and the drow, called the Spider Que
 >   - **Level 10, Muiral's Gauntlet:** Vlonwelv Auvryndar is rebuilding a temple to Lolth (`:27770`). The Haunted Temple of Lolth holds three priestesses turned into banshees, and Muiral visits to hear them (`:29633`, `:29688`). The level also has Lolth's Palace (`:30053`), the Dark Seldarine temples (`:30401`) and the Hall of the Dark Seldarine, whose fountain carries eight statues: Eilistraee, Malyk, Kiaransalee, Ghaunadaur, Zinzerena, Vhaeraun, Lolth and Selvetarm (`:30762`). Vlonwelv broadcasts announcements through the level from her spider throne, and one boasts that House Auvryndar holds Stromkuhldur and that Skullport will follow (`:29642`, `:29651`).
 >   - **Levels 11 and 12:** House Auvryndar and House Freth fight over the Troglodyte Warrens (`:33038`, `:33296`). Erelal Freth, a priestess of Lolth, keeps a silver shrine and can summon a yochlol with a 90 percent chance of success if the shrine is intact (`:36007`, `:36012`).
 
-**Tone:** Grave and played straight. Lolth is a goddess of treachery, so describe what her priestesses demand before what her favor looks like, and keep her at a distance, since the campaign writes no scene in which she acts. Any Bregan D'aerthe voice that mentions her does so with contempt.
+**Tone:** Grave and played straight. Lolth is a god of treachery, so describe what her priestesses demand before what her favor looks like, and keep her at a distance, since the campaign writes no scene in which she acts. Any Bregan D'aerthe voice that mentions her does so with contempt.
 
 ---
 
@@ -121,7 +121,7 @@ Lolth is the chaotic evil goddess of spiders and the drow, called the Spider Que
 
 ## Cross-References
 
-- **Eilistraee** (Deities): her daughter, the goddess of the drow who left her web.
+- **Eilistraee** (Deities): her daughter, the god of the drow who left her web.
 - **Corellon Larethian** (Deities): her former husband and the chief enemy of her hatred.
 - **Ghaunadaur** (Deities): the Dark Seldarine rival she feared.
 - **Gruumsh** (Deities): the orc god she helped against Corellon and then fought.

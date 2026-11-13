@@ -108,7 +108,7 @@ Talos, the Storm Lord, is the chaotic evil god of storms, forest fires, earthqua
 - **Malar** (Deities): the member of the Gods of Fury who would kill him if he could.
 - **Gruumsh** (Deities): the orcish god the 4e wiki folds him into during the Spellplague era, and a separate god from him in 1492 DR by ruling.
 - **Akadi**, **Valkur**, **Savras**, **Sune** (Deities): the wind goddess whose limits he marks, the sailors' champion who is the Gods of Fury's sworn enemy, and two powers who oppose him.
-- **Beshaba** (Deities): the goddess of misfortune who turned down his courtship.
+- **Beshaba** (Deities): the god of misfortune who turned down his courtship.
 - **Selûne**, **Shar** (Deities): the goddesses whose first battle produced him.
 - **Chauntea**, **Silvanus**, **Mielikki**, **Eldath** (Deities): the nature powers who oppose him.
 - **Oghma**, **Deneir**, **Gond**, **Mystra** (Deities): the powers of knowledge, craft and magic who oppose him.

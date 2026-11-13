@@ -5,7 +5,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **What this page is:** the deity entry for Chauntea, the Great Mother and goddess of agriculture, for players who want a cleric, paladin or devout character who tends the land.
+> - **What this page is:** the deity entry for Chauntea, the Great Mother and god of agriculture, for players who want a cleric, paladin or devout character who tends the land.
 > - **Where it is used:** Chauntea never appears in person, and no campaign file names her. The page backs a character who follows her, and it states what the sources place in the city so that no later page invents more.
 > - **Featured in:** No quest. Her name appears only on other Deities pages, as a lover of **Lathander**, a friendly rival of **Gond**, and a child of the war between **Selûne** and **Shar**.
 > - **Spoiler limit:** everything above the `## Overview` may be read by the GM only. The Overview is the common-knowledge tier. Nothing about Chauntea is secret.
@@ -50,7 +50,7 @@
 > **[GM]**
 >
 > #### Using Chauntea as a Deity
-> - **The ordinary Waterdhavian's view:** Voice her as the goddess behind the table. A sage, a priest or a regular at the bar says she is the Great Mother, goddess of farms and harvests and of the hearth, and that Waterdeep's bread and grain come from the fields outside its walls. They say a family thanks her over a meal and at a birth, and that farmers and kitchen gardeners pray to her more than townspeople do. They add that she is a quiet goddess who wants small acts of devotion and not grand shows. How the city feels about her beyond that is unsourced. [research]
+> - **The ordinary Waterdhavian's view:** Voice her as the goddess behind the table. A sage, a priest or a regular at the bar says she is the Great Mother, god of farms and harvests and of the hearth, and that Waterdeep's bread and grain come from the fields outside its walls. They say a family thanks her over a meal and at a birth, and that farmers and kitchen gardeners pray to her more than townspeople do. They add that she is a quiet goddess who wants small acts of devotion and not grand shows. How the city feels about her beyond that is unsourced. [research]
 > - **Waterdeep:** Chauntea has no temple or shrine in the sources.
 >   - The Dragon Heist Major Temples table has no Chauntea row. Its "All deities" row, Holyhands House in the North Ward, covers her by its own wording (`sources/adventure-wdh.json:30923-30925`).
 >   - No campaign file places a priest, a shrine or a worshiper of hers in the city, and none names a farmer, grain merchant or charity worker as a follower.
@@ -62,9 +62,9 @@
 
 ## Overview
 
-Chauntea, the Great Mother, is the goddess of farming and the harvest. Farmers and gardeners pray to her for a good harvest, and city families thank her at the table and when a child is born. The city has no temple to her, though Holyhands House in the North Ward welcomes worshipers of every god. Her faithful offer cut flowers at Greengrass in spring and give thanks for the harvest at Highharvestide in autumn.
+Chauntea, the Great Mother, is the god of farming and the harvest. Farmers and gardeners pray to her for a good harvest, and city families thank her at the table and when a child is born. The city has no temple to her, though Holyhands House in the North Ward welcomes worshipers of every god. Her faithful offer cut flowers at Greengrass in spring and give thanks for the harvest at Highharvestide in autumn.
 
-**Tone:** Warm, patient and a little plain. Chauntea is a goddess of small acts, so describe the meal, the garden and the field before any larger power, and keep her at a distance, since the campaign writes no scene in which she acts.
+**Tone:** Warm, patient and a little plain. Chauntea is a god of small acts, so describe the meal, the garden and the field before any larger power, and keep her at a distance, since the campaign writes no scene in which she acts.
 
 ---
 
@@ -79,7 +79,7 @@ Chauntea, the Great Mother, is the goddess of farming and the harvest. Farmers a
 
 ## Cross-References
 
-- **Lathander**, **Gond**, **Selûne**, **Shar**, **Mystra** (Deities): the lover, the friendly rival, the two powers whose war produced her and the third goddess of The Three in Rashemen.
+- **Lathander**, **Gond**, **Selûne**, **Shar**, **Mystra** (Deities): the lover, the friendly rival, the two powers whose war produced her and the third god of The Three in Rashemen.
 - **Mielikki**, **Silvanus** (Deities): her fellow nature powers, and the Forest Father whose wilds her fields tame.
 - **Eldath** (Deities): Eldath's wiki page lists Chauntea among her close relationships, alongside Selûne and Lathander (*Faiths & Pantheons*, 3e). Chauntea's own wiki page states no relation.
 - **Talona**, **Talos**, **Malar**, **Bane** (Deities): the powers she opposes.

@@ -45,7 +45,7 @@
 - **Messengers and omens:** An early morning visit from an exuberant songbird can be a good omen. He also sends pixies with iridescent wings in the colors of sunrise (FRHoF).
 - **Chosen in the campaign:** None. No file names a Chosen of Lathander. FRHoF says his Chosen wield powerful magic of light and life and spend their time lending these services to other good deities on his behalf. The wiki names Stedd Whitehorn as his Chosen and prophet when he returned in 1486 DR (*The Reaver*, novel).
 - **Relations:** Wiki-sourced, with the book tagged where the wiki gives one.
-  - He and **Chauntea** were romantically connected for centuries and saw each other as kindred spirits. Before her his lover was Tyche, the ancient goddess of fortune who later split into **Tymora** and **Beshaba** (*Tymora's Luck*, novel).
+  - He and **Chauntea** were romantically connected for centuries and saw each other as kindred spirits. Before her his lover was Tyche, the ancient god of fortune who later split into **Tymora** and **Beshaba** (*Tymora's Luck*, novel).
   - His allies were **Gond**, **Tymora**, **Tyr**, **Torm**, **Ilmater**, **Sune**, **Selûne**, **Oghma**, **Kelemvor** and **Mielikki**. His foes were **Cyric**, **Talos** and **Shar** (*Tymora's Luck*; *Faiths & Pantheons*, 3e).
   - **Helm** held a great deal of resentment for him, because the Dawn Cataclysm indirectly caused the death of Helm's lover, Murdane (*Faiths & Pantheons*, 3e).
   - FRHoF says the Dawnbringers count Selûne's followers among their staunchest allies, which sets them against the forces of Shar, and that they despise **Bane** and **Talos** for the destruction those gods' faithful wreak on innocent folk.

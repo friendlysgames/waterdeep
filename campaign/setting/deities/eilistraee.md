@@ -5,7 +5,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **What this page is:** the deity entry for Eilistraee, the drow goddess of song and moonlight, and a reference for a player who wants a cleric, paladin or devout character who follows her.
+> - **What this page is:** the deity entry for Eilistraee, the drow god of song and moonlight, and a reference for a player who wants a cleric, paladin or devout character who follows her.
 > - **Where it is used:** Eilistraee never appears in person, and no campaign file names her. The page states what the sources place in Waterdeep, and it holds the three Undermountain seeds that the published adventure gives her.
 > - **Featured in:** No quest. The published *Dungeon of the Mad Mage* puts her statue and temple on Level 10, and Undermountain is future work.
 > - **Spoiler limit:** everything above the `## Overview` may be read by the GM only. The Overview is the common-knowledge tier. Nothing about her is secret. Bregan D'aerthe rejects her mother Lolth, and that rejection does not make any member a follower of Eilistraee.
@@ -59,7 +59,7 @@
 > **[GM]**
 >
 > #### Using Eilistraee as a Deity
-> - **The ordinary Waterdhavian's view:** Voice her as a goddess most people have only heard about. A sage, a priest or a regular at the bar says she is the Dark Maiden, a drow goddess of song and moonlight who is shown dancing with a sword before the full moon. They add that she is the daughter of the Spider Queen and turned against her mother, and that her few followers are drow who left the Underdark, along with elves and performers who dance beneath the full moon. Some people suspect her faithful of working for Lolth in disguise, and some elves are uneasy that a drow goddess exists at all (*Faiths & Pantheons*, 3e; *Demihuman Deities*, 2e). No source records what ordinary Waterdhavians actually think of her. [research]
+> - **The ordinary Waterdhavian's view:** Voice her as a goddess most people have only heard about. A sage, a priest or a regular at the bar says she is the Dark Maiden, a drow god of song and moonlight who is shown dancing with a sword before the full moon. They add that she is the daughter of the Spider Queen and turned against her mother, and that her few followers are drow who left the Underdark, along with elves and performers who dance beneath the full moon. Some people suspect her faithful of working for Lolth in disguise, and some elves are uneasy that a drow goddess exists at all (*Faiths & Pantheons*, 3e; *Demihuman Deities*, 2e). No source records what ordinary Waterdhavians actually think of her. [research]
 > - **Waterdeep:** Eilistraee has no temple, shrine or priest in the city in any campaign file or in the Dragon Heist text.
 >   - The Major Temples of Waterdeep table has no Eilistraee row (`sources/adventure-wdh.json`, caption at about line 30910). Two rows could cover her. Holyhands House in the North Ward is listed for all deities (`:30923-30925`), and the Temple of the Seldarine in the Castle Ward is listed for all elven deities (`:30928-30930`). No source says her faithful use either.
 >   - The wiki puts her among the Seldarine's allies and names the Seldarine as her former pantheon, yet it also says many elves distrust her. Whether the Temple of the Seldarine honors her is therefore unsourced, and the Castle Ward gazetteer gives that temple no hook (`campaign/gazetteer/waterdeep/castle-ward.md:164` and `:166`). [research]
@@ -75,7 +75,7 @@
 
 ## Overview
 
-Eilistraee, the Dark Maiden, is the chaotic good goddess of song, dance and moonlight. Her symbol is a drow woman dancing with a sword before the full moon. She is the daughter of Lolth and Corellon Larethian, and she calls drow to leave their cities and live under the open sky. Her followers include drow exiles, elves, bladesingers and performers who dance beneath the full moon, and Waterdeep has no temple of hers.
+Eilistraee, the Dark Maiden, is the chaotic good god of song, dance and moonlight. Her symbol is a drow woman dancing with a sword before the full moon. She is the daughter of Lolth and Corellon Larethian, and she calls drow to leave their cities and live under the open sky. Her followers include drow exiles, elves, bladesingers and performers who dance beneath the full moon, and Waterdeep has no temple of hers.
 
 **Tone:** Warm and plain. Eilistraee is a goddess who offers a way out and promises no safety, so describe the music and the moonlight first and the danger of the road second. Keep her at a distance, since the campaign writes no scene in which she acts.
 

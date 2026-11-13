@@ -5,7 +5,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **What this page is:** the deity entry for Talona, the Lady of Poison and goddess of disease, for players who want to build a character around her or against her, and for the GM who needs to know what the sources say.
+> - **What this page is:** the deity entry for Talona, the Lady of Poison and god of disease, for players who want to build a character around her or against her, and for the GM who needs to know what the sources say.
 > - **Where it is used:** Talona appears in no quest, faction page or Notable Figure. The published *Dragon Heist* and *Dungeon of the Mad Mage* do not name her. Only other Deities pages mention her, as a power that Tyr, Chauntea, Kelemvor and others oppose.
 > - **Featured in:** No quest. No campaign file ties a poisoner, a cult or a plague to her.
 > - **Spoiler limit:** everything above the `## Overview` may be read by the GM only. The Overview is the common-knowledge tier. Nothing about Talona is secret in the campaign.
@@ -56,19 +56,19 @@
 > **[GM]**
 >
 > #### Using Talona as a Deity
-> - **The ordinary Waterdhavian's view:** Voice her as a goddess people pray to out of fear. A sage, a priest or a regular at the bar says she is the Lady of Poison, the goddess of disease and poison, blamed for plague, bad wells and failing crops. They add that people beg her for mercy when sickness comes and forget her when it passes, that she is shown as a withered crone with a cup of every poison, and that three teardrops in a triangle mean her, whether painted on a sick man's door or on a flask of poison. How the city feels about someone who admits to following her is unsourced. [research]
+> - **The ordinary Waterdhavian's view:** Voice her as a goddess people pray to out of fear. A sage, a priest or a regular at the bar says she is the Lady of Poison, the god of disease and poison, blamed for plague, bad wells and failing crops. They add that people beg her for mercy when sickness comes and forget her when it passes, that she is shown as a withered crone with a cup of every poison, and that three teardrops in a triangle mean her, whether painted on a sick man's door or on a flask of poison. How the city feels about someone who admits to following her is unsourced. [research]
 > - **Waterdeep:** Talona has no temple, shrine or priest in the city in any source.
 >   - The Dragon Heist Major Temples table has no Talona row (`sources/adventure-wdh.json:30922-30996`). Its "All deities" row, Holyhands House in the North Ward (`:30923-30925`), covers her by its own wording, and no source says her faithful use it.
 >   - Neither *Dragon Heist* nor *Dungeon of the Mad Mage* names her, and no city festival is tied to her.
 >   - FRHoF says she has almost no temples, and the only temple the sources name is in Tashluta. A shrine of hers in Waterdeep would be a small private one, kept by a plague survivor.
-> - **A cleric PC:** Death Domain (derived; Dungeon Master's Guide). Death is her one SCAG domain (the 2014 Player's Handbook repeats it), and the domain's Touch of Death and Inescapable Destruction suit a goddess of plague and poison. Life Domain (derived) is the alternative for a priest in the FRHoF mold, who tends the sick to keep her fate from others. The Divine Order that fits is Thaumaturge (derived), because the faith runs on small rites and shrines. This is an evil character, and a cleric of Talona in Waterdeep has no temple to turn to.
+> - **A cleric PC:** Death Domain (derived; Dungeon Master's Guide). Death is her one SCAG domain (the 2014 Player's Handbook repeats it), and the domain's Touch of Death and Inescapable Destruction suit a god of plague and poison. Life Domain (derived) is the alternative for a priest in the FRHoF mold, who tends the sick to keep her fate from others. The Divine Order that fits is Thaumaturge (derived), because the faith runs on small rites and shrines. This is an evil character, and a cleric of Talona in Waterdeep has no temple to turn to.
 > - **A paladin PC:** Oathbreaker (derived; Dungeon Master's Guide) is the only oath that can serve a chaotic evil goddess, and the fit is loose. Neither FRHoF nor SCAG lists paladins among her followers. A paladin sworn to fight blight and disease stands against her instead, and Oath of the Ancients is the closest oath for that (derived).
 > - **A warlock PC:** No warlock connection in the sources.
 > - **Campaign ties:** No campaign file uses this power. No campaign file ties a poisoner, an assassin or an apothecary to her, so the page does not either.
 
 ## Overview
 
-Talona is the Lady of Poison, the goddess of disease and poison, whom the people of Faerûn blame for plague, brackish wells and failing crops. She has almost no temples, but many pray to her when sickness comes, and the prayers fade as soon as it passes. Folk mark the homes of the infected and flasks of poison with her symbol, three teardrops in a triangle. Waterdeep has no temple of hers.
+Talona is the Lady of Poison, the god of disease and poison, whom the people of Faerûn blame for plague, brackish wells and failing crops. She has almost no temples, but many pray to her when sickness comes, and the prayers fade as soon as it passes. Folk mark the homes of the infected and flasks of poison with her symbol, three teardrops in a triangle. Waterdeep has no temple of hers.
 
 **Tone:** Grave and plain, with no gore. Talona is a goddess people placate out of fear, so describe the sickness and the small rites of the frightened before the poison. Keep her at a distance, since the campaign writes no scene in which she acts.
 

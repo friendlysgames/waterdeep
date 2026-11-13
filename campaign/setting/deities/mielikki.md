@@ -5,7 +5,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **What this page is:** the deity entry for Mielikki, the Lady of the Forest and goddess of forests and rangers, and the reference for the Shrines of Nature in the Sea Ward and for her Chosen at Phaulkonmere.
+> - **What this page is:** the deity entry for Mielikki, the Lady of the Forest and god of forests and rangers, and the reference for the Shrines of Nature in the Sea Ward and for her Chosen at Phaulkonmere.
 > - **Where it is used:** Mielikki never appears in person. Her reach in the campaign is Jeryth Phaulkon, her Chosen, who speaks from the gardens of Phaulkonmere and is the Emerald Enclave's highest authority in Waterdeep.
 > - **Featured in:** the Emerald Enclave faction events whose files name her through Jeryth, which are **Emerald Enclave First Meeting**, **A Seat at Phaulkonmere**, **The Water Table Stirs**, **The Grells in the Dock Ward**, **Summerstrider**, **Autumnreaver**, **Winterstalker** and **Master of the Wild**. Jeryth also appears in the main quests listed on her own page.
 > - **Spoiler limit:** everything above the `## Overview` may be read by the GM only. The Overview is the common-knowledge tier. Nothing about Mielikki is secret. The Never reveal bullet protects what Jeryth senses, which her page and the Emerald Enclave page set out.
@@ -53,7 +53,7 @@
 > **[GM]**
 >
 > #### Using Mielikki as a Deity
-> - **The ordinary Waterdhavian's view:** Voice her as a forest goddess whom the city seldom thinks about. A sage, a priest or a regular at the bar says she is the Lady of the Forest, the goddess of forests and rangers, and that her symbol is a unicorn's head. They add that people ask her to watch over children lost in the woods, and that rangers tend to pray to Gwaeron Windstrom instead of to her. The place they name is the Shrines of Nature in the Sea Ward, a fenced park that only the ward's residents may enter. Anyone invited into Phaulkonmere has heard a woman's voice in the leaves, and Jeryth Phaulkon calls the goddess "the Lady of the Forest" in every Enclave scene.
+> - **The ordinary Waterdhavian's view:** Voice her as a forest goddess whom the city seldom thinks about. A sage, a priest or a regular at the bar says she is the Lady of the Forest, the god of forests and rangers, and that her symbol is a unicorn's head. They add that people ask her to watch over children lost in the woods, and that rangers tend to pray to Gwaeron Windstrom instead of to her. The place they name is the Shrines of Nature in the Sea Ward, a fenced park that only the ward's residents may enter. Anyone invited into Phaulkonmere has heard a woman's voice in the leaves, and Jeryth Phaulkon calls the goddess "the Lady of the Forest" in every Enclave scene.
 > - **Waterdeep:** Mielikki has one shrine site in the city, the Shrines of Nature in the Sea Ward, which she shares with **Silvanus**. Her Chosen lives at Phaulkonmere in the Southern Ward.
 >   - The Dragon Heist Major Temples table lists "Mielikki, Silvanus, Shrines of Nature, Sea Ward". The Sea Ward text calls the Shrines "resplendent gardens dedicated to nature gods like Mielikki and Silvanus", a block from the Tower of Luck. The park is closed to all except residents of the Sea Ward, and passers-by can glimpse the shrines, statues and fountains through the iron fence that surrounds it.
 >   - The table writes "Shrines of Nature" and the Sea Ward text writes "Shrines to Nature". This page follows the table's name.
@@ -62,7 +62,7 @@
 >   - No campaign file names a keeper, a priest, a festival or a hook at the Shrines of Nature, and none says whether a resident may bring guests inside. [research]
 >   - No other shrine or temple of Mielikki exists in the campaign files, and no city festival is tied to her.
 > - **A cleric PC:** The domain is Nature (SCAG, 2014), and Nature Domain (derived; Player's Handbook, 2014) is the exact fit. Life Domain (derived; Player's Handbook, 2024) is the alternative for a cleric built around her healing of hurt creatures. The Divine Order that fits is Thaumaturge (derived), because her priests work through magic to speak with and defend plants and animals. A cleric who stands guard against Malar's followers beside rangers would take Protector instead (derived). A druid or ranger is the closer fit for her faith than a cleric, since the wiki's 3e class table lists only rangers and druids.
-> - **A paladin PC:** Oath of the Ancients (derived; Player's Handbook, 2024). The oath protects light, life and the natural world, which matches a goddess of forests. No source lists paladins among her followers, so the fit rests on her portfolio alone.
+> - **A paladin PC:** Oath of the Ancients (derived; Player's Handbook, 2024). The oath protects light, life and the natural world, which matches a god of forests. No source lists paladins among her followers, so the fit rests on her portfolio alone.
 > - **A warlock PC:** The Archfey patron (derived; Player's Handbook, 2024) is a loose fit. No source names a warlock of Mielikki, but FRHoF lists fey among her worshipers and her messengers include dryads and unicorns.
 > - **Campaign ties:** Jeryth Phaulkon and the Emerald Enclave, plus two holy symbols of Lurue in **Finding Floon**.
 >   - The Enclave organization page lists Jeryth as "Disembodied presence, Chosen of Mielikki; patron of Phaulkonmere; highest Enclave authority in Waterdeep." The Enclave events name her as "Jeryth Phaulkon (Neutral Good, Chosen of Mielikki, disembodied presence, she/her)". The GM Notes below hold the details.
@@ -72,7 +72,7 @@
 
 ## Overview
 
-Mielikki is the Lady of the Forest, a neutral good goddess of woodlands, their creatures and the rangers who guard them. People seldom speak of her outside quiet woods, and her followers keep glades and carved tree-trunk shrines rather than great temples. In Waterdeep she shares the Sea Ward's Shrines of Nature with Silvanus, and only the ward's residents may enter. The Emerald Enclave is based at Phaulkonmere in the Southern Ward, where her Chosen, Jeryth Phaulkon, speaks from the leaves.
+Mielikki is the Lady of the Forest, a neutral good god of woodlands, their creatures and the rangers who guard them. People seldom speak of her outside quiet woods, and her followers keep glades and carved tree-trunk shrines rather than great temples. In Waterdeep she shares the Sea Ward's Shrines of Nature with Silvanus, and only the ward's residents may enter. The Emerald Enclave is based at Phaulkonmere in the Southern Ward, where her Chosen, Jeryth Phaulkon, speaks from the leaves.
 
 > **[GM]**
 >
@@ -83,7 +83,7 @@ Mielikki is the Lady of the Forest, a neutral good goddess of woodlands, their c
 > - **The Sea Ward and the Castle Ward:** Jeryth senses an infernal influence in the Sea Ward, and the Enclave knows it is there. Nobody in the Enclave knows whose it is. The Shrines of Nature stand in the same ward, and no file connects them to it. Jeryth has also felt a presence dreaming below the Castle Ward for months, and her page says what a member can learn about it.
 > - **Phaulkonmere and Kolat Towers:** Phaulkonmere stands one block south of Kolat Towers. Until **Manshoon Named** is marked for a member, Enclave speakers say "the Splinter" and never point toward the towers.
 
-**Tone:** Gentle and distant. Mielikki is a goddess of quiet places, so describe what the forest does before anything anyone says of her, and keep her at a remove, since the campaign reaches her only through Jeryth's few words.
+**Tone:** Gentle and distant. Mielikki is a god of quiet places, so describe what the forest does before anything anyone says of her, and keep her at a remove, since the campaign reaches her only through Jeryth's few words.
 
 ---
 

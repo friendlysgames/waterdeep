@@ -340,7 +340,7 @@ If the pursuit fails, read or paraphrase the following:
 > - Why he kills surface elves, which he explains with visible relish.
 > - The Seven Masks Theater, which he refuses to discuss and where his eyes flick briefly to the playbill.
 >
-> If a character has Soluun in hand and asks him about the goddess of his people, he answers with open contempt for Lolth, since Bregan D'aerthe rejects her.
+> If a character has Soluun in hand and asks him about the god of his people, he answers with open contempt for Lolth, since Bregan D'aerthe rejects her.
 
 > [!qna]**Who are you?**
 >

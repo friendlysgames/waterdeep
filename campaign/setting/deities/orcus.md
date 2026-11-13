@@ -44,7 +44,7 @@
 - **Relations with other powers:** Wiki-sourced.
   - He is one of a triad of demon lords, with Graz'zt and Demogorgon, who war on one another (*Fiendish Codex I* 3e). The wiki notes that *Champions of Ruin* puts Eltab in the triad in place of Demogorgon. He thinks Graz'zt a self-aggrandized narcissist, and he is believed to have fought Demogorgon for hundreds of thousands of years (*Fiendish Codex I* 3e).
   - For a short time he allied with Yeenoghu (*The Throne of Bloodstone*) and with the witch-queen Iggwilv, and he and Iggwilv schemed to overthrow Demogorgon as Prince of Demons (*Dragon* 359; *Dungeon* 150).
-  - He opposes the Raven Queen, the goddess of death in the Shadowfell, and has schemed to strip her of her divine powers (*The Shadowfell: Gloomwrought and Beyond*). Her followers and his oppose one another over undeath (*Dragon* 397).
+  - He opposes the Raven Queen, the god of death in the Shadowfell, and has schemed to strip her of her divine powers (*The Shadowfell: Gloomwrought and Beyond*). Her followers and his oppose one another over undeath (*Dragon* 397).
   - The drow goddess Kiaransalee killed him and took over Thanatos, and she then tried to erase every trace of him (*Dead Gods*; *Faiths and Pantheons*).
   - He was a patron of sorts to the mage Vecna, to whom he offered the ritual that made Vecna the first lich (*Dungeon Master's Guide* 5e). He was pleased with Vecna's follower Acererak, who for a time worshiped him (*Streams of Crimson*; *Tomb of Horrors* 4e).
   - He once imprisoned his foe Baphomet in the dungeons of his lair (*The Throne of Bloodstone*).
