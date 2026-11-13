@@ -55,7 +55,7 @@
   - Before the Reckoning he took the identity of an archdevil called Baron Molikroth, "deposed" himself, ruled under that name for a long time and then revealed himself, ending the traitors who had conspired with Molikroth (*Manual of the Planes* 3e; *Book of Vile Darkness* 3e).
   - In the Reckoning he fought beside Dispater, Mammon and Geryon against Baalzebul's faction, which included Zariel, Belial and Moloch. Geryon turned on him, and the pit fiend generals of both armies turned against their lords. He suffered least of the rebels (*Guide to Hell* 3e).
   - During the Spellplague, Erevis Cale promised him a share of the god Mask's divinity, and he killed his own half-breed son Magadon as part of the deal. Cale later gave his life to bring back Magadon's soul, and Mephistopheles received a fraction of the divinity at an unexpected cost (*Shadowstorm*, novel). Drasek Riven then attacked him in Cania, and a cairn of ice that he could not enter or scry hid the rest of the divinity from him for a century (*The Godborn*, novel).
-  - Asmodeus had meanwhile absorbed Azuth, which left Mephistopheles second-rate and afraid of punishment (*The Godborn*, novel).
+  - In the novel, Asmodeus had meanwhile absorbed Azuth, which left Mephistopheles second-rate and afraid of punishment (*The Godborn*). That absorption was undone in 1487 DR, when Azuth separated from Asmodeus (see the **Azuth** page), so it is tagged history.
   - In 1484 DR he hunted Vasen Cale, Erevis's son, in the hope of opening the cairn. Vasen, a servant of Amaunator, and his father stripped the remains of Mask's divinity from every holder, and Riven took it and effectively became the reincarnated Mask. Mephistopheles fled with no divine spark (*The Godborn*, novel).
 
 > **[GM]**
@@ -90,7 +90,7 @@ Mephistopheles is the archdevil of Cania, the frozen eighth layer of the Nine He
 - **Asmodeus** (Deities): his master, ally and rival.
 - **Zariel** (Deities): the archdevil he fears.
 - **Mask** (Deities): the god whose divinity he took a share of in the wiki's account.
-- **Azuth** (Deities): the god Asmodeus absorbed, which left Mephistopheles second-rate in the novel.
+- **Azuth** (Deities): the god Asmodeus absorbed in the novel, which left Mephistopheles second-rate. The absorption was undone in 1487 DR.
 - **Amaunator** (Deities): the god served by Vasen Cale, who ended Mephistopheles's hold on Mask's divinity.
 - **Mammon** (Deities): the archdevil who sold out Mephistopheles at the end of the Reckoning.
 

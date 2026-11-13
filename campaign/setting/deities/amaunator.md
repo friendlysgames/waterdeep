@@ -75,7 +75,7 @@
 
 ## Overview
 
-Amaunator is the god of the sun and of law, known as the Keeper of the Eternal Sun and the Light of Law. Farmers and travelers pray to him for sun or rain, and people across the Sword Coast swear oaths and sign contracts beneath his light. His priests witness agreements and stamp them with a golden sun, and his temples keep the law of their communities on public record. He is an old god, a power of fallen Netheril who is said to have died and been reborn many times. His followers and Lathander's argue over whether the Morninglord is another face of him, and Waterdeep has no temple of his own.
+Amaunator is the god of the sun and of law, known as the Keeper of the Eternal Sun and the Light of Law. Farmers and travelers pray to him for sun or rain, and people across the Sword Coast swear oaths and sign contracts beneath his light. His priests witness agreements and stamp them with a golden sun, and his temples keep the law of their communities on public record. He is an old god, a power of fallen Netheril who is said to have died and been reborn many times. His followers and Lathander's argue over whether the Morninglord is another face of him. The two are separate gods, and Waterdeep has no temple of his own.
 
 **Tone:** Stern and orderly. Amaunator is a god of promises, so describe what he asks of a person who gives their word before describing what he does to one who breaks it. Keep him in the present tense and at a distance, and let the Lathander question stay a quarrel between two faiths, spoken of as a belief and never as a fact about the gods.
 
