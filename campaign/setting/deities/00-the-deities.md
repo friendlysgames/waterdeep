@@ -424,7 +424,7 @@ This journal gathers the powers that a character in Waterdeep might follow or ba
 
 ## Cross-References
 
-- **Waterdeep: Lore** (Setting): the wards and the Sea Ward temples.
+- **Waterdeep** (Setting): the city and its wards, with **Sea Ward** for the Sea Ward temples.
 - **The History** and **Timekeeping and the Festival Calendar** (Setting): the Godswar and the festival calendar, including Gods' Day.
 - **Castle Ward** (Gazetteer): the Castle Ward temples.
 - **The Order of the Gauntlet**, **Force Grey**, **The Zhentarim (Doom Raiders)** and **Bregan D'aerthe** (Organizations): the factions whose missions use the powers named in GM Notes.

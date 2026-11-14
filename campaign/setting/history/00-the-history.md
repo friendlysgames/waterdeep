@@ -54,7 +54,7 @@ Waterdeep is a trading city on the Sword Coast, and its government was founded b
 ## Cross-References
 
 - **Ahghairon's Gifts**, **The Long Shadow**, **Bregan D'aerthe's Long Road**, **The Founding of Chains**, **A Debt in Blood**, **The Open Lord's Fall**, **A City Watching Itself**, **The Players Arrive** and **Timekeeping and the Festival Calendar**: the pages this hub lists.
-- **Waterdeep: Lore**: the city overview that the Era pages draw on for governance, the dragonward and Undermountain.
+- **Waterdeep**: the city overview that the Era pages draw on for governance, the dragonward and Undermountain.
 - **The Grand Game**: the in-world frame for the factions that the later eras explain.
 - **Xanathar**, **Manshoon**, **Jarlaxle Baenre** and **The Cassalanters** (Villains): the four villain pages that the Era pages for each faction feed.
 - **Finding Floon**: the first quest, which begins where the last Era page ends.
