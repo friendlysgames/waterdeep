@@ -146,3 +146,14 @@ Retarget: `campaign/structure/arc-i-kolat-towers.md:9,316,324,325`, `campaign/gu
 - Xanathar and the vault: the published account (`adventure-wdh.json:32760`) conflicts with `villains/xanathar.md:62`; `xanathar.md:110` may misquote `arc-j:19`.
 - The published uncooperative Stone and its amnesia (`adventure-wdh.json:6281`) are not used; whether the amnesia applies to the party is [research].
 - Illuun, Sylgar, Hlam, Alethea Brandath, the Candle Lane warehouse and the Protector's Enclave have no pages (plain text).
+
+## From the Undermountain and Skullport drafter
+- Skullport depth wording: the Mad Mage says Skullport is "connected to level 3" (`adventure-wdmm.json:62160`). Other pages differ: `villains/xanathar.md:26` ("within" Level 3), `deities/eilistraee.md:67` and `deities/cyric.md:68` ("three levels below the Yawning Portal"), `SOURCE_GUIDE.md:76` ("between Level 3 and Level 4"), `waterdeep-lore.md:21` ("three levels down").
+- Dungeon depth: Dragon Heist says twenty levels (`adventure-wdh.json:31137`); the Mad Mage has twenty-three headers. The page says to tell players twenty (derived).
+- The knot in the Weave (`adventure-wdmm.json:302`, Durnan "fell prey to this obsession") is in no campaign file; `notable-figures/independents-allies/03-durnan.md` is silent.
+- `city-watch.md:46` carries a wiki-only 4e claim that the Guard patrols the sewers and Undermountain, and `city-watch.md:116` lists this page for it; both sit beside "outside city jurisdiction" (a tagged campaign statement, in no adventure text). Settle who enforces law below the Portal.
+- Autumnreaver area numbers (`r10-autumnreaver/design-notes.md:13`: Slanted Room area 3, Empty Room area 22) are unchecked against the JSON; only the Grell Hideout (area 5) was.
+- `arc-f-xanathars-lair.md:111` has an "if the GM wants to preserve the thread" placeholder for Nihiloor's Level 17 escape.
+- The Fiery Flagon tunnel to Skullport (wiki, 3e) is left out of the Sea Ward and Undermountain pages; add as a [research: wiki only] GM Note if wanted (`batch-wards-a.md:65`).
+- Not read by the drafter: Mad Mage Level 17 text, the Level 18 Cassalanter thread (`SOURCE_GUIDE.md:109`), Alexandrian PDFs 11 and 1.
+- Halaster Blackcloak has no Notable Figures page (already on the handoff's missing-pages list).
