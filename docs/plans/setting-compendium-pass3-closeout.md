@@ -23,3 +23,15 @@ Running list of other files that Pass 3 drafters found wrong. Nothing here is ed
 
 ## Kolat Towers ward (ruling 1: Southern Ward)
 Retarget: `campaign/structure/arc-i-kolat-towers.md:9,316,324,325`, `campaign/guides/factions/10-manshoons-zhentarim.md:73`, `campaign/guides/trollskull-manor/08-notable-patrons.md:57`, History 04 and 08 Draft Notes, `sources/SOURCE_GUIDE.md:214` (Yellowspire is Castle Ward).
+
+## From the Sea Ward drafter
+- Ruling 1 (Tower of Luck is Castle Ward in the temples table, `adventure-wdh.json:30982-30986`): `campaign/setting/deities/tymora.md:64-66` ("campaign files win over the table"); `campaign/setting/deities/00-the-deities.md:320` (Sea Ward) and `:311` (Helm's temple in the Castle Ward; ruling says Southern Ward); `castle-ward.md:165,271` (Tower of Luck "not a Castle Ward temple").
+- Ruling 4 (Barnibus is a Watchful Order investigator, not a magistrate): `castle-ward.md:175`; `campaign/setting/notable-figures/city-officials/02-barnibus-blastwind.md:6,22,26`; `campaign/quests/faction-events/lords-alliance/m04-the-archer-above/ev-01-the-archer-above.md:396`.
+- Mirt's manor: Dragon Heist is itself split (`adventure-wdh.json:3842` Sea Ward against `:31013` Castle Ward).
+- Lightsinger Theater: `adventure-wdh.json:3831` against `:3842`.
+- Cassalanter Villa size: `adventure-wdh.json:18560` (three stories) against `campaign/locations/cassalanter-villa/area-overview.md:7` (four stories).
+- Jelenn Urmbrusk's sex: `adventure-wdh.json:30295` ("he") against `:30374` (female).
+- Event labels: `campaign/locations/cassalanter-villa/area-overview.md:11` says "ev-06" (the file is `ev-05-the-cassalanter-dinner.md`); `campaign/locations/house-of-inspired-hands/area-overview.md:10` says "ev-03" (the file is `ev-02`).
+- Eye #2: `campaign/setting/organizations/10-cassalanters.md:73` (Brandath Crypts) against `campaign/structure/arc-g-cassalanter-villa.md:59` (the villa's hidden temple).
+- `campaign/quests/faction-events/harpers/r03-harpshadow/design-notes.md:17` records "the street behind the Naval Harbor" as invented.
+- Pronouns for the Sea Ward characters come from Notable Figures page prose and event cards, not from the Summary lines; confirm.
