@@ -172,7 +172,7 @@ The Trades Ward is the city's shop floor, a ward of guildhalls, stalls and balco
 
 ### Politics
 - The district magistracy hears appeals, and its four clerks decide which appeals reach which magistrate. See **The Code Legal and the Magisters**.
-- Guild membership rules, guild dues and the factions' operatives inside guild leadership are on **The Guilds**. The wiki lists a dozen guildhalls in the ward, among them the Citadel of the Arrow, the House of Song, the House of Textiles, Stationers' Hall and the Zoarstar.
+- Guild membership rules, guild dues and the factions' operatives inside guild leadership are on **The Guilds**. The wiki counts thirteen guildhalls in the ward (City of Splendors boxed set, 2e), among them the Citadel of the Arrow, the House of Song, the House of Textiles, Stationers' Hall and the Zoarstar.
 - Which guilds hold the most weight on the ward's streets is [research].
 
 ### Economy

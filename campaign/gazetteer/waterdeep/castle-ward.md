@@ -106,7 +106,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 > **[GM]**
 >
 > #### GM Notes
-> - Durnan is a secret Masked Lord of Waterdeep and the secret founder of the Red Sashes. Its fighters pose as regulars at the Portal and are magically sworn to his service.
+> - Durnan is a secret Masked Lord of Waterdeep and the secret founder of the Red Sashes (campaign-only). Its fighters pose as regulars at the Portal and are magically sworn to his service.
 > - Neither fact can be found in normal play, and Durnan confirms neither under pressure. The party only notices that he often knows of a threat to the city before the Watch does.
 
 **Mirt (Chaotic Good, Illuskan Human, he/him)**
@@ -120,7 +120,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 > #### GM Notes
 > - Mirt is a Masked Lord and a senior Harper. He is the least careful of the Masked Lords about hiding it.
 
-**Laeral Silverhand (Chaotic Good, Moon Elf, she/her)**
+**Laeral Silverhand (Chaotic Good, Moon Elf, she/her)** (the moon elf reading is campaign-only)
 - The Open Lord of Waterdeep, fifth of the Seven Sisters and widow of Khelben Arunsun. She took the post when the Masked Lords asked, after Dagult Neverember was ousted.
 - She slips out of the Palace in disguise to clear her head and visit old friends.
 
@@ -140,7 +140,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 
 **Saeth Cromley (Lawful Good, Illuskan Human, he/him)**
 - Retired City Watch sergeant. He sits in the Halls of Justice sergeants' room in the afternoons, and a visitor who buys him a drink finds him easy to talk to.
-- He helps Barnibus Blastwind with unusual crimes by translating between the magistrate and the common folk.
+- He helps Barnibus Blastwind with unusual crimes by translating between the investigator and the common folk.
 
 **Savra Belabranta (Lawful Good, Human, she/her)**
 - Head of the Order of the Gauntlet's Waterdeep chapter, from a clerk's office in the Halls of Justice, with about a dozen Knights and Priests under her. She comes from the noble Belabranta family, who breed griffons for the Cavalry.

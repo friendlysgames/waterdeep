@@ -88,7 +88,7 @@ Waterdeep has six official wards, and a visitor changes ward by crossing a stree
 ### The Dragonward and the Walking Statues
 
 - **The dragonward:** Dragons and other creatures of the dragon type are physically unable to enter Waterdeep or its sewers unless the dragonstaff of Ahghairon has touched them. The Open Lord's permission plays no part.
-- **The statues:** Eight walking statues stand about the city, six of them in the Castle Ward. The Honorable Knight stands in the Trades Ward by the wiki's reading, and the Swordmaiden lies in pieces across the North Ward and cannot be animated. Only the original statue is 90 feet tall, and only the Griffon has moved since the Spellplague, in 1479 DR. See **The Dragonward and Walking Statues**.
+- **The statues:** Eight walking statues stand about the city, six of them in the Castle Ward. The Honorable Knight stands in the Trades Ward by the wiki's reading, and the Swordmaiden lies in pieces across the North Ward and cannot be animated. Only the original statue is 90 feet tall, and only the Griffon has moved since the 1385 DR rampage, when it woke in 1479 DR. See **The Dragonward and Walking Statues**.
 
 ### The Campaign's Main Sites by Quest
 

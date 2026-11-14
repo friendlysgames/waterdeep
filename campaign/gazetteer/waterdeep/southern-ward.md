@@ -7,7 +7,7 @@
 > #### Gamemaster's Summary
 > - The Southern Ward is Waterdeep's caravan ward, a district of stables, inn yards and guildhalls on the city's southeast side. It holds Phaulkonmere, the Emerald Enclave's estate, and Kolat Towers, Manshoon's fortress, which stand one block apart.
 > - **Trollskull Alley** sends Emerald Enclave candidates to Phaulkonmere on a cat's invitation. **Gralhund Villa** has an aftermath branch in which Istrid Horn leaves a note naming a Zhentarim courier cache in the "South Ward", which this page reads as the Southern Ward.
-> - **Faction Outposts** (a structure doc, not yet a quest journal) sends the party to the Converted Windmill on Coachlamp Lane (Cassalanters) and to Orb Confectioners on Rising Ride (Xanathar's Guild). It also has Jeryth report a wound in the ley lines near Coachlamp Lane. The papers at Orb Confectioners lead toward **Xanathar's Lair**, and the windmill's papers point to the Asmodean Shrine on Aveen Street and the Brandath Crypt. **Kolat Towers** is the quest set at the towers.
+> - **Faction Outposts** (a structure doc, not yet a quest journal) sends the party to the Converted Windmill on Coachlamp Lane (Cassalanters) and to Orb Confectioners on Rising Ride (Xanathar's Guild). It also has Jeryth report a wound in the ley lines near Coachlamp Lane. The papers at Orb Confectioners lead toward **Xanathar's Lair**, and the windmill's papers point to the Asmodean Shrine on Aveen Street and the Brandath Crypts. **Kolat Towers** is the quest set at the towers.
 > - Faction events set here: Emerald Enclave (**Emerald Enclave First Meeting**, **The Undercliff Scarecrows**, **Ten Nights in the City of the Dead**, **The Doppelganger Problem**, **The Grells in the Dock Ward**, **The Water Table Stirs**, **Summerstrider**, **Autumnreaver**, **Winterstalker** and **Master of the Wild**, nearly all at Phaulkonmere), Doom Raiders (**The Missing Snobeedle** among the ward's halflings, **Viper** at the Dusty Ladle, **Dread Lord** at a boarding house), Bregan D'aerthe (**The Wazoo Affair** and **The Theater's Back Room**, both about the windmill) and Lords' Alliance (**Stingblade** and **Fentree's Ledger** at Caravan Court counting houses, and the design notes for **Redknife**, which place Kolat Towers here).
 > - Location journals: none applies. No mapped site sits in this ward. The windmill, Orb Confectioners and Kolat Towers have structure docs and faction guides only, and **Xanathar Sewer Hideout** names no Southern Ward entrance.
 
@@ -35,7 +35,7 @@ The Southern Ward is the caravan district of Waterdeep, a ward of stables, inn y
 > **[GM]**
 >
 > #### Secret
-> - The Converted Windmill on Coachlamp Lane is an Asmodean shrine and a fallback site for the Cassalanters' cult. Seffia Naelryke and Arn Xalrondar keep it, the family pays the rent on the upper floor under a false name, and a ritual room holds a map with the Brandath Crypt circled. It is a separate site from the Asmodean Shrine on Aveen Street and from the temple beneath **Cassalanter Villa**.
+> - The Converted Windmill on Coachlamp Lane is an Asmodean shrine and a fallback site for the Cassalanters' cult. Seffia Naelryke and Arn Xalrondar keep it, the family pays the rent on the upper floor under a false name, and a ritual room holds a map with the Brandath Crypts circled. It is a separate site from the Asmodean Shrine on Aveen Street and from the temple beneath **Cassalanter Villa**.
 > - Nobody outside the household and the cult knows the family worships Asmodeus. The one exception is Jarlaxle, whose spy **Vessa** moves in the family's social circle and who tells Bregan D'aerthe members nothing unless they work it out. The footmen's rumor in **The Wazoo Affair** names the windmill only as a place where lanterns burn on moonless nights, and the Enclave has felt a wound in the ley lines near Coachlamp Lane without finding a cause.
 
 ## Landmarks
@@ -71,7 +71,7 @@ The Southern Ward is the caravan district of Waterdeep, a ward of stables, inn y
 >
 > #### GM Notes
 > - Ammalia Cassalanter visits twice a month, alone, in a hired cab with the curtains drawn. The family pays the upper floor's rent in the name of Marra Selby.
-> - A note under the bed in the secure apartment (Area W7) reads "Meeting Ches 17th, the shrine on Aveen Street". The ritual room (Area W8) holds a blood-painted pentagram and a desk with a map of Waterdeep, and a charcoal circle on the map marks the Brandath Crypt. The roster is Seffia, Arn and one invisible Imp on watch.
+> - A note under the bed in the secure apartment (Area W7) reads "Meeting Ches 17th, the shrine on Aveen Street". The ritual room (Area W8) holds a blood-painted pentagram and a desk with a map of Waterdeep, and a charcoal circle on the map marks the Brandath Crypts. The roster is Seffia, Arn and one invisible Imp on watch.
 
 **Orb Confectioners** — Sweets shop and Xanathar's Guild outpost, Rising Ride
 - A sweets shop that sells eye-shaped treats: smallcakes, sweetmeats, sugar plates and candied nuts. The Rising Ride is one of the streets that meet Caravan Court (wiki).
@@ -134,7 +134,7 @@ The Southern Ward is the caravan district of Waterdeep, a ward of stables, inn y
 > **[GM]**
 >
 > #### GM Notes
-> - Victoro Cassalanter gave her two missions, to retrieve an Eye of the Stone of Golorr from the Brandath Crypt and to silence three cult members who knew too much. She and Arn killed two, and Vaelle Lurval survived. Victoro does not know, and Seffia means to repair the failure without telling him.
+> - Victoro Cassalanter gave her two missions, to retrieve an Eye of the Stone of Golorr from the Brandath Crypts and to silence three cult members who knew too much. She and Arn killed two, and Vaelle Lurval survived. Victoro does not know, and Seffia means to repair the failure without telling him.
 
 **Arn Xalrondar (Lawful Evil, Human, he/him)**
 - A cult fanatic who shares the windmill with Seffia, defers to her on all planning and does not draw attention to himself. She speaks to him in half-sentences that he completes.
@@ -229,7 +229,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 - **Dock Ward**: the western and southern neighbor, across the Way of the Dragon.
 - **Castle Ward**: Yellowspire, Terasse Estate and the water table that Jeryth watches.
 - **North Ward**: the Interrogation House, which the towers' circles reach, and Samara's misdirection.
-- **Field Ward**: the other ward the Waymoot may belong to.
+- **Dock Ward**: the ward the Doom Raiders design note puts the Waymoot in. Dragon Heist names no ward for it, and the **Field Ward** page says it is not a Field Ward site.
 - **Sea Ward**: the Tower of the Moon and Tymora's Tower of Luck.
 - **The Guilds**: the ward's six guildhalls.
 - **The City Watch**: the Watch's presence in the ward.
