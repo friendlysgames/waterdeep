@@ -189,7 +189,7 @@ If a candidate asks for time, read or paraphrase the following:
 
 > [!gamemaster]**Chevall Benefits**
 >
-> Each member who swears gains the following, and nothing goes to a decliner or a companion. The benefits belong to the member and are tracked for each member separately. The three temples are the Halls of Justice, which is the temple of Tyr, the Temple of Helm in the Castle Ward, and the Chapel of the Steadfast Shield, a Torm chapel in the Dock Ward. The door-warden at the Halls of Justice is Brother Haldric Wence, a lay brother who holds messages "for Savra Belabranta" and keeps the member's name on a list.
+> Each member who swears gains the following, and nothing goes to a decliner or a companion. The benefits belong to the member and are tracked for each member separately. The three temples are the Halls of Justice, which is the temple of Tyr, the Temple of Helm in the Southern Ward, and the Chapel of the Steadfast Shield, a Torm chapel in the Dock Ward. The door-warden at the Halls of Justice is Brother Haldric Wence, a lay brother who holds messages "for Savra Belabranta" and keeps the member's name on a list.
 >
 > - **Renown 1:** the member starts as a Chevall, and Savra greets the member by name from then on.
 > - **Healing and a bed:** see **The Temple Healing** below.

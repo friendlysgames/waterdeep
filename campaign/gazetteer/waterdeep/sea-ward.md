@@ -167,7 +167,7 @@ The Sea Ward is Waterdeep's wealthiest ward, a district of walled villas, grand 
 
 ### Politics
 - The ward's power sits in its noble houses and their Masked Lords. Dragon Heist places walled estates for the Thann and Urmbrusk families here, and both Corylus Thann and Jelenn Urmbrusk are Masked Lords whom Manshoon's Zhentarim squeeze.
-- Mirt, a Masked Lord and senior Harper, receives Harper members at a manor in the Sea Ward in the campaign's Harper events. Dragon Heist also sends visitors to his manor in the Sea Ward, where he is home one time in ten. The Castle Ward page keeps his mansion near the Naval Harbor in that ward.
+- Mirt, a Masked Lord and senior Harper, receives Harper members at a manor in the Sea Ward in the campaign's Harper events. Dragon Heist is itself split on his mansion: one line sends visitors to a manor in the Sea Ward, where he is home one time in ten (`adventure-wdh.json:3842`), and the ward chapter puts it near the Naval Harbor in the Castle Ward (`:31013`). By ruling 5 the mansion belongs to the **Castle Ward** page, and the Sea Ward holds only the Harper events' dinner house.
 - Dagult Neverember, the former Open Lord now Lord of Neverwinter, still has agents watching his son's house.
 - Who speaks for the ward as a whole is [research].
 
@@ -236,7 +236,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 - **The Order of the Gauntlet**: Savra Belabranta's suspicion of the family.
 - **The Open Lord and the Masked Lords**: the Masked Lords with Sea Ward estates.
 - **The City Watch**: the watch boxes and the veterans' response.
-- **The Dragonward and Walking Statues**: the statue at Gull Leap on the western end of Julthoon Street.
+- **The Dragonward and Walking Statues**: the Sahuagin Humbled, which Dragon Heist places at two sites, one of them Gull Leap. That page gives both.
 - **The Deities**: the Major Temples table. **Gond**, **Mielikki**, **Silvanus**, **Mystra**, **Selûne**, **Sune**, **Tempus**, **Tymora**, **Siamorphe** and **Asmodeus**: the gods of the ward's temples and the Cassalanters' patron.
 - **Timekeeping and the Festival Calendar**: Plowing and Running, Guildsmeet and Founders' Day.
 

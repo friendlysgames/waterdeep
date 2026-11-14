@@ -28,7 +28,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 - **Influences:** The city flag's blue and purple, a gold griffon mascot for the Griffon Cavalry, and champions drawn from the Guard, the Navy and the Cavalry.
 - **Primary Peoples:** No ward figure exists. The city figures are humans 64%, dwarves 10%, elves 10% (mostly moon elves), halflings 5%, half-elves 5%, gnomes 3%, half-orcs 2% and others 1% (wiki, *City of Splendors* 2e).
 - **Languages:** The wiki leaves this blank. [research]
-- **Religion:** Temple of the Seldarine (all elven gods), Spires of the Morning (Lathander), Font of Knowledge (Oghma), Halls of Justice (Tyr). The wiki also lists the House of Two Hands, which no campaign page uses. Tymora's Tower of Luck is listed here by one Waterdeep Dragon Heist table and placed in the Sea Ward elsewhere, and the wiki's Castle Ward list names neither it nor a Temple of Helm. The wiki's city-wide faiths are Deneir, Mystra, Oghma and Tempus. See the temples bullets under Culture in Life in the Ward. No dominant faith is sourced for the ward. [research]
+- **Religion:** Temple of the Seldarine (all elven gods), Spires of the Morning (Lathander), Font of Knowledge (Oghma), Halls of Justice (Tyr). The wiki also lists the House of Two Hands, which no campaign page uses. Tymora's Tower of Luck is a Castle Ward temple by the Dragon Heist Major Temples table, though the book's Sea Ward text also describes it among that ward's temples, and the wiki's Castle Ward list names neither it nor a Temple of Helm. The wiki's city-wide faiths are Deneir, Mystra, Oghma and Tempus. See the temples bullets under Culture in Life in the Ward. No dominant faith is sourced for the ward. [research]
 - **Governance:** The Open Lord rules from the Palace, and the Masked Lords hear petitioners in its audience chamber. Magisters sit in the ward's courts. The City Guard garrisons the barracks, and a pair of Watch operatives patrols.
 - **Architecture:** Castle Waterdeep on its bluff, with towers hundreds of feet high. A Palace smaller than the castle and far more comfortable. Blackstaff Tower, a squat black blot. Stone and slate in the Yawning Portal, pale yellow brick in Yellowspire, and a marble-pillared hall (the Cynosure) at the edge of the Market.
 - **Economy:** The Market, solicitors, publishers and business offices, courts, and the Palace coin exchange. Guild law applies as everywhere in the city.
@@ -106,7 +106,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 > **[GM]**
 >
 > #### GM Notes
-> - Durnan is a secret Masked Lord of Waterdeep and the secret founder of the Red Sashes. Its fighters pose as regulars at the Portal and are magically sworn to his service.
+> - Durnan is a secret Masked Lord of Waterdeep and the secret founder of the Red Sashes (campaign-only). Its fighters pose as regulars at the Portal and are magically sworn to his service.
 > - Neither fact can be found in normal play, and Durnan confirms neither under pressure. The party only notices that he often knows of a threat to the city before the Watch does.
 
 **Mirt (Chaotic Good, Illuskan Human, he/him)**
@@ -120,7 +120,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 > #### GM Notes
 > - Mirt is a Masked Lord and a senior Harper. He is the least careful of the Masked Lords about hiding it.
 
-**Laeral Silverhand (Chaotic Good, Moon Elf, she/her)**
+**Laeral Silverhand (Chaotic Good, Moon Elf, she/her)** (the moon elf reading is campaign-only)
 - The Open Lord of Waterdeep, fifth of the Seven Sisters and widow of Khelben Arunsun. She took the post when the Masked Lords asked, after Dagult Neverember was ousted.
 - She slips out of the Palace in disguise to clear her head and visit old friends.
 
@@ -140,7 +140,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 
 **Saeth Cromley (Lawful Good, Illuskan Human, he/him)**
 - Retired City Watch sergeant. He sits in the Halls of Justice sergeants' room in the afternoons, and a visitor who buys him a drink finds him easy to talk to.
-- He helps Barnibus Blastwind with unusual crimes by translating between the magistrate and the common folk.
+- He helps Barnibus Blastwind with unusual crimes by translating between the investigator and the common folk.
 
 **Savra Belabranta (Lawful Good, Human, she/her)**
 - Head of the Order of the Gauntlet's Waterdeep chapter, from a clerk's office in the Halls of Justice, with about a dozen Knights and Priests under her. She comes from the noble Belabranta family, who breed griffons for the Cavalry.
@@ -161,7 +161,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 - Asmagh's Alley is the ward's folk tradition, and children hop across it on one foot to a rhyme. Asmagh, an apothecary, poisoned patients and buried up to eighty of them upright beneath its wide flagstones, over a century ago. The rhyme is about hopping on their heads. Dragon Heist points readers to Warrior's Way and the Street of Silver for the same sound, but no source places them in a ward. [research]
 - Oghma's priests at the Font of Knowledge teach reading free. The Dungsweepers' Guild keeps the streets clean at every hour, and the Market's public privies serve the crowds.
 - The Yawning Portal is the ward's social center for adventurers. Almost every faction First Meeting runs through its taproom.
-- Temples of the ward: the Temple of the Seldarine for all elven gods, the Spires of the Morning for Lathander, one of the city's most beautiful temples, the Font of Knowledge for Oghma, with the library, and the Halls of Justice for Tyr (see Landmarks).
+- Temples of the ward: the Temple of the Seldarine for all elven gods, the Spires of the Morning for Lathander, one of the city's most beautiful temples, the Font of Knowledge for Oghma, with the library, the Tower of Luck for Tymora (by the Dragon Heist table, see the next bullet), and the Halls of Justice for Tyr (see Landmarks).
 - Tymora's Tower of Luck is a Castle Ward temple by the Dragon Heist Major Temples table, which this page follows. Dragon Heist's Sea Ward text also describes it among that ward's temples, and the campaign's own Waterdeep outline placed it in the Sea Ward, so the book splits on it. The **Sea Ward** page carries the description and the split. Selûne's Tower of the Moon is Sea Ward in the table and the Sea Ward text. Helm's Hall, the Temple of Helm, is a Southern Ward temple by the table, and the wiki's Castle Ward temple list does not name it, so it is not a Castle Ward temple here.
 - The Temple of the Seldarine and the Spires carry no campaign hook yet. [research]
 
@@ -189,7 +189,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 ### Lore
 - Ahghairon seated himself on the flaming warlord's throne and set up the Open Lord and the hidden Masked Lords. The throne is still in the Palace.
 - The dragonward begins beneath Ahghairon's Tower. Dragons are physically unable to enter the city unless touched by the dragonstaff of Ahghairon. The Open Lord's permission plays no part.
-- Six walking statues stand in the ward (Dragon Heist, confirmed by the wiki): the God Catcher just north of the Market, the Great Drunkard just south of it, the Griffon on Mount Waterdeep near the Peaktop Aerie, the Hawk Man, and the Lady Dreaming and the Sahuagin Humbled on the northern slope of the mountain. The Honorable Knight belongs to the Trades Ward. Only the original statue, now the Sahuagin Humbled, is 90 feet tall. The Honorable Knight is nine stories tall, and the other statues have no published height. Only the Griffon has moved since the 1385 DR rampage (it woke in 1479 DR). See **The Dragonward and Walking Statues**.
+- Six walking statues stand in the ward (Dragon Heist, confirmed by the wiki): the God Catcher just north of the Market, the Great Drunkard just south of it, the Griffon on Mount Waterdeep near the Peaktop Aerie, the Hawk Man, and the Lady Dreaming on the northern slope of the mountain, and the Sahuagin Humbled, which Dragon Heist places at two sites: the foot of Mount Waterdeep near the head of Julthoon Street, and Gull Leap, a bluff at the mountain's northern foot. The Honorable Knight belongs to the Trades Ward. Only the original statue, now the Sahuagin Humbled, is 90 feet tall. The Honorable Knight is nine stories tall, and the other statues have no published height. Only the Griffon has moved since the 1385 DR rampage (it woke in 1479 DR). See **The Dragonward and Walking Statues**.
 - The wiki dates the ward's founding to 1035 DR, when Ahghairon established it with the Trades, Southern and Dock Wards.
 - Halaster Blackcloak built his tower at the foot of Mount Waterdeep before the city existed. The Well into Undermountain was once where Waterdeep threw its criminals, and Durnan built the Yawning Portal over it.
 - Gods' Day (Marpenoth 15) ends with a Griffon Cavalry bonfire on Mount Waterdeep, in memory of Myrkul's fires that burned through the Southern, Dock and Castle Wards.
@@ -237,7 +237,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 
 ## Cross-References
 - **Waterdeep**: city overview and the other wards.
-- **Sea Ward**: the Tower of Luck, Mirt's dinner house and Barnibus Blastwind's estate may belong there.
+- **Sea Ward**: the Tower of Luck's description and the split in Dragon Heist's text, Mirt's Harper dinner house and Barnibus Blastwind's estate.
 - **The Open Lord and the Masked Lords**: governance of the ward.
 - **Durnan**, **Mirt**, **Laeral Silverhand**, **Vajra Safahr**, **Saeth Cromley**, **Savra Belabranta**: the characters of interest.
 - **Barnibus Blastwind**: the Watchful Order investigator who works with Saeth Cromley (see Defense under Life in the Ward).
@@ -273,7 +273,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 > - **Conflicts:** City Watch headquarters and the Masked Lords' seat. `waterdeep-lore.md` (line 14) puts both in the ward; Dragon Heist Ch.9 names neither. The wiki settles the Watch: its main base is the Palace of Waterdeep, in the Castle Ward. The Masked Lords' seat is still unsourced.
 > - **Conflicts:** Dragonward. `waterdeep-lore.md` (line 50) said it bars dragons without the Open Lord's permission; Dragon Heist says dragons are physically unable to enter unless touched by the dragonstaff of Ahghairon. Ruling 2 of the Pass 3 brief follows Dragon Heist, and the page does too.
 > - **Conflicts:** Walking-statue size. `waterdeep-lore.md` (line 51) called all eight 90 feet tall and dormant; Dragon Heist gives 90 feet only for the original statue and nine stories for the Honorable Knight (`adventure-wdh.json:30693`). Ruling 3 of the Pass 3 brief follows Dragon Heist, and the page does too.
-> - **Conflicts:** Barnibus Blastwind. His Notable Figure page calls him a magistrate of the Watchful Order; `waterdeep-lore.md` (lines 27-28) and `grand-game.md` (line 26) differ from Dragon Heist, which describes a Watchful Order investigator with a Sea Ward estate.
+> - **Settled:** Barnibus Blastwind (ruling 4). His Notable Figure page now calls him a Watchful Order investigator with a Sea Ward estate (`02-barnibus-blastwind.md:6,22,26`), as Dragon Heist does, and tags "Magistrate" as a campaign-only title in the Lords' Alliance events (`r10-stingblade/ev-01-stingblade.md:122`, `m04-the-archer-above/ev-01-the-archer-above.md:396`). Still open: `grand-game.md` (line 26) calls him "personally compromised", which no source supports.
 > - **Conflicts:** Yellowspire's ward. `SOURCE_GUIDE.md` (line 214) places it in the Trades Ward; Dragon Heist and the campaign place it in the Castle Ward, as this page does.
 > - **Conflicts:** Rulings kept as the user decided. Laeral as a moon elf, chaotic good, and Khelben's widow is a settled divergence: the wiki lists her as human. Durnan as a Masked Lord is campaign-only against Dragon Heist, which names only Mirt among the Castle Ward residents (ruling 8). The wiki (*Waterdeep and the North*, *City of Splendors*, 2e and 3e) does call him a Lord of Waterdeep and the secret leader of the Red Sashes. The page says Durnan is the Red Sashes' secret founder, where the wiki says secret leader.
 > - **Routed facts:** Ahghairon's Tower (demoted landmark) moved into the Palace of Waterdeep entry.
