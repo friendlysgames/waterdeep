@@ -157,3 +157,15 @@ Retarget: `campaign/structure/arc-i-kolat-towers.md:9,316,324,325`, `campaign/gu
 - The Fiery Flagon tunnel to Skullport (wiki, 3e) is left out of the Sea Ward and Undermountain pages; add as a [research: wiki only] GM Note if wanted (`batch-wards-a.md:65`).
 - Not read by the drafter: Mad Mage Level 17 text, the Level 18 Cassalanter thread (`SOURCE_GUIDE.md:109`), Alexandrian PDFs 11 and 1.
 - Halaster Blackcloak has no Notable Figures page (already on the handoff's missing-pages list).
+
+## From the Vault of Dragons drafter
+- Neverember's removal: 1489 DR, about three years before Ches 1, 1492 DR (Alexandrian PDF 13 p.98, `history/06:63`, `history/05:17`, `adventure-wdh.json:32204`). `arc-e-faction-outposts.md:33` says "eleven years ago", and its Eye distribution (a drow arms dealer, "infernal patrons") and "commanded only by Neverember's spoken word" disagree with `history/06:88-90` and `arc-j:113`.
+- `running-the-villains.md:40` says the Cassalanters know the vault is beneath the Brandath Crypts; `arc-j:13`, `history/05:62` and Alexandrian PDF 19 p.131 say they never realized. The page follows the three.
+- `running-the-villains.md:32` (the vault opens only with the full Stone, three Eyes and a command phrase; Aurinax "under a geas") against the campaign's scale, sunlight and mithral hammer ceremony with an oath and bargain.
+- `arc-j:75` credits the Converted Windmill map to the "Manshoon outpost"; `arc-g:430` and `bregan-daerthe` m05 design notes (`:38`) make the windmill Cassalanter.
+- `arc-j:17` says "exile" and "Lord Regent"; the page says "voted him out".
+- Crypts/Mausoleum blurs: also `arc-j:19,95` and `southern-ward.md:10`, `17-sir-ambrose-everdawn.md:11`.
+- Cassalanter link to Neverember's embezzlement: `history/05:145` says it is "not only a campaign invention", but the quoted Alexandrian backstory is from a docx nobody could open; `history/05:145` and `history/06:46` need a ruling. The page calls it campaign-only.
+- Prices: mirrors 5 gp each (published), 20 gp each (Alexandrian) or 400 gp total (campaign); dragon scale about 900 gp (campaign) against 1d6 x 300 gp (Alexandrian). The page uses the campaign figures.
+- The 2024 *daylight* spell as sunlight (`arc-j:118`) and the wiki's claim that the public knew of the embezzlement by 1492 DR (`wiki.txt:69`, cited to Dragon Heist pp.6-7, not found in the JSON) are unverified.
+- Laeral's "taxes, decree, lock no Masked Lord could open" account (`lioncrown/ev-01:257`, `history/07:52`) is the only campaign statement of how the gold was held.

@@ -9,7 +9,7 @@
 > - **Where it is used:** The GM reads it before the party reaches the City of the Dead, before voicing Aurinax, Laeral Silverhand or Neverember on the gold, and whenever a player asks where the money came from or how the doors open.
 > - **Quests and events:** **Vault of Dragons** (still a structure doc) holds the approach in Scene 2, the opening in Scene 3, the vault and Aurinax in Scene 4, the faction confrontation in Scene 5 and the gold in Scene 6. **Fireball!** supplies the rumor in **The Fireball** and the vault-opening method in **Kalain's Tower**. **Faction Outposts**, **Cassalanter Villa** and **Kolat Towers** each hand the party a route to the Brandath Crypts. **An Audience with the Open Lord** issues the Writ that Aurinax accepts, **Lioncrown** gives Laeral's account of the gold, and **Ten Nights in the City of the Dead**, **The Theater's Back Room** and **Dread Lord** mark outcomes that the Vault reads.
 > - **Location journals:** None. The vault is keyed in the **Vault of Dragons** structure doc, and the **City of the Dead** page covers the grounds above it.
-> - **Spoiler limit:** Everything above the `## Overview` is for the GM. The Overview names no vault, no Stone, no Eye and no guardian.
+> - **Spoiler limit:** Everything above the `## Overview` is for the GM. The Overview does not name the vault, the Stone, the Eyes or the guardian.
 
 **Purpose:** Lets the GM say how much Neverember took, when he lost office, what the vault is, how its doors open and who guards it, and keeps the two Brandath names apart without inventing a date that no source gives.
 
@@ -28,7 +28,7 @@ This page covers the theft, the vault, its doors and its guardian. Every faction
 
 ### The Vault
 
-- **Where it lies:** Beneath the Brandath family mausoleum in the City of the Dead. Dragon Heist offers three other sites for the vault, depending on the villain: a theater called the Pink Flumph in the Castle Ward, and an old windmill and an old tower in the Sea Ward. The campaign uses the mausoleum only.
+- **Where it lies:** Beneath the Brandath family mausoleum in the City of the Dead. Dragon Heist offers three other sites for the vault, depending on the villain. They are a theater called the Pink Flumph in the Castle Ward, and an old windmill and an old tower in the Sea Ward. The campaign uses the mausoleum only.
 - **Who built it:** Dragon Heist says only that dwarves built it long ago. The campaign follows the Alexandrian and names the Melairkyn dwarves, whose cult of Dumathoin sealed offerings of bound secrets inside ceremonial vaults like this one. Its architect was Harlsnod Darkshine, who left a small "HN" cartouche in most of its rooms.
 - **How it was lost:** After dark elves broke the Melairkyn, the vault was looted and buried, and the ground above it later became the City of the Dead. The Brandaths built a mausoleum on the site, and an expansion a century later broke into the antechambers. The Brothers of the Maroon Pin, a secret fraternal order, used them for rituals until a scandal in the fourteenth century ended the order.
 - **How Neverember found it:** Dragon Heist says Neverember married into the old Brandath family for its wealth, and Lady Alethea Brandath bore his son Renaer. Alethea asked for a simple tomb among her ancestors. While arranging her burial, Neverember took over the oldest family mausoleum, moved the remains of Lord Anri to a new crypt nearby and buried Alethea in his place. The work uncovered the passage the Brandaths had forgotten and the sealed doors beyond it.
@@ -62,7 +62,7 @@ This page covers the theft, the vault, its doors and its guardian. Every faction
 
 ### The Guardian
 
-- **Who he is:** Aurinax is an adult gold dragon who lives in the vault as a stocky dwarf named Barok Clanghammer. Dragon Heist calls him male. He stays in humanoid form until a fight starts, because he cannot easily carry the dragonstaff of Ahghairon in dragon form. The staff and its hold on the dragonward are on **The Dragonward and Walking Statues**.
+- **Who he is:** Aurinax is an adult gold dragon who lives in the vault as a stocky dwarf named Barok Clanghammer. Dragon Heist calls him male, and he stays in humanoid form until a fight starts because he cannot easily carry the dragonstaff of Ahghairon in dragon form. The staff and its hold on the dragonward are on **The Dragonward and Walking Statues**.
 - **The bargain:** Neverember let Aurinax keep the dragonstaff in exchange for guarding the vault until Neverember or his appointed vassals came to remove the gold. Dragon Heist places the deal when Neverember became Open Lord, and the campaign places it after he found the vault. No vassal was ever named.
 - **What the oath covers:** Only Neverember and his appointed vassals may remove the gold under Aurinax's watch, and none of them is in Waterdeep. He attacks only to defend himself, the staff or the gold.
 - **His doubt:** Aurinax is unsure what an oath to a former Open Lord is worth now that the office is gone. He wants to keep his word, to keep the staff as his agreed payment and to see the gold legitimately transferred before he calls his duty discharged.
@@ -149,7 +149,7 @@ Dagult Neverember was Open Lord of Waterdeep for some twenty years, until the Ma
 - **A Debt in Blood**: the Cassalanters' ruin and the link to the embezzlement.
 - **A City Watching Itself**: Laeral's belief about the vault.
 - **The Open Lord and the Masked Lords**: the government that lost the gold.
-- **Dagult Neverember**, **Renaer Neverember**, **Laeral Silverhand**, **Aurinax**, **Hlam**, **Kalain**, **Jarlaxle Baenre**, **Sir Ambrose Everdawn** and **The Black Viper**: the people named here and on the approach.
+- **Dagult Neverember**, **Renaer Neverember**, **Laeral Silverhand**, **Aurinax**, **Hlam**, **Kalain**, **Jarlaxle Baenre** and **Sir Ambrose Everdawn**: the people named here and on the approach.
 - **Moradin** and **Bahamut**: the Hall of Moradin, and the god whose worshipers help persuade Aurinax.
 - **The Cassalanters**: the family whose ruin the campaign ties to the embezzlement.
 - **The Lords' Alliance**: Laeral's side of the recovery.
