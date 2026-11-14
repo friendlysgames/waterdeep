@@ -54,3 +54,12 @@ Retarget: `campaign/structure/arc-i-kolat-towers.md:9,316,324,325`, `campaign/gu
 - Tashlyn Yafeera's affiliation: `adventure-wdh.json:31954` ("Waterdeep Zhentarim") against her page (Doom Raiders).
 - Vira Solkan's page was not opened by the drafter; verify the tag if it is cited elsewhere.
 - Code Legal author and date remain [research]; the handout is an image.
+
+## From the Trades Ward drafter
+- More Kolat Towers retargets (Trades Ward to Southern Ward): `campaign/structure/arc-i-kolat-towers.md:62,233,269`; Doom Raiders `m05-the-yellowspire-job/ev-01:27,56,64,428`, `ev-02:143,225,229`, `overview:88`, `s02-davils-return/ev-01:29`; Emerald Enclave `r03-summerstrider/ev-01:190,227` and `design-notes:11`, `r25-winterstalker/ev-01:319`. The Lords' Alliance Redknife notes already say Southern Ward.
+- `sources/SOURCE_GUIDE.md:428` (Kalain's studio in the Trades Ward) is unresolved.
+- Gralhund Villa `ev-08:67-68` has the Stone delivered to Fenerus Stormcastle's house for Bregan D'aerthe; his page (`06-fenerus-stormcastle.md:22`) has him hiding the Stone before his arrest. How much he knows differs across the published text (`:7124`), his page (`:7`) and the Factions Guide (`08-bregan-daerthe.md:85`). The Trades Ward Secret reconciles them (derived).
+- Dripping Dagger street: wiki says High Road, the campaign says Snail Street (`ev-06-the-death-mark.md:20`).
+- Weirdbottle's discount: Dragon Heist (`:1453`) names the shop; the Doom Raiders Wolf-rank benefit (`07-doom-raiders.md:57`) does not.
+- Corvin Hallowell (Davil's Arrest) is not the Harper Corvin Nessa Vayle.
+- Fenerus Stormcastle's he/him is inferred from page prose.
