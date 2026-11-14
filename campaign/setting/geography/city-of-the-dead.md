@@ -15,7 +15,7 @@
 
 The City of the Dead is Waterdeep's cemetery, a walled park of grassy hills, flower beds and gravel paths where the city entombs its dead and honors them with sculpture. Dragon Heist calls it an open-air museum, and Waterdhavians treat it as the city's picnic ground until the gates close at dusk.
 
-The campaign uses it in two ways. By day it is a public place where contacts meet on a bench or beside a statue, and by night it is a graveyard that Sir Ambrose Everdawn patrols and the party enters over a wall. At its northern end it also holds the Brandath Mausoleum, which the **Vault of Dragons** quest reaches by an approach called the Brandath Crypts.
+The campaign uses it in two ways. By day it is a public place where contacts meet on a bench or beside a statue, and by night it is a graveyard that Sir Ambrose Everdawn patrols and the party enters over a wall. Its northern section, by the campaign's account, also holds the Brandath Mausoleum, which the **Vault of Dragons** quest reaches by an approach called the Brandath Crypts.
 
 ### Place and Walls
 
@@ -39,7 +39,7 @@ The campaign uses it in two ways. By day it is a public place where contacts mee
 - **Opening hours:** The grounds are open to the public from dawn until dusk. Gardeners rake the gravel between the mausoleums, and families lay flowers at the feet of marble statues.
 - **What people do:** Dragon Heist tells visitors to pack a midday feast, picnic and stroll. The wiki adds that Waterdhavians also run, duel, court, play and perform here (wiki, citing a Realmslore column).
 - **Ahghairon's Day:** On Eleasis 1 commoners leave violets on Ahghairon's Statue. The festival falls after the campaign window.
-- **Faction use:** Doom Raiders and Order of the Gauntlet contacts treat the main gate and the Poplar Walk as meeting places, because a public park at midday has too many witnesses for anyone to start trouble. The Emerald Enclave's informant network includes gardeners who work here, and **Sorrel Hartwick** has tended the margins of the grounds for twenty years.
+- **Faction use:** Doom Raiders contacts meet just inside the main gate, and Istrid Horn chose the open hour at the statue because a public park has too many witnesses for anyone to try anything. The Emerald Enclave's informant network includes gardeners who work here, and Sorrel Hartwick, a druid in the network, has tended the margins of the grounds for twenty years.
 
 ### By Night
 
@@ -87,7 +87,7 @@ The City of the Dead is Waterdeep's cemetery, a walled park of grassy hills, flo
 > **[GM]**
 >
 > #### Secret
-> - **What lies below:** The Vault of Dragons lies beneath the Brandath family mausoleum, and the Stone of Golorr names it when the party attunes to the Stone. Neverember hid his embezzled gold there and chose the family tomb because he thought no one would look in his dead wife's crypt. See **The Vault of Dragons and Neverember's Embezzlement**.
+> - **What lies below:** The Vault of Dragons lies beneath the Brandath family mausoleum, and the Stone of Golorr names it when the party attunes to the Stone. Neverember found the vault while preparing his wife Alethea's interment and used it to hide his embezzled gold. See **The Vault of Dragons and Neverember's Embezzlement**.
 > - **The Eye:** Neverember hid one of the Stone's three Eyes in a crypt near Alethea's tomb. The Cassalanters found it there through their infernal divination and took it before the campaign opens. It is Eye #2, and they hold it.
 > - **The walking dead:** No necromancer is raising the skeletons in **Ten Nights in the City of the Dead**. The vault presses against its wards, and the dead nearest the Brandath grove walk toward it. Ambrose feels the wrongness and does not know its cause.
 
@@ -122,7 +122,7 @@ The City of the Dead is Waterdeep's cemetery, a walled park of grassy hills, flo
 
 - **Waterdeep**: the city overview and the wards.
 - **Trades Ward** and **North Ward**: the wards the wall runs beside.
-- **Castle Ward**: Asmagh's Alley, and Mount Waterdeep above the grounds.
+- **Castle Ward**: Asmagh's Alley, and Mount Waterdeep across from the grounds.
 - **The Dragonward and Walking Statues**: Ahghairon's wider legacy.
 - **Ahghairon's Gifts**: the founder, whose statue stands here.
 - **The Open Lord's Fall**: Neverember, the Brandath marriage and the vault.
@@ -148,6 +148,7 @@ The City of the Dead is Waterdeep's cemetery, a walled park of grassy hills, flo
 > - **Conflicts:** The Warriors' Monument. `campaign/setting/deities/myrkul.md:66` says "No source says what event the monument commemorates." The wiki's Warriors' Monument page says it honors all who defended the city and that the 1361 DR addition commemorates those who died against Myrkul's invasion (`wiki.txt:1401` and `:1409`). The page gives the wiki account, tagged, and says Dragon Heist is silent.
 > - **Conflicts:** Dates. The wiki's infobox says established 1248 DR (`wiki.txt:16`), the wall is 1064 DR (`wiki.txt:44`) and the portals are 1250 DR (`wiki.txt:48`), and the Alexandrian gives 1250 DR for public mausoleums (PDF 19 p.131). The page uses 1250 DR for the portals and leaves 1248 and 1064 out of the body except for the wall.
 > - **Derived:** The rule that no temple or shrine of Kelemvor stands here comes from the wiki's ban on places of worship (`wiki.txt:90`) read with `kelemvor.md:65`. The wiki line is from a 2e boxed set, and the page tags it.
+> - **Derived:** The Brandath Mausoleum's place in the northern section. No source states where in the grounds it stands. The campaign's mission has the missing bones and the skeletons' path in the north (`Appendix_C_-_Player_Faction_Missions.md:783` and `:793`; `ev-01-the-ten-nights.md:254`), and the page reads that as the north.
 > - **Derived:** "Patrolled but not well staffed" is the old outline's wording (`waterdeep-lore.md:20`). The only staffing figures are two guards per gate (`adventure-wdh.json:7765`) and Sir Ambrose.
 > - **Derived:** Faction use of the main gate in "By Day" reads `ev-01-davils-arrest.md:63` and `:93`, `r03-wolf/ev-01-wolf.md:16`, and `r10-whitehawk/ev-01-whitehawk.md:222`. The reason given for the daytime hour at the statue is Istrid's own choice in `ev-09-aftermath.md:73`, which the page extends to the main gate in general.
 > - **Research:** Area, wall length, number of gates, who staffs the gate posts, whether Kelemvorite priests run burials, who tends the grounds officially, and why the driftglobes come. The notes found no source for any of them. `[research]`

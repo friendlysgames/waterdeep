@@ -122,3 +122,15 @@ Retarget: `campaign/structure/arc-i-kolat-towers.md:9,316,324,325`, `campaign/gu
 - Sea Maidens Faire pier: Mistshore (`arc-h`) against Smugglers' Dock (the Faire's area overview; the page follows the overview).
 - Torm's Chapel has no row in the temples table; Winterstalker `ev-01:319` still says Trades Ward for Kolat Towers.
 - Pronouns for Krebbyg, Soluun, Corene, Filthy Meg and Grinda Garloth come from page prose; confirm.
+
+## From the City of the Dead drafter
+- Brandath naming blurs: `running-the-villains.md:9,32,40` ("beneath the Brandath Crypts"), `history/06-the-open-lords-fall.md:25,52,88`, singular "Brandath Crypt" in `notable-figures/cassalanters/10-seffia-naelryke.md:24,34`, `faction-operations/10-cassalanters.md:72`, `guides/factions/11-cassalanters.md:60`, `deities/moradin.md:67`, and lower-case "crypts" in the Ten Nights files and Ambrose's page. The page's rule: **Brandath Mausoleum** is the building, **Brandath Crypts** is the approach.
+- `deities/myrkul.md:66` says no source gives the Warriors' Monument's purpose; the wiki does (`city-of-the-dead/wiki.txt:1401,1409`).
+- Ambrose Everdawn's alignment: Dragon Heist and the Alexandrian say LG (`adventure-wdh.json:7767`); his campaign page says Lawful Neutral.
+- Ten Nights halves: Dragon Heist has the party patrol the south (`:3740`); Appendix C:783 and the campaign mission take the north.
+- Treant reach: Dragon Heist (`:8367`) says it cannot enter the mausoleum; the Alexandrian and `arc-j:85` say it enters only Mausoleum C's main chambers.
+- Istrid's meeting time: Dragon Heist "highsun tomorrow" (`:6092`) against `gralhund-villa/ev-09-aftermath.md:67` ("after dark") and `:73` (highsun), and `arc-d-gralhund-villa.md:324` ("after dark"); the grounds close at dusk.
+- Viper Den: "above the Brandath Crypts" (`notable-figures/.../02-the-black-viper.md:26`, `locations/cassalanter-villa/02-garden-mudroom.md:25`) against tunnels "beneath the villa" toward the City of the Dead (`arc-j:76`); Doom Raiders `r50 ev-01:186` says nobody lives in the City of the Dead.
+- Wiki dates: infobox 1248 DR, wall 1064 DR, portals 1250 DR. The wiki calls it "cemetery and ward"; Dragon Heist and the campaign give no ward.
+- The Garloth mausoleum (`adventure-wdh.json:7479`) and the Cassalanter mausoleum scene (`:8308`, survivor Vaelle Lurval at `10-seffia-naelryke.md:68`) are used by no campaign file.
+- Eye #2 holder: the page follows `running-the-villains.md:23` (the Cassalanters found it by infernal divination). This is still the open Seffia question on the handoff.
