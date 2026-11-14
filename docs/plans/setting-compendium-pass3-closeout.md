@@ -100,3 +100,14 @@ Retarget: `campaign/structure/arc-i-kolat-towers.md:9,316,324,325`, `campaign/gu
 - The Waymoot's ward: Dragon Heist (`:31115-31116`) names none; the Doom Raiders design note says Dock Ward. Settle it with the Dock Ward and Field Ward pages.
 - Volo's Guide to Waterdeep edition tag: `north-ward.md:22,198` say 5e; the Southern Ward drafter thinks 2e. Verify.
 - Pronouns for Jeryth, Seffia, Arn and Manshoon come from page prose and Dragon Heist; confirm.
+
+## From the Field Ward drafter
+- `sources/SOURCE_GUIDE.md:216` lists a "hired-muscle front company in the Field Ward" Zhentarim outpost; `arc-e-faction-outposts.md` has no such site (the Field Ward appears only at `:249`, the Aveen Street chandler's cellar). Decide whether to add the outpost or correct the guide.
+- `adventure-wdh.json:31104` (the Watch does not patrol the Field Ward) against the Shard Shunners, Twelvedog Court and Marcheon lines (`ev-01-the-shard-shunners.md:23`, `ev-01-twelvedog-court.md:187`, `r03-marcheon/ev-01-marcheon.md:225`).
+- Most dangerous district: `adventure-wdh.json:31061` (Dock Ward) against `waterdeep-lore.md:19`.
+- Shard Shunners' base: Dock Ward hostel (`:2914`) against the Field Ward.
+- Windmill: Thrakkus's windmill (`:13377`) against the campaign's Southern Ward Converted Windmill (`arc-e:273`).
+- `campaign/structure/arc-b-trollskull-alley.md:140` says "Zhent vs. Xanathar Guild fights" (stale; should read the Splinter and Xanathar's Guild).
+- `campaign/guides/trollskull-manor/03-staff-and-hiring.md:107` has an inconsistent Dock Ward and Field Ward reference (Grevik Nass).
+- Justyn Rassk is a Field Ward native in Dragon Heist (`:4124`); no campaign file gives a home ward.
+- Pell the Guild dealer and Pell Tormar the Harper clerk are different people.
