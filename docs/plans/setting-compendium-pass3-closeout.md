@@ -63,3 +63,14 @@ Retarget: `campaign/structure/arc-i-kolat-towers.md:9,316,324,325`, `campaign/gu
 - Weirdbottle's discount: Dragon Heist (`:1453`) names the shop; the Doom Raiders Wolf-rank benefit (`07-doom-raiders.md:57`) does not.
 - Corvin Hallowell (Davil's Arrest) is not the Harper Corvin Nessa Vayle.
 - Fenerus Stormcastle's he/him is inferred from page prose.
+
+## From the Guilds drafter
+- `waterdeep-lore.md:31-32`: "18 recognized guilds" (the published adventure says more than forty and lists 44, `adventure-wdh.json:30829`, `:1115-1158`), "fines and Watch attention" (no lawful recourse, `:30842`), and the Skinners and Tanners, Jewelers' and Carpenters' lines have no source. Deleted at close-out.
+- `campaign/structure/arc-i-kolat-towers.md:19` writes "his votes" for Jelenn Urmbrusk (she/her) and is the only file naming a Council of Guildmasters.
+- Fenerus Stormcastle: his page says he believes his contacts are Luskan agents; `organizations/07-bregan-daerthe.md:40` says he followed Krebbyg and knows the messages go to the Sea Maidens Faire. Decide one.
+- Watchful Order registration differs between `adventure-wdh.json:1101` and `:30578`.
+- Trollskull permit lists differ between `trollskull-manor/02-operating-costs.md` (fee table) and the Trollskull Alley `ev-02` checklist.
+- Guildhall Day: adventure Kythorn 14, wiki Kythorn 11 (the pages use 14).
+- Bowgentra Summertaen (wiki Watchful Order leader c. 1491 DR; a Castle Ward servant in `fireball/ev-03:28`; "eyes up in the Watchful Order" in `08-bregan-daerthe.md:93`): no source says these are one person.
+- `history/05-a-debt-in-blood.md:59` says Victoro's banking "underwrites half the guilds"; the villa document gives thirteen contracts.
+- Esvele Rosznar has no Notable Figures page; the Black Viper's page is the one cited.
