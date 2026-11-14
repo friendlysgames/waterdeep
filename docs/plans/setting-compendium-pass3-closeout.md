@@ -74,3 +74,17 @@ Retarget: `campaign/structure/arc-i-kolat-towers.md:9,316,324,325`, `campaign/gu
 - Bowgentra Summertaen (wiki Watchful Order leader c. 1491 DR; a Castle Ward servant in `fireball/ev-03:28`; "eyes up in the Watchful Order" in `08-bregan-daerthe.md:93`): no source says these are one person.
 - `history/05-a-debt-in-blood.md:59` says Victoro's banking "underwrites half the guilds"; the villa document gives thirteen contracts.
 - Esvele Rosznar has no Notable Figures page; the Black Viper's page is the one cited.
+
+## From the City Watch drafter
+- Edition tag for the wiki's "City of Splendors: Waterdeep" (Palace as the Watch base, Castle Waterdeep's 1,400 Guard): the City Watch page says 3e, `castle-ward.md:173` says 2e. Check the wiki's own citation and make the pages agree.
+- "1,200 guards" comes from the wiki's City Guard (secret, 1372 DR; `city-watch` bundle `wiki.txt:170,189`), not the Watch. Tagged [research] on the page.
+- The City Guard and Watch: the wiki folds them by 1479 DR; the published adventure and `castle-ward.md:268` keep two services in 1492 DR. The City Watch page states both. Decide whether the fold shapes play.
+- `waterdeep-lore.md:14,28,37` (HQ in the Castle Ward; "1,200 guards across three shifts"; "City Watch captain is a worshiper", also flagged unsourced at `deities/tyr.md:143`); `campaign/setting/grand-game.md:26` ("personally compromised").
+- `arc-c-fireball.md:53` calls Barnibus a dwarf (stale). Barnibus "magistrate" also appears in the Debts of the City pages.
+- Cromley is retired on his page and in the adventure appendix but "Sergeant Cromley" arrives with twenty constables in `fireball/ev-01-the-fireball.md:37`; the adventure (`:4444`) calls him a City Watch sergeant.
+- Jalester is a "young captain of the City Watch" in `adventure-wdmm.json:457` and the wiki, against Lords' Alliance agent in Dragon Heist and the campaign.
+- Watchful Order head: the Blackstaff (`adventure-wdh.json:30578`, `castle-ward.md:63`) against Bowgentra Summertaen (wiki bundle `wiki.txt:308`; `sea-maidens-faire/02-heartbreaker-officers-cabin.md:13` lists "B. Summertaen").
+- `fireball/ev-01-the-fireball.md:196`: "standard Watch inspection protocols" at the docks; the adventure gives the Guard the harbor.
+- `SOURCE_GUIDE.md:154,264` promise Watch jurisdiction and response-time sections that the research did not find.
+- Savra's alignment: lawful good on her page, NG in the adventure (`:3949`).
+- Three more files use the Watch or Cavalry and are not in the City Watch Summary: The Rooftop Chase (`ev-08:47,50`), Silencing Skeemo's chase (`ev-02:79`), The Tithe (`ev-01:19,100`).
