@@ -115,7 +115,7 @@ Three rules hold. The victim can't be a PC. The victim isn't chosen for your nar
 - [The Grand Game in Play](grand-game-in-play.md) — between-sessions procedure, faction state tracking
 - [Running the Villains](running-the-villains.md) — escalation tiers (Unaware / Suspicious / Alert / Lockdown), MacGuffin chain
 - [Design Notes: Running the Campaign](design-notes-running-the-campaign.md) — design rationale for these structural choices
-- [Setting: Waterdeep Lore](../../setting/waterdeep-lore.md) — full festival calendar
+- [Setting: Timekeeping and the Festival Calendar](../../setting/history/09-timekeeping-and-the-festival-calendar.md) — full festival calendar
 - [Bregan D'aerthe](../factions/08-bregan-daerthe.md) — response team roster and Revelation List
 - [Xanathar's Guild](../factions/09-xanathars-guild.md) — response team roster and Revelation List
 - [Manshoon's Zhentarim](../factions/10-manshoons-zhentarim.md) — response team roster

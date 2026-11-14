@@ -175,7 +175,10 @@ All setting files are structuring drafts.
 
 | File | Contents |
 |---|---|
-| `waterdeep-lore.md` | Wards, governance, guilds, religion, festival calendar, dragonward |
+| `geography/` | Waterdeep (city overview and the map of where every old `waterdeep-lore.md` block went), City of the Dead, Undermountain and Skullport, The Dragonward and Walking Statues |
+| `governance-and-guilds/` | The Open Lord and the Masked Lords, The Code Legal and the Magisters, The City Watch, The Guilds |
+| `lore/` | The Stone of Golorr and the Eyes; The Vault of Dragons and Neverember's Embezzlement |
+| `deities/` | The Deities hub plus 73 pages: Faerûnian gods, Siamorphe, other pantheons' heads and warlock patrons |
 | `history/` | The History hub, eight era pages (`01`-`08`) and Timekeeping and the Festival Calendar (`09`): Ahghairon through the players' arrival, with a dated Timeline where sources settle one |
 | `grand-game.md` | In-world Grand Game frame; faction starting knowledge table |
 | `villains/xanathar.md` | 3 personality phases, relationships, goals, Sylgar note |
@@ -184,6 +187,8 @@ All setting files are structuring drafts.
 | `villains/jarlaxle.md` | Zardoz Zord phase + adversary/ally tracks, relationships, goals, entry and activation note |
 | `notable-figures/` | 122 NPC pages in 15 group folders (trollskull-community, independents-allies, independents-adversaries, city-officials, harpers, lords-alliance, emerald-enclave, order-of-the-gauntlet, force-grey, doom-raiders, bregan-daerthe, xanathars-guild, manshoons-zhentarim, cassalanters, gralhunds). One page per NPC: H1, `> **[GM]**` Gamemaster's Summary, ## Roleplaying Information, ## Character Information, ## Overview. |
 | `organizations/` | 10 faction pages: 01-harpers through 10-cassalanters. Lore only: Operations, Key Members, Grand Game Agenda, Overview. Game mechanics (stance, hooks, first meeting, renown, missions, response teams, outposts, escalation, revelation lists) live in the **Factions Guide**. |
+
+**Gazetteer** (`campaign/gazetteer/waterdeep/`): one page per ward (Castle, Sea, North, Trades, Southern, Dock, Field), each a structuring draft with At a Glance, Landmarks, Characters of Interest, Life in the Ward, Overview and Read Aloud anchors. The former `waterdeep-lore.md` outline is retired (Pass 3); the table at the end of the **Waterdeep** page's Draft Notes shows where each of its bullets went, and older pages still cite it by line as the retired outline. Rulings that bind these pages are in `docs/plans/setting-compendium-pass3-brief.md`; the files still to retarget are in `docs/plans/setting-compendium-pass3-closeout.md`.
 
 ### Sources
 

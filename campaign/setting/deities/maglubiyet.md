@@ -123,7 +123,7 @@ Maglubiyet is the lawful evil god of war and the ruler of the goblinoid gods. Go
 - **The Long Shadow** (History): the Guild's watch posts on the upper levels of Undermountain.
 - **Noska Ur'gray**, **Ott Steeltoes** (Notable Figures): the bugbear response team's leader and the fishkeeper the bugbears hunt in **Three Nights**.
 - **Finding Floon**, **Vault of Dragons** (quests), **Xanathar Sewer Hideout** (location journal), **Three Nights** (Bregan D'aerthe mission): where goblinoids and the dwarven fresco appear.
-- **Waterdeep: Lore** (Setting): Undermountain and Skullport.
+- **Undermountain and Skullport** (Setting): the dungeon and the town below the city.
 
 > **[GM]**
 >
