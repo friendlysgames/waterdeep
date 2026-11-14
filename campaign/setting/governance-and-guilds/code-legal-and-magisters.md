@@ -1,0 +1,108 @@
+# The Code Legal and the Magisters
+
+> Structuring draft.
+
+> **[GM]**
+>
+> #### Gamemaster's Summary
+> - **What this page is:** the institution entry for Waterdeep's written law and the black-robed judges who apply it, and the second of the four governance pages. It covers what the Code Legal is, how an arrest becomes a sentence, which penalties the published adventure gives, who the named magisters are, and which rules the campaign has added.
+> - **Where it is used:** read it before you run an arrest, a hearing or a plea for leniency, before a player asks what the law says about a weapon, a duel or a spell, and before any NPC cites an article of the Code Legal.
+> - **Featured in:** **Fireball!**, **Gralhund Villa** (Barnibus Blastwind and the arrest of anyone who killed a noble) and **A Friend's House** (Barnibus). The courthouse encounters in the published adventure are not yet converted to a quest journal.
+> - **Faction events:** **The Legate's Eyes** (a Watch review of the Trades Ward magistracy), **Smoke in the Tower** (a request for counsel), **The Shrine on Aveen Street** (the warrant rule), **The Exile's Return** (the bribed magister), **Stingblade** (a hearing with Barnibus) and **Davil's Arrest** (Tashlyn under a magister).
+> - **Location journals:** none. The Castle Ward courthouse and the Palace copy of the Code Legal are described on **Castle Ward**.
+> - **Spoiler limit:** everything above the `## Overview` is for the GM only. The Overview is what an ordinary Waterdhavian knows, and it mentions no temple, no cult and no Masked Lord.
+
+**Purpose:** Lets the GM say what the law of Waterdeep is, how a magister sentences, and which rules come from the published adventure and which come from the campaign, so that no later page invents a penalty, an article or a magister's title that no source gives.
+
+The Code Legal is the written outline of Waterdeep's laws and typical sentences, and the magisters are the black-robed judges who apply it. The published adventure calls Waterdeep a city of laws molded by Tyr's spirit of justice, and says that its law is a complex library of custom set by precedent. The Code Legal holds the main body of that library but gives only an outline of sentences, so the magisters judge by their own discretion. A magister who is wrong can be overruled by a Masked Lord, though one is rarely nearby. The Code Legal is a handout in the published adventure, and its author and date appear in no source. `[research]`
+
+### Tenets
+
+- **Law by Precedent:** Waterdeep's law is a library of law and custom set by precedent, and the Code Legal is its main body. The published adventure says a visitor can read it in several languages at the Palace of Waterdeep. The magisters at the gates and in the harbor give it to anyone who asks, in Common.
+- **An Outline, Not a Tariff:** The Code Legal lists only typical sentences for various offenses. Magisters have broad discretion to mete out justice as they see fit, so two parties who commit the same crime can leave the courthouse with very different punishments.
+- **Quiet Punishment:** The published adventure says punishment is not used as public entertainment. Scheduled executions happen behind the high walls of Castle Waterdeep, floggings take place in the watch post nearest the sentencing, and the Watch tries to take people into custody quietly. Bystanders give a fight between criminals and the Watch a wide berth.
+- **Civility Replaces a Weapons Ban:** No law forbids carrying weapons or armor in Waterdeep, and Waterdhavians go about unarmed because the city has a culture of civility. Dueling is illegal, and so is any act of assault. Everyone caught brawling is arrested and judged, whoever started it and whatever the reason.
+- **A Tax on Long Blades:** Sport fighting such as boxing or wrestling is legal only in a location registered with the city for that purpose. Any blade longer than one foot is taxed again each time it is sold, which is why Waterdhavians carry knives and knuckledusters.
+- **Registration Before Residence:** A large caravan or a ship must register with a magister at the gate where it arrived or with the harbor magister. A small party or a lone traveler registers only after a tenday, and a failure to do so can bring a fine or forced labor. Registration brings monthly taxation.
+- **Guild Law Stands Apart:** The published adventure says Guild Law is not technically in the legal code of Waterdeep. Guilds appear in the oldest surviving legal documents, which Ahghairon wrote himself, and the Watch and the magisters take a guild's traditions seriously. See **The Guilds**.
+- **A Masked Lord Overrules a Magister:** Any Masked Lord can overturn a magister's ruling. See **The Open Lord and the Masked Lords** for who may do so and for how the Lords are met.
+
+### Operations
+
+- **From arrest to judgment:** The City Watch arrests a suspect and brings them to a courthouse, where they are detained until a magister can pass judgment. The published adventure says a magister can pass a sentence without a trial. Advocates may speak for a party that has allied itself with influential NPCs and factions, and a party that has joined the Lords' Alliance is more likely to be excused if Laeral Silverhand has cause to let them off.
+- **What a courthouse holds:** Each courthouse has two guards outside both the front door and the back door at all hours, barred windows, a front desk clerk, cells and a courtroom. A magister on duty reviews cases and holds meetings in an office, and a knight serves as a bodyguard whenever a magister is there. The Castle Ward holds several courts for magisters, and the Dock Ward has its own courthouse.
+- **Penalties the published adventure gives:** Disturbing the peace brings a fine and an edict. Hampering justice, such as lying to a magister, brings a tenday in a cell and a fine of 200 gp, and a party that cannot pay serves a year of hard labor at Amendsfarm. Impersonating a noble or an official brings a flogging, then up to a tenday of imprisonment and a fine of up to 500 gp. Murdering a noble carries a death sentence.
+- **Where sentences are served:** Amendsfarm is a prison farm in Undercliff, on the farmland outside the city, where people convicted of minor offenses work off their debt. Executions take place behind the walls of Castle Waterdeep. The adventure also mentions exile as a punishment for serious crimes.
+- **Who can set a sentence aside:** A Masked Lord can overturn a magister's ruling, and the published adventure says that a presiding magister or a Lord of Waterdeep has the authority to grant immunity to a prisoner. It names Mirt as a Lord who can secure a prisoner's release for a party with 4 renown in the Harpers. **Laeral Silverhand** can do the same for a party with 4 renown in the Lords' Alliance if the favor serves the city.
+- **Arcane casters:** A wizard, sorcerer or other arcane spellcaster who intends to stay in Waterdeep for any length of time must register with the city, usually when questioned at the gate or in front of a magister. The city strongly encourages a registered caster to join the Watchful Order of Magists and Protectors, which the Blackstaff heads. Its members serve as temporary members of the City Watch or the City Guard when called, and they help investigators decide whether magic was used in a crime.
+- **Where the Code Legal is kept:** The Palace of Waterdeep holds the Code Legal in several languages, and the gate and harbor magisters hand out the Common version. The wording of the handout is an image in the published adventure and is not readable in our sources. This page therefore gives no full list of offenses or sentences.
+
+### Key Members
+
+**Barnibus Blastwind** (Lawful Good, Illuskan Human, he/him) is a Watchful Order investigator who looks into crimes that involve magic, and he is a sometime visitor to the courthouses. He is prickly and secretive, confides only in Saeth Cromley, and lives in a small, tidy Sea Ward estate that he inherited from his grandmother. His Notable Figures page and the **Stingblade** event call him a magistrate, but the published adventure gives him no magistrate's title (campaign-only; see GM Notes).
+
+**Saeth Cromley** (Lawful Good, Illuskan Human, he/him) is a retired City Watch sergeant who assists in many of Barnibus's investigations. The campaign has him sit in the sergeants' room at the Halls of Justice in the afternoons, where a visitor who buys him a drink finds him easy to talk to (campaign-only).
+
+**Vajra Safahr** (Neutral, Tethyrian Human, she/her) is the Blackstaff, and the published adventure says the Watchful Order is headed by the Blackstaff. Only the Open Lord can strip her of the title. See **The Open Lord and the Masked Lords**.
+
+**Tashlyn Yafeera** (Lawful Evil, Calishite Human, she/her) is the Master of Arms and Mercenaries for the Doom Raiders, and her cover is a post as bodyguard to the dwarf magister Vorondar Levelstone at the South Gate. The cover has earned her the rank of captain in the City Guard, from which she watches the traffic through the gate and keeps it open for her associates.
+
+Four magisters have no Notable Figures page, so they stay as plain text. Hester Barch is the lawful good magister of the Castle Ward courthouse, a petite Turami human woman in her seventies who is slow to anger and fond of long educational anecdotes and parables. Umbero Zastro is the lawful neutral magister of the Dock Ward courthouse, a handsome, eloquent and fair-minded half-elf in his thirties who is known for a sense of poetic justice and for unconventional punishments. Vorondar Levelstone is a dwarf magister at the South Gate. Kylynne Silmerhelve is a magister in the campaign's Lords' Alliance missions, and the published adventure does not name her (campaign-only).
+
+## Overview
+
+Waterdeep's laws rest on the Code Legal, a body of custom and precedent that anyone can read at the Palace in several languages. Black-robed magisters judge the people whom the City Watch arrests, and a magister may pass sentence without a trial. The Code Legal outlines only typical sentences, so each magister has wide discretion in how to apply it. Any Masked Lord can overturn a magister's ruling, though there is rarely one nearby when a petitioner needs it.
+
+> **[GM]**
+>
+> #### GM Notes
+> - **Campaign-only rules:** The Code Legal of the campaign carries three rules that the published adventure does not state. Order of the Gauntlet agents may not enter a place of worship without a magistrate's warrant, which is what stops Savra in **The Shrine on Aveen Street**, and the design notes for that event call the rule invented. The Watch opens a review of a magistracy, in **The Legate's Eyes**, when a Force Grey extraction goes wrong, and for 14 days it logs every Tower request to the Watch. A prisoner may ask for the article that entitles her to counsel, as Brenna does in **Smoke in the Tower**. Voice these as ordinary law, and do not attribute them to the published Code Legal handout.
+> - **The temple offense:** In the campaign, an illegal temple to Asmodeus lies beneath **Cassalanter Villa**, and discovering it is a capital offense under the Code Legal. Worship alone is not outlawed, so the capital charge rests on the temple and on what is done in it. This is campaign-only, and no published source names a temple or worship offense. Nobody outside the household and the cult knows about the temple, so no NPC cites this offense against the Cassalanters until the party has found the temple. See **The Cassalanters**.
+> - **Hester Barch's secret:** Barch has an innate psionic ability to cast *detect thoughts* without somatic or material components, and only her closest aides know it. After one casting she must finish a short or long rest before she can cast it again. She uses it quietly in her courtroom to read a prisoner's surface thoughts, and a character who lies to her may be found out by it.
+> - **Running a hearing:** In the Dock Ward courthouse the magister is Umbero Zastro, and in the Castle Ward courthouse she is Hester Barch. Zastro gives the party an hour to plead and asks questions while he listens. He finds a character who deceives him guilty of hampering justice. A party that pleads for leniency with a DC 14 Charisma (Persuasion) check receives an alternate punishment for any crime that does not carry death or exile, and the check has advantage for a character with renown in a respectable faction.
+> - **Alternate punishments:** The published adventure lists four. The character makes beds and cleans bedsheets at local orphanages for a tenday under guard supervision. The character scrapes barnacles off the docks for a tenday under Morana Huldark, a dwarf of the Guild of Watermen. The character spends a month delivering 30-pound casks of drinking water to the guards on the city walls. The character stands on a street corner every afternoon for a tenday, from highsun to dusk, and shouts out the crimes for which he or she was found guilty.
+> - **Corruption and its price:** Harko Swornhold tried to bribe Magister Kylynne Silmerhelve about three years ago and was exiled, and the campaign has him back in Waterdeep and working for Xanathar's Guild in **The Exile's Return** (campaign-only). A bribe is therefore a real crime in Waterdeep, and the sentence for one can be exile. The published adventure says the City Guard must never demand a toll, and a traveler who is asked for one should report it to a magister.
+> - **A magistrate for the Zhentarim:** Tashlyn's post under Vorondar Levelstone is a deliberate cover. Levelstone likes her and trusts her, and he does not know what she is. A party that arrests or exposes Tashlyn at the South Gate also costs Levelstone his bodyguard and puts a magister's trust in doubt.
+> - **Barnibus in play:** After the fight at **Gralhund Villa**, Barnibus investigates the scene and questions neighbors and bystanders. A party seen leaving is a set of suspects, and if the party killed a Gralhund and left a witness or evidence, Barnibus tells Sergeant Cromley to arrest them for murdering a noble. At **Stingblade**, a Lords' Alliance member gets a half-hour hearing in which he reads one document or one piece of evidence and says in writing whether it would stand before a magistrate.
+> - **Never reveal:** No NPC cites the temple offense before the party has found the temple. No source says whether any magister knows a Masked Lord's name, and none of them gives one away.
+
+**Tone:** Plain and procedural, with the confidence of a city that thinks itself fair. Give each published rule its penalty, and keep the campaign-only rules visibly separate so that the GM never presents an invented article as the published Code Legal.
+
+---
+
+## Source References
+
+- `sources/adventure-wdh.json` lines 30514-30516: Tyr's justice, quiet punishment, the Code Legal, magister discretion and a Masked Lord overturning a ruling. Lines 30534-30535: weapons, dueling, brawling, sport fighting and the tax on blades. Lines 30440-30443: gate and harbor magisters, black robes, registration and fines. Line 30578: arcane registration and the Watchful Order. Line 30829: Guild Law. Lines 969-970: the handout and arrest procedure. Lines 9791-9797 and 10427: courthouse features and the magister's office. Lines 10542, 10562 and 10582-10600: the Dock Ward courthouse, Zastro and the alternate punishments. Lines 10623-10658: the Castle Ward courthouse, Barch and Mirt and Laeral as intercessors. Line 10644: impersonation. Line 31010: Castle Ward courts. Line 31125: Amendsfarm. Line 6064: Barnibus and murdering a noble. Lines 31774-31776: Barnibus. Line 31955: Tashlyn and Levelstone. Line 32828: the handout.
+- `campaign/gazetteer/waterdeep/castle-ward.md` lines 27, 52 and 180: the Code Legal at the Palace, magister courts and black robes.
+- `campaign/setting/notable-figures/city-officials/02-barnibus-blastwind.md` and `03-saeth-cromley.md`, `force-grey/01-vajra-safahr-the-blackstaff.md`, `doom-raiders/05-tashlyn-yafeera.md`.
+- Faction events: `campaign/quests/faction-events/order-of-the-gauntlet/m05-the-shrine-on-aveen-street/overview.md` line 21, `ev-01-the-shrine-on-aveen-street.md` lines 29 and 69 and `design-notes.md` line 26. `force-grey/m05-the-legates-eyes/ev-02-the-extraction.md` line 186. `force-grey/m06-smoke-in-the-tower/ev-01-smoke-in-the-tower.md` line 240. `lords-alliance/m02-the-exiles-return/overview.md` line 21 and `design-notes.md` line 33. `lords-alliance/r10-stingblade/ev-01-stingblade.md` lines 122-124. `doom-raiders/s01-davils-arrest/ev-01-davils-arrest.md` line 107.
+- `campaign/setting/organizations/10-cassalanters.md` line 25 and `campaign/setting/deities/asmodeus.md` line 81: the temple offense.
+- `campaign/setting/history/01-ahghairons-gifts.md` lines 62-63 and 142: the Code Legal's missing author and date.
+- Pass 3 research notes, `code-legal-and-magisters` section of `docs/plans/setting-compendium-research-notes/pass3/batch-governance.md`.
+
+## Cross-References
+
+- **Castle Ward** (Gazetteer): the Palace, the audience chamber, the courts for magisters and the Palace copy of the Code Legal.
+- **Waterdeep** (Geography): the city overview.
+- **The Open Lord and the Masked Lords**: the Lords who can overturn a magister's ruling.
+- **The City Watch**: the Watch that arrests and the City Guard that escorts a magister.
+- **The Guilds**: Guild Law, which stands outside the legal code.
+- **Ahghairon's Gifts** (History): the founding of the law and the oldest legal documents.
+- **The Lords' Alliance**, **Force Grey**, **The Order of the Gauntlet** and **The Cassalanters** (Organizations): the factions whose events and plans touch the law.
+- **Barnibus Blastwind**, **Saeth Cromley**, **Vajra Safahr**, **Tashlyn Yafeera** and **Laeral Silverhand** (Notable Figures): the people named here.
+
+> **[GM]**
+>
+> #### Draft Notes
+> - **Conflicts, Barnibus's office:** `adventure-wdh.json` line 31774 says he works for the Watchful Order investigating crimes that involve magic, with no magistrate's title. His Notable Figures page (`02-barnibus-blastwind.md` lines 6, 22 and 26), the **Stingblade** event (`ev-01-stingblade.md` line 122) and `waterdeep-lore.md` line 27 call him a magistrate. Ruling 4 governs, so this page calls him an investigator and tags the title campaign-only. The Notable Figures page and the event need retargeting. His Notable Figures page also gives no pronouns, and the pronouns here come from line 31774.
+> - **Conflicts, "posted publicly":** `waterdeep-lore.md` line 26 says the Code Legal is "posted publicly". `adventure-wdh.json` line 30516 says it is "available" at the Palace and "provided on request" by the gate and harbor magisters. This page follows the adventure.
+> - **Conflicts, "most guild business":** `waterdeep-lore.md` line 26 says the Code Legal leaves out most guild business. Line 30829 says only that Guild Law is not technically in the legal code, so the page says that and no more.
+> - **Conflicts, who runs Amendsfarm:** line 31125 calls it a prison farm run by the City Watch, and line 10592 calls it a City Guard-run labor camp. The page gives no operator.
+> - **Conflicts, the warrant rule and the temple:** the Gauntlet events say the Code Legal protects any place of worship from entry without a warrant. The campaign also says an Asmodean temple is illegal. No source says how the warrant rule applies to an illegal temple, so the page does not reconcile them.
+> - **Not readable:** the Code Legal handout is an image (`adventure/WDH/The-Code-Legal.webp`, `adventure-wdh.json` lines 964 and 32834), and the wiki has no Code Legal page (`wiki.txt` line 1). The penalties here come from the courthouse text, so the full list of offenses and sentences is `[research]`. The Code Legal's author and date are `[research]`, and no source says how a magister is appointed or how long one serves.
+> - **Wiki collision:** the wiki's "Magister" page (`wiki.txt` line 6) is Mystra's personal champion, and the wiki's "Lords Magisters" (1256 DR to 1273 DR, `sources/research/pass3-bundles/guilds/wiki.txt` line 98) are a separate office. Neither is used here. The Guildwars and the Lords Magister are on **Ahghairon's Gifts**.
+> - **Tashlyn's affiliation:** the adventure says "Waterdeep Zhentarim" (line 31954) and her Notable Figures page says Doom Raiders. This page follows the page, and the two Zhentarims rule applies.
+> - **Kolat Towers and the Tower of Luck:** neither is touched by this page, so the standing conflicts are not repeated.
+> - **Names with no page:** Hester Barch, Umbero Zastro, Vorondar Levelstone, Kylynne Silmerhelve, Harko Swornhold, Morana Huldark and Brenna. Kylynne's name is a draft name in `m02-the-exiles-return/design-notes.md` line 33. Brenna is named from `ev-01-smoke-in-the-tower.md` line 240 only as "she" and is not verified.
+> - **Left out:** `waterdeep-lore.md` line 27, "Barnibus Blastwind handles sensitive investigations", has no source, and so do "1,200 guards" and "personally compromised" from the old outline. The Open Lord Response Team in the Alexandrian files is left out, since the campaign has no rule for it. Halls of Justice is named in the Stingblade event and in the Gauntlet design note, and this page does not place a magister's office there.
+> - **Derived:** Zastro hears the party in the Dock Ward courthouse because the adventure sends the party there after the street chase (`adventure-wdh.json` line 6672), and Barch hears Fenerus's visitors in the Castle Ward courthouse (line 9090). No source says which magister sits in any other courthouse.
