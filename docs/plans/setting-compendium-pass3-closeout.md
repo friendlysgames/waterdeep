@@ -46,3 +46,11 @@ Retarget: `campaign/structure/arc-i-kolat-towers.md:9,316,324,325`, `campaign/gu
 - `arc-i-kolat-towers.md:33` says Trades Ward; `arc-f-xanathars-lair.md:147` has Samara place Manshoon's tower in the North Ward (kept as in-fiction misdirection).
 - Sea/North border strip north of Vondil Street and the Adarbrent and Agundar villas are unresolved.
 - North Ward pronouns for Remallia, Yalah, Broxley, Emmek, Ulkoria and Vincent Trench come from page prose and Dragon Heist; confirm.
+
+## From the Code Legal drafter
+- Barnibus's title (ruling 4): `campaign/setting/notable-figures/city-officials/02-barnibus-blastwind.md:6,22,26`; `campaign/quests/faction-events/lords-alliance/m04-the-archer-above/ev-01-stingblade.md:122` (check; the Sea Ward drafter cited `ev-01-the-archer-above.md:396`); `waterdeep-lore.md:27`.
+- Amendsfarm operator: `adventure-wdh.json:31125` (City Watch) against `:10592` (City Guard).
+- The Gauntlet's warrant rule for places of worship against the campaign's illegal Asmodean temple: no source reconciles them; the design note (`order-of-the-gauntlet/m05.../design-notes.md:26`) calls the warrant rule invented.
+- Tashlyn Yafeera's affiliation: `adventure-wdh.json:31954` ("Waterdeep Zhentarim") against her page (Doom Raiders).
+- Vira Solkan's page was not opened by the drafter; verify the tag if it is cited elsewhere.
+- Code Legal author and date remain [research]; the handout is an image.
