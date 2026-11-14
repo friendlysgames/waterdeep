@@ -119,7 +119,7 @@ On any other date, read or paraphrase the following:
 
 > [!qna]**Why does a dragon matter?**
 >
-> > The Dragonward keeps dragons out of the city unless the Open Lord allows one in. This one sits just beyond it, close enough to watch the docks, and I dislike anything I can't explain.
+> > The Dragonward keeps dragons out of the city unless the dragonstaff has touched one. This one sits just beyond it, close enough to watch the docks, and I dislike anything I can't explain.
 
 > [!qna]**Is it dangerous?**
 >

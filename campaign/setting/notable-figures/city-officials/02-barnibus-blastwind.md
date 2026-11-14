@@ -3,7 +3,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - *Illuskan human magistrate, lawful good*. Stat block: **Mage**.
+> - *Illuskan human Watchful Order investigator, lawful good*. Stat block: **Mage**.
 > - **Affiliation:** City of Waterdeep (Watchful Order of Magists and Protectors)
 > - **Featured in:** **Fireball!**, **Gralhund Villa**, **A Friend's House**
 
@@ -19,12 +19,12 @@
 
 ## Character Information
 
-**Persona.** To the world, Barnibus is a prickly and secretive magistrate who confides only in Saeth Cromley. To those he trusts, he is a lifelong bachelor who spends every free hour reading and writing in his grandmother's library. Deep down, he finds violence appalling and would never use his magic to inflict harm, even on those who harm him.
+**Persona.** To the world, Barnibus is a prickly and secretive investigator who confides only in Saeth Cromley. To those he trusts, he is a lifelong bachelor who spends every free hour reading and writing in his grandmother's library. Deep down, he finds violence appalling and would never use his magic to inflict harm, even on those who harm him.
 
 **Morale.** In a fight, Barnibus would retreat immediately and use magic only to defend himself or protect evidence. He would sooner be wounded than cast a harmful spell.
 
-**Relationships.** Barnibus is a magistrate of the Watchful Order of Magists and Protectors, the exclusive professional partner of Saeth Cromley (his only real friend), and the **Fireball!** investigator who examines the fireball scene.
+**Relationships.** Barnibus is an investigator for the Watchful Order of Magists and Protectors, the exclusive professional partner of Saeth Cromley (his only real friend), and the **Fireball!** investigator who examines the fireball scene.
 
 ## Overview
 
-Barnibus Blastwind is a meticulous magistrate of the Watchful Order of Magists and Protectors who investigates unusual crimes with a specialist's patience — and an inability to make any of it sound like ordinary conversation.
+Barnibus Blastwind is a meticulous member of the Watchful Order of Magists and Protectors who investigates unusual crimes with a specialist's patience — and an inability to make any of it sound like ordinary conversation. He lives in a small, tidy estate in the Sea Ward. The campaign's **Stingblade** and **The Archer Above** events call him Magistrate Blastwind, a title the published adventure does not give him (campaign-only).

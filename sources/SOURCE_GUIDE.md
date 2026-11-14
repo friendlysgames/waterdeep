@@ -211,7 +211,7 @@ Key content per faction:
 - Underdock warehouse (goods flowing to Skullport)
 
 **Manshoon's Zhentarim outposts:**
-- Yellowspire (wizard tower in Trades Ward — contains teleportation circle to Kolat Towers, key infiltration route)
+- Yellowspire (wizard tower in Castle Ward — contains teleportation circle to Kolat Towers, key infiltration route)
 - Safe house near Trades Ward with coded correspondence
 - Hired-muscle front company in the Field Ward
 

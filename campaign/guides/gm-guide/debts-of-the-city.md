@@ -136,7 +136,7 @@ He's a genuine professional who believes the Doom Raiders' moderate approach to 
 
 ## Justice: Blastwind's Evidence
 
-Barnibus Blastwind is a magistrate of the Watchful Order of Magists and Protectors, an investigator of considerable reputation: thorough, methodical, rarely wrong. You watched him do something deliberate. When he realized he'd been seen, he made the best decision available to a compromised man: he did nothing. He held your gaze for a long moment, then went back to what he'd been doing.
+Barnibus Blastwind investigates crimes that involve magic for the Watchful Order of Magists and Protectors, and he has a considerable reputation: thorough, methodical, rarely wrong. You watched him do something deliberate. When he realized he'd been seen, he made the best decision available to a compromised man: he did nothing. He held your gaze for a long moment, then went back to what he'd been doing.
 
 A tenday later, an unsigned note arrived at your residence. It said: *We should meet. You have seen something. I have a file.* When the meeting happened, the file contained everything Blastwind had been able to gather on you in ten days. Call it an introduction, secured in advance.
 
@@ -144,7 +144,7 @@ A tenday later, an unsigned note arrived at your residence. It said: *We should 
 
 ### The Holder: Barnibus Blastwind (Watchful Order of Magists and Protectors)
 
-Barnibus Blastwind is a magistrate of the Watchful Order of Magists and Protectors: methodical, private, and genuinely skilled at investigative work. His professional compromise is situational: one incident, one person he refuses to discuss. Outside that incident, his record is clean.
+Barnibus Blastwind is an investigator for the Watchful Order of Magists and Protectors: methodical, private, and genuinely skilled at investigative work. His professional compromise is situational: one incident, one person he refuses to discuss. Outside that incident, his record is clean.
 
 He presents the mutual-observation arrangement as workable because he means it. His first formal request involves something the Watch can't pursue through official channels, and he frames this honestly rather than dressing it as a favor. Characters who help him gain an ally who knows Waterdeep's investigative apparatus from the inside and has a personal stake in keeping them clear of its attention.
 
