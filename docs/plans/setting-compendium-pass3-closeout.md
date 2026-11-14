@@ -35,3 +35,14 @@ Retarget: `campaign/structure/arc-i-kolat-towers.md:9,316,324,325`, `campaign/gu
 - Eye #2: `campaign/setting/organizations/10-cassalanters.md:73` (Brandath Crypts) against `campaign/structure/arc-g-cassalanter-villa.md:59` (the villa's hidden temple).
 - `campaign/quests/faction-events/harpers/r03-harpshadow/design-notes.md:17` records "the street behind the Naval Harbor" as invented.
 - Pronouns for the Sea Ward characters come from Notable Figures page prose and event cards, not from the Summary lines; confirm.
+
+## From the North Ward drafter
+- `campaign/setting/deities/ilmater.md:127` says no North Ward page exists (now stale); Kalain's home is unresolved there.
+- `campaign/structure/arc-e-faction-outposts.md:117,201`: "Trade Ward" for Brindul Alley (the Interrogation House is North Ward in the Factions Guide and `arc-i:15`).
+- `sources/SOURCE_GUIDE.md:219` puts the Vault windmill in the North Ward; `campaign/quests/faction-events/harpers/m05-the-theaters-back-room/design-notes.md:36,55` say Southern Ward.
+- `campaign/quests/act-ii/fireball/ev-01-the-fireball.md:128` calls Tally "she"; Tally's Notable Figures page uses "his".
+- Gralhund family ward: `campaign/guides/gm-guide/debts-of-the-city.md:76` and Yalah's page line 30 say "Sea Ward noble family"; Dragon Heist (`:4704`, `:4864`) and the location journal say North Ward.
+- Holyhands House and House of Inspired Hands are separate rows in the temples table; no source equates them.
+- `arc-i-kolat-towers.md:33` says Trades Ward; `arc-f-xanathars-lair.md:147` has Samara place Manshoon's tower in the North Ward (kept as in-fiction misdirection).
+- Sea/North border strip north of Vondil Street and the Adarbrent and Agundar villas are unresolved.
+- North Ward pronouns for Remallia, Yalah, Broxley, Emmek, Ulkoria and Vincent Trench come from page prose and Dragon Heist; confirm.
