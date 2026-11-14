@@ -70,7 +70,7 @@ Manshoon underestimates threats that aren't magical. A party that stays clear of
 - *A Missive from Castle Ward* (Gralhund Villa)
 - Questioning Samara (Xanathar's Lair)
 
-**Lair: Kolat Towers** (Trades Ward)
+**Lair: Kolat Towers** (Southern Ward)
 - *Xanathar's Report on the Grand Game* (Xanathar's Lair)
 - *Cassalanter's Report on the Grand Game* (Cassalanter Villa)
 - Teleportation circle (Yellowspire)

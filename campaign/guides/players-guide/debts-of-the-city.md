@@ -74,7 +74,7 @@ Davil came afterward to offer a drink and mention, warmly, that he'd heard good 
 
 ## Justice: Blastwind's Evidence
 
-Barnibus Blastwind is a magistrate of the Watchful Order of Magists and Protectors, an investigator of considerable reputation: thorough, methodical, rarely wrong. You watched him do something deliberate. When he realized he'd been seen, he made the best decision available to a compromised man: he did nothing. He held your gaze for a long moment, then went back to what he'd been doing.
+Barnibus Blastwind investigates crimes that involve magic for the Watchful Order of Magists and Protectors, and he has a considerable reputation: thorough, methodical, rarely wrong. You watched him do something deliberate. When he realized he'd been seen, he made the best decision available to a compromised man: he did nothing. He held your gaze for a long moment, then went back to what he'd been doing.
 
 A tenday later, an unsigned note arrived at your residence. It said: *We should meet. You have seen something. I have a file.* When the meeting happened, the file contained everything Blastwind had been able to gather on you in ten days. Call it an introduction, secured in advance.
 

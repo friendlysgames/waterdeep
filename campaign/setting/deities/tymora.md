@@ -61,9 +61,9 @@
 >
 > #### Using Tymora as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as the friendly god of the gamble. A sage, a priest or a regular at the bar says she is Lady Luck, who smiles on anyone bold enough to take a chance. They add that you toss a copper to a beggar before a risky job, and that a coin landed in the hand of the statue at the Tower of Luck is a good sign. The sage knows she and Beshaba came from one god of luck, and warns that you do not pray to both. In Waterdeep she is the temple "popular with adventurers and criminals alike" (`campaign/setting/waterdeep-lore.md:36`), and *Dragon Heist* closes its warning about Three Daggers Alley in the Dock Ward with "don't test Tymora's favor." Nobody in this conversation mentions Meloon.
-> - **Waterdeep:** Tymora has one temple in the city, the Tower of Luck in the Sea Ward.
->   - Every placement found: the Dragon Heist Major Temples table lists "Tymora, Tower of Luck, Castle Ward" (`sources/adventure-wdh.json:30983-30985`). The Dragon Heist Sea Ward text describes the Tower of Luck inside the Sea Ward section (`:30882`) and puts the Shrines to Nature "just a block away" (`:30884`), which the table also places in the Sea Ward. `campaign/setting/waterdeep-lore.md:36` lists it among the Sea Ward's major temples, and `campaign/gazetteer/waterdeep/castle-ward.md:165` and `:240` place it in the Sea Ward. The retired `campaign/structure/ch2-city-of-splendors.md:56` agrees.
->   - This page follows the Sea Ward. The campaign files win over the table, and the published Sea Ward text agrees with them. The conflict is in Draft Notes for the hub.
+> - **Waterdeep:** Tymora has one temple in the city, the Tower of Luck in the Castle Ward. The Dragon Heist Sea Ward text also describes it, so the book splits on its ward.
+>   - Every placement found: the Dragon Heist Major Temples table lists "Tymora, Tower of Luck, Castle Ward" (`sources/adventure-wdh.json:30983-30985`). The Dragon Heist Sea Ward text describes the Tower of Luck inside the Sea Ward section (`:30882`) and puts the Shrines to Nature "just a block away" (`:30884`), which the table also places in the Sea Ward. `campaign/setting/waterdeep-lore.md:36` lists it among the Sea Ward's major temples, and `campaign/gazetteer/waterdeep/castle-ward.md:240` lists it under the Sea Ward. The retired `campaign/structure/ch2-city-of-splendors.md:56` agrees. `castle-ward.md:165` now follows the table.
+>   - This page follows the table and puts the Tower of Luck in the Castle Ward, because the published adventure wins over the campaign outline on temples. The Sea Ward text still names it among that ward's temples, and the split stays in Draft Notes for the hub.
 >   - The temple is a complex. The "tower" is a many-pillared atrium roofed over with glass. Under the roof, a bronze statue of a small, laughing Tymora leaps from the top of a fountain. Visitors come around the fountain on a walkway and toss a coin to her, and landing it in her outstretched hand is a sure sign of her favor.
 >   - The Players' Guide tells new characters that "Tyr and Tymora both keep visible, active houses of worship" (`campaign/guides/players-guide/character-creation.md:44`, in the Acolyte background row).
 >   - No file names a priest of the Tower of Luck. No other shrine or temple of Tymora exists in the campaign files, and FRHoF says shrines in gambling parlors are not unusual, so whether a Waterdeep gambling house keeps one is [research].
@@ -76,7 +76,7 @@
 
 ## Overview
 
-Tymora is the chaotic good god of good fortune, called Lady Luck and pictured as a tall, graceful young woman with silver hair. Gamblers, rogues, merchants and adventurers pray to her before any venture where a little luck would help. Her temple in Waterdeep is the Tower of Luck in the Sea Ward, a glass-roofed atrium where visitors toss a coin to a bronze statue of her above a fountain. Her creed is that fortune favors the bold, and she is sister to Beshaba, the god of misfortune.
+Tymora is the chaotic good god of good fortune, called Lady Luck and pictured as a tall, graceful young woman with silver hair. Gamblers, rogues, merchants and adventurers pray to her before any venture where a little luck would help. Her temple in Waterdeep is the Tower of Luck in the Castle Ward, a glass-roofed atrium where visitors toss a coin to a bronze statue of her above a fountain. Her creed is that fortune favors the bold, and she is sister to Beshaba, the god of misfortune.
 
 > **[GM]**
 >
@@ -95,7 +95,7 @@ Tymora is the chaotic good god of good fortune, called Lady Luck and pictured as
 - Same note, SCAG p.21 entry (2014), used for alignment, domains and symbol, and for the praying-to-both rule and the Legend of Tyche. Marked "SCAG, 2014" where used. The PHB p.294 entry repeats the same alignment, domains and symbol. Its pantheon label reads "Forgotten Realms" instead of "Faerûnian".
 - `sources/adventure-wdh.json`: the Major Temples of Waterdeep table row (Tymora, Tower of Luck, Castle Ward, lines 30983 to 30985), the Sea Ward text on the Tower of Luck and the Shrines to Nature (lines 30882 and 30884), Three Daggers Alley (line 31339), the Nightal 20 entry, Simril (lines 31583 and 31587), and Meloon Wardragon (lines 32255 and 32256).
 - `campaign/setting/waterdeep-lore.md`: the Sea Ward temples line.
-- `campaign/gazetteer/waterdeep/castle-ward.md`: the Sea Ward placement and the conflict note (lines 31, 165, 240 and 271).
+- `campaign/gazetteer/waterdeep/castle-ward.md`: the Tower of Luck placement and the conflict note (lines 31, 165, 240 and 271).
 - `campaign/structure/ch2-city-of-splendors.md` (retired): the earlier Sea Ward outline line.
 - `campaign/guides/players-guide/character-creation.md`: the Acolyte row.
 - `campaign/setting/notable-figures/independents-allies/05-meloon-wardragon.md` and `.claude/skills/character-voices/voices/independents-allies.md`: Meloon's devotion, occupation and habits.
@@ -106,26 +106,26 @@ Tymora is the chaotic good god of good fortune, called Lady Luck and pictured as
 ## Cross-References
 
 - **Beshaba** (Deities): her twin sister and fiercest foe.
-- **Selûne** (Deities): her oldest friend, who split Tyche and took her in at the Gates of the Moon, and whose temple shares the Sea Ward.
+- **Selûne** (Deities): her oldest friend, who split Tyche and took her in at the Gates of the Moon, and whose temple, the Tower of the Moon, stands in the Sea Ward.
 - **Lathander**, **Tyr**, **Helm** (Deities): Lathander is an ally, and Tyr and Helm are the pair in the 1384 DR quarrel.
 - **Siamorphe** (Deities): the goddess whose departure set off that quarrel.
 - **Lliira**, **Sune**, **Shaundakul**, **Azuth**, **Garl Glittergold**, **Bane** (Deities): her allies and her named enemy.
 - **Meloon Wardragon** (Notable Figures): the campaign's devotee of Tymora.
 - **Force Grey** (Organizations): Meloon's faction.
-- **Castle Ward** (Gazetteer): records the Tower of Luck conflict. No Sea Ward gazetteer page exists yet, so the Sea Ward is plain text here.
+- **Castle Ward** (Gazetteer): the ward of the Tower of Luck, and the record of the conflict. **Sea Ward** (Gazetteer): the ward whose text also describes the Tower of Luck.
 - **Trollskull Alley** (quest): where Meloon first appears.
 
 > **[GM]**
 >
 > #### Draft Notes
-> - **Conflict, temple ward:** The Dragon Heist table (`sources/adventure-wdh.json:30983-30985`) says Castle Ward. The Dragon Heist Sea Ward text (`:30882`), `campaign/setting/waterdeep-lore.md:36` and `campaign/gazetteer/waterdeep/castle-ward.md:165` and `:240` say Sea Ward. `castle-ward.md:31` repeats the table's Castle Ward listing and notes the Sea Ward placement elsewhere, and `:271` records the conflict. The retired `campaign/structure/ch2-city-of-splendors.md:56` also says Sea Ward. The campaign file wins, so this page uses the Sea Ward. The hub's temples table should show both.
+> - **Conflict, temple ward:** The Dragon Heist table (`sources/adventure-wdh.json:30983-30985`) says Castle Ward. The Dragon Heist Sea Ward text (`:30882`) and `campaign/setting/waterdeep-lore.md:36` say Sea Ward, and `campaign/gazetteer/waterdeep/castle-ward.md:240` still lists the temple under the Sea Ward. `castle-ward.md:31` repeats the table's Castle Ward listing and notes the Sea Ward placement elsewhere, `:165` now follows the table, and `:271` records the conflict. The retired `campaign/structure/ch2-city-of-splendors.md:56` also says Sea Ward. The published adventure wins on temples (ruling 1), so this page uses the Castle Ward and states the split. The hub's temples table shows the Castle Ward and notes the Sea Ward text.
 > - **Conflict, the Tyr page:** `campaign/setting/deities/tyr.md:50` says Tymora left Brightwater to be with Tyr out of duty (*The Grand History of the Realms*). The Tymora wiki page, citing the same book and page, says she left Brightwater and Selûne took her in at the Gates of the Moon. This page follows its own wiki source. Both could hold if she went to Tyr first and Selûne later, and no source says either way.
 > - **Conflict, edition:** FRHoF says her priests and temples are scarce (`research/deities/tymora/5etools.md:11`). The wiki's 3e sources say her shrines are as widespread as adventurers' need for healing. The Tower of Luck is a temple complex, so the page uses both without choosing.
 > - **Conflict, plane:** FRHoF gives Arborea (Arvandor). The wiki puts her in the Gates of the Moon after the Spellplague. The page follows FRHoF for the field and gives the wiki's realms in Influence and Followers.
 > - **Conflict, pantheon label:** The PHB 2014 entry reads "Forgotten Realms". FRHoF and SCAG read "Faerûnian", and the page follows them.
 > - **Gender in the title:** FRHoF's title is "God of good fortune" and SCAG's is "Goddess of good fortune". The metadata follows FRHoF as the model pages do, and the prose says goddess, as *Dragon Heist* does.
 > - **Edict:** The blockquote is the FRHoF and SCAG battle cry, so it is sourced and not derived. The instructions call for a derived line, and the main session may swap it.
-> - **Derived:** Areas of Concern, Trickery Domain with Thaumaturge, Oath of Glory, and the placement of the Tower of Luck in the Sea Ward as the page's reading of the conflict.
+> - **Derived:** Areas of Concern, Trickery Domain with Thaumaturge, Oath of Glory. The Tower of Luck's Castle Ward placement is the table's, not derived.
 > - **Research:** Omens beyond the two signs in *Dragon Heist*. The date of Starfall. Which of her names Waterdhavians use: the epithet line leads with Lady Luck because FRHoF lists it first and the wiki calls it her common name, but *Dragon Heist* writes only "Tymora". Whether a Waterdeep gambling house keeps a shrine. Any priest of the Tower of Luck. Whether Simril on Nightal 20 is kept in the campaign city, since the campaign calendar names the day only as the Drawing Down.
 > - **Names with no page:** Moander, Brandobaris, Erevan Ilesere, Finder Wyvernspur and Tyche are not on the roster, so they are plain text. Meloon Wardragon's quest names (**The Dragon in the Harbor**, **The Trouble with Meloon**, **Destroy the Intellect Factory**, **The Legate's Eyes**) come from his Notable Figures page and are not in the CLAUDE.md Quest Quick Reference. Only **The Trouble with Meloon** is named on this page.
 > - **Left out:** The wiki's remaining list of allies and brief romances, Tymora's powers and possessions (Silver Tear, the Stone of Tymora, the Tear of Selûne), the Zhentil Keep and Amn variants, the 1368 DR note on Iyachtu Xvim, the theory that Tymora is Tyche, and the out-of-world note on her original name. No campaign file uses them.

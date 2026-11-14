@@ -73,7 +73,7 @@ Companions who are not Lords' Alliance members gain no Renown, and each bonus ca
 
 ## Aftermath
 
-Vhaspar testifies before Magistrate Blastwind, and Halek Farran vanishes from the Sea Ward. **Halek Farran Named** is read by **Fentree's Ledger** and by **Cassalanter Villa** (unconverted). **Villa Address Identified** is read by **Cassalanter Villa** (unconverted), if it has not run. **Fentree's Ledger** becomes available when an individual Lords' Alliance member reaches Renown 10 and 6th level.
+Vhaspar testifies before Barnibus Blastwind of the Watchful Order, and Halek Farran vanishes from the Sea Ward. **Halek Farran Named** is read by **Fentree's Ledger** and by **Cassalanter Villa** (unconverted). **Villa Address Identified** is read by **Cassalanter Villa** (unconverted), if it has not run. **Fentree's Ledger** becomes available when an individual Lords' Alliance member reaches Renown 10 and 6th level.
 
 ## Involved Characters
 

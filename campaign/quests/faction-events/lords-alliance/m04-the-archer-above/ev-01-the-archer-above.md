@@ -100,7 +100,7 @@ Jalester's informant gives a district and no door. The party needs the feed stor
 
 > [!exploration]**Saeth Cromley**
 >
-> Saeth Cromley, a retired Watch sergeant who still works cases with Magistrate Blastwind, spends his afternoons in the sergeants' room at the Halls of Justice. Any character who buys him a drink for 2 gp and describes the shooter gets the answers below, and no check is needed.
+> Saeth Cromley, a retired Watch sergeant who still works cases with Barnibus Blastwind of the Watchful Order, spends his afternoons in the sergeants' room at the Halls of Justice. Any character who buys him a drink for 2 gp and describes the shooter gets the answers below, and no check is needed.
 
 > [!social]**The Retired Sergeant**
 >
@@ -393,7 +393,7 @@ If Vhaspar died before the handover, read or paraphrase the following instead:
 
 What happens next depends on whether Vhaspar lived and what the party told Jalester.
 
-- **Vhaspar alive:** He testifies before Magistrate Blastwind and goes to the cells for life, or to the rope. Halek Farran slips out of the Sea Ward within a day of the arrest, and the Watch never finds him.
+- **Vhaspar alive:** He testifies before Magistrate Blastwind (a campaign-only title for the Watchful Order investigator Barnibus Blastwind) and goes to the cells for life, or to the rope. Halek Farran slips out of the Sea Ward within a day of the arrest, and the Watch never finds him.
 - **Vhaspar dead:** Halek leaves Waterdeep within 48 hours, and no one in the Alliance learns his name.
 - **The villa dossier:** If **Cassalanter Villa** has not run, the dossier gives the party a guard rotation at the service gate and rough dimensions of the outer wall. If it has run, the dossier adds only the Renown bonus.
 - **Hollen Brask:** If warned, he returns to the quay after a tenday and does not speak of it. If not, he is dead, and the Watch records another killing from above.

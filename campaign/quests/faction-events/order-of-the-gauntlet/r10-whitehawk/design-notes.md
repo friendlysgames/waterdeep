@@ -18,4 +18,4 @@ The donation records and the Watch complaints both start in 1480 DR, which makes
 - The main-operation definition for each quest, the whistle signal at Xanathar's Lair and the ten-minute holds are invented. The five structure documents should cite the Marcheon ally and these rows, and add no further Savra perks.
 - The Siamorphe symbol row, the Kolat Towers lay-on-hands line and the City of the Dead gate rely on `arc-g`, `arc-i` and `arc-j`, which are unconverted. The Knight block has no lay-on-hands feature, so the 25 Hit Points are stated as Ardin's own act.
 - The villa has no defined orientation check yet. The fallback gives the party the six room positions.
-- The Torm chapel, the door-warden and the clerk come from the First Meeting and the tithe event. `waterdeep-lore.md:36` still puts Tyr's temple in the Sea Ward.
+- The Torm chapel, the door-warden and the clerk come from the First Meeting and the tithe event. The Dragon Heist Major Temples table puts the Halls of Justice, Tyr's temple, in the Castle Ward. The retired `waterdeep-lore.md:36` once put it in the Sea Ward, and that tension is resolved.
