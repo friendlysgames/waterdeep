@@ -236,7 +236,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 - **The Order of the Gauntlet**: Savra Belabranta's suspicion of the family.
 - **The Open Lord and the Masked Lords**: the Masked Lords with Sea Ward estates.
 - **The City Watch**: the watch boxes and the veterans' response.
-- **The Dragonward and Walking Statues**: the statue at Gull Leap on the western end of Julthoon Street.
+- **The Dragonward and Walking Statues**: the Sahuagin Humbled, which Dragon Heist places at two sites, one of them Gull Leap. That page gives both.
 - **The Deities**: the Major Temples table. **Gond**, **Mielikki**, **Silvanus**, **Mystra**, **Selûne**, **Sune**, **Tempus**, **Tymora**, **Siamorphe** and **Asmodeus**: the gods of the ward's temples and the Cassalanters' patron.
 - **Timekeeping and the Festival Calendar**: Plowing and Running, Guildsmeet and Founders' Day.
 

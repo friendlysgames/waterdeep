@@ -179,3 +179,12 @@ Retarget: `campaign/structure/arc-i-kolat-towers.md:9,316,324,325`, `campaign/gu
 - Great Harbor and Deepwater Harbor are treated as one body of water (derived).
 - The Trollwall's west side: the Sea Ward and North Ward pages disagree.
 - The mapping table in the Waterdeep page's Draft Notes (29 rows) is the proof that every `waterdeep-lore.md` block has a home; check it before deleting the file.
+
+## Still stale after the follow-up batch (Draft Notes that read as open conflicts)
+- `deities/helm.md:118`, `deities/00-the-deities.md:438`: say the Order events "placed" the Temple of Helm in the Castle Ward and list First Meeting :192 as still needing the change; all five Order files now say Southern Ward.
+- `gazetteer/waterdeep/sea-ward.md:246` (says `castle-ward.md:165,271` still deny the Tower of Luck is a Castle Ward temple; they now follow the table) and `:258` (Sahuagin Humbled "the statues page should settle it"; it does, with two sites).
+- `gazetteer/waterdeep/north-ward.md:281` (quotes `arc-i:33` as "Trades Ward, not the North Ward"; it now reads Southern Ward).
+- `governance-and-guilds/city-watch.md:129` (says `castle-ward.md:175` calls Barnibus a magistrate; it now says investigator).
+- `geography/waterdeep.md:151` (Tower of Luck note says `00-the-deities.md:320` and `castle-ward.md:165,271` disagree; both now agree).
+- `gazetteer/waterdeep/field-ward.md:218` (the Marcheon list's Temple of Helm now says Southern Ward) and `:244`, `dock-ward.md:305` (cite the deleted `waterdeep-lore.md:19` for "most dangerous"; wait for the user's ranking answer).
+- Still open by design: Doom Raiders and Emerald Enclave event lines that say Trades Ward for Kolat Towers; `deities/bane.md:75`; Samara's North Ward misdirection.
