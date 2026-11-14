@@ -134,3 +134,15 @@ Retarget: `campaign/structure/arc-i-kolat-towers.md:9,316,324,325`, `campaign/gu
 - Wiki dates: infobox 1248 DR, wall 1064 DR, portals 1250 DR. The wiki calls it "cemetery and ward"; Dragon Heist and the campaign give no ward.
 - The Garloth mausoleum (`adventure-wdh.json:7479`) and the Cassalanter mausoleum scene (`:8308`, survivor Vaelle Lurval at `10-seffia-naelryke.md:68`) are used by no campaign file.
 - Eye #2 holder: the page follows `running-the-villains.md:23` (the Cassalanters found it by infernal divination). This is still the open Seffia question on the handoff.
+
+## From the Stone of Golorr drafter
+- **Decision for the user:** the Stone page Overview says "Rumor holds that someone stole it some years ago" (tagged [research]). No source says ordinary Waterdhavians know the Stone exists. Keep it, or cut the Overview to the aboleth-forged line only.
+- **Decision for the user:** the command phrase. `running-the-villains.md:32`, `arc-f:276`, `arc-g:339`, `arc-i:281` say the Stone gives it at the third Eye; `arc-h:408` says it is "not spoken" and awaits the ritual; `arc-j:61` (Full Awakening) does not mention one. The page does not claim the awakening speaks it.
+- Retarget **The Eyes of the Stone** to this page's H1: `campaign/quests/act-i/finding-floon/ev-03-zhentarim-warehouse.md:83`, `campaign/locations/zhentarim-warehouse/z05-offices.md:11`, `campaign/locations/xanathar-sewer-hideout/area-overview.md:80` (its "where Jarlaxle already holds the Eye" wording reads as Sea Maidens Faire), `session 47 handoff.md:241`.
+- Eye holders: `arc-e-faction-outposts.md:33` (a drow arms dealer, "eleven years ago") matches nothing else; `arc-a-finding-floon.md:27` (superseded) still sends Eye #3 to Kolat Towers; `arc-h:253-255` count labels "Eye #1/#2/#3" collide with holder numbering; the Alexandrian calls the crypt Eye the "Third Eye".
+- Stone holders that conflict with the campaign path (Xanathar, Dalakhar, Gralhund Villa, party): `castle-ward.md:85`, `deities/agorn-fuoco.md:26`, `deities/amath-seccent.md:26` (Amath holds the Stone; `deities/bane.md:134` already flags it), `notable-figures/.../06-fenerus-stormcastle.md:22,26` (Fenerus hides it), `notable-figures/.../korgstrod-uxgulm.md:22,26` (a fake).
+- Gralhund recovery: `running-the-villains.md:19` says the Gralhunds recovered it from the blast site; `fireball/ev-01:33` has the nimblewright take it from the body; `history/08:58` calls the keeper unsettled.
+- Legacy outcome headings (`#### X: True / False`): Fireball! `ev-06:103`, `ev-07:119`, `ev-08:79`, `ev-04:125`; Gralhund Villa `ev-07:74`.
+- Xanathar and the vault: the published account (`adventure-wdh.json:32760`) conflicts with `villains/xanathar.md:62`; `xanathar.md:110` may misquote `arc-j:19`.
+- The published uncooperative Stone and its amnesia (`adventure-wdh.json:6281`) are not used; whether the amnesia applies to the party is [research].
+- Illuun, Sylgar, Hlam, Alethea Brandath, the Candle Lane warehouse and the Protector's Enclave have no pages (plain text).
