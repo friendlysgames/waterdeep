@@ -88,3 +88,15 @@ Retarget: `campaign/structure/arc-i-kolat-towers.md:9,316,324,325`, `campaign/gu
 - `SOURCE_GUIDE.md:154,264` promise Watch jurisdiction and response-time sections that the research did not find.
 - Savra's alignment: lawful good on her page, NG in the adventure (`:3949`).
 - Three more files use the Watch or Cavalry and are not in the City Watch Summary: The Rooftop Chase (`ev-08:47,50`), Silencing Skeemo's chase (`ev-02:79`), The Tithe (`ev-01:19,100`).
+
+## From the Southern Ward drafter
+- Helm's Hall (Southern Ward by the temples table) is still placed in the Castle Ward at `deities/helm.md:58`, `deities/00-the-deities.md:438`, `guides/gm-guide/player-factions-overview.md:99`, `castle-ward.md:165,272`, and Order of the Gauntlet `r03-marcheon:201,222`, `r10-whitehawk:150`, `s01-the-tithe:97`.
+- More Kolat Towers (Trades Ward) lines to retarget: `deities/bane.md:75`, `history/04-the-founding-of-chains.md:162,174`, `history/08-the-players-arrive.md:139`, `s02-davils-return/design-notes.md:17` (the Doom Raiders wording may stay as in-fiction error until **Manshoon Named**); `adventure-wdh.json:26797` also says Southern Ward.
+- "South Ward" spellings (Dragon Heist says "Southern Ward, not the South Ward", `:31048`): `gralhund-villa/ev-09-aftermath.md:77,111`, `harpers/r50-high-harper/ev-01-high-harper.md:312,320`, `bregan-daerthe/r10-officer/ev-01-officer.md:152`, `structure/arc-d-gralhund-villa.md:331,339`.
+- `deities/yondalla.md:120` says no Southern Ward page exists (stale).
+- Ley-line wound ward: `arc-e-faction-outposts.md:85` and `r03-summerstrider/ev-01-summerstrider.md:189` say Southern Ward; `organizations/03-emerald-enclave.md:41` says Sea Ward.
+- Windmill street: the campaign gives Coachlamp Lane; Dragon Heist names none; `SOURCE_GUIDE.md:219` says North Ward.
+- Orb Confectioners is in no published file; only `Appendix_C_-_Player_Faction_Missions.md:1875` and campaign files name it.
+- The Waymoot's ward: Dragon Heist (`:31115-31116`) names none; the Doom Raiders design note says Dock Ward. Settle it with the Dock Ward and Field Ward pages.
+- Volo's Guide to Waterdeep edition tag: `north-ward.md:22,198` say 5e; the Southern Ward drafter thinks 2e. Verify.
+- Pronouns for Jeryth, Seffia, Arn and Manshoon come from page prose and Dragon Heist; confirm.
