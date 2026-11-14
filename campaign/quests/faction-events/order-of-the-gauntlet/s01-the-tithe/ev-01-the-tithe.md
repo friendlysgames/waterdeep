@@ -94,7 +94,7 @@ A member who knows of the Order's expectation can pay at any time on days one an
 >
 > Hallin takes the coin for any of the four causes below, and Savra ranks none of them. A member can instead pay a cause directly and bring the receipt to Hallin to countersign before dusk.
 >
-> - **Temple of Helm, Castle Ward.** Helm's priests run a hospice wing for Watch veterans and their families, and the donation goes to the healing work.
+> - **Temple of Helm, Southern Ward.** Helm's priests run a hospice wing for Watch veterans and their families, and the donation goes to the healing work.
 > - **Halls of Justice, Legal Aid Fund.** Tyr's clergy argue for Field Ward residents who cannot afford a hearing before the Lords, and the fund is always short.
 > - **Field Ward Soup Houses.** Three independent kitchens feed about four hundred people a day, and all three are underfunded.
 > - **Griffon Cavalry Dependents Fund.** The families of Cavalry riders who were killed or maimed in service receive the money. Savra does not name this cause, and if a member chooses it she says nothing further.

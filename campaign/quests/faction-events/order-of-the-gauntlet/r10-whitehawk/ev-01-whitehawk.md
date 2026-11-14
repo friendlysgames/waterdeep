@@ -147,7 +147,7 @@ Every qualifying member is invited on their own account, so several members who 
 
 > [!exploration]**The Triad's Spells**
 >
-> - **Contact:** the member gives their name at the front desk of one temple and says that Savra Belabranta vouches for them. The temples are the Halls of Justice, the Temple of Helm in the Castle Ward and the Chapel of the Steadfast Shield in the Dock Ward. The door-warden, Brother Haldric, is the contact at the Halls.
+> - **Contact:** the member gives their name at the front desk of one temple and says that Savra Belabranta vouches for them. The temples are the Halls of Justice, the Temple of Helm in the Southern Ward and the Chapel of the Steadfast Shield in the Dock Ward. The door-warden, Brother Haldric, is the contact at the Halls.
 > - **What is cast:** one spell from the list below, cast by the priest on duty, at the temple, between the second bell of morning and dusk. The temple covers every component worth less than 100 gp, and the priest lends a holy symbol for *Bless*.
 > - **Level 1:** *Bless*, *Cure Wounds*, *Detect Evil and Good* and *Healing Word*.
 > - **Level 2:** *Aid*, *Augury*, *Calm Emotions*, *Gentle Repose*, *Lesser Restoration*, *Locate Object*, *Prayer of Healing* and *Zone of Truth*.

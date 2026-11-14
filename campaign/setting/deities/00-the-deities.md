@@ -301,14 +301,14 @@ This table sorts the powers by option. A power is listed under an option only wh
 
 ## Waterdeep's temples
 
-Dragon Heist prints a table of the Major Temples of Waterdeep. The list below starts from it and adds the temples that campaign files place in the city. Where a campaign file and the table disagree on a ward, the campaign file sets the ward and Draft Notes record the other.
+Dragon Heist prints a table of the Major Temples of Waterdeep. The list below starts from it and adds the temples that campaign files place in the city. Where a campaign file and the table disagree on a ward, the table sets the ward (the published adventure wins on temples) and Draft Notes record the other.
 
 | Temple | Power | Ward | Source |
 |---|---|---|---|
 | Holyhands House | All deities | North Ward | Dragon Heist, Major Temples table |
 | Temple of the Seldarine | All elven deities (**Corellon Larethian** has no temple of his own) | Castle Ward | Dragon Heist, Major Temples table; Castle Ward gazetteer |
 | House of Inspired Hands | **Gond** | Sea Ward | Dragon Heist; **Fireball!** |
-| Temple of Helm (Dragon Heist prints "Helm's Hall") | **Helm** | Castle Ward | Order of the Gauntlet files |
+| Temple of Helm (Dragon Heist prints "Helm's Hall") | **Helm** | Southern Ward | Dragon Heist, Major Temples table; Order of the Gauntlet files |
 | Hospice of St. Laupsenn | **Ilmater** | North Ward | Dragon Heist, Major Temples table |
 | Spires of the Morning | **Lathander** | Castle Ward | Dragon Heist; Castle Ward gazetteer |
 | Shrines of Nature | **Mielikki** and **Silvanus** | Sea Ward | Dragon Heist, Major Temples table |
@@ -317,7 +317,7 @@ Dragon Heist prints a table of the Major Temples of Waterdeep. The list below st
 | Tower of the Moon (also called the House of the Moon) | **Selûne** | Sea Ward | Dragon Heist; Waterdeep lore |
 | Temple of Beauty | **Sune** | Sea Ward | Dragon Heist, Major Temples table |
 | House of Heroes | **Tempus** | Sea Ward | Dragon Heist, Major Temples table and Sea Ward text |
-| Tower of Luck | **Tymora** | Sea Ward | Waterdeep lore; Dragon Heist Sea Ward text |
+| Tower of Luck | **Tymora** | Castle Ward (the Dragon Heist Sea Ward text also describes it) | Dragon Heist, Major Temples table; Dragon Heist Sea Ward text |
 | Halls of Justice | **Tyr** | Castle Ward | Dragon Heist; Castle Ward gazetteer |
 | The Queenspire | **Umberlee** | Beach (Dragon Heist; no ward named) | Dragon Heist; Force Grey mission The Dragon in the Harbor |
 | Chapel of the Steadfast Shield | **Torm** | Dock Ward | Order of the Gauntlet files |
@@ -415,7 +415,7 @@ This journal gathers the powers that a character in Waterdeep might follow or ba
 - `docs/plans/setting-compendium-pass2-subclass-reference.md` and `docs/plans/setting-compendium-pass2-repass-instructions.md`: the 34 available options with their sources, and the rules of the subclass re-pass that the fit tables follow.
 - `campaign/setting/waterdeep-lore.md` (line 36): Tymora and Selûne as the Sea Ward's major temples; the Halls of Justice and the House of Inspired Hands.
 - `campaign/gazetteer/waterdeep/castle-ward.md` (lines 164 to 166): the Castle Ward temples, the Tower of Luck and Temple of Helm placement notes, and the missing hooks.
-- `campaign/quests/faction-events/order-of-the-gauntlet/r03-marcheon/ev-01-marcheon.md` (lines 201 and 229), `r10-whitehawk/ev-01-whitehawk.md` (line 150) and `00-first-meeting/ev-01-first-meeting.md` (line 192): the Temple of Helm in the Castle Ward and the Chapel of the Steadfast Shield in the Dock Ward.
+- `campaign/quests/faction-events/order-of-the-gauntlet/r03-marcheon/ev-01-marcheon.md` (lines 201 and 229), `r10-whitehawk/ev-01-whitehawk.md` (line 150) and `00-first-meeting/ev-01-first-meeting.md` (line 192): the Temple of Helm and the Chapel of the Steadfast Shield in the Dock Ward.
 - `campaign/quests/faction-events/doom-raiders/m03-the-missing-snobeedle/ev-01-the-missing-snobeedle.md` (lines 128 and 166): the Yondalla shrine on Larkhaven Street.
 - `campaign/quests/faction-events/force-grey/m02-the-dragon-in-the-harbor/overview.md` (lines 17 and 23): the Queenspire and Meritide Blackfin.
 - `campaign/quests/act-ii/fireball/ev-03-the-nimblewright-hunt.md` (line 31): the House of Wonder.
@@ -426,7 +426,7 @@ This journal gathers the powers that a character in Waterdeep might follow or ba
 
 - **Waterdeep** (Setting): the city and its wards, with **Sea Ward** for the Sea Ward temples.
 - **The History** and **Timekeeping and the Festival Calendar** (Setting): the Godswar and the festival calendar, including Gods' Day.
-- **Castle Ward** (Gazetteer): the Castle Ward temples.
+- **Castle Ward** (Gazetteer): the Castle Ward temples, including the Tower of Luck. **Southern Ward** (Gazetteer): Helm's Hall.
 - **The Order of the Gauntlet**, **Force Grey**, **The Zhentarim (Doom Raiders)** and **Bregan D'aerthe** (Organizations): the factions whose missions use the powers named in GM Notes.
 - **Fireball!** and **Vault of Dragons** (quests): the quests that use Gond, Mystra, Bahamut and Moradin.
 - Every power named in bold above (Deities): one page each.
@@ -434,8 +434,8 @@ This journal gathers the powers that a character in Waterdeep might follow or ba
 > **[GM]**
 >
 > #### Draft Notes
-> - **Conflict, Tymora's ward:** The Dragon Heist table puts the Tower of Luck in the Castle Ward (`sources/adventure-wdh.json:30983-30985`). The Sea Ward text puts it in the Sea Ward, a block from the Shrines (`:30882`, `:30884`), and so do `campaign/setting/waterdeep-lore.md:36` and `campaign/gazetteer/waterdeep/castle-ward.md:165`. The table above follows the campaign files and the Sea Ward text.
-> - **Conflict, Helm's temple:** The Dragon Heist table lists "Helm, Helm's Hall, Southern Ward" (`sources/adventure-wdh.json:30938-30940`). The Order of the Gauntlet files place the Temple of Helm in the Castle Ward (`campaign/quests/faction-events/order-of-the-gauntlet/r03-marcheon/ev-01-marcheon.md:201`; `r10-whitehawk/ev-01-whitehawk.md:150`). The table above follows the campaign. No file says Helm's Hall is the same building, though the Helm page treats it as the published name. The Castle Ward gazetteer (`castle-ward.md:165`) calls the ward unsettled and leaves the temple off its list.
+> - **Conflict, Tymora's ward:** The Dragon Heist table puts the Tower of Luck in the Castle Ward (`sources/adventure-wdh.json:30983-30985`). The Sea Ward text describes it among that ward's temples, a block from the Shrines (`:30882`, `:30884`), and so does `campaign/setting/waterdeep-lore.md:36`. The published adventure wins on temples (ruling 1), so the table above follows the Major Temples table and the Castle Ward, and the Sea Ward text is the other side of the split. `campaign/gazetteer/waterdeep/castle-ward.md:165` now follows the table too.
+> - **Conflict, Helm's temple:** The Dragon Heist table lists "Helm, Helm's Hall, Southern Ward" (`sources/adventure-wdh.json:30938-30940`). The Order of the Gauntlet files placed the Temple of Helm in the Castle Ward (`campaign/quests/faction-events/order-of-the-gauntlet/r03-marcheon/ev-01-marcheon.md:201`; `r10-whitehawk/ev-01-whitehawk.md:150`). The published adventure wins on temples (ruling 1), so the table above follows the Major Temples table and the Southern Ward. No file says Helm's Hall is the same building as the Temple of Helm, though the Helm page treats it as the published name. The Castle Ward gazetteer (`castle-ward.md:165`) leaves the temple off its list.
 > - **Conflict, Selûne's temple name:** The Dragon Heist table says "Tower of the Moon" (`sources/adventure-wdh.json:30969`). The Sea Ward text, the Selûne's Hallowing entry and the Mad Mage text say "House of the Moon". The Selûne page uses Tower of the Moon and the Shar page uses House of the Moon (`campaign/setting/deities/shar.md:113`). The table gives both names, and the two pages need one name.
 > - **Conflict, Mystra's temple:** `campaign/setting/waterdeep-lore.md:36` lists only Tymora and Selûne as the Sea Ward's major temples. The Dragon Heist table (`sources/adventure-wdh.json:30957-30961`), the Sea Ward text (`:30880`) and the **Fireball!** sweep (`campaign/quests/act-ii/fireball/ev-03-the-nimblewright-hunt.md:31`) put the House of Wonder there, so the table follows them.
 > - **Conflict, the Queenspire:** The table above shows "Beach (Dragon Heist; no ward named)" (`sources/adventure-wdh.json:30993-30995`). The campaign calls the water "Deepwater Harbor" (`campaign/quests/faction-events/force-grey/m02-the-dragon-in-the-harbor/overview.md:21`) and Dragon Heist writes "Great Harbor" (`:31394`). No source says whether they are the same. [research]

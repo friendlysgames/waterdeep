@@ -198,7 +198,7 @@ A Marcheon operation counts as Savra fighting beside the member for **Savra's Pa
 
 > [!exploration]**Asking a Temple**
 >
-> - **Contact:** the member names Savra to the door-warden of one of the three temples. At the Halls of Justice the door-warden is Brother Haldric Wence. The others are the Temple of Helm in the Castle Ward and the Chapel of the Steadfast Shield, a Torm chapel in the Dock Ward.
+> - **Contact:** the member names Savra to the door-warden of one of the three temples. At the Halls of Justice the door-warden is Brother Haldric Wence. The others are the Temple of Helm in the Southern Ward and the Chapel of the Steadfast Shield, a Torm chapel in the Dock Ward.
 > - **Notice:** no notice is needed, and a priest sees the member the same day in a side room and speaks for about a quarter of an hour.
 > - **The briefing:** the priest gives the next pattern on that temple's list, from **The Three Lists** below. Each pattern is a handful of facts about a ward and a kind of event, with no names in it.
 > - **Limit:** one briefing each tenday, from one temple, counted from the day of that member's last briefing. After the fourth pattern, a temple repeats the list and says that it has nothing new.
@@ -219,7 +219,7 @@ A Marcheon operation counts as Savra fighting beside the member for **Savra's Pa
 > 3. A witness in a Trades Ward case who changed their account between two hearings.
 > 4. A warrant requested for a Dock Ward address and withdrawn the next morning.
 >
-> **Temple of Helm (Castle Ward)**
+> **Temple of Helm (Southern Ward)**
 >
 > 1. Watchers standing at doors that nobody on the Watch had posted.
 > 2. Two watch-houses in the Field Ward that were shuttered after dark for a tenday.
