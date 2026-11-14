@@ -111,3 +111,14 @@ Retarget: `campaign/structure/arc-i-kolat-towers.md:9,316,324,325`, `campaign/gu
 - `campaign/guides/trollskull-manor/03-staff-and-hiring.md:107` has an inconsistent Dock Ward and Field Ward reference (Grevik Nass).
 - Justyn Rassk is a Field Ward native in Dragon Heist (`:4124`); no campaign file gives a home ward.
 - Pell the Guild dealer and Pell Tormar the Harper clerk are different people.
+
+## From the Dock Ward drafter
+- **Decision for the user:** which ward is the most dangerous. Dragon Heist (`adventure-wdh.json:31061`) says the Field Ward has taken the title from the Dock Ward; `waterdeep-lore.md:19` says Dock Ward; the wiki says "particularly dangerous". The Dock Ward page states all three and ranks none.
+- `castle-ward.md:14,40`: the Secret says the Castle Ward sewer stair leads to Xanathar's lair "mapped in **Xanathar Sewer Hideout**". That journal's overview (`campaign/locations/xanathar-sewer-hideout/area-overview.md`) is the Finding Floon vault (ev-04); Xanathar's Lair (Act III) has no location journal yet. Retarget the cross-reference.
+- Chirada's letter against the hideout overview: `gralhund-villa/g12-family-library.md:13` says the Second Eye went from the Dock Ward warehouse to Yellowspire; `xanathar-sewer-hideout/area-overview.md:74-75` says the locket's Eye went to the hideout and was lifted by Bregan D'aerthe. Possibly two different Eyes.
+- `notable-figures/.../07-malcolm-brizzenbright.md:26` describes a secret door from the Seven Masks Theater to the Vault of Dragons; the vault entrance is in the City of the Dead.
+- Dock Ward courthouse: Dragon Heist `:6672`, `:10558` (Dock Ward) against `:6710` (Castle Ward); the page keeps the Castle Ward courts.
+- Istrid Horn's loan: 2,500 gp (Dragon Heist) against 200 gp (campaign; the page uses the campaign figure).
+- Sea Maidens Faire pier: Mistshore (`arc-h`) against Smugglers' Dock (the Faire's area overview; the page follows the overview).
+- Torm's Chapel has no row in the temples table; Winterstalker `ev-01:319` still says Trades Ward for Kolat Towers.
+- Pronouns for Krebbyg, Soluun, Corene, Filthy Meg and Grinda Garloth come from page prose; confirm.
