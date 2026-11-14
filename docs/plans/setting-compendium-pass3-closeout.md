@@ -169,3 +169,13 @@ Retarget: `campaign/structure/arc-i-kolat-towers.md:9,316,324,325`, `campaign/gu
 - Prices: mirrors 5 gp each (published), 20 gp each (Alexandrian) or 400 gp total (campaign); dragon scale about 900 gp (campaign) against 1d6 x 300 gp (Alexandrian). The page uses the campaign figures.
 - The 2024 *daylight* spell as sunlight (`arc-j:118`) and the wiki's claim that the public knew of the embezzlement by 1492 DR (`wiki.txt:69`, cited to Dragon Heist pp.6-7, not found in the JSON) are unverified.
 - Laeral's "taxes, decree, lock no Masked Lord could open" account (`lioncrown/ev-01:257`, `history/07:52`) is the only campaign statement of how the gold was held.
+
+## From the Waterdeep overview drafter
+- `campaign/setting/history/00-the-history.md:57` cross-references **Waterdeep: Lore**, which the new **Waterdeep** page replaces. About 44 files under `campaign/` name `waterdeep-lore.md` or "Waterdeep: Lore" (deity pages, History pages, ward pages, governance pages, `structural-rules.md`, Order of the Gauntlet design notes); `CLAUDE.md` still lists it under Setting.
+- The adventure's Sundering text says "beginning in 1482 DR" (`adventure-wdh.json:30487`); campaign canon is 1487. The Waterdeep page gives no Sundering date.
+- Wiki Watch main base (the Palace): the Waterdeep page and the City Watch page send it to Draft Notes. Say whether the Palace base shapes play.
+- `trades-ward.md:175` says the wiki lists "a dozen guildhalls" in the Trades Ward and `guilds.md:36` says thirteen.
+- Population variants in the wiki (1,347,680, 1,347,800, 1,347,840); the pages use 1,347,680. Peoples percentages carry no edition in the wiki; the ward pages call them 2e. Unverified.
+- Great Harbor and Deepwater Harbor are treated as one body of water (derived).
+- The Trollwall's west side: the Sea Ward and North Ward pages disagree.
+- The mapping table in the Waterdeep page's Draft Notes (29 rows) is the proof that every `waterdeep-lore.md` block has a home; check it before deleting the file.
