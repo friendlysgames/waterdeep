@@ -196,7 +196,7 @@ The Dock Ward is the part of Waterdeep that works for a living, a steep ward of 
 
 ### Culture
 - Most residents are poor and work hard. Dragon Heist adds that the ward holds some of the least literate people in the city, that most of its taverns hold habitual drinkers, and that there is less reading material here than anywhere but the Field Ward.
-- The wiki quotes Elminster calling the ward a perpetual brawl that spreads over acres and stinks of rotting fish. Dragon Heist says the Dock Ward was long the most dangerous district in the city and that the Field Ward has since taken the title. The campaign outline still calls the Dock Ward the most dangerous. This page does not rank the wards, and treats the Dock Ward as dangerous after dark.
+- The wiki calls the ward particularly dangerous and quotes Elminster calling it a perpetual brawl that spreads over acres and stinks of rotting fish (wiki, past tense, no edition given). Dragon Heist says the Dock Ward was long the most dangerous district in the city and that the Field Ward has since taken the title, and it adds that in some respects the ward never deserved its bad reputation. The Dock Ward held the title for years and lost it, and it is still dangerous after dark.
 - The streets are steep and hard to read. Shop signs appear only near the piers, and warehouses often have none, so a visitor either knows where to go or is lost and a likely mark for pickpockets. Streetlamps lose their candles and glass as fast as the lamplighters replace them, and locals carry their own light at night. Yellow chalk eye marks on alley walls show Xanathar's territory to anyone who knows them.
 - Ward pride is burgundy and orange and the green swordfish. The ward drafts its champions from the rough sailors who come to the city, and residents complain that these champions are citizens of the sea more than of the ward. A sailor who registers with a magister and pays taxes may compete as freely as a long-term resident.
 - Three Daggers Alley carries an old curse. Three daggers appear out of thin air and attack anyone who crosses it, and the attack comes at random (Dragon Heist).
@@ -236,7 +236,7 @@ The Dock Ward is the part of Waterdeep that works for a living, a steep ward of 
 
 ## Overview
 
-The Dock Ward is Waterdeep's waterfront, a steep ward of piers, shipyards, warehouses and tenements on the Great Harbor. Along with the Field Ward, it is where most of the city's poor live. Streetlamps are stolen or smashed as fast as they are replaced, so locals carry their own light after dark. The ward has an old reputation for brawls, and it flies burgundy and orange with a green swordfish for a mascot.
+The Dock Ward is Waterdeep's waterfront, a steep ward of piers, shipyards, warehouses and tenements on the Great Harbor. Along with the Field Ward, it is where most of the city's poor live. Streetlamps are stolen or smashed as fast as they are replaced, so locals carry their own light after dark. The ward has an old reputation for brawls, and for years it was held to be the most dangerous in the city until the Field Ward took the title. It flies burgundy and orange with a green swordfish for a mascot.
 
 ## Read Aloud
 
@@ -273,7 +273,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 - **Castle Ward**: the neighbor the Honorable Knight orientation names, and the page that places the magister courts.
 - **Southern Ward**: the neighbor across the Way of the Dragon, and the page that holds Kolat Towers.
 - **Trades Ward**: Fenerus Stormcastle's house, the Splinter's safe houses and Corene Wyldath's bench.
-- **Field Ward**: the other ward where most of the city's poor live.
+- **Field Ward**: the other ward where most of the city's poor live, and the ward that took the most dangerous title from this one.
 - **The City Watch**: the squads, the post and the Harbor Watch.
 - **The Guilds**: the guild halls of the sea trades.
 - **The Code Legal and the Magisters**: the magisters who release prisoners from the Ship Street watchhouse.
@@ -299,10 +299,10 @@ Sensory anchors for the GM to build the passage from (not written out):
 > **[GM]**
 >
 > #### Draft Notes
-> - **Settled by ruling 1:** Kolat Towers. The Splinter regulars at the Skewered Dragon report to Kolat Towers, and the page treats the tower as a Southern Ward tower. The published Trades Ward reading is `sources/adventure-wdh.json:560`, and the Southern Ward readings are `:32215` and `:32218`. The wiki bundles do not mention Kolat Towers. Still open: `emerald-enclave/r25-winterstalker/ev-01-winterstalker.md:319` (the Splinter's trader wagon goes to "Kolat Towers in the Trades Ward") still says Trades Ward, and the user decides whether it is an in-fiction intel error.
+> - **Settled by the user (Session 50):** Kolat Towers. The Splinter regulars at the Skewered Dragon report to Kolat Towers, and the tower stands in the Southern Ward. The published Trades Ward reading is `sources/adventure-wdh.json:560`, and the Southern Ward readings are `:32215` and `:32218`. The wiki bundles for this page do not mention Kolat Towers, and the user settled it from the wiki's own Kolat Towers page. `emerald-enclave/r25-winterstalker/ev-01-winterstalker.md:319` (the Splinter's trader wagon) now says the Southern Ward.
 > - **Settled by ruling 1:** Helm's Hall. The Dragon Heist table places it in the Southern Ward (`sources/adventure-wdh.json:30938-30940`), and the Order of the Gauntlet events now agree (`order-of-the-gauntlet/00-first-meeting/ev-01-first-meeting.md:192`, `r03-marcheon/ev-01-marcheon.md:201, 222`). The page states the Southern Ward in Culture.
 > - **Conflicts:** The Chapel of the Steadfast Shield. The Dragon Heist table has no Torm row, and the chapel comes only from the Order's files (`deities/torm.md:66-67`). The page keeps it in the ward and does not make it a landmark, because no file gives it more than a name and a list of briefings.
-> - **Conflicts:** Most dangerous ward. Dragon Heist says the Field Ward has taken the title (`sources/adventure-wdh.json:31061`). The campaign outline (`waterdeep-lore.md:19`) says the Dock Ward is the most dangerous, and the wiki says "particularly dangerous" (`dock-ward/wiki.txt:93`). The page states all three and ranks neither. The Overview says only that the ward has an old reputation for brawls. The main session decides.
+> - **Settled by the user (Session 50):** Most dangerous ward. The Field Ward holds the title (`sources/adventure-wdh.json:31061`), and the Dock Ward held it for years and lost it. The retired outline's Dock Ward claim (`waterdeep-lore.md:19`) is dropped, and the wiki's "particularly dangerous" (`dock-ward/wiki.txt:93`) stays as colour.
 > - **Conflicts:** The Xanathar Sewer Hideout's ward. `finding-floon/ev-04-xanathar-sewer-hideout.md:133` and `overview.md:55` put the hideout beneath the Dock Ward, and Dragon Heist's Cellar Complex text puts a Guild hideout under the Southern Ward (`:11960`). Unresolved.
 > - **Settled:** The Xanathar Sewer Hideout and the lair. The Castle Ward page (lines 14 and 40) now says the secret stair from the Castle Ward sewers leads to the lair, that the lair has no location journal yet, and that **Xanathar Sewer Hideout** maps the Finding Floon vault, not the lair.
 > - **Conflicts:** The Skewered Dragon's street. Dragon Heist puts it on an alley between Net Street and Fillet Lane (`:1699, 1787`), the Harpers' **The Doppelganger Auditions** puts it on the corner of Fillet Lane and Net Street (`ev-01-the-doppelganger-auditions.md:211`), and `finding-floon/ev-01-yawning-portal.md:123` has Volo say it stands on Dock Street. The page follows Dragon Heist.
