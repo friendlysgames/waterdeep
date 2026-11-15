@@ -24,5 +24,5 @@ Invented:
 - The dais and the sluice in the cistern chamber.
 
 Outside this folder, for the out-of-scope log:
-- The Southern Ward row in the **Summerstrider** table carries the force-field line, which is gated on **Manshoon Named**, and the Trades Ward row there is a plain "nothing". The M5 report here is separate and names nothing.
+- The Trades Ward row in the **Summerstrider** table is gated on **Manshoon Named**. The M5 report here is separate and names nothing.
 - **The Dreamer's Reach** must use Gerrick's padlock, the spare key and the sluice thread.

@@ -50,7 +50,7 @@ Each faction moves through four tiers: Unaware, Suspicious, Alert, and Lockdown.
 
 **Manshoon** underestimates threats that aren't magical. A party that avoids Kolat Towers and doesn't advertise itself through arcane channels can operate at Suspicious tier for multiple sessions before he escalates. His preference for capturing over killing creates tactical openings, since a confrontation often produces a job offer before a fight.
 
-**The Cassalanters** are largely binary. In passive mode they barely react; their outpost network is focused on gathering gold and ritual components, not the PCs. The switch to hostile mode happens when the PCs are identified as a threat to their plan to meet Asmodeus's contract, and they move directly to Willifort Crowelle's full operation. They prefer Alert to Lockdown because the less visible their pursuit, the better their political position. When they do escalate to Lockdown, they exhaust city leverage first: Watch complaints, noble pressure, guild sanctions. Infernal force is the last resort.
+**The Cassalanters** are largely binary. In passive mode they barely react; their outpost network is focused on gathering gold and ritual components, not the PCs. The switch to hostile mode happens when the PCs are identified as a threat to the soul-pact plan, and they move directly to Willifort Crowelle's full operation. They prefer Alert to Lockdown because the less visible their pursuit, the better their political position. When they do escalate to Lockdown, they exhaust city leverage first: Watch complaints, noble pressure, guild sanctions. Infernal force is the last resort.
 
 **Jarlaxle** almost never reaches Lockdown without choosing to. His default response is leverage and observation. Direct confrontation comes only when the PCs have killed his lieutenants without first offering terms, and even then he opens with an offer.
 
@@ -95,8 +95,8 @@ He can also be reasoned with, and even joined. Membership opens during **Trollsk
 
 - [Running the Villains](running-the-villains.md) — faction knowledge at campaign start, full escalation table, inter-faction operations matrix, response team rosters, and revelation lists
 - [Structural Rules](structural-rules.md) — faction response team mechanics, festival calendar, Three Clue Rule
-- **The Grand Game** and **What Each Faction Knows at Start** (Setting) — in-world texture of how power moves in Waterdeep, and the starting-knowledge table with what each faction is doing
-- **Xanathar**, **Manshoon**, **The Cassalanters** and **Jarlaxle Baenre** (Setting: Villains) — personality phases and goals
+- [Setting: Grand Game](../../setting/grand-game.md) — in-world texture of how power moves in Waterdeep
+- [Setting: Villains](../../setting/villains/) — personality phases and goals for Xanathar, Manshoon, the Cassalanters, and Jarlaxle
 - [Bregan D'aerthe](../factions/08-bregan-daerthe.md) — response teams, revelation list
 - [Xanathar's Guild](../factions/09-xanathars-guild.md) — response teams, revelation list
 - [Manshoon's Zhentarim](../factions/10-manshoons-zhentarim.md) — response teams

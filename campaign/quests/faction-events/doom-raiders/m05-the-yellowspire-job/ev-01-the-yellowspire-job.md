@@ -24,7 +24,7 @@ At dusk on the day the member qualifies, a flying snake with silvery scales brin
 > - **Skeemo Silenced.** If **Skeemo Silenced** is marked, he is dead and nothing changes.
 > - **Skeemo Letters Recovered.** If **Skeemo Letters Recovered** is marked, Tashlyn has already decoded three paper-bird letters that name Vevette Blackwater. Davil mentions this in the brief, and Tashlyn wants the letters in the desk to show what Vevette has ordered since. The recovered letters corroborate the paper-bird letters, and the **Vevette Letters Recovered** bonus is unchanged.
 > - **Watch File Opened.** If **Watch File Opened** or **Skeemo Handed to the Watch** is marked, the Watch is tracking Doom Raiders movements. Castle Ward patrols are heavier, and a Watch pair now walks the lane from midnight to dawn, so deep night is no longer quiet. The pair passes the tower's door every half hour, and a character on the outer wall or at the door must make a DC 13 Dexterity (Stealth) check in each such pass or be seen. A seen party must be gone or explain itself to the pair, who arrest no one without a complaint from Amath, and she will not complain because the Watch would find the handprints. The pair records the names of anyone it sees.
-> - **Manshoon Named.** Until **Manshoon Named** is marked, every Doom Raider says "Floxin's cell", "the other cell" or "the Splinter", and calls Kolat Towers "the towers in the Southern Ward". The truth is that Manshoon lives there and directs Urstul Floxin from behind him. If **Manshoon Named** is marked, Davil and Tashlyn may use the name and may say Kolat Towers.
+> - **Manshoon Named.** Until **Manshoon Named** is marked, every Doom Raider says "Floxin's cell", "the other cell" or "the Splinter", and calls Kolat Towers "the towers in the Trades Ward". The truth is that Manshoon lives there and directs Urstul Floxin from behind him. If **Manshoon Named** is marked, Davil and Tashlyn may use the name and may say Kolat Towers.
 > - **Floxin Status.** If the **Gralhund Villa** outcome **Floxin Status** is Dead or Captured, no Doom Raider says "Floxin's cell". They say "the other cell" instead, and Davil uses the Dead or Captured answer in **Who runs the other cell?**
 
 If the suite is unsealed, read or paraphrase the following:
@@ -53,7 +53,7 @@ If **Manshoon Named** is not marked, read or paraphrase the following, and say "
 >
 > Davil turns a small silver trophy on his bracelet and taps the drawing of the tower with one finger.
 >
-> > "The circle connects to the towers in the Southern Ward where Floxin's cell keeps its people, and the towers sit inside a force field that turns away everyone who doesn't carry a pass-amulet. Somewhere in that yellow tower is a ledger showing who carries each amulet and when it changes hands. If we have that book, we'll know whom to follow and when, and we won't have to break the field at all."
+> > "The circle connects to the towers in the Trades Ward where Floxin's cell keeps its people, and the towers sit inside a force field that turns away everyone who doesn't carry a pass-amulet. Somewhere in that yellow tower is a ledger showing who carries each amulet and when it changes hands. If we have that book, we'll know whom to follow and when, and we won't have to break the field at all."
 
 If **Manshoon Named** is marked, read or paraphrase the following instead:
 
@@ -61,7 +61,7 @@ If **Manshoon Named** is marked, read or paraphrase the following instead:
 >
 > Davil turns a small silver trophy on his bracelet and taps the drawing of the tower with one finger.
 >
-> > "The circle connects to the towers in the Southern Ward where Manshoon lives, and the towers sit inside a force field that turns away everyone who doesn't carry a pass-amulet. Somewhere in that yellow tower is a ledger showing who carries each amulet and when it changes hands. If we have that book, we'll know whom to follow and when, and we won't have to break the field at all."
+> > "The circle connects to the towers in the Trades Ward where Manshoon lives, and the towers sit inside a force field that turns away everyone who doesn't carry a pass-amulet. Somewhere in that yellow tower is a ledger showing who carries each amulet and when it changes hands. If we have that book, we'll know whom to follow and when, and we won't have to break the field at all."
 
 > [!readaloud]
 >
@@ -425,8 +425,8 @@ The Event concludes when the party has reported to Davil and Tashlyn and has rec
 
 ## Overview
 
-Davil sends the party into Yellowspire, a Banite tower in the Castle Ward, to steal a ledger of pass-amulet carriers from the Splinter's relay. Afterward Ziraj hands over his notes on the force field around the towers in the Southern Ward.
+Davil sends the party into Yellowspire, a Banite tower in the Castle Ward, to steal a ledger of pass-amulet carriers from the Splinter's relay. Afterward Ziraj hands over his notes on the force field around the towers in the Trades Ward.
 
 ## Summary
 
-We went into Yellowspire for Davil and took the relay ledger from the circle chamber in the cellar. Amath Seccent's acolytes, the pressure plate and the teleportation circle all cost us something on the way out. Ziraj gave us his notes on the gaps in the force field around the towers in the Southern Ward, and Davil now has a list of who carries an amulet.
+We went into Yellowspire for Davil and took the relay ledger from the circle chamber in the cellar. Amath Seccent's acolytes, the pressure plate and the teleportation circle all cost us something on the way out. Ziraj gave us his notes on the gaps in the force field around the towers in the Trades Ward, and Davil now has a list of who carries an amulet.
