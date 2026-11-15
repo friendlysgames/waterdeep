@@ -100,7 +100,7 @@ Laeral Silverhand is the Open Lord of Waterdeep, and she has held the office sin
 - `campaign/setting/organizations/02-lords-alliance.md` lines 36-39 and `campaign/guides/factions/03-lords-alliance.md` lines 7, 9, 34-35 and 54: what Laeral believes, the Writ, the escalation path, "three moves behind."
 - `campaign/guides/gm-guide/design-notes-running-the-campaign.md` line 93 and `campaign/structure/arc-j-vault-of-dragons.md` line 238: the 10 percent offer.
 - `campaign/quests/faction-events/lords-alliance/m06-an-audience-with-the-open-lord/overview.md` lines 21-27 and `r50-lioncrown/ev-01-lioncrown.md` lines 33-38 and 243-261: the Splinter offer, the Writ, Neverember's lock, "nobody is winning," the Halaster crystal.
-- `campaign/setting/grand-game.md`: the City Watch as a character.
+- `campaign/setting/the-grand-game/01-the-grand-game.md`, The City Watch as a Character: the City Watch as a character.
 - `campaign/setting/waterdeep-lore.md` line 24: her preference for a recovery out of public view.
 
 ## Cross-References
@@ -135,5 +135,5 @@ Laeral Silverhand is the Open Lord of Waterdeep, and she has held the office sin
 > - **Conflicts:** Caladorn Cassalanter. The wiki lists him as an Open Lord (City of Splendors: Waterdeep, 3e). The published adventure (line 18404) and the campaign make him a Masked Lord only.
 > - **Conflicts:** Vajra's tenure. The campaign says three years in the post. The wiki says the seventh Blackstaff took office in 1479 DR (4e), and the adventure (line 31193) names an earlier Blackstaff, Tsarra Chaadren, at the Spellplague and gives no tenure. This page gives no tenure.
 > - **Conflicts:** The Masked Lord's authority. `adventure-wdh.json` line 30516 lets any Masked Lord overturn a magister's ruling, and the wiki reserves sole executive powers to the Open Lord.
-> - **Conflicts:** `grand-game.md` has no row for the Lords' Alliance or for Laeral, so it cannot contradict this page. The Pass 4 reshaping should add the government's place in the Grand Game.
+> - **Settled (Pass 4):** The retired `grand-game.md` had no row for the Lords' Alliance or for Laeral. **The Grand Game** (`setting/the-grand-game/01-the-grand-game.md`) now gives the government's place in its Open Lord's Place section.
 > - **Routed facts:** Laeral's offer, the Writ and the Splinter offer belong in the Lords' Alliance operations page and the **Vault of Dragons** quest. Elminster as Warden belongs on the governance pages.
