@@ -22,7 +22,7 @@ The campaign's central plot runs through a chain of objects, each one gatekeepin
 
 **Eye #2** — held by the Cassalanters. Their agents found it in the Brandath Crypts through infernal divination and extracted it from Neverember's magical wards. Locked in the vault beneath Cassalanter Villa.
 
-**Eye #3** — held by Jarlaxle Baenre, aboard the *Scarlet Marpenoth*. It began in Renaer Neverember's mourning locket. Manshoon's Zhentarim seized the locket the night before Ches 1 and pried it open at the Candle Lane warehouse, Xanathar's Guild raided the warehouse and carried off the Eye with the rest of the back office without knowing what it was, and Bregan D'aerthe agents already inside Xanathar's hideout lifted it the same night. It reached Jarlaxle before the party reached the hideout, and Manshoon's cell never held it. Jarlaxle has known of the Stone, the Eyes and the vault since he arrived in Waterdeep. He is active from Act I through his personas — J.B. Nevercott in Trollskull Alley and Zardoz Zord at the Field of Triumph — and his villain escalation keys off the **Jarlaxle Informed** flag set during **Fireball!**, which records only that the party made contact with him.
+**Eye #3** — held by Jarlaxle Baenre, aboard the *Scarlet Marpenoth*. It began in Renaer Neverember's mourning locket. Manshoon's Zhentarim seized the locket the night before Ches 1 and pried it open at the Candle Lane warehouse, Xanathar's Guild raided the warehouse and carried off the Eye with the rest of the back office without knowing what it was, and Bregan D'aerthe agents already inside Xanathar's hideout lifted it the same night. It reached Jarlaxle before the party reached the hideout, and Manshoon's cell never held it. Jarlaxle has known of the Stone, the Eyes and the vault since he arrived in Waterdeep. He is active from Act I through his personas — J.B. Nevercott in Trollskull Alley and Zardoz Zord at the Field of Triumph — and his villain escalation keys off the **Jarlaxle Informed** Event Outcome marked during **Fireball!**, which records only that the party made contact with him.
 
 > [!info]**Where the Eyes Are**
 > **Eye #1:** Xanathar — in Sylgar's bowl, Xanathar's Lair. Xanathar does not know what it is.
@@ -58,7 +58,7 @@ Each faction moves through four escalation tiers when the PCs interfere with the
 
 **Manshoon.** Manshoon underestimates threats that aren't magical. Operatives who avoid Kolat Towers may run for sessions before he escalates past response teams. His preference for capturing over killing creates tactical openings.
 
-**Cassalanters.** The Cassalanters operate in two modes. In passive mode they barely react; in hostile mode they skip straight to Willifort's full operation. The switch fires when the PCs refuse to help or are identified as a threat to the soul-pact plan.
+**Cassalanters.** The Cassalanters operate in two modes. In passive mode they barely react; in hostile mode they skip straight to Willifort's full operation. The switch fires when the PCs refuse to help or are identified as a threat to their plan to meet Asmodeus's contract.
 
 **Bregan D'aerthe.** Against the PCs, Jarlaxle reaches for leverage before force. Direct confrontation only comes when the PCs kill his lieutenants without first offering terms.
 
