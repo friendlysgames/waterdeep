@@ -36,21 +36,19 @@ Current page state: `campaign/setting/villains/jarlaxle.md` has no `## Overview`
 
 — `campaign/setting/deities/lolth.md:95`
 
-**Wiki (Forgotten Realms Wiki, Jarlaxle; editions cited on the page: Road of the Patriarch, Menzoberranzan: City of Intrigue, Waterdeep: Dragon Heist 5e, and others)**
+**Wiki (Forgotten Realms Wiki, Jarlaxle; the editions are cited inline on each line)**
 
-> However, he rejected her and she withdrew her favor, although the matron mothers of Menzoberranzan never learned of that fact.
+> Indeed, Lolth did favor him as an agent of chaos and granted him the memory of his near-sacrifice. However, he rejected her and she withdrew her favor, although the matron mothers of Menzoberranzan never learned of that fact.
 
-— `sources/research/pass4-bundles/jarlaxle/wiki.txt:96` (wiki, Early Life; the edition is cited as Road of the Patriarch `<ref>` on that line, p.77)
+— `sources/research/pass4-bundles/jarlaxle/wiki.txt:96` (wiki, Early Life; cites Road of the Patriarch, MMP p.77)
 
 > Jarlaxle later left his house and his name (but not his connections) behind and founded [[Bregan D'aerthe]], a mercenary band of rogue males that grew to be very powerful. It could be said that the band forged its own underworld empire in Menzoberranzan.
 
 — `sources/research/pass4-bundles/jarlaxle/wiki.txt:103` (wiki; the sentence continues: "Bregan D'aerthe was present among the troops of Baenre during the fall of [[House Do'Urden]].")
 
-> In the {{YearlinkName|1018}},<ref name="Timeless-p?">{{Cite book|Timeless|?}}</ref> Jarlaxle got to know [[Zaknafein Do'Urden]], later the father of [[Drizzt Do'Urden]].
+> In the {{YearlinkName|1018}},<ref name="Timeless-p?">{{Cite book/Timeless|?}}</ref> Jarlaxle got to know [[Zaknafein Do'Urden]], later the father of [[Drizzt Do'Urden]]. They became close friends in time, but he eventually betrayed Zaknafein in undisclosed circumstances and still felt guilty over it many years later.
 
 — `sources/research/pass4-bundles/jarlaxle/wiki.txt:100` (wiki; the 1018 DR date is wiki-only)
-
-Wiki Luskan and the Host Tower:
 
 > Over [[1376]] to [[1377 DR]], Jarlaxle and Bregan D'aerthe manipulated events in [[Luskan]] that resulted in the destruction of the [[Host Tower of the Arcane]], the death of [[Deudermont]], and Luskan becoming a free port.
 
@@ -60,13 +58,13 @@ Wiki Luskan and the Host Tower:
 
 — `sources/research/pass4-bundles/jarlaxle/wiki.txt:141` (wiki, Host Tower of The Arcane)
 
-> | ruler         = The Five High Captains (1372 DR):<br />[[Taerl]], [[Baram]], [[Kurth]], [[Suljack]] and [[Rethnor]]<br/>None (1480 DR)<br/>[[Jarlaxle Baenre]] (1489 DR)
-
-— `sources/research/pass4-bundles/jarlaxle/wiki.txt:615` (wiki, linked Luskan page infobox)
-
 > By [[1377 DR]], Bregan D'aerthe had developed a significant surface presence in [[Luskan]] and used [[Ship Kurth]] as its outward face.
 
 — `sources/research/pass4-bundles/jarlaxle/wiki.txt:342` (wiki, Bregan D'aerthe page, Base of Operations)
+
+> | ruler         = The Five High Captains (1372 DR):<br />[[Taerl]], [[Baram]], [[Kurth]], [[Suljack]] and [[Rethnor]]<br/>None (1480 DR)<br/>[[Jarlaxle Baenre]] (1489 DR)
+
+— `sources/research/pass4-bundles/jarlaxle/wiki.txt:615` (wiki, linked Luskan page infobox)
 
 > Zardoz Zord was a disguise donned by [[Jarlaxle Baenre]] used to infiltrate the city of [[Waterdeep]] in the late 15{{th}} century [[DR]]. The Sea Maidens Faire was a cover operation to hide the fact that Jarlaxle was searching for the ''[[Stone of Golorr]]''. However, Jarlaxle performed in the Sea Maidens Faire's parades under the guise of Zardoz Zord purely for the fun of it.
 
@@ -96,17 +94,21 @@ Wiki arrival in Waterdeep: no wiki line gives an arrival date for Jarlaxle in Wa
 
 — `sources/adventure-wdh.json:32182`
 
-**Alexandrian remix (`sources/1. The Villains.pdf`, printed p.14 = PDF page 2; p.17 = PDF page 5) [transcribed from page image]**
+> Jarlaxle, the leader of Bregan D'aerthe, sees membership in the Lords' Alliance as his path to power beyond Luskan. As the secret lord of a city with an unsavory reputation, he has had a hard time getting a seat at the table with other cities of the North when it comes to trade and defense of the region. Thus, he plans to use the stolen gold to bargain with {@creature Laeral Silverhand|WDH} for inclusion in the alliance, and to oust Neverwinter and its lord Dagult Neverember-Jarlaxle's fiercest political opponent-from the group.
+
+— `sources/adventure-wdh.json:22941`
+
+**Alexandrian remix (`sources/1. The Villains.pdf`, printed p.14 = PDF page 2; printed p.17 = PDF page 5) [transcribed from page image]**
 
 > Jarlaxle Baenre, a drow swashbuckler who is the secret lord of a city, leader of the dark elf mercenary group Bregan D'Aerthe, and has surreptitiously come to Waterdeep as the captain of a traveling circus
 
-— `sources/1. The Villains.pdf` p.14 (PDF page 2)
+— `sources/1. The Villains.pdf` p.14 (PDF page 2) [transcribed from page image]
 
 > As Dragon Heist begins, Jarlaxle is unaware of the *Stone of Golorr* or the Grand Game which is being played. His current agenda, as described in the campaign, is to convince the leaders of Waterdeep to support Luskan's bid to join the Lords' Alliance. Freshly arrived in his cover identity as Captain Zord of the Sea Maiden's Faire, Jarlaxle is coordinating and ramping up his local intelligence operations.
 
 — `sources/1. The Villains.pdf` p.17 (PDF page 5) [transcribed from page image]. This is the Alexandrian line the campaign overruled (see Conflicts).
 
-**Campaign ruling on how he came to Waterdeep (current file)**
+**Campaign history on how he came to Waterdeep (current file)**
 
 > - Luskan's admission to the Lords' Alliance is his latest scheme and the one that brings him to Waterdeep. The Sea Maidens Faire is a business he already owned before he turned to Waterdeep.
 
@@ -130,13 +132,17 @@ Wiki arrival in Waterdeep: no wiki line gives an arrival date for Jarlaxle in Wa
 
 Location file, same date:
 
-> It has been moored in the harbor since Jarlaxle reached Waterdeep in Marpenoth 1491 and keel-docks beneath the Eyecatcher when the fleet arrives on Ches 21.
+> **Scarlet Marpenoth**: Lantanese submersible, keel-docked beneath the Eyecatcher via a pressurized collar. Not visible from the surface except at night with a DC 18 Perception check from the water's edge. It has been moored in the harbor since Jarlaxle reached Waterdeep in Marpenoth 1491 and keel-docks beneath the Eyecatcher when the fleet arrives on Ches 21. Jarlaxle keeps Eye #3 in his stateroom (U4).
 
-— `campaign/locations/sea-maidens-faire/area-overview.md:11` (the sentence begins "**Scarlet Marpenoth**: Lantanese submersible, keel-docked beneath the Eyecatcher via a pressurized collar. Not visible from the surface except at night with a DC 18 Perception check from the water's edge.")
+— `campaign/locations/sea-maidens-faire/area-overview.md:11`
 
-Gond temple note: `campaign/setting/deities/gond.md:86` — "The nimblewright ledger records the first sale, NW-01, on Marpenoth 3, 1491 DR (the year is derived), which is the same date."
+Gond temple note, same date:
 
-**Bregan D'aerthe origin (Organizations page, the Factions page, the history page)**
+> The nimblewright ledger records the first sale, NW-01, on Marpenoth 3, 1491 DR (the year is derived), which is the same date.
+
+— `campaign/setting/deities/gond.md:86`
+
+**Bregan D'aerthe origin (organisation page and history page)**
 
 > Bregan D'aerthe is a mercenary company of drow exiles and surface operatives, led by Jarlaxle Baenre, who has been outmaneuvering Underdark politics for generations.
 
@@ -146,10 +152,6 @@ Gond temple note: `campaign/setting/deities/gond.md:86` — "The nimblewright le
 
 — `campaign/setting/history/03-bregan-daerthes-long-road.md:43`
 
-> - Its main base is the Clawrift in Menzoberranzan, and the wiki has its membership doubling by 1118 DR. The campaign's organization page says it has been outmaneuvering Underdark politics for generations.
-
-— `campaign/setting/history/03-bregan-daerthes-long-road.md:52`
-
 > - After 1485 DR the High Captains trade legally across the Sword Coast and are secretly under the sway of Jarlaxle and the company. The published adventure says he infiltrated Luskan, brought a kind of order to its lawlessness and declared himself its secret lord.
 
 — `campaign/setting/history/03-bregan-daerthes-long-road.md:62`
@@ -157,14 +159,6 @@ Gond temple note: `campaign/setting/deities/gond.md:86` — "The nimblewright le
 > - Lords' Alliance membership is the latest of Jarlaxle's schemes in the published adventure, and Luskan's unsavory reputation has thwarted every earlier attempt.
 
 — `campaign/setting/history/03-bregan-daerthes-long-road.md:64` (continues: "The Alliance's current leaders have voiced their opposition, and a few have declared that Luskan will never be welcome. He aims to persuade Laeral to champion the city, even if it costs the Alliance other members. The campaign makes this his main aim in Waterdeep (see **Jarlaxle Baenre** in Villains).")
-
-Note: the same published sentence reads "He intends to return the gold to {@creature Laeral Silverhand|WDH}" at `sources/adventure-wdh.json:22949`.
-
-**Luskan and the Lords' Alliance in the published adventure**
-
-> Jarlaxle, the leader of Bregan D'aerthe, sees membership in the Lords' Alliance as his path to power beyond Luskan. As the secret lord of a city with an unsavory reputation, he has had a hard time getting a seat at the table with other cities of the North when it comes to trade and defense of the region.
-
-— `sources/adventure-wdh.json:22941` (continues: "Thus, he plans to use the stolen gold to bargain with {@creature Laeral Silverhand|WDH} for inclusion in the alliance, and to oust Neverwinter and its lord Dagult Neverember-Jarlaxle's fiercest political opponent-from the group.")
 
 ---
 
@@ -180,7 +174,7 @@ Note: the same published sentence reads "He intends to return the gold to {@crea
 
 — `campaign/setting/villains/jarlaxle.md:15`
 
-Source of the Phase 1 and track text: the retired chapter file `campaign/structure/ch2-city-of-splendors.md`, lines 302-344 (the file is listed as retired, do not use). The Phase 1 row there reads:
+Retired source for the Phase 1 row (`campaign/structure/ch2-city-of-splendors.md`, the file is listed as retired, do not use):
 
 > | Acts I–II (conditional) | The disguise; a plausible, theatrical Calishite eccentric who is too observant; PCs may like him before they know who he is; the performance holds but the intelligence behind it keeps slipping through |
 
@@ -228,10 +222,6 @@ Searched `campaign/structure/arc-h-sea-maidens-faire.md` for "Unmasked", "Gracef
 
 — `campaign/structure/arc-h-sea-maidens-faire.md:99`
 
-> *Facing Jarlaxle.* If Jarlaxle confronts the party — because the alarm reached him, because the Zhentarim strike drew him out, or because he was in J30 or J32 when the party arrived:
-
-— `campaign/structure/arc-h-sea-maidens-faire.md:219`
-
 > Jarlaxle does not attack first. He talks. He assesses. He asks why they are here and what they want. His first instinct is always to negotiate.
 
 — `campaign/structure/arc-h-sea-maidens-faire.md:221`
@@ -252,9 +242,7 @@ Searched `campaign/structure/arc-h-sea-maidens-faire.md` for "Unmasked", "Gracef
 
 — `campaign/structure/arc-h-sea-maidens-faire.md:294`
 
-Arc H Zardoz Betrayal Pitch (the reveal, for the phase triggers):
-
-> The reveal — Jarlaxle dropping the Nevercott disguise and explaining — should be played for its full dramatic weight.
+> The reveal — Jarlaxle dropping the Nevercott disguise and explaining — should be played for its full dramatic weight. This is one of the campaign's signature NPC moments: the mastermind showing his hand because he has already won, and winning gracefully is more important to him than winning invisibly.
 
 — `campaign/structure/arc-h-sea-maidens-faire.md:382`
 
@@ -262,7 +250,7 @@ Arc H Zardoz Betrayal Pitch (the reveal, for the phase triggers):
 
 ### Relationships
 
-Current page (`campaign/setting/villains/jarlaxle.md:45-52`). The retired source is `campaign/structure/ch2-city-of-splendors.md:348-355`. Quoting both sides:
+Current page (`campaign/setting/villains/jarlaxle.md:45-52`). The retired source is `campaign/structure/ch2-city-of-splendors.md:348-355`. Both sides are quoted.
 
 > | Nar'l Xibrindas | Embedded spy | Inside Xanathar's Guild; Jarlaxle's most valuable asset; Jarlaxle has a contingency if Nar'l is discovered (has not shared it with Nar'l) |
 
@@ -284,11 +272,11 @@ Campaign source, Manshoon page (higher ranked than the retired file for this row
 
 > | Renaer Neverember | Political connection | Worth cultivating; Renaer's relationship with Laeral is an indirect path to the Open Lord's attention; Renaer doesn't know who he met |
 
-— `campaign/setting/villains/jarlaxle.md:50` (identical at `campaign/structure/ch2-city-of-splendors.md:353`). No current file mentions Jarlaxle on the Renaer notable-figures page (Searched, see Not found).
+— `campaign/setting/villains/jarlaxle.md:50` (identical at `campaign/structure/ch2-city-of-splendors.md:353`). No current file ties Jarlaxle to Renaer (see Not found).
 
 > | The Cassalanters | Aware but uninvested | Knows about their infernal bargain through intelligence; not interested in getting involved unless strategic upside appears |
 
-— `campaign/setting/villains/jarlaxle.md:51`. Current campaign source for the knowledge (higher ranked on the secret):
+— `campaign/setting/villains/jarlaxle.md:51`. Current campaign source for the knowledge:
 
 > - **The one exception:** Jarlaxle knows about the pact through **Vessa**, his doppelganger spy in the Cassalanter social circle. He never tells Bregan D'aerthe members unless they work it out themselves.
 
@@ -302,7 +290,7 @@ Campaign source, Manshoon page (higher ranked than the retired file for this row
 
 — `campaign/setting/villains/jarlaxle.md:52`. Retired source reads "Has been watching since Arc A (Nar'l reported them in the Xanathar sewer hideout); knows their names, faction ties, and general competence by Arc H" (`campaign/structure/ch2-city-of-splendors.md:355`). Current file for the sewer agents:
 
-> Two Bregan D'aerthe agents are posing as Guild guards here and report through Nar'l's circle. They lifted the Eye from the strongbox before dawn, and it reached Jarlaxle before the party arrives. The party cannot recover it here.
+> - Two Bregan D'aerthe agents are posing as Guild guards here and report through Nar'l's circle. They lifted the Eye from the strongbox before dawn, and it reached Jarlaxle before the party arrives. The party cannot recover it here.
 
 — `campaign/locations/xanathar-sewer-hideout/area-overview.md:75`
 
@@ -316,7 +304,7 @@ Nar'l's relationship to Jarlaxle (current NF page):
 
 — `campaign/setting/history/02-the-long-shadow.md:74`
 
-Jarlaxle's row for Xanathar in the Xanathar villain page:
+Jarlaxle's row on the Xanathar villain page:
 
 > | Jarlaxle | Unknown | Not yet identified as a player; the beholder is paranoid about anything operating in its territory without its knowledge |
 
@@ -328,7 +316,7 @@ Other relationship sources in the current campaign:
 
 — `campaign/setting/organizations/07-bregan-daerthe.md:36`
 
-> Soluun is the elder brother of Nar'l Xibrindas (whom he despises), a lieutenant of Jarlaxle (whom he worships), and a serial killer whose disownment by Bregan D'Aerthe is a cover story: he carries forged BD identification.
+> **Relationships.** Soluun is the elder brother of Nar'l Xibrindas (whom he despises), a lieutenant of Jarlaxle (whom he worships), and a serial killer whose disownment by Bregan D'Aerthe is a cover story: he carries forged BD identification.
 
 — `campaign/setting/notable-figures/bregan-daerthe/02-soluun-xibrindas.md:26`
 
@@ -344,11 +332,11 @@ Other relationship sources in the current campaign:
 
 — `campaign/setting/notable-figures/bregan-daerthe/09-ryvarra.md:26`
 
-Published-adventure Nar'l (for the contingency row, which has no published source):
+Published adventure on Nar'l (the contingency row has no published source; this is the nearest passage):
 
-> Nar'l Xibrindas, Soluun's younger brother ... If forced to decide between himself and Bregan D'aerthe, he'll choose the former and betray his drow allies to save his own skin.
+> {@creature Xanathar|WDH}'s advisor is a nervous and conniving male drow named {@creature Nar'l Xibrindas|wdh}. Nar'l's house was wiped out long ago, but he and his elder brother Soluun survived and joined Bregan D'aerthe. A year ago, Nar'l was given the difficult task of infiltrating the Xanathar Guild and getting as close to the beholder as possible. Not only did he succeed, but in the course of gaining {@creature Xanathar|WDH}'s trust, he managed to convince the beholder to eliminate its other advisors. The beholder's paranoia will eventually cause {@creature Xanathar|WDH} to question the drow's loyalty, though, and Nar'l has become increasingly worried about his future. If forced to decide between himself and Bregan D'aerthe, he'll choose the former and betray his drow allies to save his own skin.
 
-— `sources/adventure-wdh.json:32323` (the full paragraph begins "{@creature Xanathar|WDH}'s advisor is a nervous and conniving male drow named {@creature Nar'l Xibrindas|wdh}." and continues as written there; the ellipsis here is a summary, not a quote. The exact text: "{@creature Xanathar|WDH}'s advisor is a nervous and conniving male drow named {@creature Nar'l Xibrindas|wdh}. Nar'l's house was wiped out long ago, but he and his elder brother Soluun survived and joined Bregan D'aerthe.")
+— `sources/adventure-wdh.json:32323`
 
 ---
 
@@ -368,69 +356,57 @@ Current page (`campaign/setting/villains/jarlaxle.md:56-58`):
 
 — `campaign/setting/villains/jarlaxle.md:58`
 
-Retired source (`campaign/structure/ch2-city-of-splendors.md:359-361`). Goal 2 there reads: "**One Eye of the Stone** — as a bargaining chip, not for personal use; method: Nar'l's intelligence tells him where Eyes are; move to acquire before the other factions consolidate; contingency: negotiating it from the PCs is also acceptable and preferable for the relationship; connects to Arc H". Goal 1 and Goal 3 match the current page apart from "Arc J" against "Vault of Dragons".
+Retired source (`campaign/structure/ch2-city-of-splendors.md:359-361`). Goal 2 there reads: "**One Eye of the Stone** — as a bargaining chip, not for personal use; method: Nar'l's intelligence tells him where Eyes are; move to acquire before the other factions consolidate; contingency: negotiating it from the PCs is also acceptable and preferable for the relationship; connects to Arc H". Goals 1 and 3 match the current page apart from "Arc J" against "Vault of Dragons".
 
 Goal 2 current-campaign source:
 
-> Jarlaxle has known of the Stone, the Eyes and the vault since he arrived in Waterdeep. He is active from Act I through his personas — J.B. Nevercott in Trollskull Alley and Zardoz Zord at the Field of Triumph — and his villain escalation keys off the **Jarlaxle Informed** flag set during **Fireball!**, which records only that the party made contact with him.
+> - **Bregan D'aerthe:** Jarlaxle has known of the Stone, the Eyes and the vault since he reached Waterdeep, and he holds Eye #3.
 
-— `campaign/guides/gm-guide/running-the-villains.md:25`
+— `campaign/setting/lore/stone-of-golorr-and-the-eyes.md:104`
+
+> Eye #3 — held by Jarlaxle Baenre, aboard the *Scarlet Marpenoth*. It began in Renaer Neverember's mourning locket. Manshoon's Zhentarim seized the locket the night before Ches 1 and pried it open at the Candle Lane warehouse, Xanathar's Guild raided the warehouse and carried off the Eye with the rest of the back office without knowing what it was, and Bregan D'aerthe agents already inside Xanathar's hideout lifted it the same night. It reached Jarlaxle before the party reached the hideout, and Manshoon's cell never held it.
+
+— `campaign/guides/gm-guide/running-the-villains.md:25` (this is the middle of the paragraph; the paragraph continues "Jarlaxle has known of the Stone, the Eyes and the vault since he arrived in Waterdeep. He is active from Act I through his personas — J.B. Nevercott in Trollskull Alley and Zardoz Zord at the Field of Triumph — and his villain escalation keys off the **Jarlaxle Informed** flag set during **Fireball!**, which records only that the party made contact with him.")
 
 > | Bregan D'aerthe | Most complete picture via Nar'l Xibrindas; knows the Stone, the Eyes, and the vault; waiting to see which party proves most useful | Eye #3 | Stone + Eyes #1 and #2 |
 
 — `campaign/guides/gm-guide/running-the-villains.md:41`
 
-Goal 1 current-campaign source (Lords' Alliance motive and the offer to Laeral):
+Goal 1 current-campaign source:
 
 > **Motivations.** Jarlaxle wants to buy Luskan's way into the Lords' Alliance using the dragon hoard, acquire the dragonstaff of Ahghairon for leverage over Waterdeep, and ensure that if everything falls apart, the submarine is fueled and ready.
 
 — `campaign/setting/notable-figures/bregan-daerthe/01-jarlaxle-baenre.md:16`
 
-> Jarlaxle wants to return the gold to Laeral Silverhand — making the Open Lord personally indebted to him, which is worth more than the gold itself in his long-running project to secure Luskan's admission to the Lords' Alliance.
-
-— `campaign/setting/organizations/07-bregan-daerthe.md:50` (the sentence continues, "He also wants the Stone of Golorr for Underdark political reasons that extend well beyond the surface campaign.")
-
 > Members take on Jarlaxle's long-term goal: Lords' Alliance recognition of Luskan's reformed governance. That obligation comes due in **Vault of Dragons**, where Jarlaxle proposes returning the gold publicly in the party's name in exchange for a letter of introduction to the Alliance council. It is what he has been working toward since he arrived in the city.
 
 — `campaign/guides/gm-guide/player-factions-overview.md:186`
 
-Goal 3 current-campaign source: none found (Searched "permanent", "Dock Ward", "indispensable"; only `campaign/structure/ch2-city-of-splendors.md:361` and `campaign/setting/villains/jarlaxle.md:58` contain it).
-
-Motivation of the Stone (current NF page):
-
-> He also wants the Stone of Golorr for Underdark political reasons that extend well beyond the surface campaign.
-
-— `campaign/setting/organizations/07-bregan-daerthe.md:50` (see above)
+Goal 3 current-campaign source: none found (see Not found).
 
 ---
 
 ### Overview
 
-The current page has no Overview section. The Overview text the brief asks for must name only J.B. Nevercott and Zardoz Zord. Current campaign public-face text:
+The current page has no Overview section, so the brief's Overview (J.B. Nevercott and Zardoz Zord only) has no current text to revise. Candidate public-face lines in the current campaign:
 
 > A flamboyant Illuskan sea captain running the Sea Maidens Faire carnival out of Deepwater Harbor, theatrical, immediately charming, with a precision behind the showmanship that most people don't notice until the conversation is already over.
 
-— `campaign/setting/notable-figures/bregan-daerthe/01-jarlaxle-baenre.md:30` (NF Overview; names Zord-persona only, no J.B. Nevercott)
+— `campaign/setting/notable-figures/bregan-daerthe/01-jarlaxle-baenre.md:30` (NF Overview; names the Zord persona only, no J.B. Nevercott)
 
 > Bregan D'aerthe is a mercenary company of drow exiles and surface operatives, led by Jarlaxle Baenre, running the Sea Maidens Faire carnival as cover for a city-wide intelligence network.
 
 — `campaign/setting/organizations/07-bregan-daerthe.md:58` (org Overview; does not follow the Zardoz Zord rule per `campaign/setting/history/03-bregan-daerthes-long-road.md:165`)
 
-> - **Other Names:** — (history page GM section) "Captain Zardoz Zord (the carnival master), J.B. Nevercott (the haberdasher who visits Trollskull Manor, the party's headquarters; `adventure-wdh.json` line 3601)" — `campaign/setting/history/03-bregan-daerthes-long-road.md:19`
+The history page's own GM note on the names:
 
-Quote exactly: "Jarlaxle's other names are GM names: Jarlaxle Baenre, Jarlaxle D'aerthe (a wiki alias), Captain Zardoz Zord (the carnival master), J.B. Nevercott (the haberdasher who visits Trollskull Manor, the party's headquarters; `adventure-wdh.json` line 3601) and Rongquan Mystere (a disguise at the Shipwright's Ball; `adventure-wdh.json` lines 281 and 9066-9075)."
+> **Other Names:** Jarlaxle's other names are GM names: Jarlaxle Baenre, Jarlaxle D'aerthe (a wiki alias), Captain Zardoz Zord (the carnival master), J.B. Nevercott (the haberdasher who visits Trollskull Manor, the party's headquarters; `adventure-wdh.json` line 3601) and Rongquan Mystere (a disguise at the Shipwright's Ball; `adventure-wdh.json` lines 281 and 9066-9075).
 
-— `campaign/setting/history/03-bregan-daerthes-long-road.md:19`
+— `campaign/setting/history/03-bregan-daerthes-long-road.md:19` (this is the page's Other Names line, not a Overview sentence)
 
-> > "Jarlaxle is a consummate actor who never lets down his guard. Even if the characters discern his true identity, he never admits to being anything other than what he pretends to be."
+Published J.B. Nevercott introduction, exact:
 
-— `sources/adventure-wdh.json:3602`
-
-Published J.B. Nevercott introduction:
-
-> If the characters confront the drow spies, they avoid contact but leave behind a black eye patch as a calling card. The next day, {@creature Jarlaxle Baenre|WDH} (see {@adventure appendix B|WDH|12}) shows up at the party's headquarters, using his {@item hat of disguise} to appear as a haberdasher named J.B. Nevercott.
-
-Exact text: "On the other hand, if the characters try to confront the drow spies, they avoid contact but leave behind a black eye patch as a calling card. The next day, {@creature Jarlaxle Baenre|WDH} (see {@adventure appendix B|WDH|12}) shows up at the party's headquarters, using his {@item hat of disguise} to appear as a haberdasher named J.B. Nevercott. In this guise, he asks to speak privately with drow characters who he thinks might make suitable Bregan D'aerthe recruits. Only drow are given serious consideration, but Jarlaxle doesn't care if they're male or female. As a test, he offers them their first mission."
+> On the other hand, if the characters try to confront the drow spies, they avoid contact but leave behind a black eye patch as a calling card. The next day, {@creature Jarlaxle Baenre|WDH} (see {@adventure appendix B|WDH|12}) shows up at the party's headquarters, using his {@item hat of disguise} to appear as a haberdasher named J.B. Nevercott. In this guise, he asks to speak privately with drow characters who he thinks might make suitable Bregan D'aerthe recruits. Only drow are given serious consideration, but Jarlaxle doesn't care if they're male or female. As a test, he offers them their first mission.
 
 — `sources/adventure-wdh.json:3601`
 
@@ -440,13 +416,7 @@ Current Nevercott persona line (Trollskull ev-04):
 
 — `campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md:45`
 
-Zord (Fireball ev-04 and the wiki-linked Zardoz page):
-
-> Zardoz Zord was the leader of the [[Sea Maidens Faire]] carnival...
-
-— wiki, see above (not Overview-ready).
-
-Overview sentences for the page need a source sentence per the brief; the only current J.B. Nevercott and Zardoz Zord public line is the Trollskull ev-04 line above and the Fireball "Who Zord Is" paragraph (ev-04 lines 108-113, below).
+Zord identity: see the Fireball ev-04 "Who Zord Is" passage under Quests below.
 
 ---
 
@@ -458,7 +428,7 @@ Current page, line 3, quoted in full:
 
 — `campaign/setting/villains/jarlaxle.md:3`
 
-Note: this line uses "flag" four times and names the outcomes; it also gives "until **Sea Maidens Faire**" for the identity (see Conflicts). It cites "GM Guide: Session Zero", which is not checked here.
+This line says "flag" four times and gives "until **Sea Maidens Faire**" for the identity reveal (see Conflicts). It cites "GM Guide: Session Zero", which was not checked here.
 
 Membership sources:
 
@@ -466,13 +436,11 @@ Membership sources:
 
 — `campaign/guides/gm-guide/player-factions-overview.md:169`
 
-> The surveillance has three branches:
->
 > - **Watch reported:** The spies vanish within hours. All BD contact ends for the campaign. Set **BD Contact Severed**.
 > - **Surveillance confronted:** The spies melt away and leave a single black eye patch on the cobblestones. J.B. Nevercott knocks the next morning.
 > - **Party does nothing:** Surveillance continues through the tenday. J.B. Nevercott knocks regardless of whether the party noticed the watchers.
 
-— `campaign/guides/gm-guide/player-factions-overview.md:171-175`
+— `campaign/guides/gm-guide/player-factions-overview.md:173-175`
 
 > **J.B. Nevercott** (haberdasher, burgundy coat, *hat of disguise*) arrives at Trollskull Manor and maintains the fiction until he chooses to drop it. The full First Meeting scene is in the **Bregan D'aerthe** Factions guide page. Set **BD Acknowledged** when it concludes.
 
@@ -481,8 +449,6 @@ Membership sources:
 > Jarlaxle's true identity surfaces in **Fireball!** and **Sea Maidens Faire**, when the nimblewright thread leads the party to the carnival and its captain. Membership opens several quests before that disclosure.
 
 — `campaign/guides/gm-guide/player-factions-overview.md:182`
-
-Ryvarra and BD recruitment opening (Trollskull ev-03, ev-04):
 
 > Award **Ryvarra Identified** if both checks succeed. Cross-ref the **Ryvarra** page in Notable Figures.
 
@@ -506,22 +472,24 @@ Villain activation:
 
 — `campaign/setting/lore/stone-of-golorr-and-the-eyes.md:112`
 
-Villain-activation escalation, Bregan row:
-
-> Jarlaxle intervenes personally, always with an offer rather than a fight
-
-— `campaign/guides/gm-guide/running-the-villains.md:52` (the row reads: "| **Bregan D'aerthe** | Normal operations | Nimblewright network harvests ambient intelligence; Fenerus Stormcastle drops messages at dead drops. Krebbyg Masq'il'yr reviews drops; Jarlaxle assesses whether the PCs are an asset or a problem | 1–2 drow gunslingers + drow escort; misdirection and non-lethal containment preferred | Fel'rekt Lafeen, Krebbyg, and Soluun Xibrindas deployed together. Jarlaxle intervenes personally, always with an offer rather than a fight |")
-
-Fireball Gralhund entry trigger (`campaign/quests/act-ii/gralhund-villa/ev-01-what-the-factions-say.md:41`):
-
-> ### Jarlaxle Baenre (conditional on *Jarlaxle Informed* from **Fireball!** — fires for all parties, not members only)
-
-Membership-only and member-only text (the Trollskull flowchart):
-
+> Trollskull flowchart, BD surveillance branch:
+>
 > - Report to Watch → "BD Contact Severed" — no further BD recruitment
 > - Confront or ignore → J.B. Nevercott arrives → "BD Acknowledged"
 
-— `campaign/quests/act-i/trollskull-alley/flowchart.md:54-55`
+— `campaign/quests/act-i/trollskull-alley/flowchart.md:54-55` (the flowchart's lines are written with arrows and the `└──` glyphs; the two lines are quoted as they appear)
+
+Gralhund entry trigger:
+
+> ### Jarlaxle Baenre (conditional on *Jarlaxle Informed* from **Fireball!** — fires for all parties, not members only)
+
+— `campaign/quests/act-ii/gralhund-villa/ev-01-what-the-factions-say.md:41`
+
+Bregan row of the escalation table:
+
+> Jarlaxle intervenes personally, always with an offer rather than a fight
+
+— `campaign/guides/gm-guide/running-the-villains.md:52` (the row ends: "Fel'rekt Lafeen, Krebbyg, and Soluun Xibrindas deployed together. Jarlaxle intervenes personally, always with an offer rather than a fight |")
 
 ---
 
@@ -540,7 +508,7 @@ Read (`campaign/quests/act-ii/gralhund-villa/ev-01-what-the-factions-say.md:11`)
 
 > - If the party met Jarlaxle in **Fireball!** (*Jarlaxle Informed* set), he delivers a different brief depending on whether a BD operative is in the party: non-operatives receive the intelligence package with one deliberate omission; BD operatives receive the full picture plus direct operational orders.
 
-Other reads: `campaign/quests/act-ii/gralhund-villa/ev-02-saerdoun-street.md:54`, `ev-04-the-zhentarim-raid.md:11`, `ev-06-the-gralhund-confrontation-day.md:12`, `ev-07-the-gralhund-confrontation-night.md:13`, `flowchart.md:87`. The `fireball/flowchart.md:53` lists "Jarlaxle Informed / Ledger Stolen (Partial or Complete) / Crystal Ball Accessed" as ev-04 outcomes.
+Other reads: `campaign/quests/act-ii/gralhund-villa/ev-02-saerdoun-street.md:54`, `ev-04-the-zhentarim-raid.md:11`, `ev-06-the-gralhund-confrontation-day.md:12`, `ev-07-the-gralhund-confrontation-night.md:13`, `flowchart.md:87`. `fireball/flowchart.md:53` lists "Jarlaxle Informed / Ledger Stolen (Partial or Complete) / Crystal Ball Accessed" as ev-04 outcomes.
 
 Gate in the Gralhund roster (`campaign/quests/act-ii/gralhund-villa/ev-02-saerdoun-street.md:54`):
 
@@ -563,27 +531,27 @@ Set (`campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md:
 > #### BD Contact Severed: True / False
 > The party reported the BD surveillance to the Watch. Overrides *BD Acknowledged* if both are set.
 
-Set (first meeting, per character) (`campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:195`):
+Set, per character (`campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:195`):
 
 > Mark **BD Contact Severed** for each character who gives Dunmere their name. A character who stands beside the reporter and gives no name is not marked, and neither is any companion. The watchers are gone from Trollskull Alley by dusk, for the whole party. Jarlaxle has the report from his Watch contacts before the ink is dry.
 
-Set (attack on Nevercott) (`campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:284`):
+Set, attack on Nevercott (`campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:284`):
 
-> Mark **BD Contact Severed** for the attacker.
+> If a character attacks Nevercott, he neither fights nor runs. He raises one hand, says pleasantly that this is a good moment to end the fitting, and walks out the front door with the hat box. The crowd in the alley swallows him within three streets, and nobody can follow. Mark **BD Contact Severed** for the attacker.
 
-Read and scope (`campaign/quests/faction-events/bregan-daerthe/s04-contact-severed/ev-01-contact-severed.md:16`):
+Scope (`campaign/quests/faction-events/bregan-daerthe/s04-contact-severed/ev-01-contact-severed.md:16`):
 
 > Severance is individual, like membership. **BD Contact Severed** closes Bregan D'aerthe for the named character only.
 
-Read (Sea Maidens reads it; `campaign/quests/faction-events/bregan-daerthe/s04-contact-severed/ev-01-contact-severed.md:27`):
+Read by the Sea Maidens Faire (`campaign/quests/faction-events/bregan-daerthe/s04-contact-severed/ev-01-contact-severed.md:27`):
 
-> **Sea Maidens Faire** (unconverted) reads **BD Contact Severed** to decide how Jarlaxle treats the character.
+> - **The Faire.** **Fireball!** still sends the theater tickets to the drow characters, or to the group, because the tickets invite people to a show and don't offer membership. A severed character who goes to the Seven Masks finds a human booking manager named Kreb Sorrush who sells them a seat. **Sea Maidens Faire** (unconverted) reads **BD Contact Severed** to decide how Jarlaxle treats the character.
 
 Trollskull flowchart attunements table (`campaign/quests/act-i/trollskull-alley/flowchart.md:83`):
 
 > | BD Contact Severed | ev-04 | Sea Maidens Faire (no BD relationship in arc entry) |
 
-Stale per s04 design notes (`campaign/quests/faction-events/bregan-daerthe/s04-contact-severed/design-notes.md:48`):
+Stale per the s04 design notes (`campaign/quests/faction-events/bregan-daerthe/s04-contact-severed/design-notes.md:48`):
 
 > - `campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md` (line 121), `campaign/guides/gm-guide/player-factions-overview.md` (lines 169 and 176) and `campaign/guides/factions/08-bregan-daerthe.md` (line 37) still describe **BD Contact Severed** as party-wide and permanent.
 
@@ -595,19 +563,15 @@ Set (`campaign/quests/act-i/trollskull-alley/ev-03-the-neighbors.md:57-59`):
 >
 > Both Perception and Investigation checks passed. BD surveillance is confirmed. When J.B. Nevercott arrives in ev-04, the party already knows what they're dealing with. The attunement modifies how ev-04's BD recruitment sequence opens.
 
-Trigger text (`campaign/quests/act-i/trollskull-alley/ev-03-the-neighbors.md:45` is the ev-03 Ryvarra spot in the overview): the BD observer section reads "Award **Ryvarra Identified** if both checks succeed." (line 47, quoted above).
+Read by the BD recruitment (`campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md:45`): "If **Ryvarra Identified** is True, his opening shifts."
 
-Read (`campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md:45`): "If **Ryvarra Identified** is True, his opening shifts."
-
-Read (`campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:466`):
+Read by the First Meeting (`campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:466`):
 
 > This Event also reads two outcomes marked elsewhere. **Ryvarra Identified**, marked by **The Neighbors**, changes how Nevercott opens his private word.
 
-Read (`campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:73`): "If the party marked **Ryvarra Identified** in **The Neighbors**, where she walks through Trollskull Alley one morning to look at the manor, the characters recognize her on sight."
-
 Trollskull flowchart (`campaign/quests/act-i/trollskull-alley/flowchart.md:79`): "| Ryvarra Identified | ev-03 | ev-04 (BD recruitment entry framing) |"
 
-**BD Acknowledged** (not in the brief's list; read by Fireball and by Sea Maidens)
+**BD Acknowledged** (not in the brief's list; read by Fireball)
 
 Set (`campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md:118-119`):
 
@@ -616,7 +580,7 @@ Set (`campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md:
 
 Read (`campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:466`): "**BD Acknowledged**, marked by **The Factions Come Calling** when Nevercott's visit goes ahead, is read by **Fireball!**."
 
-**Jarlaxle Unmasked** (not in the brief's list; written by Fireball ev-04 and Harpers m04; read by roughly 40 faction-event files)
+**Jarlaxle Unmasked** (not in the brief's list; written by Fireball ev-04 and Harpers m04; read by about forty faction-event files)
 
 Set (`campaign/quests/act-ii/fireball/ev-04-the-sea-maidens-faire.md:134-135`):
 
@@ -627,29 +591,29 @@ Set by Harper m04 (`campaign/quests/faction-events/harpers/m04-a-friends-house/e
 
 > - **Jarlaxle Unmasked** — mark for each character present when Jarlaxle gives his name in private, if that character was not already marked by the Sea Maidens Faire Event of **Fireball!**; read by every Bregan D'aerthe event and by **Sea Maidens Faire** (unconverted).
 
-Gate on the first meeting (`campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:22`):
+Gate on the First Meeting (`campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:22`):
 
 > J.B. Nevercott is Jarlaxle Baenre in a *hat of disguise*, so nobody in the room can describe his face afterward. He never admits to being anyone else, even if a player guesses, and nobody in this Event says Jarlaxle's name aloud. **Jarlaxle Unmasked** is marked later, for each member separately. Until then, Bregan D'aerthe speakers say "the captain" or "J."
 
-Lords' Alliance gate (`campaign/quests/faction-events/lords-alliance/m06-an-audience-with-the-open-lord/ev-01-an-audience-with-the-open-lord.md:202`):
+Lords' Alliance read (`campaign/quests/faction-events/lords-alliance/m06-an-audience-with-the-open-lord/ev-01-an-audience-with-the-open-lord.md:202`):
 
 > - **The carnival fleet:** wants a seat for Luskan in the Lords' Alliance and holds an Eye of the Stone. With **Jarlaxle Unmasked**, a character may name Jarlaxle Baenre and Zardoz Zord, and Laeral says only that she knows the first name.
 
-Structure reading (for Sea Maidens, arc-h): "BD operational?" is a flag in `campaign/structure/arc-h-sea-maidens-faire.md:270`: "- **Bregan D'aerthe.** Set the \"BD operational?\" flag. Five states:"
+Sea Maidens structure doc's flag (`campaign/structure/arc-h-sea-maidens-faire.md:270`): "- **Bregan D'aerthe.** Set the \"BD operational?\" flag. Five states:"
 
 ---
 
 ### Quests, events and location journals featuring him
 
-Quest journals (counts of lines matching Jarlaxle, Zord, Nevercott, Rongquan, Marpenoth or Eyecatcher, from Grep in `campaign/quests`):
+Quest journals (line counts of matches for Jarlaxle, Zord, Nevercott, Rongquan, Marpenoth or Eyecatcher, from Grep in `campaign/quests`; counts only, not all lines read):
 
-- `campaign/quests/act-i/trollskull-alley/` — `ev-04-the-factions-come-calling.md` (5), `ev-03-the-neighbors.md` (2), `ev-05-the-field-of-triumph.md` (10), `ev-07-the-twin-parades.md` (1), `flowchart.md` (3), `overview.md` (3)
-  - ev-05 line 19: "An invitation arrives from the Sea Maidens Faire, a carnival flotilla docked in Waterdeep Harbor. **Zardoz Zord**, the Faire's flamboyant Illuskan captain, has reserved gladiatorial entry slots at the Field of Triumph."
-  - ev-05 line 77: "Zardoz Zord watches every bout from the Faire's reserved box, expansive and theatrically delighted."
-- `campaign/quests/act-i/finding-floon/` — `ev-02-dock-ward-investigation.md` (1), `design-notes.md` (1). Finding Floon has no Nar'l reporting to Jarlaxle (Searched "Nar'l" and "Sending"; the only hit is `overview.md:33` for Nihiloor).
-- `campaign/quests/act-ii/fireball/` — `overview.md` (2), `ev-03-the-nimblewright-hunt.md` (8), `ev-04-the-sea-maidens-faire.md` (44), `design-notes.md` (2), `flowchart.md` (1)
-  - overview line 38: "- **Captain Zardoz Zord / Jarlaxle Baenre** (Sea Maidens Faire) — Bregan D'Aerthe master; knows about the fireball, the gnome, the Stone, the Eyes and the vault before the party arrives (he has known of the last three since reaching Waterdeep); decides how much to share and at what price"
-  - ev-04 lines 108-113 ("Who Zord Is"):
+- `campaign/quests/act-i/trollskull-alley/`: `ev-04-the-factions-come-calling.md` (5), `ev-03-the-neighbors.md` (2), `ev-05-the-field-of-triumph.md` (10), `ev-07-the-twin-parades.md` (1), `flowchart.md` (3), `overview.md` (3).
+  - `ev-05-the-field-of-triumph.md:19` (the paragraph continues after "at the Field of Triumph."): "An invitation arrives from the Sea Maidens Faire, a carnival flotilla docked in Waterdeep Harbor. **Zardoz Zord**, the Faire's flamboyant Illuskan captain, has reserved gladiatorial entry slots at the Field of Triumph."
+  - `ev-05-the-field-of-triumph.md:77`: "Zardoz Zord watches every bout from the Faire's reserved box, expansive and theatrically delighted."
+- `campaign/quests/act-i/finding-floon/`: `ev-02-dock-ward-investigation.md` (1), `design-notes.md` (1). Finding Floon has no Nar'l reporting to Jarlaxle (searched "Nar'l", "Sending", "Bregan", "Jarlaxle"; the only hits are Ryvarra at `ev-01-yawning-portal.md:29` and `overview.md:28`).
+- `campaign/quests/act-ii/fireball/`: `overview.md` (2), `ev-03-the-nimblewright-hunt.md` (8), `ev-04-the-sea-maidens-faire.md` (44), `design-notes.md` (2), `flowchart.md` (1).
+  - `overview.md:38`: "- **Captain Zardoz Zord / Jarlaxle Baenre** (Sea Maidens Faire) — Bregan D'Aerthe master; knows about the fireball, the gnome, the Stone, the Eyes and the vault before the party arrives (he has known of the last three since reaching Waterdeep); decides how much to share and at what price"
+  - `ev-04-the-sea-maidens-faire.md:108-113` ("Who Zord Is"):
     > The party can learn that Captain Zord is Jarlaxle Baenre in two ways during this event:
     >
     > - **The ledger.** Both folios open with the seller's line, "Sold through the Eyecatcher, J. Baenre, for the Company." A character who reads either ledger and makes a successful DC 14 Intelligence (History) check knows the name: Jarlaxle Baenre, a drow mercenary captain of some legend. On a failure the name means nothing yet, and the character can ask about it later.
@@ -658,54 +622,47 @@ Quest journals (counts of lines matching Jarlaxle, Zord, Nevercott, Rongquan, Ma
     > Asking Zord directly (Path 1) or watching the crystal ball (Path 3) does not give the name on its own.
 
     — `campaign/quests/act-ii/fireball/ev-04-the-sea-maidens-faire.md:108-113`
-- `campaign/quests/act-ii/gralhund-villa/` — `ev-01-what-the-factions-say.md` (7), `overview.md` (3), `ev-02-saerdoun-street.md` (6), `ev-04-the-zhentarim-raid.md` (7), `ev-06-the-gralhund-confrontation-day.md` (5), `ev-07-the-gralhund-confrontation-night.md` (5), `ev-08-the-rooftop-chase.md` (1), `ev-09-aftermath.md` (7), `design-notes.md` (8), `flowchart.md` (4). Key BD lines: `ev-01:41` ("### Jarlaxle Baenre (conditional on *Jarlaxle Informed* ...)"); `overview.md:30` (Fel'rekt's offer; quoted as `"The Stone, Lady Gralhund. That is all I am here for."`).
-- `campaign/quests/faction-events/bregan-daerthe/` — 00-first-meeting (49 lines), m01 through m06, r03 through r50, s01 through s05. Counts: `00-first-meeting/ev-01-first-meeting.md` (49), `m01-the-handkerchief-and-the-girl/ev-01` (39), `m02-the-wazoo-affair/ev-01` (33), `m04-the-compromised-eye/ev-01` (12), `m05-the-theaters-back-room/ev-01` (21), `m06-the-dive/ev-02-before-dawn.md` (29), `r10-officer/ev-01` (35), `r25-commander/ev-01` (60), `r50-houseless-noble/ev-01` (51), `s03-dinner-with-zardoz/ev-01` (78), `s05-the-killers-fate/ev-01` (56).
-  - s03 line 137: "If the party spoke with Zardoz aboard the *Eyecatcher* during **Fireball!** (**Jarlaxle Informed** is marked), read or paraphrase the following:"
-  - s05 ev-01 line 14: "Nobody says the name Jarlaxle in speech or readaloud unless **Jarlaxle Unmasked** is marked for that member. The speakers say \"the captain\" instead."
-- Other faction-event folders naming the carnival or Jarlaxle: `order-of-the-gauntlet/r10-whitehawk/ev-01-whitehawk.md` (2), `order-of-the-gauntlet/r25-vindicator/ev-01-vindicator.md` (2), `order-of-the-gauntlet/r50-righteous-hand/ev-01-righteous-hand.md` (2), `lords-alliance/r50-lioncrown/ev-01-lioncrown.md` (6), `lords-alliance/r25-warduke/ev-01-warduke.md` (3), `lords-alliance/s02-escalation-to-the-open-lord/ev-01-escalation-to-the-open-lord.md` (3), `force-grey/m02-the-dragon-in-the-harbor/ev-01-the-dragon-in-the-harbor.md` (12), `harpers/m04-a-friends-house/ev-03-the-confrontation.md` (33), `doom-raiders/m01-the-dockside-killer/ev-01-the-dockside-killer.md` (11).
-  - Line `lords-alliance/r50-lioncrown/ev-01-lioncrown.md:279`: "If **Jarlaxle Unmasked** is not marked, Laeral answers the next question as follows:"
+- `campaign/quests/act-ii/gralhund-villa/`: `ev-01-what-the-factions-say.md` (7), `overview.md` (3), `ev-02-saerdoun-street.md` (6), `ev-04-the-zhentarim-raid.md` (7), `ev-06-the-gralhund-confrontation-day.md` (5), `ev-07-the-gralhund-confrontation-night.md` (5), `ev-08-the-rooftop-chase.md` (1), `ev-09-aftermath.md` (7), `design-notes.md` (8), `flowchart.md` (4). Key lines: `ev-01-what-the-factions-say.md:41` (quoted above); `overview.md:30`: "Fel'rekt Lafeen (Bregan D'Aerthe — conditional on *Jarlaxle Informed*) — the drow negotiator across the street; arrives through the balcony during the raid; his offer to Yalah is the cleanest sentence in the building: *\"The Stone, Lady Gralhund. That is all I am here for.\"*"
+- `campaign/quests/faction-events/bregan-daerthe/`: `00-first-meeting` (49 matches in `ev-01-first-meeting.md`), `m01-the-handkerchief-and-the-girl` (39), `m02-the-wazoo-affair` (33 in `ev-01`), `m04-the-compromised-eye` (12), `m05-the-theaters-back-room` (21), `m06-the-dive` (29 in `ev-02`), `r03-soldier` (35), `r10-officer` (35), `r25-commander` (60), `r50-houseless-noble` (51), `s02-kreb-drops-the-cover` (16), `s03-dinner-with-zardoz` (78), `s04-contact-severed` (17), `s05-the-killers-fate` (56).
+  - `s03-dinner-with-zardoz/ev-01-dinner-with-zardoz.md:137`: "If the party spoke with Zardoz aboard the *Eyecatcher* during **Fireball!** (**Jarlaxle Informed** is marked), read or paraphrase the following:"
+  - `s05-the-killers-fate/ev-01-the-killers-fate.md:14`: "Nobody says the name Jarlaxle in speech or readaloud unless **Jarlaxle Unmasked** is marked for that member. The speakers say \"the captain\" instead."
+- Other faction-event folders naming the carnival or Jarlaxle (counts): `order-of-the-gauntlet/r10-whitehawk/ev-01-whitehawk.md` (2), `order-of-the-gauntlet/r25-vindicator/ev-01-vindicator.md` (2), `order-of-the-gauntlet/r50-righteous-hand/ev-01-righteous-hand.md` (2), `lords-alliance/r50-lioncrown/ev-01-lioncrown.md` (6), `lords-alliance/r25-warduke/ev-01-warduke.md` (3), `lords-alliance/s02-escalation-to-the-open-lord/ev-01-escalation-to-the-open-lord.md` (3), `force-grey/m02-the-dragon-in-the-harbor/ev-01-the-dragon-in-the-harbor.md` (12), `harpers/m04-a-friends-house/ev-03-the-confrontation.md` (33), `doom-raiders/m01-the-dockside-killer/ev-01-the-dockside-killer.md` (11).
+  - `lords-alliance/r50-lioncrown/ev-01-lioncrown.md:279`: "If **Jarlaxle Unmasked** is not marked, Laeral answers the next question as follows:"
   - `doom-raiders/m01-the-dockside-killer/ev-01-the-dockside-killer.md:283`: "The company learns who stood in the alley within a tenday. **The Killer's Fate** runs the consequences: Nevercott's \"You were there.\", a loss of 1 Renown unless the member explains themselves well, and nothing worse. If Soluun survives, **Soluun Expelled** follows."
 
 Location journals:
-- `campaign/locations/sea-maidens-faire/` — `area-overview.md` (9), `05-scarlet-marpenoth.md` (13), `04-eyecatcher-zords-office.md` (11), `03-eyecatcher-main-deck.md` (5), `02-heartbreaker-officers-cabin.md` (3). Key lines:
+
+- `campaign/locations/sea-maidens-faire/` (`area-overview.md` 9, `05-scarlet-marpenoth.md` 13, `04-eyecatcher-zords-office.md` 11, `03-eyecatcher-main-deck.md` 5, `02-heartbreaker-officers-cabin.md` 3):
   - `04-eyecatcher-zords-office.md:11`: "**Zord Interview (J29):** A party that arranges a meeting with Zord is escorted here by the steward. Zord is already present, seated, hat in place. He knows about the fireball, the gnome, and the Stone. He reads the party's investigation state in the first two exchanges and decides how much to share."
   - `04-eyecatcher-zords-office.md:13`: "If the party asks about the nimblewright: Zord excuses himself briefly, steps through the wardrobe into J30 (he closes the door behind him), and returns with the Gralhund name, address, and the note that the unit had \"combat programming — unusual for a household model.\" He presents this as a simple ledger lookup. Consequence: Jarlaxle has full intelligence on the party's investigation. He deploys BD agents to Gralhund Villa."
   - `04-eyecatcher-zords-office.md:15`: "**Bregan D'Aerthe Member:** A drow party member (or any party member with BD affiliation established) is escorted not to J29 but through the wardrobe directly to J30. The hat comes off."
-  - `area-overview.md:16` cross-references "**ev-05 (The Sea Maidens Faire):** Primary event." (stale: the Fireball event file is `ev-04-the-sea-maidens-faire.md`).
-- `campaign/locations/gralhund-villa/g13-upstairs-foyer.md:9` and `g17-balcony.md:9` (BD assault, conditional on Jarlaxle Informed).
-- `campaign/locations/house-of-inspired-hands/01-main-hall.md` (4), `02-nims-attic.md` (1); `campaign/locations/xanathar-sewer-hideout/area-overview.md` (2, see Relationships).
+  - `area-overview.md:16` cross-references "**ev-05 (The Sea Maidens Faire):** Primary event." This is stale: the Fireball file is `ev-04-the-sea-maidens-faire.md`.
+- `campaign/locations/gralhund-villa/g13-upstairs-foyer.md:9` and `g17-balcony.md:9` (BD assault, conditional on *Jarlaxle Informed*).
+- `campaign/locations/house-of-inspired-hands/01-main-hall.md` (4), `02-nims-attic.md` (1). `campaign/locations/xanathar-sewer-hideout/area-overview.md` (2, see Relationships).
 
-Structure docs (not quest journals; Vault of Dragons and the other lairs are pending conversion): `arc-h-sea-maidens-faire.md` (84), `arc-d-gralhund-villa.md` (29), `arc-f-xanathars-lair.md` (25), `arc-c-fireball.md` (21), `arc-b-trollskull-alley.md` (14), `arc-e-faction-outposts.md` (13), `arc-j-vault-of-dragons.md` (13), `arc-g-cassalanter-villa.md` (8), `arc-i-kolat-towers.md` (8). Arc H lines for the Sea Maidens: 9-15 (Faire arrival, nimblewright, personas), 79 (Shipwright's Ball: "Jarlaxle attends the Ball in disguise — as J.B. Nevercott or Rongquan Mystere."), 107 (Nevercott hires party to rob Zord), 334 (Fireball Scene 4: "Jarlaxle's introduction"), 340-343 (cross-clue), 378 ("Zardoz Betrayal Pitch").
+Structure docs (not quest journals; the lairs are pending conversion): `arc-h-sea-maidens-faire.md` (84 matches), `arc-d-gralhund-villa.md` (29), `arc-f-xanathars-lair.md` (25), `arc-c-fireball.md` (21), `arc-b-trollskull-alley.md` (14), `arc-e-faction-outposts.md` (13), `arc-j-vault-of-dragons.md` (13), `arc-g-cassalanter-villa.md` (8), `arc-i-kolat-towers.md` (8). Arc H lines of note: 9-15 (the Faire's arrival, nimblewright network, personas), 79 ("Jarlaxle attends the Ball in disguise — as J.B. Nevercott or Rongquan Mystere."), 107 (Nevercott hires the party to rob Zord), 334 (Fireball Scene 4: "Jarlaxle's introduction"), 338 (Bestiary, "not yet drafted", custom stat block for Jarlaxle), 378 (Zardoz Betrayal Pitch).
 
-Design notes: `campaign/guides/gm-guide/design-notes-running-the-campaign.md:79-85` (see Entry and Activation); `campaign/quests/faction-events/bregan-daerthe/s05-the-killers-fate/design-notes.md:17`.
-
-Bestiary: `campaign/structure/arc-h-sea-maidens-faire.md:338` — "**Bestiary** (not yet drafted) — Custom stat block for Jarlaxle (boss encounter). Stat blocks for Soluun, Fel'rekt, Krebbyg (drow gunslingers)."
+Design notes: `campaign/guides/gm-guide/design-notes-running-the-campaign.md:79-85` (see Entry and Activation); `campaign/quests/faction-events/bregan-daerthe/s05-the-killers-fate/design-notes.md:17`: "Nevercott is Jarlaxle in a *hat of disguise*, and nobody says \"Jarlaxle\" until **Jarlaxle Unmasked** is marked for a member."
 
 ---
 
 ### Stale lines in other files
 
-Quoted, with the outcome names as written.
-
-- `campaign/setting/villains/jarlaxle.md:3` — uses "flag" for **BD Contact Severed**, **Ryvarra Identified** and **Jarlaxle Informed** (quoted in full above).
-- `campaign/quests/act-ii/fireball/ev-04-the-sea-maidens-faire.md:125` — heading "#### Jarlaxle Informed: True / False" (the outcome is a "True / False" flag heading, the rule forbids this form).
-- `campaign/quests/act-i/trollskull-alley/ev-03-the-neighbors.md:57` — "#### Ryvarra Identified: True / False"; `:59` — "The attunement modifies how ev-04's BD recruitment sequence opens."
-- `campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md:121` — "#### BD Contact Severed: True / False"; `:118` — "#### BD Acknowledged: True / False".
-- `campaign/quests/act-i/trollskull-alley/flowchart.md:72` — "## Attunements Set in This Quest"; `:74` table header "| Attunement | Set At | Read By |".
-- `campaign/quests/act-ii/gralhund-villa/ev-02-saerdoun-street.md:54` — "If the party set the *Jarlaxle Informed* attunement in **Fireball!**"
-- `campaign/guides/gm-guide/player-factions-overview.md:180` — "This flag closes BD membership for the entire campaign."; `:179` callout "Bregan D'aerthe Contact Severed" (heading differs from the outcome name).
-- `campaign/guides/gm-guide/player-factions-overview.md:169` — "Any PC is a candidate." (see Conflicts).
-- `campaign/guides/gm-guide/design-notes-running-the-campaign.md:83` — "The flag records the party's contact with him, not his knowledge"; "Faction membership doesn't escalate him; the flag does."
-- `campaign/guides/gm-guide/running-the-villains.md:25` — "keys off the **Jarlaxle Informed** flag".
-- `campaign/guides/trollskull-manor/09-response-teams-at-the-tavern.md:96` — "This scene never fires for a party with **BD Contact Severed**, and it never reopens membership: Bregan D'aerthe recruits only in **Trollskull Alley**."
-- `campaign/structure/arc-d-gralhund-villa.md:77` and `:344` — "Arc C" labels for the Jarlaxle Informed outcome.
-- `campaign/quests/faction-events/bregan-daerthe/s04-contact-severed/design-notes.md:48` — names `campaign/guides/gm-guide/player-factions-overview.md` (lines 169 and 176) and `campaign/guides/factions/08-bregan-daerthe.md` (line 37) as describing **BD Contact Severed** as party-wide and permanent (not re-read here).
+- `campaign/setting/villains/jarlaxle.md:3`: uses "flag" for **BD Contact Severed**, **Ryvarra Identified** and **Jarlaxle Informed** (quoted in full above).
+- `campaign/quests/act-ii/fireball/ev-04-the-sea-maidens-faire.md:125`: heading "#### Jarlaxle Informed: True / False" (a True/False flag heading; the rule forbids this form).
+- `campaign/quests/act-i/trollskull-alley/ev-03-the-neighbors.md:57`: "#### Ryvarra Identified: True / False"; `:59` "The attunement modifies how ev-04's BD recruitment sequence opens."
+- `campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md:118` and `:121`: "#### BD Acknowledged: True / False" and "#### BD Contact Severed: True / False".
+- `campaign/quests/act-i/trollskull-alley/flowchart.md:72`: "## Attunements Set in This Quest"; `:74` table header "| Attunement | Set At | Read By |".
+- `campaign/quests/act-ii/gralhund-villa/ev-02-saerdoun-street.md:54`: "If the party set the *Jarlaxle Informed* attunement in **Fireball!**"
+- `campaign/guides/gm-guide/player-factions-overview.md:180`: "This flag closes BD membership for the entire campaign." Callout heading at `:179` is "Bregan D'aerthe Contact Severed", which differs from the outcome name.
+- `campaign/guides/gm-guide/design-notes-running-the-campaign.md:83`: "The flag records the party's contact with him, not his knowledge" and "Faction membership doesn't escalate him; the flag does."
+- `campaign/guides/gm-guide/running-the-villains.md:25`: "keys off the **Jarlaxle Informed** flag".
+- `campaign/guides/trollskull-manor/09-response-teams-at-the-tavern.md:96`: "This scene never fires for a party with **BD Contact Severed**, and it never reopens membership: Bregan D'aerthe recruits only in **Trollskull Alley**."
+- `campaign/structure/arc-d-gralhund-villa.md:77` and `:344`: "Arc C" labels for the Jarlaxle Informed outcome.
 - `campaign/quests/faction-events/bregan-daerthe/00-first-meeting/design-notes.md:5`: "The restored draft marked **Bregan D'aerthe Joined** and **BD Contact Severed** as party-wide flags, so one report to the Watch closed Bregan D'aerthe to everyone for the whole campaign."
-- `campaign/structure/arc-h-sea-maidens-faire.md:270` — "Set the \"BD operational?\" flag." and `:343` — "\"BD operational?\" flag set in this quest's Scene 6".
-- `campaign/setting/history/03-bregan-daerthes-long-road.md:161-162` — stale Nar'l and Waterdeep-tenure figures: `campaign/structure/arc-f-xanathars-lair.md` line 17 and `arc-h` line 15 (not re-read here).
-- `campaign/setting/organizations/07-bregan-daerthe.md:11` — "a haberdasher who happens to know a great deal about editorial publishing schedules" (no source found for that detail; the published line is "a haberdasher named J.B. Nevercott", `sources/adventure-wdh.json:3601`).
-- `campaign/quests/act-ii/fireball/ev-04-the-sea-maidens-faire.md:125` already listed.
-- `campaign/quests/act-i/trollskull-alley/flowchart.md:52-53` — "ev-03: Ryvarra spotted (optional)".
+- `campaign/quests/faction-events/bregan-daerthe/s04-contact-severed/design-notes.md:48`: names `player-factions-overview.md` (lines 169 and 176) and `campaign/guides/factions/08-bregan-daerthe.md` (line 37) as still describing **BD Contact Severed** as party-wide and permanent (those two files were not re-read here).
+- `campaign/structure/arc-h-sea-maidens-faire.md:270` and `:343`: "Set the \"BD operational?\" flag." and "\"BD operational?\" flag set in this quest's Scene 6".
+- `campaign/setting/organizations/07-bregan-daerthe.md:11`: "a haberdasher who happens to know a great deal about editorial publishing schedules". No source found for that detail; the published line is "a haberdasher named J.B. Nevercott" (`sources/adventure-wdh.json:3601`).
 
 ---
 
@@ -715,65 +672,56 @@ Quoted, with the outcome names as written.
    - Alexandrian: "As Dragon Heist begins, Jarlaxle is unaware of the *Stone of Golorr* or the Grand Game which is being played." — `sources/1. The Villains.pdf` p.17 [transcribed from page image].
    - Campaign: "He arrives in Waterdeep already knowing of the Stone, the three Eyes and the vault, and Nar'l's reports keep him current." — `campaign/setting/history/03-bregan-daerthes-long-road.md:76`.
    - Campaign ruling: "Overruled: the Alexandrian line that he is unaware of the Stone and the Grand Game at the start (`1. The Villains.pdf` p.17)." — `campaign/setting/history/03-bregan-daerthes-long-road.md:160`.
-   - Higher ranked: campaign files. Villain page's line 3 is consistent with the campaign ruling.
+   - Higher ranked: the campaign files. The villain page line 3 matches the campaign ruling.
 
-2. **When the identity is revealed.** Villain page line 3: "His identity stays hidden behind J.B. Nevercott and Zardoz Zord until **Sea Maidens Faire**." (`campaign/setting/villains/jarlaxle.md:3`). Campaign files that say the reveal starts in Fireball:
+2. **When the identity is revealed.** Villain page line 3: "His identity stays hidden behind J.B. Nevercott and Zardoz Zord until **Sea Maidens Faire**." (`campaign/setting/villains/jarlaxle.md:3`). Campaign files that place the reveal in Fireball:
    - "Jarlaxle's true identity surfaces in **Fireball!** and **Sea Maidens Faire**, when the nimblewright thread leads the party to the carnival and its captain." — `campaign/guides/gm-guide/player-factions-overview.md:182`
-   - "The moment the party connects the haberdasher to Zardoz Zord, and Zardoz Zord to the man behind the nimblewrights, is the reveal the campaign has been building toward." — `campaign/guides/gm-guide/design-notes-running-the-campaign.md:81`, and "The Faire is where the unmasking happens and where Eye #3 is held." — same file, line 85.
+   - "The moment the party connects the haberdasher to Zardoz Zord, and Zardoz Zord to the man behind the nimblewrights, is the reveal the campaign has been building toward." — `campaign/guides/gm-guide/design-notes-running-the-campaign.md:81`. Line 85 of the same file: "The Faire is where the unmasking happens and where Eye #3 is held."
    - Fireball ev-04 "Who Zord Is" (lines 108-113, quoted above) gives the name in Fireball.
-   - "Captain Zardoz Zord is Jarlaxle Baenre, and he is the secret lord of Luskan. Nothing in the Overview links him to the company, and the party learns the link in **Sea Maidens Faire**." — `campaign/setting/history/03-bregan-daerthes-long-road.md:86`
-   - Brief: the Jarlaxle Overview and "Zord until Sea Maidens" rule. Not resolved here.
+   - The history page: "Captain Zardoz Zord is Jarlaxle Baenre, and he is the secret lord of Luskan. Nothing in the Overview links him to the company, and the party learns the link in **Sea Maidens Faire**." — `campaign/setting/history/03-bregan-daerthes-long-road.md:86`
+   - Not resolved here; the orchestrator must choose.
 
-3. **Phase 1 eccentric's nationality.** Current: "a plausible, theatrical Illuskan eccentric" (`campaign/setting/villains/jarlaxle.md:13`). Retired ch2: "a plausible, theatrical Calishite eccentric" (`campaign/structure/ch2-city-of-splendors.md:316`). Campaign: "Illuskan human" (`campaign/setting/history/03-bregan-daerthes-long-road.md:72`). Current campaign wins.
+3. **Phase 1 eccentric's nationality.** Current page: "a plausible, theatrical Illuskan eccentric" (`campaign/setting/villains/jarlaxle.md:13`). Retired ch2: "a plausible, theatrical Calishite eccentric" (`campaign/structure/ch2-city-of-splendors.md:316`). Campaign: "Zord is Jarlaxle in the magical guise of an Illuskan human." (`campaign/setting/history/03-bregan-daerthes-long-road.md:72`). The current campaign wins.
 
-4. **Who can join.** Published: "Only drow are given serious consideration, but Jarlaxle doesn't care if they're male or female." (`sources/adventure-wdh.json:3601`). Campaign: "Any PC is a candidate." (`campaign/guides/gm-guide/player-factions-overview.md:169`). Campaign ruling wins, and the villain page line 3 says "offers enrollment to any interested PC."
+4. **Who can join.** Published: "Only drow are given serious consideration, but Jarlaxle doesn't care if they're male or female." (`sources/adventure-wdh.json:3601`). Campaign: "Any PC is a candidate." (`campaign/guides/gm-guide/player-factions-overview.md:169`). The campaign ruling wins, and the villain page line 3 says "offers enrollment to any interested PC."
 
-5. **Dragonstaff motive.** Published: "for leverage in his negotiations" (`sources/adventure-wdh.json:549`). Current NF: "acquire the dragonstaff of Ahghairon for leverage over Waterdeep" (`campaign/setting/notable-figures/bregan-daerthe/01-jarlaxle-baenre.md:16`). Campaign NF is the higher-ranked campaign file. The Ahghairon history page says "Jarlaxle wants it as leverage over Waterdeep" (`campaign/setting/history/01-ahghairons-gifts.md:95`).
+5. **Dragonstaff motive.** Published: "for leverage in his negotiations" (`sources/adventure-wdh.json:549`). Current NF: "acquire the dragonstaff of Ahghairon for leverage over Waterdeep" (`campaign/setting/notable-figures/bregan-daerthe/01-jarlaxle-baenre.md:16`). The Ahghairon page: "Jarlaxle wants it as leverage over Waterdeep." (`campaign/setting/history/01-ahghairons-gifts.md:95`). Campaign wins.
 
-6. **Lords' Alliance as aim.** Published: "Lords' Alliance membership is the latest of Jarlaxle's schemes" (`history/03:64` quoting `adventure-wdh.json:32179`). Campaign: "the real prize" (`campaign/setting/villains/jarlaxle.md:56`); "It is what he has been working toward since he arrived in the city." (`campaign/guides/gm-guide/player-factions-overview.md:186`). Campaign wins.
+6. **Lords' Alliance as aim.** Published: "Lords' Alliance membership is the latest of Jarlaxle's schemes in the published adventure" (`campaign/setting/history/03-bregan-daerthes-long-road.md:64`, quoting `sources/adventure-wdh.json:32179`). Campaign: "the real prize" (`campaign/setting/villains/jarlaxle.md:56`) and "It is what he has been working toward since he arrived in the city." (`campaign/guides/gm-guide/player-factions-overview.md:186`). Campaign wins.
 
-7. **Gold return.** Published: "He intends to return the gold to {@creature Laeral Silverhand|WDH}, less 5,000 gp for the characters in exchange for their help." (`sources/adventure-wdh.json:22949`). Campaign GM guide: "proposes returning the gold publicly in the party's name in exchange for a letter of introduction to the Alliance council" (`player-factions-overview.md:186`). Campaign wins for the Vault mechanics; not a contradiction of the villain page Goal 1 method "directly to the Open Lord".
+7. **Gold return.** Published: "He intends to return the gold to {@creature Laeral Silverhand|WDH}, less 5,000 gp for the characters in exchange for their help." (`sources/adventure-wdh.json:22949`). GM guide: "proposes returning the gold publicly in the party's name in exchange for a letter of introduction to the Alliance council." (`player-factions-overview.md:186`). Campaign wins for the Vault mechanics.
 
-8. **Relationship rows with no current source.** Renaer ("Renaer doesn't know who he met"), Nar'l contingency, "controlled beholder", and "PCs watched since Finding Floon": these exist only in `campaign/structure/ch2-city-of-splendors.md:350-355` (retired). The campaign files do not contain them (Searched; see Not found). The Sewer Hideout area overview supports the agents-in-hideout claim (`campaign/locations/xanathar-sewer-hideout/area-overview.md:75`).
+8. **Relationship rows with no current campaign source.** Renaer ("Renaer doesn't know who he met"), the Nar'l contingency, "controlled beholder" and "PCs watched since Finding Floon" exist only in `campaign/structure/ch2-city-of-splendors.md:350-355` (retired). The agents-in-hideout claim is supported by `campaign/locations/xanathar-sewer-hideout/area-overview.md:75`.
 
-9. **BD Contact Severed scope.** Villain page: "closes the faction for the campaign" (`campaign/setting/villains/jarlaxle.md:3`). Campaign GM guide: "This flag closes BD membership for the entire campaign." (`player-factions-overview.md:180`). Newer campaign event: "Severance is individual, like membership. **BD Contact Severed** closes Bregan D'aerthe for the named character only." (`campaign/quests/faction-events/bregan-daerthe/s04-contact-severed/ev-01-contact-severed.md:16`). The Event (first meeting) is the per-character model. The villain page and GM guide are stale.
+9. **BD Contact Severed scope.** Villain page: "closes the faction for the campaign" (`campaign/setting/villains/jarlaxle.md:3`). GM guide: "This flag closes BD membership for the entire campaign." (`player-factions-overview.md:180`). The newer event: "Severance is individual, like membership. **BD Contact Severed** closes Bregan D'aerthe for the named character only." (`campaign/quests/faction-events/bregan-daerthe/s04-contact-severed/ev-01-contact-severed.md:16`). The villain page and GM guide are stale.
 
-10. **Membership gate wording.** Villain page: "The only gate is party action" (`jarlaxle.md:3`). Trollskull ev-04 line 45 says contact ends "permanently" when reported. Not a conflict; noted.
+10. **Membership reporting.** Villain page: "The only gate is party action" (`jarlaxle.md:3`). Trollskull ev-04: "if they report the surveillance to the Watch, contact ends permanently." (`campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md:45`). Noted, not a conflict.
 
-11. **Eye #3 route.** Campaign ruling: "Zhentarim, then Xanathar's Guild, then Bregan D'aerthe (see **The Open Lord's Fall**)." (`history/03:164`). Alexandrian PDF 8 p.62 lists other holders, overruled (per history:164, not re-read).
+11. **Eye #3 route.** Campaign ruling: "Zhentarim, then Xanathar's Guild, then Bregan D'aerthe (see **The Open Lord's Fall**)." (`campaign/setting/history/03-bregan-daerthes-long-road.md:164`). The Alexandrian PDF 8 p.62 lists other holders and is overruled there (not re-read here).
 
-12. **Nevercott's Trollskull recruitment visit timing.** GM guide: "J.B. Nevercott knocks the next morning" (`player-factions-overview.md:174`) vs first-meeting: "until Nevercott's knock on Ches 10" (`campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:137`) and "when he calls on Ches 20" (`ev-01-first-meeting.md:463`). Two knock dates in the first-meeting event; not resolved.
-
-13. **Nevercott's knowledge of the company.** Organisation page: "He does not acknowledge that J.B. Nevercott and Zardoz Zord are the same person, even when both have been seen by the same party member" (`campaign/setting/organizations/07-bregan-daerthe.md:11`), vs Fireball ev-04 "A Bregan D'Aerthe member taken to his private cabin (below) sees the persona drop. He names himself." — no direct conflict; noted.
+12. **Nevercott's knock dates.** GM guide: "J.B. Nevercott knocks the next morning." (`player-factions-overview.md:174`). First meeting: "until Nevercott's knock on Ches 10" (`campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:137`) and "when he calls on Ches 20" (`ev-01-first-meeting.md:463`). Not resolved here.
 
 ---
 
-### Cross-references (files with the topic, not quoted in full)
+### Cross-references (other files that name the topic; not quoted in full)
 
-- `campaign/setting/notable-figures/bregan-daerthe/01-jarlaxle-baenre.md` (NF page; Featured in list at line 8)
+- `campaign/setting/notable-figures/bregan-daerthe/01-jarlaxle-baenre.md:8` (Featured in list)
 - `campaign/setting/organizations/07-bregan-daerthe.md:35`, `:50`, `:58`
 - `campaign/setting/history/00-the-history.md:30`: "**Bregan D'aerthe's Long Road** (10th century DR to 1492 DR): Jarlaxle's path from Menzoberranzan to Luskan, the company's rejection of Lolth, and the Sea Maidens Faire that brings him to Deepwater Harbor."
-- `campaign/setting/history/05-a-debt-in-blood.md:89` (quoted)
 - `campaign/setting/history/09-timekeeping-and-the-festival-calendar.md:69`: "| Tarsakh 20 | The Sea Maidens Faire sails at dawn | **Sea Maidens Faire** | Eye #3 leaves Waterdeep, the alliance path with Jarlaxle closes, and the heist must be finished before this date |"
-- `campaign/setting/history/09-timekeeping-and-the-festival-calendar.md:85`: "| Marpenoth 3 | Day of Wonders | ... |" (Gondar invention festival; first nimblewright sale)
-- `campaign/setting/history/01-ahghairons-gifts.md:95` (quoted in Conflicts 5)
 - `campaign/setting/history/06-the-open-lords-fall.md:89`: "The Cassalanters extracted the Brandath Eye through infernal divination, and it is Eye #2. Jarlaxle holds Eye #3, and Manshoon holds none."
 - `campaign/setting/history/06-the-open-lords-fall.md:168`: "The wiki and the published adventure (p.131) record a hostile rivalry between Neverember and Jarlaxle over Luskan's Lords' Alliance bid."
 - `campaign/setting/history/07-a-city-watching-itself.md:129`: "The campaign has nobody name Jarlaxle to her before **Jarlaxle Unmasked** (`r50-lioncrown/ev-01-lioncrown.md` line 38)."
-- `campaign/setting/history/08-the-players-arrive.md:24`: "Jarlaxle's nimblewright sales begin on Marpenoth 3, 1491 DR, and Nar'l Xibrindas was placed in the Xanathar's Guild one year ago, in 1491 DR."
+- `campaign/setting/history/08-the-players-arrive.md:24`: "The villains did not arrive together." (the same line gives "Jarlaxle's nimblewright sales begin on Marpenoth 3, 1491 DR")
 - `campaign/setting/grand-game.md:19`: "Jarlaxle has informants in every other faction; Skeemo Weirdbottle compiles all of it"
 - `campaign/setting/deities/lolth.md:77`, `:81`, `:93`
 - `campaign/setting/deities/asmodeus.md:66`: "or that Jarlaxle knows through Vessa."
 - `campaign/setting/deities/gond.md:72`: "that Captain Zardoz Zord is Jarlaxle".
 - `campaign/setting/organizations/03-emerald-enclave.md:42`: "No Enclave speaker names Jarlaxle, Zardoz Zord, or Bregan D'aerthe to players."
 - `campaign/setting/governance-and-guilds/open-lord-and-masked-lords.md:69`: "The four Lords the company can reach are Mirt, Durnan, Ulkoria and Jelenn, and Zardoz never confirms any of them aloud."
-- `campaign/setting/notable-figures/xanathars-guild/01-xanathar.md:27` (Nar'l "whom it does not yet know is Jarlaxle's spy")
+- `campaign/setting/notable-figures/xanathars-guild/01-xanathar.md:27`: Nar'l "whom it does not yet know is Jarlaxle's spy".
 - `campaign/setting/notable-figures/cassalanters/03-willifort-crowelle.md:24`: "he attempts to assassinate Jarlaxle, fails, then targets the PCs in a follow-up."
-- `campaign/setting/villains/manshoon.md:34` (quoted)
-- `campaign/setting/villains/xanathar.md:52` (quoted)
-- `campaign/guides/gm-guide/running-the-villains.md:41`, `:52` (quoted)
-- `campaign/guides/factions/08-bregan-daerthe.md` (cited by other files; not re-read)
-- `campaign/guides/gm-guide/player-factions-overview.md:182`, `:186` (quoted)
+- `campaign/setting/villains/manshoon.md:34`, `campaign/setting/villains/xanathar.md:52`, `campaign/guides/gm-guide/running-the-villains.md:41` and `:52` (quoted above)
 - `campaign/quests/act-ii/gralhund-villa/ev-04-the-zhentarim-raid.md:11`: "Jarlaxle's BD team fires in parallel to this timeline if *Jarlaxle Informed* is set."
 
 ---
@@ -782,22 +730,21 @@ Quoted, with the outcome names as written.
 
 - **Arrival in Waterdeep (wiki).** Searched `sources/research/pass4-bundles/jarlaxle/wiki.txt` for "Waterdeep", "Dragon Heist", "Sea Maidens", "Zardoz", "Nevercott" and "Lolth". The only arrival references are the linked Zardoz page (line 578) and the Sea Maidens page (line 518). No wiki line gives the year or month Jarlaxle reached Waterdeep.
 - **Phase names 2A, 2B, 3A, 3B in the structure doc.** Searched `campaign/structure/arc-h-sea-maidens-faire.md` for "Unmasked", "Graceful", "Jarlaxle in the Game", "The Patron" and "Phase": no matches.
-- **Goal 3 (Waterdeep as permanent base) current source.** Searched campaign for "permanent", "Dock Ward", "indispensable", "seasonal": only ch2:361 and the villain page.
-- **Relationship rows with no current source.** Renaer Neverember (no Jarlaxle line on the Renaer notable-figures page; the NF glob for `*renaer*` returned nothing that mentions Jarlaxle), Nar'l contingency, "controlled beholder", PCs watched since Finding Floon (`campaign/quests/act-i/finding-floon/` searched for "Nar'l", "Sending", "Bregan", "Jarlaxle": no Nar'l/Jarlaxle reporting line).
-- **Jarlaxle Overview with J.B. Nevercott.** The current page has no Overview. No current campaign Overview sentence names J.B. Nevercott and Zardoz Zord only; the closest are the NF Overview (`01-jarlaxle-baenre.md:30`) and the org Overview (`07-bregan-daerthe.md:58`), neither of which uses the Zord rule.
-- **Vault of Dragons quest journal.** Not converted; `campaign/structure/arc-j-vault-of-dragons.md` has 13 lines matching Jarlaxle (not read in full here).
-- **Krebbyg, Soluun, Fel'rekt NF pages** were read only for Jarlaxle lines (quoted above). Krebbyg's own NF line on Jarlaxle was in the Relationships grep; no further quote needed.
-- **Kimmuriel Oblodra** and the wiki's co-leadership: the campaign drops him (`history/03:152`). Not needed.
-- **Nevercott's voice profile** is not in `character-voices` (see `docs/plans/harpers-out-of-scope-notes.md:529`, not re-read).
+- **Goal 3 (Waterdeep as permanent base).** Searched the campaign for "permanent", "Dock Ward", "indispensable", "seasonal": only `campaign/structure/ch2-city-of-splendors.md:361` and the villain page contain it.
+- **Relationship rows with no current source.** Renaer Neverember: the Renaer notable-figures page does not mention Jarlaxle (the Jarlaxle grep over `campaign/setting/notable-figures` returned no Renaer hit). Nar'l contingency and "controlled beholder": no current file. PCs watched since Finding Floon: `campaign/quests/act-i/finding-floon/` searched for "Nar'l", "Sending", "Bregan", "Jarlaxle", no Nar'l or Jarlaxle reporting line.
+- **Jarlaxle Overview with J.B. Nevercott and Zardoz Zord.** No current campaign Overview sentence names only those two personas. The closest are the NF Overview (`campaign/setting/notable-figures/bregan-daerthe/01-jarlaxle-baenre.md:30`) and the org Overview (`campaign/setting/organizations/07-bregan-daerthe.md:58`), neither of which follows the Zord rule.
+- **Vault of Dragons quest journal.** Not converted; `campaign/structure/arc-j-vault-of-dragons.md` has 13 matches (not read in full here).
+- **Kimmuriel Oblodra.** The campaign drops him (`campaign/setting/history/03-bregan-daerthes-long-road.md:152`). Not needed for the page.
+- **Nevercott's voice profile.** Not in `character-voices` (see `docs/plans/harpers-out-of-scope-notes.md:529`, not re-read).
 - **Bestiary.** Not drafted (`campaign/structure/arc-h-sea-maidens-faire.md:338`).
-- **Alexandrian PDF 9 (`sources/9. Lair – Sea Maidens Faire.pdf`).** Not read in this pass (the SOURCE_GUIDE says it contains the reveal sequence; I did not open it).
-- **`sources/Act_III_Arc_E.md`.** Not searched.
+- **Alexandrian PDF 9 (`sources/9. Lair – Sea Maidens Faire.pdf`).** Not opened in this pass. SOURCE_GUIDE says it contains the reveal sequence.
+- **`sources/Act_III_Arc_E.md`.** Not searched for Jarlaxle.
 
 ---
 
 ### Not readable
 
-- `sources/Other remix files/Jarlaxle Baenre NPC Guide.docx` — SOURCE_GUIDE line 691 says it covers "Jarlaxle's personality, tactics, goals, and the Bregan D'aerthe operation; how to play him" (`sources/SOURCE_GUIDE.md:691`). Cannot be opened with these tools. Also cited by `history/03:110` as the source of the "third son" gloss.
-- `sources/Other remix files/Zardoz Zord (and extra side quest hook).docx` — SOURCE_GUIDE line 699 says it covers "Jarlaxle's 'Zardoz Zord' persona — the Sea Maidens Faire disguise and an additional side quest hook" (`sources/SOURCE_GUIDE.md:699`). Cannot be opened.
-- `sources/Other remix files/Gale of Waterdeep in Waterdeep Dragon Heist.docx`, `Renaer Neverember Guide...docx`, `Vajra Safahr, Zelifarn, and Deepwater Harbor quests.docx`, `Xoblob_s Shop...docx`: SOURCE_GUIDE lists these as touching Jarlaxle-adjacent topics (`sources/SOURCE_GUIDE.md:697` for the Vajra/Zelifarn file). Not opened.
-- Alexandrian PDFs read as page images (no text layer): `sources/1. The Villains.pdf` pages 2 and 5-6 were read from rendered images, and quotes from them are marked as transcriptions.
+- `sources/Other remix files/Jarlaxle Baenre NPC Guide.docx`: SOURCE_GUIDE line 691 says it covers "Jarlaxle's personality, tactics, goals, and the Bregan D'aerthe operation; how to play him" (`sources/SOURCE_GUIDE.md:691`). Cannot be opened with these tools. The history page cites it for the "third son" gloss (`campaign/setting/history/03-bregan-daerthes-long-road.md:38`).
+- `sources/Other remix files/Zardoz Zord (and extra side quest hook).docx`: SOURCE_GUIDE line 699 says it covers "Jarlaxle's 'Zardoz Zord' persona — the Sea Maidens Faire disguise and an additional side quest hook" (`sources/SOURCE_GUIDE.md:699`). Cannot be opened.
+- `sources/Other remix files/Renaer Neverember Guide, his backstory and family secrets.docx` and `Vajra Safahr, Zelifarn, and Deepwater Harbor quests.docx`: not opened. SOURCE_GUIDE line 697 covers the Vajra/Zelifarn file's Sea Maidens content.
+- Alexandrian PDF `sources/1. The Villains.pdf` has no text layer here; pages were read as images and the quotes are transcriptions.
