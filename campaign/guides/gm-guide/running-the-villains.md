@@ -29,7 +29,7 @@ The campaign's central plot runs through a chain of objects, each one gatekeepin
 > **Eye #2:** Cassalanters — vault beneath Cassalanter Villa (area A7). The family knows its function.
 > **Eye #3:** Jarlaxle Baenre — aboard the *Scarlet Marpenoth*. Jarlaxle knows exactly what it is. It passed from Renaer's locket to the Zhentarim, then to Xanathar's Guild in the warehouse raid, and Bregan D'aerthe agents inside Xanathar's hideout lifted it that night. Manshoon holds no Eye.
 
-**The Vault of Dragons** — 500,000 gold dragons, guarded by the adult gold dragon Aurinax under a geas, beneath the Brandath Crypts in the City of the Dead. The vault opens only when someone presents the complete Stone of Golorr, with all three Eyes restored, and speaks the command phrase the Stone reveals.
+**The Vault of Dragons** — 500,000 gold dragons, guarded by the adult gold dragon Aurinax under a geas, beneath the Brandath Crypts in the City of the Dead. The vault opens only when someone presents the complete Stone of Golorr, with all three Eyes restored, and speaks the command phrase, which the Stone gives at the third Eye.
 
 ## Faction Knowledge at Campaign Start
 
