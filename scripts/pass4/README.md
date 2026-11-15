@@ -1,0 +1,3 @@
+# Pass 4 tooling
+
+`bundle_pass4.py` builds one research bundle per Pass 4 page (the three villain pages, The Grand Game and What Each Faction Knows at Start) from the offline wiki index and the campaign and adventure files. Run it from the repo root with `SCRATCH=<dir> OUT=sources/research/pass4-bundles python3 -I scripts/pass4/bundle_pass4.py`. It needs the wiki index (`scripts/fandom-dump/README.md`). Unlike Pass 3 there are no fixed adventure line ranges; `adventure-hits.txt` lists every line that names a page's aliases. `check_quotes.py` verifies the quotes in a notes file against the bundles.

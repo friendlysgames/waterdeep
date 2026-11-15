@@ -1,0 +1,1823 @@
+=== WIKI PAGE: Jarlaxle
+
+{{Person
+| image          = <gallery>
+Jarlaxle-5e.png|5e 
+Jarlaxle FRCG.jpg|4e 
+Jarlaxle.jpg|2e 
+</gallery>
+| caption2       = The famed mercenary Jarlaxle.
+| name           = Jarlaxle
+| alt_spelling   = 
+| titles         = Captain of the Guard ([[House Do'Urden]])<ref name="NotH-p230">{{Cite book/Night of the Hunter/Hardcover|230}}</ref>
+| aliases        = Jarlaxle Baenre<ref>{{Cite book/Servant of the Shard/Hardcover|348|Epilogue}}</ref><br/>Jarlaxle D'aerthe<ref name="PotWK-p53">{{Cite book/Promise of the Witch-King/MMP (2006)|53|3}}</ref><br/>Catti<ref name="RotK-p280">{{Cite book/Rise of the King/Hardcover|280}}</ref><br/>[[Zardoz Zord]]<ref name="WDH5e-p131">{{Cite book/Waterdeep: Dragon Heist|131}}</ref>
+| nicknames      = 
+| true name      = 
+| home           = The surface world (especially [[Luskan]])<ref name="NotH-p101">{{Cite book/Night of the Hunter/Hardcover|101}}</ref>
+| formerhomes    = [[Menzoberranzan]], [[Northdark]]<ref name="SN-p94">{{Cite book/Starless Night/Paperback (1994)|94}}</ref><br/>[[Calimport]], [[Calimshan]]<ref name="SotS"/><br/>[[Bloodstone Lands]]<ref name="PotWK" /><br/>[[Luskan]], [[Sword Coast North]]<ref name="TPK"/>
+| sex            = Male
+| gender         = 
+| race           = [[Drow]]<ref name="SN-p94" />
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = [[Abyssal language|Abyssal]],<ref name="FRCG-p251"/><ref name="WDH5e-p206">{{Cite book/Waterdeep: Dragon Heist|206}}</ref> [[Common]],<ref name="SN-p130">{{Cite book/Starless Night/Paperback (1994)|130}}</ref><ref name="WDH5e-p206" /> [[Drow language|Drow]], [[Drow Sign]],<ref name="SN-p94"/> [[Elven]],<ref name="FRCG-p251"/><ref name="WDH5e-p206" /> [[Dwarvish]],<ref name="WDH5e-p206" /> [[Halfling language|Halfling]],<ref name="PotWK-p89" /> [[Gnome language|Gnome]],<ref name="SN-p152">{{Cite book/Starless Night/Paperback (1994)|152}}</ref> [[Undercommon]]<ref name="WDH5e-p206" />
+| basicrefs      = 
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| death          = 
+| deathnotes     = 
+| turned         = 
+| turnednotes    = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = [[Yvonnel Baenre]]
+| spouses        = 
+| siblings       = [[Gromph Baenre]]<br />[[Triel Baenre]]<br />[[Doquaio Baenre]]<br />[[Quenthel Baenre]]<br />[[Dantrag Baenre]]<br />[[Bladen'Kerst Baenre]]<br />[[Vendes Baenre]]<br />[[Sos'Umptu Baenre]]<br />[[Berg'inyon Baenre]]
+| children       = 
+| familyrefs     = <ref>{{Cite book/Menzoberranzan/The Houses|14-15,18-19}}</ref><ref name="M.CoI-p36">{{Cite book/Menzoberranzan: City of Intrigue|36-37}}</ref><ref name="RotP-p290-291" /><ref name="RotP-p296-297" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = [[Neutral evil]]
+| class2e        = {{class table|edition=2e|[[Fighter]]|17}}
+| refs2e         = <ref name="M.tH-p63">{{Cite book/Menzoberranzan/The Houses|63}}</ref>
+| alignment3e    = [[Neutral evil]]
+| challenge3e    = 
+| class3e        = {{class table|edition=3e|[[Fighter]]|18}}
+| refs3e         = <ref name="U-p161">{{Cite book/Underdark|161}}</ref>
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = [[Evil]]
+| class4e        = {{class table|edition=4e|Skirmisher|21}}
+| refs4e         = <ref name="FRCG-p251">{{Cite book/Forgotten Realms Campaign Guide|251}}</ref>
+| alignment5e    = [[Chaotic neutral]]
+| challenge5e    = 15
+| class5e        = 
+| refs5e         = <ref name="WDH5e-p206">{{Cite book/Waterdeep: Dragon Heist|206}}</ref>
+}}
+'''Jarlaxle''' ({{Pronounce|jar|LÆX|ul|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}) was a [[drow]] mercenary and leader of the [[Bregan D'aerthe]] mercenary company. He was one of a small number of male drow who actually had significant power in a [[Lolth]]-worshiping city,<ref name="NotH-p189">{{Cite book/Night of the Hunter/Hardcover|189}}</ref> although he increasingly spent little time in the city itself as he adventured on the [[Faerûn|surface]].<ref name="SotS"/>
+{{Quote
+|I am he who rules the world, don't you know? One little piece at a time.
+|Jarlaxle<ref name="MM5eR-p27">{{Cite book/Monster Manual 5th edition (revised)|27}}</ref>
+}}
+
+==Description==
+Slender, handsome, and tightly muscled, Jarlaxle was the dandy of [[Menzoberranzan]].<ref name="RGLoD-p54-55">{{Cite book/A Reader's Guide to R. A. Salvatore's the Legend of Drizzt|?}}</ref>
+
+==Personality==
+{{Fq
+| text = Who is this maestro, this puppet master, pulling the strings of so many [[marionette]]s?<br/>Who is this maestro, turning the wheels of [[Faerûn]], playing the music of fate to the ears of all who would listen?
+| source = [[Drizzt Do'Urden]]<ref name="mae" />
+}}
+More than anything, Jarlaxle was an opportunist. His wealth was considerable, but official station in drow society meant nothing to him. He observed that the best way for a male to survive and prosper in the matriarchal drow society was to be outside the system and to be too valuable to be eliminated—and he was audacious enough to take his life in that direction. Always calm and graceful, Jarlaxle enjoyed flaunting his independence and was proud of the fact that the noble houses came to him for aid. In the city of Menzoberranzan, intrigue and double-dealing were a way of life, and no one played them better than Jarlaxle did.<ref name="RGLoD-p54-55"/>
+
+As a male outsider who had no qualms dealing with the "lesser races", Jarlaxle had much information few others beyond Lolth's priestesses were likely to have access to. He was one of the most powerful males, if not individuals, in the city and the surrounding Underdark.<ref name="RGLoD-p54-55"/> He benefited from the chaos of Menzoberranzan and was always able to align himself with the winning side in any conflict. In his earlier years, he thrived on the internal politics of Menzoberranzan, but they had always disturbed him. In his later years, he preferred to see adventure and profit in the World Above.<ref name="RotK-p265">{{Cite book/Rise of the King/Hardcover|265}}</ref> Once he escaped the "wretched hole in the ground," he did not want to return.<ref name="NotH-p232">{{Cite book/Night of the Hunter/Hardcover|232}}</ref> He found that he felt most alive when he was with friends and when he was taking risks.<ref name="TLT-p291">{{Cite book/The Last Threshold/Hardcover|291}}</ref> He had an "insatiable curiosity and a desire to know—everything."<ref name="RotK-p136">{{Cite book/Rise of the King/Hardcover|136}}</ref> This curiosity made him antsy when he remained stuck in one place too long and drove his quest for personal exploration.<ref name="RotK-p72">{{Cite book/Rise of the King/Hardcover|72}}</ref>
+
+He had a very charismatic personality, always willing to talk his way out of situations rather than resort to force of arms. Moreover, talking was what Jarlaxle did best. His words easily worked past the handicap of his race's evil reputation, able to turn potential enemies into allies. He loved irony, sarcasm, and wit. He was extremely intelligent and a brilliant tactician who was always prepared for any imaginable or unimaginable circumstances.<ref name="RGLoD-p54-55"/> Jarlaxle's lieutenant [[Kimmuriel Oblodra]] revealed a deep understanding of Jarlaxle's personality, recognizing that his gambling and sometimes foolish-seeming attitude was a very good façade, underneath which lay a frighteningly intelligent mind.<ref name="TGK-p??">{{Cite book/The Ghost King/Hardcover|??}}</ref>
+
+Jarlaxle preferred to avoid killing someone as long as that person could be manipulated to serve his interests, no matter how small his or her role might be. In fact, Jarlaxle didn't like to kill somebody unless he had to, an unusual trait in a drow—and likely the reason he did so in the first place. Several times, he played the hero just for the sake of it.<ref name="BotR-EJ">{{Cite book/The Best of the Realms/Empty Joys|?}}</ref>
+
+Jarlaxle was also flirtatious. He had no qualms about flirting with (and sleeping with) dragons.<ref name="RotK-p289-290">{{Cite book/Rise of the King/Hardcover|289-290}}</ref>
+
+==History==
+===Early Life===
+Jarlaxle was born to [[Yvonnel Baenre]], the [[matron mother]] of [[House Baenre]], the first house of Menzoberranzan. Due to the status of his birth order, Jarlaxle was to be sacrificed to [[Lolth]]. However, the sacrificial blade of Matron Baenre could not pierce the infant. Her second-oldest son, [[Doquaio Baenre]], was ordered to assist, but as he grabbed the infant, all of the kinetic energy of the attempted sacrifice was reflected on to him through the [[psionic]] power of the matron mother of [[House Oblodra]]. Doquaio was killed instead.<ref name="RotP-p290-291">{{Cite book/Road of the Patriarch/MMP|290-291|19}}</ref><ref name="RotP-p296-297">{{Cite book/Road of the Patriarch/MMP|296-297|20}}</ref> The failure of the sacrifice was kept secret, but Matron Baenre feared Jarlaxle from that time forward and believed that her fate was tied with his, while Jarlaxle was viewed as favored by the Spider Queen. Indeed, Lolth did favor him as an agent of chaos and granted him the memory of his near-sacrifice. However, he rejected her and she withdrew her favor, although the matron mothers of Menzoberranzan never learned of that fact.<ref name="RotP-p77">{{Cite book/Road of the Patriarch/MMP|77|5}}</ref> Kimmuriel Oblodra was one of only three living drow who knew the truth of the story;<ref name="RotP-p77"/> the event and involvement of Matron Oblodra was apparently passed down through the years among the members of House Oblodra.<ref name="RotP-p290-291"/>
+
+Jarlaxle attended [[Melee-Magthere]], the warriors' academy. He was recognized for his mastery of strategy and tactics and his strength was in the non-physical aspects of fighting, although he was a skilled swordsman as well. However, he favored a stealthy dagger over hand-to-hand combat.<ref name="RGLoD-p54-55"/>
+
+In the {{YearlinkName|1018}},<ref name="Timeless-p?">{{Cite book/Timeless|?}}</ref> Jarlaxle got to know [[Zaknafein Do'Urden]], later the father of [[Drizzt Do'Urden]]. They became close friends in time, but he eventually betrayed Zaknafein in undisclosed circumstances and still felt guilty over it many years later.<ref name="RotP-p348">{{Cite book/Road of the Patriarch/MMP|348|24}}</ref>
+
+===Bregan D'aerthe===
+Jarlaxle later left his house and his name (but not his connections) behind and founded [[Bregan D'aerthe]], a mercenary band of rogue males that grew to be very powerful. It could be said that the band forged its own underworld empire in Menzoberranzan. Bregan D'aerthe was present among the troops of Baenre during the fall of [[House Do'Urden]].<ref name="H">{{Cite book/Homeland/MMP (1990)|?}}</ref>
+
+In the {{YearlinkName|1357}}, Jarlaxle worked with [[Artemis Entreri]] during the early phases of Baenre's attempted conquest of [[Mithral Hall]]. Entreri had requested a fight against Drizzt Do'Urden—a fair one—and offered his services in return. However, a fair fight was not, at the time, able to be given.<ref name="TL">{{Cite book/The Legacy/Paperback (1993)|?}}</ref> Entreri "joined" Bregan D'aerthe and was led to Menzoberranzan, but there he felt trapped and fled the Underdark (with Jarlaxle's implicit aid) with Drizzt and Catti-brie.<ref name="SN">{{Cite book/Starless Night/Paperback (1994)|?}}</ref>
+
+Jarlaxle arranged another fight between Entreri and Drizzt Do'Urden in the {{yearlinkName|1364}}. During the fight, he acquired [[Crenshinibon]]. At this time, Jarlaxle approached Entreri with the hopes of extending his empire to the surface, starting with [[Calimport]]. In the {{YearlinkName|1366}}, they created a faction out of the [[House Basadoni|Basadoni guild]] and placed Entreri as its [[pasha]]. Jarlaxle increasingly fell under the influence of Crenshinibon until his two lieutenants, Kimmuriel and [[Rai-guy Bondalek]], enacted a plot to overthrow him. He was only rescued from his own follies by Entreri, who claimed to need Jarlaxle alive to protect him from the two drow lieutenants. Jarlaxle made an agreement with Kimmuriel for co-leadership of Bregan D'aerthe while Jarlaxle went traveling around the surface.<ref name="SotS"/>
+
+By [[1490 DR]], Artemis Entreri was considered Jarlaxle’s second-in-command and Kimmuriel remained as joint leader alongside Jarlaxle.<ref>{{Cite book/Starlight Enclave|56|3}}</ref>
+
+===Bloodstone Lands===
+After leaving Calimport, Jarlaxle and Entreri eventually wound up working in the [[Bloodstone Lands]] (namely [[Damara]] and [[Vaasa]]) in the {{YearlinkName|1368}}. He and Entreri started working for [[Ilnezhara]] and [[Tazmikella]], the [[copper dragon]] sisters in [[Heliogabalus]], who wanted them to investigate the appearance of [[Zhengyi]]an constructs in [[Vaasa]]. They joined a party of adventurers, battled the [[dracolich]] [[Urshula]], and invaded a replica fortress of [[Castle Perilous]]. Jarlaxle disappeared during the fight, drawing Entreri's mistrust, but Jarlaxle appeared and claimed the castle for "King Artemis I of the [[Ostraland|Kingdom of D'aerthe]]".<ref name="PotWK">{{Cite book/Promise of the Witch-King/Hardcover (2005)|?}}</ref><ref name="RotP-p?">{{Cite book/Road of the Patriarch/MMP|?}}</ref> In Damara, Jarlaxle obtained ''[[Idalia's flute]]'' and gave it to Entreri in an apparent attempt to help him resolve his emotional problems.<ref name="TLT-p249" /> Instead, the flute brought up all sorts of memories, leading Artemis back to Calimshan to search for (and murder) his father. He refused to travel with Jarlaxle further after that point. However, [[Athrogate]] remained by Jarlaxle's side.<ref name="PotWK"/><ref name="RotP-p348"/>
+
+===Later Travels===
+{{Fq
+| text = I am Jarlaxle. I have been everywhere.
+| source = Jarlaxle in [[1484 DR]]<ref name="RotK-p177-178">{{Cite book/Rise of the King/Hardcover|177-178}}</ref>
+}}
+During his travels with Artemis, Jarlaxle stayed in regular contact with his lieutenant Kimmuriel, in whose capable hands he left Bregan D'aerthe. Although he did not at the time take an active role in leading his mercenaries, he still requested the resources of the group when it suited his needs. The option was open for Jarlaxle to retake control of the mercenaries, as Kimmuriel wished to be done with his duties leading the group so that he could spend more time with matters of the mind.<ref name="PotWK" /><ref name="RotP-p348"/>
+
+At some point after they split ways, Jarlaxle was forced, against his will, to betray Artemis in [[Baldur's Gate]] to the [[Netherese]], who were seeking to recover the ''[[Charon's Claw]]'' sword. To refuse to aid the Netherese would have resulted in war between the Empire of [[Netheril]] and Menzoberranzan and possibly in Jarlaxle's own execution. Jarlaxle trapped Entreri in one of his extra-dimensional pockets, originally planning to rescue his human friend immediately after handing him over. However, Kimmuriel Oblodra and House Baenre had worked to lower Jarlaxle's magical defenses so that Kimmuriel could enter his mind and change his memories about the betrayal. He instead came to believe that Entreri had betrayed him. By the time Jarlaxle had found out the truth, Entreri was beyond Jarlaxle's reach, and Matron Mother [[Quenthel Baenre]] had forbidden Jarlaxle from involving himself in the affair further. Jarlaxle and Athrogate went on numerous adventures together over the next several decades but always did Jarlaxle regret what had happened to his old friend.<ref name="TLT-p116-117">{{Cite book/The Last Threshold/Hardcover|116-117}}</ref>
+
+Over [[1376]] to [[1377 DR]], Jarlaxle and Bregan D'aerthe manipulated events in [[Luskan]] that resulted in the destruction of the [[Host Tower of the Arcane]], the death of [[Deudermont]], and Luskan becoming a free port. Jarlaxle allowed [[Regis]] and Drizzt to live and also took a [[scrimshaw]] piece from Regis that depicted Drizzt and [[Guenhwyvar]], rather than taking the valuable ''[[ruby pendant]]''.<ref name="TPK">{{Cite book/The Pirate King|?}}</ref>
+
+In the {{YearlinkName|1384}}, Jarlaxle's dreams were invaded by [[Yharaskrik]], an [[illithid]] killed years before, who had joined up with [[Hephaestus]], the [[red dragon]] Jarlaxle had helped kill, and the [[lich]] kings captured in [[Crenshinibon]], creating the [[Ghost King]]. He and [[Athrogate]] both joined up with Drizzt Do'Urden, Bruenor Battlehammer, and [[Thibbledorf Pwent]] on an adventure to [[Spirit Soaring]], where they hoped [[Cadderly Bonaduce]] could help them fend off the coming of the Ghost King. They succeeded in that task, albeit not in the manner they had expected.<ref name="TGK">{{Cite book/The Ghost King/Hardcover|?}}</ref>
+
+After Catti-brie wandered off, Drizzt and Bruenor asked Jarlaxle to try to find her. He searched "half the Realms" to no avail.<ref name="RotK-p193">{{Cite book/Rise of the King/Hardcover|193}}</ref>
+
+===Gauntlgrym===
+In the {{YearlinkName|1451}}, Jarlaxle and Athrogate joined [[Dahlia Sin'felle]] in an expedition to [[Gauntlgrym]], where they were tricked into releasing the fire [[primordial]] that destroyed the city of [[Neverwinter]]. In the {{YearlinkName|1462}}, Jarlaxle, Athrogate, and Dahlia once again joined together and recruited Drizzt Do'Urden and Bruenor Battlehammer in an attempt to right this wrong. They were successful, but in the process Bruenor was killed and Jarlaxle and Athrogate were overtaken by fire. Drizzt (falsely) presumed the latter two dead.<ref name="G">{{Cite book/Gauntlgrym/Hardcover|?}}</ref>
+
+However, in reality, Jarlaxle had not died in Gauntlgrym. Some time later, he discovered that Drizzt, Dahlia, and their companions had been captured by the [[Netherese]] lord [[Draygo Quick]] and were being held in his home. With the help of Bregan D'aerthe and his brother [[Gromph Baenre]], he assaulted the castle to free Drizzt and company. Artemis Entreri had also been traveling with Drizzt at the time and Jarlaxle ensured that his petrified form was returned to flesh, although it was clear that Artemis did not forgive Jarlaxle for his betrayal.<ref name="TLTMMPp-364">{{Cite book/The Last Threshold/MMP|364}}</ref> Drizzt disappeared in [[Icewind Dale]] not long afterwards, and Jarlaxle, despite many expensive attempts, was unable to locate him.<ref name="TLT">{{Cite book/The Last Threshold/Hardcover|?}}</ref><ref name="TC">{{Cite book/The Companions/Hardcover|?}}</ref>
+
+===In Luskan===
+When the reincarnated [[Regis]] passed through Luskan in the {{YearlinkName|1484}}, he stayed at [[One-Eyed Jax]], an inn and tavern on the northern bank that was named for and owned by Jarlaxle (through [[Ship Kurth]]).<ref name="TC-p339">{{Cite book/The Companions/Hardcover|339}}</ref> The barkeep, [[Serena]], was "spoken for" by Jarlaxle, who was well-known by the tavern's patrons.<ref name="TC-p335">{{Cite book/The Companions/Hardcover|335}}</ref> Jarlaxle had a conversation with Regis, and while the drow didn't recognize the [[halfling]], he was suspicious enough to send a Bregan D'aerthe agent to keep an eye on him in [[Icewind Dale]].<ref name="TC-p341">{{Cite book/The Companions/Hardcover|341}}</ref> That agent, [[Braelin Janquay]], discovered Regis's true identity, saving him and Catti-brie from some thugs from [[Ship Rethnor]] and presumably passing word of Regis's true identity to Jarlaxle.<ref name="TC-p356">{{Cite book/The Companions/Hardcover|356}}</ref>
+
+===Return to Menzoberranzan===
+In the {{YearlinkName|1484}}, Jarlaxle was summoned back to Menzoberranzan by First [[Matron Mother]] [[Quenthel Baenre]] in order to serve as Captain of the Guard for the restored [[House Do'Urden]] (and to keep him away from Drizzt Do'Urden).<ref name="NotH">{{Cite book/Night of the Hunter/Hardcover|?}}</ref> However, he bribed Gromph Baenre by arranging [[psionics]] lessons for him from Kimmuriel Oblodra in exchange for Gromph allowing Jarlaxle to leave the city. Jarlaxle subsequently learned about the return of Drizzt and the reborn [[Companions of the Hall]] and traveled to [[Damara]] to recruit the dragon sisters Tazmikella and Ilnezhara, as well as [[Afafrenfere]] and [[Ambergris (person)|Ambergris]], to aid him in his interference in the [[Silver Marches]] against Quenthel's plans.<ref name="RotK">{{Cite book/Rise of the King/Hardcover|?}}</ref>
+
+===Host Tower of The Arcane===
+In 1487 DR, Jarlaxle aided Gromph Baenre and the Companions of the Hall in the reconstruction of the Host Tower of the Arcane. His control over Luskan aided in transportation of goods and workers to the site.<ref name="AM">{{Cite book/Archmage/Hardcover (2015)|?}}</ref><ref>{{Cite book/Hero/Hardcover|?}}</ref><ref name="mae">{{Cite book/Maestro/Hardcover|?}}</ref>
+
+===Return of Zaknafein===
+Zaknafein's return to his son Drizzt in the {{YearlinkName|1488}}, was a shock and a welcome surprise to Jarlaxle. He was happy to have one of his oldest friends returned, but was unsure how this has occurred. Jarlaxle reunited with father and son in [[Longsaddle]].<ref name="Timeless>{{Cite book/Timeless|?}}</ref>
+
+Some time later, drow forces led by Matron [[Zhindia Melarn]] and an army of demons continued Zhindia's quest to capture and kill Zaknafein and Drizzt.<ref name="B-p220-222">{{Cite book/Boundless|220-222}}</ref>
+
+Having reassurance from two of Lolth's handmaidens that her quest would prove she was the most faithful priestess in the demon goddess' eyes, Matron Zhindia committed House Melarn to the defense of Gauntlgrym as the demon army bore down upon it. Jarlaxle remained in Gauntlgrym and helped the dwarves and halflings within defend the complex.<ref>{{Cite book/Relentless|?}}</ref>
+
+===Discovery of Aevendrow===
+In the {{YearlinkName|1490}}, Jarlaxle found in the far north region of [[Faerûn]] the hidden city [[Callidae]], which was home to the [[aevendrow]], a race of drow, who hadn't followed in the steps of the Spider Queen, but retained their original virtues, and their society was opposite to that of the [[udadrow]] society of Menzoberranzan. In Callidae, the company met the aevendrow and became close with a few of them: [[Galathae]], a paladin; [[Azzudonna]] and [[Vessi]], warriors; and [[Ilina]], a priestess. From here on, their troubles and adventures began. They included an army of [[Slaad|slaadi]], [[frost giant]]s, cante, n'divi, and wyrms eating heat crystals that might lead to the destruction of the whole city.<ref name="SlE">{{Cite book/Starlight Enclave}}</ref>
+
+When Jarlaxle left [[Callidae]] for the first time, he agreed to have his memory wiped by a long ceremony performed by thirty priests.<ref>{{Cite book/Glacier's Edge/Paperback 2022|133|17}}</ref> However, he had secretly marked a code under his foot as a clue to himself.<ref>{{Cite book/Glacier's Edge/Paperback 2022|132|17}}</ref> When he returned to [[Longsaddle]], it became clear that any [[arcane]] and [[psionic]] attempts to restore his memory would not work. Only an intense intrusion performed by a hive mind could restore Jarlaxle's lost memories. While the [[illithid]] intrusion was considered to be deeply traumatic, Jarlaxle came out unharmed.<ref>{{Cite book/Glacier's Edge/Paperback 2022|183|23}}</ref> Instead, the mind flayers who took part in the ritual were affected by the mind of Jarlaxle and they started to communicate with more passion and a sense of humor.<ref>{{Cite book/Glacier's Edge/Paperback 2022|184|23}}</ref>
+
+Jarlaxle could re-visit and leave Callidae without needing to partake in any further rituals or magical ''[[geas]]''. He maintained the secrecy of the location and existence of Callidae. Jarlaxle considered Callidae the realization of his dreams for the drow and further confirmation that Lolth had corrupted the Udadrow.<ref>{{Cite book/Glacier's Edge/Paperback 2022|2|0}}</ref>
+
+===Menzoberranzan Civil War===
+In Menzoberranzan, there was speculation about which side Bregan D'aerthe and Jarlaxle would choose in the war, with rumors in the [[Menzoberranzan/Braeryn|Stenchstreets]] that he would join the heretics' side.<ref>{{Cite book/Lolth's Warrior|18|2}}</ref> Meanwhile, Jarlaxle traveled with Drizzt, Kimmuriel, [[Dab'nay Tr'arach]], and members of Bregan D'aerthe to Menzoberranzan, where they ambushed drow ambushers and took prisoners.<ref>{{Cite book/Lolth's Warrior|99|12}}</ref> When in Menzoberranzan, during an ambush at the [[Oozing Myconid]], [[Azleah]], a Bregan D'aerthe agent, attempted and failed to assassinate Jarlaxle during the skirmish.<ref>{{Cite book/Lolth's Warrior|106|12}}</ref> Jarlaxle later traveled with Dab'nay, Kimmuriel, and Drizzt to rescue the captured [[Braelin Janquay]] from [[House Barrison Del'Armgo|House Del'Armgo]].<ref>{{Cite book/Lolth's Warrior|203|23}}</ref> 
+
+In the resulting fight at House Del'Armgo, Jarlaxle lost his friend and co-leader Kimmuriel, who was trapped and destroyed by his own ''[[kinetic barrier]]''.<ref>{{Cite book/Lolth's Warrior|208|23}}</ref> However, Jarlaxle gained the scepter of House Del'Armgo after [[Mez'Barris Armgo|Matron Mez'Barris]]'s death.<ref>{{Cite book/Lolth's Warrior|222|25}}</ref> and important hostages along with saving Braelin.<ref>{{Cite book/Lolth's Warrior|223|25}}</ref>
+
+Jarlaxle negotiated ending of the siege of [[House Baenre]] with his sister [[Sos'Umptu Baenre|Sos'Umptu]]. She agreed that those who wanted to leave Menzoberranzan could but would never be allowed to return.<ref name=":0">{{Cite book/Lolth's Warrior|254|28}}</ref> Those who remained at House Baenre were given mercy if they served her and [[Lolth]] once more.<ref name=":0" /> Jarlaxle left Menzoberrazan with approximately 2,000 refugees freed from Lolth.<ref>{{Cite book/Lolth's Warrior|258|28}}</ref> After the civil war, Jarlaxle became the singular leader of Bregan D'aerthe though he could contact Kimmuriel's spirit on rare occasions with the risk of it being their last communication.<ref>{{Cite book/Lolth's Warrior|261|Epilogue}}</ref>
+
+==Skills==
+Jarlaxle was extremely skilled in the two long blades fighting style commonly used by the drow, though when mismatched with less skilled opponents he was known to use the less effective but visually more showy swashbuckling style to distract them. His mastery of this style was enough to impress even Artemis Entreri, who generally found the style ineffective.<ref name="SotS"/>
+
+When forced into combat, Jarlaxle could throw a seemingly unlimited supply of magical daggers conferred to him by his bracers; only one of every three were real, the rest were illusions.<ref name="PotWK-p10">{{Cite book/Promise of the Witch-King/MMP (2006)|10|0}}</ref> Of course, Jarlaxle also possessed the typical drow weapon: a [[hand crossbow]] adorned with bolts dipped in [[sleeping poison]].<ref name="RotP-p109">{{Cite book/Road of the Patriarch/MMP|109|7}}</ref>
+
+Jarlaxle was talented with languages. He spoke [[Common]] perfectly fluently,<ref name="RGLoD-p54-55"/> as well as his native [[Drow language|Drow]], [[Abyssal language|Abyssal]], [[Goblin language|Goblin]],<ref name="PotWK-p86">{{Cite book/Promise of the Witch-King/MMP (2006)|86|5}}</ref> [[Gnome language|Svirfneblin]], and [[Halfling language|Halfling]] tongues.<ref name="PotWK-p89">{{Cite book/Promise of the Witch-King/MMP (2006)|89|5}}</ref>
+
+==Possessions==
+{{quote|''Luskan. Minsc hears it is ruled by a drow with a very stupid hat. But, so it goes with many rulers, no?''|[[Minsc]] of [[Rashemen]]<ref name="bg3">{{Cite game/Baldur's Gate III}}</ref>}}<br/>
+Jarlaxle was very fond of magical items and was renowned for having a seemingly unlimited supply of magical tricks. He was rarely seen with the same item more than once or twice. The following list contains merely some of his confirmed items.<ref name="RGLoD-p54-55"/>
+
+;Clothing
+* A wide-brimmed purple hat with a huge white ''[[feather of diatryma summoning]]'',<ref name="WDH5e-p206" /> which could be used to summon one of the [[Underdark]] [[diatryma]] birds; the feather always grew back after being used for the summoning.<ref name="SotS-p282">{{Cite book/Servant of the Shard|282}}</ref><ref name="G-p237">{{Cite book/Gauntlgrym/Hardcover|237}}</ref> The hat itself was a ''[[hat of disguise]]'', which allowed him to use magic to disguise himself.<ref name="RGLoD-p54-55"/><ref name="WDH5e-p206" />
+* One of his jeweled earrings could extend its size to that of a small grappling hook, used as such when tied to a rope.<ref name="PotWK-p262"/>
+* A ''[[knave's eye patch]]''<ref name="WDH5e-p206" /> that prevented magical and [[psionic]] intrusion or, if shifted to the other eye, enhanced his vision. It also enabled Jarlaxle to see through doors.<ref name="PotWK-p43">{{Cite book/Promise of the Witch-King/MMP (2006)|43|2}}</ref><ref name="RGLoD-p54-55"/> It became less effective after the [[Spellplague]].<ref name="TGK"/>
+* A ''[[brooch of shielding]]'' clasped at his cloak's front side.<ref name="PotWK-p10" />
+* A pair of boots that could be noisy or silenced at will.<ref name="RGLoD-p54-55"/> These were common among drow nobles.<ref name="CC-p1">{{Cite book/Charon's Claw/Hardcover|1|0}}</ref>
+* A house emblem of House Baenre, which allowed him to [[levitate]].<ref name="G-p337">{{Cite book/Gauntlgrym/Hardcover|337}}</ref>
+* A [[Rings of arbitration|''ring of arbitration'']] that the drow retrieved after the [[half-orc]] [[Olgerkhan]] dropped it.<ref name="PotWK-p357">{{Cite book/Promise of the Witch-King/MMP (2006)|357|22}}</ref>
+* A ring that created illusionary copies of the bearer.<ref name="G-p336">{{Cite book/Gauntlgrym/Hardcover|336}}</ref>
+* A ring of ''[[teleport]]''.<ref name="G-p342">{{Cite book/Gauntlgrym/Hardcover|342}}</ref>
+* A belt that was a snake that would uncoil into a snake-rope for climbing when needed, extending to whatever length was required.<ref name="PotWK-p101">{{Cite book/Promise of the Witch-King/MMP (2006)|101|5}}</ref>
+* A fine cord that could elongate to at least 120 ft, tucked under the silken band of his hat.<ref name="PotWK-p262">{{Cite book/Promise of the Witch-King/MMP (2006)|262|16}}</ref><ref name="G-p271">{{Cite book/Gauntlgrym/Hardcover|271}}</ref>
+* An earring that he could tug on to escape quickly. He used this only as a last resort.<ref name="NotH-p106">{{Cite book/Night of the Hunter/Hardcover|106}}</ref>
+* A ''[[cloak of invisibility]]''.<ref name="WDH5e-p206" />
+* A ''[[ring of truth telling]]''.<ref name="WDH5e-p206" />
+
+;Weapons
+* A ''[[bracer of flying daggers]]''<ref name="WDH5e-p206" /> on each wrist that could produce a nearly infinite supply of throwing daggers.<ref name="PotWK-p10" /> One of his ''bracers'' was [[gem]]-studded and known as the ''[[Blades Injurious]]''.<ref name="WoW">{{Cite game/Warriors of Waterdeep}}</ref>
+* A variety of slender [[wand]]s that were capable of releasing anything from a ''[[lightning bolt]]''<ref name="G-p297">{{Cite book/Gauntlgrym/Hardcover|297}}</ref> to a greenish, gluey semi-liquid blob of goo.<ref name="SotS-p343">{{Cite book/Servant of the Shard|343}}</ref> One such wand could create a solid stone wall to cut off the pursuit of enemies.<ref name="PotWK-p18">{{Cite book/Promise of the Witch-King/MMP (2006)|18|0}}</ref> Another wand created illusions. In true Jarlaxle fashion, he spent much time practicing with it until he could produce an illusionary fireball so realistic that creatures within the illusion burned as if from a real ''[[fireball]]'', as long as they didn't know it was an illusion. He was known to fire a blast at his own feet, killing any surrounding enemies, and leaving himself unharmed.<ref name="PotWK-p83">{{Cite book/Promise of the Witch-King/MMP (2006)|83|5}}</ref> His favorite wand was the [[Rod of viscid globs|''wand of viscous globs'']].<ref name="G-p237">{{Cite book/Gauntlgrym/Hardcover|237}}</ref> He also carried a ''[[wand of web]]''.<ref name="WDH5e-p206" />
+* Hand-held [[crossbow]] with darts dipped in drow [[sleeping poison]].<ref name="RotP-p109" />
+* At least two enchanted [[rapier]]s: one with a very potent standard enchantment<ref name="WDH5e-p206" /> and one with a unique enchantment known as the ''[[rapier of derobement]]''.<ref name="WoW" />
+* Strongly enchanted ''[[leather armor]]''.<ref name="WDH5e-p206" />
+* He carried [[Khazid'hea]] temporary prior the events in [[Starlight Enclave|The Starlight Enclave]] and gave it to [[Zaknafein Do'Urden|Zaknafein]] as a present.
+* A [[pistol]] (and plenty of ''[[smokepowder]]'') as of the late 15{{th}} century DR.<ref name="WoW" />
+
+;Other
+* Several extra-dimensional devices, including a ''[[bag of holding]]'', a ''[[bottomless pouch]]'', a ''[[foldable chest]]'',<ref name="WoW" /> a button on his waistcoat that turned into a bag designed to shield the magical emanations of its contents,<ref name="PotWK-p25">{{Cite book/Promise of the Witch-King/MMP (2006)|25|Part 1}}</ref>, a belt pouch of extra-holding which contained fine [[Cormyrean brandy]],<ref name="PotWK-p100">{{Cite book/Promise of the Witch-King/MMP (2006)|100|5}}</ref> and a ''[[portable hole]]''<ref name="WDH5e-p206" /> that he kept stored in the underside of his wide-brimmed hat.<ref name="PotWK-p101-102">{{Cite book/Promise of the Witch-King/MMP (2006)|101-102|5}}</ref> The portable hole could be used to create a temporary hole in whatever surface it touches. A similar (possibly the same) item created a hole that led to an extra-dimensional room large enough to hold several humanoids.<ref name="TLT-p286">{{Cite book/The Last Threshold/Hardcover|286}}</ref> He also carried a ring that opened a limited number of extra-dimensional [[portal]]s.<ref name="SotS-p343">{{Cite book/Servant of the Shard|343}}</ref>
+* A black cloth in the shape of a small [[bat]] that turned into a living creature which could serve as a scout.<ref name="SotS-p344">{{Cite book/Servant of the Shard|344}}</ref>
+* A palm-sized ornament in the form of a silvery rearing dragon, with wings and jaws spread wide. This was a gift from the dragon [[Ilnezhara]]. It was, in truth, a charm to secure the entrance of a room.<ref name="PotWK-p42-43">{{Cite book/Promise of the Witch-King/MMP (2006)|42-43|2}}</ref> It was a trap bringing forth the various breath forms of the deadly [[chromatic dragon]]s based on a previously set color.<ref name="RotP-p63">{{Cite book/Road of the Patriarch/MMP|63|4}}</ref>
+* A tablecloth that could magically provide a feast.<ref name="PotWK-p91">{{Cite book/Promise of the Witch-King/MMP (2006)|91|5}}</ref>
+* A pair of ''obsidian steed'' [[Figurines of wondrous power|figurines of wondrous power]], fashioned after one that he recovered from the dead body of [[Mariabronne|Mariabronne the Rover]]. They summoned [[Nightmare (creature)|nightmares]]; he gave one to Artemis and kept the other for himself.<ref>{{Cite book/Promise of the Witch-King/MMP (2006)|295|18}}</ref><ref name="RotK-p178">{{Cite book/Rise of the King/Hardcover|178}}</ref>
+* A whistle that could only be heard by members of Bregan D'aerthe.<ref name="RGLoD-p54-55" />
+* Two jewel [[skull gem]]s, artifacts obtained from relics of the lich [[Zhengyi]]. One had the power to raise humans from the dead<ref>{{Cite book/Promise of the Witch-King/MMP (2006)|343-344|21}}</ref> and the other to employ the help of the powerful [[dracolich]] [[Urshula]].<ref name="PotWK-p354">{{Cite book/Promise of the Witch-King/MMP (2006)|354|22}}</ref> Jarlaxle later gave them to his lieutenant [[Kimmuriel Oblodra]] for study.<ref name="RotP-p236">{{Cite book/Road of the Patriarch/MMP|236|15}}</ref>
+* A small silver cone to create an area of amplified sensibilities enabling him to overhear the conversation of his subjects from a long distance.<ref name="RotP-p57">{{Cite book/Road of the Patriarch/MMP|57|3}}</ref>
+* A small orb which, when crushed, could throw him through the multiverse, but to which [[plane]] of existence Jarlaxle could not predict. This was his last route of escape.<ref name="RotP-p67">{{Cite book/Road of the Patriarch/MMP|67|4}}</ref>
+* [[Agatha's mask]], an item of illusionary magic obtained from Drizzt Do'Urden via Entreri.<ref name="RotP-p309">{{Cite book/Road of the Patriarch/MMP|309|21}}</ref>
+* ''[[Caer Gromph]]'', an ''[[instant fortress]]'' shaped like one of the stalagmite castles of Menzoberanzan and which had the unique property of being able to house soldiers even when in its shrunken, inactive state. This allowed him to not only form the fortress out of nowhere, but to carry a small army in his pocket.<ref name="LT-ch23">{{Cite book/The Last Threshold/MMP||23}}</ref>
+* A [[viol]] which, when active, hovered in the air and played music on its own.<ref name="AM" />
+
+==Relationships==
+===Kimmuriel Oblodra===
+Jarlaxle rescued [[Kimmuriel Oblodra]] from the fall of his house and made him into a lieutenant of Bregan D'aerthe.<ref name="SotS">{{Cite book/Servant of the Shard}}</ref> He and Kimmuriel shared a mutually beneficial relationship, and Jarlaxle passed on the bulk of the leadership of his band to Kimmuriel in [[1366 DR]] when he ran off with Artemis Entreri.<ref name="SotS" /> Originally, the arrangement was intended to be temporary, but Jarlaxle increasingly left the running of his band to Kimmuriel, who by [[1463 DR]] was widely understood as the primary leader.<ref name="CC-p277">{{Cite book/Charon's Claw/Hardcover|277|16}}</ref> Jarlaxle continued to work for Bregan D'aerthe, but he had his own interests and often found himself paying for the band's services.<ref name="TLT-p299-300">{{Cite book/The Last Threshold/Hardcover|299-300}}</ref>
+
+===Catti-brie===
+From their meeting in the Underdark, Jarlaxle showed an attraction to and fondness of [[Catti-brie]].<ref name="SN"/> He chose to aid Catti-brie after she was afflicted by the [[Spellplague]], and he even continued to search for her at Drizzt Do'Urden's request.<ref name="TGK"/>
+
+===Artemis Entreri===
+The relationship between Jarlaxle and [[Artemis Entreri]] was often strained, but the two traveled together for many years and seemed to have develop some form of friendship—perhaps more so from Jarlaxle's perspective.<ref name="TLT-p286-287">{{Cite book/The Last Threshold/Hardcover|286-287}}</ref> Jarlaxle and Artemis met when [[Vierna Do'Urden]] employed Artemis to help find, capture, and fight against Drizzt Do'Urden.<ref name="SN" /> In Calimport, Artemis rescued Jarlaxle—claiming he needed the drow for protection—and escaped the wrath of Rai-Guy and Kimmuriel during the Bregan D'aerthe takeover.<ref name="SotS" />
+
+Jarlaxle's treatment of Artemis during their adventures was somewhat bewildering. Jarlaxle's intentions in giving Artemis ''Idalia's flute'' were to free him from his emotional burdens to help him enjoy life.<ref name="TLT-p249">{{Cite book/The Last Threshold/Hardcover|249}}</ref> However, Artemis saw it as blatant manipulation of his psyche and in some ways a betrayal of their friendship. Idalia's flute was one of the main reasons Artemis left Jarlaxle.<ref name="PotWK-p356">{{Cite book/Promise of the Witch-King/MMP (2006)|356,358,364|22}}</ref>
+
+Jarlaxle later betrayed Entreri to the Netherese, for which Entreri never forgave him.<ref name="CC">{{Cite book/Charon's Claw/Hardcover|?}}</ref> Jarlaxle, for his part, had intended to rescue Entreri but was tricked by his fellow drow into forgetting the whole event. Jarlaxle greatly regretted the way events had turned out and it haunted him for many decades.<ref name="TLT-p116-117" />
+
+===Drizzt Do'Urden===
+[[Drizzt Do'Urden]] originally viewed Jarlaxle (rightfully) with a healthy dose of distrust. He was never quite sure of the mercenary's motivations. However, Jarlaxle claimed to have been a friend of Drizzt's father, and Drizzt came to believe it. Jarlaxle saved Drizzt's life a number of times, and after Drizzt's wife left [[Toril]], Drizzt tasked Jarlaxle with finding her again. (He tried but was not successful.) By [[1462 DR]], the two considered each other friends.<ref name="G-p250">{{Cite book/Gauntlgrym/Hardcover|250}}</ref>
+
+Jarlaxle was particularly interested in Drizzt because, in Jarlaxle's words, "He was the one who escaped" the heritage and fate of the drow. In Menzoberranzan, Drizzt was a symbol of male rebellion and the lack of acceptance of males' positions among females.<ref name="G-p302">{{Cite book/Gauntlgrym/Hardcover|302}}</ref> Jarlaxle, who always felt there was something wrong with Menzoberranzan and drow society, truly admired him,<ref name="RGLoD-p54-55" /> though he feared that Drizzt was forgetting his principles.<ref name="G-p302">{{Cite book/Gauntlgrym/Hardcover|302}}</ref> Many years after Catti-brie's death, however, Jarlaxle worried that Drizzt was forgetting himself and crossing the line of honor he had always held himself to.<ref name="G-p247-248">{{Cite book/Gauntlgrym/Hardcover|247-248}}</ref>
+
+===Athrogate===
+[[Athrogate]] joined with Jarlaxle in [[Damara]] in [[1368 DR]]<ref>{{Cite book/Road of the Patriarch/MMP|23-27|23}}</ref> and traveled with him for many, many years. Jarlaxle came to consider Athrogate his closest friend, and vice-versa.<ref name="G-p246">{{Cite book/Gauntlgrym/Hardcover|246}}</ref> At Jarlaxle's request, Athrogate traveled to [[Nesme]] in [[1484 DR]] to join up with the reunited [[Companions of the Hall]].<ref name="RotK-p185">{{Cite book/Rise of the King/Hardcover|185}}</ref>
+
+===Tazmikella and Ilnezhara===
+Jarlaxle had a "flirtatious" relationship with the two dragon sisters of [[Heliogabalus]], [[Tazmikella]] and [[Ilnezhara]]. He flirted with them; [[Ilnezhara]] in particular found him very charming.<ref name="RotK-p289">{{Cite book/Rise of the King/Hardcover|289}}</ref> He informed the [[Yarin Frostmantle|king]] about their true identity as dragons then infiltrated their shops as a street waif. He claimed to "know" they wouldn't kill him and to "hope" they would reward him for his interference.<ref name="RotK-p289-290">{{Cite book/Rise of the King/Hardcover|289-290}}</ref>
+
+==Appendix==
+===Gallery===
+<gallery>
+Jarlaxle VizDic.jpg|''Jarlaxle in Menzoberranzan.''
+Jarlaxle PotWK.JPG|''Jarlaxle battling gargoyles in a [[Castle Perilous]].''
+Servant of the Shard.jpg|''Jarlaxle on the cover of ''Servant of the Shard''.''
+Promise of the Witch-king.jpg|''Jarlaxle on the cover of ''Promise of the Witch-King''.''
+Road of the Patriarch.jpg|''Artemis Entreri and Jarlaxle on the cover of ''Road of the Patriarch''.''
+Jarlaxle spellfire.jpg|''A portrait of Jarlaxle from [[Spellfire: Master the Magic]].''
+Jarlaxle-Menzoberranzan.png|''A portrait of Jarlaxle from ''Menzoberranzan''.''
+Jarlaxle wow.jpg|''Jarlaxle from ''Warriors of Waterdeep''.''
+Jarlaxle_portrait.png|''Character portrait from ''Warriors of Waterdeep''.''
+Gwen-houzelot-Jarlaxle.jpg|''Jarlaxle's best gear.''
+Jarlaxle in Dungeons and Dragons Saturday Morning Adventures II no1 - Jan 2024.jpg|Jarlaxle in Dungeons & Dragons: Saturday Morning Adventures II #1
+</gallery>
+
+===Appearances===
+{{Appearances
+| adventures          = 
+| adventure refs      = 
+| novels              = ''[[Exile]]'' • [[Legacy of the Drow]] trilogy (''[[The Legacy]]'' • ''[[Starless Night]]'' • ''[[Siege of Darkness]]'') • ''[[The Silent Blade]]'' • [[The Sellswords]] trilogy (''[[Servant of the Shard]]'' • ''[[Promise of the Witch-King]]'' • ''[[Road of the Patriarch]]'') • ''[[The Pirate King]]'' • ''[[The Ghost King]]'' • ''[[Gauntlgrym (novel)|Gauntlgrym]]'' • ''[[The Last Threshold]]'' • [[Companions Codex]] (''[[The Companions]]'' • ''[[Night of the Hunter]]'' • ''[[Rise of the King]]'' • ''[[Vengeance of the Iron Dwarf]]'') •  [[Homecoming]] trilogy (''[[Archmage (novel)|Archmage]]'' • ''[[Maestro]]'' • ''[[Hero]]'') • [[Generations]] trilogy (''[[Timeless]]'' • ''[[Boundless]]'' • ''[[Relentless]]'') • ''[[Starlight Enclave]] • [[Glacier's Edge]]'' • [[The Best of the Realms/Empty Joys|''The Best of the Realms'': "Empty Joys"]] • [[Realms of Shadow/That Curious Sword|''Realms of Shadow'': "That Curious Sword"]] • [[Realms of the Dragons/Wickless in the Nether|''Realms of the Dragons'': "Wickless in the Nether"]] • ''[[One-Eyed Jax: A Forgotten Realms Adventure]]''
+| novel refs          = ''[[Realms of the Underdark]]'': "[[Rite of Blood]]" • ''[[Neverwinter (novel)|Neverwinter]]'' • ''[[Charon's Claw (novel)|Charon's Claw]]''
+| films               = 
+| film refs           = 
+| comics              = ''[[Saturday Morning Adventures II 1|Dungeons & Dragons: Saturday Morning Adventures II #1]]''
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = ''[[Menzoberranzan (game)|Menzoberranzan]]'' • ''[[Baldur's Gate II: Shadows of Amn]]'' • ''[[Neverwinter (game)|Neverwinter]]'' • ''[[Idle Champions of the Forgotten Realms]]''
+| video game refs     = ''[[Baldur's Gate III]]''
+| board games         = ''[[The Legend of Drizzt Board Game]]'' • ''[[Dungeons & Dragons Dice Masters: Adventures in Waterdeep]]''
+| board game refs     = 
+| card games          = ''[[Spellfire: Master the Magic]]''
+| card game refs      = 
+| miniatures          = ''[[AD&D Miniatures]]'';''[[Icons of the Realms]]''
+| organized play      = 
+| organized play refs = 
+}}
+
+===References===
+{{refs}}
+[[de:Jarlaxle]]
+[[Category:Drow]]
+[[Category:Mercenaries]]
+[[Category:Members of House Baenre]]
+[[Category:Members of Bregan D'aerthe]]
+[[Category:Members of House Do'Urden]]
+[[Category:Inhabitants of Menzoberranzan]]
+[[Category:Inhabitants of the Upperdark]]
+[[Category:Inhabitants of the Northdark]]
+[[Category:Inhabitants of the Underdark]]
+[[Category:Inhabitants of the Bloodstone Lands]]
+[[Category:Inhabitants of the Cold Lands]]
+[[Category:Inhabitants of Northeast Faerûn]]
+[[Category:Inhabitants of Luskan]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+
+=== WIKI PAGE: Bregan D'aerthe
+
+{{Organization
+| image          = Bregan Daerthe symbol.jpg
+| caption        = A pin worn by some members of the Bregan D'aerthe.
+| name           = Bregan D'aerthe
+| aliases        = 
+| base           = [[Menzoberranzan]], [[Northdark]] (primary);<br /> [[Calimport]], [[Calimshan]] (briefly)<br /> [[Luskan]], [[Sword Coast North]]
+| leader         = [[Jarlaxle]], [[Kimmuriel Oblodra]]
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="H-p?">{{Cite book/Homeland}}</ref><ref name="SotS-p?">{{Cite book/Servant of the Shard}}</ref><ref name="TPK-p?">{{Cite book/The Pirate King|?}}</ref>
+| members        = 150 [[drow]] and [[goblinoid]]s (1360s DR)<br />400 soldiers (250 in Menzoberranzan, 100 in Luskan)
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = [[Drow]] (mostly)
+| memrefs        = <ref name="M.tH-pp63-64">{{Cite book/Menzoberranzan/The Houses|63-64}}</ref><ref name="RGLoD-p55">{{Cite book/A Reader's Guide to R. A. Salvatore's the Legend of Drizzt|55}}</ref><ref name="M.CoI-pp64-67">{{Cite book/Menzoberranzan: City of Intrigue|64-67}}</ref><ref name="NotH-pp309-310">{{Cite book/Night of the Hunter/Hardcover|309-310}}</ref>
+| allegiances    = [[House Baenre]]
+| enemies        = [[House Hunzrin]], [[Jaezred Chaulssin]]
+| relrefs        = <ref name="CC-p50">{{Cite book/Charon's Claw/Hardcover|50}}</ref><ref name="M.tH-pp63-64" /><ref name="M.tH-pp63-64" />
+| showmembers    = yes
+| orgname        = Bregan D'aerthe
+}}
+'''Bregan D'aerthe''' ({{Pronounce|BRAY|gan|_|DAIRTH|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}) was an elite [[drow]] mercenary and later mercantile group founded and led by [[Jarlaxle]], primarily based in [[Menzoberranzan]] in the [[Underdark]].<ref name="H-p?" /> 
+
+==Activities==
+Bregan D'aerthe was primarily a mercenary and mercantile band. Members, both individuals and the band as a whole, were available for hire to the highest bidder.<ref name="H-p?" /><ref name="Extinct-p16">{{Cite book/Extinction/Paperback|16}}</ref> Bregan D'aerthe was involved in most conflicts in Menzoberranzan in one way or another.<ref name="RGLoD-p55" /> The band expanded to trade goods from the surface to Menzoberranzan and the Underdark.<ref name="TPK-p?" /><ref name="G-p?">{{Cite book/Gauntlgrym/Hardcover|?}}</ref> For example, they traded [[Netherese]] artifacts to Menzoberranzan via Luskan.<ref name="NotH-p309">{{Cite book/Night of the Hunter/Hardcover|309}}</ref>
+
+Bregan D'aerthe was also an information broker, willing to provide information for both sides of a conflict—for the right price. Its contacts reached even as far as the [[svirfneblin]] city of [[Blingdenstone]].<ref name="H-p?" /><ref name="M.tH-pp63-64" /><ref name="Exile-p?">{{Cite book/Exile/MMP (1990)|?}}</ref>
+
+Bregan D'aerthe had a reputation that normally allowed its agents to skip lines. Its members were given "credit" — often they didn't need to pay because of the threat of retaliation from Bregan D'aerthe.<ref name="Annih-pp86-87">{{Cite book/Annihilation/Paperback|86-87}}</ref>
+
+==Base of Operations==
+Bregan D'aerthe's main headquarters were hidden in the [[Clawrift]] in Menzoberranzan.<ref name="RGLoD-p122">{{Cite book/A Reader's Guide to R. A. Salvatore's the Legend of Drizzt|122}}</ref> However, they had a number of smaller headquarters and hide-outs in many locations throughout Menzoberranan and Ched Nasad.<ref name="M.tH-pp63-64" />
+
+The band established a presence on the surface in order to further the band's influence as well as trade for Menzoberranzan. In [[1366 DR]], it briefly had a surface base in [[Calimport]].<ref name="SotS-p?" /> 
+
+By [[1377 DR]], Bregan D'aerthe had developed a significant surface presence in [[Luskan]] and used [[Ship Kurth]] as its outward face.<ref name="TPK-p?" /> By [[1483 DR]], the drow agent [[Beniago]], disguised as a [[human]], was [[High Captain]] [[Kurth]].<ref name="TC-p341">{{Cite book/The Companions/Hardcover|341|26}}</ref> Bregan D'aerthe headquarters in Luskan were underground in [[Illusk]]. There was a path that connected the base to [[Closeguard Isle]] and [[Ship Kurth]]. Jarlaxle had a private room in this base.<ref name="NotH-p101">{{Cite book/Night of the Hunter/Hardcover|101}}</ref>
+[[File:Bregan_d'aerthe-5e.jpg|thumb|''Bregan D'aerthe in the [[Dock Ward of Waterdeep|Dock Ward]] of [[Waterdeep]].'']]
+
+==Possessions==
+Members of Bregan D'aerthe carried an insignia of the band that was widely recognized throughout the Underdark, including in [[Sschindylryn]].<ref name="Annih-p79">{{Cite book/Annihilation/Paperback|79}}</ref> Unlike a house insignia, the Bregan D'aerthe insignia did not always allow its bearer to levitate, however<ref name="Insurr-p77">{{Cite book/Insurrection/Paperback|77}}</ref> (although in [[1484 DR]], [[Braelin Janquay]] was able to use his insignia to do so<ref name="NotH-p113">{{Cite book/Night of the Hunter/Hardcover|113}}</ref>).
+
+Valas Hune had an upside-down cameo trinket of deep green jade that allowed him to send messages to his band when he touched it. Whether this trinket was the same as his insignia was unclear.<ref name="Annih-p273">{{Cite book/Annihilation/Paperback|273}}</ref>
+
+In the late 15{{th}} century [[DR]], the organization had acquired the [[Lantan]]ese [[submarine]] ''[[Scarlet Marpenoth]]'', which was employed as a secret base for Jarlaxle.<ref name="WDH5e-pp132,141-145">{{Cite book/Waterdeep: Dragon Heist|132,141-145}}</ref>
+
+==Relationships==
+Bregan D'aerthe enjoyed relative freedom from the Ruling Council, mostly because of its close relationship with [[House Baenre]] (into which Jarlaxle had in fact been born). The relationship began with Matron [[Yvonnel Baenre]] but continued with her successors, [[Triel Baenre|Triel]] and later [[Quenthel Baenre]].<ref name="M.CoI-pp64-67" /> Jarlaxle also had a mutually beneficial relationship with his powerful brother, [[Gromph Baenre]], [[Archmage of Menzoberranzan]], who often used Jarlaxle to undermine their sisters' power.<ref name="NotH-p231">{{Cite book/Night of the Hunter/Hardcover|231}}</ref><ref name="VotID-p328>{{Cite book/Vengeance of the Iron Dwarf/Hardcover|328}}</ref><ref name="VotID-p307-308">{{Cite book/Vengeance of the Iron Dwarf/Hardcover|307-308}}</ref>
+
+In the late fifteenth century DR, Bregan D'aerthe became concerned about the expansion of the [[Jaezred Chaulssin]], viewing them as religious zealots and fearing that the group would draw away potential Bregan D'aerthe recruits.<ref name="M.CoI-p67">{{Cite book/Menzoberranzan: City of Intrigue|67}}</ref><ref name="M.CoI-p65">{{Cite book/Menzoberranzan: City of Intrigue|65}}</ref> 
+
+Among the houses of Menzoberranzan, Bregan D'aerthe was concerned about the fast growth of [[House Hunzrin]], led by Matron [[Shakti Hunzrin]]. Although Jarlaxle was able to have a firm grip on most mercantile operations in the city, he failed to be able to reign in the growth of the Hunzrin's mercantile empire.<ref name="M.CoI-p67" />
+
+==History==
+[[File:Jarlaxle.jpg|thumb|250px|''Jarlaxle, the leader of Bregan D'aerthe.'']]
+===Founding===
+Bregan D'aerthe was founded by the houseless rogue Jarlaxle, choosing to separate from the matriarchal drow society. It was built of mainly rogue drow males from destroyed houses of Menzoberranzan and [[Ched Nasad]]. It was widely employed by the ruling houses of Menzoberranzan, especially by [[House Baenre]], which had the resources to hire the group regularly, particularly given that Jarlaxle himself was a Baenre.<ref name="RGLoD-p55-56">{{Cite book/A Reader's Guide to R. A. Salvatore's the Legend of Drizzt|55-56}}</ref>
+
+The group soon had an important role on major events at Menzoberranzan; for instance, it was hired by [[House Do'Urden]] to assist on the attack on the fifth house, [[House Hun'ett]], and it played a significant role in the demise of [[House Do'Urden]].<ref name="H-p?" />
+
+===10{{th}} century DR===
+Jarlaxle begins the organization slowly having [[Arathis Hune]] as his first Lieutenant.
+
+===11{{th}} century DR=== 
+In [[1018 DR]] Jarlaxle and [[Arathis Hune]] took part on a raid of [[House Simfray]] and were paid to acquire [[Zaknafein]] Simfray as a weaponsmaster for [[House Do'Urden]] and patron for [[Malice Do'Urden]].
+
+From time to time [[Zaknafein Do'Urden]] was later used in other Bregan D'aerthe operations.<ref>{{Cite book/Timeless}}</ref>
+Through mercenary opportunities in house to house infighting - the opportunity to acquire houseless rogues for the organization results in doubled membership by [[1118 DR]]. The rise in membership and demonstrated effectiveness of the band afforded it more respect and fear amongst matron mothers of the city. In order to protect the organization during this delicate time Jarlaxle chose to stay in Menzoberranzan and send Arathis Hune on jobs in Ched Nessad when required. For the first time ever the band has a castoff priestess as a part of its resources.<ref name="B-p?">{{Cite book/Boundless|?}}</ref>
+
+===12{{th}} Century DR===
+In [[1118 DR]] Year of the False Bargain, Jarlaxle celebrated 15 decades of Bregan D'aerthe but particularly the previous 100 years of growth. Conflicts and jealousy ensued as did attention to one of the affiliates of the band [[Zaknafein Do'Urden]]. In order to keep internal tensions down Jarlaxle enlisted a young [[Kimmuriel Oblodra]] a position in the band as a second lieutenant.  Conspiracy within the organization and from without by [[House Barrison Del'Armgo]] tests Jarlaxle's leadership and results in the death of [[Arathis Hune]] who had performed vital services of the organization.<ref name="B-p?" />
+
+===14{{th}} century DR===
+In [[1358 DR]], Bregan D'aerthe played a role in the drow attack on [[Mithral Hall]]. After the battle was over, the [[illithid]] advisor to Matron [[Yvonnel Baenre]], [[Methil El-Viddenvelp]], was believed dead. However, in truth he had been badly injured but was rescued by Bregan D'aerthe<ref name="DDGttU-p65">{{Cite book/Drizzt Do'Urden's Guide to the Underdark|65}}</ref> and brought back to the tunnels outside of the city, where he remained for more than a century, advising the band and serving as an object of study for [[Kimmuriel Oblodra]], a [[psion]] and one of the band's leaders.<ref name="NotH-p27">{{Cite book/Night of the Hunter/Hardcover|27}}</ref>
+
+Circa [[1360 DR]], [[House Xorlarrin]] hired Bregan D'aerthe to help protect the [[Lustrum]] mines.<ref name="DDGttU-p67-68">{{Cite book/Drizzt Do'Urden's Guide to the Underdark|67-68}}</ref>
+
+In [[1366 DR]], Bregan D'aerthe briefly expanded to a surface base in [[Calimport]], in part due to the influence of [[Crenshinibon]] on Jarlaxle. The [[human]] [[Artemis Entreri]] helped the group make contacts in Calimport.<ref name="SotS-p?" /> That endeavor did not last long, but Bregan D'aerthe soon began looking for contacts in the northern city of [[Luskan]]. Their first contact was [[Morik the Rogue]].<ref name="SotW">{{Cite book/The Spine of the World}}</ref> By [[1377 DR]], Bregan D'aerthe had developed a significant surface presence in [[Luskan]] and used [[Ship Kurth]] as its outward face.<ref name="TPK-p?" />
+
+During Jarlaxle and Artemis Entreri's exploits in the [[Bloodstone Lands]] (around [[1368 DR]]), Kimmuriel increasingly took more command of Bregan D'aerthe while its main leader was gone.<ref name="TPK-p?" /> When Jarlaxle and Entreri departed that area, Bregan D'aerthe took [[Calihye]], who had been Entreri's lover. What happened to her after that was unknown.<ref name="NotH-p243">{{Cite book/Night of the Hunter/Hardcover|243}}</ref>
+
+In [[1369 DR]], Bregan D'aerthe acted in [[Ust Natha]] in connection with [[House Jae'llat]] and [[Deirex]] the [[lich]].<ref name="BGII.SoA">{{Cite game/Baldur's Gate II: Shadows of Amn}}</ref>
+
+During the [[Siege of Menzoberranzan]] ([[1372]]-[[1373 DR]]), Bregan D'aerthe provided intelligence on the siege for city leaders. Jarlaxle, however, was not in the city at the time.<ref name="Annih-p76">{{Cite book/Annihilation/Paperback|76}}</ref> Meanwhile, Bregan D'aerthe agent [[Valas Hune]] was investigating the [[Silence of Lolth]], having been hired by [[Matron Mother]] [[Triel Baenre]] to escort [[Quenthel Baenre]]'s expedition through the Underdark.<ref name="Annih-p?">{{Cite book/Annihilation}}</ref>
+
+In [[1376 DR|1376]]-[[1377 DR]] Bregan D'aerthe played a role in the fall of the Host Tower of the Arcane in Luskan and the subsequent grapple for dominance between Captain [[Deudermont]], who was supported by [[Waterdhavian]] nobles and the [[High Captains (Luskan)|High Captains]]. They secured trade relations with Luskan during this incident, aligning with [[Ship Kurth]]. Jarlaxle later used that connection to make a deal with [[Marchion]] [[Elastul Raurym]], opening trade with the city of [[Mirabar]].<ref name="TPK-p?" />
+
+===15{{th}} century DR===
+[[File:Bregan D'Aerthe Spy.jpg|thumb|200px|''A 15{{th}} century Bregan D'aerthe spy in [[Neverwinter]].'']]
+In [[1466 DR]], Bregan D'aerthe, at the bequest of Jarlaxle, assaulted [[Draygo Quick]]'s compound in [[Gloomwrought]] in the [[Shadowfell]] to free his prisoners: [[Drizzt Do'Urden]] and the petrified [[Dahlia Sin'felle]] and [[Artemis Entreri]].<ref name="TLT-p?">{{Cite book/The Last Threshold}}</ref> In [[1469 DR]], Draygo Quick was continuing to work with Bregan D'aerthe; [[Kimmuriel Oblodra]] had agreed to share information he gathered from working with the [[illithids]] in return for forgiveness for the assault on Quick's home.<ref name="TC-pp146-147">{{Cite book/The Companions/Hardcover|146-147|12}}</ref>
+
+Bregan D'aerthe had made strong headway in Luskan. By [[1483 DR]], the drow agent [[Beniago]], disguised as a [[human]], was [[High Captain]] [[Kurth]].<ref name="TC-p341">{{Cite book/The Companions/Hardcover|341|26}}</ref> Bregan D'aerthe also had its eyes set on the city of [[Neverwinter]].<ref name="M.CoI-pp64-67">{{Cite book/Menzoberranzan: City of Intrigue|64-67}}</ref> It retained a number of agents in the city in order to maintain an understanding of the forces at play and pounce on an opportunity for profit, should it arise.<ref name="NCS-pp44-45,121">{{Cite book/Neverwinter Campaign Setting|44-45,121}}</ref>
+
+In [[1484 DR]], Bregan D'aerthe was hired by Matron Mother Quenthel Baenre to clean up [[House Do'Urden]] in Menzoberranzan, as well as to make up the garrison for that house. For a brief time, two-thirds of the members of Bregan D'aerthe were serving in the garrison, until Jarlaxle began swapping them out and sending them back to Luskan. Jarlaxle was assigned the title of Captain of the Guard, although he bribed [[Gromph Baenre]] with [[psionic]]s lessons from Kimmuriel to get out of his duties and escape the city.<ref name="NotH">{{Cite book/Night of the Hunter}}</ref><ref name="RotK">{{Cite book/Rise of the King}}</ref>
+
+==Members==
+[[File:Drowgunslinger.png|thumb|326x326px|''A member of Bregan D'aerthe.'']]
+Most of the band's members were males from destroyed houses, primarily fighters, thieves, and mages, with very few members having [[cleric]]al powers.<ref name="M.tH-pp63-64" /> Although the band had some non-drow members (particularly [[hobgoblin]]s and [[bugbear]]s), exceptions were made on occasion but only drow members could achieve the highest ranks.<ref name="M.CoI-pp64-67" /><ref name="WDH5e-p15" />
+
+===Leadership===
+After the debacle with Crenshinibon in [[1366 DR]], Jarlaxle left the organization in the capable hands of his trusted lieutenant [[Kimmuriel Oblodra]] and adventured on the surface with [[Artemis Entreri]]. Kimmuriel longed for a time when he could return to his lieutenant status and let Jarlaxle take over again, allowing him to return to his personal [[psionics|psionic]] studies.<ref name="SotS-p?" />
+
+Some time after his adventures in the [[Bloodstone Lands]], Jarlaxle returned and resumed his throne as leader of Bregan D'aerthe, still working in the shadows of society to establish trade and profits from the surface world, particularly in Luskan.<ref name="TPK-p?" /> Kimmuriel was still his second and was frequently the public face of dealings with the mercenary band while Jarlaxle ran off adventuring on the surface with [[Athrogate]] and others. Kimmuriel was, however, given the power to overrule Jarlaxle if he felt his master's involvement in matters of the surface world threatened the organisation as a whole. As time went on (by [[1463 DR]], Kimmuriel became widely understood as the band's leader,<ref name="CC-p277">{{Cite book/Charon's Claw/Hardcover|277}}</ref> and indeed Jarlaxle undertook missions for Kimmuriel and paid him for the services of Bregan D'aerthe when he wished to use the band for personal missions.<ref name="G-p221">{{Cite book/Gauntlgrym/Hardcover|221|15}}</ref> However, by [[1484 DR]], with Kimmuriel away at an illithids' hive, Jarlaxle was once again seen as an equal co-leader with Kimmuriel.<ref name="NotH-p16">{{Cite book/Night of the Hunter/Hardcover|16}}</ref>
+
+After the expansion of Bregan D'aerthe, it was broken up into a number of cells led by lieutenants of equal standing, each of whom was given jurisdiction over an area of interest for the group. The cells were, for the most part, independent, although they still gave allegiance to Jarlaxle and Kimmuriel. For example, [[Beniago]] was the lieutenant largely responsible for Luskan.<ref name="M.CoI-p67">{{Cite book/Menzoberranzan: City of Intrigue|67}}</ref> 
+
+===Notable Members===
+[[File:Bregan D'aerthe 4e.jpg|thumb|right|300px|''[[Valas Hune]], [[Kimmuriel Oblodra]], [[Jarlaxle]], and [[Rai-guy Bondalek]], of Bregan D'aerthe.'']]
+
+;Drow
+* [[Jarlaxle]], founder.<ref name="H-p?" />
+* [[Arathis Hune]], First lieutenant, Assassin, and operative to Ched Nessad. Killed [[1118 DR]].
+* [[Kimmuriel Oblodra]], co-leader and later primary leader, [[psionicist]].<ref name="SotS-p?" />
+* [[Rai-guy|Rai-guy Bondalek]] (killed), lieutenant, [[mage]]/[[cleric]].<ref name="SotS-p?" />
+* [[M'tarl]] (killed), lieutenant.<ref name="SoD-p43">{{Cite book/Siege of Darkness/Paperback (1995)|43}}</ref>
+* [[Vierna Do'Urden]], known as "Noamuth Lil" (the Wanderer).<ref name="M.tH-pp63-64" />
+* [[Dinin Do'Urden]] (turned into [[drider]], killed).<ref>{{Cite book/The Legacy|242}}</ref>
+* [[Valas Hune]], scout and lieutenant.<ref name="D-pp236-237">{{Cite book/Dissolution/Paperback 2003|236-237|15}}</ref><ref name="G-p?" />
+* [[Berg'inyon Baenre]].<ref name="SoD-Epilogue">{{Cite book/Siege of Darkness||Epilogue}}</ref>
+* [[Beniago|Beniago Baenre]], lieutenant disguised as a [[human]] in [[Luskan]].<ref name="TC">{{Cite book/The Companions}}</ref> 
+* [[Ak'hafta]] (killed).<ref name="tL-p186">{{Cite book/The Legacy/Paperback (1993)|186}}</ref>
+* [[Iftuu]] (killed).<ref name="tL-p171">{{Cite book/The Legacy/Paperback (1993)|171}}</ref>
+* [[Mariv]].<ref name="TGK-p?">{{Cite book/The Ghost King}}</ref>
+* [[Braelin Janquay]], one of Bregan D'aerthe's most promising scouts,<ref name="RotK-p66">{{Cite book/Rise of the King/Hardcover|66}}</ref> who discovered [[Regis]]'s true identity.<ref name="TC-p356">{{Cite book/The Companions/Hardcover|356-357|27}}</ref>
+* [[Ash'ala Melarn]], not a member, but rather an informant regarding the activities of [[House Melarn (Menzoberranzan)]]<ref>{{Cite book/Timeless|?}}</ref>
+*[[Fel'rekt Lafeen]], one of Bregan D'aerthe's top agents.<ref name="WDH5e-p15">{{Cite book/Waterdeep: Dragon Heist|15}}</ref>
+*[[Soluun Xibrindas]], one of Bregan D'aerthe's top agents.<ref name="WDH5e-p15" />
+*[[Krebbyg Masq'il'yr]], one of Bregan D'aerthe's top agents.<ref name="WDH5e-p15" />
+*[[Nar'l Xibrindas]], Soluun's younger brother on a mission to infiltrate the [[Xanathar's Thieves' Guild]] becoming [[Xanathar]]'s only wizard advisor in [[1491 DR]].<ref name="WDH5e-p211">{{Cite book/Waterdeep: Dragon Heist|211}}</ref>
+*[[Bi'anza Dossouin]], a wizard agent of Bregan D'aerthe that was monitoring the demon army of [[Zhindia Melarn]] in [[1488 DR]]<ref name="Relent-pp216-217">{{Cite book/Relentless|216–217}}</ref>
+*[[Dab'nay Tr'arach]], a priestess who retains her power despite abandoning Lolth, with close ties to Jarlaxle and Zaknafein.<ref name="B-p?" />
+*Visaj, a member of Bregan D'aerthe sent to Ust Natha on the pretext of recuing captured members from [[Deirex Jae'llat]].<ref name="BGII.SoA" />
+
+;Non-drow
+* [[Artemis Entreri]], honorary human member (although it was doubtful he would have named himself a member at any point).<ref name="SotS-p?" />
+* [[Morik the Rogue]], human agent in [[Luskan]].<ref name="SotW" />
+* [[Sharlotta Vespers]], honorary human lieutenant in [[Calimport]].<ref name="SotS-p?" />
+* [[Methil El-Viddenvelp]], illithid.<ref name="DDGttU-p65">{{Cite book/Drizzt Do'Urden's Guide to the Underdark|65}}</ref>
+* [[Athrogate]], honorary [[dwarf]] member.<ref name="TPK-p?" /> He went on missions for Jarlaxle.<ref name="RotK-p185">{{Cite book/Rise of the King/Hardcover|185}}</ref>
+
+==Appendix==
+===Appearances===
+{{Appearances
+| novels              = ''[[Homeland]]'';''[[Exile]]'';''[[The Legacy]]'';''[[Starless Night]]'';''[[Siege of Darkness]]'';''[[The Silent Blade]]'';''[[Spine of the World]]'';''[[Servant of the Shard]]'';[[The Best of the Realms#"Empty Joys"|"Empty Joys"]] in ''[[The Best of the Realms]]'' and ''[[The Collected Stories: The Legend of Drizzt Anthology]]'';''[[Promise of the Witch-King]]'';''[[Road of the Patriarch]]'';''[[Spinner of Lies]]'' (minor);''[[Dissolution]]'' (minor);''[[Annihilation]]'' (minor);''[[The Pirate King]]'';''[[Gauntlgrym (novel)|Gauntlgrym]]'';''[[The Last Threshold]]'';''[[The Companions]]'' (minor);''[[Night of the Hunter]]'';''[[Rise of the King]]'';''[[Vengeance of the Iron Dwarf]]'';''[[Timeless]]'';''[[Boundless]]'';''[[One-Eyed Jax: A Forgotten Realms Adventure]]''
+| novel refs          = ''[[Daughter of the Drow]]'';''[[Condemnation]]'';''[[Charon's Claw (novel)|Charon's Claw]]''
+| video games         = ''[[Baldur's Gate II: Shadows of Amn]]'';''[[Neverwinter (game)|Neverwinter]]''
+| video game refs     = ''[[Baldur's Gate III]]''
+| board games         = ''[[Dungeons & Dragons Dice Masters: Trouble in Waterdeep]]''
+| organized play      = ''[[The Map with No Names]]'';''[[Dock Ward Double-Cross]]''
+}}
+
+===References===
+{{Sectstub}}
+{{Refs}}
+
+[[de:Bregan D'aerthe]]
+[[Category:Mercenary companies]]
+[[Category:Character themes (4e)]]
+[[Category:Organizations in the Clawrift]]
+[[Category:Organizations in Duthcloim]]
+[[Category:Organizations in Menzoberranzan]]
+[[Category:Organizations in the Upperdark]]
+[[Category:Organizations in the Northdark]]
+[[Category:Organizations in the Underdark]]
+[[Category:Organizations in Luskan]]
+[[Category:Organizations in Neverwinter]]
+[[Category:Organizations on the Sword Coast North]]
+[[Category:Organizations in Northwest Faerûn]]
+[[Category:Organizations in Calimport]]
+[[Category:Organizations in Calimshan]]
+[[Category:Organizations in the Lands of Intrigue]]
+[[Category:Organizations in West Faerûn]]
+[[Category:Organizations in Faerûn]]
+[[Category:Organizations on Toril]]
+
+=== WIKI PAGE: Sea Maidens Faire
+
+{{Organization
+| image          = 
+| caption        = 
+| name           = Sea Maidens Faire
+| aliases        = 
+| type           = Carnival
+| base           = [[Luskan]], [[Sword Coast North]]
+| leader         = Captain [[Zardoz Zord]]
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = 
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = 
+| memrefs        = 
+| allegiances    = 
+| enemies        = 
+| relrefs        = 
+| showmembers    = 
+| orgname        = 
+}}
+The '''Sea Maidens Faire''' was a traveling carnival of entertainers hailing from the city of [[Luskan]] in the late 15{{th}} century [[DR]].<ref name="WDH">{{Cite book/Waterdeep: Dragon Heist|14-15,48-49}}</ref>
+
+==Activities==
+Traveling the [[Sword Coast]] in their three ships—the ''[[Heartbreaker]]'', ''[[Hellraiser]]'', and ''[[Eyecatcher]]'', the Sea Maidens Faire performed shows and parades in towns up and down the coast.<ref name="WDH"/>
+
+The fleet was commanded by Captain [[Zardoz Zord]].<ref name="WDH"/>
+
+==History==
+In the {{YearlinkName|1492}},{{Waterdeep-time}} the ''Heartbreaker'' and ''Hellraiser'' were docked in [[Waterdeep]]'s [[Dock Ward of Waterdeep|Dock Ward]], with the Sea Maiden's Faire carnival erected on the pier between the two ships. The flagship ''Eyecatcher'' was anchored in the harbor.<ref name="WDH"/>
+
+==Appendix==
+{{Incomplete|}}
+===Notes===
+{{notes}}
+
+===References===
+{{refs}}
+[[Category:Entertainment organizations]]
+[[Category:Organizations in Luskan]]
+[[Category:Organizations on the Sword Coast North]]
+[[Category:Organizations in Northwest Faerûn]]
+[[Category:Organizations in Faerûn]]
+[[Category:Organizations on Toril]]
+[[Category:Organizations]]
+[[Category:Fleets]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Zardoz Zord
+
+{{Person
+| image          = 
+| caption        = The captain of the ''Sea Maidens Faire'', Zardoz Zord.
+| name           = Zardoz Zord
+| alt_spelling   = 
+| titles         = Captain
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Luskan]]
+| formerhomes    = 
+| sex            = Male
+| race           =  [[Human]]
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Elvish]], [[Dwarvish]], [[Draconic language|Draconic]], [[Abyssal]], [[Undercommon]], [[Drow Sign]], [[Halfling language|Halfling]], [[Gnome language|Gnome]]
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| alignment5e    = [[Chaotic neutral]]
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Zardoz Zord''' was the leader of the [[Sea Maidens Faire]] carnival, which operated a trio of ships that traveled the [[Sword Coast]]: the ''[[Heartbreaker]]'', the ''[[Eyecatcher]]'', and the ''[[Hellraiser]]''. He spent most of his time aboard the ''Eyecatcher'', his personal ship. The other two carried members of the carnival, as well as parade wagons.<ref name="W-DH-p131">{{Cite book/Waterdeep: Dragon Heist|131, 132, 206|chapter = 7, Appendix B}}</ref>
+
+==The Truth==
+Zardoz Zord was a disguise donned by [[Jarlaxle Baenre]] used to infiltrate the city of [[Waterdeep]] in the late 15{{th}} century [[DR]]. The Sea Maidens Faire was a cover operation to hide the fact that Jarlaxle was searching for the ''[[Stone of Golorr]]''. However, Jarlaxle performed in the Sea Maidens Faire's parades under the guise of Zardoz Zord purely for the fun of it.<ref name="W-DH-p131"/>
+
+While the Sea Maidens Faire was real and did perform, the three ships were run by the [[Bregan D'aerthe]], and were teeming with [[drow]] under Jarlaxle's employ. The figureheads of each of Jarlaxle's ships made the crew appear to be [[human]] at all times. The only way to dispel this effect was to destroy the figurehead.<ref name="W-DH-p131"/>
+
+==Appendix==
+===Appearances===
+:;Adventures:
+:: ''[[Waterdeep: Dragon Heist]]''
+===Gallery===
+<gallery widths="300">
+Zardoz.jpg|''Captain Zardoz Zord'', by [[Scott Murphy]]
+</gallery>
+
+===References===
+{{Refs}}
+
+[[Category:Humans]]
+[[Category:Captains]]
+[[Category:Members of Bregan D'aerthe]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of West Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+[[Category:Fictional characters (in-universe)]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Luskan
+
+{{Location
+| image         = Luskan - city of pirates.png
+| caption       = A bird's eye view of Luskan, the City of Sails
+| name          = Luskan
+| aliases       = City of Sails<ref>{{Cite book/Streams of Silver|24}}</ref>
+| size          = Large city (1372 DR)<br/>Large town (1480 DR)
+| capital       =
+| area          = [[Sword Coast North]], [[northwest Faerûn]]
+| ruler         = The Five High Captains (1372 DR):<br />[[Taerl]], [[Baram]], [[Kurth]], [[Suljack]] and [[Rethnor]]<br/>None (1480 DR)<br/>[[Jarlaxle Baenre]] (1489 DR)
+| government    = Oligarchy (1372 DR)<br/>Anarchy (1480 DR)<br/>Oligarchy (1489 DR)
+|demonym        = Luskar<ref name="WotW">{{Cite polyhedron/74/The Everwinking Eye: Words To The Wise}}</ref>
+| population    = 15,000 ca. 1360s DR<ref name="RGLoD-142-143">{{Cite book/A Reader's Guide to R. A. Salvatore's the Legend of Drizzt|142-143}}</ref><br/>16,000 in [[1370 DR]]<ref name="VoloN-p111">{{Cite book/Volo's Guide to the North|111}}</ref><br/>14,173 in [[1372 DR]]<ref name="FRCS3e-p176">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|176}}</ref><br/>4,000 in [[1480 DR]]<ref name="SB|6538">{{Cite digital book/Shadowbane|6538}}</ref> 
+| races         = Mostly [[human]]s;<ref name="RGLoD-142-143" /> [[drow]]<ref name="NotH-p309-310">{{Cite book/Night of the Hunter/Hardcover|309-310}}</ref>
+| religion     =
+| imports       = [[Silver]], [[scrimshaw]], timber, [[dwarf|dwarven]] [[weapon]]s
+| exports       = [[Netherese]] artifacts,<ref name="NotH-p309">{{Cite book/Night of the Hunter/Hardcover|309}}</ref> [[weapon]]s<ref name="IWD2">{{Cite game/Icewind Dale II}}</ref>
+| predecessor   = [[Illusk]]
+| alignment     =
+| usethe        = 
+| useon         = 
+| inhabitants   = yes
+| locations     = yes
+| organizations = yes
+| settlements   = 
+| roads         = yes
+| items         = yes
+}}
+'''Luskan''', also known as the '''City of Sails''', was a port city at the mouth of the [[River Mirar]] on the [[Sword Coast North]].<ref name="VoloN-p111" /> Luskan, despite the presence of the [[Ten Towns]], was considered by many to be civilization's farthest reach.
+
+Although once a bustling city, in the days prior to the [[Spellplague]], the city would suffer greatly at the hands of [[Arklem Greeth]]. The resulting disaster would allow the Spellplague to nearly annihilate the city, with it having only a fraction of its former populace.{{fact}}
+
+{{quote|''Tucked like a gold filling (or some would say a pus-filled abscess) at the mouth of the River Mirar, Luskan is a city of merchant princesses, swarthy bandit princes, and the most diverse, cutthroat, and fractured cabal of pirates on Toril. Torn into factions, these piratical groups are known as "Ships."''|Excerpt from ''[[Corsairs of Luskan]]''<ref name="bg3">{{Cite game/Baldur's Gate III}}</ref>}}
+
+==Geography==
+As of [[1370 DR]], the city was split into northern and southern halves by the River Mirar, and these were connected by the bridges [[Dalath's Span]], [[Harbor Cross]], and the [[Upstream Span]].<ref name="VoloN-p113">{{cite book/Volo's Guide to the North|113}}</ref> Other than the [[Host Tower of the Arcane]], the city was dominated by two- and three-story buildings.<ref name="RGLoD-142-143" />
+
+The city and its five inhabited islands sat in the mouth of the [[River Mirar]], on the [[Mirarmouth Bay]].<ref name="grotto">{{Cite archive/Greenwood's Grotto/2024-05-10/Mirar Bay}}</ref> Three of these were inhabited: [[Cutlass Island]] (upon which lay the Host Tower of the Arcane, and which was connected to both sides of the river by bridges), [[Closeguard Island]] (which housed [[Ship Kurth]] and was connected to the southern bank by a bridge), and [[Blood Island]] (which housed Luskan's army garrison).<ref name="RGLoD-142-143" /><ref name="VoloN-p118-119">{{Cite book/Volo's Guide to the North|118-119}}</ref> The remaining uninhabited islands were [[Fang Island]] (named for its treacherous rocks) and [[Harbor Arm Island]] (which sheltered the city's harbor).<ref name="VoloN-p118" />
+
+===Northern Bank===
+[[File:Luskan.png|thumb|''Luskan at night.'']]
+The northern section was walled and was almost entirely made up of warehouses. The [[Mirabar District]] (also known as the Mirabar Shield) was a fortified compound operated by the merchants of [[Mirabar]], and it contained the [[Throat]], the city's heavily guarded main water tower, which was situated in a grazing area for sheep.<ref name="VoloN-p113" /> The ''[[Red Dragon Trading Post]]'', Luskan's most successful overland trading company as of 1370 DR (but no longer in operation in [[1483 DR]]<ref name="TC-p331">{{Cite book/The Companions/Hardcover|331|26}}</ref>), was situated on the northern bank, as was the ''[[North Gate (Luskan)|North Gate]]'', the portal between the northern and southern banks.<ref name="VoloN-p115" /> 
+
+The docks on the northern bank were on the sea coast (western part of the city) and consisted of [[Whitesails Harbor]], used exclusively for the Luskan navy, and the u
+
+=== LINKED WIKI PAGE (first 5000 chars): Northdark
+
+{{Location
+| title         = Domain
+| name          = Northdark
+| image         = Homeland-crop.jpg
+| caption       = A glimpse of [[Menzoberranzan]] and the Northdark.
+| aliases       = 
+| capital       = 
+| area          = [[Underdark]], [[Faerûn]]<ref name="UD-p126">{{Cite book/Underdark|126}}</ref>
+| size          = 
+| ruler1        = 
+| ruleryear1    = 
+| ruler2        = 
+| ruleryear2    = 
+| ruler3        = 
+| ruleryear3    = 
+| ruler4        = 
+| ruleryear4    = 
+| ruler5        = 
+| ruleryear5    = 
+| rulertype     = 
+| government    = 
+| languages     = 
+| races         =
+| religion      = 
+| currency      =
+| reckoning     = DR
+| population1   = 
+| popyear1      = 
+| population2   = 
+| popyear2      = 
+| population3   = 
+| popyear3      = 
+| imports       = 
+| exports       = 
+| alignment     = 
+| allegiance    = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = yes
+| locations     = yes
+| organizations = yes
+| settlements   = yes
+}}
+The '''Northdark''' was an underground domain of the [[Underdark]] north and east of the city of [[Waterdeep]].<ref name="UD-p126"/> 
+
+==Geography==
+The area was home to some of the most renowned subterranean realms of [[Faerûn]] like the [[svirfneblin]] ruins of [[Blingdenstone]], the [[duergar]] deepkingdom of [[Gracklstugh]] and the [[drow]] cities of [[Menzoberranzan]] and [[Ched Nasad]]. Numerous crumbled ancient realms were also found in the Northdark, such as [[Ammarindar (kingdom)|Ammarindar]], [[Delzoun]] and [[Netheril]], in the form of [[Skullport]]. The Northdark bordered on the [[Buried Realms]] in the east, meeting it underneath the ruins of [[Ascore]]. Deep within the [[Spine of the World]] many [[orc]] strongholds, [[troll]] caves, and [[giant]] delvings were buried.<ref name="UD-p126"/>
+
+==Lower Northdark==
+The lowest minor domain of the Northdark domain in the [[Lowerdark]] realm of the Underdark.<ref name="UD-p126"/> Located between 12<ref name="UD-p164">{{Cite book/Underdark|126}}</ref> and 18 mi (19.31 to 28.97 km)<ref name="UD-p134">{{Cite book/Underdark|134}}</ref> below the region known as the [[Northwest Faerûn]], the Lower Northdark had the [[Buried Realms]] to the east and [[Netherese Caverns]] to the south.<ref name="UD-p126"/>
+
+==Geographical Features==
+===Caverns===
+* [[Heartcoil Deeps]], a cavern network that was often rife with conflict.<ref name="WoW">{{Cite game/Warriors of Waterdeep}}</ref>
+* [[Nuur Throth]]<ref name="UD-p164"/>
+* [[Sharnlands]]<ref name="UD-p173">{{Cite book/Underdark|173}}</ref>
+* [[Whispering Caverns]]<ref name="Neverwinter">{{Cite game/Neverwinter}}</ref>
+
+=== Other Locations ===
+* [[Araumycos]]<ref name="UD-p164" />
+
+==Important Locations==
+===Settlements===
+* [[Blingdenstone]]<ref name="UD-p126"/>
+* [[Ch'Chitl]]<ref name="UD-p134"/>
+* [[Ched Nasad]]<ref name="UD-p126"/>
+* [[Gracklstugh]]<ref name="UD-p126"/>
+* [[Menzoberranzan]]<ref name="UD-p126"/>
+* [[Reeshov]]<ref name="UD-p170">{{Cite book/Underdark|170}}</ref>
+
+==Appendix==
+===See Also===
+*[[:Category:Images of the Northdark|Images of the Northdark]]
+===Appearances===
+{{Appearances
+| video games = ''[[Forgotten Realms: Demon Stone]]'';''[[Warriors of Waterdeep]]'';{{NWapp|ToD|NDR}}
+| video game refs = ''[[Neverwinter Nights 2]]''
+}}
+
+===Gallery===
+<gallery widths="300">
+Northdark.png|''Map of the Northdark, ''circa'' [[1372 DR]].''
+</gallery>
+===References===
+{{refs}}
+===Sources===
+* {{Cite book/Forgotten Realms Campaign Guide|232-233}}
+[[Category:Regions]]
+[[Category:Locations in the Underdark]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Locations]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Calimport
+
+{{Otheruses4|the capital city of [[Calimshan]]|the sourcebook|Calimport (sourcebook)}}
+{{Location
+| image              = Port of Calimport.png
+| caption            = The port of the city.
+| name               = Calimport
+| alt spelling       = 
+| aliases            = The City of Glory<br/>The City of Slaves
+| type               = Capital port city
+| region             = [[Calimshan]]
+| size               = Metropolis
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name=Calimport-p4>{{Cite book/Calimport|4}}</ref><ref name=FRCS-p156>{{Cite book/FRCS|156}}</ref>
+| demonym            = Calimpanni<br/>Calimportan
+| population         = 
+| races              = {{Percentage table|[[Humans]]|95|[[Halflings]]|2|[[Half-orcs]]|2|[[Half-elves]]|1}}
+| languages          = [[Alzhedo]]
+| religion           = [[Bhaelros]],<ref name="EotS-p54" /><ref name="EotSS-pp107-108" /> [[Shar]], [[Shaundakul]], [[Waukeen]]<ref name="EotSS-pp107-108" />
+| alignment          = {{Alignment grid | off  | off | off | on  | on  | off | off | on  | off }}
+| socrefs            = <ref name=Calimport-p3>{{Cite book/Calimport|3}}</ref><ref name=EotSS-p23>{{Cite book/Empires of the Shining Sea|23}}</ref><ref name=EotSS-pp104-105>{{Cite book/Empires of the Shining Sea|104-105}}</ref><ref name=EotSS-p54>{{Cite book/Empires of the Shining Sea|54}}</ref><ref name=EotSS-pp107-108>{{Cite book/Empires of the Shining Sea|107-108}}</ref><ref name=EotSS-p71>{{Cite book/Empires of the Shining Sea|71}}</ref><ref name="EotS-p54">{{Cite book/Empires of the Sands|54-56}}</ref><ref name=FRCS-p156/><ref name="SS">{{Cite book/Sandstorm (novel)}}</ref><ref name=FRCS-p155>{{Cite book/FRCS|155}}</ref>
+| imports            = Grains, fruits, vegetables, [[wine]]
+| exports            = [[magic item]]s, exotic [[spices]], alchemical supplies, silk, [[gem]]s, [[horse]]s, [[trika]]
+| currency           = {{currency table|1pp|1 ''kilarche'' ("Star")|5 ''bicenta'' ("Sun")|10 ''centarche'' ("Tear")|100 ''decarche'' ("Moon")|1000 ''unarche'' ("River")}}
+| comrefs            = <ref name="RS2e-p19,21">{{Cite book/Realmspace|19,21}}</ref>
+| government         = [[wikipedia:en:Autocracy|Autocracy]]
+| rulertype          = [[Syl-pasha]]
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = <ref name=Calimport-p13>{{Cite book/Calimport|13}}</ref><ref name=FRCS-p155/><ref name=Calimport-pp14-15>{{Cite book/Calimport|14-15}}</ref><ref name=EotSS-p23/><ref name=Calimport-p22>{{Cite book/Calimport|22}}</ref><ref name=EotSS-p44>{{Cite book/Empires of the Shining Sea|44}}</ref><ref name=EotSS-p34>{{Cite book/Empires of the Shining Sea|34}}</ref><ref name=EotSS-p37>{{Cite book/Empires of the Shining Sea|37}}</ref><ref name="SS"/>
+| established        = {{Yearlink|-7800}}<ref name="Calimport-p13" />
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = Over 2,000,000<ref name="EotS-p54" /><ref group=note name=note1>According to census-taker Vizar [[Achmed el Imnt]] of Calimport, this figure was "altered ridiculously". It included all slaves and dependent rural families, whereas other population figures recorded here do not. (See: {{Cite book/Empires of the Shining Sea|99}})</ref>
+| popyear1           = 1357
+| population2        = 212,000<ref name="EotSS-p104" />
+| popyear2           = 1370
+| population3        = 192,795<ref name="FRCS-p156" />
+| popyear3           = 1372
+| population4        = 60,000<ref name="FRCG-p98" />
+| popyear4           = 1479
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = {{split table|rca=center|[[Calim]]|''c.'' {{Yearlink|-7800}} &ndash; {{Yearlink|-6100}}|[[Ylveraasahlisar]]|{{Yearlink|-1838}} &ndash; {{Yearlink|-1726}}|[[Qyraaptir]]|{{Yearlink|-1428}} &ndash; {{Yearlink|-1402}}|[[Akkabar Shoon the Elder|Akkabar el Shoon]]|{{Yearlink|-77}} &ndash; [[27 DR]]|[[Fahd el Daosiin]]|[[450 DR|450]] &ndash; [[457 DR]]|[[Saban el Djenispool]]|[[1178 DR|1178]] &ndash; [[1235 DR]]|[[Kamar el Djenispool]]|1235 &ndash; [[1282 DR]]|[[Teladh el Djenispool]]|1282 &ndash; [[1338 DR]]|[[Rashid el Djenispool]]|1338 &ndash; [[1359 DR]]|[[Ralan el Pesarkhal]]|1359 &ndash; ?|[[Marod el Arhapan]]|? &ndash; [[1479 DR]]}}
+| h
+
+=== LINKED WIKI PAGE (first 5000 chars): Drow Sign Language
+
+{{Language
+| image      = DrowSignLanguage.png
+| caption    = The deaf-mute orphan Tira, with her hearing-ear dog, practicing Drow Sign Language with her tutor Dusk.
+| name       = Drow Sign Language
+| family     = [[Sign language]]s
+| group      = 
+| subgroup   = 
+| dialects   = 
+| influences = 
+| script     = 
+| regions    = 
+| speakers   = 
+| based      = 
+}}
+'''Drow Sign Language''', also known as '''Drow silent tongue''',<ref name="Poly97" /> the '''silent tongue''',<ref name="UA1e-p11" /><ref name="Dr129" /> or simply the '''"tongue"''',<ref name="DotU-p46" /> and referred to as the '''silent language''', '''hand code''',<ref name="FF1e-p34" /><ref name="MCv2" /><ref name="TDotUd-p95" /><ref name="M-CoI-p27" /> '''hand cant''',<ref>{{Cite book/Realms of the Dragons/Gorlist's Dragon|55}}</ref> or '''silent code''',<ref name="Soj-p37" /> was a [[sign language]] used by [[drow]] to communicate in silence and secrecy.<ref name="FF1e-p34">{{Cite book/Fiend Folio 1st edition|34}}</ref><ref name="UA1e-p11">{{Cite book/Unearthed Arcana 1st edition|11}}</ref><ref name="MCv2">{{Cite book/Monstrous Compendium Volume Two|Elf, Drow}}</ref><ref name="TDotUd-p95">{{Cite book/The Drow of the Underdark|6,95}}</ref><ref name="FRCS3e-p13">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|13}}</ref><ref name="RoF-p36">{{Cite book/Races of Faerûn|36}}</ref><ref name="DotU-p40">{{Cite book/Drow of the Underdark|40}}</ref><ref name="DotU-p46">{{Cite book/Drow of the Underdark|46}}</ref><ref name="M-CoI-p27">{{Cite book/Menzoberranzan: City of Intrigue|27}}</ref>
+
+==Description==
+In Drow Sign Language, a word's meaning was conveyed by the pattern formed by the hands and fingers, while tenses of words and the links of subject to object in a sentence were expressed by the exact angle of the hands from the body. Meanwhile, emotion and emphasis were applied using stance, body language, and facial expressions.<ref name="FF1e-p34" /><ref name="UA1e-p11" /><ref name="MCv2" /><ref name="TDotUd-p95" /><ref name="DotU-p40" /><ref name="DotU-p46" /><ref name="M-CoI-p27" /> For example, the particular way that [[Kimmuriel Oblodra]] waggled his thumb at the end of one sentence indicated his deep contempt for humans<ref name=":0">{{Cite book/Road of the Patriarch/MMP|243|16}}</ref> and [[Drizzt Do'Urden]] folding his arms across his chest was a show of peace.<ref name="Soj-p26">{{Cite book/Sojourn/MMP (1991)|26|2}}</ref> [[Mez'Barris Armgo]] indicated a question by popping up her left thumb at the end of a statement.<ref name=":0" /> There was of course no vocal component.<ref name="DotU-p46" /><ref name="M-CoI-p27" /> It was a complete and comprehensive language like any other, with a full vocabulary.<ref name="FF1e-p34" /><ref name="UA1e-p11" /><ref name="MCv2" /><ref name="DotU-p46" /><ref name="M-CoI-p27" />
+
+It could be hard for anyone other than the intended receiver of a signed message to interpret<ref name="DotU-p40" /> and nigh-impossible to decipher for anyone not fluent.<ref name="DotU-p46" /> While spoken languages usually had more variation or range of expression, Drow Sign Language was nevertheless able to deliver an amazing amount of complex information in a comparatively short amount of time.<ref name="DotU-p40" /> Elements of Drow Sign Language could even be delivered via normal body language and typical movements, enabling those who'd learned how to pass secret messages to others without being noticed.<ref>{{Cite book/Drow of the Underdark|45}}</ref> Provided two persons were in line of sight,<ref name="FRCS3e-p13" /><ref name="RoF-p36" /> it was fully comprehensible up to {{SI|30|ft|long=yes}}, where users could apply all facial expressions and body language to be clearly understood.<ref name="FF1e-p34" /><ref name="UA1e-p11" /><ref name="MCv2" /> Without these elements to apply subtleties and emotion, it could be communicated as far as {{SI|120|ft|long=yes}},<ref name="FRCS3e-p13" /><ref name="RoF-p36" /> which was the typical limit of a drow's [[darkvision]].<ref name="MM35-p103" /> Both longer distances and the short winding tunnels of the [[Underdark]] naturally impeded communication, however.<ref name="DotU-p46" />
+
+There was no known alphabet or written form associated with Drow Sign Language on [[Toril]].<ref name="FRCS3e-p13" /><ref name="RoF-p36" /> On other worlds, however, there was a simple pictographic script comprising lines and dots that approximated the positions of fingers and hands, with emphasis marks for other gestures. It was necessarily less comprehensive and conveyed less information than Drow Sign Language itself, but was enough to communicate essential information. It was used to create directions for drow soldiers following a path and warning signs about hazards ahead, and so on.<ref name="DotU-p40" /><ref name="DotU-p46" /> These easily went unnoticed or were dismissed as artistic designs by anyone not familiar with them.<ref name="DotU-p46" /> Drow adept in spellcraft could make their
+
+=== LINKED WIKI PAGE (first 5000 chars): Faerûn
+
+{{Location
+| title       = 
+| image          = Sword-Coast-Map HighRes-Compressed.jpg
+| caption        = Map of the Sword Coast and surrounding areas in western Faerûn in [[1489 DR]]
+| name           = Faerûn
+| aliases        = The Great Island <small>(for [[Northlander]])</small><ref name="TN.GttSF-p16">{{Cite book/The North: Guide to the Savage Frontier|16}}</ref>
+| type           = Continent
+| size           = 
+| capital        = 
+|demonym         = Faerûnian<ref name="WotW">{{Cite polyhedron/74/The Everwinking Eye: Words To The Wise}}</ref>
+| area           = [[Toril]]
+| languages      = 
+| races          = 
+| religion       = 
+| currency       = 
+| population1    = 
+| popyear1       = 
+| population2    = 
+| popyear2       = 
+| population3    = 
+| popyear3       = 
+| imports        = 
+| exports        = 
+| alignment      = 
+| allegiances    = 
+| government     = 
+| rulertype      = 
+| ruler1         = 
+| ruleryear1     = 
+| ruler2         = 
+| ruleryear2     = 
+| ruler3         = 
+| ruleryear3     = 
+| ruler4         = 
+| ruleryear4     = 
+| ruler5         = 
+| ruleryear5     = 
+| rulertable     =
+| usethe         = 
+| useon          = 
+| inhabitants    = yes
+| locations      = yes
+| organizations  = yes
+| settlements    = yes
+| events         = yes
+| food and drink = yes
+| items          = yes
+}}
+'''Faerûn''' ({{Pronounce|fay|ROON|refs=<ref name="FRCS2e-r-p4">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|4}}</ref>|audio=Faerûn.ogg}} {{Pronounce|FAY|er|OON|primary stress=3|refs=<ref name="FRCS1e-DM-p4">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|4}}</ref>|alt=yes}}) was a major continent on the planet of [[Toril]].<ref name="FRCS-p5">{{Cite book/Forgotten Realms Campaign Setting|5}}</ref><ref name="TFRA-p1">{{Cite book/The Forgotten Realms Atlas|1-3}}</ref><ref group="note">As the key setting of the ''[[Forgotten Realms]]'', the majority of official ''Forgotten Realms'' material covers this continent, and it has had more attention than any other area of the planet.</ref>
+{{quote|''Someone should have dared, long ago, and done so as often as it took to break you of this serenely wrong view of the ways of the world. Hear this, [[Narantha Crownsilver|Narantha]], and hear it well: Faerûn is not going to change to your will. Either you must change to dwell in it, or it will break you.''|[[Florin Falconhand]] of the [[Knights of Myth Drannor]]<ref name="soe-p72">{{Cite book/Swords of Eveningstar/Hardcover 2006|72}}</ref>}}
+
+==Etymology==
+The word "Faerûn" was a modified version of "Faerie", the name of the homeland of ancient [[elves]]. The term was coined by [[Durothil (prince)|Durothil]], prince of [[Tintageer]], [[Faerie]].<ref name="e:ioe-p97">{{Cite book/Evermeet: Island of Elves/MMP|97}}</ref>
+
+==Geography==
+{{main|Portal:Geography}}
+The continent included terrain that was as varied as any other. Besides the exterior coastline to the west and south, the most dominant feature on the continent was the [[Sea of Fallen Stars]]. This was an irregular inland sea that kept the interior lands fertile, connected the west and east regions of Faerûn and served as a major trade route for many of the bordering nations.<ref name="TFRA-p1" /><ref name="FRCS-p142">{{Cite book/Forgotten Realms Campaign Setting|142}}</ref>
+
+Next in significance was the [[Shaar]], a broad region of grasslands in the south that,<ref name="FRCS-p196">{{Cite book/Forgotten Realms Campaign Setting|196}}</ref> together with the Lake of Steam, separated the area around the inland sea from the coastal nations at the southern edge of the continent. To the east, Faerûn was bordered by a vast region of steppes from [[Kara-Tur]],<ref name="FRCS-p230">{{Cite book/Forgotten Realms Campaign Setting|230}}</ref> and in the north were massive glaciers ([[Pelvuria]] and [[Reghed]]) and tundra.<ref name="TFRA-p1" /> South of the continent, separated by the [[Great Sea]], was the sub-tropical land of [[Zakhara]].<ref name="FRCS-p230"/>
+
+The continent included the following geographic regions.<ref group="note">The following division of Faerûn by compass directions was developed for organizational purposes on the Forgotten Realms Wiki, and is not closely reflected by descriptions in source text. In particular, terms like "the North" and "the South" in the sources can be much more wide-ranging in scope, and as ambiguous, than what is defined here.</ref>
+
+===Northwest===
+[[File:Northwest faerun 250.gif|thumb|right|200px|''Northwest Faerûn'']]
+{{main|Northwest Faerûn}}
+A region of wilderness, difficult winter weather, [[orc]] hordes, and barbarian tribes, this region was generally referred to as "The North", which also contained most of the "[[Sword Coast North]]". It was a mostly untamed region that lay between the large [[Anauroch]] desert in the east and the expansive [[Sea of Swords]] in the west, north of the [[High Moor]].<ref name="TFRA-p1" /><ref name="FRCS-p165">{{Cite book/Forg
+
+=== LINKED WIKI PAGE (first 5000 chars): House Baenre
+
+{{DEFAULTSORT:Baenre}}
+{{Organization
+| image          = House Baenre glyph.jpg
+| caption        = The symbol of House Baenre
+| name           = House Baenre
+| aliases        = House Baenrae<ref name="DotU-108">{{Cite book/The Drow of the Underdark|108}}</ref>
+| base           = [[Menzoberranzan]], [[Northdark]]
+| leader         = [[Sos'Umptu Baenre]] ([[1490 DR]]-?) 
+[[Quenthel Baenre]] ([[1383 DR]]-[[1490 DR]])<ref name="M.CoI-p37">{{Cite book/Menzoberranzan: City of Intrigue|37}}</ref> <br/> 
+[[Triel Baenre]] ([[1358 DR]]-[[1383]])<ref name="M.CoI-p37"/><ref name="M.CoI-p35">{{Cite book/Menzoberranzan: City of Intrigue|35}}</ref><ref name="U-p162">{{Cite book/Underdark|162}}</ref> <br/> 
+[[Yvonnel Baenre]] ({{Yearlink|-7}}-[[1358 DR]])<ref name="M.CoI-p35"/>
+| symbol         = 
+| favored weapon = 
+| domains        =
+| formed         = 
+| disbanded      = 
+| members        = 
+| alignment      = [[Chaotic evil]]
+| races          = [[Drow]]
+| allegiances    = 
+| enemies        = [[Mithral Hall]]; [[House Barrison Del'Armgo]], [[House Faen Tlabbar]]<ref name="Condemn-p286">{{Cite book/Condemnation/Paperback|286|16}}</ref>
+| showmembers    = yes
+| orgname        = House Baenre
+| source         = 
+}}
+'''House Baenre''' {{Pronounce|BANE|ray|refs=<ref name="W-DH-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}} was the first [[drow]] house of [[Menzoberranzan]], and had been for centuries—as long as anyone in the city could remember.<ref name="Diss-p129">{{Cite book/Dissolution/Paperback 2003|129|9}}</ref>
+
+==History==
+The story of House Baenre's ascension to the premier rank in the city was not known to any living drow; the only person who might have known the true history of the house is [[Yvonnel Baenre]], the former [[Matron Mother]] who took power in {{Yearlink|-7}}.<ref name="M.CoI-p35">{{Cite book/Menzoberranzan: City of Intrigue|35}}</ref> Even with the death of Yvonnel Baenre during the failed invasion of [[Mithral Hall]] in [[1358 DR]], the first house's power could not be usurped; [[Triel Baenre]], the first and most powerful daughter of Yvonnel Baenre, took her mother's place as supreme ruler.<ref name="DotDp?">{{Cite book/Daughter of the Drow/2003|?}}</ref>
+
+Soon after the death of Yvonnel, House Baenre was at the weakest it had been for centuries.<ref name="Condemn-p47">{{Cite book/Condemnation/Paperback|47|3}}</ref> During the [[Silence of Lolth]] in [[1372 DR]] and [[1373 DR]], particularly during the slave revolt and then siege of Menzoberranzan by the [[duergar]], Triel struggled to secure her hold over both her house and the city. She sought allies along the other houses, particularly [[House Xorlarrin]],<ref name="Condemn-p288">{{Cite book/Condemnation/Paperback|288|16}}</ref> and cultivated a close ally relationship with [[House Mizzrym]].
+
+During the [[Siege of Menzoberranzan]] in [[1372]]-[[1373 DR]], there were only seven wizards of House Baenre: [[Gromph Baenre]], [[Nauzhror Baenre]], [[Julani Baenre]], [[Grendan Baenre]],  [[Noori Baenre]], [[Zoran Baenre]], and [[Prath Baenre]]. However, Julani was killed towards the end of the siege when his [[lightning bolt]] cast through a [[scrying]] gem on [[Nimor Imphraezl]] reflected back on him.<ref name="Extinct-p241">{{Cite book/Extinction/Paperback|241-251|24}}</ref>
+
+Triel was not able to hold on to power forever. In [[1383 DR]], [[Quenthel Baenre]], Triel's younger sister, became matron mother.<ref name="M.CoI-p37">{{Cite book/Menzoberranzan: City of Intrigue|37}}</ref>
+
+In [[1490 DR]], after the civil war in Menzoberranzan that began with the heresy of Quenthel and [[Yvonnel Baenre II]], a deal was brokered between Sos'Umptu Baenre and Jarlaxle to let all heretics leave the city, while Sos'Umptu would take over as the new matron mother of House Baenre.<ref>
+{{Cite book/Lolth's Warrior|366-367}}</ref>
+
+==Activities==
+The main strength of House Baenre lay in clerical prowess; [[Lolth]] favored the first house strongly, responding (comparatively) generously to their prayers, and the house was also able to boast many high priestesses, including [[Quenthel Baenre]], who held the crucial and influential position as Matron Mistress of [[Arach-Tinilith]].<ref name="Diss-p17">{{Cite book/Dissolution/Paperback 2003|17|2}}</ref> [[Gromph Baenre]], the [[Archmage of Menzoberranzan]], was also a member of House Baenre, which significantly increases the influence of the house both politically and militarily, as he held sway over [[Sorcere]].<ref name="Diss-p5-6">{{Cite book/Dissolution/Paperback 2003|5-6|1}}</ref>
+
+The [[Black Claw Mercantile Company]] was a trade consortium based in Menzoberranzan and primarily owned by House Baenre.<ref name="M.tH-p26">{{Cite book/Menzoberranzan/The City|26}}</ref>
+
+==The Baenre Compound==
+House Baenre occupied the highest tier, a ledge called [[Qu'ellarz'orl]], in the main cavern of Menzoberranzan. It was made up of twenty stalagmites and thirty stalactites. A central stalagmite, called the Great Mound, housed the
+
+=== LINKED WIKI PAGE (first 5000 chars): Baldur's Gate
+
+{{otheruses4|the city on the Sword Coast|other uses|Baldur's Gate (disambiguation)}}
+{{GA}}
+{{Location
+| image              = Baldur's Gate overview BG3.png
+| caption            = Panorama of Baldur's Gate.
+| name               = Baldur's Gate
+| alt spelling       = 
+| aliases            = The Gate<ref name="Shadowmask-p113" /><br />Gray Harbor<ref name="MiBG.CG-p32" /><br />Loklee<ref name="TEV2022">{{Cite web/theedverse/2022-03-26 - Baldur's Gate History}}</ref><br />City of Blood<ref name="BG-DiA-p12">{{Cite book/Baldur's Gate: Descent into Avernus|12}}</ref><br />"Halfway to everywhere"<ref name="LC-ANE">{{Cite organized play/LC/A Necessary Evil|16}}</ref><ref name="AGTotR-p87" /><ref name="TFRA-p87" />
+| type               = 
+| region             = [[Sword Coast]], [[Western Heartlands]]
+| size               = Metropolis
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="FRCS3e-p225">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|225}}</ref><ref name="VoloSC-p8">{{Cite book/Volo's Guide to the Sword Coast|8}}</ref>
+| demonym            = Baldurian<ref name="FRA-p73" /><ref name="WotW" />
+| population         = 
+| races              = Mostly [[human]]
+| languages          = 
+| religion           = [[Gond]], [[Tymora]], [[Umberlee]], [[Helm]], [[Lathander]], [[Ilmater]], [[Dead Three|Cults of the Dead Three]]
+| alignment          = 
+| socrefs            = <ref name="FRA-p76" /><ref name="FRCG-p94" /><ref name="BG.DiA-p159" />
+| imports            = Stone
+| exports            = Dyes, fish, lamp oil, trade-coinage
+| currency           = 
+| comrefs            = <ref name="FRA-p76">{{Cite book/Forgotten Realms Adventures|76}}</ref><ref name="VoloN-p152" />
+| government         = Plutocracy
+| rulertype          = 
+| ruler              = [[Council of Four]]
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = [[Parliament of Peers]]
+| judiciary          = 
+| allegiances        = [[Lords' Alliance]]
+| govrefs            = <ref name="SCAG-p43" /><ref name="SCAG-p45" /><ref name="BG.DiA-p159" />
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 125,000
+| popyear1           = 1492
+| population2        = 120,000–140,000
+| popyear2           = 1479
+| population3        = 42,103
+| popyear3           = 1372
+| population4        = 86,000–115,000
+| popyear4           = 1358
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="FRA-p76" /><ref name="FRCS3e-p225" /><ref name="FRCG-p94" /><ref name="BG.DiA-p159">{{Cite book/Baldur's Gate: Descent into Avernus|159}}</ref>
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = yes
+| items              = yes
+}}
+'''Baldur's Gate''', called the '''City of Blood'''<ref name="BG-DiA-p12" /> and simply  '''the Gate''',<ref name="Shadowmask-p113">{{Cite book/The Shadowmask/Hardcover|113}}</ref> was one of the largest metropolises and city-states on the [[Sword Coast]], within the greater [[Western Heartlands]]. It was a crowded city of commerce and opportunity,<ref name="FRPG-p82">{{Cite book/Forgotten Realms Player's Guide|82}}</ref> and one of the most prosperous and influential merchant cities on the western coast of [[Faerûn]].<ref name="FRCS3e-p225">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|225}}</ref><ref name="FRCG-p94">{{Cite book/Forgotten Realms Campaign Guide|94}}</ref> Despite its long-standing presence as a neutral power, the leaders of Baldur's Gate were members of the [[Lords' Alliance]] of powers in [[West Faerûn|the west]].<ref name="FRA-p73">{{Cite book/Forgotten Realms Adventures|73}}</ref><ref name="SCAG-p43">{{Cite book/Sword Coast Adventurer's Guide|43}}</ref> It was described as being the '''"halfway to everywhere"'''.<ref name="LC-ANE" /><ref name="AGTotR-p87">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|87}}</ref><ref name="TFRA-p87">{{Cite book/The Forgotten Realms Atlas|87}}</ref><ref>{{Cite book/The Halfling's 
+
+=== LINKED WIKI PAGE (first 5000 chars): Deudermont
+
+{{Person
+| image          = Cap Deudermont.png
+| caption        = 
+| name           = Deudermont
+| alt_spelling   = 
+| titles         = Captain<ref name="THG" /><br/>Governor<ref name="FRCG4e-148" />
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = Aboard the ''[[Sea Sprite]]'', [[Sea of Swords]]''<br/><br/>[[Luskan]]<ref name="FRCG4e-148" />
+| formerhomes    = [[Waterdeep]], [[Sword Coast North]]<ref name="SoS" />
+| sex            = Male
+| gender         = Masculine
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = Ship captain
+| age            = 
+| patron deity   = 
+| languages      = 
+| basicrefs      = <ref name="THG" /><ref name="PtD" />
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| death          = 1377
+| deathnotes     = Killed by [[Kensidan]]<ref name="tPK"/>
+| turned         = 
+| turnednotes    = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+| alignment55    = 
+| challenge55    = 
+| class55        = 
+| refs55         = 
+}}
+'''Deudermont''' was a sea captain and commander of the famous ''[[Sea Sprite]]'',<ref name="THG" /> a large pirate-hunting vessel commissioned to him by the [[Lords of Waterdeep]],<ref name="PtD-c1">{{Cite book/Passage to Dawn/Hardcover August 1996|?|1}}</ref> in the mid-to-late 14{{th}} century [[DR]].<ref name="THG" /> He was briefly governor of the city of [[Luskan]] during its rebellion.<ref name="FRCG4e-148" /> He was also a friend of [[Drizzt]] and the [[Companions of the Hall]].<ref name="THG" /><ref name="PtD" />
+
+==Description==
+Deudermont was a tall refined man. By his look, one would expect to find him amongst the lords and ladies during his shore time, but he cared about his crew. He typically spent his time keeping an eye on them, and making sure they stayed out of trouble.<ref name="THG-c4">{{Cite book/The Halfling's Gem/Paperback (1990)|?|4}}</ref>
+
+==Personality==
+Deudermont was almost unshakeably loyal to his crew, and expected that loyalty in return. When Drizzt arrived to sail with the ''Sea Sprite'', Deudermont was initially skeptical of the [[drow]]'s motives, but Drizzt quickly proved himself and found a place among the ship's complement.<ref name="THG">{{Cite book/The Halfling's Gem/Paperback (1990)|?}}</ref>
+
+==Relationships==
+His trusted right-hand man was the wizard [[Robillard]], who was second-in-command on the ''Sea Sprite'' and a capable magic user.<ref name="PtD" />
+
+==History==
+[[File:Deudermont.png|thumb|''A closeup of Deudermont's face.'']]
+[[Drizzt Do'Urden]] and [[Wulfgar]] first met Deudermont in [[Waterdeep]] in the {{YearlinkName|1356}}, when they were trying to secure passage to [[Calimshan]] when looking for [[Regis]]. During their voyage, they were attacked by the pirate [[Pinochet]], who was sent by Pasha [[Pook]]. After defeating Pinochet, Deudermont obtained his oath that he would never seek vengeance against him. In the midst of the fighting, Drizzt accidentally dropped ''[[Agatha's mask]]'', exposing his [[drow]] form. However, Deudermont did not treat him with the same prejudice others had shown him.<ref name="THG" />
+
+Drizzt and [[Catti-brie]] later spent several years as part of Deudermont's crew. In the {{YearlinkName|1364}}, while being escorted by Drizzt and Catti-Brie, he was attacked by a [[doppelganger]] that attempted to take his place as the captain of his ship. Fortunately, [[Guenhwyvar]] was able to identify the doppelganger, resulting in its capture and Deudermont's rescue. When the doppelganger attempted to escape, Deudermont grabbed ''[[Taulmaril]]'' from Cattie-brie and killed it. He then assumed that the doppelganger was sent by Pinochet, unaware that it in fact served [[Errtu]].<ref name="PtD">{{Cite book/Passage to Dawn/Hardcover August 1996|?}}</ref>
+
+In the {{YearlinkName|1365}}, Wulfgar was falsely accused of attempting to assassinate the good captain, alongside [[Morik]] the Rogue, though the attempt on his life was actually conducted by [[Tee-a-nicknick]] and [[Creeps Sharky]], who were later executed in [[Luskan]]. Deudermont survived the attack, despite being badly [[poison]]ed and seeming on the brink of death for a few days. Trusting in Wulfgar's innocence, despite Robillard's objections, he vouched for their release, which soured his relationship with the high magistrates.<ref>{{Cite book/The Spine
+
+=== LINKED WIKI PAGE (first 5000 chars): Neverwinter
+
+{{GA}}
+{{otheruses4|the city}}
+{{Location
+| image              = NeverwinterHarbor.jpg
+| caption            = A view of Neverwinter from the harbor.
+| name               = Neverwinter
+| alt spelling       = 
+| aliases            = Eigersstor<br/>City of Skilled Hands<br/>Jewel of the North
+| type               = Settlement
+| region             = [[Sword Coast North]], [[northwest Faerûn]]
+| size               = City (c. [[1491 DR]])<br/>{{Former}} Metropolis (before [[1451 DR]])<br/>{{Former}} Large city (c. [[1372 DR]])
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="FRCS1e-CotR-p66"/><ref name="WatN-p9"/><ref name="TSF-p31"/><ref name="FRCS2e-AGTotR-p114"/><ref name="FRCS3e-p176"/><ref name="RoF-p93">{{Cite book/Races of Faerûn|93}}</ref><ref name="NCS-p138"/><ref name="Nev-p146">{{Cite book/Neverwinter/Hardcover|146}}</ref>
+| demonym            = Neveren,<ref name="WotW" /> Neverwintan,<ref name="VGttN-p130" /><ref name="TheNorthCity-p14" /> Neverwintian (rare)<ref name="WotW">{{Cite polyhedron/74/The Everwinking Eye: Words To The Wise}}</ref>
+| population         = 
+| races              = [[Half-elves]], [[humans]], and a minority of [[dwarves]] (c. [[1372 DR]])<br/>Plus a minority of [[dragonborn]], [[eladrin]], [[tiefling]]s, [[orc]]s, and [[half-orc]]s (c. [[1479 DR]])
+| languages          = 
+| religion           = [[Asmodeus]], [[Bahamut]], [[Helm]], [[Kelemvor]], [[Oghma]], [[Selûne]], [[Torm]], [[Tyr]], [[Waukeen]]
+| alignment          = 
+| socrefs            = <ref name="FRCS2e-AGTotR-p114"/><ref name="FRCS3e-p176"/><ref name="NCS-p88">{{Cite book/Neverwinter Campaign Setting|88}}</ref><ref name="NCS-p98">{{Cite book/Neverwinter Campaign Setting|98}}</ref><ref name="NCS-p140">{{Cite book/Neverwinter Campaign Setting|140}}</ref><ref name="TheNorthCity-p14">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|14}}</ref><ref name="DR381-p92"/><ref name="DU193-p21"/><ref name="NVMMO"/>
+| imports            = Crafters, [[Mercenary|mercenaries]]
+| exports            = Crafts (especially water-clocks and exotic lamps), fish, horticulture, logging, [[magical]] innovations
+| currency           = {{currency table|1pp|1 [[fairsail]]|10 gold [[dragon (coin)|dragon]]s|20 electrum [[sea-shee]]|100 silver [[bult]]s|1000 copper [[tharn]]s}}
+| comrefs            = <ref name="FRCS1e-CotR-p66"/><ref name="WatN-p9"/><ref name="TSF-p31"/><ref name="FRCS2e-AGTotR-p114"/><ref name="FRCS3e-p176"/><ref name="NCS-p86"/><ref name="VGttN-p130"/><ref name="TheNorthCity-p14"/><ref name="TSF-p31"/><ref name="Ed">{{cite web|author=[[Ed Greenwood]]|title=Ed's Twitter|url=https://twitter.com/TheEdVerse/status/1168298350074040320|accessdate=2019-09-03}}</ref>
+| government         = [[Wikipedia:Lord|Lordship]] <br/>{{Former}} [[wikipedia:Royalty|Royalty]]<br/>{{Former}} Lordship
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = <ref name="WatN-p9"/><ref name="TSF-p31"/><ref name="FRCS3e-p176"/><ref name="NCS-p86"/><ref name="NCS-p138"/>
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 17,000
+| popyear1           = 1357
+<!--| population2        = 17,000
+| popyear2           = 1366-->
+| population2        = 23,192
+| popyear2           = 1372
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = Lord [[Nasher Alagondar]]
+| ruleryear1         = 1357 and 1372
+| ruler2             = King Nasher Alagondar
+| ruleryear2         = 1385
+| ruler3             = King [[Bann Alagondar]]
+| ruleryear3         = 1400
+| ruler4             = Lord Protector [[Dagult Neverember]]
+| ruleryear4         = 1491
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="WatN-p9"/><ref name="TSF-p31"/><ref name="FRCS2e-AGTotR-p114"/><ref name="FRCS3e-p176"/><ref name="NCS-p86">{{Cite book/Neverwinter Campaign Setting|86}}</ref><ref name="NCS-p138">{{Cite book/Neverwinter Campaign Setting|138}}</ref>
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = yes
+| roads              = yes
+| mountains          = 
+| bodies of water    = yes
+| forests            = 
+| events             = yes
+| food and drink     = yes
+| items     
+
+=== LINKED WIKI PAGE (first 5000 chars): Spellplague
+
+{{Event
+| image       = Sanitorium - Mark Winters.jpg
+| caption     = Victims of the Spellplague.
+| name        = Spellplague
+| partof      = 
+| othernames  = Blue Breath of Change 
+| type        = Cataclysm
+| deity       = 
+| location    = [[Abeir]] and [[Toril]]
+| date        = [[1385 DR]]–[[1395 DR]]
+| duration    = 10 years 
+| schedule    = 
+| frequency   = 
+| basicrefs   = <ref name="SCAG5e-p17">{{Cite book/Sword Coast Adventurer's Guide|17}}</ref>
+| observedby  = 
+| affected    = 
+| activities  = 
+| first       = 
+| cause       = Death of [[Mystra (Midnight)|Mystra]]
+| responsible = [[Cyric]] and [[Shar]]
+| subevents   = 
+| outcome     = Global turmoil, temporary destruction of the [[Weave]]
+| histrefs    = <ref name="SCAG5e-p17" />
+}}
+The '''Spellplague''', called the '''Blue Breath of Change''' by the inhabitants of [[Abeir]],<ref name="FRCG-p200">{{Cite book/Forgotten Realms Campaign Guide|200}}</ref> was a disaster that struck [[Realmspace]] and even the [[planes]] themselves on the date of [[Tarsakh 29]] in the {{YearlinkName|1385}}, and was caused by [[Mystra (Midnight)|Mystra]]'s assassination at the hands of [[Cyric]] and [[Shar]].<ref name="FRCG-p50">{{Cite book/Forgotten Realms Campaign Guide|50}}</ref><ref name="Ud-p64">{{Cite book/Undead|64}}</ref> It continued for a decade, leading to the [[Wailing Years]], during which [[arcane magic]] ceased to function and the planet of [[Toril]] was transformed.<ref name="TWY">{{Cite dragon/362/Countdown to the Realms: Spellplague: The Wailing Years}}</ref>
+
+{{Quote|In the infamous, calamitous year of [[1385 DR]], a conspiracy between the goddess of darkness, Shar, and the god of trickery, Cyric, sought to end Mystra's control over the Weave and influence over the realms by cravenly assassinating her. But instead of merely breaking the goddess of magic's dominance, her death threw the Weave into utter chaos and collapse. Magic spells faltered, or failed entirely. Countless spellcasters were killed or driven insane. A vast storm of blue flame arose from the [[Mhair Jungles]] and swept the continent, churning and reshaping the land, and leaving whole regions devastated.|''[[Magical Histories]], Volume 2: The Spellplague''<ref name="BGIII">{{Cite game/Baldur's Gate III}}</ref>}}
+
+==Omens==
+{{Quote|''"The white queen is troubled but can't say why. The black queen hates the white and gives the assassin a black coat. The assassin steals upon the white queen. She can't see him gliding through the shadows. The sword screams. The white queen falls. Her city falls. Stones fall in the cavern to crush the soothsayer. The tree burns and thrashes in agony. Branches break. Branches twist and grow together..."''|A vision of the Spellplague from the [[diviner]] [[Yaphyll]]<ref name="Ud-p7">{{Cite book/Undead|7}}</ref>}}
+
+In her vision, the diviner Yaphyll referred to Mystra as the white queen and to Shar, goddess of the night, as the black queen. Cyric, god of murder, was the assassin;<ref name="Ud-p75">{{Cite book/Undead|75}}</ref> [[Savras]], the god of divination, was the soothsayer,{{speculation}}, and [[Dweomerheart|the city]], cavern and [[World Tree cosmology|tree]] symbolized the ordered structures of magic crumbling into chaos.<ref name="Ud-p75"/>
+
+==Origins==
+The most popular and widely accepted theory about the origins of the Spellplague was that this calamity was caused by the death of Mystra, the [[god]]dess of [[Magic]]. For eons, magic had been bound within Mystra's [[Weave]], the universal structure of arcane forces, and her death tore the Weave apart and unleashed the [[raw magic]] contained within it, creating the cataclysm that was later known as the Spellplague.<ref name="FRCG-p50"/><ref name="NV">{{Cite game/Neverwinter}}</ref>
+
+Other scholars, however, didn't consider this to be a logical explanation. Historically, two earlier incarnations of Mystra had died before only to be reborn, and the Weave maintained its hold over the power of magic for the duration of her deaths. In these scholars' views, the truth would never be fully known to mortals, and perhaps not even to the [[god]]s.<ref name="NV"/><ref name="PoS-p79">{{Cite book/Plague of Spells|79}}</ref>
+
+Around [[1396 DR]], the sentient [[construct]] [[Cynosure (construct)|Cynosure]] theorized that the escape of an entity named the [[Carnis|Traitor]] from its confinement in the dungeons of [[Stardeep]], around the same time Mystra was murdered, may have also influenced the Spellplague's virulent onslaught.<ref name="PoS-p79"/>
+
+Around [[1479 DR]], scholars and sages who studied the [[Neverwinter/Chasm|Chasm]] of [[Neverwinter]], such as [[Rhazzad]], believed the [[aboleth]]s of the [[Abolethic Sovereignty]] may have been the actual creators of the Spellplague, although there were no definite proof.<ref name="NV"/>
+
+==The Plague==
+Mystra's death caused the Weave to collapse and, without the Weave, the [[Shadow Weave]] was unable to be maintained and collapsed as well. The breakdown of the Weave
+
+=== LINKED WIKI PAGE (first 5000 chars): Timeless
+
+{{Book
+| image        = Timeless cover.jpg
+| caption      = 
+| code         = 
+| title        = Timeless
+| author       = [[R.A. Salvatore]]
+| cover_artist = 
+| inter_artist = 
+| publisher    = [[Wikipedia:HarperCollins|Harper Voyager]]
+| type         = Novel
+| languages    = 
+| realm year   = [[1488 DR]] (with flashback scenes in [[1018 DR]])
+| edition1     = Hardcover
+| released1    = September 4th, 2018
+| binding1     = Hardcover
+| pages1       = 432
+| isbn10-1     = 0062688596
+| isbn13-1     = 978-0062688590
+| cite1        = 
+| edition2     = Paperback
+| released2    = 
+| binding2     = Paperback
+| pages2       = 448
+| isbn10-2     = 006268860X
+| isbn13-2     = 978-0062688606
+| cite2        = 
+| edition3     =Barnes and Noble Exclusive 
+| released3    =September 4th, 2018 
+| binding3     =Hardcover 
+| pages3       =397 
+| isbn10-3     =0062894765 
+| isbn13-3     =9780062894762 
+| cite3        = 
+| edition4     = 
+| released4    = 
+| binding4     = 
+| pages4       = 
+| isbn10-4     = 
+| isbn13-4     = 
+| cite4        = 
+| edition5     = 
+| released5    = 
+| binding5     = 
+| pages5       = 
+| isbn10-5     = 
+| isbn13-5     = 
+| cite5        = 
+| series       = [[Generations]]
+| preceded_by  =''[[Hero]]'' ([[Homecoming]]) 
+| followed_by  = ''[[Boundless]]''
+| Booksamillion= | Booktopia    = | EAN-UPC      = 9780062688606
+| source       = 
+}}
+'''''Timeless''''' is a novel by [[R.A. Salvatore]], the first book of a planned trilogy featuring [[Drizzt Do'Urden]]. The book was officially released on September 4th, 2018.
+
+{{Quote|Centuries ago, in the city of [[Menzoberranzan]], the City of Spiders, the City of Drow, nestled deep in the unmerciful [[Underdark]] of [[Toril]], a young weapon master earned a reputation far above his station or that of his poor house.
+
+The greater nobles watched him, and one matron, in particular, decided to take him as her own. She connived with rival great houses to secure her prize, but that prize was caught for her by another, who came to quite enjoy the weapon master.
+
+This was the beginning of the friendship between [[Zaknafein]] and [[Jarlaxle]], and the coupling of Matron [[Malice Do'Urden|Malice]] and the weapon master who would sire Drizzt Do'Urden.
+
+R. A. Salvatore reveals the Underdark anew through the eyes of Zaknafein and Jarlaxle—an introduction to the darkness that offers a fresh view of the opportunities to be found in the shadows and an intriguing prelude to the intriguing escapes that lie ahead in the modern-day Forgotten Realms. Here, a father and his son are reunited and embark on adventures that parallel the trials of centuries long past as the friends of old are joined by Drizzt, Hero of the North, trained by Grandmaster [[Kane]] in the ways of the monk.
+
+But the scourge of the dangerous [[Lolth]]'s ambitions remain, and [[demon]]s have been foisted on the unwitting of the surface. The resulting chaos and war will prove to be the greatest challenge for all three.}}
+
+==Summary==
+===Prologue ([[1488 DR]])===
+[[Zhindia Melarn]], reeling from the attack on her house and loss of her [[Yazhin Melarn|daughter]] at the hands of Drizzt and [[Artemis Entreri]], summons the [[yochlol]] [[Eskavidne]] to see if she can somehow be resurrected, but is told that there is nothing that can be done, since her soul was devoured by Entreri's dagger. They do imply however, that she now has Lolth's permission to kill Drizzt, who is seen as Lolth's champion by many drow following his recent defeat of [[Demogorgon]].
+[[Gromph Baenre]] informs his sister [[Quenthel Baenre|Quenthel]] of the goings-on on the surface, and includes news that Zaknafein has been raised from the dead—something that should be impossible without the direct permission of Lolth, and why should she grant that for such a heretic?
+===Part 1 ([[1018 DR]])===
+[[House Do'Urden]] plans it's ascent up the ranks of Menzoberranzan's nobility. [[Briza Do'Urden]] is sent to deliver her house's payment to [[House Xorlarrin]] for a service, who, in turn, hire [[Bregan D'aerthe]] to carry out said service—The abduction of Zaknafein Simfray from the chaos of an attack on [[House Simfray]] by [[House Tr'Arach]]. Jarlaxle also takes the opportunity to save the life of [[Duvon Tr'arach]]. Simfray would have successfully repelled the Tr'Arach attack, but Jarlaxle's lieutenant, [[Arathis Hune]], assassinates the remaining Simfray nobles. Zak is told of the plan to make of him Matron Malice's patron, and he agrees on the condition that he can take his revenge on House Tr'Arach. Zak is then infiltrated inside the weakened House's throne room where he beheads the Tr'Arach Matron Mother. Bregan D'aerthe recruits the House's last remaining soldiers.
+Now Zaknafein Do'Urden, the weapon master finds himself bored, having his warrior reputation used as a figurehead for his new house rather than being used to do what he loves best—killing the priestesses of Lolth. Over the next few months though, Zak and Jarlaxle grow to enjoy each other's co
+
+=== LINKED WIKI PAGE (first 5000 chars): Boundless
+
+{{Book
+| image        = Boundless cover.jpg
+| caption      = 
+| code         = 
+| title        = Boundless
+| author       = [[R.A. Salvatore]]
+| cover_artist = 
+| inter_artist = 
+| publisher    = [[Wikipedia:HarperCollins|Harper Voyager]]
+| type         = Novel
+| languages    = 
+| realm year   = [[1488 DR]] (with flashback scenes in [[1118 DR]])
+| edition1     = Hardcover
+| released1    = September 10th, 2019
+| binding1     = Hardcover
+| pages1       = 400
+| isbn10-1     = 0-0626-886-34
+| isbn13-1     = 978-0062688637
+| cite1        = 
+| edition2     = Paperback
+| released2    = 
+| binding2     = Paperback
+| pages2       = 448
+| isbn10-2     = 0-0626-886-42
+| isbn13-2     = 978-0062688644
+| cite2        = 
+| edition3     = 
+| released3    = 
+| binding3     = 
+| pages3       = 
+| isbn10-3     = 
+| isbn13-3     = 
+| cite3        = 
+| edition4     = 
+| released4    = 
+| binding4     = 
+| pages4       = 
+| isbn10-4     = 
+| isbn13-4     = 
+| cite4        = 
+| edition5     = 
+| released5    = 
+| binding5     = 
+| pages5       = 
+| isbn10-5     = 
+| isbn13-5     = 
+| cite5        = 
+| series       = [[Generations]]
+| preceded_by  = ''[[Timeless]]''
+| followed_by  = ''[[Relentless]]''
+| EAN-UPC      = 9780063055292
+| Booksamillion= 
+| Booktopia    = 
+| source       = https://amzn.to/3tyxoCz
+}}
+'''''Boundless''''' is a novel by [[R.A. Salvatore]], the second book of the ''[[Generations]]'' trilogy featuring [[Drizzt Do'Urden]]. The book was released on September 10th, 2019. 
+
+{{Quote|''Split between time and two worlds, Zaknafein had always been conflicted. That inner turmoil was magnified by his inferior position as a male dark elf in the matriarchal drow society. Only his status as one of the greatest warriors—as well as his friendship with the mercenary Jarlaxle—kept him sane. When he finally perished, he was content knowing he left behind a legacy as substantial as his son Drizzt.''
+
+''Except...someone isn’t ready for Zaknafein to be dead. And now he’s back, hundreds of years later, in a world he doesn’t recognize. His son’s companions are not the prideful—and bigoted—males the drow warrior was accustomed to in his previous life. Drizzt’s circle includes dwarves, elves, and, perhaps worst of all, a human wife.''
+
+''Struggling to navigate this transformed new world, Zaknafein realizes that some things have not changed: the threat of demons and the machinations of a drow matron no longer content with her family’s position in the ranks of Houses. Though he has been displaced in time, Zaknafein is still a warrior. And no matter what prejudices he must overcome, he knows he will do his duty and fight by Drizzt’s side to stem the tide of darkness that threatens the Realms.''}}
+
+== Summary ==
+
+=== Prologue (1488 DR) ===
+In the Year of Dwarvenkind Reborn, Regis races to Waterdeep through demon-infested forests, pursued by fiends and desperate to warn of a coming invasion. Entrusting his companions to defend the halfling town of Bleeding Vines, a valiant stand unfolds. Doregardo escapes to alert others while Showithal sacrifices himself. Lady Donnola and Clan Battlehammer lead an evacuation to Gauntlgrym, defended fiercely by Pikel and Ivan Bouldershoulder. Regis narrowly escapes a glabrezu with help from Yvonnel Baenre, while Drizzt Do’Urden rescues Doregardo. As the last tram flees, the darkness of war tightens its grip on the world above and below.
+
+=== Part 1 (1118 DR) ===
+In Menzoberranzan’s twisted beauty, Zaknafein and Jarlaxle rekindle an old friendship through rivalry, races, and revelry at the Oozing Myconid tavern. But beneath the merriment, House Fey-Branche plots Zaknafein’s death. Jarlaxle’s magical eye reveals Duvon Tr’arach in disguise, leading to a dramatic tavern duel. Zaknafein survives with style, bolstered by Jarlaxle’s quiet interference. The politics of the duel ripple outward—Arathis Hune rigs bets and seeks revenge, and Dab’nay, entangled in schemes and affections, manipulates from behind the curtain.
+
+Zaknafein trains obsessively, unaware of deeper plots. The duel ends in victory, though foul play nearly changes its course. Duvon lives, spared at Dab’nay’s request, but betrayal festers. Zaknafein, suspecting treachery, clashes with Jarlaxle, whose priorities favor profit over principle. Zaknafein soon discovers Dab’nay's true motives when she paralyzes him—only to reveal a passionate entanglement instead. Their affair complicates the web of deception further.
+
+As Dab’nay implicates Arathis in cheating, Zaknafein faces the growing realization that he's a pawn in a larger power play. Everyone—including Jarlaxle—plays their own game, but Zaknafein, master of the blade, begins to sharpen his focus beyond duels and into the heart of Menzoberranzan’s rotting core.
+
+=== Part 2 (1488 DR) ===
+Matron Zhindia Melarn leads a hellish alliance toward Gauntlgrym, bolstered by traitorous dwarves and abyssal retrievers. Inside the city, Bruenor Battlehammer readies defenses while Drizzt, Jarlaxle, and Zaknafein
+
+=== LINKED WIKI PAGE (first 5000 chars): Neverwinter (game)
+
+{{two other uses|the game|the city|Neverwinter|for other uses|Neverwinter (disambiguation)}}
+{{Computer game
+|name = Neverwinter
+|image = Neverwinter MMO logo.jpg
+|realm year  = [[1479 DR]]&mdash;<ref name="Nw-year1">{{cite web |url=http://www.mmorpg.com/neverwinter/interviews/keeping-current-with-the-fifth-edition-1000009059 |title=Neverwinter - Keeping Current with the Fifth Edition |accessdate=2017-04-05 |format= |work=MMORPG.com |archiveurl=https://web.archive.org/web/20170405115616/http://www.mmorpg.com/neverwinter/interviews/keeping-current-with-the-fifth-edition-1000009059 |archivedate=2017-04-05 }}</ref>
+|developer = [[wikipedia:en:Cryptic Studios|Cryptic Studios]]
+|publisher = [[wikipedia:en:Perfect World (company)|Perfect World]]
+|designer = 
+|engine = 
+|released = 2013
+|genre = [[wikipedia:en:MMORPG|MMORPG]]
+|modes = Massively multiplayer
+|ratings = 
+|platforms = PC (Windows), Xbox One, Playstation 4
+|media = 
+|requirements = 
+|input = 
+}}
+'''''Dungeons & Dragons: Neverwinter''''' is a free-to-play massively multiplayer online roleplaying game developed by Cryptic Studios and published by Perfect World Entertainment. It was released on the 20th of June 2013, with additional content updates (called Modules) releasing every few months thereafter.
+
+The game deals with the aftereffects of an attack on the city of [[Neverwinter]] by [[Valindra Shadowmantle]] and a [[dracolich]]. Several factions and individuals attempt to take advantage of the chaos caused by the attack. Later updates have generally followed [[Wizards of the Coast|Wizards]]' official story arcs.
+
+The Dwarven King questline for Module 8, Underdark, was written by [[R.A. Salvatore]],<ref>[http://www.arcgames.com/en/games/neverwinter/news/detail/9575413-developer-blog%3A-storyteller-of-the-realms%2C-r.a.-salvatore Developer Blog: Storyteller of the Realms, R.A. Salvatore]</ref> and Module 15, The Heart of Fire, was written by Mike Krahulik and Jerry Holkins of [https://www.penny-arcade.com Penny Arcade].<ref>[http://www.dragonmag.com/5.0/#!/article/116594/103661803?loadFresh=true&title=22_23_Neverwinter%E2%80%99s%20Amazing%20New%20Acquisition Dragon+ #22: Neverwinter's Amazing New Acquisition]</ref>
+
+==Main Plot==
+===The Battle of Sleeping Dragon Bridge===
+{{See also|The Siege of Neverwinter}}
+Washing up on the beach in [[1479 DR]] after their ship was sunk by the dracolich, several [[adventurer]]s were thrust into battle against Valindra's [[undead]] minions while trying to reach the relative safety of Neverwinter's walls. The adventurers were joined by Private [[Wilfred]], a Neverwinter graycloak, who was killed by [[Valindra Shadowmantle|Valindra]] when he attempted to confront her directly on Sleeping Dragon Bridge. Meanwhile, a tiefling warlock named [[Makos]] dispatched the dracolich and used his magic to prevent its soul from returning to its phylactery to regenerate. For their valor in defending the city against the undead, the adventurers became known as the Heroes of Sleeping Dragon Bridge.
+
+===The Crown of Neverwinter===
+[[File:Neverwinter_MMO_-_Quest_-_The_Thief_of_The_Crown_(Cutscene).png|thumb|The theft of the crown]]
+During an investigation of the vaults beneath the [[Hall of Justice]], the Heroes of Sleeping Dragon Bridge discovered that the [[Sons of Alagondar#Nashers|Nashers]] managed to sneak into the vault during Valindra's attack and steal the ''[[Crown of Neverwinter]]''. After tracking down the Nasher rogue [[Honor Reigh]], whom they saw stealing the crown with another Nasher, clues pointed to a Nasher base in the [[Neverwinter#Blacklake|Blacklake district]]. The heroes found the Blacklake District to not only be overrun with Nashers, but covered with a magical sludge that was bubbling up from the Blacklake itself. The heroes aided an alchemist in investigating it, ultimately confirming that it originated with a [[Chosen of Ghaunadaur|Chosen]] of [[Ghaunadaur]] living in the lake. After dispatching the [[Chosen]], the heroes continued searching for the other thief and eventually discovered he had been kidnapped by the [[Dead Rats]]. Down in the sewers beneath the city, the heroes located the other thief, [[Gothwan Cooper]], who claimed that his leader [[Karzov]] left him to die - gladly giving up Karzov's location in exchange for his life. The Nashers set fire to their safehouse when the heroes arrived and Karzov escaped to their headquarters, an old warehouse. The heroes followed and killed Karzov, bringing the Crown back to [[Neverwinter#Protector's Enclave|Protector's Enclave]].
+
+===Orc Invasion===
+After clearing out some kobolds that have been boiling up from the sewers, the Heroes of Sleeping Dragon Bridge were informed that some [[orc]]s from [[Many-Arrows]] had invaded the Tower District. While battling the orcs, the heroes learned that their leaders were operating from within the [[Neverwinter#Cloak Tower|Cloak Tower]]. After killing the orc shamans maintaining the tower's magical wards, the heroes entered 
+
+=== LINKED WIKI PAGE (first 5000 chars): Idle Champions of the Forgotten Realms
+
+{{Computer game
+|image        = Idle Champions of the Forgotten Realms cover.png
+|caption      = 
+|name         = Idle Champions of the Forgotten Realms
+|realm year   = ~[[1493 DR]]<ref name="Realms year" group="note">The character profile of [[Drizzt Do'Urden]] states his age to be 196 years old. Seeing as how he was born in [[1297 DR]] (''[[The Grand History of the Realms]]'', p. 132), ''Idle Champions'' must be set in 1493 DR. That being said, the developers have stated they intentionally keep the game's timeline vague, to allow them to pick and choose the characters (or character ''versions'') they want.</ref>
+|developer    = [[Wikipedia:Codename Entertainment|Codename Entertainment]]
+|publisher    = 
+|distributor  = [[Wikipedia:Steam (software)|Steam]]
+|designer     = 
+|released     = September 2017
+|genre        = [[Wikipedia:Incremental game|Idle game]]
+|modes        = Single player
+|ratings      = 
+|engine       = 
+|version      = 
+|platforms    = PC (Windows)<br />Android<br />iOS<br />PS4<br />Xbox One<br />Nintendo Switch
+|media        = 
+|requirements = 
+}}
+'''''Idle Champions of the Forgotten Realms''''' is a free-to-play [[Wikipedia:Incremental game|idle game]] developed by [[Wikipedia:Codename Entertainment|Codename Entertainment]]. It was released for early access on September 7, 2017.
+
+==Description==
+The core gameplay of ''Idle Champions'' revolves around the player selecting "champions" (such as [[Bruenor Battlehammer|Bruenor]], [[Minsc]], and [[Celeste]], among others) to defeat waves of increasingly difficult monsters, thereby accumulating gold. This gold is used to upgrade the player's champions, or unlock new ones. Each individual champion has its own set of unique abilities that empower either themselves or other champions. The player needs to place these champions in a "formation" that facilitates the overall strength of the party to ensure progress can be made against higher-level waves of monsters. As players complete objectives, or reset their current adventure, they accumulate "Favor" with a specific deity, which increases the amount of gold they find in future sessions. Furthermore, players can collect character-specific equipment that permanently boost their champions further, either as random drops, or through purchasing "chests" filled with random items. Equipment comes in four quality tiers, where "Epic" is the highest. Furthermore, equipment can be further boosted by being made "Shiny" (a rare chance at permanent improvement) or "Golden" (an even bigger improvement but generally limited to real-world currency purchases). Finally, "Epic" equipment can be forged into "Legendary" quality, which does not empower the item itself, but rather provides an additional positive effect for the party.
+
+The game can be automated to a degree using the "Modron Automation" system which allows the game to handle all necessary input to repeatedly play itself, in four separate instances, for a period of up to 7 days.
+
+The game is segmented into several "campaigns", each with its own unique Favor, ensuring Favor progress does not carry over between campaigns. Each campaign has a unique formation pattern, forcing players to rethink how to arrange their champions. Some of the campaigns are permanent, while others are event-based and only available for a short time. Event campaigns reward unique champions that are only available to unlock during their respective events. Permanent campaigns are usually adaptations of a tabletop adventure, such as ''[[Tomb of Annihilation]]''. All the campaigns are further divided into "adventures", which are narrative frames for the core gameplay, for example recounting how the champions help rescue a farmer's daughter who has been kidnapped by [[werewolf|werewolves]]. Most adventures also have additional challenge modes, unlocked after meeting various criteria. These challenge modes present the player with new obstacles to overcome, for example through limiting the champions available to choose from. The "Patron" system allows for these challenges to be replayed with even more limitations imposed on the player. For example, selecting the [[Strahd von Zarovich|Strahd]] patron means players are restricted to only using champions with a high intelligence score.
+
+The "end game" of ''Idle Champions'' is the "Trials of Mount Tiamat", a cooperative campaign where five players undertake missions to defeat [[Tiamat]]. Over the course of a week, players must succeed in daily missions to help reach their goal. Success yields "Scales of Tiamat", which is a currency used to forge "Legendary" equipment.
+
+==Index==
+[[File:Idle Champions campfire.png|thumb|300px|''The champions enjoy a well-deserved rest.'']]
+===Characters===
+<!-- Please do not add links to characters from streams. -->
+:;Lore Champions: [[Anson Iro|Anson]] (and [[Uggie]]) • [[Arkhan]] • [[Artemis Entreri|Artemis]] • [[Asharra]] • [[Astarion]] • [[Azaka Stormfang|Azaka]] • [[Baeloth Barrityl|Baeloth]] • [[Baldric
+
+=== LINKED WIKI PAGE (first 5000 chars): Baldur's Gate III
+
+{{Computer game
+| image        = 
+<gallery>
+BG3 logo 1.png|Main
+BG3 logo 2.png|Alternate
+</gallery>
+| caption      = 
+| name         = Baldur's Gate III
+| realm year   = [[Eleasis 21]] or [[Uktar]], [[1492 DR]]{{BG3-time}}
+| developer    = [[Wikipedia:Larian Studios|Larian Studios]]
+| publisher    = Larian Studios
+Sony Interactive Entertainment LLC (PS5)
+| distributor  = 
+| designer     = 
+| released     = October 6th, 2020 (Early access),<br/ > August 3rd 2023 (PC),<br/ >September 6th 2023 (PS5),<br/ >December 8th 2023 (Xbox Series X<nowiki>|</nowiki>S)
+| genre        = Adventure, RPG, Strategy
+| modes        = Single-player<br/ >Multi-player (Online, local, up to 4 players)<br/ >Co-op (Online, local)
+| ratings      = 17 Mature<br/ >PEGI 18
+| series       = ''[[Baldur's Gate series]]''
+| prequel      = ''[[Baldur's Gate II: Shadows of Amn]]''
+| sequel       = 
+| remake       = 
+| original     = 
+| modules      = 
+| engine       = Divinity Engine 4.0
+| version      = 
+| platforms    = PC (GOG, Steam)<br/ >PlayStation 5<br/ >Mac<br/ >Xbox Series X/S
+| media        = Digital<br/ >Blu ray
+| requirements = Windows 10 64-bit, Intel i5-4690 / AMD FX 4350, 8 GB RAM, Nvidia GTX 780 / AMD Radeon R9 280X, DirectX 11, 70 GB storage space
+| GOG          = https://www.kqzyfj.com/click-101530721-15297138?url=https%3A%2F%2Fwww.gog.com%2Fen%2Fgame%2Fbaldurs_gate_iii%3FcurrencyCode%3DUSD%26countryCode%3DUS&cjsku=1456460669
+}}
+'''''Baldur's Gate III''''' is a computer game released by [[Wikipedia:Larian Studios|Larian Studios]] and is the third main game in the [[Baldur's Gate series]]. It is based on a highly modified version of the [[Dungeons & Dragons|5{{th}}-edition Dungeons & Dragons]] rule set and is set after the ''[[Baldur's Gate: Descent into Avernus]]'' tabletop adventure. It was first released as an early access game, after which other races, classes, features, and the rest of the story was added.
+{{Quote
+|An ancient [[evil]] has returned to [[Baldur's Gate]], intent on devouring it from the inside out. The fate of [[Faerûn]] lies in your hands. Alone, you may resist. But together, you can overcome.
+}}
+
+==Gameplay==
+[[File:Final bg3 sidebar.png|thumb|right|273px|''The companions and origin characters of ''Baldur's Gate III.]]
+''Baldur's Gate III'' is a role-playing video game that features both single-player and cooperative multiplayer modes. It allows players to generate one or more characters and assemble a party, which can include pre-generated characters provided by the game, to engage with the narrative. Additionally, the game offers the option for players to use their characters in online cooperative play, collaborating with others to form a party. The game takes characters from levels 1 to 12.
+
+The game employs a constrained free-floating camera system, enabling gameplay through various perspectives, from a complete third-person viewpoint to an isometric top-down angle. Its user interface supports input via both mouse and keyboard as well as controller configurations. Across these interfaces, players have the capacity to execute spells and combat maneuvers, oversee inventory, access the map, view statistics of both player and companion characters, and interact with numerous gameplay components, including allies and adversaries.
+
+The majority of the game's mechanics and spells originate from the ''Dungeons & Dragons''. However, modifications and omissions have been made to accommodate the transition to a role-playing video game format.
+
+The game provides support for modifications. A wide range of mods, developed by the community, are accessible, enabling players to alter numerous facets of the game.
+
+===Characters===
+The player creates their character, including their race and class from the ''[[Player's Handbook 5th edition|Player's Handbook]]''. The game comprises 12 character classes, each further divided into 46 subclasses, with each class emphasizing a distinct facet of the combat system. Additionally, the game facilitates the selection of multiple classes for a single character through a feature known as multiclassing, enabling players to develop their characters in diverse and unique manners. The ranger class is largely modified, and some subclasses are essentially new, such as the Wildheart barbarian subclass that replaces the Totem Warrior.
+
+The character also chooses a background from the standard 5{{th}}-edition list, their ability scores, and skills they are proficient in. Players also have the option to craft a character from the beginning, select from six pre-designed "Origins" character, or opt for a customizable seventh origin character termed The [[Dark Urge]]. If an "Origins" character is not selected, they may still be available as a party member. The game has a tutorial system to introduce the players to the basic mechanics.
+
+;Origin Characters
+[[File:Karlach BG3.jpg|276px|thumb|right|''[[Karlach]].'']]
+* [[Lae'zel]], voiced by [[Devora Wilde]], a [[githyanki]] [[fighter]]; 
+* [[Shadowhea
+
+=== LINKED WIKI PAGE (first 5000 chars): Dungeons & Dragons Dice Masters: Adventures in Waterdeep
+
+{{Game
+| image         = [[File:Dice masters adv wtd.jpg|thumb]]
+|caption        = ''Team Pack.''
+| title         = Adventures in Waterdeep
+| code          = 
+| realmyear     = 
+| manufacturer  = 
+| publisher     = [[Wikipedia:WizKids|WizKids]]
+| distributor   = [[Wizards of the Coast]]
+| editor        = 
+| designer      = [[Mike Elliott]], [[Eric M. Lang]]
+| illustrator   = 
+| cover         = 
+| released      = January 2020 
+| type          = Board Game
+| ratings       = 
+| website       = [https://wizkids.com/dicemasters/dd-dice-masters-adventures-in-waterdeep-team-pack/] 
+| isbn          =
+| isbn10        = 
+| isbn13        = 
+| source        =
+| players       = 2
+| age           = 14+
+| setup_time    = 
+| playing_time  = 30-60 min
+| random_chance = 
+| mechanics     =  Deck, Bag, and Pool Building, Dice Rolling, Variable Player Powers 
+| materials     = 
+}}
+'''''Dungeons & Dragons Dice Masters: Adventures in Waterdeep''''' is a  24-card and 16-dice team pack for a dice-building game set in ''[[Forgotten Realms]]''. It utilizes WizKids Games' proprietary Dice Building Game platform in which two players take the role of warlords, collect and assemble their "party" of adventurer dice and battle in head-to-head gameplay.
+
+{{Quote|''The Dungeons & Dragons Dice Masters: Adventures in Waterdeep Team Packfeatures the most beloved characters from Waterdeep, including Brawlwin Chainminer, the Black Viper, Jarlaxle, Durnan, and several characters making their very first appearances in Dice Masters!''}}
+
+==Gameplay==
+Each turn, players roll the dice to see what resources they have available, buy dice, send their party members into the field, and then strike at the enemy warlord. There are multiple cards available for each type of die so players get to choose which one to use. This lets players specialize dice to suit play style.
+
+==Index==
+;Characters: [[Black Viper]] &bull; [[Brawlwin Chainminer]] &bull; [[Dagny Halvor]] &bull;  [[Durnan]] &bull; [[Jarlaxle]] &bull; [[Vajra Safahr]]
+::{{refonly}}
+::[[Hitch]]
+
+;Creatures: [[aboleth]] &bull; [[drow]] &bull; [[dwarf]] &bull; [[half-orc]] &bull; [[human]] ([[Tethyrian]])
+::{{refonly}}
+::[[Walking Statues of Waterdeep]]
+
+;Locations: [[Waterdeep]] &bull; [[Yawning Portal]]
+::{{refonly}}
+::[[Undermountain]]
+
+;Organizations: [[Force Grey]] &bull; [[Lords' Alliance]]
+
+;Religions: [[Gond]]
+
+;Other: ''[[Blackstaff (staff)]]'' &bull; ''[[Stone of Golorr]]''
+::{{refonly}}
+::[[ale]]
+
+==Appendix==
+===External Links===
+{{External link disclaimer}}
+* [https://wizkids.com/dicemasters/dd-dice-masters-adventures-in-waterdeep-team-pack/ Dungeons & Dragons Dice Masters: The Zhentarim]
+[[Category:Board games]]
+[[Category:Dice Masters games]]
+[[Category:Published in 2020]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Icons of the Realms
+
+{{Book
+| image        = 
+| caption      = 
+| code         = 
+| title        = Icons of the Realms
+| author       = 
+| editor       = 
+| publisher    = Wizkids
+| type         = Miniatures
+| languages    = 
+| reprinted    = 
+| cover_artist = 
+| inter_artist = 
+| realm year   = 
+| edition1     = <!-- leave blank if there is only one -->
+| binding1     = Booster packs
+| released1    = 2014—
+| pages1       = 
+| isbn10-1     = 
+| isbn13-1     = 
+| cite1        = 
+| edition2     = 
+| binding2     = 
+| released2    = 
+| pages2       = 
+| isbn10-2     = 
+| isbn13-2     = 
+| cite2        = 
+| edition3     = 
+| binding3     = 
+| released3    = 
+| pages3       = 
+| isbn10-3     = 
+| isbn13-3     = 
+| cite3        = 
+| edition4     = 
+| binding4     = 
+| released4    = 
+| pages4       = 
+| isbn10-4     = 
+| isbn13-4     = 
+| cite4        = 
+| edition5     = 
+| binding5     = 
+| released5    = 
+| pages5       = 
+| isbn10-5     = 
+| isbn13-5     = 
+| cite5        = 
+| series       = 
+| preceded_by  = 
+| followed_by  = 
+| source       = 
+}}
+'''''Icons of the Realms''''' is a line of ''[[Forgotten Realms]]'' miniatures by Wizkids, intended for use with the 5th edition of ''[[Dungeons & Dragons]]''. The line consists of hundreds of miniatures, many of which tie into official storylines, adventures, and video games.
+
+==Randomly Assorted Sets==
+{|class="prettytable"
+|-
+|style="background:#c5e0b3; font-size:90%;" width="100px" align="center"|'''Forgotten Realms'''
+|style="background:#dbdbdb; font-size:90%;" width="100px" align="center"|'''Other setting'''
+|}
+
+===Tyranny of Dragons===
+''Released: 19 August 2014.''
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+! style="background:#c5e0b3;" | #
+! style="background:#c5e0b3;" | Name
+! style="background:#c5e0b3;" | Size
+! style="background:#c5e0b3;" | Rarity
+! style="background:#c5e0b3;" | Note
+|-
+| 01 || [[Rock gnome|Rock Gnome]] Female [[Wizard]] || Small || Common ||
+|-
+| 01-ALT || Rock Gnome Female Wizard (Invisible) || Small || Ultra Rare ||
+|-
+| 02 || [[Strongheart halfling|Stoutheart Halfling]] Female [[Bard]] || Small || Common ||
+|-
+| 02-ALT || Stoutheart Halfling Female Bard (Invisible) || Small || Ultra Rare ||
+|-
+| 03 || [[Quickling]] || Small || Common ||
+|-
+| 04 || [[Svirfneblin]] [[Fighter]] || Small || Common ||
+|-
+| 05 || [[Kobold]] [[Fighter]] || Small || Common ||
+|-
+| 06 || [[Goblin]] [[Fighter]] || Small || Common ||
+|-
+| 07 || [[Mane|Mane Demon]] || Small || Common ||
+|-
+| 08 || [[Human]] [[Paladin]] || Medium|| Common ||
+|-
+| 09 || [[Sun elf|Sun Elf]] Guard || Medium|| Common ||
+|-
+| 10 || [[Orc]] [[Fighter]] || Medium|| Common ||
+|-
+| 11 || [[Human]] [[Zhentarim]] Bandit || Medium|| Common ||
+|-
+| 12 || [[Hobgoblin]] [[Fighter]] || Medium || Common ||
+|-
+| 13 || [[Human]] Female [[Barbarian]] || Medium || Common ||
+|-
+| 14 || [[Orog]] [[Orc]] [[Fighter]] || Medium || Uncommon||
+|-
+| 15 || [[Doppleganger]] || Medium || Uncommon ||
+|-
+| 16 || [[Wood elf|Wood Elf]] [[Druid]] || Medium || Uncommon ||
+|-
+| 17 || [[Green hag|Green Hag]] || Medium || Uncommon ||
+|-
+| 18 || [[Needle blight|Needle Blight]] || Medium || Uncommon ||
+|-
+| 19 || [[Human]] [[Red Wizard]] || Medium || Uncommon ||
+|-
+| 20 || [[Cult of the Dragon]] Enforcer || Medium || Uncommon ||
+|-
+| 21 || [[Bugbear]] || Medium || Uncommon ||
+|-
+| 22 || [[Guard drake|Guard Drake]] || Medium || Uncommon ||
+|-
+| 23 || [[Wraith]] || Medium|| Uncommon ||
+|-
+| 24 || [[Bronze dragon|Bronze Dragon]] || Large|| Uncommon ||
+|-
+| 25 || [[Oni mage|Ogre Mage]] || Large|| Uncommon ||
+|-
+| 26 || [[Stone giant|Stone Giant]] Elder || Large|| Uncommon ||
+|-
+| 27 || [[Frost giant|Frost Giant]] || Large|| Uncommon ||
+|-
+| 28 || [[Pegasus]] || Large|| Uncommon ||
+|-
+| 29 || [[Wyvern]] || Large|| Uncommon ||
+|-
+| 30 || Black [[Shadow dragon|Shadow Dragon]] || Large || Uncommon ||
+|-
+| 31 || [[Green dragon|Green Dragon]] || Large || Uncommon ||
+|-
+| 32 || [[Copper dragon|Copper Dragon]] || Large || Uncommon ||
+|-
+| 33 || [[Half-dragon|Half-black dragon]] Lord || Medium || Rare ||
+|-
+| 34 || [[Ballista]] || Medium || Rare ||
+|-
+| 35 || [[Mind flayer|Mind Flayer]] || Medium || Rare ||
+|-
+| 36 || [[Half-dragon|Half-red dragon]] [[Fighter]] || Medium || Rare ||
+|-
+| 37 || [[Aarakocra]] || Medium || Rare ||
+|-
+| 38 || [[Movanic deva|Movanic Deva Angel]] || Medium || Rare ||
+|-
+| 39 || [[Harpy]] || Medium || Rare ||
+|-
+| 40 || [[Gargoyle]] || Medium || Rare ||
+|-
+| 41 || [[Blue dragon|Blue Dragon]] || Large || Rare ||
+|-
+| 42 || [[Silver dragon|Silver Dragon]] || Large || Rare ||
+|-
+| 43 || [[Gold dragon|Gold Dragon]] || Large || Rare ||
+|-
+| 44 || [[Red dragon|Red Dragon]] || Large || Rare ||
+|-
+| 45 || Gargantuan [[Brass dragon|Brass Dragon]] || Gargantuan || Unique || Case incentive
+|-
+| 46 || [[Drizzt Do'Urden]] (invisible) || Medium || Ultra rare || Invisible version of [[Icons of the Realms#Starter Set|Starter Set]] miniature
+|-
+| 47 || [[Dwarf]] [[Cleric]] (invisible) || Medium || Ultra rare || Invisible version of 
+

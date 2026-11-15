@@ -1,0 +1,1920 @@
+=== WIKI PAGE: Xanathar's Thieves' Guild
+
+{{Organization
+| image          = File:Xanathar'sThieves'GuildSymbol.jpg
+| caption        = Symbol of Xanathar's Thieves' Guild.
+| name           = Xanathar's Thieves' Guild
+| alt_spelling   = 
+| aliases        = 
+| type           = Criminal & slaving organization
+| base           = [[Skullport]]<br/>[[Sargauth Enclave]], [[Undermountain]]<br/>[[Waterdeep]] sewers
+| leadertitle    = 
+| leader         = [[Xanathar (Zushaxx)]] in {{Yearlink|1492}}<br/>{{Former}} [[Xanathar (original)]] in {{Yearlink|1357}}<br/>[[Kirukeskai|Xanathar (Kirukeskai)]] in {{Yearlink|1372}}<br/>[[Xanathar (Xandulzrithral)]]<br/>[[Xanathar (Izulktur)]]
+| symbol         = circle with ten equidistant lines radiating outward
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="FRCS-p281" /><ref name="EtU-18" /><ref name="WDH-p17" /><ref name="Dungeon206-TXBCLoW-p1-2">{{Cite dungeon/206/The Xanathar: Crime Lord of Waterdeep|1-2}}</ref><ref name="WDH-p99">{{Cite book/Waterdeep: Dragon Heist|99}}</ref>
+| members        = {{Split table|[[Human]]s|133|[[Half-orc]]s|72|[[Halfling]]s|64|[[Dwarves]]|36|[[Half-elves]]|25|Some [[elves]], [[gnome]]s, others}}
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{Alignment grid
+| off | off | off 
+| off | off | off
+| on  | on  | on  
+}}
+| races          = 
+| memrefs        = <ref name="EtU-18" />
+| event1         = 
+| date1          = 
+| event2         = 
+| date2          = 
+| event3         = 
+| date3          = 
+| event4         = 
+| date4          = 
+| leader1        = 
+| leaderyear1    = 
+| leader2        = 
+| leaderyear2    = 
+| leader3        = 
+| leaderyear3    = 
+| leader4        = 
+| leaderyear4    = 
+| leader5        = 
+| leaderyear5    = 
+| leadertable    = 
+| histrefs       = 
+| allegiances    = 
+| enemies        = [[Beholders]], [[Shadow Thieves]],<ref name="EtU-18" /> [[Zhentarim]]<ref name="WDH-p5">{{Cite book/Waterdeep: Dragon Heist|5}}</ref>
+| relrefs        = 
+| showmembers    = yes
+| orgname        = the Xanathar's Thieves' Guild
+}}
+'''Xanathar's Thieves' Guild''', or simply the '''Xanathar Guild''', was a criminal and slaving organization in [[Waterdeep]] and [[Skullport]], run by a series of [[beholder|beholders]].<ref name="WatN-57">{{Cite book/Waterdeep and the North|57}}</ref><ref name="FRCS-p281">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|281}}</ref><ref name="EtU-18">{{Cite book/Expedition to Undermountain|12}}</ref><ref name="WDH-p17">{{Cite book/Waterdeep: Dragon Heist|17}}</ref>
+
+{{quote|I don’t know if the Xanathar really exists, but as long as I’m working in Waterdeep, I make sure he gets his cut. Why risk the alternative?|Termerin, cat burglar<ref name="Dungeon206-TXBCLoW-p1">{{Cite dungeon/206/The Xanathar: Crime Lord of Waterdeep|1}}</ref>}}
+
+==Geography==
+This criminal and slaver network was one of the most powerful on the Sword Coast, but often unintentionally acted as a buffer against other evil organizations. They operated out of [[Skullport]], but were otherwise active primarily in Waterdeep.<ref name="FRCS-p281"/>
+
+The Xanathar Guild had many connections in [[Luskan]], [[Baldur's Gate]], and the surrounding [[Underdark]], mostly the Underdark north and west of Waterdeep.<ref name="Dungeon206-TXBCLoW-p5">{{Cite dungeon/206/The Xanathar: Crime Lord of Waterdeep|5}}</ref>
+
+==Aims & Goals==
+The Xanathar Guild worked to gain financial and political power through its portfolio of spies, mercenaries, slavers, and thieves.<ref name="C&D-p139">{{Cite book/Cloak & Dagger|139}}</ref> They hoped to rule both Skullport and Waterdeep by installing Xanathar spies as Masked Lords in the City of Splendors.<ref name="C&D-p142">{{Cite book/Cloak & Dagger|142}}</ref>
+
+==Organization==
+The Xanathar Guild had a loose method of organization due to the instability of its leader, and members inside regularly assassinated one another as desperate attempts to vie for the beholder's favor.<ref name="WDH-p220">{{Cite book/Waterdeep: Dragon Heist|220}}</ref><ref name="WDH-p17"/> During the reign of [[Xanathar (Zushaxx)|Zushaxx]] in {{Yearlink|1492}}, members could be killed at any time at the whim of the beholder.<ref name="WDH-p100">{{Cite book/Waterdeep: Dragon Heist|100}}</ref>
+
+===Under Xanathar (original)===
+During the original Xanathar's reign, the Guild was often populated by freelance thieves or mercenaries that were hired on a case-by-case basis.<ref name="CoS-WWiW-p88">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|88}}</ref> Xanathar's most senior agents were the Four Councilors, who were each assigned a domain to supervise: mercenaries, bookkeeping, thievery, and blackmail.<ref name="WatN-57"/>
+
+===Under the Eye===
+During the rulership of the Eye, eleven Masters were elected to serve eleven domains: assassination, blackmail, bookkeeping, enforcement, extortion, information gathering, magical defenses, mercenaries, slavery, smuggling, and thievery. Owing to the expanse of some of these domains, some Masters served one domain together, while others served several at once.<ref name="C&D-p140">{{Cite book/Cloak & Dagger|140}}</ref>
+
+Three of these Masters oversaw the Eye's slaving operations, and were referred to as the Eyes of the Hand. From lowest to highest, their ranks were Third of the Hand, Second of the Hand, and the Command of the Hand. Their underlings were referred to as simply "Hands," and operated as "snatch bands," groups who kidnapped people in order to sell them into slavery.<ref name="C&D-p140"/><ref name="TRoU-TEatH-p5">{{Cite book/The Ruins of Undermountain II/The Eye and the Hand|5}}</ref>
+
+The Eye also appointed the [[Eye of Xanathar|Eleven Eyes of Xanathar]] to serve as personal servants, spies, and assassins, drawn from the recommendations of the Masters. The Masters resented the Eyes' prestige, but felt they were untouchable.<ref name="EEoX">{{Cite web
+| url            = http://archive.wizards.com/default.asp?x=dnd/prc/20061107b
+| title          = Eleven Eyes of Xanathar
+| accessdate     = 2018-06-10
+| date           = 2006-11-07
+| publisher      = Wizard of the Coast
+| archiveurl     = https://web.archive.org/web/20161031215531/http://archive.wizards.com/default.asp?x=dnd/prc/20061107b
+| archivedate    = 2016-10-31
+}}</ref>
+
+===Under Zushaxx===
+During the reign of Zushaxx, four lieutenants,<ref name="Dungeon206-TXBCLoW-p2">{{Cite dungeon/206/The Xanathar: Crime Lord of Waterdeep|2}}</ref> later expanded to six, managed the Guild's operations.<ref name="WDH-p100">{{Cite book/Waterdeep: Dragon Heist|100}}</ref> Xanathar also had personal advisors, though by {{Yearlink|1492}} this number had dwindled to one.<ref name="WDH-p211">{{Cite book/Waterdeep: Dragon Heist|211}}</ref>{{Waterdeep-time}}
+
+Xanathar had also established the following ranks from lowest to highest: Eyestalker, Agent of the Eye, Eye Ray, Guild Boss, and Hand of the Eye.<ref name="WDH-p14">{{Cite book/Waterdeep: Dragon Heist|14}}</ref>
+
+==Membership==
+Members of the guild were trained in stealth, discretion, and tactics with [[fighter]]s, [[rogue]]s, [[sorcerer]]s, [[wizard]]s, and [[expert]]s, which comprised most of its numbers. An ever-growing organization, it utilized multiple mouthpieces to protect and conceal the identity of the [[Xanathar]]. To join, a member had to prove their ruthlessness, obedience, and loyalty by committing a serious crime—killing or selling a friend or family member into slavery—as well as paying 300 [[gp]]. The typical agent earned dues of 60 gp a month.<ref name="EtU-18"/>
+
+Support generally came in these ways:<ref name="WDH-p17"/>
+* Any member given an assignment would receive a bodyguard or assistant, such as a [[bugbear]], [[wererat]], [[kenku]], or [[gazer]], with secret instructions to spy on and assassinate the agent in case of failure.<ref name="WDH-p17" />
+* The guild provided safe refuges such as cellars in the sewers.<ref name="WDH-p17"/>
+
+Among the low-ranking guild members, no one really knew who [[Xanathar]] was. Few had an inkling he was a beholder, and fewer still had spoken to him.<ref name="WDH-p17"/>
+
+[[File:Surveillance.png|thumb|220x220px|''Five dwarves that served as a surveillance system for the guild.'']]
+Some of the more unusual members of the guild in the late 1400s DR were known as the panopticus, a group of five [[shield dwarf|shield dwarves]] that had been modified by the [[mind flayer]] [[Nihiloor]] to operate and serve as a surveillance system for the [[Zushaxx|Xanathar]].<ref name="WDH-p106">{{Cite book/Waterdeep: Dragon Heist|106}}</ref>
+
+The Xanathar Guild was also known to employ a number of [[goblin]]s and [[bugbear]]s, some of whom were infected with [[intellect devourer]]s, presumably by Nihiloor.<ref name="WDotMM-p13">{{Cite book/Waterdeep: Dungeon of the Mad Mage|13}}</ref>
+
+==Notable Members==
+* [[Ahmaergo]]: a [[dwarf]] slaver<ref name="WDH-p193">{{Cite book/Waterdeep: Dragon Heist|193}}</ref>
+* [[Arizza]]
+* [[Avaereene]]
+* [[Colstan Rhuul]]
+* [[Shindia Darkeyes]]<ref name="WatN-57" />
+* [[Nar'l Xibrindas]]: [[drow]] [[wizard]] advisor<ref name="WDH-p211">{{Cite book/Waterdeep: Dragon Heist|211}}</ref>
+* [[Nihiloor]]: [[mind flayer]]<ref name="WDH-p212">{{Cite book/Waterdeep: Dragon Heist|212}}</ref>
+* [[Noska Ur'gray]]: dwarf enforcer<ref name="WDH-p213">{{Cite book/Waterdeep: Dragon Heist|213}}</ref>
+* [[Nakoto]]: the operative in charge of the guild's business in [[Daggerford]] ''circa'' [[1372 DR]].<ref name="NWN-DOD">{{Cite game/Neverwinter Nights: Darkness over Daggerford}}</ref>
+* [[Ott Steeltoes]]
+
+==History==
+The Xanathar Guild was originally established by the beholder [[Xanathar (original)|Xanathar]], who had been employed by the [[Zhentarim]] to establish a cell in Skullport. Sensing an opportunity for more, Xanathar cut off the Zhentarim and established its own criminal organization.<ref name="VL-p122">{{Cite book/Villains' Lorebook|122}}</ref><ref name="Sk-p23">{{Cite book/Skullport|23}}</ref>
+
+[[File:Xanathar's Thieves' Guild original.jpg|alt=Cover art of ''Waterdeep and the North,'' showing the original Xanathar Guild.|left|thumb|200px|From left to right: [[Slan Thurbel]], [[Slink Monteskor]], [[Ott Steeltoes]], [[Xanathar (original)|Xanathar]], and [[Shindia Darkeyes]].]]
+
+By {{Yearlink|1357}}, the Xanathar Guild was thriving as a thieves' guild, though its founder's identity remained cloaked in mystery. Rather than operate as a traditional guild, the Xanathar Guild conducted operations mostly through freelance agents, which had the benefit of agents knowing as little about Xanathar as possible.<ref name="WatN-57"/> Xanathar was also concerned with mages living within Waterdeep, and its libraries carefully catalogued their abilities and weaknesses.<ref name="WatN-58">{{Cite book/Waterdeep and the North|58}}</ref> Below Xanathar, the Guild was run by the "Four Councilors": [[Slan Thurbel]], [[Slink Monteskor]], [[Shindia Darkeyes]], and [[Ott Steeltoes]].<ref name="WatN-57"/>
+
+The Xanathar Guild had not yet become slavers, as slaving operations in Skullport were primarily controlled by the fearsome [[Agents of the Eye]]. Unbeknownst to Xanathar, this syndicate was commanded by another beholder, [[Kirukeskai]], known as "the Eye." Through years of careful spywork, the Eye determined that the mysterious Xanathar was a fellow beholder, and began plotting to take its place.<ref name="C&D-p139"/>
+
+The Eye eventually discovered a pawn in [[Uthh]], a third beholder in Skullport, and manipulated it into attacking Xanathar in the sewers beneath Waterdeep. Assisted by Shindia, Xanathar was able to defeat Uthh, but was weakened severely.<ref name="CoS-WWiW-p89">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|89}}</ref> Taking advantage of this, the Eye swept in and slew Xanathar.<ref name="C&D-p139"/> As revenge for the fallen Xanathar, Shindia began to plot against the Eye.<ref name="CoS:W-p89">{{Cite book/City of Splendors: Waterdeep|89}}</ref>
+
+The Eye proceeded to take over the Xanathar Guild operations and renamed itself "the Xanathar," starting the Guild's tradition of using the name as a title. After killing the few original employees who didn't fall in line, the Eye successfully merged the Xanathar Guild and the Agents of the Eye, all without alerting its underlings that a regime change had taken place.<ref name="C&D-p140">{{Cite book/Cloak & Dagger|140}}</ref> By {{Yearlink|1372}}, the Agents of the Eye had become interchangeable with the Xanathar Guild, though the former name was more often used in Skullport, and the latter used in Waterdeep.<ref name="CoS:W-p64">{{Cite book/City of Splendors: Waterdeep|64}}</ref>
+
+[[File:Xanathar 3e.JPG|alt=Illustration of the Eye.|thumb|The Eye surveys its domain.]]
+
+Under the reign of the Eye, the Xanathar Guild expanded its operations immensely. The Guild became one of the most prominent slaving organizations in Skullport, as well as successfully eliminated Seirtych Xantaun, a rival beholder crimelord. The Eye also elected eleven Masters to serve as supervisors of Guild members, four of which were the original Xanathar's Councilors.<ref name="C&D-p140"/> These Masters included [[Ahmaergo]], [[Avaereene]], [[Colstan Rhuul]], [[Shindia Darkeyes]], [[Slink Monteskor]], [[Randulaith]], [[Ott Steeltoes]], [[Slan Thurbel]].<ref name="C&D-p141-143">{{Cite book/Cloak & Dagger|141-143}}</ref>
+
+By {{Yearlink|1372}}, the Eye had nearly dominated petty theft in Waterdeep,<ref name="CoS:W-p64"/> and had forced another beholder rival, [[Misker]], to flee deep into the Undermountain.<ref name="CoS:W-p65">{{Cite book/City of Splendors: Waterdeep|65}}</ref> It had also appointed the [[Eye of Xanathar|Eleven Eyes of Xanathar]] to serve as personal servants, drawn from the recommendations of the Masters.<ref name="EEoX">{{Cite web
+| url            = http://archive.wizards.com/default.asp?x=dnd/prc/20061107b
+| title          = Eleven Eyes of Xanathar
+| accessdate     = 2018-06-10
+| date           = 2006-11-07
+| publisher      = Wizard of the Coast
+| archiveurl     = https://web.archive.org/web/20161031215531/http://archive.wizards.com/default.asp?x=dnd/prc/20061107b
+| archivedate    = 2016-10-31
+}}</ref>
+
+Sources differed on the death of the Eye. One claimed it was eventually killed by one of its own Masters, Avaereene;<ref name="Dungeon200-B:S-p9">{{Cite dungeon/200/Backdrop: Skullport|9}}</ref> another claimed it was killed by a group of adventurers;<ref name="Dungeon206-TXBCLoW-p1"/> another claimed it lived still, and had taken on the name [[the Blind]].<ref name="Dungeon200-B:S-p9"/>
+
+Regardless, the Eye was replaced, and other beholders continued to take on the title of the Xanathar. Two of these beholders facilitated their own retirement rather than risk being overthrown or killed; one was [[Xanathar (Xandulzrithral)|Xandulzrithral]], who retired peacefully, and another was [[Xanathar (Izulktur)|Izulktur]], who replaced itself with [[Xanathar (Zushaxx)|Zushaxx]].<ref name="Dungeon206-TXBCLoW-p1-2"/>
+
+As the new Xanathar, Zushaxx ran the Guild ambitiously, and amassed as much information as possible to increase the Guild's power.<ref name="Dungeon206-TXBCLoW-p2"/> It was at least the fifteenth Xanathar by this point, as it kept the embalmed bodies of four other beholders within its lair, along with nine urns containing the ashes of others.<ref name="WDH-p112">{{Cite book/Waterdeep: Dragon Heist|112}}</ref> Zushaxx also appointed four lieutenants to serve it: [[Kal'dir]], [[Quid]], [[Sial Sapphire]], and [[Draak]].<ref name="Dungeon206-TXBCLoW-p2"/>
+
+Through its spies, Zushaxx managed to acquire the ''[[Stone of Golorr]],'' a magical artifact considered the key to discovering treasure embezzled by Waterdeep's former [[Lords of Waterdeep#Open Lord|Open Lord]], [[Dagult Neverember]]. Though it had also been able to locate the vault within which the treasure was kept, it had been forced out by the vault's draconic guardian. Zushaxx had opted to keep the Stone within its lair, trusting it would be kept safe.<ref name="WDH-p220"/>
+
+By {{Yearlink|1491}}, Zushaxx had taken [[Nar'l Xibrindas]], a [[Bregan D'aerthe]] spy, as its only advisor, choosing to eliminate all others.<ref name="WDH-p211"/>
+
+[[File:Xanathar Lair.jpg|alt=Illustration of Xanathar in its lair.|left|thumb|300px|Xanathar battles adventurers in its lair.]]
+
+By {{Yearlink|1492}}, Zushaxx had fully taken over Skullport, forcing the businesses within to pay it for protection.<ref name="WDotMM-p304">{{Cite book/Waterdeep: Dungeon of the Mad Mage|304}}</ref> It had also eliminated another rival, the beholder [[Nerozar]], who had challenged it for lordship of Skullport.<ref name="WDotMM-p52">{{Cite book/Waterdeep: Dungeon of the Mad Mage|52}}</ref> Additionally, it had established a new system of rankings within the Xanathar Guild.<ref name="WDH-p14">{{Cite book/Waterdeep: Dragon Heist|14}}</ref> Tattoos of the Xanathar Guild's symbol had also become popular among members.<ref name="WDH-p21">{{Cite book/Waterdeep: Dragon Heist|21}}</ref><ref name="WDH-p106"/><ref name="WDH-p25">{{Cite book/Waterdeep: Dragon Heist|25}}</ref>
+
+By this time, Zushaxx had also appointed [[Thorvin Twinbeard]], a Harper informant, [[Nihiloor]], a mind flayer, and [[Noska Ur'gray]] to important positions. It had also come to own [[Sylgar]], a goldfish.<ref name="WDH-p100"/> It had become insanely devoted to the goldfish, and had even changed Ott Steeltoes' role from Master of Smuggling and Thieving<ref name="C&D-p143">{{Cite book/Cloak & Dagger|143}}</ref> to Sylgar's keeper.<ref name="WDH-p100"/> However, Zushaxx was unaware that the fish had died and been replaced in secret several times.<ref name="WDH-p220">{{Cite book/Waterdeep: Dragon Heist|220}}</ref>
+
+In {{Yearlink|1492}}, the Xanathar Guild and the Zhentarim had been in negotiations to merge into a single criminal guild.<ref name="WDH-p99"/> During these negotiations, the ''Stone of Golorr'' disappeared from its hiding place. Believing the Zhentarim to be the culprits, Zushaxx began a bloody street war.<ref name="WDH-p5"/>
+
+==Appendix==
+{{Incomplete|}}
+===Notes===
+{{Notes}}
+===Gallery===
+<gallery>
+Xanathar'sThieves'Guild.jpg|''Xanathar's Thieves' Guild (from left): [[Avaereene]], [[Colstan Rhuul]], [[Shindia Darkeyes]], [[Slink Monteskor]], the [[Xanathar]], [[Randulaith]] , [[Ott Steeltoes]], and [[Slan Thurbel]].''
+Xanathar, Guild Kingpin.jpg|''The Xanathar and his inner circle.''
+</gallery>
+
+===Appearances===
+{{Appearances
+| adventures          = ''[[Waterdeep: Dragon Heist]]''
+| adventure refs      = 
+| novels              = 
+| novel refs          = 
+| films               = 
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = ''[[To Catch a Thief]]''
+| gamebook refs       = 
+| video games         = ''[[Dungeons & Dragons: Eye of the Beholder]]''; ''[[Idle Champions of the Forgotten Realms]]'';{{NWNapp|DoD|SoS}}
+| video game refs     = ''[[Baldur's Gate III]]''
+| board games         = ''[[Dungeons & Dragons Dice Masters: Trouble in Waterdeep]]''
+| board game refs     = 
+| card games          = ''[[Spellfire: Master the Magic]]''
+| card game refs      = 
+| miniatures          = 
+| miniature refs      = 
+| organized play      = 
+| organized play refs = 
+}}
+
+===References===
+{{Refs}}
+[[Category:Organizations]]
+[[Category:Criminal organizations]]
+[[Category:Thieves' guilds]]
+[[Category:Slaving organizations]]
+[[Category:Organizations in Skullport]]
+[[Category:Organizations in Undermountain]]
+[[Category:Organizations in the Sewers of Waterdeep]]
+[[Category:Organizations in Waterdeep]]
+[[Category:Organizations on the Sword Coast North]]
+[[Category:Organizations in Northwest Faerûn]]
+[[Category:Organizations in Faerûn]]
+[[Category:Organizations on Toril]]
+[[Category:Year of Markets]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Skullport
+
+{{otheruses4|the city of Skullport|the sourcebook|Skullport (sourcebook)}}
+{{Location
+| image              = <gallery>
+Skullport-Julian Kok.jpg|5e 
+Skullport - Richard Sardinha.jpg|3e 
+</gallery>
+| caption            = Various depictions of Skullport.
+| name               = Skullport
+| alt spelling       = 
+| aliases            = Port of Shadows
+| type               = Settlement
+| region             = [[Sargauth Level]], [[Undermountain]]
+| size               = Large town
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="W.DoMM-p303"/><ref name="CoS.W-p108"/>
+| demonym            = Skulker
+| population         = 
+| races              = {{Numeric table|[[Human]]s|832|[[Half-orc]]s|405|[[Goblin]]s|225|[[Kobold]]s|157|[[Elves]] (mostly [[drow]])|113|[[Dwarves]] (mostly [[duergar]])|68|Others|450}}
+| languages          = 
+| religion           = 
+| alignment          = {{Alignment grid|off|off|off|off|off|off|on|on|on}}
+| socrefs            = <ref name="CoS.W-p108"/>
+| imports            = 
+| exports            = Body parts, cadavers, [[:category:drugs|drugs]], evil magic, mercenaries, slaves, smuggling services, [[poison]]s, vile magic, [[undead]]
+| currency           = 
+| comrefs            = <ref name="CoS.W-p109"/>
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 2250
+| popyear1           = 1372
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = [[Skulls of Skullport]]
+| ruleryear1         = -339
+| ruler2             = [[Shradin Mulophor]]
+| ruleryear2         = 1148
+| ruler3             = [[Xanathar]]
+| ruleryear3         = 1492
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="CoS.W-p108"/><ref name="Du200.BS"/><ref name="W.DoMM-p304"/><ref name="Skullport-p6-9"/>
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = 
+| mountains          = 
+| bodies of water    = yes
+| forests            = 
+| events             = 
+| food and drink     = yes
+| items              = 
+}}
+'''Skullport''', also known as the '''Port of Shadows''', was a subterranean city located far below [[Waterdeep]], within the 3{{rd}} level of [[Undermountain]] known as the [[Sargauth Level]].<ref name="FRCS3e-p179">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|179}}</ref><ref name="CoS.W-p108">{{Cite book/City of Splendors: Waterdeep|108}}</ref> While rumors of this subterranean domain of villainy persisted throughout the surface world, few of its inhabitants had any knowledge of any points of entry.<ref name="W.DoMM-p303">{{Cite book/Waterdeep: Dungeon of the Mad Mage|303}}</ref>
+
+{{Quote|''The Port of Shadow is unlike any port above or below the surface of Abeir-Toril. Not surprisingly, it is much like the Underhalls that surround it: difficult to quantify, enigmatic, dangerous and yet alluring, all at the same time.''|Alphraxis of Deneir, ''[[Skullport (sourcebook)]]'' by [[Joseph Wolf]]<ref name="Sk-p5">{{Cite book/Skullport|5}}</ref>}}
+
+==Structure==
+Built on an ancient [[Netherese]] [[Sargauth Enclave|ruin]], within an immense subterranean cavern, the shadowy port was a dark reflection of the ''City of Splendors'' above. Its structure was built in three tiers, interconnected by narrow catwalks and rickety scaffolding. Creaking houses built on stilts were haphazardly built in a dense network that formed a near shantytown.<ref name="W.DoMM-p303"/><ref name="Du200.BS">{{Cite dungeon/200/Backdrop: Skullport}}</ref>
+
+Exact divisions between regions was a matter of debate, but Skullport was divided into four generally accepted wards: [[Skull Island]], [[Skullport/Port|the Port]], [[Skullport/Trade Lanes|the Trade Lanes]], and [[Skullport/Heart|the Heart]].<ref name="SP-p12">{{Cite book/Skullport|12}}</ref> Although no clear vertical boundaries existed, locals divided Skullport into three vertical tiers to aid navigation: the Crown, the Venter and the Dredge.<ref name="Du200.BS"/>
+
+Although the cavern of Skullpo
+
+=== LINKED WIKI PAGE (first 5000 chars): Undermountain
+
+{{Cleanup||19:57, March 14, 2019 (UTC)}}
+{{Otheruses4|the dungeon beneath [[Waterdeep]]|the sourcebook of the same name|Undermountain (LGR)}}
+{{Dungeon
+| image         = Undermountain cross section.png
+| caption       = A cross-sectional view of Undermountain beneath Waterdeep's streets and sewers.
+| name          = Undermountain
+| alias         = The Domain of Haalvar the Mad<ref name="EasyBp49">{{Cite book/Easy Betrayals|49|4}}</ref>
+| level of      = 
+| level number  = 
+| levels        = 
+| location      = [[Waterdeep]], [[Sword Coast North]]<ref name="W.DMM-p6">{{Cite book/Waterdeep: Dungeon of the Mad Mage|6}}</ref>
+| construction  = 
+| architecture  = 
+| size          = 
+| denizens      = 
+| previous      = 
+| next          = 
+| locations     = yes
+| organizations = yes
+| settlements   = yes
+| bodies of water = yes
+| forests       = yes
+| events        = yes
+| food and drink = yes
+| items         = yes
+}}
+'''Undermountain''' was a multi-tiered dungeon, consisting of myriad of inter-connected chambers and lairs located deep beneath the city of [[Waterdeep]] and its [[Mount Waterdeep|namesake mountain]].<ref name="W.DMM-p5">{{Cite book/Waterdeep: Dungeon of the Mad Mage|5}}</ref> Originally home to the [[Dwarf|dwarves]] of [[Clan Melairkyn]], the ''Underhalls'' were eventually taken over by [[Halaster Blackcloak]], also known as the "Mad Mage", and his seven apprentices.<ref name="W.DMM-p6" />
+
+{{quote
+|Undermountain? Ah, yes. A great place to have fun, the most famous battlefield in which to earn a reputation as a veteran [[adventurer]] — and the largest known mass grave in [[Faerûn]] today.
+|[[Elminster]].<ref name= "WTAG">
+{{cite web
+| url            = http://rpg.nobl.ca/archive.php?x=dnd/ru/20050309a
+| title          = Return to Undermountain Introduction
+| accessdate     = 2023-02-03
+| author         = [[Matthew Sernett]]
+| date           = 2005-03-09
+| work           = Return to Undermountain
+| publisher      = [[Wizards of the Coast]]
+| archiveurl     = 
+| archivedate    = }}</ref>
+}}
+
+==Features==
+===Architecture===
+Generally speaking, Undermountain's natural chambers boast high ceilings of at least {{SI|16|ft}} and smooth floors made of gray [[granite]]. Many halls, rooms, and galleries were created by carving out the natural rock and were generally decorated in a way that made them look uniform and mundane. That said, exceptions existed.<ref name="RU.CGU-p16">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|16}}</ref>
+
+A corridor in Undermountain was usually {{SI|10|ft}} wide and high. Stairs typically had no railings.<ref name="RU.CGU-p16" />
+
+===Magical Features===
+Undermountain had lots of [[magical]] peculiarities that were created and utilized by Halaster. Undermountain's proprietor made it impossible to cast magic that teleported people into or out of Undermountain. Various forms of divination magic would also not function, though some magic objects and spells like wizard eye worked to some degree. This made it challenging if not impossible for would-be treasure hunters to gather information about what the dungeon had in store or what Halaster was doing. Summoning spells also had limitations; their functionality was limited to moving monsters that were already present in Undermountain, or trapping monsters from outside. However, magic items that summoned creatures worked, at least as a general rule.<ref name="RU.CGU-p16" />
+
+Destroying any wards or magical effects that managed these limitations was a task that was as good as impossible. A high understanding of magic was required to understand the many-layered incantations, particular knowledge to determine how to dissolve these effects, the skill to actually dispel these high level magics, combat prowess to protect oneself from monsters that were certainly attracted to people working to dissolve the layered magic, the ability to do this work at a speed that exceeded the speed at which the magic was restored, a lot of time, and the willingness to undertake this task despite the thankless and likely fruitless nature.<ref name="RU.CGU-p16" />
+
+Another effect of the many-layered magic of the Mad Mage was that most of the surfaces and features of the [[dungeon]] radiated some degree of magic, including the floor, ceilings, and walls. This made spells like ''[[detect magic]]'' largely useless because either the radiated magic was so strong that it was impossible to distinguish specific information or because the radiated magic masked the magical properties of other things.<ref name="RU.CGU-p16" />
+
+The complex magics of Undermountain were intertwined with Halaster himself. In the event of the Mad Mage's death or removal from Undermountain, its enchantments and spells would go wild. Countless ''[[gate]]s'' and ''[[portal]]s'' would become destabilized and available for many powerful monsters to utilize. The arcane chaos would continue to rage through Undermountain until [[Mystra|Mystra's]] [[Chosen of Mystra|Chosen]], [[We
+
+=== LINKED WIKI PAGE (first 5000 chars): Xanathar (Zushaxx)
+
+{{Otheruses4|the [[beholder]] that led the [[Xanathar's Thieves' Guild]] in the late 15{{th}} century DR|other uses|Xanathar}}
+{{Person
+| image          = <gallery>
+Xanathar (Zushaxx) 5point5e.jpg|5eR
+Zushaxx.jpg|5e
+</gallery>
+| caption        = Zushaxx chasing an intruder.
+| name           = Zushaxx
+| alt_spelling   = 
+| titles         = [[Xanathar (title)|Xanathar]]
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Xanathar's Lair]]
+| formerhomes    = 
+| sex            = 
+| gender         = Genderless
+| race           = [[Beholder]]
+| ethnicity      = 
+| occupation     = Crime syndicate leader
+| age            = 
+| patron deity   = 
+| languages      = [[Deep Speech]], [[Undercommon]]
+| basicrefs      = <ref name="WDH-p99-114">{{Cite book/Waterdeep: Dragon Heist|99-114}}</ref>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = Unspecified offspring
+| familyrefs     = <ref name="tCaT-92">{{Cite book/To Catch a Thief|92}}</ref>
+| dynasty        = 
+| start of reign = [[1466 DR]]
+| end of reign   = 
+| predecessor    = [[Izulktur]]
+| successor      = 
+| successionrefs = <ref name="DUnMag206-Xanathar-p1" />
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Lawful evil]]
+| challenge5e    = 13
+| class5e        = 
+| refs5e         = <ref name="MM5-p28">{{Cite book/Monster Manual 5th edition|28}}</ref>
+}}
+'''Zushaxx''' was a [[Xanathar]], the leader of the [[Xanathar's Thieves' Guild]] in [[Waterdeep]], throughout much of the late 15{{th}} century [[DR]].<ref name="DUnMag206-Xanathar-p1">{{Cite dungeon/206/The Xanathar: Crime Lord of Waterdeep|1-2}}</ref>
+
+==Personality==
+Zushaxx was paranoid and megalomaniacal.<ref name="WDH-p6">{{Cite book/Waterdeep: Dragon Heist|6}}</ref> It was also more ambitious and impulsive than many previous Xanathars, and hungered for knowledge, information, and wealth.<ref name="DUnMag206-Xanathar-p1" /><ref name="WDH-p6" />
+
+Zushaxx was fascinated by [[Elf|elves]], and often surrounded itself with elf slaves. It also enjoyed bright and vivid colors, naming three lairs after its favorite hues.<ref name="DUnMag206-Xanathar-p5">{{Cite dungeon/206/The Xanathar: Crime Lord of Waterdeep|5}}</ref>
+
+==History==
+Zushaxx was at least the fifteenth Xanathar: the remains of thirteen previous Xanathars remained in its lair<ref name="WDH-p112">{{Cite book/Waterdeep: Dragon Heist|112}}</ref> and at least one [[Xandulzrithral|previous Xanathar]] had peacefully retired from the position.<ref name="DUnMag206-Xanathar-p1" />
+
+Sometime ''circa'' [[1466 DR]], Zushaxx, a relatively young beholder, took over as the Xanathar from [[Izulktur]], the previous Xanathar, who was born of the same beholder cluster. With the support of the [[drow]] servant [[Kal'dir]], Zushaxx quickly established itself as the new Xanathar. It spent the first year as the guild leader poring over the library amassed by its predecessors, which fueled a desire to amass more information.<ref name="DUnMag206-Xanathar-p1" />
+
+By [[1479 DR]], it had established itself as one of the more ambitious Xanathars, and it was considering whether to break with the longstanding tradition of keeping its identity as a beholder a secret, as all of its predecessors had done.<ref name="DUnMag206-Xanathar-p1" />
+
+In [[1491 DR]], the Xanathar, in cahoots with the [[mind flayer]] [[Suthool]] and the agent of [[Asmodeus]] [[Belvarra Bowmantle]], supported the plots of the [[Masked Lord]] [[Braethan Cazondur]] in order to distract the [[City Watch (Waterdeep)|City Watch]] and the [[Open Lord]]s from its operation in [[Skullport]] and to gain power in order to expel the [[Zhentarim]] from [[Waterdeep]].<ref name=":0">{{Cite book/Death Masks|180-181}}</ref>
+
+The next year, Zushaxx started a street war in Waterdeep between its guild and the [[Zhentarim]] over possession of the ''[[Stone of Golorr]]'', which was understood to be the key to finding the lost wealth embezzled from Waterdeep by [[Dagult Neverember]].<ref name="WDH-p5">{{Cite book/Waterdeep: Dragon Heist|5}}</ref>{{Waterdeep-time}}
+
+==Possessions==
+Xanathar wore a ''[[ring of invisibility]]'', a ''[[ring of mind shielding]]'', and a ''[[ring of resistance]]'' on its eyestalks.<ref name="WDH-p220">{{Cite book/Waterdeep: Dragon Heist|220}}</ref>
+
+==Rumors and Legends==
+Some believed that the Xanathar possessed a magical object, carried by one of its henchmen, through which it could project its eye rays and that it had put numerous [[Lords of Water
+
+=== LINKED WIKI PAGE (first 5000 chars): Xanathar (original)
+
+{{Otheruses4|the [[beholder]] ''named'' Xanathar who founded the [[Xanathar's Thieves' Guild]]|other uses|Xanathar}}
+{{Person
+| image          = Xanathar's Thieves' Guild original.jpg
+| caption        = ''Xanathar (center) with other members of the [[Xanathar's Thieves' Guild]].''
+| name           = Xanathar
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = Hidden sewer lair, [[Waterdeep]]
+| formerhomes    = 
+| sex            = None
+| gender    = Masculine
+| race           = [[Beholder]]
+| ethnicity      = 
+| occupation     = Crime lord
+| age            = 
+| patron deity   = [[Bhaal]]
+| languages      = 
+| basicrefs      = <ref name="W&tN-p57"/>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 1370
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| alignment1e    = [[Lawful evil]]
+| class1e        = 
+| refs1e         = <ref name="W&tN-p57">{{Cite book/Waterdeep and the North|57-58}}</ref>
+| alignment2e    = [[Lawful evil]]
+| class2e        = 
+| refs2e         = <ref name="HoH-p104-105">{{Cite book/Hall of Heroes|104-105}}</ref>
+}}
+'''Xanathar''' was a [[beholder]] of the mid–14{{th}} century [[DR]] and the founding crime lord of the [[Xanathar Thieves' Guild]] in [[Waterdeep]].<ref name="W&tN-p57"/><ref name="HoH-p104-105"/><ref name="VLB-p122">{{Cite book/Villains' Lorebook|122}}</ref>
+
+==Description==
+Xanathar resembled a typical beholder, having a large spherical body some 4.5 feet (1.4 meters) in diameter, with ten eyestalks and a large central eye, above a wide fang-filled mouth. His chitinous hide was colored a dark blue-gray and shaded to a dull yellow-orange around his mouth and on his underside. He normally floated 3 feet (0.9 meters) above the ground.<ref name="HoH-p104-105" />
+
+==Personality==
+Xanathar greatly enjoyed being a crime lord just under the noses of Waterdeep's Lords and laughed at their claims to have stamped out organized crime.<ref name="HoH-p104-105" /> He was confident in his power and his inconspicuousness to the Lords.<ref name="W&tN-p57" /> His main goal was simply to maintain his position.<ref name="HoH-p104-105" />
+
+Xanathar loved luxury and pleasures, and very much enjoyed well-prepared foods (provided by Steeltoe), scented oils, and spiced tobaccos and herbs from the south. His appetite was huge, and included people. When not engaged in crime, he relaxed in a great glass tank of scented water, where he planned his crimes.<ref name="W&tN-p57" /><ref name="HoH-p104-105" />
+
+Xanathar was devious.<ref name="CoS-WWiW-p90" />
+
+==Relations==
+Xanathar was served by his "four councilors". They met with him regularly and in turn dealt with others in the organizations. No one else knew of Xanathar's existence, let alone that he was a beholder.<ref name="W&tN-p57" /><ref name="HoH-p104-105" /><ref name="VLB-p122" />
+
+[[Shindia Darkeyes]], the [[half-drow]] [[thief]], was Xanathar's lieutenant and personal favorite. She oversaw blackmail and extortion. She helped Xanathar kill Uthh, but could do nothing to save it from the Eye. Afterward, she served the Eye grudgingly while plotting its downfall.<ref name="W&tN-p57" /><ref name="HoH-p104-105" /><ref name="VLB-p122" /><ref name="DDGttU-p47">{{Cite book/Drizzt Do'Urden's Guide to the Underdark|47}}</ref><ref name="CoS-WWiW-p89">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|89}}</ref><ref name="CaD-p142">{{Cite book/Cloak and Dagger|142}}</ref>
+
+[[Slan Thurbel]] was Xanathar's mercenary leader and hitman, but Xanathar insulted him continuously and, in Slan's words, did not "respect his talents". Glad Xanathar was dead, Slan much preferred the Eye in charge.<ref name="W&tN-p57" /><ref name="HoH-p104-105" /><ref name="VLB-p122" /><ref name="CoS-WWiW-p90" /><ref name="CaD-p143">{{Cite book/Cloak and Dagger|143}}</ref>
+
+[[Slink Monteskor]] was Xanathar's bookkeeper and information gatherer, with a web of spies and snitches in the poorer parts of Waterdeep.<ref name="W&tN-p57" /><ref name="HoH-p104-105" /><ref name="VLB-p122" />
+
+[[Ott Steeltoes]] was a dwarven pirate who provided Xanathar's delicacies.<ref name="W&tN-p57" /><ref name="HoH-p104-105" /><ref name="VLB-p122" />
+
+Xanathar also owned two ''charmed'' [[intellect devourer]]s and a winglet of six [[gargoyle]]s for the defense of his lair.<ref name="W&tN-p57" /><ref name="HoH-p104-105" />
+
+Anyone who managed to find and invade Xanathar's lair was interrogated for information, briefly kept as a pet, and finally eaten by the beholder.<ref name="W&tN-p57" /><ref name="HoH-p104-105" /><ref name="VLB-p122" />
+
+==Equipment==
+Although Xanathar shared his kind's distrust of magical items, he did have specially made an ''[[ring of proof against detection and location|eyestalk ring of proof against detection and location]]'', which 
+
+=== LINKED WIKI PAGE (first 5000 chars): Kirukeskai
+
+{{Person
+| image          = 
+<gallery>
+Xanathar LoW.jpg|4e
+Xanathar 3e.JPG|3e
+</gallery>
+| caption2       = Various depictions of Kirukeskai
+| name           = Kirukeskai
+| alt_spelling   = 
+| titles         = The Xanathar
+| aliases        = The Eye
+| nicknames      = 
+| true name      = 
+| home           = [[Undermountain]]
+| formerhomes    = 
+| gender         = Neutral,<ref name="CoSW-65">{{Cite book/City of Splendors: Waterdeep|65}}</ref> sometimes referred to as male<ref name="EEoX">{{Cite web
+| url            = http://archive.wizards.com/default.asp?x=dnd/prc/20061107b
+| title          = Eleven Eyes of Xanathar
+| accessdate     = 2018-06-10
+| date           = 2006-11-07
+| publisher      = Wizards of the Coast
+| archiveurl     = https://web.archive.org/web/20161031215531/http://archive.wizards.com/default.asp?x=dnd/prc/20061107b
+| archivedate    = 2016-10-31
+}}</ref>
+| race           = [[Elder orb|Elder Orb]]
+| ethnicity      = [[Beholder]] from the [[Graypeaks Hive]]<ref name="CoSW-65"/>
+| occupation     = 
+| age            = 100 years in [[1304 DR]]<ref name="C&D-139">{{Cite book/Cloak and Dagger|139}}</ref>
+| patron deity   = 
+| languages      = 
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = Several, all turned into [[death tyrant]]s<ref name="C&D-140">{{Cite book/Cloak and Dagger|140}}</ref>
+| familyrefs     = 
+| dynasty        = 
+| start of reign = Some years after [[1304 DR]]
+| end of reign   = 
+| predecessor    = [[Xanathar (original)]]
+| successor      = 
+| successionrefs = <ref name="C&D-139-140">{{Cite book/Cloak and Dagger|139-140}}</ref>
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = [[Lawful evil]]
+| class2e        = 
+| refs2e         = <ref name="C&D-140"/>
+| alignment3e    = [[Lawful evil]]
+| challenge3e    = 
+| class3e        = {{class table|edition=3e|[[Sorcerer]]|12}}
+| refs3e         = <ref name="CoSW-65"/>
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Kirukeskai''', also called '''the Eye''', was an [[elder orb]] who was the first [[beholder]] to hold '''The Xanathar''' as a title instead of a name.<ref name="C&D-140" /> It was a crime lord and the leader of the [[Xanathar's Thieves' Guild]],<ref name="C&D-140" /> also called the Xanathar's Guild.<ref name="FRCS-281"/>
+
+==Description==
+Kirukeskai was an elder orb whose body had grown<ref name="CoSW-65" /> to the limit of a beholder and it was therefore very big for its race.<ref name="MM35e-26">{{Cite book/Monster Manual 3.5|26}}</ref> It was of very advanced age for its species and was much wrinkled.<ref name="CoSW-65" />
+
+==Personality==
+Kirukeskai was exceptionally paranoid,<ref name="CoSW-65" /> even for a beholder.<ref name="LoM-40">{{Cite book/Lords of Madness: The Book of Aberrations|40}}</ref> While beholders generally did not leave their homes and generally worked through intermediaries,<ref name="LoD-117">{{Cite book/Lords of Darkness|117}}</ref> Kirukeskai exclusively worked through intermediaries and never went out of its fortified homes in [[Skullport]] and the southern half of the third level of [[Undermountain]], which it managed because these homes were linked via a ''[[portal]]''.<ref name="CoSW-65"/> In fact, only the Masters of the [[Xanathar's Thieves' Guild|Xanathar's Guild]] knew that it was a beholder<ref name="FRCS-281">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|281}}</ref> or that it was not the first one to rule their criminal organization.<ref name="C&D-141">{{Cite book/Cloak and Dagger|141}}</ref> Another group that knew of the former fact were the eleven [[eye of Xanathar|eyes of Xanathar]], though it was not clear whether they knew of the latter fact.<ref name="EEoX"/>
+
+Beholders in general were megalomaniac creatures<ref name="LoD-117"/> and Kirukeskai was no exception.<ref name="C&D-140">{{Cite book/Cloak and Dagger|140}}</ref> It viewed all creatures on the surface as slaves for its taking and it viewed [[humanoid]]s who tried to become closer to beholders by becoming [[ocular adept]]s as arrogant pawns.<ref name="CoSW-65" />
+
+Beholders in general believed themselves to be intelligent.<ref name="LoD-117"/> The Eye was very intelligent even by beholder standards and a competent businessman.<ref name="C&D-140"/>
+
+Kirukeskai was a cruel parent who ''charmed'' its offspring into subservience until they matured. Then he turned them into [[death tyrant]]s.<ref name="C&D-140"/>
+
+The Eye felt the deteriorating effects of its great age, and by [[1370 DR]] it had begun trying magical means of staving of the ageing process. It drank ''[[potion of longevity|potions of longevity]]''
+
+=== LINKED WIKI PAGE (first 5000 chars): Beholder
+
+{{Creature
+| image        = <gallery>
+Monster_Manual_5e_-_Beholder_-_p28.jpg|5e
+Beholder 4e MV.jpg|4e
+Beholder - Scott M. Fischer.jpg|3e
+Beholde1.gif|2e
+Beholder_1E.jpg|1e
+</gallery>
+| caption2     = Several depictions of beholders.
+| name         = Beholder
+| size5e       = Large
+| type5e       = [[Aberration]]
+| subtype5e    = 
+| alignment5e  = [[Lawful evil]]
+| challenge5e  = {{CR table|edition=5e||13|in lair|14}}
+| refs5e       = <ref name="MM5e-p26-28">{{Cite book/Monster Manual 5th edition|26-28}}</ref>
+| size4e       = Large
+| origin4e     = [[Aberration|Aberrant]]
+| type4e       = [[Magical beast]]
+| subtype4e    = 
+| alignment4e  = [[Evil]]
+| refs4e       = <ref name="MM4e-p32">{{Cite book/Monster Manual 4th edition|32}}</ref>
+| size3e       = Large
+| type3e       = [[Aberration]]
+| subtype3e    = 
+| alignment3e  = Usually [[lawful evil]]
+| challenge3e  = 13
+| refs3e       = <ref name="MMv.3.5-p25">{{Cite book/Monster Manual 3.5|25-27}}</ref>
+| size2e       = Medium to Huge
+| alignment2e  = [[Lawful evil]]
+| refs2e       = <ref name="MM-p25">{{Cite book/Monstrous Manual|25}}</ref>
+| size1e       = Large
+| alignment1e  = [[Lawful evil]]
+| refs1e       = <ref name="MM1-p10">{{Cite book/Monster Manual 1st edition|10}}</ref>
+| patron deity = 
+| movement     = Flying<ref name="MM5e-p26-28" /><ref name="MMv.3.5-p25" /><ref name="MM-p25" />
+| vision       = Darkvision (360 degrees)<ref name="MM5e-p26-28" />
+| activecycle  = 
+| diet         = 
+| lifespan     = 
+| location     = [[Underdark]]
+| language     = [[Beholder language|Beholder]],<ref name="MMv.3.5-p25"/> [[Undercommon]],<ref name="MM5e-p26-28" /><ref name="MMv.3.5-p25" /> [[Deep Speech]]<ref name="MM5e-p26-28" />
+| collective   = Cluster<ref name="MMv.3.5-p25" />
+| subraces     = 
+| climate      = Cold<ref name="MMv.3.5-p25" />
+| terrain      = Any space,<ref name="SJAS-LV2e-p69-70">{{Cite book/Spelljammer: AD&D Adventures in Space/Lorebook of the Void|69-70}}</ref> Hills<ref name="MMv.3.5-p25" />
+| height       = 
+| length       = 8 ft (2.4 m) diameter
+| wingspan     = 
+| weight       = 
+| skincolor    = 
+| haircolor    = 
+| hairstyles   = 
+| feathers     = 
+| eyecolor     = 
+| build        = 
+| distinctions = Eye rays<br />[[Charm Monster]]<br />Flight
+| based        = 
+| first        = [[Monster Manual 1st edition|''Monster Manual'' 1{{st}} edition]]
+}}
+A '''beholder''', sometimes called a '''sphere of many eyes''' or an '''eye tyrant''', was a large [[aberration]] normally found in the [[Underdark]]. These large, orb-shaped beings had ten eyestalks and one central eye, each containing powerful [[magic]]. Powerful and intelligent, beholders were among the greatest threats to the world.<ref name="MM3e-p24">{{Cite book/Monster Manual 3rd edition|24-25}}</ref>
+
+{{Quote|Think ye weave cunning schemes and elaborate intrigues with fallback plans and positions? Beholders change, refine, discard, and spin anew scores of such plans all the time. To the average beholder, [[human]] intrigues are the fumbling of babies.|[[Elminster]]'s notes in ''[[Volo's Guide to Monsters (in-universe)|Volo's Guide to Monsters]]''.<ref name="VGtM-p6">{{Cite book/Volo's Guide to Monsters|6}}</ref>}}
+
+==Description==
+Beholders were immediately identifiable, being essentially a floating head with one single, [[cyclops]]-like eye surrounded by ten smaller eye stalks. Other than this, the main feature of a beholder's anatomy was its massive, gaping maw. Because of these features, beholders were occasionally known as "spheres of many eyes" or "eye tyrants,"<ref name="MM3e-p24" /> although the latter also referred to a specific type of beholder.<ref name="MM4e-p32">{{Cite book/Monster Manual 4th edition|32}}</ref>
+
+Beholders of the Realms tended to be slightly larger than beholders found on other worlds, growing up to six feet in diameter where on other worlds they would average five feet wide. The majority of beholders living on Faerûn had skin colored in cool colors—purples and blues—on the top of their bodies that graduated into earth tones further down. Said skin had a pebbly texture. Most of Toril's beholders had nostrils and jointed, articulated eyestalks.<ref>{{Cite book/I, Tyrant|66}}</ref>
+
+Because their entire body was covered in eyes, beholders had the capacity to see in all directions at once, making it nearly impossible to ambush them while also giving them an unusually high degree of perceptive ability. Although beholders lacked the capacity to see color, they had the ability to perceive even in the most darkened environment, under conditions in which a [[human]] or similar creature would be rendered completely blind.<ref name="MM3e-p24" />
+
+Beholders were also capable of flight, in spite of their lack of wings or similar physical features, simply hovering above ground effortlessly. The effects of this flight resembled those of the [[wizard]] [[spell]] ''[[levitate|levitation]]''.<ref name="MM3e-p24" />
+
+==Biology==
+[[File:Baleful Beholder.jpg|thumb|''A very irate
+
+=== LINKED WIKI PAGE (first 5000 chars): Shadow Thieves
+
+{{Organization
+| image          = 
+<gallery>
+Shadow thieves symbol.png|3e
+ShadowThievesSymbol.jpg|2e
+</gallery>
+| caption2        = ''Various depictions of the Shadow Thieves' symbol.''
+| name           = Shadow Thieves
+| aliases        = ''The Kiss of Steel in Darkness''
+| base           = [[Crimmor]], [[Amn]]<ref name="FRCG-p93"/>
+| leader         = [[Dannihyr]] family of [[Eshpurta]] <br/> {{Former}}[[Grandmaster of Shadows|Grandmaster]] [[Rhinnom Dannihyr]] and the [[Shadow Council]] <br/> {{Former}}[[Carzakh Halandir|Carzakh "Deepshadow" Halandir]] (founder)
+| symbol         = A [[silk]] mask impaled on a [[stiletto]]
+| favored deity  = [[Mask]], [[Bane]], [[Cyric]], [[Loviatar]], [[Shar]], [[Talona]]<ref name="LoD3e-p172"/> <br/> {{former}} [[Bhaal]]<ref name="C&D-p103"/>
+| favored weapon = 
+| domains        = 
+| formed         = [[1255 DR]]
+| disbanded      = 
+| basicrefs      = <ref name="C&D-p101"/><ref name="LoD3e-p172"/>
+| members        = Over 3,000 [[assassin]]s, [[thieves]], [[rogue]]s, [[wizard]]s
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{Alignment grid|off|off|off|off|off|on|on|on|on}}
+| races          = 
+| memrefs        = <ref name="LoD3e-p172"/>
+| allegiances    = [[Council of Six]]
+| enemies        = [[Lords of Waterdeep]], [[Rundeen]], [[Syl-pasha]] of [[Calimshan]]
+| relrefs        = <ref name="C&D-p111">{{Cite book/Cloak & Dagger|111}}</ref>
+| showmembers    = yes
+| orgname        = the Shadow Thieves
+}}
+The '''Shadow Thieves''' was a secretive and powerful consortium of thieves' guild in [[west Faerûn|western Faerûn]] that were headquartered in the [[Amn]]ian city of [[Crimmor]]<ref name="FRCG-p93">{{Cite book/Forgotten Realms Campaign Guide|93}}</ref> during the 15{{th}} century [[DR]], having relocated from their base in [[Athkatla]] the century prior. They were formerly the most prominent thieves' guild in [[Waterdeep]], but were routed from the city by the [[Lords of Waterdeep|Masked Lady]] [[Lhestyn|Lhestyn Arunsun]].<ref name="C&D-p103">{{Cite book/Cloak & Dagger|103}}</ref> From the early-14{{th}} century onward they controlled many of the criminal operations along the [[Sword Coast]],<ref name="C&D-p101">{{Cite book/Cloak & Dagger|101}}</ref><ref name="C&D-p103" /> growing into the largest and most prosperous thieves guild in all of [[Faerûn]],<ref name="PGtF-p74">{{Cite book/Player's Guide to Faerûn|74}}</ref> with ultimate goal of further increasing their collective influence and wealth.<ref name="C&D-p102">{{Cite book/Cloak & Dagger|102}}</ref> 
+
+The organization operated under two oaths, which were written by its first Grandmaster, following their exile from Waterdeep:<ref name="C&D-p102" />
+*''"The Shadow Thieves would never again be brought so low and disgraced as they were in their exile."''
+*''"They would take their vengeance upon the city of Waterdeep and the [[Arunsun]] family."''
+
+==Activities==
+The Shadow Thieves were discreet in their activities, even in Amn, where they were known by just about every citizen of the nation. Even the lower-ranked members, who earned their gold as beggars, cut-purses, thugs and fences followed these rules as they went about their daily duties. Even these minor operations allowed the Shadow Thieves to insert itself into the daily lives of Amnian citizens. Thus, a friendly game of chance run by a con artist gamer could lead to higher and higher stakes and a great take of gold for the agent and overall guild.<ref name="C&D-p109">{{Cite book/Cloak & Dagger|109}}</ref> 
+
+Many citizens relied upon the manipulative and illicit services provided by the Shadow Thieves. Business people became reliant on their protection rackets, money lenders and the enforcers and thugs they hired out. Politicians and government officials would often hire the guild's spies and burglars to obtain guarded knowledge, or plant false information. The multitude of traders and merchants in [[Amn]] received a myriad of unique mercantile opportunities provided by the guild's smugglers and pirates.<ref name="C&D-p109" />
+
+The agents of the guild were just as ruthless as they were secretive. If a situation required the use of violence, they would only take prisoners if a person was deemed worthy of capture, i.e. they possessed arcane, political or financial power. The captives were relocated to a safehouse until ransom could be collected or the person otherwise manipulated.<ref name="C&D-p104" /> 
+
+===Outlook===
+Secrecy was the key to the immense success of the Shadow Thieves, an outlook that began with the ruling [[Shadow Council]] and spread to every officer, agent and member. Only the upper echelon of the organization knew the full complexities of their hierarchical structure, with individual members only aware of their immediate associates. Members worked exclusively with their known comrades so that could never implicate more than a handful of other thieves. Failure to maintain the secrecy of the Shadow Thieves would cost the guild money, an unac
+
+=== LINKED WIKI PAGE (first 5000 chars): Zhentarim
+
+{{Distinguish|Zhentilar}}
+{{Organization
+| image          = 5e Zhentarim Symbol.png
+| caption        = The banner of the Zhentarim circa [[1489 DR]].
+| name           = Zhentarim
+| alt_spelling   = 
+| aliases        = Black Network<ref name="FRCS3e-p281" /><br /> Black Robes ([[Bedine]])<ref name="EE:A-p3">{{Cite book/Elminster's Ecologies/Anauroch|3}}</ref><br />Keepers<ref name="ab-p205">{{Cite book/Azure Bonds|205}}</ref><br />Zheeks<ref name="ab-p235">{{Cite book/Azure Bonds|235}}</ref><br/>Zhentarians<ref name="RoA-p60">{{Cite book/Ruins of Adventure|60}}</ref>
+| type           = 
+| base           = [[Darkhold]]<ref name="SCAG-p78" /> <br/> {{former}} <br /> [[Zhentil Keep]], [[Moonsea]]<ref name="LoD-p96"/> <br/> [[Citadel of the Raven]]<ref name="RoZK-CB-p36" /> <br/> [[Stormwatch]]<ref name="FRCG-p282" />
+| leadertitle    = 
+| leader         = [[Pereghost]]<ref name="SCAG-p78" /> <br /> {{former}} <br /> [[Fzoul Chembryl]]<ref name="LoD-p96"/> <br/> [[Manshoon]] (founder)<ref name="LoD-p96"/> and [[Sememmon]]<ref name="RoZK:CB-p32" />
+| symbol         = Silhouette of a winged snake biting a coin<ref name="Factions" /><ref name="WDH-p24-p44-p157-p159">{{Cite book/Waterdeep: Dragon Heist|24,44,157,159}}</ref> {{former}} <br /> Dark skull emitting black rays on a golden disc<ref name="FRCG-p282" /> <br/> Black scepter emitting green rays on gold disc, clutched in the talons of a black wyrm<ref name="LoD-p96"/> {{Former}} Stylized spearhead bearing white disc with scrawled Z in [[Dethek]]<ref name="LoD-p96"/>
+| favored deity  = [[Bane]] {{former}} [[Cyric]]
+| favored weapon = 
+| domains        = 
+| formed         = [[1261 DR]]<ref name="LoD-p96" /><ref name="tGHotR-p128" />
+| disbanded      = 
+| basicrefs      = <ref name="LoD-p96">{{Cite book/Lords of Darkness|96}}</ref>
+| members        = At least 10,000 c. [[1372 DR]]<ref name="LoD-p96"/>
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{alignment grid|off|off|off|off|off|off|on|on|off}}<ref name="LoD-p96"/>
+| races          = 
+| memrefs        = 
+| event1         = 
+| date1          = 
+| event2         = 
+| date2          = 
+| event3         = 
+| date3          = 
+| event4         = 
+| date4          = 
+| leader1        = 
+| leaderyear1    = 
+| leader2        = 
+| leaderyear2    = 
+| leader3        = 
+| leaderyear3    = 
+| leader4        = 
+| leaderyear4    = 
+| leader5        = 
+| leaderyear5    = 
+| leadertable    = 
+| histrefs       = 
+| allegiances    = 
+| enemies        = [[Harpers]], [[Lords' Alliance]], [[Cult of the Dragon]], the [[Rundeen]], [[Netheril]]
+| relrefs        = <ref name="LoD-p98"/>
+| showmembers    = yes
+| orgname        = the Zhentarim
+}}
+The '''Zhentarim''' ({{Pronounce|zz|HENT|ah|rim|refs=<ref name="FRCS1e-CR-p92">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|92}}</ref>}}) also known as the '''Black Network''',<ref name="FRCS3e-p281">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|281}}</ref> was a mercenary company and greater mercantile organization in [[Faerûn]],<ref name="SCAG-p78">{{Cite book/Sword Coast Adventurer's Guide|78}}</ref> who, over their 200 years of existence, had a storied history as a cadre of self-serving [[thieves]], spies, [[assassin]]s, and malevolent [[wizard]]s,<ref name="SCAG-p77">{{Cite book/Sword Coast Adventurer's Guide|77}}</ref> who for a time, were indentured by their leaders to serve dark gods [[Bane]]<ref name="FRCS3e-p282">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|282}}</ref> and [[Cyric]].<ref name="C&D-p9">{{Cite book/Cloak & Dagger|9}}</ref> Over the decades, the organization experienced several leaps and bounds in terms of successes,<ref name="RoZK:CB-p34" /> but also major misfortune, particularly for their historical strongholds around the [[Moonsea]].<ref name="FRCG-p151">{{Cite book/Forgotten Realms Campaign Guide|151}}</ref> As of [[1489 DR]] the Zhentarim was headquartered in the [[Western Heartlands]], at [[Darkhold|Darkhold Castle]], nestled in the [[Darkhold Vale|valley of the same name]].<ref name="SCAG-p78" />
+{{quote|As distasteful as [[Hillsfar]]'s policies might be, you can hardly expect us to deal with the baby-slaying Keepers. I've heard that they plight their troth with succubi, eat the brains of elves, and worship gods so black they make [[Moander]] seem nice. Their names are feared as far south as my native land. And the council who rules them, the Zhentarim, are twice as dark as the Keepers.|[[Akabar Bel Akash]]<ref name="ab-p205" />}}
+{{TOC limit|3}}
+==Aims & Goals==
+As an extension of the will of the dark wizard [[Manshoon]], the Zhentarim was initially formed as a mercenary company to support his rule over the [[Moonsea]] with the aim of spreading that control over all of Faerûn.<ref name="CaD-p32">{{Cite book/Cloak & Dagger|32}}</ref> After he recruited the faithful of Bane, unscrupulous merchants and lesser [[mage]]s to his cause,<ref name="RoZK:CB-p15">{{Cite book/Ruins of Zhentil Keep/Campaign Book|15}
+
+=== LINKED WIKI PAGE (first 5000 chars): Luskan
+
+{{Location
+| image         = Luskan - city of pirates.png
+| caption       = A bird's eye view of Luskan, the City of Sails
+| name          = Luskan
+| aliases       = City of Sails<ref>{{Cite book/Streams of Silver|24}}</ref>
+| size          = Large city (1372 DR)<br/>Large town (1480 DR)
+| capital       =
+| area          = [[Sword Coast North]], [[northwest Faerûn]]
+| ruler         = The Five High Captains (1372 DR):<br />[[Taerl]], [[Baram]], [[Kurth]], [[Suljack]] and [[Rethnor]]<br/>None (1480 DR)<br/>[[Jarlaxle Baenre]] (1489 DR)
+| government    = Oligarchy (1372 DR)<br/>Anarchy (1480 DR)<br/>Oligarchy (1489 DR)
+|demonym        = Luskar<ref name="WotW">{{Cite polyhedron/74/The Everwinking Eye: Words To The Wise}}</ref>
+| population    = 15,000 ca. 1360s DR<ref name="RGLoD-142-143">{{Cite book/A Reader's Guide to R. A. Salvatore's the Legend of Drizzt|142-143}}</ref><br/>16,000 in [[1370 DR]]<ref name="VoloN-p111">{{Cite book/Volo's Guide to the North|111}}</ref><br/>14,173 in [[1372 DR]]<ref name="FRCS3e-p176">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|176}}</ref><br/>4,000 in [[1480 DR]]<ref name="SB|6538">{{Cite digital book/Shadowbane|6538}}</ref> 
+| races         = Mostly [[human]]s;<ref name="RGLoD-142-143" /> [[drow]]<ref name="NotH-p309-310">{{Cite book/Night of the Hunter/Hardcover|309-310}}</ref>
+| religion     =
+| imports       = [[Silver]], [[scrimshaw]], timber, [[dwarf|dwarven]] [[weapon]]s
+| exports       = [[Netherese]] artifacts,<ref name="NotH-p309">{{Cite book/Night of the Hunter/Hardcover|309}}</ref> [[weapon]]s<ref name="IWD2">{{Cite game/Icewind Dale II}}</ref>
+| predecessor   = [[Illusk]]
+| alignment     =
+| usethe        = 
+| useon         = 
+| inhabitants   = yes
+| locations     = yes
+| organizations = yes
+| settlements   = 
+| roads         = yes
+| items         = yes
+}}
+'''Luskan''', also known as the '''City of Sails''', was a port city at the mouth of the [[River Mirar]] on the [[Sword Coast North]].<ref name="VoloN-p111" /> Luskan, despite the presence of the [[Ten Towns]], was considered by many to be civilization's farthest reach.
+
+Although once a bustling city, in the days prior to the [[Spellplague]], the city would suffer greatly at the hands of [[Arklem Greeth]]. The resulting disaster would allow the Spellplague to nearly annihilate the city, with it having only a fraction of its former populace.{{fact}}
+
+{{quote|''Tucked like a gold filling (or some would say a pus-filled abscess) at the mouth of the River Mirar, Luskan is a city of merchant princesses, swarthy bandit princes, and the most diverse, cutthroat, and fractured cabal of pirates on Toril. Torn into factions, these piratical groups are known as "Ships."''|Excerpt from ''[[Corsairs of Luskan]]''<ref name="bg3">{{Cite game/Baldur's Gate III}}</ref>}}
+
+==Geography==
+As of [[1370 DR]], the city was split into northern and southern halves by the River Mirar, and these were connected by the bridges [[Dalath's Span]], [[Harbor Cross]], and the [[Upstream Span]].<ref name="VoloN-p113">{{cite book/Volo's Guide to the North|113}}</ref> Other than the [[Host Tower of the Arcane]], the city was dominated by two- and three-story buildings.<ref name="RGLoD-142-143" />
+
+The city and its five inhabited islands sat in the mouth of the [[River Mirar]], on the [[Mirarmouth Bay]].<ref name="grotto">{{Cite archive/Greenwood's Grotto/2024-05-10/Mirar Bay}}</ref> Three of these were inhabited: [[Cutlass Island]] (upon which lay the Host Tower of the Arcane, and which was connected to both sides of the river by bridges), [[Closeguard Island]] (which housed [[Ship Kurth]] and was connected to the southern bank by a bridge), and [[Blood Island]] (which housed Luskan's army garrison).<ref name="RGLoD-142-143" /><ref name="VoloN-p118-119">{{Cite book/Volo's Guide to the North|118-119}}</ref> The remaining uninhabited islands were [[Fang Island]] (named for its treacherous rocks) and [[Harbor Arm Island]] (which sheltered the city's harbor).<ref name="VoloN-p118" />
+
+===Northern Bank===
+[[File:Luskan.png|thumb|''Luskan at night.'']]
+The northern section was walled and was almost entirely made up of warehouses. The [[Mirabar District]] (also known as the Mirabar Shield) was a fortified compound operated by the merchants of [[Mirabar]], and it contained the [[Throat]], the city's heavily guarded main water tower, which was situated in a grazing area for sheep.<ref name="VoloN-p113" /> The ''[[Red Dragon Trading Post]]'', Luskan's most successful overland trading company as of 1370 DR (but no longer in operation in [[1483 DR]]<ref name="TC-p331">{{Cite book/The Companions/Hardcover|331|26}}</ref>), was situated on the northern bank, as was the ''[[North Gate (Luskan)|North Gate]]'', the portal between the northern and southern banks.<ref name="VoloN-p115" /> 
+
+The docks on the northern bank were on the sea coast (western part of the city) and consisted of [[Whitesails Harbor]], used exclusively for the Luskan navy, and the u
+
+=== LINKED WIKI PAGE (first 5000 chars): Baldur's Gate
+
+{{otheruses4|the city on the Sword Coast|other uses|Baldur's Gate (disambiguation)}}
+{{GA}}
+{{Location
+| image              = Baldur's Gate overview BG3.png
+| caption            = Panorama of Baldur's Gate.
+| name               = Baldur's Gate
+| alt spelling       = 
+| aliases            = The Gate<ref name="Shadowmask-p113" /><br />Gray Harbor<ref name="MiBG.CG-p32" /><br />Loklee<ref name="TEV2022">{{Cite web/theedverse/2022-03-26 - Baldur's Gate History}}</ref><br />City of Blood<ref name="BG-DiA-p12">{{Cite book/Baldur's Gate: Descent into Avernus|12}}</ref><br />"Halfway to everywhere"<ref name="LC-ANE">{{Cite organized play/LC/A Necessary Evil|16}}</ref><ref name="AGTotR-p87" /><ref name="TFRA-p87" />
+| type               = 
+| region             = [[Sword Coast]], [[Western Heartlands]]
+| size               = Metropolis
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="FRCS3e-p225">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|225}}</ref><ref name="VoloSC-p8">{{Cite book/Volo's Guide to the Sword Coast|8}}</ref>
+| demonym            = Baldurian<ref name="FRA-p73" /><ref name="WotW" />
+| population         = 
+| races              = Mostly [[human]]
+| languages          = 
+| religion           = [[Gond]], [[Tymora]], [[Umberlee]], [[Helm]], [[Lathander]], [[Ilmater]], [[Dead Three|Cults of the Dead Three]]
+| alignment          = 
+| socrefs            = <ref name="FRA-p76" /><ref name="FRCG-p94" /><ref name="BG.DiA-p159" />
+| imports            = Stone
+| exports            = Dyes, fish, lamp oil, trade-coinage
+| currency           = 
+| comrefs            = <ref name="FRA-p76">{{Cite book/Forgotten Realms Adventures|76}}</ref><ref name="VoloN-p152" />
+| government         = Plutocracy
+| rulertype          = 
+| ruler              = [[Council of Four]]
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = [[Parliament of Peers]]
+| judiciary          = 
+| allegiances        = [[Lords' Alliance]]
+| govrefs            = <ref name="SCAG-p43" /><ref name="SCAG-p45" /><ref name="BG.DiA-p159" />
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 125,000
+| popyear1           = 1492
+| population2        = 120,000–140,000
+| popyear2           = 1479
+| population3        = 42,103
+| popyear3           = 1372
+| population4        = 86,000–115,000
+| popyear4           = 1358
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="FRA-p76" /><ref name="FRCS3e-p225" /><ref name="FRCG-p94" /><ref name="BG.DiA-p159">{{Cite book/Baldur's Gate: Descent into Avernus|159}}</ref>
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = yes
+| items              = yes
+}}
+'''Baldur's Gate''', called the '''City of Blood'''<ref name="BG-DiA-p12" /> and simply  '''the Gate''',<ref name="Shadowmask-p113">{{Cite book/The Shadowmask/Hardcover|113}}</ref> was one of the largest metropolises and city-states on the [[Sword Coast]], within the greater [[Western Heartlands]]. It was a crowded city of commerce and opportunity,<ref name="FRPG-p82">{{Cite book/Forgotten Realms Player's Guide|82}}</ref> and one of the most prosperous and influential merchant cities on the western coast of [[Faerûn]].<ref name="FRCS3e-p225">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|225}}</ref><ref name="FRCG-p94">{{Cite book/Forgotten Realms Campaign Guide|94}}</ref> Despite its long-standing presence as a neutral power, the leaders of Baldur's Gate were members of the [[Lords' Alliance]] of powers in [[West Faerûn|the west]].<ref name="FRA-p73">{{Cite book/Forgotten Realms Adventures|73}}</ref><ref name="SCAG-p43">{{Cite book/Sword Coast Adventurer's Guide|43}}</ref> It was described as being the '''"halfway to everywhere"'''.<ref name="LC-ANE" /><ref name="AGTotR-p87">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|87}}</ref><ref name="TFRA-p87">{{Cite book/The Forgotten Realms Atlas|87}}</ref><ref>{{Cite book/The Halfling's 
+
+=== LINKED WIKI PAGE (first 5000 chars): Nihiloor
+
+{{Person
+| image          = Nihiloor-5e.jpg
+| caption        = Nihiloor and its pet intellect devourers.
+| name           = Nihiloor
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]]<ref name="WDH5e-p212">{{Cite book/Waterdeep: Dragon Heist|212}}</ref>
+| formerhomes    = 
+| gender         = 
+| race           = [[Mind flayer]]<ref name="WDH5e-p212" />
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = 
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Lawful evil]]
+| challenge5e    = 7
+| class5e        = 
+| refs5e         = <ref name="WDH5e-p212" /><ref name="MM5e-p222">{{Cite book/Monster Manual 5th edition|222}}</ref>
+}}
+'''Nihiloor''' ({{Pronounce|NY|heh|loor|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}) was a [[mind flayer]] who worked for the [[Xanathar's Thieves' Guild]] in the late 15{{th}} century [[DR]], by creating and spreading [[intellect devourer]]s throughout the sewers of [[Waterdeep]].<ref name="WDH5e-p212" />
+
+==Personality==
+The illithid had an alien mind and enjoyed scheming and plotting from the shadows. It considered itself Xanathar's equal but had no interest in supplanting the [[beholder]].<ref name="WDH5e-p212" />
+
+==Activities==
+Nihiloor's main activity was to create [[intellect devourer|intellect devourers]]. It set them loose in Waterdeep, either in search for random targets to control or, occasionally, after specific targets such as members of the [[City Watch (Waterdeep)|City Watch]] or [[City Guard (Waterdeep)|City Guard]]. Individuals dominated by the intellect devourers then proceeded to act as spies for Nihiloor or, in specific cases, to capture and bring slaves or hostages to [[Skullport]].<ref name="WDH5e-p212" />
+
+==Appendix==
+===Appearances===
+{{Appearances
+|adventures = ''[[Waterdeep: Dragon Heist]]''
+|video games = ''[[Idle Champions of the Forgotten Realms]]''
+|board games = ''[[Dungeons & Dragons Dice Masters: Trouble in Waterdeep]]'';''[[Horrified: Dungeons & Dragons]]''
+|card games = {{MTGapp|AFC}}
+}}
+
+===References===
+{{Refs}}
+[[Category:Mind flayers]]
+[[Category:Members of the Xanathar's Thieves' Guild]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of North Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Xanathar (Zushaxx)
+
+{{Otheruses4|the [[beholder]] that led the [[Xanathar's Thieves' Guild]] in the late 15{{th}} century DR|other uses|Xanathar}}
+{{Person
+| image          = <gallery>
+Xanathar (Zushaxx) 5point5e.jpg|5eR
+Zushaxx.jpg|5e
+</gallery>
+| caption        = Zushaxx chasing an intruder.
+| name           = Zushaxx
+| alt_spelling   = 
+| titles         = [[Xanathar (title)|Xanathar]]
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Xanathar's Lair]]
+| formerhomes    = 
+| sex            = 
+| gender         = Genderless
+| race           = [[Beholder]]
+| ethnicity      = 
+| occupation     = Crime syndicate leader
+| age            = 
+| patron deity   = 
+| languages      = [[Deep Speech]], [[Undercommon]]
+| basicrefs      = <ref name="WDH-p99-114">{{Cite book/Waterdeep: Dragon Heist|99-114}}</ref>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = Unspecified offspring
+| familyrefs     = <ref name="tCaT-92">{{Cite book/To Catch a Thief|92}}</ref>
+| dynasty        = 
+| start of reign = [[1466 DR]]
+| end of reign   = 
+| predecessor    = [[Izulktur]]
+| successor      = 
+| successionrefs = <ref name="DUnMag206-Xanathar-p1" />
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Lawful evil]]
+| challenge5e    = 13
+| class5e        = 
+| refs5e         = <ref name="MM5-p28">{{Cite book/Monster Manual 5th edition|28}}</ref>
+}}
+'''Zushaxx''' was a [[Xanathar]], the leader of the [[Xanathar's Thieves' Guild]] in [[Waterdeep]], throughout much of the late 15{{th}} century [[DR]].<ref name="DUnMag206-Xanathar-p1">{{Cite dungeon/206/The Xanathar: Crime Lord of Waterdeep|1-2}}</ref>
+
+==Personality==
+Zushaxx was paranoid and megalomaniacal.<ref name="WDH-p6">{{Cite book/Waterdeep: Dragon Heist|6}}</ref> It was also more ambitious and impulsive than many previous Xanathars, and hungered for knowledge, information, and wealth.<ref name="DUnMag206-Xanathar-p1" /><ref name="WDH-p6" />
+
+Zushaxx was fascinated by [[Elf|elves]], and often surrounded itself with elf slaves. It also enjoyed bright and vivid colors, naming three lairs after its favorite hues.<ref name="DUnMag206-Xanathar-p5">{{Cite dungeon/206/The Xanathar: Crime Lord of Waterdeep|5}}</ref>
+
+==History==
+Zushaxx was at least the fifteenth Xanathar: the remains of thirteen previous Xanathars remained in its lair<ref name="WDH-p112">{{Cite book/Waterdeep: Dragon Heist|112}}</ref> and at least one [[Xandulzrithral|previous Xanathar]] had peacefully retired from the position.<ref name="DUnMag206-Xanathar-p1" />
+
+Sometime ''circa'' [[1466 DR]], Zushaxx, a relatively young beholder, took over as the Xanathar from [[Izulktur]], the previous Xanathar, who was born of the same beholder cluster. With the support of the [[drow]] servant [[Kal'dir]], Zushaxx quickly established itself as the new Xanathar. It spent the first year as the guild leader poring over the library amassed by its predecessors, which fueled a desire to amass more information.<ref name="DUnMag206-Xanathar-p1" />
+
+By [[1479 DR]], it had established itself as one of the more ambitious Xanathars, and it was considering whether to break with the longstanding tradition of keeping its identity as a beholder a secret, as all of its predecessors had done.<ref name="DUnMag206-Xanathar-p1" />
+
+In [[1491 DR]], the Xanathar, in cahoots with the [[mind flayer]] [[Suthool]] and the agent of [[Asmodeus]] [[Belvarra Bowmantle]], supported the plots of the [[Masked Lord]] [[Braethan Cazondur]] in order to distract the [[City Watch (Waterdeep)|City Watch]] and the [[Open Lord]]s from its operation in [[Skullport]] and to gain power in order to expel the [[Zhentarim]] from [[Waterdeep]].<ref name=":0">{{Cite book/Death Masks|180-181}}</ref>
+
+The next year, Zushaxx started a street war in Waterdeep between its guild and the [[Zhentarim]] over possession of the ''[[Stone of Golorr]]'', which was understood to be the key to finding the lost wealth embezzled from Waterdeep by [[Dagult Neverember]].<ref name="WDH-p5">{{Cite book/Waterdeep: Dragon Heist|5}}</ref>{{Waterdeep-time}}
+
+==Possessions==
+Xanathar wore a ''[[ring of invisibility]]'', a ''[[ring of mind shielding]]'', and a ''[[ring of resistance]]'' on its eyestalks.<ref name="WDH-p220">{{Cite book/Waterdeep: Dragon Heist|220}}</ref>
+
+==Rumors and Legends==
+Some believed that the Xanathar possessed a magical object, carried by one of its henchmen, through which it could project its eye rays and that it had put numerous [[Lords of Water
+
+=== LINKED WIKI PAGE (first 5000 chars): Ahmaergo
+
+{{Person
+| image          = [[File:Ahmaergo.png|250px]]
+| caption        = 
+| name           = Ahmaergo
+| alt_spelling   = 
+| titles         = Third of the Hand, Master of Slavery<ref name="CaD-p141"/><br/> Lord of Iron<ref name="CaD-p147">{{Cite book/Cloak and Dagger|147}}</ref>
+| aliases        = 
+| nicknames      = Horned Dwarf<ref name="CaD-p141"/>
+| true name      = 
+| home           = [[Skullport]], [[Undermountain]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Dwarf]]<ref name="CaD-p141"/>
+| ethnicity      = [[Shield dwarf]]<ref name="WDH5e-p193"/>
+| occupation     = Majordomo<ref name="WDH5e-p193"/>
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Dwarvish]], [[Undercommon]]<ref name="WDH5e-p193"/>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = [[Lawful evil]]
+| class2e        = {{class table|edition=2e|[[Fighter]]|9}}
+| refs2e         = <ref name="CaD-p141">{{Cite book/Cloak and Dagger|141}}</ref>
+| alignment3e    = [[Lawful evil]]
+| challenge3e    = 
+| class3e        = {{class table|edition=3e|[[Fighter]]|9}}
+| refs3e         = <ref name="CoSW-64">{{Cite book/City of Splendors: Waterdeep|64}}</ref>
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Lawful evil]]
+| challenge5e    = 9
+| class5e        = 
+| refs5e         = <ref name="WDH5e-p193"/>
+}}
+'''Ahmaergo''' ({{Pronounce|ah|MAIR|go|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}) was a member of the [[Iron Ring]] and the most competent slaver of the [[Xanathar Thieves' Guild]] of [[Skullport]] since [[1370 DR]].<ref name="CaD-p141" /> As of [[1492 DR]]{{Waterdeep-time}}, he was the most influential person in the Guild after [[Xanathar]].<ref name="WDH5e-p193"/>
+
+==Personality==
+Ahmaergo had a fascination with [[minotaur]]s. He was devious and corrupt like a [[devil]] but totally loyal to his master.<ref name="WDH5e-p193" />
+ 
+==Possessions==
+He usually had many magical objects on his person for self-defense.<ref name="CaD-p141" />
+
+==Activities==
+Ahmaergo was in charge of buying and selling the slaves acquired by the Guild. He also was in charge of the logistic aspects of the slave market, moving them to and from those involved.<ref name="CaD-p141" /> 
+
+Circa [[1370 DR]], he was linked to the [[Black Tankard]], a tavern in the [[Skullport/Lower Port|Lower Port]].<ref name="SP-p36-37">{{Cite book/Skullport|36-37}}</ref>
+
+Ahmaergo worked many for years in the Guild as a slaver but the Xanathar did not fully trust him and kept a close watch on him, usually via [[Avaereene]], the Guild's slave-taker. The dwarf hated this intrusion in his business. He was starting to get ambitious, wanting to leave the Xanathar and work as an independent slaver.<ref name="CaD-p141" />
+
+To add more temptation, Ahmaergo was also secretly one of the leaders of the Iron Ring. To others, he posed as a liaison with the Iron Ring.<ref name="CaD-p139-147">{{Cite book/Cloak and Dagger|139, 147}}</ref>
+
+==History==
+Around 1492 DR,{{Waterdeep-time}} Ahmaergo was the Xanathar's majordomo and the most influential member of the guild after his master.<ref name="WDH5e-p193">{{Cite book/Waterdeep: Dragon Heist|193}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+|adventures = ''[[Waterdeep: Dragon Heist]]''
+|organized play = ''[[When the Lights Went Out in Candlekeep]]''
+}}
+===References===
+{{Refs}}
+[[Category:Fighters]]
+[[Category:Dwarves]]
+[[Category:Shield dwarves]]
+[[Category:Slavers]]
+[[Category:Members of the Xanathar's Thieves' Guild]]
+[[Category:Members of the Iron Ring]]
+[[Category:Inhabitants of the Lower Port of Skullport]]
+[[Category:Inhabitants of Skullport]]
+[[Category:Inhabitants of Undermountain]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+
+[[fr:Ahmaergo]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Avaereene
+
+{{Person
+| image          = File:Randulaith-Avaereene.jpg
+| caption        = Avaereene (right) with [[Randulaith]], [[1368 DR]].
+| name           = Avaereene
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Undermountain]], [[Waterdeep]]
+| formerhomes    = 
+| sex            = Female
+| gender         = 
+| race           = [[Lich]],<ref name="D-206">{{Cite book/Downshadow|206}}</ref> {{former}} [[human]]<ref name="CoSW-p65"/>
+| ethnicity      = [[Tethyrian]]
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = 
+| basicrefs      = <ref name="CoSW-p65">{{Cite book/City of Splendors: Waterdeep|65}}</ref>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = [[Lawful evil]]
+| challenge35    = 12
+| class35        = {{class table|edition=3e|[[Wizard]]|12|}}
+| refs35         = <ref name="CoSW-p65"/>
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Avaereene''' was a [[lich]] and a former [[human]] [[wizard]] who was one of the most trusted agents of the [[Kirukeskai|Xanathar]], the leader of the [[Xanathar Thieves' Guild]] of [[Skullport]]. She oversaw the guild's slavery operations.<ref name="CoSW-p65" />
+
+==Personality==
+Avaereene was a cruel and efficient person; she enjoyed creating [[darkenbeast]]s to serve her deadly whims, and she intended to supplant the [[Khelben Arunsun|Blackstaff]] as the most powerful mage of Waterdeep.<ref name="CoSW-p65" /> She formerly used her beauty and acting skills to entice adventurers into her slaving activities, but by [[1368 DR]]–[[1370 DR]] was coordinating activities behind the scenes. By this time, she was using a [[cantrip]] to conceal her graying hair and was feeling lonely due to her mistrust of others. She was planning to use magic to stay young once she had surpassed the Blackstaff.<ref>{{Cite book/Cloak & Dagger|141}}</ref>
+
+==History==
+[[File:Xanathar'sThieves'Guild.jpg||thumb|left|200px|''Avaereene (far left) with other members of Xanathar's Thieves' Guild.'']]
+Avaereene was a skilled mage and slaver who served the Eye, capturing potential slaves in the seamier wards of Waterdeep at night. She led the Eye's snatch-and-grab kidnapping agents, known as the Hand. She commanded great loyalty from her forces, and they did anything to prevent her harm or capture.<ref name="CoSW-p65" /> 
+
+From [[1358 DR]] to [[1372 DR]], she was renting rooms above the Bent Nail on [[Black Cat Way]] in the [[North Ward]] of [[Waterdeep]]. She stowed a hidden cache of magic items and spellbooks in a cellar off the south end of [[Carter's Way]] in the [[Waterdeep/Southern Ward|Southern Ward]].<ref name="TRoU-109">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|109}}</ref><ref name="CoSW-p65" /> She also had quarters in the Eye's stronghold in Undermountain.<ref name="CoSW-p65" />
+
+By [[1479 DR]], Avaereene had become a [[lich]]<ref name="D-206" /> and was believed to have killed the Eye, although an ancient beholder called the [[Blind]] claimed to be the Eye and was actively seeking revenge on her.<ref name="Du200.BS">{{Cite dungeon/200/Backdrop: Skullport|73}}</ref> She was now the leader of her own thieves guild called the [[Sightless]].<ref name="D-187">{{Cite book/Downshadow|187}}</ref> She concealed her true lich form under the magic-wrought false appearance of a youthful, beautiful woman with a heart-shaped face, gold curly hair and a slender figure. [[Myrin Darkdance]] destroyed the illusion during a thwarted kidnapping attempt, revealing Avaereene's true form of a rotted corpse with red eyes.<ref name="D-183">{{Cite book/Downshadow|183}}</ref><ref name="D-204-207">{{Cite book/Downshadow|204-207}}</ref>
+
+==Appendix==
+===Appearances===
+* ''[[Downshadow (novel)|Downshadow]]''
+
+===References===
+{{refs}}
+[[Category:Wizards]]
+[[Category:Liches]]
+[[Category:Humans]]
+[[Category:Tethyrians]]
+[[Category:Slavers]]
+[[Category:Members of the Xanathar's Thieves' Guild]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of Undermountain]]
+[[Category:Inhabitants of the North Ward of Waterdeep]]
+[[Category:Inhabitants of Trollskull Alley]]
+[
+
+=== LINKED WIKI PAGE (first 5000 chars): Colstan Rhuul
+
+{{DEFAULTSORT:Rhuul, Colstan}}
+{{Person
+| image          = [[File:Xanathar'sThieves'Guild.jpg|250px]]
+| caption        = ''Colstan Rhuul (second from left) with other members of the [[Xanathar's Thieves' Guild]]''
+| name           = Colstan Rhuul
+| true name      = 
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| home           = [[Undermountain]], [[Waterdeep]], [[northwest Faerûn]]<ref name="CoSW-p65">{{Cite book/City of Splendors: Waterdeep|65}}</ref>
+| formerhomes    = 
+| sex            = Male
+| race           = [[human]]<ref name="CoSW-p65"/>
+| occupation     = 
+| age            =
+| patron deity   = Bane
+| languages      = 
+| reckoning      = DR
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| class          = 
+| class1e        =
+| class2e        =
+| class3e        =
+| class35        = {{class table|edition=3e|[[cleric]]|11}}
+| refs35         = <ref name="CoSW-p65" />
+| class4e        =
+| class5e        =
+| refs1e         =
+| refs2e         =
+| refs3e         = 
+| refs4e         =
+| refs5e         =
+| alignment      = [[Lawful evil]]<ref name="CoSW-p65"/>
+| rules          = 
+|ethnicity=[[Illuskan]]}}
+'''Colstan Rhuul''' was an [[Illuskan]] [[human]] [[cleric]] of [[Bane]] and one of the most trusted agents of the [[Xanathar]], the leader of the [[Xanathar Thieves' Guild]] of [[Skullport]].
+
+==History==
+Colstan was a cleric of Bane, but he briefly turned to [[Cyric]], before coming back to Bane when his god returned in [[1372 DR]].
+
+==Activities==
+Colstan was second-in-command of the Hand, the snatch-and-grab kidnapping agents of the Eye. He prided himself knowing by sight all the major players in Waterdhavian politics, though not necessarily the most famous. His main hobby was the uncovering identities of the [[Lords of Waterdeep]]. He managed to identify [[Brianne Byndraeth]], a revelation that was very useful for his fellow Xanathar agent, [[Randulaith]].
+
+He usually sent hireswords to start a brawl or similar incident with all new adventurers in the city, in order to steal their belongings and get them captured by the Hand.<ref name="CoSW-p65" />
+
+==Personality==
+Colstan was a patient, calculating schemer who avoided personal danger whenever he can, preferring to work at a distance through hired knives and behind-the-scenes manipulation.<ref name="CoSW-p65" />
+
+==Appendix==
+===References===
+{{refs}}
+[[FR:Colstan Rhuul]]
+[[Category:Clerics]]
+[[Category:Clerics of Bane]]
+[[Category:Humans]]
+[[Category:Illuskans]]
+[[Category:Slavers]]
+[[Category:Members of the Xanathar's Thieves' Guild]]
+[[Category:Inhabitants of Undermountain]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+[[Category:Worshipers of Bane]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Shindia Darkeyes
+
+{{DEFAULTSORT:Darkeyes, Shindia}}
+{{Person
+| image          = Shindia Darkeyes.png
+| caption        = Shindia serves in [[Xanathar]]'s lair.
+| name           = Shindia Darkeyes
+| true name      = 
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| home           = [[Skullport]], [[Undermountain]]<ref name="VL-p122">{{Cite book/Villains' Lorebook|122}}</ref><ref name="CoS.W-p64">{{Cite book/City of Splendors: Waterdeep|64}}</ref>
+| formerhomes    = 
+| sex            = Female<ref name="WatN-p57" /><ref name="VL-p122" /><ref name="CoS.WWiW-p89">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|89}}</ref><ref name="CoS.W-p64" />
+| race           = [[Half-drow]]<ref name="WatN-p57">{{Cite book/Waterdeep and the North|57}}</ref> [[half-elf|elf]]<ref name="VL-p122" /><ref name="CoS.WWiW-p89" /><ref name="CoS.W-p64" />
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = 
+| reckoning      = DR
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| alignment      = 
+| class          = 
+| rules          = 
+| alignment1e    = 
+| class1e        = {{class table|edition=1e|[[Thief]]|7}}
+| refs1e         = <ref name="WatN-p57" />
+| alignment2e    = [[Chaotic evil]]
+| class2e        = {{class table|edition=2e|[[Thief]]|9}}
+| refs2e         = <ref name="VL-p122" /><ref name="CoS.WWiW-p89" />
+| alignment3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = [[Chaotic evil]]
+| class35        = {{class table|edition=3e|[[Rogue]]|9}}
+| refs35         = <ref name="CoS.W-p64" />
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Shindia Darkeyes''' was a female [[half-drow]] in the service of the [[Xanathar Thieves' Guild]].<ref name="WatN-p57" /><ref name="VL-p122" /><ref name="CoS.WWiW-p89" />
+
+In truth, she was the favorite servant of the original [[Xanathar (original)|Xanathar]], and when [[Xanathar|the Eye]] killed and impersonated Xanathar, she agreed to join the reformed organization, but in secret she plotted to destroy the Eye, with help from the [[mind flayer]]s of [[Ch'Chitl]]. Unknown to her, the Eye knew all about her plots.<ref name="CaD-p141">{{Cite book/Cloak and Dagger|141}}</ref>
+
+==Personality==
+She ran the blackmail, extortion, and information-gathering operations of the guild.<ref name="WatN-p57" /><ref name="VL-p122" /><ref name="CoS.WWiW-p89" />
+
+==Appendix==
+===Appearances===
+{{Appearances
+|comics = {{Comapp|Advanced Dungeons & Dragons (comic series)|9|10|11|12}}
+|video games = ''[[Eye of the Beholder (game)|''Eye of the Beholder'']]
+}}
+<gallery>
+Xanathar'sThieves'Guild.jpg| ''Shindia Darkeyes (third from left) with other members of the [[Xanathar's Thieves' Guild]]''
+</gallery>
+===References===
+{{refs}}
+[[FR:Shindia Noirzyeux]]
+[[Category:Thieves]]
+[[Category:Rogues]]
+[[Category:Half-drow]]
+[[Category:Half-elves]]
+[[Category:Members of the Xanathar's Thieves' Guild]]
+[[Category:Inhabitants of Skullport]]
+[[Category:Inhabitants of Undermountain]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Nar'l Xibrindas
+
+{{DEFAULTSORT:Xibrindas, Nar'l}}
+{{Person
+| image          = Nar'l Xibrindas and Grell.jpg
+| caption        = Nar'l with his grell bodyguard.
+| name           = Nar'l Xibrindas
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Drow]]
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = 
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = [[Soluun Xibrindas]]
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = [[Mage]]
+| refs5e         = <ref name="WDH5e-p211">{{Cite book/Waterdeep: Dragon Heist|211}}</ref>
+}}
+'''Nar'l Xibrindas''' ({{Pronounce|NAR|ul|_|zeh|BRIN|das|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}) was the [[wizard]] advisor of the [[Xanathar]] in [[Waterdeep]] during the early 1490s [[DR]].<ref name="WDH5e-p211" />
+ 
+==Activities==
+Usually Nar'l was in the audience chamber inside the Xanathar's lair.<ref name="WDH5e-p107">{{Cite book/Waterdeep: Dragon Heist|107}}</ref>
+
+==History==
+The family's house was destroyed and only Nar'l and his elder brother [[Soluun Xibrindas|Soluun]] survived. They decided to join [[Bregan D'aerthe]].
+
+In [[1491 DR]], Nar'l was assigned a mission to infiltrate the [[Xanathar's Thieves' Guild]] and get closer to the [[beholder]] crime lord. Nar'l was so successful that he became the only advisor of the Xanathar.<ref name="WDH5e-p211" />
+
+In [[1492 DR]],{{WDH-time}} however, Nar'l was worried about the growing paranoia of the beholder, who'd started to suspect something about the drow.<ref name="WDH5e-p211" /> [[Jarlaxle]] too believed that Nar'l was double-crossing Bregan D'aerthe and was willingly working with the beholder.<ref name="WDH5e-p64">{{Cite book/Waterdeep: Dragon Heist|64}}</ref>
+
+==Personality==
+Nar'l was a nervous individual. He always chose his personal safety over that of his allies. He had with him a secret poison to blind the Xanathar.<ref name="WDH5e-p211" /> 
+
+==Relationship==
+Nar'l had always at his side a [[grell]] bodyguard assigned by the Xanathar; the grell had secret orders to dispose of the drow if it saw signs of disloyalty.<ref name="WDH5e-p211" />
+
+==Appendix==
+===Notes===
+{{Notes}}
+ 
+===Appearances===
+:;Adventures
+::''[[Waterdeep: Dragon Heist]]''
+:;Board Games
+::''[[Dungeons & Dragons Dice Masters: Trouble in Waterdeep]]''
+
+===References===
+{{Refs}}
+[[Category:Wizards]]
+[[Category:Mages (5e)]]
+[[Category:Drow]]
+[[Category:Advisors]]
+[[Category:Members of Bregan D'aerthe]]
+[[Category:Members of the Xanathar's Thieves' Guild]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Noska Ur'gray
+
+{{DEFAULTSORT:Ur'gray, Noska}}
+{{Person
+| image          = Noska.jpeg
+| caption        = 
+| name           = Noska Ur'gray
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Dwarf]]
+| ethnicity      = [[Shield dwarf]]
+| occupation     = Enforcer<ref name="WDH5e-p213" />
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Dwarvish]] 
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Neutral evil]]
+| challenge5e    = 
+| class5e        = [[Thug]]
+| refs5e         = <ref name="WDH5e-p213">{{Cite book/Waterdeep: Dragon Heist|213}}</ref>
+}}
+'''Noska Ur'gray''' was an enforcer of the [[Xanathar's Thieves' Guild]] in [[Waterdeep]] during the early 1490s [[DR]].<ref name="WDH5e-p213" />
+ 
+==Activities==
+Noska was the chief enforcer for the [[Xanathar]]. He lived inside the [[beholder]]'s lair.<ref name="WDH5e-p104-105">{{Cite book/Waterdeep: Dragon Heist|104-106}}</ref> During the gladiator tournaments organized by his master, Noska managed the fighters.<ref name="WDH5e-p114">{{Cite book/Waterdeep: Dragon Heist|114}}</ref>
+
+==History==
+Once Noska lost his left hand and forearm to a [[green slime]]'s attack. He replaced the missing part with a heavy crossbow attached to the stump.<ref name="WDH5e-p213" />
+
+In [[1492 DR]],{{WDH-time}} if the [[Xanathar]] managed to obtain the ''[[Stone of Golorr]]'', he entrusted the Stone to [[Grinda Garloth]].<ref name="WDH5e-p57">{{Cite book/Waterdeep: Dragon Heist|57}}</ref> She agreed to take custody of the Stone but changed her mind and decided to use it for herself, ordering her [[familiar]] to hide it. Noska led a band of the Xanathar's minions to besiege Grinda in order to steal back the Stone.<ref name="WDH5e-p66-67">{{Cite book/Waterdeep: Dragon Heist|66-67}}</ref>
+
+==Relationship==
+Noska was one of the most trusted underlings of the Xanathar.<ref name="WDH5e-p66-100">{{Cite book/Waterdeep: Dragon Heist|100}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+ 
+===Appearances===
+{{Appearances
+| adventures = ''[[Waterdeep: Dragon Heist]]''
+| video games = ''[[Idle Champions of the Forgotten Realms]]''
+| board games = ''[[Horrified: Dungeons & Dragons]]''
+}}
+
+===References===
+{{Refs}}
+[[Category:Dwarves]]
+[[Category:Shield dwarves]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+[[Category:Members of the Xanathar's Thieves' Guild]]
+[[Category:Thugs (5e)]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Daggerford
+
+{{GA}}
+{{Location
+| image              = NWN.DoD cinematic Daggerford.png
+| caption            = Daggerford circa [[1372 DR]].
+| name               = Daggerford
+| alt spelling       = 
+| aliases            = 
+| type               = Settlement
+| region             = [[Delimbiyr Vale]], [[Sword Coast]]
+| size               = Small town
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="VoloSC-p34" /><ref name="NGSF-D-p2" /><ref name="FRCS3e-p227" /><ref name="UI.DIA">{{Cite book/Under Illefarn/Daggerford Immediate Area}}</ref>
+| demonym            = 
+| population         = 
+| races              = [[Dwarves]], [[halfling]]s, [[human]]s
+| languages          = 
+| religion           = [[Amaunator]], [[Chauntea]], [[Lathander]], [[Tempus]], [[Tymora]]
+| alignment          = 
+| socrefs            = <ref name="VoloSC-p34" /><ref name="NGSF-CC-p63">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|63}}</ref><ref name="SSC-p20" />
+| imports            = Green wood
+| exports            = Furs, garments
+| currency           = 
+| comrefs            = <ref name="VGSC-p32" /><ref name="NGSF-CC-p3">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|3}}</ref>
+| government         = Oligarchy
+| rulertype          = Duke/Duchess<br />(head of state)
+| ruler              = [[Council of Guilds]]
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = <ref name="NGSF-D-p3" /><ref name="UF-p7" />
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = Castle Daggerford built
+| date1              = 931
+| event2             = Council of Guilds founded
+| date2              = 1320
+| event3             = [[Battle of Daggerford]]
+| date3              = 1363
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 300 (1000 overall)
+| popyear1           = 1347
+| population2        = 500
+| popyear2           = 1370
+| population3        = 891
+| popyear3           = 1372
+| population4        = 1200
+| popyear4           = 1485
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = [[Conan Daggerford]]
+| ruleryear1         = 1320
+| ruler2             = [[Pryden Daggerford]]
+| ruleryear2         = 1356
+| ruler3             = [[Pwyll Daggerford|"Greatshout" Daggerford]]
+| ruleryear3         = 1370
+| ruler4             = [[Maldwyn Daggerford]]
+| ruleryear4         = 1485
+| ruler5             = [[Morwen Daggerford]]
+| ruleryear5         = 1489
+| rulertable         = 
+| histrefs           = <ref name="VoloSC-p34" /><ref name="NGSF-D-p2" /><ref name="NGSF-D-p3" /><ref name="UF-p7" /><ref name="FRCS3e-p227">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|227}}</ref><ref name="GHotR-p146">{{Cite book/The Grand History of the Realms|146}}</ref><ref name="GCS-p134" /><ref name="SCAG-p47" />
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = 
+| food and drink     = 
+| items              = yes
+}}
+'''Daggerford''' was a small but consequential town located in the [[Delimbiyr Vale]] within the greater [[Sword Coast]].<ref name="NGSF-D-p2" /><ref name="SSC-p12" /><ref name="GCS-p134">{{Cite book/Ghosts of Dragonspear Castle|134}}</ref> While it was primarily a farming community, and considered by some to be a mere stopover, the town had great ambitions to grow and be seen as an alternative to their northern neighbor of [[Waterdeep]].<ref name="NGSF-D-p3" /><ref name="FRCS3e-p227" /> 
+
+Despite its modest size and somewhat inflated sense of importance, Daggerford was resilient. It was something of a relic from the old kingdom of [[Delimbiyr]],<ref name="SSC-p12">{{Cite book/Scourge of the Sword Coast|12}}</ref> too stubborn to fall even when a series of wars, crusades, and other conflicts threatened the entirety of the Sword Coast.<ref name="BG.SoD" /> Daggerford's coat-of-arms was a ''[[silver]] [[dagger]]'', covered in blood atop a field of dark blue.<ref name="VoloSC-p34" />
+
+{{TOC limit|3}}
+==Description==
+It was a walled settlement with a population that by and large lived in the outlying hamlets, farms, and estates, rather than within the town proper. As such, the streets of Daggerford were not densely populated.<ref name="FH-p76" /> The town was significantly refurbished during the 13{{th}} century when many of its 40-odd wooden structures were remade in stone by the dwarves of [[Clan Ironeater]].<ref name="NGSF-D-p2" /><ref name="FRC
+
+=== LINKED WIKI PAGE (first 5000 chars): Ott Steeltoes
+
+{{DEFAULTSORT:Steeltoes, Ott}}
+{{Person
+| image          =
+<gallery> 
+Ott Steeltoes WDH.jpg|5e 
+Xanathar'sThieves'Guild.jpg|2e 
+</gallery>
+| caption        = ''Ott Steeltoes (second from right) with other members of the [[Xanathar's Thieves' Guild]].''
+| name           = Ott Steeltoes
+| true name      = 
+| alt_spelling   = 
+| titles         = Master of Smuggling and Thieving<ref name="CaD-p143" />
+| aliases        = Ott Ironmaster
+| nicknames      = Steeltoes
+| home           = [[Skullport]], [[Undermountain]]<ref name="CaD-p143">{{Cite book/Cloak and Dagger|143}}</ref>
+| formerhomes    = 
+| sex            = Male
+| race           = [[Dwarf]]<ref name="CaD-p143" />
+| occupation     = 
+| age            =
+| patron deity   = [[Zuggtmoy]]<ref name="WDH5e-p213">{{Cite book/Waterdeep: Dragon Heist|213}}</ref>
+| languages      = 
+| reckoning      = DR
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| class          = 
+| class1e        =
+| class2e        ={{class table|edition=2e|[[Fighter]]|7|[[Thief]]|8}}
+| class3e        =
+| class35        =
+| class4e        =
+| class5e        = [[Cultist]]
+| refs1e         =
+| refs2e         =
+| refs3e         =
+| refs35         = 
+| refs4e         =
+| refs5e         = <ref name="WDH5e-p213" />
+| alignment      = [[Neutral evil]]<ref name="CaD-p143" />
+| rules          = 
+| source         = 
+| page           =
+}}
+'''Ott Steeltoes''' was the most competent smuggler of the [[Xanathar Thieves' Guild]] of [[Skullport]].<ref name="CaD-p143" />
+
+==History==
+Ott was a renegade of the [[Ironmaster]] clan. He first worked as a pirate, but later was offered a place in the Xanathar's Thieves' Guild. He quickly accepted, liking the prospect of more power and a less dangerous life.<ref name="CaD-p143" />
+
+In the mid-to-late 14{{th}} century [[DR]], the reorganization of the guild (and the secret change of the guild master) gave him more freedom in his thieving operations, which Ott greatly enjoyed. He became good friends with [[Ahmaergo]] and the two [[dwarves]] often drank together.<ref name="CaD-p143" />
+
+Around [[1492 DR]] Ott was the caretaker of [[Sylgar]], the pet fish of the [[Xanathar]].<ref name="WDH5e-p213" />{{Waterdeep-time}}
+
+==Appendix==
+{{Incomplete|}}
+===Notes===
+{{Notes}}
+
+===Appearances===
+{{Appearances
+| adventures = ''[[Waterdeep: Dragon Heist]]''
+| video games = ''[[Idle Champions of the Forgotten Realms]]''
+| board games = ''[[Horrified: Dungeons & Dragons]]''
+| organized play = ''[[When the Lights Went Out in Candlekeep]]''
+}}
+
+===Gallery===
+<gallery>
+Ott_Steeltoes_and_Sylgar.webp|''Ott Steeltoes with a Sylgar in the late 15{{th}} century DR.''
+</gallery>
+
+===References===
+{{Refs}}
+[[FR:Ott Orteildacier]]
+[[Category:Fighters]]
+[[Category:Thieves]]
+[[Category:Shield dwarves]]
+[[Category:Pirates]]
+[[Category:Smugglers]]
+[[Category:Members of the Xanathar's Thieves' Guild]]
+[[Category:Inhabitants of Undermountain]]
+[[Category:Inhabitants of Skullport]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Worshipers of Zuggtmoy]]
+
