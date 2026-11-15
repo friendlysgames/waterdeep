@@ -74,7 +74,7 @@ The meeting at Ahghairon's Statue proceeds **at highsun**. She chose the open ho
 
 **Branch Outcomes:**
 
-**Help her.** She stays hidden for a tenday, then vanishes south. She leaves a handwritten note: the name and location of a Zhentarim courier cache in the South Ward that the party can raid without Manshoon's cell knowing for at least a month. Doom Raiders renown +2 if the party reports the arrangement to Tashlyn.
+**Help her.** She stays hidden for a tenday, then vanishes south. She leaves a handwritten note: the name and location of a Zhentarim courier cache in the Southern Ward that the party can raid without Manshoon's cell knowing for at least a month. Doom Raiders renown +2 if the party reports the arrangement to Tashlyn.
 
 **Turn her in.** City Watch takes her. The moneylending ledger surfaces in the Watch's evidence log and quietly disappears within a week; someone on the force had a loan outstanding. The Watch contact improves for the party (reduced questioning on the Gralhund matter). Doom Raiders renown −2 if the party reports this to Tashlyn. Tashlyn does not explain why.
 
@@ -108,7 +108,7 @@ Within one to three days of the villa, the party's active faction contacts reque
 
 **Harpers (Mirt).** A Harper agent in the crowd outside the villa recognized at least one PC. If the party reports in first, Mirt receives the account with measured satisfaction and asks no follow-up questions. If they don't, he sends a note in his own handwriting: *"I heard Saerdoun Street was lively last night. Whenever you have a moment."* He would appreciate being told things that concern him before he learns them from someone else.
 
-**Lords' Alliance (Jalester).** His debrief request arrives within twenty-four hours. The Watch officers on the Saerdoun Street beat were transferred to a Far South Ward assignment the week before the raid. Jalester has traced the reassignment to a request from inside the Watch hierarchy; the source is unknown. He wants to know if the party saw any evidence of Watch coordination with Xanathar's Guild or the Gralhund household.
+**Lords' Alliance (Jalester).** His debrief request arrives within twenty-four hours. The Watch officers on the Saerdoun Street beat were transferred to a distant Southern Ward assignment the week before the raid. Jalester has traced the reassignment to a request from inside the Watch hierarchy; the source is unknown. He wants to know if the party saw any evidence of Watch coordination with Xanathar's Guild or the Gralhund household.
 
 **Emerald Enclave (Melannor).** Gralhund Villa sits over a minor ley line the Enclave monitors as part of Jeryth Phaulkon's aberrant-activity survey. Xanathar's Guild's presence in the neighborhood destabilized it over the past week in a way that correlates with Nihiloor's movements below the city. Melannor wants to know what the party observed. For the map.
 
