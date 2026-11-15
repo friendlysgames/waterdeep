@@ -64,7 +64,7 @@ Manshoon is a centuries-old wizard, a clone of a clone of the Zhentarim's founde
 | The Doom Raiders | Rival cell | The clone peeled off their network and regards them as deserters `[research]`; the two cells are at active war |
 | Xanathar | Rival | Useful; the Guild's visibility keeps the Watch occupied `[research]`; when the beholder becomes a direct obstacle, Manshoon has a plan |
 | Jarlaxle | Mutual wariness | The only Grand Game player Manshoon takes seriously; non-interference arrangement, fragile; Jarlaxle has better intelligence and both know it `[research]` |
-| The Cassalanters | Missed opportunity | Manshoon is as suspicious of their wealth and spotless name as everyone else, and a hold on them could have been leveraged; he chose independence over shared control `[research]` |
+| The Cassalanters | Missed opportunity | Manshoon is as suspicious of their wealth and spotless name as everyone else, and an arrangement with them could have given him leverage; he chose independence over shared control `[research]` |
 | The PCs | Escalating problem | Early: noise; mid-campaign: a problem to solve; first solution is always a job offer, not an assassination |
 
 **Relationship notes**
