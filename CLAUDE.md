@@ -180,11 +180,11 @@ All setting files are structuring drafts.
 | `lore/` | The Stone of Golorr and the Eyes; The Vault of Dragons and Neverember's Embezzlement |
 | `deities/` | The Deities hub plus 73 pages: Faerûnian gods, Siamorphe, other pantheons' heads and warlock patrons |
 | `history/` | The History hub, eight era pages (`01`-`08`) and Timekeeping and the Festival Calendar (`09`): Ahghairon through the players' arrival, with a dated Timeline where sources settle one |
-| `grand-game.md` | In-world Grand Game frame; faction starting knowledge table |
-| `villains/xanathar.md` | 3 personality phases, relationships, goals, Sylgar note |
-| `villains/manshoon.md` | 3 phases (incl. Simulacrum), relationships, goals, Two Zhentarims DM note |
-| `villains/cassalanters.md` | 3 phases, relationships, goals, children timing note |
-| `villains/jarlaxle.md` | Zardoz Zord phase + adversary/ally tracks, relationships, goals, entry and activation note |
+| `the-grand-game/` | The Grand Game (in-world frame, how information moves, the City Watch as a character); What Each Faction Knows at Start (the four-faction table, the Doom Raiders and Gralhunds note, Dalakhar's employer). The table follows the GM Guide's **Running the Villains** where the two differ |
+| `villains/xanathar.md` | Identity, Background, 3 personality phases, relationships, goals, Sylgar note, Overview (reshaped in the pilot, reviewed in Pass 4) |
+| `villains/manshoon.md` | Identity (a clone of a clone), Background, 3 phases (Phase 3 by escalation tier, the simulacrum as insurance), relationships, goals, Two Zhentarims note, Overview |
+| `villains/cassalanters.md` | Identity, Background, 3 phases (Phase 3 dated to the Flamerule 1 feast and the Flamerule 11 due date), relationships, goals, children timing, public-safe Overview |
+| `villains/jarlaxle.md` | Identity, Background, Zardoz Zord phase + adversary/ally tracks, relationships, goals, Event Outcomes (Jarlaxle Informed, BD Contact Severed, Ryvarra Identified), Overview showing only the Zardoz Zord face |
 | `notable-figures/` | 122 NPC pages in 15 group folders (trollskull-community, independents-allies, independents-adversaries, city-officials, harpers, lords-alliance, emerald-enclave, order-of-the-gauntlet, force-grey, doom-raiders, bregan-daerthe, xanathars-guild, manshoons-zhentarim, cassalanters, gralhunds). One page per NPC: H1, `> **[GM]**` Gamemaster's Summary, ## Roleplaying Information, ## Character Information, ## Overview. |
 | `organizations/` | 10 faction pages: 01-harpers through 10-cassalanters. Lore only: Operations, Key Members, Grand Game Agenda, Overview. Game mechanics (stance, hooks, first meeting, renown, missions, response teams, outposts, escalation, revelation lists) live in the **Factions Guide**. |
 
