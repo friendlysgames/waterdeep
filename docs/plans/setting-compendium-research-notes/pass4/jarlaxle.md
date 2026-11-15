@@ -3,12 +3,12 @@
 ## Method and scope
 
 - **Campaign files read in full:** `campaign/setting/villains/jarlaxle.md` (70 lines); `campaign/setting/organizations/07-bregan-daerthe.md`; `campaign/setting/notable-figures/bregan-daerthe/01-jarlaxle-baenre.md`; `campaign/setting/notable-figures/bregan-daerthe/12-vessa.md`; `campaign/setting/notable-figures/bregan-daerthe/06-fenerus-stormcastle.md`; `campaign/setting/notable-figures/xanathars-guild/03-narl-xibrindas.md`; `campaign/setting/history/03-bregan-daerthes-long-road.md`; `campaign/setting/notable-figures/bregan-daerthe/02-soluun-xibrindas.md` (lines 1-30).
-- **Bundle files:** `sources/research/pass4-bundles/jarlaxle/adventure.txt` (146 lines, read in full; it is a set of excerpts of `adventure-wdh.json` at lines 513-566 and 32174-32260). `adventure-hits.txt` (147 lines, read in full). `wiki.txt` (1,875 lines): read lines 1-275 (Jarlaxle page), 300-479 (Bregan D'aerthe page), 481-586 (Nar'l Xibrindas page), 587-625 (linked Zardoz Zord page). Lines 626-1,875 (Luskan, Laeral and later pages) were checked only through grep. `campaign-hits.txt` is 595.7 KB; the Read tool refused it without `allow_large`, so I did not read it. I used my own greps of `campaign/` instead, which cover the same ground.
-- **Direct greps of `sources/adventure-wdh.json`** (whole file) for Lolth, Vessa, Kimmuriel, Zelifarn, Renaer, Nevercott, Rongquan, Erystian, Baenre, Luskan, Yvonnel, Doquaio, birth, "Eye", locket and magic mouth.
-- **Direct greps of `campaign/`** for Jarlaxle, Zardoz, Nevercott, Lolth, Vessa, Kimmuriel, Renaer, "Who Zord Is", "Jarlaxle Unmasked" and the outcome names.
-- **There is no separate Zardoz Zord page.** `campaign/setting/notable-figures/bregan-daerthe/` has twelve files. Zord is covered inside `01-jarlaxle-baenre.md`. The wiki has a separate linked Zardoz Zord page (`wiki.txt:587-625`).
+- **Bundle files:** `sources/research/pass4-bundles/jarlaxle/adventure.txt` (146 lines, read in full; excerpts of `adventure-wdh.json` at lines 513-566 and 32174-32260). `adventure-hits.txt` (147 lines, read in full). `wiki.txt` (1,875 lines): read lines 1-275 (Jarlaxle page), 300-479 (Bregan D'aerthe page), 481-586 (Nar'l Xibrindas page), 587-625 (linked Zardoz Zord page). Lines 626-1,875 (Luskan, Laeral and later pages) were checked only by grep. `campaign-hits.txt` is 595.7 KB; the Read tool refused it without `allow_large`, so I did not read it. My own greps of `campaign/` cover the same ground.
+- **Direct greps of `sources/adventure-wdh.json`** (whole file): Lolth, Vessa, Kimmuriel, Zelifarn, Renaer, Nevercott, Rongquan, Erystian, Baenre, Luskan, Yvonnel, Doquaio, birth, "Eye", locket, magic mouth.
+- **Direct greps of `campaign/`**: Jarlaxle, Zardoz, Nevercott, Lolth, Vessa, Kimmuriel, Renaer, "Who Zord Is", "Jarlaxle Unmasked", the outcome names.
+- **There is no separate Zardoz Zord page in the campaign.** `campaign/setting/notable-figures/bregan-daerthe/` has twelve files; Zord is covered inside `01-jarlaxle-baenre.md`. The wiki has a linked Zardoz Zord page (`wiki.txt:587-625`).
 - **Alexandrian PDF:** `sources/1. The Villains.pdf` has no text layer (7 pages, rendered as images). Quotes from it are transcriptions of page images and are marked "(transcribed from page image)".
-- **Not read:** `sources/Act_III_Arc_D.md`, Alexandrian Appendix D, and the `.docx` files (see section 10).
+- **Not read:** `sources/Act_III_Arc_D.md`, Alexandrian Appendix D, and the `.docx` files (section 10).
 - **Edition tags:** The published adventure is *Waterdeep: Dragon Heist* (cited `WDH`). Wiki Jarlaxle infobox: `alignment5e = [[Chaotic neutral]]`, `challenge5e = 15`, `refs5e = WDH5e-p206` (`wiki.txt:65-68`). Wiki Zardoz Zord page cites "Waterdeep: Dragon Heist" (`W-DH-p131`, `wiki.txt:626`). The adventure's stat text uses XP-based CR, for example `"It has a challenge rating of 8 (3,900 XP)."` (`sources/adventure-wdh.json:32233`).
 - **Session 47 rulings** are quoted as the campaign records them (history page, lines 160-164). I did not decide them.
 
@@ -38,7 +38,7 @@
 > "Jarlaxle's loyalties are to himself first and foremost, and to Bregan D'aerthe secondarily."
 > — `sources/adventure-wdh.json:32182`
 
-**Published adventure, Lords' Alliance (Sea Maidens Faire, "Facing Jarlaxle" area)**
+**Published adventure, Lords' Alliance (chapter 7 Sea Maidens Faire text; the line sits before the "Facing Jarlaxle" entry at `:22944`)**
 
 > "Jarlaxle, the leader of Bregan D'aerthe, sees membership in the Lords' Alliance as his path to power beyond Luskan. As the secret lord of a city with an unsavory reputation, he has had a hard time getting a seat at the table with other cities of the North when it comes to trade and defense of the region. Thus, he plans to use the stolen gold to bargain with {@creature Laeral Silverhand|WDH} for inclusion in the alliance, and to oust Neverwinter and its lord Dagult Neverember-Jarlaxle's fiercest political opponent-from the group."
 > — `sources/adventure-wdh.json:22941`
@@ -136,8 +136,8 @@
 
 ### Baenre ties (wiki only; the adventure has no mother, house or birth-order text)
 
-> "Jarlaxle was born to [[Yvonnel Baenre]], the [[matron mother]] of [[House Baenre]], the first house of Menzoberranzan. Due to the status of his birth order, Jarlaxle was to be sacrificed to [[Lolth]]. However, the sacrificial blade of Matron Baenre could not pierce the infant. Her second-oldest son, [[Doquaio Baenre]], was ordered to assist, but as he grabbed the infant, all of the kinetic energy of the attempted sacrifice was reflected on to him through the [[psionic]] power of the matron mother of [[House Oblodra]]. Doquaio was killed instead. (rest of the passage covers: Matron Baenre's fear of him, Lolth's favor and his rejection of her, and Kimmuriel's knowledge.)"
-> — `sources/research/pass4-bundles/jarlaxle/wiki.txt:96` (cites `RotP-p290-291`, `RotP-p296-297`, *Road of the Patriarch*)
+> "Jarlaxle was born to [[Yvonnel Baenre]], the [[matron mother]] of [[House Baenre]], the first house of Menzoberranzan. Due to the status of his birth order, Jarlaxle was to be sacrificed to [[Lolth]]. However, the sacrificial blade of Matron Baenre could not pierce the infant. Her second-oldest son, [[Doquaio Baenre]], was ordered to assist, but as he grabbed the infant, all of the kinetic energy of the attempted sacrifice was reflected on to him through the [[psionic]] power of the matron mother of [[House Oblodra]]. Doquaio was killed instead."
+> — `sources/research/pass4-bundles/jarlaxle/wiki.txt:96` (cites `RotP-p290-291`, `RotP-p296-297`, *Road of the Patriarch*; the same paragraph continues with Lolth's favor and his rejection of her, and with Kimmuriel's knowledge)
 
 > "Bregan D'aerthe enjoyed relative freedom from the Ruling Council, mostly because of its close relationship with [[House Baenre]] (into which Jarlaxle had in fact been born)."
 > — `sources/research/pass4-bundles/jarlaxle/wiki.txt:353`
@@ -145,7 +145,7 @@
 > "Jarlaxle was born to Yvonnel Baenre, the Matron Mother of House Baenre. The wiki cites Road of the Patriarch, Menzoberranzan: City of Intrigue and the Forgotten Realms Campaign Setting for his parentage, and the published adventure gives his surname as Baenre."
 > — `campaign/setting/history/03-bregan-daerthes-long-road.md:33`
 
-The adventure's only Baenre hits are the name string "Jarlaxle Baenre" (for example `sources/adventure-wdh.json:32174`, `"name": "Jarlaxle Baenre",`). A direct grep found no Yvonnel, Doquaio, birth or Kimmuriel line in the adventure.
+The adventure's Baenre hits are all the name string "Jarlaxle Baenre" (for example `sources/adventure-wdh.json:32174`, `"name": "Jarlaxle Baenre",`). A direct grep found no Yvonnel, Doquaio, birth or Kimmuriel line in the adventure.
 
 ### The third son question (unruled, per the handoff)
 
@@ -157,19 +157,25 @@ Campaign history, both sides as the page records them:
 > "> - **Research:** "The third son" is from the Jarlaxle NPC Guide docx (lines 51 and 62). The wiki calls Doquaio the second-oldest son (`Jarlaxle_Baenre.txt` line 96) and has Jarlaxle slated for sacrifice by birth order, which implies at least the third. The page keeps "third"."
 > — `campaign/setting/history/03-bregan-daerthes-long-road.md:148`
 
-Wiki side (no number is given for Jarlaxle; the words "third son" do not appear): "Her second-oldest son, [[Doquaio Baenre]], was ordered to assist" (`wiki.txt:96`, quoted in full above).
+Wiki side (no number is given for Jarlaxle; the words "third son" do not appear in the Jarlaxle page):
+
+> "Her second-oldest son, [[Doquaio Baenre]], was ordered to assist"
+> — `sources/research/pass4-bundles/jarlaxle/wiki.txt:96`
 
 Handoff (the "unruled" list):
 
-> "- [ ] **Unruled conflicts (left alone, defaults noted in the checker reports):** ... "third son" for Jarlaxle; Kimmuriel omitted; ..."
-> — `session 49 handoff.md:135` (the ellipses mark the omitted list items: Vajra's tenure, Meloon's devourer timing, Savra's departure, alignments, Kalain, Jalester, Xanathar predecessor count, Cassalanter gold, Osvaldo's alignment)
+> "- [ ] **Unruled conflicts (left alone, defaults noted in the checker reports):**"
+> — `session 49 handoff.md:135` (rest of the passage covers: Vajra's tenure, Meloon's devourer timing, Savra's departure, alignment differences, Kalain's stat block, Jalester's species, the Xanathar predecessor count, the Cassalanter gold, and Osvaldo's alignment)
+
+> "\"third son\" for Jarlaxle; Kimmuriel omitted;"
+> — `session 49 handoff.md:135` (same line as the quote above)
 
 Consistency note:
 
 > "15 [research] answer 03:38,147 "third son": W:Jarlaxle_Baenre:96 calls Doquaio Yvonnel's "second-oldest son"; Jarlaxle slated for sacrifice "due to birth order" (implies at least third). Default: keep "third"."
 > — `docs/plans/setting-compendium-research-notes/consistency-history-vs-wiki.md:22`
 
-A different person is also called "third son" in the bundle, so it should not be confused with Jarlaxle: `sources/research/pass4-bundles/cassalanters/wiki.txt:54` ("*[[Caladorn Cassalanter]]: The third son of the family who forewent his family to embark on adventure").
+A different person is also called "third son" in the bundle, so it should not be confused with Jarlaxle: `sources/research/pass4-bundles/cassalanters/wiki.txt:54`, "*[[Caladorn Cassalanter]]: The third son of the family who forewent his family to embark on adventure".
 
 ### Rise, Luskan and the Baenre-era business
 
@@ -254,8 +260,8 @@ Session 47 rulings and conflicts (campaign history):
 > "**Conflicts:** The nimblewrights. Luskan technomancers built them (the Alexandrian `1. The Villains.pdf` p.17; `Act_III_Arc_D.md` lines 271 and 467) against a Lantanese wizard (`adventure-wdh.json` line 4746). The count is four in the published adventure and nine in `arc-h` line 13."
 > — `campaign/setting/history/03-bregan-daerthes-long-road.md:163`
 
-> "NIMBLEWRIGHTS: One of Jarlaxle's main objectives right now is the sale of nimblewrights. Built by the technomancers of Luskan, he's brought several dozen of these constructs with him and is selling them at surprisingly compelling prices."
-> — `sources/1. The Villains.pdf`, printed p. 17 (transcribed from page image)
+> "Built by the technomancers of Luskan, he's brought several dozen of these constructs with him and is selling them at surprisingly compelling prices."
+> — `sources/1. The Villains.pdf`, printed p. 17 (transcribed from page image; the bullet begins "NIMBLEWRIGHTS: One of Jarlaxle's main objectives right now is the sale of nimblewrights.")
 
 ---
 
@@ -274,14 +280,18 @@ Campaign text that conflicts with that rule (section 8, C1):
 > — `campaign/guides/gm-guide/player-factions-overview.md:182`
 
 > "Mark for each character who learns Zord's true name through **Who Zord Is**, and record the character's name. Read by every Bregan D'aerthe event (no Bregan D'aerthe speaker says "Jarlaxle" to a member until it is marked), by the Harper mission **A Friend's House** (a marked member knows the name behind Zord and that he wears personas), and by **Sea Maidens Faire**."
-> — `campaign/quests/act-ii/fireball/ev-04-the-sea-maidens-faire.md:135` (outcome heading: `:134`, "#### Jarlaxle Unmasked (per character)")
+> — `campaign/quests/act-ii/fireball/ev-04-the-sea-maidens-faire.md:135` (outcome heading at `:134`: "#### Jarlaxle Unmasked (per character)")
 
 > "The party can learn that Captain Zord is Jarlaxle Baenre in two ways during this event:"
 > — `campaign/quests/act-ii/fireball/ev-04-the-sea-maidens-faire.md:108`
-> — "**The ledger.** Both folios open with the seller's line, "Sold through the Eyecatcher, J. Baenre, for the Company."" (rest of the passage covers: a DC 14 Intelligence (History) check identifies the name.) — `:110`
-> — "**The cabin.** A Bregan D'Aerthe member taken to his private cabin (below) sees the persona drop. He names himself." — `:111`
 
-> "J.B. Nevercott is Jarlaxle Baenre in a *hat of disguise*, so nobody in the room can describe his face afterward. He never admits to being anyone else, even if a player guesses, and nobody in this Event says Jarlaxle's name aloud. **Jarlaxle Unmasked** is marked later, for each member separately. Until then, Bregan D'aerthe speakers say "the captain" or "J."."
+> "**The ledger.** Both folios open with the seller's line, "Sold through the Eyecatcher, J. Baenre, for the Company."" (rest of the passage covers: a DC 14 Intelligence (History) check identifies the name.)
+> — `campaign/quests/act-ii/fireball/ev-04-the-sea-maidens-faire.md:110`
+
+> "**The cabin.** A Bregan D'Aerthe member taken to his private cabin (below) sees the persona drop. He names himself."
+> — `campaign/quests/act-ii/fireball/ev-04-the-sea-maidens-faire.md:111`
+
+> "J.B. Nevercott is Jarlaxle Baenre in a *hat of disguise*, so nobody in the room can describe his face afterward. He never admits to being anyone else, even if a player guesses, and nobody in this Event says Jarlaxle's name aloud. **Jarlaxle Unmasked** is marked later, for each member separately. Until then, Bregan D'aerthe speakers say "the captain" or "J.""
 > — `campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:22`
 
 > "Nevercott never admits to being anyone but J.B. Nevercott, even to a character who guesses correctly. The guess does not mark **Jarlaxle Unmasked**, which a later event sets. He enjoys the guess and answers:"
@@ -338,7 +348,7 @@ Other disguises in the adventure:
 
 ### Overview-safe facts
 
-The page has no Overview section. Its headings are Entry and Activation, Personality Phases, Relationships, Goals, Cross-References.
+The page has no Overview section. Its headings are Entry and Activation, Personality Phases, Relationships, Goals and Cross-References.
 
 The company's player-facing Overview, as written:
 
@@ -363,7 +373,7 @@ The history page's rule for its own Overview:
 > "**Tone:** Grave and played straight, in the Ember history register. Jarlaxle's flamboyance belongs to Jarlaxle and the narration stays plain. The Overview gives only the company's rumor-level face, and the GM bullets state facts flatly."
 > — `campaign/setting/history/03-bregan-daerthes-long-road.md:90`
 
-The Players' Guide names the faction only, with no Jarlaxle or Zord mention (grep of `campaign/guides/players-guide/` for Jarlaxle, Zardoz, Nevercott: no matches):
+The Players' Guide names the faction only (grep of `campaign/guides/players-guide/` for Jarlaxle, Zardoz, Nevercott: no matches):
 
 > "| Bregan D'aerthe | Exceptional intelligence; rare resources | Loyalty, and eventually a favor that reaches beyond Waterdeep |"
 > — `campaign/guides/players-guide/faction-affiliations.md:15`
@@ -392,14 +402,15 @@ Page row (`jarlaxle.md:47`):
 > "| Nar'l Xibrindas | Embedded spy | Inside Xanathar's Guild; Jarlaxle's most valuable asset; Jarlaxle has a contingency if Nar'l is discovered (has not shared it with Nar'l) |"
 
 - Adventure: "Jarlaxle has a spy in the Xanathar Guild: the advisor {@creature Nar'l Xibrindas|wdh}, who uses {@spell sending} spells to transmit intelligence to his drow brethren." — `sources/adventure-wdh.json:15149`
-- Adventure: "{@creature Xanathar|WDH}'s advisor is a nervous and conniving male drow named {@creature Nar'l Xibrindas|wdh}." — `sources/adventure-wdh.json:32323` (the same paragraph continues: "If forced to decide between himself and Bregan D'aerthe, he'll choose the former and betray his drow allies to save his own skin.")
+- Adventure: "{@creature Xanathar|WDH}'s advisor is a nervous and conniving male drow named {@creature Nar'l Xibrindas|wdh}." — `sources/adventure-wdh.json:32323`
+- Adventure, the same paragraph: "If forced to decide between himself and Bregan D'aerthe, he'll choose the former and betray his drow allies to save his own skin." — `sources/adventure-wdh.json:32323`
 - Adventure, Jarlaxle suspects a betrayal: "Jarlaxle suspects that {@creature Nar'l Xibrindas|wdh}, his spy in the Xanathar Guild, has betrayed him and is now using the resources of Bregan D'aerthe to help the beholder retrieve the stone." — `sources/adventure-wdh.json:7153`
 - Adventure, Compromised Eye mission: "Jarlaxle identifies the traitor as a drow mage named {@creature Nar'l Xibrindas|wdh} (see {@adventure appendix B|WDH|12}) and furnishes the characters with a route to {@creature Xanathar|WDH}'s lair through underground passageways." — `sources/adventure-wdh.json:3634`
-- Adventure, the staircase ambush: "These drow also have secret orders to kill {@creature Nar'l Xibrindas|wdh}, if he's still alive, and retrieve Jarlaxle's bag of holding (see {@area X35|2c7})." — `sources/adventure-wdh.json:15150`
+- Adventure, the staircase: "These drow also have secret orders to kill {@creature Nar'l Xibrindas|wdh}, if he's still alive, and retrieve Jarlaxle's bag of holding (see {@area X35|2c7})." — `sources/adventure-wdh.json:15150`
 - Wiki: "[[Jarlaxle]] too believed that Nar'l was double-crossing Bregan D'aerthe and was willingly working with the beholder." — `sources/research/pass4-bundles/jarlaxle/wiki.txt:554` (Nar'l page; cites `WDH5e-p64`)
 - Campaign NP: "bitter awareness that Jarlaxle would sacrifice him without hesitation if the cost were right." — `campaign/setting/notable-figures/xanathars-guild/03-narl-xibrindas.md:14`
 - Campaign NP: "To Jarlaxle, he is Bregan D'Aerthe's best intelligence source on Guild movements, reporting via Sending spell after one year in place, placed in 1491 DR." — `campaign/setting/notable-figures/xanathars-guild/03-narl-xibrindas.md:22`
-- Campaign, Overview of the BD guides: "Nar'l Xibrindas, Xanathar's own senior advisor, reports to Jarlaxle by *Sending* spell." — `campaign/guides/gm-guide/grand-game-in-play.md:63`
+- Campaign GM Guide: "Nar'l Xibrindas, Xanathar's own senior advisor, reports to Jarlaxle by *Sending* spell." — `campaign/guides/gm-guide/grand-game-in-play.md:63`
 - Alexandrian Appendix B: "Jarlaxle's spy inside Xanathar's council is his most valuable single asset in Waterdeep." — `sources/Appendix_B_-_Player_Factions.md:781`
 - The "contingency" is not found in the adventure, the Alexandrian appendices or the wiki.
 
@@ -409,9 +420,9 @@ Page row (`jarlaxle.md:48`):
 
 > "| Manshoon | Mutual wariness | Non-interference arrangement, fragile; Jarlaxle has better intelligence and intends to keep it that way |"
 
-- Campaign: "Jarlaxle and Manshoon maintain a fragile non-interference arrangement. Each considers the other the only genuine peer in the Grand Game, and neither wants direct conflict while other factions are more immediate problems. The arrangement is under strain: Manshoon has identified Fenerus Stormcastle as a Bregan D'aerthe cut-out and ordered his abduction." — `campaign/guides/gm-guide/grand-game-in-play.md:65` (rest of the passage: "If that abduction proceeds, Jarlaxle will act unilaterally, and the non-interference collapses.")
-- Campaign: "Jarlaxle | Mutual wariness | The only Grand Game player Manshoon takes seriously; non-interference arrangement, fragile; Jarlaxle has better intelligence and both know it" — `campaign/setting/villains/manshoon.md:34`
-- Campaign: "**Manshoon vs. Bregan D'aerthe** | Escalating interference | Manshoon has identified Fenerus Stormcastle as a D'aerthe cut-out and ordered his abduction." — `campaign/guides/gm-guide/running-the-villains.md:75` (rest of the row: "Krebbyg Masq'il'yr has flagged the Zhentarim surveillance to Jarlaxle. If the abduction proceeds, Jarlaxle's Trades Ward intelligence network is directly compromised.")
+- Campaign: "Jarlaxle and Manshoon maintain a fragile non-interference arrangement. Each considers the other the only genuine peer in the Grand Game, and neither wants direct conflict while other factions are more immediate problems. The arrangement is under strain: Manshoon has identified Fenerus Stormcastle as a Bregan D'aerthe cut-out and ordered his abduction." — `campaign/guides/gm-guide/grand-game-in-play.md:65` (rest of the passage covers: "If that abduction proceeds, Jarlaxle will act unilaterally, and the non-interference collapses.")
+- Campaign: "| Jarlaxle | Mutual wariness | The only Grand Game player Manshoon takes seriously; non-interference arrangement, fragile; Jarlaxle has better intelligence and both know it |" — `campaign/setting/villains/manshoon.md:34`
+- Campaign: "| **Manshoon vs. Bregan D'aerthe** | Escalating interference | Manshoon has identified Fenerus Stormcastle as a D'aerthe cut-out and ordered his abduction." — `campaign/guides/gm-guide/running-the-villains.md:75` (rest of the row: "Krebbyg Masq'il'yr has flagged the Zhentarim surveillance to Jarlaxle. If the abduction proceeds, Jarlaxle's Trades Ward intelligence network is directly compromised.")
 - Adventure, the only line that puts them in one scene: "The forces sent by {@creature Xanathar|WDH}, the Cassalanters, and {@creature Manshoon|WDH} attack the characters on sight. Jarlaxle, on the other hand, congratulates characters for unlocking the Vault of Dragons and allows them to leave on the condition that they go empty-handed." — `sources/adventure-wdh.json:14786` (no relationship is stated)
 
 ### Xanathar
@@ -456,7 +467,7 @@ Page row (`jarlaxle.md:51`):
 Not on the page's relationship table.
 
 - Adventure: "Zelifarn, a {@creature young bronze dragon}, recently moved into Deepwater Harbor. He has spent the past several months scouring wrecks at the bottom of the harbor for treasure and stashing precious baubles in a hidden underwater cave. Recently, he noticed a strange craft mounted on the underside of the {@i Eyecatcher}." — `sources/adventure-wdh.json:26604`
-- Adventure reward: "If they tell him more about the contents of the submarine and he believes that they're being truthful, he gives them the promised reward" — `sources/adventure-wdh.json:26611`
+- Adventure reward: "If they tell him more about the contents of the submarine and he believes that they're being truthful, he gives them the promised reward: an old chest with a rusted lock that can be busted or pried open with a successful {@dc 13} Strength (Athletics) check." — `sources/adventure-wdh.json:26611`
 - Campaign NP: "- **Affiliation:** None (friendly to Bregan D'aerthe; not an operative)" — `campaign/setting/notable-figures/bregan-daerthe/05-zelifarn.md:6`
 - Campaign NP: "**Relationships.** Zelifarn is the young bronze dragon of Deepwater Harbor, on friendly terms with the *Eyecatcher*'s crew but answerable to none of them, and the source of a genuine reward (300 sp, a golden octopus amulet, and a *scroll of revivify*) for parties willing to trade information about the Scarlet Marpenoth's contents." — `campaign/setting/notable-figures/bregan-daerthe/05-zelifarn.md:25`
 - Campaign org (conflicting): "- **Zelifarn** — Young sea dragon (bronze-scaled) stationed aboard the *Scarlet Marpenoth*. See the **Zelifarn** page in Notable Figures." — `campaign/setting/organizations/07-bregan-daerthe.md:39`
@@ -531,7 +542,7 @@ Status: **No source.** The adventure says Nevercott "never admits" (`:3602`) and
 
 > "| 2A | The Unmasked | **Sea Maidens Faire** (adversary path) | True identity revealed without negotiation; Jarlaxle is gracious about it — he respects the attempt and doesn't rage; the deal is no longer on the table, but the disdain is minimal; he treats them like colleagues who chose the wrong firm |"
 
-Status: **Partly supported.** Graciousness: `sources/adventure-wdh.json:4751` ("dryly says \"Bravo!\" and lets them make the next move"). Violence: `:550` ("If forced into a violent confrontation, he swiftly and brutally kills someone to make an example of them and then walks off."). The non-agreement branch: "If the characters don't agree to Jarlaxle's terms, or if they assault him, he tries to knock them {@condition unconscious} and leave them without clothes or equipment in a gutter in the Dock Ward." (`:22950`). "Without negotiation" conflicts with the adventure's order of events, where the offer comes first (`:22949`). Timing at Sea Maidens Faire conflicts with the campaign's own unmask timing (section 8, C1).
+Status: **Partly supported.** Graciousness: `sources/adventure-wdh.json:4751` ("dryly says \"Bravo!\" and lets them make the next move"). Violence: `:550` ("If forced into a violent confrontation, he swiftly and brutally kills someone to make an example of them and then walks off."). The non-agreement branch: "If the characters don't agree to Jarlaxle's terms, or if they assault him, he tries to knock them {@condition unconscious} and leave them without clothes or equipment in a gutter in the Dock Ward." (`:22950`). "Without negotiation" conflicts with the adventure's order of events, where the offer comes first (`:22949`). The timing at Sea Maidens Faire conflicts with the campaign's own unmask timing (section 8, C1).
 
 **Adversary track 3A, `jarlaxle.md:24`**
 
@@ -571,13 +582,13 @@ Status: **Supported** for the aim (`sources/adventure-wdh.json:32179`, `:22941`,
 
 > "2. **One Eye of the Stone** — as a bargaining chip, not for personal use; method: he already holds Eye #3 aboard the *Scarlet Marpenoth* (Bregan D'aerthe agents inside Xanathar's hideout lifted it the night Xanathar's Guild raided the Zhentarim warehouse), and Nar'l's intelligence tells him where the other Eyes are; keep it as the bargaining chip and move on the others before the other factions consolidate; contingency: negotiating it from the PCs is also acceptable and preferable for the relationship; connects to **Sea Maidens Faire**"
 
-Status: **Partly supported.** The Stone as an aim: "He steers the characters toward the {@item Stone of Golorr|WDH} and lets them think they're always one step ahead." (`sources/adventure-wdh.json:6702`); Alexandrian Appendix B `:780`. The Eye, the bargaining chip and the BD lift: **campaign-only** (`running-the-villains.md:25`; history `:76`, `:163`-`:164`; arc-h `:15`). The adventure's bargaining chip is the dragonstaff (`:549`, `:14786`).
+Status: **Partly supported.** The Stone as an aim: "He steers the characters toward the {@item Stone of Golorr|WDH} and lets them think they're always one step ahead." (`sources/adventure-wdh.json:6702`); Alexandrian Appendix B `:780`. The Eye, the bargaining chip and the BD lift: **campaign-only** (`running-the-villains.md:25`; history `:76`, `:163`; arc-h `:15`). The adventure's bargaining chip is the dragonstaff (`:549`, `:14786`).
 
 **Goal 3, `jarlaxle.md:58`**
 
 > "3. **Waterdeep as Permanent Base** — the Sea Maidens Faire is seasonal; Jarlaxle wants Bregan D'aerthe with a permanent Dock Ward presence; method: be indispensable to whoever resolves the vault situation; this is the long play that outlasts Dragon Heist"
 
-Status: **Contradicted** in part by the campaign's own departure rule: "Tarsakh 20 | Sea Maidens Faire departs at dawn | Eye #3 leaves Waterdeep; alliance path with Jarlaxle closes; **Sea Maidens Faire** must be completed before this date" (`campaign/guides/gm-guide/structural-rules.md:50`), and "The Faire leaves Waterdeep at dawn on Tarsakh 20." (`history:77`). The adventure's exit plan: "Jarlaxle plans on using the submarine to flee Waterdeep if his scheme unravels." (`sources/adventure-wdh.json:32181`). "Seasonal" is supported by "a carnival that travels up and down the Sword Coast" (`:32180`). "Permanent Dock Ward presence": **No source**.
+Status: **Contradicted** in part by the campaign's own departure rule: "Tarsakh 20 | Sea Maidens Faire departs at dawn | Eye #3 leaves Waterdeep; alliance path with Jarlaxle closes; **Sea Maidens Faire** must be completed before this date" (`campaign/guides/gm-guide/structural-rules.md:50`), and "The Faire leaves Waterdeep at dawn on Tarsakh 20." (`history:77`). The adventure's exit plan: "Jarlaxle plans on using the submarine to flee Waterdeep if his scheme unravels." (`sources/adventure-wdh.json:32181`). "Seasonal" is supported by "a traveling carnival" that "travels up and down the Sword Coast" (`:32180`). "Permanent Dock Ward presence": **No source**.
 
 **Key design note, `jarlaxle.md:60`**
 
@@ -590,7 +601,7 @@ Status: **Supported** that the faction is joinable (`sources/adventure-wdh.json:
 > "Jarlaxle preferred to avoid killing someone as long as that person could be manipulated to serve his interests, no matter how small his or her role might be."
 > — `sources/research/pass4-bundles/jarlaxle/wiki.txt:90`
 
-This supports the page's "reluctant to kill" framing in the Phase rows and contrasts with `sources/adventure-wdh.json:550` (the adventure's brutal example).
+This supports the page's "reluctant to kill" framing in the phase rows. It contrasts with `sources/adventure-wdh.json:550` (the adventure's brutal example).
 
 ---
 
@@ -603,10 +614,10 @@ Standing rule and the lines built on it:
 > "- **Bregan D'aerthe (standing rule):** Bregan D'aerthe has rejected Lolth as its goddess. No member worships her, keeps a shrine to her or invokes the Spider Queen with devotion, and members speak of her with contempt, as the goddess they walked away from. Do not give any company member a shrine, a prayer or a kind word for her."
 > — `campaign/setting/deities/lolth.md:75`
 
-> "**Bregan D'aerthe and Lolth:** Bregan D'aerthe has rejected Lolth as its goddess. No member worships her, keeps a shrine to her or invokes the Spider Queen with devotion, and members speak of her with contempt. Do not give any company member a shrine, a prayer or a kind word for her. Lolth's page quotes the campaign lines."
+> "> - **Bregan D'aerthe and Lolth:** Bregan D'aerthe has rejected Lolth as its goddess. No member worships her, keeps a shrine to her or invokes the Spider Queen with devotion, and members speak of her with contempt. Do not give any company member a shrine, a prayer or a kind word for her. Lolth's page quotes the campaign lines."
 > — `campaign/setting/deities/00-the-deities.md:394`
 
-> "- **Bregan D'aerthe:** Lolth."
+> "> - **Bregan D'aerthe:** Lolth."
 > — `campaign/setting/deities/00-the-deities.md:401` (a list item; its list heading is not in the grep output)
 
 > "- **Bregan D'aerthe First Meeting:** Asked "Do you serve Lolth?", Nevercott answers "Gods, no. My colleagues left the Spider Queen behind on purpose" (`campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:375-379`)."
@@ -630,15 +641,13 @@ Standing rule and the lines built on it:
 > "The published adventure puts a shrine of Lolth in Soluun's stateroom aboard the *Scarlet Marpenoth*, area U3, with Soluun "worshiping before" it (`sources/adventure-wdh.json:26345`, `:26350`). The campaign's U3 entry has Soluun cleaning his weapons and no shrine (`campaign/locations/sea-maidens-faire/05-scarlet-marpenoth.md:40`), so the shrine is dropped."
 > — `campaign/setting/deities/lolth.md:70`
 
-> "- **Bregan D'aerthe and Lolth:** ..." — not separately quoted (see `00-the-deities.md:394` above).
-
 History page:
 
 > "**Purpose:** Lets the GM answer any question about who founded Bregan D'aerthe, why its members reject Lolth, how it came to dominate Luskan, and what Jarlaxle had in place before the campaign opens."
 > — `campaign/setting/history/03-bregan-daerthes-long-road.md:13`
 
-> "> - Jarlaxle was born to Matron Mother Yvonnel Baenre of House Baenre, the first house of Menzoberranzan. He survived his sacrifice to Lolth and later rejected her. Bregan D'aerthe rejects her too, and its members speak of her with contempt."
-> — `campaign/setting/history/03-bregan-daerthes-long-road.md:24`
+> "- Jarlaxle was born to Matron Mother Yvonnel Baenre of House Baenre, the first house of Menzoberranzan. He survived his sacrifice to Lolth and later rejected her. Bregan D'aerthe rejects her too, and its members speak of her with contempt."
+> — `campaign/setting/history/03-bregan-daerthes-long-road.md:24` (the bullet begins "> - " on the page; the text here is exact after the marker)
 
 > "- Lolth favored him afterward as an agent of chaos, and he rejected her. She withdrew her favor, and the matron mothers of Menzoberranzan never learned of it. `[research: wiki only]`"
 > — `campaign/setting/history/03-bregan-daerthes-long-road.md:35`
@@ -656,14 +665,20 @@ Event files:
 > "> If a character has Soluun in hand and asks him about the god of his people, he answers with open contempt for Lolth, since Bregan D'aerthe rejects her."
 > — `campaign/quests/faction-events/doom-raiders/m01-the-dockside-killer/ev-01-the-dockside-killer.md:343`
 
-> "***The disownment.*** The restored draft treated Soluun's disownment as real. ... He also never speaks of Lolth with devotion, because Bregan D'aerthe rejects her: when asked about his goddess he answers with contempt."
-> — `campaign/quests/faction-events/doom-raiders/m01-the-dockside-killer/design-notes.md:13` (the ellipsis omits the sentences about the restored draft and the GM-only cover story)
+> "***The disownment.*** The restored draft treated Soluun's disownment as real."
+> — `campaign/quests/faction-events/doom-raiders/m01-the-dockside-killer/design-notes.md:13` (the same paragraph's next sentence is quoted below)
+
+> "He also never speaks of Lolth with devotion, because Bregan D'aerthe rejects her: when asked about his goddess he answers with contempt."
+> — `campaign/quests/faction-events/doom-raiders/m01-the-dockside-killer/design-notes.md:13`
 
 > "> Bregan D'aerthe rejects Lolth. The spider on the coin is the goddess the company walked away from, caught in her own web with a blade through her, and every speaker mentions her with contempt. The company knows the truth about the Cassalanters, because Jarlaxle's doppelganger agent Vessa reads their thoughts. No speaker tells a member who hasn't worked it out."
 > — `campaign/quests/faction-events/bregan-daerthe/r50-houseless-noble/ev-01-houseless-noble.md:27`
 
-> "Fel'rekt speaks in encouraging sentences and counts his options off on his fingers. ... He never threatens anyone and never mentions Lolth."
-> — `campaign/quests/faction-events/bregan-daerthe/s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:136` (the ellipsis omits the sentences on his manner and his warmth; the full passage is in that file)
+> "Fel'rekt speaks in encouraging sentences and counts his options off on his fingers."
+> — `campaign/quests/faction-events/bregan-daerthe/s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:136` (the same paragraph's last sentence is quoted below)
+
+> "He never threatens anyone and never mentions Lolth."
+> — `campaign/quests/faction-events/bregan-daerthe/s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:136`
 
 > "He never apologizes, never says Lolth's name with anything but disgust, and mentions his brother only as "the weak one"."
 > — `campaign/quests/faction-events/bregan-daerthe/s05-the-killers-fate/ev-01-the-killers-fate.md:242`
@@ -671,21 +686,21 @@ Event files:
 > "- Appendix C has Jarlaxle say "for Lolth's sake." The line is cut, because Bregan D'aerthe has rejected her."
 > — `campaign/quests/faction-events/bregan-daerthe/m04-the-compromised-eye/design-notes.md:13`
 
-Other deity pages (Bregan D'aerthe with Lolth, not Jarlaxle-specific):
+Other deity pages (Bregan D'aerthe with Lolth; not Jarlaxle-specific):
 
 > "- Bregan D'aerthe rejects Lolth, and no member worships her or invokes the Spider Queen with devotion (`campaign/setting/history/03-bregan-daerthes-long-road.md:36`)."
 > — `campaign/setting/deities/corellon-larethian.md:73` (the same bullet continues with a Soluun sentence)
 
-> "**Spoiler limit:** everything above the `## Overview` may be read by the GM only. The Overview is the common-knowledge tier. Nothing about her is secret. Bregan D'aerthe rejects her mother Lolth, and that rejection does not make any member a follower of Eilistraee."
+> "Spoiler limit:** everything above the `## Overview` may be read by the GM only. The Overview is the common-knowledge tier. Nothing about her is secret. Bregan D'aerthe rejects her mother Lolth, and that rejection does not make any member a follower of Eilistraee."
 > — `campaign/setting/deities/eilistraee.md:11`
 
-> "**Spoiler limit:** this page holds no hidden fact that changes play, so it has no Secret box. The Overview is the common-knowledge tier. Everything above it may be read by the GM only. Bregan D'aerthe has rejected Lolth, and that does not make any member a follower of Ghaunadaur."
+> "Bregan D'aerthe has rejected Lolth, and that does not make any member a follower of Ghaunadaur."
 > — `campaign/setting/deities/ghaunadaur.md:11`
 
-Campaign location and the cabin:
+Campaign location (no oath line):
 
 > "A magic mouth trap on the door to J30 triggers if anyone other than Zord opens it (DC 16 Intelligence (Arcana) to detect), releasing a sound like a gong audible throughout the aft castle."
-> — `campaign/locations/sea-maidens-faire/04-eyecatcher-zords-office.md:5` (no oath line appears in the campaign files; grep for Lolth in `campaign/locations/` returned none)
+> — `campaign/locations/sea-maidens-faire/04-eyecatcher-zords-office.md:5` (grep for Lolth in `campaign/locations/` returned no match)
 
 ### Adventure lines that mention Lolth in the Jarlaxle context (direct grep: four hits in the whole file)
 
@@ -712,8 +727,7 @@ Handoff on the cabin oath:
 
 Grep of `campaign/setting/villains/jarlaxle.md`:
 
-- **"flag"**: five occurrences, all in line 3 (`:3`): "the **BD Contact Severed** flag closes the faction for the campaign", "The **Ryvarra Identified** flag (from **The Neighbors** event in **Trollskull Alley**)", "the **Jarlaxle Informed** flag is set during **Fireball!**", "The flag records only that the party spoke directly with him.", and "The personality phases below key off the Jarlaxle Informed flag, not BD membership." The full line is quoted in section 3.
-- The same three outcomes are headings with "True / False" in the event files: `campaign/quests/act-ii/fireball/ev-04-the-sea-maidens-faire.md:125` ("#### Jarlaxle Informed: True / False"); `campaign/quests/act-i/trollskull-alley/ev-03-the-neighbors.md:57` ("#### Ryvarra Identified: True / False"). The BD Contact Severed outcome is marked at `campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:195` ("Mark **BD Contact Severed** for each character who gives Dunmere their name.").
+- **"flag"**: five occurrences, all in line 3 (`:3`): "the **BD Contact Severed** flag closes the faction for the campaign", "The **Ryvarra Identified** flag (from **The Neighbors** event in **Trollskull Alley**)", "the **Jarlaxle Informed** flag is set during **Fireball!**", "The flag records only that the party spoke directly with him.", and "The personality phases below key off the Jarlaxle Informed flag, not BD membership." The full line is quoted in section 3. The same outcomes are headings with "True / False" in the event files: `campaign/quests/act-ii/fireball/ev-04-the-sea-maidens-faire.md:125` ("#### Jarlaxle Informed: True / False"); `campaign/quests/act-i/trollskull-alley/ev-03-the-neighbors.md:57` ("#### Ryvarra Identified: True / False"). The BD Contact Severed outcome is marked at `campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:195` ("Mark **BD Contact Severed** for each character who gives Dunmere their name.").
 - **"DM"**: no occurrence.
 - **"Arc" (capitalised)**: no occurrence. The lower-case path appears once (line 66).
 - **Links by path** (lines 66-69): `../../structure/arc-h-sea-maidens-faire.md` (`:66`, "- [Sea Maidens Faire](../../structure/arc-h-sea-maidens-faire.md) — heist quest featuring Jarlaxle directly"); `../notable-figures/` (`:67`); `../../guides/gm-guide/running-the-villains.md`, `../../guides/factions/08-bregan-daerthe.md`, `../organizations/07-bregan-daerthe.md` (`:68`); `../../guides/gm-guide/player-factions-overview.md` (`:69`). `arc-h` is a structure document; the Sea Maidens Faire quest journal does not yet exist (CLAUDE.md quest table).
@@ -730,7 +744,7 @@ Ranking as set in the task: campaign files outrank the adventure for campaign de
 - `campaign/setting/villains/jarlaxle.md:3`: "His identity stays hidden behind J.B. Nevercott and Zardoz Zord until **Sea Maidens Faire**."
 - `campaign/quests/act-ii/fireball/ev-04-the-sea-maidens-faire.md:108`: "The party can learn that Captain Zord is Jarlaxle Baenre in two ways during this event:"; `:111`: "**The cabin.** A Bregan D'Aerthe member taken to his private cabin (below) sees the persona drop. He names himself."; `:134`: "#### Jarlaxle Unmasked (per character)"
 - `campaign/guides/gm-guide/player-factions-overview.md:182`: "Jarlaxle's true identity surfaces in **Fireball!** and **Sea Maidens Faire**, when the nimblewright thread leads the party to the carnival and its captain."
-- `campaign/setting/history/03-bregan-daerthes-long-road.md:86`: "...the party learns the link in **Sea Maidens Faire**." (full sentence quoted in section 3)
+- `campaign/setting/history/03-bregan-daerthes-long-road.md:86`: "Nothing in the Overview links him to the company, and the party learns the link in **Sea Maidens Faire**."
 - `campaign/setting/deities/lolth.md:95`: "Nothing in play tells a player this before **Jarlaxle Unmasked**."
 - Adventure: "All are loyal members of Bregan D'aerthe, and all know that Zardoz Zord is {@creature Jarlaxle Baenre|WDH} in disguise." (`sources/adventure-wdh.json:23047`). The campaign's BD speakers say "the captain" until the outcome (`ev-01-first-meeting.md:22`). The adventure's Nevercott "never admits" (`:3602`), which matches the campaign.
 - Not decided here.
@@ -752,7 +766,7 @@ Ranking as set in the task: campaign files outrank the adventure for campaign de
 
 **C4. Eye #3 route**
 - `campaign/guides/gm-guide/running-the-villains.md:25` and `:30`: the Eye passed from Renaer's locket to the Zhentarim, then to Xanathar's Guild in the warehouse raid, and BD agents lifted it that night.
-- `campaign/structure/arc-h-sea-maidens-faire.md:15`: "The Eye had reached him the night before Ches 1, through Bregan D'aerthe intelligence work — ..." (no locket, raid or lift sequence).
+- `campaign/structure/arc-h-sea-maidens-faire.md:15`: "The Eye had reached him the night before Ches 1, through Bregan D'aerthe intelligence work — the same network that had placed Nar'l Xibrindas inside Xanathar's Guild a year earlier, in 1491." (no locket, raid or lift sequence)
 - `session 49 handoff.md:139`: "**Eye #3 route in `arc-h:9,15`:** only the \"night before Ches 1\" timing was added, not the locket/raid/lift sequence."
 - Alexandrian (transcribed, printed p. 16): "Renaer didn't know it: His father had given him an elaborate, ivory mourning locket in honor of his mother. The Eye was hidden inside it."
 
@@ -765,12 +779,12 @@ Ranking as set in the task: campaign files outrank the adventure for campaign de
 **C6. "Real prize" vs. "latest" scheme for the Lords' Alliance**
 - `campaign/setting/villains/jarlaxle.md:56`: "1. **Lords' Alliance Membership for Luskan** — the real prize"
 - `sources/adventure-wdh.json:32179`: "the latest of which is a plan to legitimize Luskan by making it a member of the Lords' Alliance."
-- `campaign/setting/history/03-bregan-daerthes-long-road.md:157` (full text in section 1): the page "follows the published adventure for the history and the campaign for the aim."
+- `campaign/setting/history/03-bregan-daerthes-long-road.md:157`: "The page follows the published adventure for the history and the campaign for the aim." (full text in section 1)
 
 **C7. Bargaining chip: Eye (campaign) vs. dragonstaff (adventure)**
 - `campaign/setting/villains/jarlaxle.md:57`: "as a bargaining chip, not for personal use" (the Eye).
 - `sources/adventure-wdh.json:549`: "Jarlaxle also wants the {@item dragonstaff of Ahghairon|WDH} for leverage in his negotiations."
-- `sources/adventure-wdh.json:14786`: "...demands the {@item dragonstaff of Ahghairon|WDH} for his trouble."
+- `sources/adventure-wdh.json:14786`: "He intends to see the gold safely returned to the city of Waterdeep but also demands the {@item dragonstaff of Ahghairon|WDH} for his trouble."
 - The adventure has no Eye (section 9).
 
 **C8. Permanent base vs. departure date**
@@ -782,71 +796,71 @@ Ranking as set in the task: campaign files outrank the adventure for campaign de
 **C9. Nar'l: "most valuable asset" and a contingency vs. the adventure's suspicion and elimination order**
 - `campaign/setting/villains/jarlaxle.md:47`: "Inside Xanathar's Guild; Jarlaxle's most valuable asset; Jarlaxle has a contingency if Nar'l is discovered (has not shared it with Nar'l)"
 - Alexandrian Appendix B `:781`: "Jarlaxle's spy inside Xanathar's council is his most valuable single asset in Waterdeep."
-- `sources/adventure-wdh.json:3634`: "Jarlaxle identifies the traitor as a drow mage named {@creature Nar'l Xibrindas|wdh} ..."
-- `sources/adventure-wdh.json:15150`: "These drow also have secret orders to kill {@creature Nar'l Xibrindas|wdh}, if he's still alive"
-- `sources/adventure-wdh.json:7153`: "Jarlaxle suspects that {@creature Nar'l Xibrindas|wdh}, his spy in the Xanathar Guild, has betrayed him"
-- Wiki `wiki.txt:554`: "Jarlaxle too believed that Nar'l was double-crossing Bregan D'aerthe and was willingly working with the beholder."
+- `sources/adventure-wdh.json:3634`: "Jarlaxle identifies the traitor as a drow mage named {@creature Nar'l Xibrindas|wdh} (see {@adventure appendix B|WDH|12}) and furnishes the characters with a route to {@creature Xanathar|WDH}'s lair through underground passageways."
+- `sources/adventure-wdh.json:15150`: "These drow also have secret orders to kill {@creature Nar'l Xibrindas|wdh}, if he's still alive, and retrieve Jarlaxle's bag of holding (see {@area X35|2c7})."
+- `sources/adventure-wdh.json:7153`: "Jarlaxle suspects that {@creature Nar'l Xibrindas|wdh}, his spy in the Xanathar Guild, has betrayed him and is now using the resources of Bregan D'aerthe to help the beholder retrieve the stone."
+- Wiki `wiki.txt:554`: "[[Jarlaxle]] too believed that Nar'l was double-crossing Bregan D'aerthe and was willingly working with the beholder."
 - Campaign NP `xanathars-guild/03-narl-xibrindas.md:14`: "bitter awareness that Jarlaxle would sacrifice him without hesitation if the cost were right."
-- The adventure's Nar'l episode is mid-adventure and specific to the Compromised Eye mission; the campaign's Nar'l page is a standing state. Both are quoted; not decided here.
+- The adventure's Nar'l episode is specific to the Compromised Eye mission and a mid-adventure suspicion; the campaign's Nar'l page describes a standing state. Both are quoted; not decided here.
 
 **C10. Fenerus: whether he knows his contacts are BD**
-- `sources/adventure-wdh.json:6709`: "...a lamplighter and retired brigand who funnels information to Bregan D'aerthe."
+- `sources/adventure-wdh.json:6709`: "The characters visit the residence of Fenerus Stormcastle, a lamplighter and retired brigand who funnels information to Bregan D'aerthe."
 - `sources/adventure-wdh.json:7124`: "He has no clue that his contacts are drow members of Bregan D'aerthe, since they wear cloaks and keep to the shadows."
 - `campaign/setting/notable-figures/bregan-daerthe/06-fenerus-stormcastle.md:7`: "Bregan D'aerthe (cut-out; believes his contacts are Luskan agents)"
 - `campaign/setting/organizations/07-bregan-daerthe.md:40`: "Supposed to be a cut-out, but once followed Krebbyg after a pickup and knows the messages go to the Sea Maidens Faire."
 - The two campaign files disagree with each other. The NP page is the per-NPC record; the org page is an organization page.
 
 **C11. Zelifarn: stationed on the ship, or an independent dragon in a cave?**
-- `campaign/setting/organizations/07-bregan-daerthe.md:39`: "- **Zelifarn** — Young sea dragon (bronze-scaled) stationed aboard the *Scarlet Marpenoth*."
+- `campaign/setting/organizations/07-bregan-daerthe.md:39`: "- **Zelifarn** — Young sea dragon (bronze-scaled) stationed aboard the *Scarlet Marpenoth*. See the **Zelifarn** page in Notable Figures."
 - `campaign/setting/notable-figures/bregan-daerthe/05-zelifarn.md:6`: "- **Affiliation:** None (friendly to Bregan D'aerthe; not an operative)"
-- `campaign/setting/notable-figures/bregan-daerthe/05-zelifarn.md:25`: "...answerable to none of them..."
-- `sources/adventure-wdh.json:26604`: "...stashing precious baubles in a hidden underwater cave."
+- `campaign/setting/notable-figures/bregan-daerthe/05-zelifarn.md:25`: "Zelifarn is the young bronze dragon of Deepwater Harbor, on friendly terms with the *Eyecatcher*'s crew but answerable to none of them"
+- `sources/adventure-wdh.json:26604`: "He has spent the past several months scouring wrecks at the bottom of the harbor for treasure and stashing precious baubles in a hidden underwater cave."
 
 **C12. Who may read the company's Overview**
 - `campaign/setting/organizations/07-bregan-daerthe.md:58`: "Bregan D'aerthe is a mercenary company of drow exiles and surface operatives, led by Jarlaxle Baenre, running the Sea Maidens Faire carnival as cover for a city-wide intelligence network."
 - `campaign/setting/history/03-bregan-daerthes-long-road.md:11`: "The Overview is the public face and links neither Captain Zardoz Zord nor Luskan's rulers to the company's leader."
-- `campaign/setting/history/03-bregan-daerthes-long-road.md:165`: "...names Jarlaxle as the leader ... That does not follow the Zardoz Zord rule and is not player-safe." (full sentence quoted in section 3)
+- `campaign/setting/history/03-bregan-daerthes-long-road.md:165`: "> - **Conflicts:** `organizations/07-bregan-daerthe.md` line 58 names Jarlaxle as the leader and describes a city-wide intelligence network in its Overview. That does not follow the Zardoz Zord rule and is not player-safe."
 
 **C13. Vessa's name and the adventure's alias**
-- `campaign/setting/notable-figures/bregan-daerthe/12-vessa.md:26`: "Vessa (full name Lymeria Lhaurilstar) is a Bregan D'aerthe doppelganger operative..."
-- `sources/adventure-wdh.json:20414`: "...poses as a minor noblewoman going by the name Lymeria Lhaurilstar..." (the speaker is "Bonnie", a Yawning Portal doppelganger). The adventure has no Vessa.
+- `campaign/setting/notable-figures/bregan-daerthe/12-vessa.md:26`: "Vessa (full name Lymeria Lhaurilstar) is a Bregan D'aerthe doppelganger operative embedded in the Cassalanter social scene under a permanent human cover"
+- `sources/adventure-wdh.json:20414`: "poses as a minor noblewoman going by the name Lymeria Lhaurilstar" (the speaker is "Bonnie", a Yawning Portal doppelganger). The adventure has no Vessa.
 
 **C14. Lolth shrine in Soluun's stateroom**
-- `sources/adventure-wdh.json:26345`: "...is here, worshiping before a shrine of Lolth."
+- `sources/adventure-wdh.json:26345`: "is here, worshiping before a shrine of Lolth."
 - `campaign/setting/deities/lolth.md:75`: "No member worships her, keeps a shrine to her or invokes the Spider Queen with devotion"
-- `campaign/setting/deities/lolth.md:70`: "The campaign's U3 entry has Soluun cleaning his weapons and no shrine (...), so the shrine is dropped."
+- `campaign/setting/deities/lolth.md:70`: "The campaign's U3 entry has Soluun cleaning his weapons and no shrine (`campaign/locations/sea-maidens-faire/05-scarlet-marpenoth.md:40`), so the shrine is dropped."
 
 **C15. Cabin oath**
 - `sources/adventure-wdh.json:25498`: "\"By Lolth's teeth, have you no manners?\""
-- `campaign/locations/sea-maidens-faire/04-eyecatcher-zords-office.md:5`: "...releasing a sound like a gong audible throughout the aft castle."
-- `session 49 handoff.md:126`: "...the Eyecatcher cabin entry needs a different oath when written."
+- `campaign/locations/sea-maidens-faire/04-eyecatcher-zords-office.md:5`: "releasing a sound like a gong audible throughout the aft castle."
+- `session 49 handoff.md:126`: "the Eyecatcher cabin entry needs a different oath when written."
 
 **C16. Season of the adventure vs. the campaign's calendar**
 - `sources/adventure-wdh.json:551`: "If you choose Jarlaxle as the villain, the adventure takes place in the autumn."
 - `campaign/setting/history/03-bregan-daerthes-long-road.md:81`: "This spring the Sea Maidens Faire, a traveling carnival out of Luskan, brings three ships and Captain Zardoz Zord to Deepwater Harbor for Fleetswake."
 - `campaign/guides/gm-guide/structural-rules.md:44`: "| Ches 21–30 | Fleetswake | Maritime festival; Sea Maidens Faire fleet in harbor; cover for Sea Maidens Faire reconnaissance |"
-- The adventure's Day of Wonders parade is in autumn (`sources/adventure-wdh.json:26688`: "The Day of Wonders is the grandest parade of the fall season, ...").
+- The adventure's autumn parade: "The Day of Wonders is the grandest parade of the fall season, and Jarlaxle wants the Sea Maidens Faire to be a part of it." (`sources/adventure-wdh.json:26688`)
 
 **C17. Kimmuriel**
 - Wiki `wiki.txt:308`: "| leader         = [[Jarlaxle]], [[Kimmuriel Oblodra]]"
 - Wiki `wiki.txt:408`: "As time went on (by [[1463 DR]], Kimmuriel became widely understood as the band's leader,"
-- Campaign `history:152`: "Default kept: Kimmuriel Oblodra stays omitted from the body..." (section 4)
-- `session 49 handoff.md:135`: "...Kimmuriel omitted..." (listed as unruled)
+- Campaign `history:152`: "**Default kept:** Kimmuriel Oblodra stays omitted from the body" (full text in section 4)
+- `session 49 handoff.md:135`: "\"third son\" for Jarlaxle; Kimmuriel omitted;" (listed as unruled)
 
 **C18. Third son**
 - `campaign/setting/history/03-bregan-daerthes-long-road.md:38`: "A campaign docx calls him the third son, and the page keeps that."
-- `sources/research/pass4-bundles/jarlaxle/wiki.txt:96`: "Her second-oldest son, [[Doquaio Baenre]], was ordered to assist..."
+- `sources/research/pass4-bundles/jarlaxle/wiki.txt:96`: "Her second-oldest son, [[Doquaio Baenre]], was ordered to assist"
 - `session 49 handoff.md:135`: "\"third son\" for Jarlaxle" (listed as unruled)
 
 **C19. Scarlet Marpenoth location**
 - `campaign/structure/arc-h-sea-maidens-faire.md:11`: "The Scarlet Marpenoth had lain moored in the harbor all year, and the night the fleet arrived it took its place beneath the Eyecatcher."
-- `campaign/guides/factions/08-bregan-daerthe.md:9`: "...Jarlaxle already holds Eye #3, aboard the *Scarlet Marpenoth* and mounted beneath the *Eyecatcher*'s keel..."
+- `campaign/guides/factions/08-bregan-daerthe.md:9`: "Rather than competing with Xanathar or Manshoon for the Stone, Jarlaxle already holds Eye #3, aboard the *Scarlet Marpenoth* and mounted beneath the *Eyecatcher*'s keel, and is content to let the other factions exhaust themselves chasing each other."
 - `campaign/setting/history/03-bregan-daerthes-long-road.md:74`: "In the campaign it has been moored in Deepwater Harbor since he reached the city, and the carnival fleet joins it for Fleetswake."
 - `sources/adventure-wdh.json:32181`: "This underwater vessel is mounted below the {@i Eyecatcher} and kept out of sight."
 - Not a direct conflict. The handoff notes the rooms 01-04 were not checked against "submarine moored all year" (`session 49 handoff.md:140`).
 
 **C20. Trigger for the phase change vs. the adventure's "never admits"**
-- `jarlaxle.md:15`: "*Trigger to Phase 2:* PCs penetrate the disguise, or Jarlaxle decides they've earned the reveal."
+- `campaign/setting/villains/jarlaxle.md:15`: "*Trigger to Phase 2:* PCs penetrate the disguise, or Jarlaxle decides they've earned the reveal."
 - `sources/adventure-wdh.json:3602`: "Even if the characters discern his true identity, he never admits to being anything other than what he pretends to be."
 - `sources/adventure-wdh.json:4751`: "If the characters somehow discern his true form, Jarlaxle gives the party a slow nod of his head, dryly says \"Bravo!\" and lets them make the next move."
 
@@ -862,21 +876,21 @@ Ranking as set in the task: campaign files outrank the adventure for campaign de
 - **Manshoon–Jarlaxle relationship** (adventure): none; only `:14786` puts them in one scene.
 - **Xanathar–Jarlaxle relationship** (adventure): none direct; the link is Nar'l (`:1301`, `:15149`, `:32323`).
 - **"Eye for Lords' Alliance" offer** (adventure): none. The adventure's offer is gold and the dragonstaff (`:22949`).
-- **Permanent base / Dock Ward presence** (adventure): none. The Dock Ward material is the Seven Masks Theater (`:9066`) and the Dock Ward operations.
+- **Permanent base / Dock Ward presence** (adventure): none. The Dock Ward material is the Seven Masks Theater (`:9066`) and Dock Ward operations.
 - **Nar'l "contingency"** (adventure, Alexandrian appendices, wiki): none.
-- **Vessa's real name as "Lymeria Lhaurilstar"** (adventure): the name belongs to "Bonnie" (`:20414`).
+- **Vessa's name "Lymeria Lhaurilstar"** (adventure): the name belongs to "Bonnie" (`:20414`).
 - **Zardoz Zord as a separate campaign page**: none. The file is `01-jarlaxle-baenre.md`.
 - **Players' Guide mention of Jarlaxle or Zord** (`campaign/guides/players-guide/`): none; the faction is named at `faction-affiliations.md:15`.
-- **Campaign: Overview section on `jarlaxle.md`**: none.
-- **Campaign: magic mouth oath in the location journals**: none; the trap is present and the line is absent (`04-eyecatcher-zords-office.md:5`).
-- **Wiki lines 626-1,875** (Luskan and later pages; grep only): Lords' Alliance hits at `wiki.txt:1059` (`allegiances = [[Lords' Alliance]]`) and `:1687` (`;Organizations: [[Force Grey]] &bull; [[Lords' Alliance]]`). Other grep matches in that range were omitted by the tool and were not read.
+- **Overview section on `jarlaxle.md`**: none.
+- **Magic mouth oath in the location journals**: none; the trap is present and the line is absent (`04-eyecatcher-zords-office.md:5`).
+- **Wiki lines 626-1,875** (grep only): Lords' Alliance hits at `wiki.txt:1059` (`allegiances = [[Lords' Alliance]]`) and `:1687` (`;Organizations: [[Force Grey]] &bull; [[Lords' Alliance]]`). Other grep matches in that range were omitted by the tool and were not read.
 - **"Renaer doesn't know who he met"** (page row, `jarlaxle.md:50`): no source found beyond the Alexandrian locket line, which says Renaer "didn't know" the Eye was inside.
 
 ---
 
 ## (10) Not readable
 
-- `Jarlaxle Baenre NPC Guide.docx`, listed in `sources/SOURCE_GUIDE.md:691` as "| `Jarlaxle Baenre NPC Guide.docx` | Jarlaxle's personality, tactics, goals, and the Bregan D'aerthe operation; how to play him | **Fireball!**, **Sea Maidens Faire**; the **Bregan D'aerthe** organization page (Bregan D'aerthe section) |". The history page cites it for the "third son" (`history:148`, "lines 51 and 62"). Needs extraction.
-- `Zardoz Zord (and extra side quest hook).docx`, listed in `sources/SOURCE_GUIDE.md:699` as "| `Zardoz Zord (and extra side quest hook).docx` | Jarlaxle's \"Zardoz Zord\" persona — the Sea Maidens Faire disguise and an additional side quest hook | **Fireball!** (Sea Maidens Faire first contact), **Sea Maidens Faire** |". Needs extraction.
+- `Jarlaxle Baenre NPC Guide.docx`, listed in `sources/SOURCE_GUIDE.md:691`: "| `Jarlaxle Baenre NPC Guide.docx` | Jarlaxle's personality, tactics, goals, and the Bregan D'aerthe operation; how to play him | **Fireball!**, **Sea Maidens Faire**; the **Bregan D'aerthe** organization page (Bregan D'aerthe section) |". The history page cites it for the "third son" (`history:148`, "lines 51 and 62"). Needs extraction.
+- `Zardoz Zord (and extra side quest hook).docx`, listed in `sources/SOURCE_GUIDE.md:699`: "| `Zardoz Zord (and extra side quest hook).docx` | Jarlaxle's \"Zardoz Zord\" persona — the Sea Maidens Faire disguise and an additional side quest hook | **Fireball!** (Sea Maidens Faire first contact), **Sea Maidens Faire** |". Needs extraction.
 - `sources/1. The Villains.pdf`: readable only as images (7 pages). The quotes above are transcriptions. The Eye/Stone line is on printed p. 17; the Renaer locket line is on printed p. 16; the Jarlaxle bullet is on printed p. 14.
 - `sources/Act_III_Arc_D.md`, Alexandrian Appendix D, and the other PDFs: not read in this pass.
