@@ -8,7 +8,7 @@ The restored draft let the GM choose each network report and let Jeryth cast "wh
 
 ## Source Departures
 
-Reports are given by Melannor in person or by a note in the gate box. The longest runs past 25 words, and an *Animal Messenger* cannot carry it. The Southern Ward line says "a tenday and a half" where the structure file says two weeks, to keep spans in tendays. The Trades Ward report is gated on **Manshoon Named** for each member who asks for it. Phaulkonmere stands one block south of Kolat Towers, and no row may point at the towers before the gate.
+Reports are given by Melannor in person or by a note in the gate box. The longest runs past 25 words, and an *Animal Messenger* cannot carry it. The Southern Ward line says "a tenday and a half" where the structure file says two weeks, to keep spans in tendays. The Southern Ward report gains the force-field line only when **Manshoon Named** is marked for the member who asks for it, because Kolat Towers stands in the Southern Ward, and the Trades Ward row is a plain "nothing". Phaulkonmere stands one block south of Kolat Towers, and no row may point at the towers before the gate.
 
 The Dock Ward has two rows, one for each side of Tarsakh 20, when the carnival fleet sails. The Castle Ward and North Ward rows are invented fixed lines. The Sea Ward report omits the imps of the structure file, because Melannor knows nothing of the villa's owners.
 

@@ -14,7 +14,7 @@ The old draft had the Lords release Davil "at the end of the same tenday" and ha
 
 ## The Manshoon Gate and the Captured Skeemo
 
-Davil says "the other cell" until **Manshoon Named** is marked, and he adds "Floxin's cell" only if **Floxin Status** is Alive. He suspects the cell keeps its people in "the towers in the Trades Ward", which are Kolat Towers, and Tashlyn's watcher has logged a tower in the Castle Ward where the letters go. Behind the gate he may say Manshoon and Kolat Towers. The truth is in a GM-only block at the top.
+Davil says "the other cell" until **Manshoon Named** is marked, and he adds "Floxin's cell" only if **Floxin Status** is Alive. He suspects the cell keeps its people in "the towers in the Southern Ward", which are Kolat Towers, and Tashlyn's watcher has logged a tower in the Castle Ward where the letters go. Behind the gate he may say Manshoon and Kolat Towers. The truth is in a GM-only block at the top.
 
 The captured branch is the only place the members have a vote, so it is written as a procedure. Each member gets one voice, the majority wins, and a tie goes to the less final option. A dissenter can make one DC 16 Persuasion check to turn Davil, and a failure leaves the count standing. Tashlyn and Yagra argue for execution but do not vote. Davil leans toward exile, and the order of ties makes that his default. The three outcomes are **Skeemo Exiled**, **Skeemo Handed to the Watch** and **Skeemo Executed**, and each is written to be read by a later event.
 
