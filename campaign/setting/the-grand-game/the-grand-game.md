@@ -1,0 +1,95 @@
+# The Grand Game
+
+> Structuring draft.
+
+> **[GM]**
+>
+> #### Gamemaster's Summary
+> - This is the in-world frame for the Grand Game, the campaign's name for the competition among Waterdeep's power blocs. It covers what the Game is, how information moves between its players and how the City Watch behaves as a character in it.
+> - Use it when you explain how a faction learned something, when a contact trades gossip and when the party deals with the Watch. The Game is already running when the campaign opens, so the frame applies in every act.
+> - The channels appear wherever the party meets one: Durnan in **Finding Floon** and **Trollskull Alley**, Istrid Horn in **Trollskull Alley** and **Gralhund Villa**, and Barnibus Blastwind in **Fireball!** and **Gralhund Villa**. The Cassalanters' social events appear in **Fireball!** and **Cassalanter Villa**, and the Faire's ships appear in **Sea Maidens Faire**. **The City Watch** lists the Watch's own scenes.
+> - **What Each Faction Knows at Start** holds the starting-knowledge table for the four villain factions and the Doom Raiders. Response teams, outposts, escalation rows and revelation lists live in the Factions Guide page for each faction. The between-sessions routine lives in **The Grand Game in Play** and the reference tables in **Running the Villains**, both in the GM Guide. Who each faction is lives in the Organizations pages.
+
+**Purpose:** Gives the GM the in-world frame for the faction competition, meaning how power actually works in Waterdeep, with no faction stats.
+
+*This page contains significant spoilers for the campaign. We recommend reading it so that you understand the primary villains and their motivations. Some Gamemasters, however, may prefer not to have this full knowledge, so proceed only if you wish to have all the available information up-front instead of learning things as you play.*
+
+The Grand Game is the campaign's name for the continuing competition among Waterdeep's power blocs for influence, territory and profit. The Game running when the campaign opens is fixed on Neverember's Enigma, the 500,000 gold dragons that Dagult Neverember embezzled and hid, and four villain factions are competing for it. Other factions take part as well, the party among them.
+
+## What the Grand Game Is
+
+- **A name for the competition:** The city's criminal and political underground uses "the Grand Game" for the ongoing competition between power blocs for influence, territory and profit `[research]`. **Running the Villains** says the city's chroniclers give the name to each episode in which the factions fix on one objective, and that such episodes recur through Waterdeep's history. Most Games are clandestine, though public struggles are not unknown. The published adventure never uses the term.
+- **No governing body:** The Game is not formally organized and has no governing body `[research]`. It is called the Grand Game because everyone who plays it understands they are playing it `[research]`.
+- **Speaking in code:** The players refer to the hunt for the vault as "Neverember's Enigma", a deliberately cryptic phrase that lets them speak in code and wrap their words in euphemisms. Use it when an NPC from a villain faction talks around what the faction wants.
+
+## How Information Moves
+
+Information moves through four channels. When a faction or a contact needs a reason for knowing something, use the channel that fits.
+
+- **Front Businesses:** Four factions cover their work with businesses that look ordinary. Bregan D'aerthe uses the Sea Maidens Faire, three carnival ships whose parades draw attention away from the drow's illicit activities, and the published adventure calls the Faire a front in Waterdeep. The Doom Raiders' Istrid Horn runs an illegal moneylending operation from a guarded Dock Ward warehouse, which the campaign counts among the cell's fronts. Manshoon's Zhentarim runs an importing company in the Trades Ward `[research]`, and the Cassalanters run a charitable hospital `[research]`.
+- **Informants:** The Watch has informants in every ward `[research]`, and every faction has informants in the Watch `[research]`. Jarlaxle has informants in every other faction `[research]`, and two of them are sourced. Nar'l Xibrindas, Xanathar's drow advisor, reports to him by *sending* spell, and Vessa, a doppelganger, circulates in the Cassalanters' social circle. Skeemo Weirdbottle compiles all of it `[research]`.
+- **Social Events:** Sea Ward dinner parties are intelligence operations with better wine `[research]`, and the Cassalanters' charitable galas are recruitment screens `[research]`. The family does host public galas during Waukeentide, and the party meets its social circle in **Fireball!** and **Cassalanter Villa**.
+- **The Yawning Portal:** Durnan, the proprietor, has heard everything `[research]`. He shares selectively `[research]`, and every faction knows this and cultivates him anyway `[research]`. The published adventure gives him one duty of this kind, which is to direct adventurers toward tavern regulars who can offer useful information. In the campaign he is also a secret Masked Lord (campaign-only), and his Notable Figure page says that when Waterdeep is genuinely threatened he tends to know before the Watch does.
+
+## The City Watch as a Character
+
+The Watch is genuinely trying, most of the time `[research]`, and it knows that some cases are politically untouchable `[research]`. The published adventure says a visitor can trust the Watch to do its duty diligently, and that its strict code of conduct makes it one of the most trusted police forces outside paladin-patrolled Elturgard.
+
+Most officers are not corrupt by rule. The published adventure names eight crooked Watch veterans in one Masked Lord's pay, which is a handful against a force whose code the same text praises. The officers are susceptible to pressure from above `[research]`, and the GM Notes of **The City Watch** list the cases where that pressure shows.
+
+The Watch is also how the government learns things. Laeral Silverhand's information comes largely from the Watch and from Jalester Silvermane, and it runs about three moves behind the factions (see **A City Watching Itself**). Whatever a party tells the Watch is the likeliest route by which she learns what is happening, though she may never learn all of it.
+
+**Barnibus Blastwind** is the exception among the officials the party meets. He is a Watchful Order investigator of crimes that involve magic, not a Watch officer, and he confides only in **Saeth Cromley**, a retired Watch sergeant who assists in many of his investigations. He is thorough and meticulous, and he is more useful than any other Watch contact `[research]`. In **Fireball!** he arrives at the fireball scene with Cromley and twenty constables and takes charge of the investigation.
+
+## Overview
+
+Waterdhavians use "the Grand Game" as a name for the way the great houses and the guilds compete with one another. The contest is for influence and trade, and it is played at dinners and in guildhalls. Most citizens hear of it only as tavern gossip about a quarrel between two powerful houses.
+
+**Tone:** Plain and procedural for the GM, and in-world for the Overview, where the Game is a figure of speech about great houses and guilds. Play the Watch as a mostly decent institution that bends under pressure from above, and never as a villain. The GM should finish the page with a working sense of how power moves in Waterdeep.
+
+---
+
+## Source References
+
+- `campaign/setting/grand-game.md` lines 11-26: the old page's three frame sections (What the Grand Game Is, How Information Moves, The City Watch as a Character), retired at close-out. Lines 28-36 went to **What Each Faction Knows at Start**.
+- `campaign/guides/gm-guide/running-the-villains.md` lines 7-11: the Game as a recurring episode, the chroniclers' name for it, Neverember's Enigma and the four competing factions.
+- `sources/1. The Villains.pdf` printed pages 13 and 14, read from rendered page images: the Game recurs, most Games are clandestine, and "Neverember's Enigma" is deliberately cryptic so that the players can speak in code.
+- `sources/2. Other Factions.pdf` printed pages 20 and 21, read from rendered page images: other factions, the party among them, take part, and information passed to the City Watch is the likeliest route to the Open Lord.
+- `sources/adventure-wdh.json` line 1299: the Sea Maidens Faire as a Bregan D'aerthe front. Line 31934: Istrid Horn's illegal lending operation. Lines 15149 and 1301: Nar'l Xibrindas as Jarlaxle's spy in Xanathar's Guild. Line 32071: Durnan directs adventurers to useful regulars. Line 31774: Barnibus Blastwind's work for the Watchful Order, and Saeth Cromley. Lines 30514 and 30549: trust in the Watch and its code of conduct. Line 30365: the eight crooked Watch veterans.
+- `campaign/setting/history/04-the-founding-of-chains.md` line 59: the Doom Raiders' fronts. `campaign/setting/history/07-a-city-watching-itself.md` lines 28 and 66: Laeral's information comes from the Watch and Jalester and runs a step behind.
+- `campaign/setting/governance-and-guilds/city-watch.md` lines 62, 81 and 82-84: Barnibus's role, the Watch's place in the Game and the cases where it is pressed or blocked. `campaign/setting/governance-and-guilds/open-lord-and-masked-lords.md` line 45: Durnan's campaign-only standing.
+- `campaign/setting/notable-figures/`: `independents-allies/03-durnan.md`, `city-officials/02-barnibus-blastwind.md` and `03-saeth-cromley.md`, `bregan-daerthe/12-vessa.md`, `xanathars-guild/03-narl-xibrindas.md`, `doom-raiders/03-istrid-horn.md` and `04-skeemo-weirdbottle.md`.
+- `campaign/setting/organizations/10-cassalanters.md` lines 58 and 65: the public Waukeentide galas, and the unsourced front-business and social-cover lines.
+- `campaign/quests/act-ii/fireball/ev-01-the-fireball.md` line 37: Barnibus and Cromley take charge of the scene. `campaign/structure/arc-g-cassalanter-villa.md` lines 35-37 and 133: Jalester on the Cassalanters, and Vessa (structure document, pending conversion).
+- Pass 4 research notes, `grand-game` section of `docs/plans/setting-compendium-research-notes/pass4/grand-game.md`.
+
+## Cross-References
+
+- **What Each Faction Knows at Start**: the starting-knowledge table for the four villain factions and the Doom Raiders.
+- **Running the Villains** and **The Grand Game in Play** (GM Guide): the reference tables, the escalation table and the between-sessions routine.
+- **Xanathar**, **Manshoon**, **The Cassalanters** and **Jarlaxle Baenre** (Villains): the personality-phase pages for the villain factions.
+- **Xanathar's Guild**, **Manshoon's Zhentarim**, **The Cassalanters**, **Bregan D'aerthe** and **The Zhentarim (Doom Raiders)** (Organizations): who each faction is.
+- **Xanathar's Guild**, **Manshoon's Zhentarim**, **The Cassalanters** and **Bregan D'aerthe** (Factions Guide): response teams, outposts, escalation and revelation lists.
+- **The City Watch**, **The Open Lord and the Masked Lords** and **A City Watching Itself** (History): the Watch's cases, the Masked Lords and Laeral's information.
+- **The Stone of Golorr and the Eyes** and **The Vault of Dragons and Neverember's Embezzlement**: the Stone and the gold that the Game is fought over.
+- **Durnan**, **Barnibus Blastwind**, **Saeth Cromley**, **Istrid Horn**, **Skeemo Weirdbottle**, **Nar'l Xibrindas**, **Vessa**, **Jarlaxle Baenre**, **Laeral Silverhand** and **Jalester Silvermane** (Notable Figures): the people named on this page.
+- **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Cassalanter Villa** and **Sea Maidens Faire**: the quests where the channels appear.
+- **Sea Maidens Faire** (locations): the journal for the ships that front for Bregan D'aerthe.
+
+> **[GM]**
+>
+> #### Draft Notes
+> - **Unsourced, kept and tagged (brief ruling 13):** The published adventure never uses the term "Grand Game" (searches of `adventure-wdh.json` and `adventure-wdmm.json` found none), so the whole frame is campaign material. These claims keep the old wording with `[research]`: the term's use in "the city's criminal and political underground", "no governing body", "everyone who plays it understands they are playing it", Manshoon's Trades Ward importing company, the Cassalanters' charitable hospital, the Watch's informants in every ward, every faction's informants in the Watch, Jarlaxle's informants in every other faction, Skeemo compiling it all, dinner parties as intelligence operations, galas as recruitment screens, and Durnan having heard everything, sharing selectively and being cultivated by every faction.
+> - **Partly supported, still tagged:** "Genuinely trying, most of the time" and "politically untouchable" have no source. The trust and code of conduct in `adventure-wdh.json` lines 30514 and 30549 support "trusted" only. Jalester's briefing says the Watch cannot touch the Cassalanters without evidence (`arc-g-cassalanter-villa.md` line 37), which supports "politically untouchable" for that one family. "Susceptible to pressure from above" has the same cases behind it, which `city-watch.md` lines 83-84 list. "More useful than any other Watch contact" has no source.
+> - **Conflicts, Skeemo:** The old line says Skeemo compiles all the information. His Notable Figure page makes him a traitor who feeds Manshoon's cell and House Gralhund by paper bird (`04-skeemo-weirdbottle.md` lines 22 and 26), and the Doom Raiders hunt him in **Silencing Skeemo**. The page keeps the old wording, tagged, and the GM may want a ruling on whose intelligence he compiles.
+> - **Conflicts, the hospital:** The published adventure gives Victoro charitable work, with part of his profits going to "feeding and sheltering the poor", and no hospital (`adventure-wdh.json` line 32692). `10-cassalanters.md` line 65 states the hospital, the dinner parties and the galas as fact without a tag, and line 95 names `grand-game.md` as its source. "Recruitment" has no named recruits, and the page does not say whom the galas screen for.
+> - **Conflicts, Istrid's "front":** The published adventure calls Istrid's operation an illegal lending operation and never a front (`adventure-wdh.json` line 31934). `history/04-the-founding-of-chains.md` line 59 calls it a front, which the page follows and attributes to the campaign.
+> - **Barnibus (brief ruling 5):** "Personally compromised" is dropped because no source gives it, and `city-watch.md` line 129 drops it too. `campaign/guides/gm-guide/debts-of-the-city.md` line 147 gives a situational compromise ("one incident, one person he refuses to discuss"), which this page leaves out and which the Debts page still carries. His Notable Figure page (line 30) and the Stingblade and **The Archer Above** events call him Magistrate, a title the published adventure does not give him. The old line leaves open what he is "the exception" to, and the page keeps the phrase and states his role in the next sentence. "Thorough, meticulous" rests on his Notable Figure page and `ev-01-the-fireball.md` line 37 ("meticulous"). The published "prickly and secretive" and "finds violence appalling" (`adventure-wdh.json` lines 31774 and 31776) are on **The City Watch** and are not repeated here. `sources/Act_III_Arc_D.md` line 137 calls him a dwarf, which is stale.
+> - **Durnan (brief ruling 6):** "Has heard everything" stays, tagged. His standing as a secret Masked Lord is campaign-only (`open-lord-and-masked-lords.md` line 45, `03-durnan.md` lines 7 and 26). The Alexandrian Appendix D says "Durnan's network gives her street-level information she occasionally shares with employers she respects", described as "not intelligence, just Waterdeep gossip" (`Appendix_D_-_Running_the_Tavern.md` line 125). That line is about the bartender Perella, and it gives a network but calls its product gossip, so it does not settle "heard everything".
+> - **Settled elsewhere, the cited source:** The old page cited `21. Faction Reports of the Grand Game.pdf` as the source of what each faction knows at campaign start. Its preface says "The reports here do not necessarily reflect the knowledge held by each faction at the very beginning of Dragon Heist" (printed page 142, as transcribed in `pass4/grand-game.md` line 440; the PDF has no text layer and was not reopened here). This page does not cite it, and the starting-knowledge table cites the GM Guide and the quest files.
+> - **Added, supported, not in the old page:** That Games recur and the chroniclers name them (`running-the-villains.md` line 7, `1. The Villains.pdf` p.13). That most Games are clandestine and that "Neverember's Enigma" lets the players speak in code (p.14). That other factions, the party among them, take part (`2. Other Factions.pdf` p.20). That information passed to the Watch is the likeliest route to the Open Lord (p.21). That Laeral's information runs a step behind (`history/07-a-city-watching-itself.md` lines 28 and 66; line 138 of that page asks this pass to add the government's place in the Game). The current-Game sentence in the opening paragraph follows `running-the-villains.md` lines 9-11.
+> - **Overview, framing:** The Overview is campaign framing and public-level only. "Influence and trade" narrows the old line's "influence, territory, and profit" to what great houses and guilds would say, and "played at dinners and in guildhalls" and "tavern gossip" have no source.
+> - **Found, not added:** The campaign also calls the Seven Masks Theater a Bregan D'aerthe front (`doom-raiders/m01-the-dockside-killer/ev-01-the-dockside-killer.md` line 19), and Skeemo's Weirdbottle's Concoctions in the Trades Ward is a Doom Raiders business (`adventure-wdh.json` lines 31944 and 1453, `history/04` line 59). The page keeps the old four fronts. The one sourced Watch informant is Gosta Ironhelm, a staff applicant for the party's tavern who files atmospherics (`Appendix_D_-_Running_the_Tavern.md` line 159, and `city-watch.md` line 88), which supports "the Watch has informants" and not "in every ward".
+> - **Left open (brief ruling 14), none settled here:** Nihiloor's domination of Xanathar, Nar'l's tenure, Ott Steeltoes, the "something vast and dreaming" seed and the Doom Raiders and Enclave Trades Ward lines are not touched. The page says only that Nar'l reports to Jarlaxle by *sending* spell.
+> - **Stale in other files (not edited):** `grand-game-in-play.md` line 98 links the old page `../../setting/grand-game.md`, and the link needs retargeting to this page when the old page is deleted. `10-cassalanters.md` line 95 names `grand-game.md` as a source and line 65 carries untagged claims. `city-watch.md` lines 102, 128 and 129 cite `grand-game.md` lines, and line 81 states the Watch's informants and pressure without tags. `history/07-a-city-watching-itself.md` line 103 cites the old page. `castle-ward.md` line 276 says the "personally compromised" line is still open, and this page closes it.
+> - **Not run:** `voicecheck.py` has not been run on this page.
