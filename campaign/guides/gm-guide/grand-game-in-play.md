@@ -95,7 +95,7 @@ He can also be reasoned with, and even joined. Membership opens during **Trollsk
 
 - [Running the Villains](running-the-villains.md) — faction knowledge at campaign start, full escalation table, inter-faction operations matrix, response team rosters, and revelation lists
 - [Structural Rules](structural-rules.md) — faction response team mechanics, festival calendar, Three Clue Rule
-- [Setting: Grand Game](../../setting/grand-game.md) — in-world texture of how power moves in Waterdeep
+- **The Grand Game** and **What Each Faction Knows at Start** (Setting) — in-world texture of how power moves in Waterdeep, and the starting-knowledge table
 - [Setting: Villains](../../setting/villains/) — personality phases and goals for Xanathar, Manshoon, the Cassalanters, and Jarlaxle
 - [Bregan D'aerthe](../factions/08-bregan-daerthe.md) — response teams, revelation list
 - [Xanathar's Guild](../factions/09-xanathars-guild.md) — response teams, revelation list
