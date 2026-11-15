@@ -145,7 +145,7 @@ The Field Ward is Waterdeep's slum, an unofficial ward of mud, tanneries and sla
 - Trouble draws a ring of onlookers who watch rather than leave. The Field Ward talks about the Mudlark Square standoff for a tenday afterward, and what it says depends on whether anyone bled.
 - The streets smell of cookfire smoke, wet earth, tallow and wet leather, and of the tanneries and slaughterhouses. After dark no lamplighters tend them.
 - Dragon Heist notes that you will see less reading material here and in the Dock Ward than elsewhere in the city.
-- The Field Ward is the most dangerous district in the city. It took the title from the Dock Ward, which held it for years (Dragon Heist).
+- Dragon Heist calls the ward the city's most dangerous district, a title it took from the Dock Ward.
 - No temple or shrine is sourced. The Major Temples table has no Field Ward row, and Tymora's Tower of Luck and Helm's Hall are not Field Ward temples. Draft Notes holds the conflicts.
 
 ### Defense
@@ -184,7 +184,7 @@ The Field Ward is Waterdeep's slum, an unofficial ward of mud, tanneries and sla
 
 ## Overview
 
-The Field Ward is the poorest district of Waterdeep, a crowded slum between the city's two northernmost walls. It is not an official ward, so the Watch does not patrol it and its residents pay no city tax. Slaughterhouses and tanneries pushed out of the city fill its muddy, unpaved streets, and it has no sewers. It has taken the title of the most dangerous district in the city from the Dock Ward, and visitors are advised to pass through from one gate to the next.
+The Field Ward is the poorest district of Waterdeep, a crowded slum between the city's two northernmost walls. It is not an official ward, so the Watch does not patrol it and its residents pay no city tax. Slaughterhouses and tanneries pushed out of the city fill its muddy, unpaved streets, and it has no sewers. Visitors are advised to pass through from one gate to the next.
 
 ## Read Aloud
 
@@ -215,10 +215,10 @@ Sensory anchors for the GM to build the passage from (not written out):
 ## Cross-References
 - **Waterdeep**: city overview and the other wards.
 - **North Ward**: the other side of Aveen Street and the Asmodean shrine.
-- **Castle Ward**: the Halls of Justice and Savra Belabranta's office.
+- **Castle Ward**: the Halls of Justice, Savra Belabranta's office and the Temple of Helm in the campaign's Marcheon list.
 - **Dock Ward**: Mistshore, Filthy Meg's base, and Pell's drinking den.
 - **Trades Ward**: the well and bench where Halla waits.
-- **Southern Ward**: where the campaign puts the Cassalanters' Converted Windmill and the Temple of Helm named in the Marcheon list.
+- **Southern Ward**: where the campaign puts the Cassalanters' Converted Windmill.
 - **The City Watch**: the Watch and the Guard.
 - **The Code Legal and the Magisters**: the magisters who register visitors at the gates.
 - **The Open Lord and the Masked Lords**: who could accept the ward as an official ward.
@@ -241,7 +241,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 > #### Draft Notes
 > - **Conflicts:** The Watch in the ward. Dragon Heist says "The Watch doesn't patrol this area" (`sources/adventure-wdh.json:31104`). The campaign has "the Field Ward watch house will put a dozen Guards in the taproom" (`ev-01-the-shard-shunners.md:23`), "The Watch's Field Ward post sends two Guards an hour later to rope off the court" (`ev-01-twelvedog-court.md:187`) and "Two watch-houses in the Field Ward that were shuttered after dark for a tenday" (`r03-marcheon/ev-01-marcheon.md:225`). The page keeps Dragon Heist's no-patrol rule and treats the house as a post that answers reports. This is derived. The singular house, the post and the two watch-houses are not reconciled.
 > - **Conflicts:** Ward status. The wiki infobox says City Ward (`field-ward/wiki.txt:9`), the wiki text says unofficial ward (`:93`), and Dragon Heist says it is not an official ward (`:31104`). The page follows Dragon Heist. The task brief says "outside the walls", but Dragon Heist places it between the two northernmost walls and files it outside the city proper (`:31092`, `:31103`), so the page uses those.
-> - **Settled by the user (Session 50):** "Most dangerous." The Field Ward holds the title, which it took from the Dock Ward (`:31061`). The retired outline's Dock Ward claim (`waterdeep-lore.md:19`) is dropped.
+> - **Conflicts:** "Most dangerous." Dragon Heist says the Field Ward has taken that title from the Dock Ward (`:31061`). `campaign/setting/waterdeep-lore.md:19` gives it to the Dock Ward. The outline has no Field Ward bullet.
 > - **Conflicts:** The Shard Shunners' base. Dragon Heist puts them in a halfling-owned hostel on Spices Street in the Dock Ward (`:2914`) and also in the Field Ward robbing the Endshift (`:3976`). The campaign sets them in the Field Ward (`03-kelso-fiddlewick.md:6`). The page follows the campaign.
 > - **Conflicts:** The windmill. Thrakkus's windmill is in the Field Ward (`:13377`). The campaign's Converted Windmill is a Cassalanter outpost in the Southern Ward on Coachlamp Lane (`arc-e-faction-outposts.md:273`), `sources/SOURCE_GUIDE.md:219` puts it in the North Ward, and the published Vault windmill is in the Sea Ward (`:7587`). These are different buildings. No campaign file uses Thrakkus.
 > - **Settled by ruling 1:** Helm's Hall. The Dragon Heist table places it in the Southern Ward (`:30938-30940`), and the Order of the Gauntlet events now agree: Marcheon (`r03-marcheon/ev-01-marcheon.md:201, 222`), The Tithe (`s01-the-tithe/ev-01-the-tithe.md:97`), Whitehawk (`r10-whitehawk/ev-01-whitehawk.md:150`) and the First Meeting (`00-first-meeting/ev-01-first-meeting.md:192`) all say Southern Ward. No source puts a temple in the Field Ward. The Kolat Towers and Tower of Luck conflicts do not touch this page.
