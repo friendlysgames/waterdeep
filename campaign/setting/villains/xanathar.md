@@ -7,7 +7,7 @@
 > #### Gamemaster's Summary
 > - This is the villain profile for Xanathar, the beholder crime lord of **Xanathar's Guild**. It sets out its three personality phases, its relationships, its goals and the one design note that makes it playable.
 > - Use it when you run any scene where Xanathar or the Guild acts or reacts. Phase 1 covers Acts I and II, Phase 2 covers Act III, and Phase 3 begins when the party enters its lair.
-> - Xanathar appears in **Finding Floon**, **Faction Outposts**, **Xanathar's Lair** and **Vault of Dragons**. The **Xanathar Sewer Hideout** is the location journal for its sewer base.
+> - Xanathar appears in **Finding Floon**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair** and **Vault of Dragons**. The **Xanathar Sewer Hideout** is the location journal for the Guild's Dock Ward hideout, which the party reaches in **Finding Floon**. The lair itself has no location journal yet.
 > - The Guild's response teams, outposts, escalation row and revelation list live in the **Xanathar's Guild** page of the Factions Guide. Who the Guild is lives in the **Xanathar's Guild** page of Organizations.
 
 **Purpose:** Lets the GM portray Xanathar as a specific, three-dimensional villain through three personality phases, a relationship table and three goals.

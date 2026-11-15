@@ -58,7 +58,7 @@ Each faction moves through four escalation tiers when the PCs interfere with the
 
 **Manshoon.** Manshoon underestimates threats that aren't magical. Operatives who avoid Kolat Towers may run for sessions before he escalates past response teams. His preference for capturing over killing creates tactical openings.
 
-**Cassalanters.** The Cassalanters operate in two modes. In passive mode they barely react; in hostile mode they skip straight to Willifort's full operation. The switch fires when the PCs refuse to help or are identified as a threat to the soul-pact plan.
+**Cassalanters.** The Cassalanters operate in two modes. In passive mode they barely react; in hostile mode they skip straight to Willifort's full operation. The switch fires when the PCs refuse to help or are identified as a threat to their plan to meet Asmodeus's contract.
 
 **Bregan D'aerthe.** Against the PCs, Jarlaxle reaches for leverage before force. Direct confrontation only comes when the PCs kill his lieutenants without first offering terms.
 
