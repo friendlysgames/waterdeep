@@ -1,0 +1,145 @@
+## sources/adventure-wdh.json lines 513-566
+sources/adventure-wdh.json:513: "name": "Choose Your Villain",
+sources/adventure-wdh.json:514: "page": 6,
+sources/adventure-wdh.json:515: "id": "00f",
+sources/adventure-wdh.json:516: "entries": [
+sources/adventure-wdh.json:517: "When you run this adventure, you choose its main villain at the outset. Your choice determines the season of the year in which the story takes place, as well as the antagonists in several of the encounters in chapter 4. The villain you choose opposes the player characters, while the villains you don't choose become part of the backdrop and could help the characters or hinder them.",
+sources/adventure-wdh.json:518: "As another unusual feature of this adventure, the villains aren't meant to be killed, nor are they out to kill the player characters. The villains are after a treasure hoard, and the adventurers' ultimate goal is to keep the treasure out of their clutches.",
+sources/adventure-wdh.json:519: "You can swap out one villain for another at any time. For example, if you decide halfway through the adventure that because of how the story has progressed {@creature Jarlaxle Baenre|WDH} would make a better antagonist than {@creature Xanathar|WDH}, you can make that change on the fly and run subsequent encounters accordingly.",
+sources/adventure-wdh.json:520: "Each villain is fully described in appendix B and summarized below.",
+sources/adventure-wdh.json:521: {
+sources/adventure-wdh.json:522: "type": "entries",
+sources/adventure-wdh.json:523: "name": "Xanathar",
+sources/adventure-wdh.json:524: "page": 6,
+sources/adventure-wdh.json:525: "id": "010",
+sources/adventure-wdh.json:526: "entries": [
+sources/adventure-wdh.json:527: "{@creature Xanathar|WDH} is a paranoid, megalomaniacal beholder crime lord whose goal is to wipe out anyone it perceives as a Zhentarim operative or sympathizer, retrieve the {@item Stone of Golorr|WDH}, and secure the cache of dragons. Its base is a dungeon under Skullport, a subterranean settlement beneath Waterdeep. This lair is described in chapter 5.",
+sources/adventure-wdh.json:528: "{@creature Xanathar|WDH} has a healthy fear of {@creature Laeral Silverhand|WDH} and is inclined to spare those in her employ, to avoid provoking a conflict with Waterdeep's Open Lord. Adventurers who incur the wrath of the beholder can use its fear of Laeral to escape certain death.",
+sources/adventure-wdh.json:529: "If you choose {@creature Xanathar|WDH} as the villain, the adventure takes place in the spring."
+sources/adventure-wdh.json:530: ]
+sources/adventure-wdh.json:531: },
+sources/adventure-wdh.json:532: {
+sources/adventure-wdh.json:533: "type": "entries",
+sources/adventure-wdh.json:534: "name": "The Cassalanters",
+sources/adventure-wdh.json:535: "page": 6,
+sources/adventure-wdh.json:536: "id": "011",
+sources/adventure-wdh.json:537: "entries": [
+sources/adventure-wdh.json:538: "Victoro and {@creature Ammalia Cassalanter|WDH} are Waterdavian nobles and secret devil worshipers. The Cassalanters plan to use the cache of dragons to buy back the souls of their children, which they traded to Asmodeus for power. Their estate, Cassalanter Villa, has a temple of Asmodeus hidden underneath it, as described in chapter 6.",
+sources/adventure-wdh.json:539: "The Cassalanters try to misdirect and discredit the characters rather than murder them. Victoro and Ammalia rely on their noble status to protect them, and the last thing they want is the City Watch on their doorstep.",
+sources/adventure-wdh.json:540: "If you choose the Cassalanters as the villains, the adventure takes place in the summer."
+sources/adventure-wdh.json:541: ]
+sources/adventure-wdh.json:542: },
+sources/adventure-wdh.json:543: {
+sources/adventure-wdh.json:544: "type": "entries",
+sources/adventure-wdh.json:545: "name": "Jarlaxle Baenre",
+sources/adventure-wdh.json:546: "page": 6,
+sources/adventure-wdh.json:547: "id": "012",
+sources/adventure-wdh.json:548: "entries": [
+sources/adventure-wdh.json:549: "{@creature Jarlaxle Baenre|WDH} is a drow swashbuckler and the secret lord of Luskan, the City of Sails. Jarlaxle plans to use the cache of dragons to buy his way into the Lords' Alliance, a confederation of cities and towns that band together against common threats. Jarlaxle also wants the {@item dragonstaff of Ahghairon|WDH} for leverage in his negotiations. In the magical guise of a human sea captain named Zardoz Zord, Jarlaxle runs a traveling carnival called the Sea Maidens Faire and lairs aboard a ship in Waterdeep's harbor that has a submarine (the {@i Scarlet Marpenoth}) underneath it, as described in chapter 7.",
+sources/adventure-wdh.json:550: "Jarlaxle delights in thwarting his enemies, enjoys the complications that arise when adventurers try to meddle in his affairs, and loves to see the looks on their faces when he finally gets the better of them. He doesn't suffer fools who threaten him, however. If forced into a violent confrontation, he swiftly and brutally kills someone to make an example of them and then walks off.",
+sources/adventure-wdh.json:551: "If you choose Jarlaxle as the villain, the adventure takes place in the autumn."
+sources/adventure-wdh.json:552: ]
+sources/adventure-wdh.json:553: },
+sources/adventure-wdh.json:554: {
+sources/adventure-wdh.json:555: "type": "entries",
+sources/adventure-wdh.json:556: "name": "Manshoon",
+sources/adventure-wdh.json:557: "page": 7,
+sources/adventure-wdh.json:558: "id": "013",
+sources/adventure-wdh.json:559: "entries": [
+sources/adventure-wdh.json:560: "A clone of the wizard {@creature Manshoon|WDH}, one of the founders of the Zhentarim, is hiding in Waterdeep. He wants to rule the city, by claiming the cache of dragons and by using that wealth to bribe the Masked Lords into making him the new Open Lord. He also wants to regain control of the Black Network. {@creature Manshoon|WDH} lurks in Kolat Towers, a pair of wizards' towers in the Trades Ward. This residence is described in chapter 8.",
+sources/adventure-wdh.json:561: "{@creature Manshoon|WDH} creates copies of himself using the {@spell simulacrum} spell and takes great pains to conceal his identity, since his success hinges on not attracting the attention of others who would seek to thwart him before his plans come to fruition. {@creature Manshoon|WDH} avoids unnecessary confrontations with adventurers; only those who enter his extradimensional sanctum are likely to incur his wrath.",
+sources/adventure-wdh.json:562: "If you choose {@creature Manshoon|WDH} as the villain, the adventure takes place in the winter."
+sources/adventure-wdh.json:563: ]
+sources/adventure-wdh.json:564: }
+sources/adventure-wdh.json:565: ]
+sources/adventure-wdh.json:566: },
+
+## sources/adventure-wdh.json lines 32174-32260
+sources/adventure-wdh.json:32174: "name": "Jarlaxle Baenre",
+sources/adventure-wdh.json:32175: "page": 206,
+sources/adventure-wdh.json:32176: "id": "4b9",
+sources/adventure-wdh.json:32177: "entries": [
+sources/adventure-wdh.json:32178: "{@creature Jarlaxle Baenre|wdh|Jarlaxle} is a flamboyant, swashbuckling drow iconoclast. He leads a renegade drow faction called Bregan D'aerthe, made up of disenfranchised male drow, most of them culled from destroyed or disgraced houses. Gifted with a sharp mind, a sense of humor, puissant skill with a blade, and a wealth of useful magic items, Jarlaxle infiltrated the city of Luskan, brought a kind of order to its lawlessness, and declared himself its secret lord.",
+sources/adventure-wdh.json:32179: "Jarlaxle likes to weave a tangled web of schemes that leave his enemies baffled-the latest of which is a plan to legitimize Luskan by making it a member of the Lords' Alliance. The city's unsavory reputation has thwarted all previous efforts, and the current leaders of the Lords' Alliance have voiced their opposition to Luskan's admittance. A few have flatly declared that the city will never be welcome in the alliance. Nonetheless, Jarlaxle aims to persuade {@creature Laeral Silverhand|WDH}, the Open Lord of Waterdeep, to champion Luskan's cause-even if that means losing other alliance members in the process. Tying Luskan's fortunes to those of Waterdeep would increase Jarlaxle's political and economic power on the Sword Coast.",
+sources/adventure-wdh.json:32180: "Jarlaxle has come to Waterdeep in the guise of an Illuskan human named Zardoz Zord. \"Captain Zord\" is the master of the Sea Maidens Faire, a carnival that travels up and down the Sword Coast in three ships: the {@i Eyecatcher}, the {@i Heartbreaker}, and the {@i Hellraiser} (all words that describe Jarlaxle). He spends most of his time aboard the {@i Eyecatcher}, his personal ship. The other two vessels carry members of the carnival and their parade wagons.",
+sources/adventure-wdh.json:32181: "Jarlaxle has forged an alliance with Lantan (an island to the south), and has armed his Bregan D'aerthe lieutenants with Lantanese firearms that rely on magical {@item smokepowder|WDH} to function. He has also acquired a Lantanese submarine called the {@i Scarlet Marpenoth}. This underwater vessel is mounted below the {@i Eyecatcher} and kept out of sight. Jarlaxle plans on using the submarine to flee Waterdeep if his scheme unravels.",
+sources/adventure-wdh.json:32182: "Jarlaxle's loyalties are to himself first and foremost, and to Bregan D'aerthe secondarily."
+sources/adventure-wdh.json:32183: ]
+sources/adventure-wdh.json:32184: },
+sources/adventure-wdh.json:32185: {
+sources/adventure-wdh.json:32186: "type": "entries",
+sources/adventure-wdh.json:32187: "name": "Laeral Silverhand",
+sources/adventure-wdh.json:32188: "page": 207,
+sources/adventure-wdh.json:32189: "id": "4ba",
+sources/adventure-wdh.json:32190: "entries": [
+sources/adventure-wdh.json:32191: {
+sources/adventure-wdh.json:32192: "type": "image",
+sources/adventure-wdh.json:32193: "href": {
+sources/adventure-wdh.json:32194: "type": "internal",
+sources/adventure-wdh.json:32195: "path": "adventure/WDH/Laeral.webp"
+sources/adventure-wdh.json:32196: },
+sources/adventure-wdh.json:32197: "title": "{@creature Laeral Silverhand|WDH}",
+sources/adventure-wdh.json:32198: "width": 611,
+sources/adventure-wdh.json:32199: "height": 1000
+sources/adventure-wdh.json:32200: },
+sources/adventure-wdh.json:32201: "Anamanué {@creature Laeral Silverhand|wdh} was born in the Year of the Cowl (765 DR), the fifth of seven daughters of the goddess Mystra. Each of the Seven Sisters is a powerful and ageless beauty with a penchant for arcane magic.",
+sources/adventure-wdh.json:32202: "Long ago, Laeral ruled a kingdom called Stornanter and held the title of Witch-Queen of the North. After that, she led a band of adventurers called the Nine. She met and married Khelben Arunsun, who would later become the Blackstaff, the Lord Mage of Waterdeep. After Khelben died, Laeral retired from public life. She resurfaced after the Spellplague and the Sundering, weakened by Mystra's death, rebirth, and withdrawal from the world.",
+sources/adventure-wdh.json:32203: "Laeral's magic isn't as great as it once was, though she does her utmost to hide this fact. Only Elminster, her trusted friend and advisor, knows the extent of her decline. Despite her diminished abilities, Laeral remains a formidable, clear-headed wizard with plenty of magic at her disposal.",
+sources/adventure-wdh.json:32204: "A few years ago, Dagult Neverember was ousted as Open Lord of Waterdeep. Laeral reluctantly stepped into the vacancy at the request of the Masked Lords, and has served as Waterdeep's Open Lord ever since. Initially overwhelmed by the demands of the nobles and guildmasters, she has settled nicely into her new role. She uses her magic sparingly and relies on trusted advisors and deputies. As time allows, she likes to venture outside the Palace of Waterdeep in disguise, just to clear her head or check up on old friends (and enemies).",
+sources/adventure-wdh.json:32205: "Laeral's relationship with {@creature Vajra Safahr|WDH}, the current Blackstaff, has its challenges. For one thing, Laeral is much older, much wiser, and much more powerful than Vajra, whom she views as an insecure child. In addition, Vajra wields the Blackstaff, which has Khelben Arunsun's soul and the souls of all the other Blackstaffs bound inside it. Laeral covets the staff, because it contains all that's left of her husband. Not surprisingly, the two mages avoid each other as much as possible.",
+sources/adventure-wdh.json:32206: "In times of great need, Laeral can command Vajra to unleash Force Grey. Until that order is given, Force Grey isn't allowed to conduct operations in Waterdeep, though Laeral's spies tell her that Vajra has secretly activated members of the elite order and sent them on a number of unauthorized missions. Laeral is reluctant to confront Vajra on the matter, and rationalizes her inaction by framing it as a test of Vajra's competence."
+sources/adventure-wdh.json:32207: ]
+sources/adventure-wdh.json:32208: },
+sources/adventure-wdh.json:32209: {
+sources/adventure-wdh.json:32210: "type": "entries",
+sources/adventure-wdh.json:32211: "name": "Manshoon",
+sources/adventure-wdh.json:32212: "page": 208,
+sources/adventure-wdh.json:32213: "id": "4bb",
+sources/adventure-wdh.json:32214: "entries": [
+sources/adventure-wdh.json:32215: "Referred to in this adventure simply as \"{@creature Manshoon|wdh},\" this clone of the ancient archwizard infiltrated Waterdeep years ago and has been hiding out in Kolat Towers ever since, in the city's Southern Ward.",
+sources/adventure-wdh.json:32216: "The original {@creature Manshoon|WDH} was one of the founders of the Zhentarim. Evil to the core, he made enemies all across Faerûn, including other powerful spellcasters such as Khelben Arunsun and Elminster. Fearing that he might be destroyed by his foes, {@creature Manshoon|WDH} magically crafted several clones-but a mishap caused all of them to be awakened at once, whereupon they tried to destroy one another in a series of conflicts that came to be known as the {@creature Manshoon|WDH} Wars.",
+sources/adventure-wdh.json:32217: "Now the original {@creature Manshoon|WDH} is dead, and it's widely believed that all his clones were destroyed as well. In fact, at least three are still alive. The one presently in Waterdeep escaped death by hiding out in Undermountain, where he eventually ran afoul of Halaster Blackcloak. After a brief spell duel, Halaster captured {@creature Manshoon|WDH} and amputated his left arm at the elbow for reasons unknown. {@creature Manshoon|WDH} escaped imprisonment and fled Undermountain, taking refuge in the city above. Attempts to magically regenerate his severed limb failed, forcing him to craft an artificial arm and hand for himself.",
+sources/adventure-wdh.json:32218: "{@creature Manshoon|WDH} took control of Kolat Towers, a crumbling residence in the Southern Ward that was abandoned years ago by the two wizards who built it. The edifice is surrounded by a magical barrier that has the properties of a wall of force. {@creature Manshoon|WDH} rarely leaves the towers and uses a teleportation circle when he must do so, and thus is never seen entering or leaving.",
+sources/adventure-wdh.json:32219: "{@creature Manshoon|WDH} aims to rule Waterdeep and replace the City Watch with Black Network mercenaries that are loyal to him alone. By bribing and blackmailing the Masked Lords, he hopes to oust {@creature Laeral Silverhand|WDH} as Open Lord and take her place, kill the Blackstaff, reduce the Masked Lords to mere vassals, and declare himself the Wizard-King of Waterdeep. Once the city is firmly in his clutches, {@creature Manshoon|WDH} will then turn his attention toward Undermountain, destroy Halaster once and for all, and claim the dungeon's riches.",
+sources/adventure-wdh.json:32220: {
+sources/adventure-wdh.json:32221: "type": "entries",
+sources/adventure-wdh.json:32222: "name": "Manshoon Simulacrum",
+sources/adventure-wdh.json:32223: "page": 208,
+sources/adventure-wdh.json:32224: "id": "4bc",
+sources/adventure-wdh.json:32225: "entries": [
+sources/adventure-wdh.json:32226: "{@creature Manshoon|WDH} uses the {@spell simulacrum} spell to create a magical duplicate of himself as needed. He has customized the spell to increase {@creature Manshoon Simulacrum|wdh|his simulacrum}'s hit points at the expense of its spellcasting ability.",
+sources/adventure-wdh.json:32227: "{@creature Manshoon|WDH} can have only one simulacrum at any given time, and he uses it as a subordinate to command his Zhentarim minions in the field. If his simulacrum is destroyed, {@creature Manshoon|WDH} creates another. Each simulacrum has the statistics of {@creature Manshoon|WDH}, with these changes:",
+sources/adventure-wdh.json:32228: {
+sources/adventure-wdh.json:32229: "type": "list",
+sources/adventure-wdh.json:32230: "items": [
+sources/adventure-wdh.json:32231: "The simulacrum has no special equipment. Consequently, it has AC 12 and lacks the Magic Resistance trait and the Staff of Power action option.",
+sources/adventure-wdh.json:32232: "It loses all spell slots of 6th level and higher.",
+sources/adventure-wdh.json:32233: "It has a challenge rating of 8 (3,900 XP)."
+sources/adventure-wdh.json:32234: ]
+sources/adventure-wdh.json:32235: }
+sources/adventure-wdh.json:32236: ]
+sources/adventure-wdh.json:32237: }
+sources/adventure-wdh.json:32238: ]
+sources/adventure-wdh.json:32239: },
+sources/adventure-wdh.json:32240: {
+sources/adventure-wdh.json:32241: "type": "entries",
+sources/adventure-wdh.json:32242: "name": "Martial Arts Adept",
+sources/adventure-wdh.json:32243: "page": 209,
+sources/adventure-wdh.json:32244: "id": "4bd",
+sources/adventure-wdh.json:32245: "entries": [
+sources/adventure-wdh.json:32246: "{@creature Martial arts adept|VGM|Martial arts adepts} are disciplined monks who have extensive training in hand-to-hand combat. Some protect monasteries; others travel the world seeking enlightenment or new forms of combat to master. A few become bodyguards, trading their combat prowess and loyalty for food and lodging."
+sources/adventure-wdh.json:32247: ]
+sources/adventure-wdh.json:32248: },
+sources/adventure-wdh.json:32249: {
+sources/adventure-wdh.json:32250: "type": "entries",
+sources/adventure-wdh.json:32251: "name": "Meloon Wardragon",
+sources/adventure-wdh.json:32252: "page": 210,
+sources/adventure-wdh.json:32253: "id": "4be",
+sources/adventure-wdh.json:32254: "entries": [
+sources/adventure-wdh.json:32255: "{@creature Meloon Wardragon|wdh|Meloon} is a handsome, formidable warrior in his prime, who serves the goddess Tymora and loves a good fight. His friends-among them {@creature Renaer Neverember|wdh} and {@creature Vajra Safahr|WDH}-describe him as honest, optimistic, and extraordinarily lucky. Until recently, he was a member of Force Grey and reported directly to the Blackstaff. In recent months, Meloon has spent much of his time at the Yawning Portal.",
+sources/adventure-wdh.json:32256: "Three months ago, out of boredom, Meloon accompanied a fledgling band of adventurers on an expedition to Undermountain. There, his luck ran out. While resting in the dungeon, the adventuring party was attacked by monsters unleashed by {@creature Xanathar|WDH}-including a number of intellect devourers. One of the creatures succeeded in magically devouring and replacing Meloon's brain, turning the champion of Tymora into a puppet. After finishing off his unsuspecting companions, Meloon returned to Waterdeep as a Xanathar Guild spy.",
+sources/adventure-wdh.json:32257: "The intellect devourer that inhabits Meloon's skull was bred by {@creature Nihiloor|WDH}, a mind flayer in {@creature Xanathar|WDH}'s employ. It knows everything Meloon knew, and Meloon behaves much as he did before his descent into Undermountain. He hangs out at the Yawning Portal, tries to bond with adventurers, and offers a helping hand whenever doing so feels appropriate. The intellect devourer's primary goals are to steer adventurers away from Undermountain and get them to undertake quests that further the aims of {@creature Xanathar|WDH}. Such quests usually involve the eradication of {@creature Xanathar|WDH}'s enemies, and Meloon is all too eager to fight alongside those who fall for his ruse.",
+sources/adventure-wdh.json:32258: {
+sources/adventure-wdh.json:32259: "type": "entries",
+sources/adventure-wdh.json:32260: "name": "Adjusted Game Statistics",
+
