@@ -180,11 +180,11 @@ All setting files are structuring drafts.
 | `lore/` | The Stone of Golorr and the Eyes; The Vault of Dragons and Neverember's Embezzlement |
 | `deities/` | The Deities hub plus 73 pages: Faerûnian gods, Siamorphe, other pantheons' heads and warlock patrons |
 | `history/` | The History hub, eight era pages (`01`-`08`) and Timekeeping and the Festival Calendar (`09`): Ahghairon through the players' arrival, with a dated Timeline where sources settle one |
-| `grand-game.md` | In-world Grand Game frame; faction starting knowledge table |
+| `the-grand-game/` | The Grand Game (in-world frame, information flow, the Watch) and What Each Faction Knows at Start (starting-knowledge table, GM Guide wording) |
 | `villains/xanathar.md` | 3 personality phases, relationships, goals, Sylgar note |
-| `villains/manshoon.md` | 3 phases (incl. Simulacrum), relationships, goals, Two Zhentarims DM note |
-| `villains/cassalanters.md` | 3 phases, relationships, goals, children timing note |
-| `villains/jarlaxle.md` | Zardoz Zord phase + adversary/ally tracks, relationships, goals, entry and activation note |
+| `villains/manshoon.md` | Background, 3 phases (Phase 3 is the clone's simulacrum insurance), relationships, goals, Two Zhentarims GM note, Overview |
+| `villains/cassalanters.md` | Background, 3 phases (Phase 3 dated to Founders' Day), relationships, goals, children timing note, Overview |
+| `villains/jarlaxle.md` | Background, Zardoz Zord phase + adversary/ally tracks, relationships, goals, entry and activation GM Notes (**Jarlaxle Unmasked**, per-character **BD Contact Severed**), Overview |
 | `notable-figures/` | 122 NPC pages in 15 group folders (trollskull-community, independents-allies, independents-adversaries, city-officials, harpers, lords-alliance, emerald-enclave, order-of-the-gauntlet, force-grey, doom-raiders, bregan-daerthe, xanathars-guild, manshoons-zhentarim, cassalanters, gralhunds). One page per NPC: H1, `> **[GM]**` Gamemaster's Summary, ## Roleplaying Information, ## Character Information, ## Overview. |
 | `organizations/` | 10 faction pages: 01-harpers through 10-cassalanters. Lore only: Operations, Key Members, Grand Game Agenda, Overview. Game mechanics (stance, hooks, first meeting, renown, missions, response teams, outposts, escalation, revelation lists) live in the **Factions Guide**. |
 
