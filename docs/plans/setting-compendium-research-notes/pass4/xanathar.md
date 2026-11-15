@@ -6,12 +6,12 @@ Bundle: `sources/research/pass4-bundles/xanathar/` (adventure.txt 113 lines, wik
 
 Conventions:
 - Adventure quotes cite `sources/adventure-wdh.json:N` (Dragon Heist, 5e; edition tag WDH 5e). `{@tag}` markup is kept as written.
-- Wiki quotes cite `sources/research/pass4-bundles/xanathar/wiki.txt:N`. Wiki link and template markup (`[[...]]`, `{{...}}`, `<ref>` tags) is removed; the wording is unchanged. Each wiki quote gives its edition tag where the wiki gives one.
+- Wiki quotes cite `sources/research/pass4-bundles/xanathar/wiki.txt:N`. Wiki link and template markup and `<ref>` tags are removed; the wording is unchanged. Each wiki quote gives its edition tag where the wiki gives one.
 - Alexandrian PDFs are image-only. Their quotes are transcriptions of the rendered page, cited by printed page and PDF page. Check them against the PDF before they go into prose.
-- Campaign quotes are exact.
+- Campaign quotes are exact. Where a quote is a full line, it is the full line.
 
 Two premises in the brief, checked:
-1. The wiki page "Xanathar (original)" is not the Waterdeep beholder. It is the founder of the thieves' guild, active in the mid-14th century DR. The Waterdeep beholder is Zushaxx, the Xanathar of 1492 DR. The bundle has no Zushaxx page; Zushaxx appears only inside the "Xanathar's Thieves' Guild" page (wiki.txt:142, 279-293). Details in section 2.
+1. The wiki page "Xanathar (original)" is not the Waterdeep beholder. It is the founder of the thieves' guild, active in the mid-14th century DR. The Waterdeep beholder is Zushaxx, the Xanathar of 1492 DR. The bundle has no Zushaxx page; Zushaxx appears only inside the "Xanathar's Thieves' Guild" page (wiki.txt:142, 279-293).
 2. The page does not contain "thirteen" or "fifteenth" (checked with grep). "Thirteen" appears in `campaign/setting/history/02-the-long-shadow.md:127` and `:152`, and in `session 47 handoff.md:141`. "at least the fifteenth" appears only at `sources/research/pass4-bundles/xanathar/wiki.txt:281`.
 
 No `questions` list was given. The sections set by the brief are answered below.
@@ -36,9 +36,9 @@ No `questions` list was given. The sections set by the brief are answered below.
 
 **Wiki (edition tags as given)**
 
-> `| alignment1e    = [[Lawful evil]]` with `| refs1e = ... Waterdeep and the North, 57-58` (1e)
-> `| alignment2e    = [[Lawful evil]]` with `| refs2e = ... Hall of Heroes, 104-105` (2e)
-> — `sources/research/pass4-bundles/xanathar/wiki.txt:38`, `:40`, `:41`, `:43`
+> `| alignment1e    = [[Lawful evil]]`, with the reference `| refs1e         = <ref name="W&tN-p57">{{Cite book/Waterdeep and the North|57-58}}</ref>` (1e)
+> `| alignment2e    = [[Lawful evil]]`, with the reference `| refs2e         = <ref name="HoH-p104-105">{{Cite book/Hall of Heroes|104-105}}</ref>` (2e)
+> — `sources/research/pass4-bundles/xanathar/wiki.txt:38-43`
 
 > "His main goal was simply to maintain his position." (founder; cited to 2e Hall of Heroes 104-105)
 > — `sources/research/pass4-bundles/xanathar/wiki.txt:51`
@@ -68,7 +68,7 @@ Page:
 > "- The current Xanathar believes it is the original. This belief is now structural to the Guild's identity rather than correctable. How the belief arose is not settled in any source, and the user has settled it ("Remix overtakes original campaign"): the remix line wins over the published adventure's area X33, where Xanathar gazes somberly at the tombs of its predecessors."
 > — `campaign/setting/villains/xanathar.md:24`
 
-Campaign history page (the same facts, with the wiki's account):
+Campaign history page:
 
 > "- "Xanathar" is a title. The first holder established the criminal underworld's structure, and each later Xanathar inherited the apparatus and the paranoia together. The old era block adds that the title predates any individual beholder. The wiki says the opposite, and Draft Notes logs the conflict."
 > — `campaign/setting/history/02-the-long-shadow.md:32`
@@ -84,27 +84,27 @@ Campaign history page (the same facts, with the wiki's account):
 
 Wiki, the founder (infobox and text):
 
-> "'''Xanathar''' was a [[beholder]] of the mid–14{{th}} century [[DR]] and the founding crime lord of the [[Xanathar Thieves' Guild]] in [[Waterdeep]]." (refs omitted)
+> "'''Xanathar''' was a [[beholder]] of the mid–14{{th}} century [[DR]] and the founding crime lord of the [[Xanathar Thieves' Guild]] in [[Waterdeep]]." (refs removed)
 > — `sources/research/pass4-bundles/xanathar/wiki.txt:45`
 
-> "Xanathar was originally a follower of the eye tyrant Xantriph, who was an ally of Manshoon of Zhentil Keep. Xanathar was sent by the Zhentarim to Waterdeep to plot the downfall of the Lords of Waterdeep and establish a ruler friendly to the Zhents. He arrived hidden in cargo in a trading caravan from Zhentil Keep. However, after lurking around the docks and conspiring for a couple of months, Xanathar was inspired by Waterdeep's free market atmosphere and sensed a power vacuum in the city's underworld. He soon went independent, and vanished from his masters' view. Acting independently, he established a network of thieves who worked for him and located a hideout below the city. He brought many of the disparate freelance criminal operations under his covert leadership." (refs omitted)
+> "Xanathar was originally a follower of the eye tyrant Xantriph, who was an ally of Manshoon of Zhentil Keep. Xanathar was sent by the Zhentarim to Waterdeep to plot the downfall of the Lords of Waterdeep and establish a ruler friendly to the Zhents. He arrived hidden in cargo in a trading caravan from Zhentil Keep. However, after lurking around the docks and conspiring for a couple of months, Xanathar was inspired by Waterdeep's free market atmosphere and sensed a power vacuum in the city's underworld. He soon went independent, and vanished from his masters' view. Acting independently, he established a network of thieves who worked for him and located a hideout below the city. He brought many of the disparate freelance criminal operations under his covert leadership." (refs removed)
 > — `sources/research/pass4-bundles/xanathar/wiki.txt:96`
 
-> "By the 1350s DR, Xanathar led a great but "unofficial" thieves' guild and only his lieutenants, the "four councilors"—Slan Thurbel, Slink Monteskor, Ott Steeltoes, and Shindia Darkeyes—knew his true nature and aspirations. It was well established by 1357 DR." (refs omitted)
+> "By the 1350s DR, Xanathar led a great but "unofficial" thieves' guild and only his lieutenants, the "four councilors"—Slan Thurbel, Slink Monteskor, Ott Steeltoes, and Shindia Darkeyes—knew his true nature and aspirations. It was well established by 1357 DR." (refs removed)
 > — `sources/research/pass4-bundles/xanathar/wiki.txt:98`
 
 Wiki, the Eye (Kirukeskai):
 
-> "However, beginning around 1354 DR, another beholder had set its sights on the Xanathar's Thieves' Guild. Already the leader of a slaving ring based in Skullport, the beholder known as the Eye desired to increase its power and influence by taking over the thieving organization. Over ten years, the Eye studied the Xanathar's Thieves' Guild and questioned charmed people in the know, and found subtle similarities in how their two groups behaved, things only a beholder would recognize. It thus learned the Xanathar was a fellow eye tyrant from a different hive, and plotted to eliminate a rival and seize more power in one swoop. Xanathar remained completely unaware as, over a few years, the Eye's investigations revealed the location of its lair. The Eye kept its own nature secret from Xanathar." (refs omitted)
+> "However, beginning around 1354 DR, another beholder had set its sights on the Xanathar's Thieves' Guild. Already the leader of a slaving ring based in Skullport, the beholder known as the Eye desired to increase its power and influence by taking over the thieving organization. Over ten years, the Eye studied the Xanathar's Thieves' Guild and questioned charmed people in the know, and found subtle similarities in how their two groups behaved, things only a beholder would recognize. It thus learned the Xanathar was a fellow eye tyrant from a different hive, and plotted to eliminate a rival and seize more power in one swoop. Xanathar remained completely unaware as, over a few years, the Eye's investigations revealed the location of its lair. The Eye kept its own nature secret from Xanathar." (refs removed)
 > — `sources/research/pass4-bundles/xanathar/wiki.txt:100`
 
-> "Unbeknownst to Xanathar, this syndicate was commanded by another beholder, Kirukeskai, known as "the Eye."" — the full sentence block is: "The Xanathar Guild had not yet become slavers, as slaving operations in Skullport were primarily controlled by the fearsome Agents of the Eye. Unbeknownst to Xanathar, this syndicate was commanded by another beholder, Kirukeskai, known as "the Eye." Through years of careful spywork, the Eye determined that the mysterious Xanathar was a fellow beholder, and began plotting to take its place." (refs omitted)
+> "The Xanathar Guild had not yet become slavers, as slaving operations in Skullport were primarily controlled by the fearsome Agents of the Eye. Unbeknownst to Xanathar, this syndicate was commanded by another beholder, Kirukeskai, known as "the Eye." Through years of careful spywork, the Eye determined that the mysterious Xanathar was a fellow beholder, and began plotting to take its place." (refs removed)
 > — `sources/research/pass4-bundles/xanathar/wiki.txt:257`
 
-> "The Eye proceeded to take over the Xanathar Guild operations and renamed itself "the Xanathar," starting the Guild's tradition of using the name as a title. After killing the few original employees who didn't fall in line, the Eye successfully merged the Xanathar Guild and the Agents of the Eye, all without alerting its underlings that a regime change had taken place. By 1372, the Agents of the Eye had become interchangeable with the Xanathar Guild, though the former name was more often used in Skullport, and the latter used in Waterdeep." (refs omitted)
+> "The Eye proceeded to take over the Xanathar Guild operations and renamed itself "the Xanathar," starting the Guild's tradition of using the name as a title. After killing the few original employees who didn't fall in line, the Eye successfully merged the Xanathar Guild and the Agents of the Eye, all without alerting its underlings that a regime change had taken place. By 1372, the Agents of the Eye had become interchangeable with the Xanathar Guild, though the former name was more often used in Skullport, and the latter used in Waterdeep." (refs removed)
 > — `sources/research/pass4-bundles/xanathar/wiki.txt:261`
 
-> "'''Kirukeskai''', also called '''the Eye''', was an [[elder orb]] who was the first [[beholder]] to hold '''The Xanathar''' as a title instead of a name. It was a crime lord and the leader of the [[Xanathar's Thieves' Guild]], also called the Xanathar's Guild." (refs omitted; Kirukeskai page)
+> "'''Kirukeskai''', also called '''the Eye''', was an [[elder orb]] who was the first [[beholder]] to hold '''The Xanathar''' as a title instead of a name. It was a crime lord and the leader of the [[Xanathar's Thieves' Guild]], also called the Xanathar's Guild." (refs removed; Kirukeskai page)
 > — `sources/research/pass4-bundles/xanathar/wiki.txt:1391`
 
 > Kirukeskai infobox: `| age            = 100 years in [[1304 DR]]` — `wiki.txt:1346`; `| start of reign = Some years after [[1304 DR]]` — `wiki.txt:1364`; `| predecessor    = [[Xanathar (original)]]` — `wiki.txt:1366`
@@ -112,12 +112,12 @@ Wiki, the Eye (Kirukeskai):
 > Guild infobox, leaders (markup removed): "Xanathar (Zushaxx) in 1492; Former Xanathar (original) in 1357; Xanathar (Kirukeskai) in 1372; Xanathar (Xandulzrithral); Xanathar (Izulktur)"
 > — `sources/research/pass4-bundles/xanathar/wiki.txt:142`
 
-Wiki, Zushaxx's rise (edition: Dragon Heist 5e and Dungeon #206, as cited by the wiki):
+Wiki, Zushaxx's rise (the wiki cites Dragon Heist 5e and Dungeon #206):
 
-> "Regardless, the Eye was replaced, and other beholders continued to take on the title of the Xanathar. Two of these beholders facilitated their own retirement rather than risk being overthrown or killed; one was Xandulzrithral, who retired peacefully, and another was Izulktur, who replaced itself with Zushaxx." (refs omitted)
+> "Regardless, the Eye was replaced, and other beholders continued to take on the title of the Xanathar. Two of these beholders facilitated their own retirement rather than risk being overthrown or killed; one was Xandulzrithral, who retired peacefully, and another was Izulktur, who replaced itself with Zushaxx." (refs removed)
 > — `sources/research/pass4-bundles/xanathar/wiki.txt:279`
 
-> "As the new Xanathar, Zushaxx ran the Guild ambitiously, and amassed as much information as possible to increase the Guild's power." — `sources/research/pass4-bundles/xanathar/wiki.txt:281` (the same paragraph contains the predecessor count; see 2c)
+> "As the new Xanathar, Zushaxx ran the Guild ambitiously, and amassed as much information as possible to increase the Guild's power." — `sources/research/pass4-bundles/xanathar/wiki.txt:281` (the same paragraph gives the predecessor count; see 2c)
 
 > "Through its spies, Zushaxx managed to acquire the Stone of Golorr, a magical artifact considered the key to discovering treasure embezzled by Waterdeep's former Open Lord, Dagult Neverember. Though it had also been able to locate the vault within which the treasure was kept, it had been forced out by the vault's draconic guardian. Zushaxx had opted to keep the Stone within its lair, trusting it would be kept safe." (refs and markup removed)
 > — `sources/research/pass4-bundles/xanathar/wiki.txt:283`
@@ -138,21 +138,19 @@ Published adventure, the crypt the remix overrides:
 > "Nine shallow alcoves have murals of beholders painted on their walls. Standing in each alcove is a beholder-shaped copper urn atop a green marble pedestal. The lid of each urn is molded with ten eyestalks. (At the back of the westernmost alcove in the north wall is a secret door.)"
 > — `sources/adventure-wdh.json:18023`
 
-Settled in the campaign (see also section 6):
+Session ruling (the user's words, from the handoff):
 
-> "- **Settled by the user (Session 47):** The current Xanathar believes it is the original. "Yes. Remix overtakes original campaign." ..." — see 6, quoted in full there.
+> "> "Yes. Remix overtakes original campaign." — User, this session" — `session 47 handoff.md:72`
 
 ### 2b. How it took the Guild, and how the first holder died
 
-Wiki (founder's end, then Zushaxx's takeover):
-
-> "Xanathar's ruin came at last at some unknown time in the late 1360s DR, when the Eye, via its agents, carefully manipulated another Skullport beholder, Uthh, and tricked it into attacking Xanathar in the sewers under Waterdeep. Although Xanathar defeated Uthh, it was left weakened and, taking advantage, the Eye arrived and easily killed Xanathar. Afterward, the Eye replaced it, telling Xanathar's former minions that "the Xanathar" was but a title. Persuaded by charm spells and by death rays at dissenters, most agreed to stay and serve it. The Eye retained most of the original Xanathar's policies and practices; the transition was so smooth that those outside the four councilors remained unaware of the change. "The Xanathar" had taken full control of the Xanathar's Thieves' Guild and gained great power and influence by 1368 DR." (refs omitted)
+> "Xanathar's ruin came at last at some unknown time in the late 1360s DR, when the Eye, via its agents, carefully manipulated another Skullport beholder, Uthh, and tricked it into attacking Xanathar in the sewers under Waterdeep. Although Xanathar defeated Uthh, it was left weakened and, taking advantage, the Eye arrived and easily killed Xanathar. Afterward, the Eye replaced it, telling Xanathar's former minions that "the Xanathar" was but a title. Persuaded by charm spells and by death rays at dissenters, most agreed to stay and serve it. The Eye retained most of the original Xanathar's policies and practices; the transition was so smooth that those outside the four councilors remained unaware of the change. "The Xanathar" had taken full control of the Xanathar's Thieves' Guild and gained great power and influence by 1368 DR." (refs removed)
 > — `sources/research/pass4-bundles/xanathar/wiki.txt:106`
 
-> "In truth however the original Xanathar was killed in 1358 by an adventuring band under orders of the Lords of Waterdeep and secretly aided by another beholder that assumed the identity of the Xanathar." (refs omitted)
+> "In truth however the original Xanathar was killed in 1358 by an adventuring band under orders of the Lords of Waterdeep and secretly aided by another beholder that assumed the identity of the Xanathar." (refs removed)
 > — `sources/research/pass4-bundles/xanathar/wiki.txt:108`
 
-> "The beholder crime lord Xanathar is slain by adventurers under the command of the Lords of Waterdeep. Halaster Blackcloak, the Mad Mage of Undermountain, seems to have had a hand in this." (1358 DR year page)
+> "The beholder crime lord Xanathar is slain by adventurers under the command of the Lords of Waterdeep. Halaster Blackcloak, the Mad Mage of Undermountain, seems to have had a hand in this." (the 1358 DR year page)
 > — `sources/research/pass4-bundles/xanathar/wiki.txt:1521`
 
 > "The Heroes of Waterdeep were an adventuring group famed for killing the first beholder to assume the name of Xanathar." (Eye of the Beholder)
@@ -167,7 +165,7 @@ Campaign history 02, research note on Zushaxx's takeover:
 
 ### 2c. Predecessors: the count
 
-The page gives no count. It says "Kirukesai was one of the previous Xanathars" (`campaign/setting/villains/xanathar.md:23`) and "predates any individual beholder" (`:21`). It does not contain "thirteen" or "fifteenth".
+The page gives no count. It says "Kirukesai was one of the previous Xanathars" (`campaign/setting/villains/xanathar.md:23`) and "predates any individual beholder" (`:21`). It contains neither "thirteen" nor "fifteenth".
 
 Campaign history page:
 
@@ -227,9 +225,9 @@ Wiki, the Guild's base and Skullport:
 
 > "By 1492, Zushaxx had fully taken over Skullport, forcing the businesses within to pay it for protection." (WDMM p.304) — `sources/research/pass4-bundles/xanathar/wiki.txt:289`
 
-Wiki, the founder's own lair (not Zushaxx's):
+Wiki, the founder's own lair (not Zushaxx's; no Zushaxx lair location is given):
 
-> "Xanathar laired in a hidden chamber behind a secret door in the sewers below Waterdeep, accessed by a series of trapped passages." (refs removed; the founder's page)
+> "Xanathar laired in a hidden chamber behind a secret door in the sewers below Waterdeep, accessed by a series of trapped passages." (refs removed)
 > — `sources/research/pass4-bundles/xanathar/wiki.txt:76`
 
 Page:
@@ -259,7 +257,7 @@ Campaign, the lair's entrances:
 Alexandrian Part 4D (lair), on the hideout route:
 
 > "There is a magical portal to Xanathar's Lair in the Guild Sewer Hideout in Chapter 1: Finding Floon. It's possible (although unlikely) that the PCs already gained access to the lair at that time. If not, they could theoretically put the hideout under surveillance, ambush Nihiloor, and use his amulet to activate the portal and enter the lair." (transcribed; printed p.85)
-> — `sources/11. Lair  Xanathar’s Lair.pdf`, PDF page 3 (printed p.85)
+> — `sources/11. Lair  Xanathar’s Lair.pdf`, PDF page 3
 
 ---
 
@@ -274,13 +272,16 @@ Alexandrian Part 4D (lair), on the hideout route:
 > — `sources/adventure-wdh.json:32761`
 
 > "{@creature Mirt|WDH} leads the characters to a secret staircase in the Castle Ward sewers ({@area X1|271}). As the characters prepare to descend the stairs, {@creature Mirt|WDH} tells them that {@creature Xanathar|WDH} doesn't relate well to humanoids, doesn't trust them as a matter of course, and is prone to imagining conspiracies where none exist. He also tells the characters that {@creature Xanathar|WDH} has a pet fish and is insanely protective of it."
-> — `sources/adventure-wdh.json:15160`
+> — `sources/adventure-wdh.json:15160` (Mirt's account of the beholder)
 
 > "{@creature Xanathar|WDH} has let its paranoia get the better of it, and the beholder trusts no one. The {@item Stone of Golorr|WDH} disappeared from its lair while it was brokering a deal that would have merged the Xanathar Guild and the Zhentarim into a single criminal organization. Although the Zhents didn't steal the {@item Stone of Golorr|WDH}, {@creature Xanathar|WDH} believes they did. Once content to merely possess the stone, the beholder is no longer confident of the gold's safety in the Vault of Dragons. {@creature Xanathar|WDH} thinks that the gold would be safer under its watchful gaze, but without the {@item Stone of Golorr|WDH}, it can't remember where the gold is hidden."
 > — `sources/adventure-wdh.json:14938`
 
-> "Whenever it flies into a rage, the beholder tends to kill random minions." — full line: "{@creature Xanathar|WDH}'s mental state is precarious. Whenever it flies into a rage, the beholder tends to kill random minions."
+> "{@creature Xanathar|WDH}'s mental state is precarious. Whenever it flies into a rage, the beholder tends to kill random minions."
 > — `sources/adventure-wdh.json:14998`
+
+> "If the beholder is tricked into believing there's a conspiracy to kill it or {@creature Sylgar|wdh}, it disintegrates the suspected conspirators, leaving gaping holes in the chain of command."
+> — `sources/adventure-wdh.json:15059`
 
 **Sylgar (published)**
 
@@ -299,17 +300,17 @@ Alexandrian Part 4D (lair), on the hideout route:
 > "{@creature Xanathar|WDH}'s beloved fish, {@creature Sylgar|wdh}, has the statistics of a {@creature quipper}, except that it lacks the Blood Frenzy trait."
 > — `sources/adventure-wdh.json:32769`
 
-> "goldfish": 0 matches in `sources/adventure-wdh.json` (case-insensitive grep).
+> Word search: "goldfish" has 0 matches in `sources/adventure-wdh.json` (case-insensitive grep).
 
-Wiki, Zushaxx (Dragon Heist 5e, WDH p.220 and p.100 as cited):
+Wiki, Zushaxx (Dragon Heist 5e, WDH p.220 as cited):
 
-> "It had become insanely devoted to the goldfish, and had even changed Ott Steeltoes' role from Master of Smuggling and Thieving to Sylgar's keeper. However, Zushaxx was unaware that the fish had died and been replaced in secret several times." (refs removed; the paragraph opens "By this time, Zushaxx had also appointed Thorvin Twinbeard, a Harper informant, Nihiloor, a mind flayer, and Noska Ur'gray to important positions. It had also come to own Sylgar, a goldfish.")
+> "It had become insanely devoted to the goldfish, and had even changed Ott Steeltoes' role from Master of Smuggling and Thieving to Sylgar's keeper. However, Zushaxx was unaware that the fish had died and been replaced in secret several times." (refs removed; the paragraph begins "By this time, Zushaxx had also appointed Thorvin Twinbeard, a Harper informant, Nihiloor, a mind flayer, and Noska Ur'gray to important positions. It had also come to own Sylgar, a goldfish.")
 > — `sources/research/pass4-bundles/xanathar/wiki.txt:291`
 
 > "During the reign of Zushaxx in 1492, members could be killed at any time at the whim of the beholder." (refs removed)
 > — `sources/research/pass4-bundles/xanathar/wiki.txt:199`
 
-Wiki, the founder (1e/2e sources; the founder's page, not Zushaxx):
+Wiki, the founder (1e and 2e sources; the founder's page, not Zushaxx):
 
 > "Xanathar greatly enjoyed being a crime lord just under the noses of Waterdeep's Lords and laughed at their claims to have stamped out organized crime. He was confident in his power and his inconspicuousness to the Lords. His main goal was simply to maintain his position." (refs removed)
 > — `sources/research/pass4-bundles/xanathar/wiki.txt:51`
@@ -338,11 +339,15 @@ Campaign, personality:
 
 > "Xanathar's paranoia means its response to ambiguity is escalation. A single threat to an outpost advances directly from Suspicious to Alert." — `campaign/guides/gm-guide/running-the-villains.md:54`
 
-> "> [!warning]**Sylgar**" / "Anything involving Xanathar's goldfish — threatening it, harming it, even alarming it — triggers Lockdown immediately, regardless of the current escalation tier. No intermediate response fires. The faction moves straight to Noska Ur'gray's elimination squad." — `campaign/guides/gm-guide/running-the-villains.md:56-57`
+> "Anything involving Xanathar's goldfish — threatening it, harming it, even alarming it — triggers Lockdown immediately, regardless of the current escalation tier. No intermediate response fires. The faction moves straight to Noska Ur'gray's elimination squad." — `campaign/guides/gm-guide/running-the-villains.md:57`
 
 > "Xanathar's attachment to the fish is total and terrifying. The Guild's agents who let anything bad happen to Sylgar can expect to be eaten. This is not a metaphor." — `campaign/setting/organizations/08-xanathars-guild.md:15`
 
-> "Xanathar is even more paranoid than usual right now and hasn't left his lair in weeks." (Alexandrian Part 4D, transcribed; printed p.91, PDF page 9). Campaign equivalent: "Since the fireball disrupted the Street of Silver trade routes, Xanathar has withdrawn into paranoia — convinced that one of the other Grand Game factions has mapped the lair's entrances." — `campaign/structure/arc-f-xanathars-lair.md:11`
+> "Since the fireball disrupted the Street of Silver trade routes, Xanathar has withdrawn into paranoia — convinced that one of the other Grand Game factions has mapped the lair's entrances." — `campaign/structure/arc-f-xanathars-lair.md:11`
+
+Alexandrian (transcribed; printed p.91, PDF page 9):
+
+> "Xanathar is even more paranoid than usual right now and hasn't left his lair in weeks. That isn't likely to change as long as the gang war with the Zhentarim is ongoing." — `sources/11. Lair  Xanathar’s Lair.pdf`, PDF page 9
 
 **Fear of Laeral Silverhand**
 
@@ -353,24 +358,24 @@ Campaign, personality:
 
 Campaign:
 
-> "It has a healthy fear of Laeral Silverhand and spares those in her employ." — `campaign/setting/notable-figures/xanathars-guild/01-xanathar.md:27` (the full line: "**Relationships.** Xanathar is the beholder crime lord of Xanathar's Guild, the employer of Ahmaergo (its majordomo), Nihiloor (its mind flayer, which has psionically dominated Xanathar for the last four months without Xanathar knowing), and Nar'l Xibrindas (its drow advisor, whom it does not yet know is Jarlaxle's spy). It has a healthy fear of Laeral Silverhand and spares those in her employ.")
+> "**Relationships.** Xanathar is the beholder crime lord of Xanathar's Guild, the employer of Ahmaergo (its majordomo), Nihiloor (its mind flayer, which has psionically dominated Xanathar for the last four months without Xanathar knowing), and Nar'l Xibrindas (its drow advisor, whom it does not yet know is Jarlaxle's spy). It has a healthy fear of Laeral Silverhand and spares those in her employ." — `campaign/setting/notable-figures/xanathars-guild/01-xanathar.md:27`
 
-No other campaign file repeats the fear (section 8, item 20; Not found).
+No other campaign file repeats the fear (Not found).
 
 **How it treats captured people and intruders**
 
 Published:
 
-> "If the characters aren't willing to enter the tournament, {@creature Ahmaergo|WDH} has them beaten {@condition unconscious} and locked up while {@creature Xanathar|WDH} watches silently." — `sources/adventure-wdh.json:17173` (the sentence closes a paragraph that begins "If the characters enter during a tournament, they see a {@creature minotaur} battling a scarred female halfling...")
+> "If the characters enter during a tournament, they see a {@creature minotaur} battling a scarred female halfling, {@creature Samara Strongbones|WDH} (see {@area X7|27e}). The halfling doesn't want to die in a pointless battle and screams for help. If the characters intervene, the arena spectators turn violent and attack them. If the characters let the fight play out, Noska escorts the victor back to {@area X7|27e} while {@creature Ahmaergo|WDH} goads characters into joining the tournament. If the characters aren't willing to enter the tournament, {@creature Ahmaergo|WDH} has them beaten {@condition unconscious} and locked up while {@creature Xanathar|WDH} watches silently."
+> — `sources/adventure-wdh.json:17173`
 
 > "The statues are the {@condition petrified} remains of intruders and Xanathar Guild members that were turned to stone by {@creature Xanathar|WDH}. There are a dozen statues in all: four humans, three goblins, two drow, a dwarf, a halfling, and a tiefling."
 > — `sources/adventure-wdh.json:17277`
 
-> "Unknown to Flutterfoot, the beholder has tired of the gnome and plans to turn him to stone when next they meet." — `sources/adventure-wdh.json:17256` (same paragraph: "The garishly dressed deep gnome, Flutterfoot Zipswiggle, serves {@creature Xanathar|WDH} as a jester. He carries a packet containing {@item dust of disappearance}. Unknown to Flutterfoot, the beholder has tired of the gnome and plans to turn him to stone when next they meet.")
+> "Unknown to Flutterfoot, the beholder has tired of the gnome and plans to turn him to stone when next they meet." — `sources/adventure-wdh.json:17256`
 
-> "The Xanathar Guild captures homeless Waterdavians and brings them here for {@creature Nihiloor|WDH} to feed on. After devouring their brains, the mind flayer gives their corpses to his kuo-toa thralls to eat." — `sources/adventure-wdh.json:17827`
-
-> "If the beholder is tricked into believing there's a conspiracy to kill it or {@creature Sylgar|wdh}, it disintegrates the suspected conspirators, leaving gaping holes in the chain of command." — `sources/adventure-wdh.json:15059`
+> "The Xanathar Guild captures homeless Waterdavians and brings them here for {@creature Nihiloor|WDH} to feed on. After devouring their brains, the mind flayer gives their corpses to his kuo-toa thralls to eat."
+> — `sources/adventure-wdh.json:17827`
 
 Wiki (founder only):
 
@@ -379,36 +384,46 @@ Wiki (founder only):
 
 Campaign:
 
-> "Xanathar received the envoys in its throne room, listened to their proposal, and ate them." — `campaign/structure/arc-f-xanathars-lair.md:9` (full paragraph in section 6)
+> "Three months before the Trollskull fireball, Manshoon dispatched two Zhentarim lieutenants to Skullport carrying a gift: Eye #1 of the Stone of Golorr, stolen from the Protector's Enclave in Neverwinter. The Eye was offered as a peace overture — proof that Manshoon's splinter faction could be a valuable partner in the Grand Game. Xanathar received the envoys in its throne room, listened to their proposal, and ate them. It kept the Eye and has never learned what it is. The Eye passed to Ott Steeltoes, who placed it in Sylgar's fishbowl because it had a pretty color and Xanathar liked Sylgar's bowl to look interesting."
+> — `campaign/structure/arc-f-xanathars-lair.md:9`
 
-> "**X7 — Cell Block.** Eight cells cut into rock, three occupied. Samara (gladiatorial combatant, six weeks in captivity) knows: Xanathar holds "a magic stone and a marble with a colored center"; the marble is in "the fish tank in the big room with the purple carpet"; and Manshoon's organization is based in a tower in the North Ward (overheard from another prisoner since sent to the arena). The tower information is one of three clue paths to **Kolat Towers**. Two Guild Soldiers watch the cell gate; a third is asleep in a chair. Cell locks are DC 13 Dexterity (Thieves' Tools). If all three prisoners are freed, the two Guild members in custody offer to start a fight at X2 — buying the party 5 minutes before being subdued." — `campaign/structure/arc-f-xanathars-lair.md:147`
+> "**X7 — Cell Block.** Eight cells cut into rock, three occupied. Samara (gladiatorial combatant, six weeks in captivity) knows: Xanathar holds "a magic stone and a marble with a colored center"; the marble is in "the fish tank in the big room with the purple carpet"; and Manshoon's organization is based in a tower in the North Ward (overheard from another prisoner since sent to the arena). The tower information is one of three clue paths to **Kolat Towers**. Two Guild Soldiers watch the cell gate; a third is asleep in a chair. Cell locks are DC 13 Dexterity (Thieves' Tools). If all three prisoners are freed, the two Guild members in custody offer to start a fight at X2 — buying the party 5 minutes before being subdued."
+> — `campaign/structure/arc-f-xanathars-lair.md:147`
 
-Alexandrian, transcribed (printed p.88, PDF page 6):
+> "Nihiloor has used this paranoia as cover. The illithid's three unauthorized projects — running in parallel for years — are now approaching critical phases. The Infiltration: intellect devourers inserted into four positions in Waterdeep's Watch and civic administration, with two additional placements pending. The Experiments: twelve captives from the gladiatorial arena modified into psionic relay organisms, intended to form the backbone of a city-wide intelligence network that would answer only to Nihiloor. The Puppet: four months ago, Nihiloor successfully applied Dominate Monster to Xanathar through a sustained psionic relay device in X26. The Xanathar who has been running the Guild since then — the Xanathar who killed Manshoon's envoys, who sent response teams against the party's allies in **Faction Outposts**, who holds the Eye in a fishbowl because it trusts Ott's aesthetic judgment — has been Nihiloor's instrument. The beholder does not know this. The domination does not feel like domination; it feels like its own decisions."
+> — `campaign/structure/arc-f-xanathars-lair.md:13`
+
+Alexandrian (transcribed; printed p.88, PDF page 6):
 
 > "Questioning Samara: Samara was part of the original delegation sent to Xanathar to negotiate a Golorr-related allegiance. The rest of her team was killed, but she was thrown in here and has been fighting for her life ever since. Her information is dated, but she believes that Xanathar holds the Stone of Golorr (which is the key to Neverember's Enigma, although she doesn't know that's half a million gold coins) and that he's taken Manshoon's Eye. She also knows that there are two other Eyes. She can tell PCs that Manshoon is based out of Kolat Towers, and that the Towers can be accessed from Yellowspire."
-> — `sources/11. Lair  Xanathar’s Lair.pdf`, PDF page 6 (printed p.88)
+> — `sources/11. Lair  Xanathar’s Lair.pdf`, PDF page 6
 
-Alexandrian, Part 4D p.91 (transcribed, PDF page 9):
+Alexandrian, printed p.91 (transcribed; PDF page 9):
 
 > "Xanathar doesn't allow anyone to enter the Area X33 and most don't even know what's in there, but some know that there's a secret door connecting the Arena (X6) and "whatever Xanathar has hidden down there"."
+> — `sources/11. Lair  Xanathar’s Lair.pdf`, PDF page 9
 
 ---
 
 ## 4. Relationships
 
-The page's table (`campaign/setting/villains/xanathar.md:48-53`) lists Ahmaergo, Nar'l Xibrindas, Nihiloor, Manshoon, Jarlaxle and the PCs. The Gralhunds are not on the page. The PCs row is design text and is not covered.
+The page's table (`campaign/setting/villains/xanathar.md:48-53`) lists Ahmaergo, Nar'l Xibrindas, Nihiloor, Manshoon, Jarlaxle and the PCs. The Gralhunds are not on the page. The PCs row is design text and is not covered here.
 
 ### Nar'l Xibrindas
 
 Published:
 
-> "{@creature Xanathar|WDH}'s advisor is a nervous and conniving male drow named {@creature Nar'l Xibrindas|wdh}. Nar'l's house was wiped out long ago, but he and his elder brother Soluun survived and joined Bregan D'aerthe. A year ago, Nar'l was given the difficult task of infiltrating the Xanathar Guild and getting as close to the beholder as possible. Not only did he succeed, but in the course of gaining {@creature Xanathar|WDH}'s trust, he managed to convince the beholder to eliminate its other advisors. The beholder's paranoia will eventually cause {@creature Xanathar|WDH} to question the drow's loyalty, though, and Nar'l has become increasingly worried about his future. If forced to decide between himself and Bregan D'aerthe, he'll choose the former and betray his drow allies to save his own skin." — `sources/adventure-wdh.json:32323`
+> "{@creature Xanathar|WDH}'s advisor is a nervous and conniving male drow named {@creature Nar'l Xibrindas|wdh}. Nar'l's house was wiped out long ago, but he and his elder brother Soluun survived and joined Bregan D'aerthe. A year ago, Nar'l was given the difficult task of infiltrating the Xanathar Guild and getting as close to the beholder as possible. Not only did he succeed, but in the course of gaining {@creature Xanathar|WDH}'s trust, he managed to convince the beholder to eliminate its other advisors. The beholder's paranoia will eventually cause {@creature Xanathar|WDH} to question the drow's loyalty, though, and Nar'l has become increasingly worried about his future. If forced to decide between himself and Bregan D'aerthe, he'll choose the former and betray his drow allies to save his own skin."
+> — `sources/adventure-wdh.json:32323`
 
-> "{@creature Xanathar|WDH} is aware that something is off with Nar'l, and recently assigned him a {@creature grell} bodyguard. The grell has instructions to dispose of Nar'l at the first sign of disloyalty." — `sources/adventure-wdh.json:32324`
+> "{@creature Xanathar|WDH} is aware that something is off with Nar'l, and recently assigned him a {@creature grell} bodyguard. The grell has instructions to dispose of Nar'l at the first sign of disloyalty."
+> — `sources/adventure-wdh.json:32324`
 
-> "Jarlaxle has a spy in the Xanathar Guild: the advisor {@creature Nar'l Xibrindas|wdh}, who uses {@spell sending} spells to transmit intelligence to his drow brethren. Bregan D'aerthe knows that the safest route to the beholder's lair is a secret staircase in the sewers of the Castle Ward. Any character who belongs to this faction can get this information from Jarlaxle or another source." — `sources/adventure-wdh.json:15149`
+> "Jarlaxle has a spy in the Xanathar Guild: the advisor {@creature Nar'l Xibrindas|wdh}, who uses {@spell sending} spells to transmit intelligence to his drow brethren. Bregan D'aerthe knows that the safest route to the beholder's lair is a secret staircase in the sewers of the Castle Ward. Any character who belongs to this faction can get this information from Jarlaxle or another source."
+> — `sources/adventure-wdh.json:15149`
 
-> "If the party includes members of Bregan D'aerthe and Nar'l recognizes them as such, he gives them his vial of {@item eyescratch|WDH} poison so they can blind {@creature Xanathar|WDH} with it. This act of treachery, witnessed by the grell, turns the creature against him." — `sources/adventure-wdh.json:17585`
+> "If the party includes members of Bregan D'aerthe and Nar'l recognizes them as such, he gives them his vial of {@item eyescratch|WDH} poison so they can blind {@creature Xanathar|WDH} with it. This act of treachery, witnessed by the grell, turns the creature against him."
+> — `sources/adventure-wdh.json:17585`
 
 Wiki:
 
@@ -416,25 +431,25 @@ Wiki:
 
 Campaign:
 
-> "Persona. To the world, Nar'l is Xanathar's trusted drow advisor who convinced the beholder to eliminate its other counselors. To Jarlaxle, he is Bregan D'Aerthe's best intelligence source on Guild movements, reporting via Sending spell after one year in place, placed in 1491 DR. Deep down, Xanathar suspects a mole and has assigned Nar'l a grell bodyguard with orders to kill him at the first sign of disloyalty. If forced to choose between himself and Bregan D'Aerthe, he will choose himself." — `campaign/setting/notable-figures/xanathars-guild/03-narl-xibrindas.md:22`
+> "**Persona.** To the world, Nar'l is Xanathar's trusted drow advisor who convinced the beholder to eliminate its other counselors. To Jarlaxle, he is Bregan D'Aerthe's best intelligence source on Guild movements, reporting via Sending spell after one year in place, placed in 1491 DR. Deep down, Xanathar suspects a mole and has assigned Nar'l a grell bodyguard with orders to kill him at the first sign of disloyalty. If forced to choose between himself and Bregan D'Aerthe, he will choose himself." — `campaign/setting/notable-figures/xanathars-guild/03-narl-xibrindas.md:22`
 
-> "Nar'l Xibrindas, Xanathar's own advisor, reports to Jarlaxle by *Sending* spell — Bregan D'aerthe's best intelligence source on Guild movements." — row, `campaign/guides/gm-guide/running-the-villains.md:73` (the full row: "| **Xanathar vs. Bregan D'aerthe** | Cautious rivalry — deep infiltration | Nar'l Xibrindas, Xanathar's own advisor, reports to Jarlaxle by *Sending* spell — Bregan D'aerthe's best intelligence source on Guild movements. Xanathar suspects a mole; it hasn't identified Nar'l. Fel'rekt Lafeen observed the Gralhund Villa operation. Bregan D'aerthe purchases equipment through Grinda Garloth, a dependency neither faction has acknowledged. | *Correspondence with Nar'l Xibrindas* (Sewer Hideout), *A Recommendation for Materiel* (Fel'rekt Lafeen), *Report on the Seven Masks Theater* (Xanathar's Lair) |")
+> "| **Xanathar vs. Bregan D'aerthe** | Cautious rivalry — deep infiltration | Nar'l Xibrindas, Xanathar's own advisor, reports to Jarlaxle by *Sending* spell — Bregan D'aerthe's best intelligence source on Guild movements. Xanathar suspects a mole; it hasn't identified Nar'l. Fel'rekt Lafeen observed the Gralhund Villa operation. Bregan D'aerthe purchases equipment through Grinda Garloth, a dependency neither faction has acknowledged. | *Correspondence with Nar'l Xibrindas* (Sewer Hideout), *A Recommendation for Materiel* (Fel'rekt Lafeen), *Report on the Seven Masks Theater* (Xanathar's Lair) |" — `campaign/guides/gm-guide/running-the-villains.md:73`
 
-> "Nar'l Xibrindas, Xanathar's own senior advisor, reports to Jarlaxle by *Sending* spell. The intelligence Nar'l provides has been selectively curated to keep the beholder occupied and predictable; Jarlaxle's goal is a manageable Xanathar, not a dead one. Xanathar suspects a mole in its organization and has been hunting in the wrong direction. It has not identified Nar'l." — `campaign/guides/gm-guide/grand-game-in-play.md:63` (the line begins "Jarlaxle's relationship with Xanathar is more managed.")
+> "Jarlaxle's relationship with Xanathar is more managed. Nar'l Xibrindas, Xanathar's own senior advisor, reports to Jarlaxle by *Sending* spell. The intelligence Nar'l provides has been selectively curated to keep the beholder occupied and predictable; Jarlaxle's goal is a manageable Xanathar, not a dead one. Xanathar suspects a mole in its organization and has been hunting in the wrong direction. It has not identified Nar'l." — `campaign/guides/gm-guide/grand-game-in-play.md:63`
 
-> "Jarlaxle placed Nar'l Xibrindas in the Guild in 1491 and has relied on him as a double agent for the year since." — `campaign/structure/arc-f-xanathars-lair.md:17`
+> "Jarlaxle placed Nar'l Xibrindas in the Guild in 1491 and has relied on him as a double agent for the year since. Through Nar'l's monthly reports, the Bregan D'aerthe have assembled a precise picture of the lair's layout — including the secret passage at X14 that bypasses the panopticus entirely and opens forty feet from the Sanctum door." — `campaign/structure/arc-f-xanathars-lair.md:17`
 
 > "Nar'l convinced the current Xanathar, a beholder named Zushaxx (it/its), to eliminate its other advisors, and he reports to Jarlaxle by *Sending*." — `campaign/setting/history/08-the-players-arrive.md:49`
 
-> "- **Settled by the user (Session 47):** Nar'l's tenure is one year, placed in 1491 DR (`adventure-wdh.json` line 32323; the wiki dates it 1491 DR). ..." — `campaign/setting/history/02-the-long-shadow.md:161` (quoted in full in section 6)
+> "- **Settled by the user (Session 47):** Nar'l's tenure is one year, placed in 1491 DR (`adventure-wdh.json` line 32323; the wiki dates it 1491 DR). The three years (`03-narl-xibrindas.md` line 22; `08-xanathars-guild.md` line 23) and the eleven years (`arc-f` line 17; `arc-h` line 15) are stale." — `campaign/setting/history/02-the-long-shadow.md:161`
 
 ### Jarlaxle
 
-> "Jarlaxle suspects that {@creature Nar'l Xibrindas|wdh}, his spy in the Xanathar Guild, has betrayed him and is now using the resources of Bregan D'aerthe to help the beholder retrieve the stone. Jarlaxle also knows that the Xanathar Guild has a refuge fairly close by, in a cellar complex under the Southern Ward. \"Laeral\" suggests that the characters search for the stone there. (Jarlaxle doesn't want Nar'l to know that he's onto him, which is why he would rather send a small group of adventurers than call upon a Bregan D'aerthe attack force.)" — `sources/adventure-wdh.json:7153`
+> "Jarlaxle suspects that {@creature Nar'l Xibrindas|wdh}, his spy in the Xanathar Guild, has betrayed him and is now using the resources of Bregan D'aerthe to help the beholder retrieve the stone. Jarlaxle also knows that the Xanathar Guild has a refuge fairly close by, in a cellar complex under the Southern Ward. \"Laeral\" suggests that the characters search for the stone there. (Jarlaxle doesn't want Nar'l to know that he's onto him, which is why he would rather send a small group of adventurers than call upon a Bregan D'aerthe attack force.)"
+> — `sources/adventure-wdh.json:7153`
 
-> "Jarlaxle identifies the traitor as a drow mage named {@creature Nar'l Xibrindas|wdh} (see {@adventure appendix B|WDH|12}) and furnishes the characters with a route to {@creature Xanathar|WDH}'s lair through underground passageways. ({@creature Xanathar|WDH}'s lair is described in chapter 5. Characters who follow Jarlaxle's route arrive at {@area X1|271}.) {@i Reward}: Each Bregan D'aerthe character gains 2 renown. Each party member who contributes to the mission receives a trophy bearing a gold statuette of Jarlaxle (worth 250 gp)." — `sources/adventure-wdh.json:3634`
-
-> "Xanathar suspects a mole; it hasn't identified Nar'l." — inside the row at `campaign/guides/gm-guide/running-the-villains.md:73` (above)
+> "Jarlaxle identifies the traitor as a drow mage named {@creature Nar'l Xibrindas|wdh} (see {@adventure appendix B|WDH|12}) and furnishes the characters with a route to {@creature Xanathar|WDH}'s lair through underground passageways. ({@creature Xanathar|WDH}'s lair is described in chapter 5. Characters who follow Jarlaxle's route arrive at {@area X1|271}.) {@i Reward}: Each Bregan D'aerthe character gains 2 renown. Each party member who contributes to the mission receives a trophy bearing a gold statuette of Jarlaxle (worth 250 gp)."
+> — `sources/adventure-wdh.json:3634`
 
 Page:
 
@@ -442,8 +457,7 @@ Page:
 
 Alexandrian (transcribed; printed p.17, PDF page 5):
 
-> "As Dragon Heist begins, Jarlaxle is unaware of the Stone of Golorr or the Grand Game which is being played."
-> — `sources/1. The Villains.pdf`, PDF page 5 (printed p.17)
+> "As Dragon Heist begins, Jarlaxle is unaware of the Stone of Golorr or the Grand Game which is being played." — `sources/1. The Villains.pdf`, PDF page 5
 
 ### Manshoon and the Zhentarim
 
@@ -453,15 +467,13 @@ Published:
 
 > "Adventurers can't join {@creature Manshoon|WDH}'s cause, but they can join and receive aid from the Zhents who are opposed to him. The leaders of this branch of the Black Network are retired adventurers who have become business entrepreneurs. Their adventuring party was called the Doom Raiders because their specialty was plundering lich lairs (which are called \"dooms\"). They are desperately trying to gain a legitimate economic foothold in Waterdeep, which requires making alliances with local guilds and nobles. {@creature Manshoon|WDH}'s war against the Xanathar Guild has thrown their plans into upheaval." — `sources/adventure-wdh.json:1446`
 
-> "Weary of his conflict with the Xanathar Guild, {@creature Manshoon|WDH} suggests that the characters prove their usefulness to him by hunting down and killing {@creature Xanathar|WDH} in its lair (see chapter 5). {@creature Manshoon|WDH} also demands that they keep his presence in Waterdeep a secret for now, saying that he will reward them for their discretion \"when the time comes.\" In exchange, he allows the characters to return to Waterdeep and promises them positions of power in his organization once {@creature Xanathar|WDH}'s death is confirmed. He has no intention of making good on this promise, but refusing to work for him puts the characters in a tight spot, since the evil archwizard can't risk exposure." — `sources/adventure-wdh.json:30256`
+> "The characters' best chance of survival is to convince {@creature Manshoon|WDH} that they can be cowed or bribed into working for him. Weary of his conflict with the Xanathar Guild, {@creature Manshoon|WDH} suggests that the characters prove their usefulness to him by hunting down and killing {@creature Xanathar|WDH} in its lair (see chapter 5). {@creature Manshoon|WDH} also demands that they keep his presence in Waterdeep a secret for now, saying that he will reward them for their discretion \"when the time comes.\" In exchange, he allows the characters to return to Waterdeep and promises them positions of power in his organization once {@creature Xanathar|WDH}'s death is confirmed. He has no intention of making good on this promise, but refusing to work for him puts the characters in a tight spot, since the evil archwizard can't risk exposure." — `sources/adventure-wdh.json:30256`
 
 > "Vevette and Agorn are two of {@creature Manshoon|WDH}'s most trusted followers. Vevette commands the wizard's forces against the Xanathar Guild, while Agorn commands those who oppose the Zhents that aren't loyal to {@creature Manshoon|WDH}. At the moment, they are resting in the sanctum while awaiting orders from {@creature Manshoon|WDH}." — `sources/adventure-wdh.json:30130`
 
 > "Beneath the city streets lurks a criminal underworld, its leader a beholder called {@creature Xanathar|WDH}. Hoping to gain a political foothold in Waterdeep, agents of the Zhentarim (also known as the Black Network) recently tried to ally their organization with the Xanathar Guild. The architect of this attempt was a clone of the wizard {@creature Manshoon|WDH}, a founder of the Black Network long thought dead." — `sources/adventure-wdh.json:472`
 
 > "While the two sides were negotiating in {@creature Xanathar|WDH}'s lair, the {@item Stone of Golorr|WDH} suddenly disappeared from where {@creature Xanathar|WDH} had hidden it. The paranoid beholder accused the Black Network of stealing it and slew the Zhentarim envoys who were present. When the Zhents retaliated by attacking Xanathar Guild outposts, {@creature Xanathar|WDH} took their actions as confirmation of the Black Network's vile intentions. Now the bad blood between the Zhentarim and {@creature Xanathar|WDH} has begun to spill into the streets, threatening peace throughout the city." — `sources/adventure-wdh.json:473`
-
-Wiki: see 2b, `wiki.txt:293`.
 
 Campaign:
 
@@ -485,11 +497,11 @@ Campaign:
 
 > "**Both states:** Xanathar's four gazers on perimeter — they observe, track, and report; they do not enter the estate." — `campaign/quests/act-ii/gralhund-villa/overview.md:43`
 
-> "The Stone of Golorr is upstairs in Lady Yalah Gralhund's breastplate. Urstul Floxin's backup team arrives on the night of Ches 24th. Xanathar's gazers are already watching the perimeter. Jarlaxle's Bregan D'Aerthe has a team across the street, waiting for the right moment to move." — `campaign/quests/act-ii/gralhund-villa/overview.md:47`
+> "The investigation that began in Trollskull Alley ends at the gate of Gralhund Villa on Saerdoun Street. The Stone of Golorr is upstairs in Lady Yalah Gralhund's breastplate. Urstul Floxin's backup team arrives on the night of Ches 24th. Xanathar's gazers are already watching the perimeter. Jarlaxle's Bregan D'Aerthe has a team across the street, waiting for the right moment to move." — `campaign/quests/act-ii/gralhund-villa/overview.md:47`
 
 > "- He identifies the position of Xanathar's four gazers on the perimeter — specific compass points, one per approach." — `campaign/quests/act-ii/gralhund-villa/ev-01-what-the-factions-say.md:53`
 
-> "If the party is spotted:** No immediate reaction. Xanathar now knows the party is involved. The gazers will follow anyone who exits the villa with something valuable — this activates their potential role in ev-08 if the Stone escapes." — `campaign/quests/act-ii/gralhund-villa/ev-02-saerdoun-street.md:50`
+> "**If the party is spotted:** No immediate reaction. Xanathar now knows the party is involved. The gazers will follow anyone who exits the villa with something valuable — this activates their potential role in ev-08 if the Stone escapes." — `campaign/quests/act-ii/gralhund-villa/ev-02-saerdoun-street.md:50`
 
 > "Xanathar would rather the party have the Stone than any other faction; it can always take the Stone from the party later." — `campaign/quests/act-ii/gralhund-villa/ev-08-the-rooftop-chase.md:59`
 
@@ -507,7 +519,7 @@ The Gralhund Notable Figures folder (`campaign/setting/notable-figures/gralhunds
 
 Published:
 
-> "{@creature Ahmaergo|WDH}, {@creature Xanathar|WDH}'s majordomo, has a fascination  with minotaurs. Although outwardly civil, the shield  dwarf is as devious and corrupt as the worst devil, yet  also unflinchingly loyal to his beholder master." — `sources/adventure-wdh.json:31696` (double spaces are in the file)
+> "{@creature Ahmaergo|WDH}, {@creature Xanathar|WDH}'s majordomo, has a fascination  with minotaurs. Although outwardly civil, the shield  dwarf is as devious and corrupt as the worst devil, yet  also unflinchingly loyal to his beholder master." — `sources/adventure-wdh.json:31696` (double spaces are in the file; the "his" refers to Ahmaergo's master)
 
 > "After the beholder, {@creature Ahmaergo|WDH} is the most influential member of the Xanathar Guild." — `sources/adventure-wdh.json:31697`
 
@@ -523,7 +535,7 @@ Wiki:
 
 > "[[Ahmaergo]]: a [[dwarf]] slaver" — `sources/research/pass4-bundles/xanathar/wiki.txt:239`
 
-> "The Eye also elected eleven Masters to serve as supervisors of Guild members, four of which were the original Xanathar's Councilors. These Masters included Ahmaergo, Avaereene, Colstan Rhuul, Shindia Darkeyes, Slink Monteskor, Randulaith, Ott Steeltoes, Slan Thurbel." — `sources/research/pass4-bundles/xanathar/wiki.txt:265` (refs removed)
+> "The Eye also elected eleven Masters to serve as supervisors of Guild members, four of which were the original Xanathar's Councilors. These Masters included Ahmaergo, Avaereene, Colstan Rhuul, Shindia Darkeyes, Slink Monteskor, Randulaith, Ott Steeltoes, Slan Thurbel." (refs removed) — `sources/research/pass4-bundles/xanathar/wiki.txt:265`
 
 Campaign:
 
@@ -547,7 +559,7 @@ Published:
 
 > "Gagged and tied to a chair in the back room of the house is a known member of the Xanathar Guild-a shield dwarf who wears a leather skullcap stitched with fake beholder eyestalks. The dwarf, {@creature Ott Steeltoes|wdh} (see {@adventure appendix B|WDH|12}), was captured while buying fish food in a Dock Ward market. After the Zhents interrogated Ott, it became clear to them that {@creature Xanathar|WDH} would want him back. He is being held until a ransom is paid, but {@creature Xanathar|WDH} has learned where he is being kept. Any bugbears that survived the initial attack try to rescue Ott, while Avareen and Zorbog do their best to fight them off. If Ott is set free, he runs back to the waiting eyestalks of his insane beholder master. Characters who follow him are led straight to {@creature Xanathar|WDH}'s lair (see chapter 5)." — `sources/adventure-wdh.json:7204`
 
-> "On the first night, {@creature Xanathar|WDH} sends a gang of six {@creature bugbear||bugbears} to attack the tavern and rescue Ott." — `sources/adventure-wdh.json:3629` (the paragraph continues with the second and third nights, a Dungesweepers' Guild visit and a beholder zombie)
+> "On the first night, {@creature Xanathar|WDH} sends a gang of six {@creature bugbear||bugbears} to attack the tavern and rescue Ott." — `sources/adventure-wdh.json:3629` (the paragraph goes on to a second night of Dungeon Sweepers' Guild visitors and a third night's beholder zombie)
 
 Wiki:
 
@@ -559,9 +571,9 @@ Campaign:
 
 > "Ott is Xanathar's fishkeeper (all Sylgar replacements have passed through him), a Zuggtmoy worshipper who cultivates mushrooms in his quarters, a Zhentarim prisoner at the Interrogation House, a field agent of Xanathar's Guild, and a detailed intelligence source for anyone who rescues him and asks the right questions about the Lair." — `campaign/setting/notable-figures/xanathars-guild/06-ott-steeltoes.md:26`
 
-> "If the party frees him, Ott immediately tries to recruit his rescuers into Xanathar's organization. With patience and the right questions, the party can persuade him to lead them toward the Lair instead." — `campaign/guides/factions/10-manshoons-zhentarim.md:27`
+> "*Backroom.* A rack and other instruments of torture. An arcane circle on the floor. Strapped into the rack is **Ott Steeltoes**, a Xanathar's Guild agent captured while the Zhentarim were trying to locate the Eye. He knows nothing of the Eye itself." — `campaign/guides/factions/10-manshoons-zhentarim.md:25`
 
-> "*Backroom.* ... Strapped into the rack is **Ott Steeltoes**, a Xanathar's Guild agent captured while the Zhentarim were trying to locate the Eye. He knows nothing of the Eye itself." — `campaign/guides/factions/10-manshoons-zhentarim.md:25` (full line: "*Backroom.* A rack and other instruments of torture. An arcane circle on the floor. Strapped into the rack is **Ott Steeltoes**, a Xanathar's Guild agent captured while the Zhentarim were trying to locate the Eye. He knows nothing of the Eye itself.")
+> "If the party frees him, Ott immediately tries to recruit his rescuers into Xanathar's organization. With patience and the right questions, the party can persuade him to lead them toward the Lair instead." — `campaign/guides/factions/10-manshoons-zhentarim.md:27`
 
 ### Nihiloor
 
@@ -587,11 +599,9 @@ Campaign:
 
 > "Nihiloor wants to breed and deploy intellect devourers throughout Waterdeep, pursue its own fell schemes independent of Xanathar's goals, and observe the Grand Game from within the shadows where no one looks." — `campaign/setting/notable-figures/xanathars-guild/04-nihiloor.md:16`
 
-> "Nihiloor has used this paranoia as cover. The illithid's three unauthorized projects — running in parallel for years — are now approaching critical phases. The Infiltration: intellect devourers inserted into four positions in Waterdeep's Watch and civic administration, with two additional placements pending. The Experiments: twelve captives from the gladiatorial arena modified into psionic relay organisms, intended to form the backbone of a city-wide intelligence network that would answer only to Nihiloor. The Puppet: four months ago, Nihiloor successfully applied Dominate Monster to Xanathar through a sustained psionic relay device in X26. The Xanathar who has been running the Guild since then — the Xanathar who killed Manshoon's envoys, who sent response teams against the party's allies in **Faction Outposts**, who holds the Eye in a fishbowl because it trusts Ott's aesthetic judgment — has been Nihiloor's instrument. The beholder does not know this. The domination does not feel like domination; it feels like its own decisions." — `campaign/structure/arc-f-xanathars-lair.md:13`
-
 > "The Puppet revelation is the most significant: Xanathar has been Nihiloor's instrument for four months. Every aggressive, paranoid, apparently irrational decision attributed to the beholder in **Faction Outposts** and this quest was Nihiloor's decision. This changes the party's understanding retroactively. The mastermind they've been treating as the main threat was itself controlled by something worse. The real threat from Xanathar's Guild faction was never Xanathar." — `campaign/structure/arc-f-xanathars-lair.md:408`
 
-> "- (3) **The Puppet** — Nihiloor has been exerting psionic domination over Xanathar itself for the past four months, replacing its strategic decisions while leaving its personality intact." — `campaign/setting/organizations/08-xanathars-guild.md:24` (the bullet is "**Nihiloor** ... In practice, Nihiloor is running three concurrent projects: ... (3) **The Puppet** — ...")
+> "In practice, Nihiloor is running three concurrent projects: (1) **The Infiltration** — intellect devourers placed inside city government officials give Nihiloor eyes throughout Waterdeep's bureaucracy; three Harper assets are already compromised; (2) **The Experiments** — creatures captured during Arena operations are being subjected to psionic modification seeking a "relay organism" that extends the colony's reach without destroying the host brain; (3) **The Puppet** — Nihiloor has been exerting psionic domination over Xanathar itself for the past four months, replacing its strategic decisions while leaving its personality intact. Evidence exists in Nihiloor's research chamber in the deep lair; its long-term payoff is the Seadeeps colony (Undermountain Level 17)." — `campaign/setting/organizations/08-xanathars-guild.md:24`
 
 > "Nihiloor, the mind flayer, has been psionically dominating Xanathar for the last four months. The Xanathar that the party meets, including the one who killed Manshoon's envoys and sent response teams against the party's allies, has been Nihiloor's instrument. Xanathar does not know." — `campaign/setting/history/02-the-long-shadow.md:83`
 
@@ -606,10 +616,10 @@ Campaign:
 > "- **Acquire the Vault of Dragons.** It wants the gold as proof of supremacy and of its rule over the underworld, not primarily for wealth. It knows the Stone is the key to the vault, but not what the Eye in Sylgar's bowl does, that there are three Eyes, or where the vault is. Method: recover the Stone and whatever it unlocks. Contingency: pursue whoever has it. Connects to **Xanathar's Lair**."
 
 Status: **PARTLY SUPPORTED. Split by claim.**
-- "not primarily for wealth": supported by `campaign/setting/organizations/08-xanathars-guild.md:17` ("The gold itself holds little appeal; the leverage it represents is everything."). Contradicted by `sources/adventure-wdh.json:32760` ("is extremely fond of gold").
-- "It knows the Stone is the key to the vault": supported by `campaign/setting/history/08-the-players-arrive.md:101` ("It knows the Stone is the key to the vault, but it does not know what the Eye in Sylgar's bowl does, that there are three Eyes, or where the vault is.") and by the Alexandrian p.15 (transcribed): "When he later learned about the missing dragons, he believed that he was now in possession of the whole key to Neverember's Vault."
+- "not primarily for wealth": supported by `campaign/setting/organizations/08-xanathars-guild.md:17` ("The gold itself holds little appeal; the leverage it represents is everything."), and by Alexandrian p.15 (transcribed): "You don't need to actually hold the gold if you're the one who controls its location." Contradicted by `sources/adventure-wdh.json:32760` ("is extremely fond of gold").
+- "It knows the Stone is the key to the vault": supported by `campaign/setting/history/08-the-players-arrive.md:101` ("It knows the Stone is the key to the vault, but it does not know what the Eye in Sylgar's bowl does, that there are three Eyes, or where the vault is.") and by Alexandrian p.15 (transcribed): "When he later learned about the missing dragons, he believed that he was now in possession of the whole key to Neverember's Vault."
 - "not what the Eye in Sylgar's bowl does": supported by `campaign/guides/gm-guide/running-the-villains.md:38` and `campaign/structure/arc-f-xanathars-lair.md:368` ("Xanathar does not know the Eye's value.").
-- "that there are three Eyes": campaign says it does not know (`history/08:101`). The Alexandrian p.15 (transcribed) says the opposite: "Xanathar was convinced that the Zhentarim had the other Eyes. (They didn't. Although that changes shortly after Dragon Heist begins; see below.)" Partly supported; conflicting (section 8, item 6).
+- "that there are three Eyes": campaign says it does not know (`history/08:101`). Alexandrian p.15 (transcribed) says it believed there were other Eyes: "Xanathar was convinced that the Zhentarim had the other Eyes. (They didn't. Although that changes shortly after Dragon Heist begins; see below.)" Conflicting (section 8, item 6).
 - "or where the vault is": supported by `history/08:101` and `running-the-villains.md:38` ("does not know the Eyes' significance or the vault's location"). Contradicted by `sources/adventure-wdh.json:32760` ("was able to open the vault, but was forced out by the dragon inside the place") and by `wiki.txt:283` ("Though it had also been able to locate the vault within which the treasure was kept").
 - "Method: recover the Stone and whatever it unlocks": supported by `campaign/setting/organizations/08-xanathars-guild.md:17` ("Xanathar wants the Stone recovered and the vault kept hidden").
 - "Contingency: pursue whoever has it": **NO SOURCE.** No file names a pursuit contingency.
@@ -619,9 +629,9 @@ Status: **PARTLY SUPPORTED. Split by claim.**
 > "- **Eliminate Manshoon.** The splinter cell incursion is a personal insult. Method: Guild response teams targeting Zhentarim operations. There is no contingency, and this failure is part of what drives Phase 3."
 
 Status: **PARTLY SUPPORTED. The Phase 3 link has no source.**
-- Goal: supported by `sources/adventure-wdh.json:527` ("wipe out anyone it perceives as a Zhentarim operative or sympathizer").
-- "failed": supported in the campaign only (`campaign/guides/gm-guide/running-the-villains.md:71`: "Xanathar's kill order on Manshoon has failed twice."). The published text has Manshoon hunting Xanathar (`sources/adventure-wdh.json:30256`), not a failed kill count.
-- "Guild response teams targeting Zhentarim operations": partly. `campaign/guides/factions/09-xanathars-guild.md:7`: "Xanathar deploys response teams in escalating tiers." It does not name Manshoon.
+- Goal: supported by `sources/adventure-wdh.json:527` ("whose goal is to wipe out anyone it perceives as a Zhentarim operative or sympathizer").
+- "failed": supported in the campaign only (`campaign/guides/gm-guide/running-the-villains.md:71`: "Xanathar's kill order on Manshoon has failed twice."). The published text has Manshoon hunting Xanathar (`sources/adventure-wdh.json:30256`) and no failed-kill count.
+- "Guild response teams targeting Zhentarim operations": partly. `campaign/guides/factions/09-xanathars-guild.md:7` ("Xanathar deploys response teams in escalating tiers."). It does not name Manshoon.
 - "this failure is part of what drives Phase 3": **NO SOURCE** (the phase triggers are unsourced; see 5b).
 
 **Goal 3, as written** (`campaign/setting/villains/xanathar.md:64`):
@@ -630,7 +640,7 @@ Status: **PARTLY SUPPORTED. The Phase 3 link has no source.**
 
 Status: **PARTLY SUPPORTED.**
 - "Ahmaergo manages this operationally": supported by `campaign/setting/organizations/08-xanathars-guild.md:41` ("Its field operations are coordinated by Ahmaergo").
-- "Skullport supply lines fund the Guild": partly. The published Undermountain text says the Guild's return of goods "thus boost[s] the town's sagging economy" (`sources/adventure-wdmm.json:4026`: "The Xanathar Guild aims to secure this level, plunder it thoroughly, and return valuable items to Skullport to be sold, thus boosting the town's sagging economy."). The wiki says the Guild took protection money (`wiki.txt:289`). "Fund the Guild" as such is not stated.
+- "Skullport supply lines fund the Guild": partly. The published Undermountain text says the Guild returns goods "to be sold, thus boosting the town's sagging economy" (`sources/adventure-wdmm.json:4026`: "The Xanathar Guild aims to secure this level, plunder it thoroughly, and return valuable items to Skullport to be sold, thus boosting the town's sagging economy."). The wiki says the Guild took protection money (`wiki.txt:289`). "Fund the Guild" as such is not stated.
 - "Connects to Mad Mage integration": design note, not a sourced fact.
 
 ### 5b. Personality Phases (page lines 34-36), triggers (38-40), pop culture (42)
@@ -642,7 +652,7 @@ Page rows:
 > "| 3 | The Cornered Monster | **Xanathar's Lair** | Volcanic and occasionally lucid; all safeguards failed; the goldfish is the only consistent anchor |"
 > — `campaign/setting/villains/xanathar.md:34-36`
 
-Source check: the three rows are the same as the retired chapter file (CLAUDE.md lists `campaign/structure/ch2-city-of-splendors.md` as "do not use"):
+Source check: the same three rows appear in the retired chapter file (CLAUDE.md lists `campaign/structure/ch2-city-of-splendors.md` as "do not use"):
 
 > "| 1 | The Paranoid Tyrant | Acts I–II | Calm control punctuated by administrative violence; the PCs are inside a system whose center they haven't identified |"
 > "| 2 | The Wounded God | Act III | Paranoia spiking to full-body vigilance; PCs specifically identified; everything implies conspiracy |"
@@ -655,9 +665,9 @@ The voice skill repeats the phases:
 > — `.claude/skills/character-voices/voices/xanathars-guild.md:16-18`
 
 Row statuses:
-- **Phase 1, "The Paranoid Tyrant"**: the name is not in any published text. "a paranoid tyrant" appears at `sources/adventure-wdh.json:32757`. "Calm control punctuated by administrative violence": **NO SOURCE**.
+- **Phase 1, "The Paranoid Tyrant"**: the name appears in no published text. "a paranoid tyrant" appears at `sources/adventure-wdh.json:32757`. "Calm control punctuated by administrative violence": **NO SOURCE**.
 - **Phase 2, "The Wounded God"**: **NO SOURCE** for the name or the mode. Nearest published line: "is prone to imagining conspiracies where none exist" (`sources/adventure-wdh.json:15160`), which partly supports "everything implies conspiracy".
-- **Phase 3, "The Cornered Monster"**: partly supported. "the goldfish is the only consistent anchor" is supported in substance by `sources/adventure-wdh.json:32759` ("The only creature Xanathar truly cares about aside from itself is a fish"). "Volcanic" is supported by `campaign/setting/notable-figures/xanathars-guild/01-xanathar.md:15` ("volcanic rage at perceived conspiracies"). "all safeguards failed": **NO SOURCE**. "Xanathar's Lair" as the Phase 3 setting is a design link to the quest.
+- **Phase 3, "The Cornered Monster"**: partly supported. "the goldfish is the only consistent anchor" is supported in substance by `sources/adventure-wdh.json:32759` ("The only creature Xanathar truly cares about aside from itself is a fish"). "Volcanic" is supported by `campaign/setting/notable-figures/xanathars-guild/01-xanathar.md:15` ("volcanic rage at perceived conspiracies"). "all safeguards failed": **NO SOURCE**. The Xanathar's Lair setting is the quest link (design).
 
 Triggers (page lines 38-40):
 
@@ -666,14 +676,14 @@ Triggers (page lines 38-40):
 > - Phase 2 → 3: PCs enter the Lair, or multiple Guild operations fail in a short window"
 > — `campaign/setting/villains/xanathar.md:38-40`
 
-Status: **NO SOURCE.** The faction's tiered escalation is in `campaign/guides/gm-guide/running-the-villains.md:45-57`; the phase triggers are not linked to it anywhere. The GM guide's line: "Xanathar's paranoia means its response to ambiguity is escalation. A single threat to an outpost advances directly from Suspicious to Alert." (`running-the-villains.md:54`)
+Status: **NO SOURCE.** The faction's escalation is the four-tier table, `campaign/guides/gm-guide/running-the-villains.md:45-57`. No file links the phases to it. The GM guide says: "Xanathar's paranoia means its response to ambiguity is escalation. A single threat to an outpost advances directly from Suspicious to Alert." (`running-the-villains.md:54`)
 
 Pop culture (page line 42):
 
 > "*Pop culture inspirations:* Jabba the Hutt (immovable center of an empire who is also the most childish person in the room); Inspector Javert (certainty as personality disorder); Tony Soprano (the businesslike violence of someone who stopped registering others as fully real)"
 > — `campaign/setting/villains/xanathar.md:42`
 
-Status: **NO SOURCE** in any published or remix file. Identical to `campaign/structure/ch2-city-of-splendors.md:193`. The Notable Figure gives a different set: "When playing Xanathar, channel Tony Montana (*Scarface*), Smaug (*The Hobbit*), and GLaDOS (*Portal*)." (`campaign/setting/notable-figures/xanathars-guild/01-xanathar.md:19`).
+Status: **NO SOURCE** in any published or remix file. The same text is at `campaign/structure/ch2-city-of-splendors.md:193`. The Notable Figure names a different set: "When playing Xanathar, channel Tony Montana (*Scarface*), Smaug (*The Hobbit*), and GLaDOS (*Portal*)." (`campaign/setting/notable-figures/xanathars-guild/01-xanathar.md:19`)
 
 Key Design Note (page line 68): "Xanathar's goldfish Sylgar receives more consideration than any humanoid lieutenant." Status: supported in substance by `sources/adventure-wdh.json:14982` (greatest weakness) and `campaign/structure/arc-f-xanathars-lair.md:374` ("Making the rule that harming Sylgar turns Xanathar immediately and irreversibly Hostile is correct: it reflects that Xanathar values Sylgar above guild loyalty, above tactical self-interest, above anything else in the lair."). It is design guidance.
 
@@ -692,19 +702,16 @@ Key Design Note (page line 68): "Xanathar's goldfish Sylgar receives more consid
 > "**Eye #3** — held by Jarlaxle Baenre, aboard the *Scarlet Marpenoth*. It began in Renaer Neverember's mourning locket. Manshoon's Zhentarim seized the locket the night before Ches 1 and pried it open at the Candle Lane warehouse, Xanathar's Guild raided the warehouse and carried off the Eye with the rest of the back office without knowing what it was, and Bregan D'aerthe agents already inside Xanathar's hideout lifted it the same night. It reached Jarlaxle before the party reached the hideout, and Manshoon's cell never held it. Jarlaxle has known of the Stone, the Eyes and the vault since he arrived in Waterdeep. He is active from Act I through his personas — J.B. Nevercott in Trollskull Alley and Zardoz Zord at the Field of Triumph — and his villain escalation keys off the **Jarlaxle Informed** flag set during **Fireball!**, which records only that the party made contact with him."
 > — `campaign/guides/gm-guide/running-the-villains.md:25`
 
-> "> [!info]**Where the Eyes Are**
-> > **Eye #1:** Xanathar — in Sylgar's bowl, Xanathar's Lair. Xanathar does not know what it is.
-> > **Eye #2:** Cassalanters — vault beneath Cassalanter Villa (area A7). The family knows its function.
-> > **Eye #3:** Jarlaxle Baenre — aboard the *Scarlet Marpenoth*. Jarlaxle knows exactly what it is. It passed from Renaer's locket to the Zhentarim, then to Xanathar's Guild in the warehouse raid, and Bregan D'aerthe agents inside Xanathar's hideout lifted it that night. Manshoon holds no Eye."
-> — `campaign/guides/gm-guide/running-the-villains.md:27-30`
+> "> **Eye #1:** Xanathar — in Sylgar's bowl, Xanathar's Lair. Xanathar does not know what it is."
+> "> **Eye #2:** Cassalanters — vault beneath Cassalanter Villa (area A7). The family knows its function."
+> "> **Eye #3:** Jarlaxle Baenre — aboard the *Scarlet Marpenoth*. Jarlaxle knows exactly what it is. It passed from Renaer's locket to the Zhentarim, then to Xanathar's Guild in the warehouse raid, and Bregan D'aerthe agents inside Xanathar's hideout lifted it that night. Manshoon holds no Eye."
+> — `campaign/guides/gm-guide/running-the-villains.md:28-30` (the callout is headed "Where the Eyes Are", line 27)
 
 > "**The Vault of Dragons** — 500,000 gold dragons, guarded by the adult gold dragon Aurinax under a geas, beneath the Brandath Crypts in the City of the Dead. The vault opens only when someone presents the complete Stone of Golorr, with all three Eyes restored, and speaks the command phrase, which the Stone gives at the third Eye."
 > — `campaign/guides/gm-guide/running-the-villains.md:32`
 
 > "| Xanathar's Guild | Dalakhar was moving the Stone; Stone is now in circulation; does not know the Eyes' significance or the vault's location | Eye #1 (in Sylgar's bowl; Xanathar does not know what it is) | The Stone; the Eyes' significance |"
 > — `campaign/guides/gm-guide/running-the-villains.md:38`
-
-> "> **Eye #1:** ..." — see 27-30 above.
 
 Lore file (`campaign/setting/lore/stone-of-golorr-and-the-eyes.md`):
 
@@ -726,11 +733,9 @@ History 08 (`campaign/setting/history/08-the-players-arrive.md`):
 
 > "- **Conflicts:** Where Dalakhar took the Stone. `fireball/ev-01-the-fireball.md` line 94 and the published adventure (lines 472-474) say Xanathar's lair. `gralhund-villa/ev-05-the-guest-suite.md` line 51 says "Lord Neverember's people". The published adventure also has the Stone vanish during Zhentarim merger talks, while the campaign has Zhentarim envoys deliver Eye #1 and die for it." — line 137
 
-> "> - **Settled:** `setting/grand-game.md` line 32 ("Dalakhar worked for Renaer") and line 34 ("soul coins", "not yet pursuing Stone") are stale against the rulings, including "no soul coins". `running-the-villains.md` line 71 calls Xanathar and Manshoon a "cold war", where the ruling is an active low-level street war. Neither file is edited here." — line 138 (stale: the current line 71 reads "Active street war — low-level, in the Dock Ward"; see section 8, item 18)
+> "> - **Settled:** `setting/grand-game.md` line 32 ("Dalakhar worked for Renaer") and line 34 ("soul coins", "not yet pursuing Stone") are stale against the rulings, including "no soul coins". `running-the-villains.md` line 71 calls Xanathar and Manshoon a "cold war", where the ruling is an active low-level street war. Neither file is edited here." — line 138 (stale: the current `running-the-villains.md` line 71 reads "Active street war — low-level, in the Dock Ward"; see section 8, item 18)
 
 History 02 (`campaign/setting/history/02-the-long-shadow.md`), settled and conflict notes:
-
-> "- **Research:** What the room proves..." — n/a.
 
 > "> - **Settled by the user (Session 47):** How the current Xanathar came to believe it is the original needs no source. The user's ruling fixes the belief (see the Settled bullet below), and the remix overrides the published detail." — line 150
 
@@ -738,39 +743,27 @@ History 02 (`campaign/setting/history/02-the-long-shadow.md`), settled and confl
 
 > "> - **Settled by the user (Session 47):** "The current Xanathar believes it is the original" (`history.md` line 25; `xanathar.md` line 24). The user ruled: "Yes. Remix overtakes original campaign." The remix line wins over the published room X33, which shows the current Xanathar "gazing somberly" at the tombs of past Xanathars (`adventure-wdh.json` line 18027), over the published entry that says it "isn't the first beholder to claim this mantle" (line 32756), and over the campaign crypt that holds every previous holder's remains (`arc-f` line 167). These are published or earlier details the remix overrides, not conflicts to resolve in the pages. The body keeps the campaign line (The Current Xanathar)." — line 155
 
-> "> - **Settled by the user (Session 47):** Nar'l's tenure is one year, placed in 1491 DR (`adventure-wdh.json` line 32323; the wiki dates it 1491 DR). The three years (`03-narl-xibrindas.md` line 22; `08-xanathars-guild.md` line 23) and the eleven years (`arc-f` line 17; `arc-h` line 15) are stale." — line 161
-
 > "> - **Settled by the user (Session 47):** Who knows the crypt. `arc-f` line 167 says only Nar'l among the Guild's members, and the published room has Xanathar visiting it. The ruling that the remix overrides the room leaves Nar'l as the one who knows, and the page words this as "of the Guild's own people"." — line 162
 
 > "> - **Conflicts:** The Stone. The published entry has Xanathar's spies stealing the Stone "a few years ago" and Xanathar opening the vault before a dragon drove it out (`adventure-wdh.json` line 32760), and has the Stone vanish during merger talks (lines 472-474). The campaign has Eye #1 arrive with Manshoon's envoys three months before the fireball (`arc-f` line 9), and the vault is unopened. The page follows the campaign." — line 163
 
 > "> - **Settled by the user (Session 47):** Xanathar is "it/its". `08-xanathars-guild.md` lines 13-17 and `01-xanathar.md` still use "he/his" and are stale." — line 165
 
-> "- The current Xanathar is a beholder named Zushaxx, and its pronouns are "it". Kirukesai was one of the previous Xanathars. The wiki lists both names and spells the second Kirukeskai or Kirueskai." — line 34
-
 > "- **Campaign line:** Zushaxx believes it is the original Xanathar. The belief is now structural to the Guild's identity and cannot be corrected. The user has settled the line: the remix overrides the published adventure, so the page needs no earlier cause for the belief (Draft Notes)." — line 51
 
-> "- By 1492 DR Zushaxx is in full control of Skullport. A rival beholder, Nerozar, challenged it for lordship and lost, as the published Undermountain adventure confirms. The wiki adds that Zushaxx had Nerozar eliminated. `[research: wiki only]`" — line 53
-
-> "> - **Timeline.** Dates after the Netherese entry are wiki-only except where noted, and none is a campaign decision." (+ timeline list lines 130-142) — the full list: "  - By 1357 DR: the first Xanathar's guild is a thriving thieves' guild." (135), "  - By 1372 DR: Kirukesai rules the merged Guild with eleven Masters." (137), "  - Late 15th century: mithral revives Skullport, and Zushaxx becomes Xanathar." (139), "  - 1491 DR: Zushaxx takes Nar'l as its only advisor." (140), "  - 1492 DR: Zushaxx holds Skullport, kills Nerozar, and negotiates with the Zhentarim. This much is in the published adventures." (141)
-
-> "> - **What the party can learn.** The room proves that..." (127) — quoted in section 2c.
+> "> - **Timeline.** Dates after the Netherese entry are wiki-only except where noted, and none is a campaign decision." — line 129; the Xanathar entries of the timeline are: "  - By 1357 DR: the first Xanathar's guild is a thriving thieves' guild." (line 135); "  - By 1372 DR: Kirukesai rules the merged Guild with eleven Masters." (line 137); "  - Late 15th century: mithral revives Skullport, and Zushaxx becomes Xanathar." (line 139); "  - 1491 DR: Zushaxx takes Nar'l as its only advisor." (line 140); "  - 1492 DR: Zushaxx holds Skullport, kills Nerozar, and negotiates with the Zhentarim. This much is in the published adventures." (line 141)
 
 Arc-f (`campaign/structure/arc-f-xanathars-lair.md`):
 
-> "Three months before the Trollskull fireball, Manshoon dispatched two Zhentarim lieutenants to Skullport carrying a gift: Eye #1 of the Stone of Golorr, stolen from the Protector's Enclave in Neverwinter. The Eye was offered as a peace overture — proof that Manshoon's splinter faction could be a valuable partner in the Grand Game. Xanathar received the envoys in its throne room, listened to their proposal, and ate them. It kept the Eye and has never learned what it is. The Eye passed to Ott Steeltoes, who placed it in Sylgar's fishbowl because it had a pretty color and Xanathar liked Sylgar's bowl to look interesting." — `campaign/structure/arc-f-xanathars-lair.md:9`
+> "Xanathar does not know the Eye's value. Ott Steeltoes thought it was a pretty stone and placed it where Xanathar likes its fish's habitat to look interesting. It has been sitting there for months, protected less by paranoid security than by the fact that nobody knows it's there." — line 368
 
-> "Since the fireball disrupted the Street of Silver trade routes, Xanathar has withdrawn into paranoia — convinced that one of the other Grand Game factions has mapped the lair's entrances." — `campaign/structure/arc-f-xanathars-lair.md:11`
+> "**X19 — Xanathar's Sanctum.** A circular room with purple carpet. Personal relics on shelves: small figures, collected baubles, trinkets from significant moments in Xanathar's life. At the center, Sylgar's bowl — a large crystal sphere filled with salt water, algae, decorative rocks, and Sylgar the goldfish. At the bottom of the sphere, among the rocks, glinting faintly through the water's refractions: Eye #1. A small smoky-gray gemstone Ott Steeltoes placed there months ago because it looked like it belonged." — line 157
 
-> "**X19 — Xanathar's Sanctum.** A circular room with purple carpet. Personal relics on shelves: small figures, collected baubles, trinkets from significant moments in Xanathar's life. At the center, Sylgar's bowl — a large crystal sphere filled with salt water, algae, decorative rocks, and Sylgar the goldfish. At the bottom of the sphere, among the rocks, glinting faintly through the water's refractions: Eye #1. A small smoky-gray gemstone Ott Steeltoes placed there months ago because it looked like it belonged." — `campaign/structure/arc-f-xanathars-lair.md:157`
+> "Extraction without disturbing Sylgar: the sphere has a narrow top opening. DC 12 Dexterity (Sleight of Hand) to remove a stone from the bottom without startling the fish. On a failure, Sylgar thrashes; the water splashes audibly. Xanathar snaps to attention: "What happened to Sylgar? What did you do to Sylgar?" If the fish is harmed — even accidentally — Xanathar becomes Hostile regardless of any prior rapport and does not negotiate. It begins with eye rays." — line 161
 
-> "Extraction without disturbing Sylgar: the sphere has a narrow top opening. DC 12 Dexterity (Sleight of Hand) to remove a stone from the bottom without startling the fish. On a failure, Sylgar thrashes; the water splashes audibly. Xanathar snaps to attention: "What happened to Sylgar? What did you do to Sylgar?" If the fish is harmed — even accidentally — Xanathar becomes Hostile regardless of any prior rapport and does not negotiate. It begins with eye rays." — `campaign/structure/arc-f-xanathars-lair.md:161`
+> "**X33 — Crypt of Xanathar's Past.** Through the secret door from X6 (DC 17 Perception), a narrow passage leads to a chamber containing the preserved remains and personal effects of every previous beholder who held the title "Xanathar" — predecessors stretching back centuries. Nar'l Xibrindas is the only current Guild member who knows this room exists. The room contains: evidence that "Xanathar" is a title claimed through murder, not inherited; the original Guild charter signed by the first holder; and locked coffer containing the personal journals of the last three Xanathars, including early dealings with Manshoon's predecessors. The revelation that Xanathar is a title implies the current one could be replaced, and that someone may already be planning to do so." — line 167
 
-> "Xanathar does not know the Eye's value. Ott Steeltoes thought it was a pretty stone and placed it where Xanathar likes its fish's habitat to look interesting. It has been sitting there for months, protected less by paranoid security than by the fact that nobody knows it's there." — `campaign/structure/arc-f-xanathars-lair.md:368`
-
-> "**X33 — Crypt of Xanathar's Past.** Through the secret door from X6 (DC 17 Perception), a narrow passage leads to a chamber containing the preserved remains and personal effects of every previous beholder who held the title "Xanathar" — predecessors stretching back centuries. Nar'l Xibrindas is the only current Guild member who knows this room exists. The room contains: evidence that "Xanathar" is a title claimed through murder, not inherited; the original Guild charter signed by the first holder; and locked coffer containing the personal journals of the last three Xanathars, including early dealings with Manshoon's predecessors. The revelation that Xanathar is a title implies the current one could be replaced, and that someone may already be planning to do so." — `campaign/structure/arc-f-xanathars-lair.md:167`
-
-> "**X35 — Nar'l's Office.** ... Nar'l has kept this from Xanathar for eleven months. ..." — `campaign/structure/arc-f-xanathars-lair.md:169` (full line: "**X35 — Nar'l's Office.** Sparse and organized by a mind that trusts nothing to memory when paper will do. The desk holds Guild operational reports and a coded communication log in Jarlaxle's cipher (DC 16 Intelligence to decode without the key). In a false-bottomed drawer (DC 14 Intelligence (Investigation)): the *Report on the Seven Masks Theater* — a summary of Jarlaxle's operational activity through the theater's ownership chain, its connection to the Sea Maidens Faire, and a partial decoding of Jarlaxle's Grand Game position. Nar'l has kept this from Xanathar for eleven months. Finding it is one of three clue paths to **Sea Maidens Faire**.")
+> "**X35 — Nar'l's Office.** Sparse and organized by a mind that trusts nothing to memory when paper will do. The desk holds Guild operational reports and a coded communication log in Jarlaxle's cipher (DC 16 Intelligence to decode without the key). In a false-bottomed drawer (DC 14 Intelligence (Investigation)): the *Report on the Seven Masks Theater* — a summary of Jarlaxle's operational activity through the theater's ownership chain, its connection to the Sea Maidens Faire, and a partial decoding of Jarlaxle's Grand Game position. Nar'l has kept this from Xanathar for eleven months. Finding it is one of three clue paths to **Sea Maidens Faire**." — line 169
 
 Alexandrian (transcribed):
 
@@ -784,19 +777,22 @@ Alexandrian (transcribed):
 
 > "X19 – Xanathar's Sanctum: In addition to the normal entry for this room, Xanathar keeps the Eye in Sylgar's fishbowl." — PDF page 6 (printed p.88)
 
-Published (the Stone, keys, and vault):
+Published (the Stone, the keys and the vault):
 
-> "If a character becomes attuned to the {@item Stone of Golorr|WDH}, it reveals the location of the Vault of Dragons, below a theater in the Castle Ward called the Pink Flumph, and the three keys that are needed to enter it. When the characters are ready to visit the location, proceed with encounter 6, \"Theater.\"" — `sources/adventure-wdh.json:7045`
+> "If a character becomes attuned to the {@item Stone of Golorr|WDH}, it reveals the location of the Vault of Dragons, below a theater in the Castle Ward called the Pink Flumph, and the three keys that are needed to enter it. When the characters are ready to visit the location, proceed with encounter 6, \"Theater.\""
+> — `sources/adventure-wdh.json:7045`
 
-> "If a character becomes attuned to the {@item Stone of Golorr|WDH}, it reveals the location of the Vault of Dragons, beneath an old stone windmill in the Sea Ward, and the three keys needed to enter it. When the characters are ready to visit the location, proceed with encounter 10, \"Converted Windmill.\"" — `sources/adventure-wdh.json:7587`
+> "If a character becomes attuned to the {@item Stone of Golorr|WDH}, it reveals the location of the Vault of Dragons, beneath an old stone windmill in the Sea Ward, and the three keys needed to enter it. When the characters are ready to visit the location, proceed with encounter 10, \"Converted Windmill.\""
+> — `sources/adventure-wdh.json:7587`
 
-> "\"The {@item Stone of Golorr|WDH} is some kind of ancient creature transformed into an artifact. It knows the location of a hidden vault in Waterdeep containing half a million dragons.\"" — `sources/adventure-wdh.json:5966`
+> "\"The {@item Stone of Golorr|WDH} is some kind of ancient creature transformed into an artifact. It knows the location of a hidden vault in Waterdeep containing half a million dragons.\""
+> — `sources/adventure-wdh.json:5966`
 
 > "Dalakhar stole an artifact called the {@item Stone of Golorr|WDH} from the lair of a beholder known as {@creature Xanathar|WDH}, in a dungeon deep below the city." — `sources/adventure-wdh.json:4533`
 
 > "The Stone of Golorr was originally snatched from {@creature Xanathar|WDH}, and the eye tyrant wants it back. It sends monsters and minions to do its dirty work." — `sources/adventure-wdh.json:6616`
 
-Eyes absent: a search of the published Stone text (lines with "Stone of Golorr" plus "eye", "Eye", "three" or "vault") found no line describing gemstone Eyes. The only three-part requirement is the "three keys" above.
+A search of the published Stone text (lines containing "Stone of Golorr" with "eye", "Eye", "three" or "vault") found no line describing gemstone Eyes. The only three-part requirement is the "three keys" above.
 
 Ott, the Eye's keeper:
 
@@ -806,173 +802,167 @@ User ruling (session 47 handoff):
 
 > "> "Jarlaxle has men in Xanathar's hideout." — User, this session" — `session 47 handoff.md:80`
 
-**Status (campaign):** Eye #1 is in Sylgar's bowl in X19; Xanathar does not know what it is (running-the-villains.md:28, :38; lore:41, :46; history 08:25; arc-f:157, :368). The Eye's route through Ott is contradicted by one file (section 8, item 9). Eye #3 is consistent across running-the-villains.md:25, lore:43 and the session 47 ruling.
+**Status (campaign):** Eye #1 is in Sylgar's bowl in X19, and Xanathar does not know what it is (`running-the-villains.md:28`, `:38`; `lore:41`, `:46`; `history/08:25`; `arc-f:157`, `:368`). The Eye's route through Ott is contradicted by one file (section 8, item 9). Eye #3 is consistent across `running-the-villains.md:25`, `lore:43` and the session 47 ruling.
 
 ---
 
 ## 7. Lines on the existing page that need fixing
 
-Page: `campaign/setting/villains/xanathar.md` (114 lines).
+Page: `campaign/setting/villains/xanathar.md` (114 lines). Locators name the line; quotes are given only where the line is short enough to quote whole.
 
 Retired format:
-- Lines 5-7 and line 100-102: `> **[GM]**` zones with `> #### Gamemaster's Summary` (line 7) and `> #### Draft Notes` (line 102). CLAUDE.md retires the `> **[GM]**` zones.
+- Lines 5-7 and 100-102: `> **[GM]**` zones, with `> #### Gamemaster's Summary` (line 7) and `> #### Draft Notes` (line 102). CLAUDE.md retires the `> **[GM]**` zones.
 
 Terms the brief asked for:
 - "DM": no match on the page (grep `\bDM\b`).
 - "flag": no match on the page.
-- "Arc" (capitalised): no match. Lowercase `arc-` file slugs appear at:
-  - Line 104: "...and `arc-f` line 167. See `02-the-long-shadow.md`, Draft Notes."
-  - Line 107: "`arc-f` line 408 says every decision attributed to the beholder was Nihiloor's, which is not yet reflected here."
-  - Line 108: "...and eleven years or months in `arc-f` lines 17 and 169."
-  - Line 110: "The Guild organization page line 17 and `arc-j` line 19 ("kept hidden as leverage") disagree."
+- "Arc" (capitalised): no match. Lowercase `arc-` file slugs appear at lines 104, 107, 108 and 110. Line 104 cites `arc-f` line 167; line 107 cites `arc-f` line 408; line 108 cites `arc-f` lines 17 and 169; line 110 cites `arc-j` line 19.
 
-Ward names:
-- Line 27: "- The Dock Ward is the Guild's primary surface territory."
-- Line 58: "- The war with Manshoon is an active, low-level street war in the Dock Ward, grinding on with the kill order that has failed twice."
-- Line 72: "...a web of informants in every ward, with the Dock Ward as its main territory above ground..."
-- Line 109: "- **Conflicts:** The Manshoon relationship is an active, low-level street war in the Dock Ward. ..."
+Ward names on the page:
+- Line 27: "The Dock Ward is the Guild's primary surface territory."
+- Line 58: "The war with Manshoon is an active, low-level street war in the Dock Ward, grinding on with the kill order that has failed twice."
+- Line 72: "...with the Dock Ward as its main territory above ground..."
+- Line 109: "The Manshoon relationship is an active, low-level street war in the Dock Ward." (in a `Conflicts:` draft note)
 
 Links by path:
 - Line 80: `sources/adventure-wdh.json` — valid.
 - Line 81: `sources/1. The Villains.pdf` — exists.
 - Line 82: `sources/11. Lair Xanathar's Lair.pdf` — **wrong filename.** The file is `sources/11. Lair  Xanathar’s Lair.pdf` (two spaces after "Lair", curly apostrophe). It is nine PDF pages, printed pp.83-91.
-- Line 83: "Earlier outline of this page (retired), Section 2: Xanathar" — points at the retired outline.
+- Line 83: the retired outline ("Earlier outline of this page (retired), Section 2: Xanathar").
 - Line 84: `campaign/setting/history/02-the-long-shadow.md` — exists.
-- Line 85: `campaign/setting/waterdeep-lore.md` — **does not exist** (Glob returns no file). The page must not cite it.
+- Line 85: `campaign/setting/waterdeep-lore.md` — **does not exist** (Glob returns no file). Remove the citation; the outline was retired.
 - Line 86: `campaign/setting/organizations/08-xanathars-guild.md` and `campaign/setting/notable-figures/xanathars-guild/` — both exist.
-- Line 87: "Forgotten Realms Wiki, Xanathar and Xanathar's Thieves' Guild (2e to 5e)..." — the bundle holds "Xanathar (original)" (the founder), not a page titled "Xanathar". The page's "Kirukeskai (1372 DR)" conflicts with the wiki (section 8, item 2).
-- Lines 104-110: `arc-f`, `arc-j`, `02-the-long-shadow.md`, `04-nihiloor.md`, `03-narl.md` (the file is `03-narl-xibrindas.md`), `08-xanathars-guild.md`, `01-xanathar.md`, `grand-game-in-play.md`, `running-the-villains.md`, `adventure-wdh.json`. The link names on lines 108 and 113 need the real filenames.
+- Line 87: the wiki citation. The bundle's wiki has "Xanathar (original)", the founder, not a page titled "Xanathar". The "Kirukeskai (1372 DR)" claim conflicts with the wiki (section 8, item 2).
+- Lines 104-113: cite `03-narl.md`; the real file is `03-narl-xibrindas.md`. Lines 108 and 113 cite `01-xanathar.md` and `08-xanathars-guild.md` correctly.
 
-Content the drafter should fix (line by line):
-- Line 10: "Xanathar appears in **Finding Floon**, **Faction Outposts**, **Xanathar's Lair** and **Vault of Dragons**." Omits Gralhund Villa (`campaign/quests/act-ii/gralhund-villa/overview.md:43`, gazers). See section 8, item 15.
-- Line 17: "...destroying Manshoon and keeping Skullport's money flowing." — see 5a.
-- Line 21: "...predates any individual beholder." — section 8, item 1 and wiki "Xanathar's Thieves' Guild" (wiki.txt:261) say the title came from the first holder's name and Kirukeskai began the title (section 8 item 1 and history 02:157).
-- Line 23: "...Kirukeskai claimed the title in the 14th century, in 1372 DR..." — section 8, item 2. The sentence also names its source ("The user supplied both names"), which is provenance, not body text.
-- Line 24: "...the user has settled it..." — provenance, not body text.
-- Line 26: "two levels below it" — same depth as history 02:59 "three levels below the Yawning Portal well" (section 8, item 17).
-- Lines 34-36 and 38-40, 42: the phases, triggers and pop-culture line (section 5b; copied from retired ch2).
-- Line 50: "Trusted intelligence gatherer; Xanathar grants it unusual autonomy" — no source (Not found).
-- Line 48: "Most trusted lieutenant; the only one Xanathar registers as competent; Ahmaergo knows he is replaceable" — "competent" and "replaceable" have no source (Not found).
-- Line 49: Nar'l "Trusted as a drow voice on Guild matters" — current Notable Figure says the same ("Xanathar's trusted drow advisor"), so not a conflict; line 57 says Xanathar suspects him.
-- Line 51: "Xanathar has ordered Manshoon killed twice; both failed" — "twice" appears only in the campaign (running-the-villains.md:71; grand-game-in-play.md:61); not in the published text.
-- Line 52: "Jarlaxle | Unknown | Not yet identified as a player" — the source says Xanathar's advisor is Jarlaxle's spy (`sources/adventure-wdh.json:15149`); "player" is ambiguous.
-- Line 62: "not primarily for wealth" — contradicted by `sources/adventure-wdh.json:32760`.
-- Line 68: "Key Design Note" — design text.
-- Lines 72 and 36: "goldfish" — the published text never says "goldfish" (0 matches). The published says "fish" (`sources/adventure-wdh.json:32759`).
-- Line 107: "`04-nihiloor.md` lines 22 and 26 say Nihiloor has no interest in supplanting Xanathar." — stale. The current lines 22 and 26 say domination (`campaign/setting/notable-figures/xanathars-guild/04-nihiloor.md:22`, `:26`). "No interest in supplanting" is published (`sources/adventure-wdh.json:32354`).
-- Line 108: "`03-narl.md` line 22 and the Guild organization page" (three years) — stale. The current file says "after one year in place, placed in 1491 DR" (`03-narl-xibrindas.md:22`); the org page line 23 says "one year, placed in 1491 DR". "Eleven years or months in `arc-f` lines 17 and 169" — the current arc-f line 17 says "placed Nar'l Xibrindas in the Guild in 1491 and has relied on him as a double agent for the year since" and line 169 says "Nar'l has kept this from Xanathar for eleven months" (a report-keeping period, not a tenure). "Stale text remains in `grand-game-in-play.md` line 63, `running-the-villains.md` lines 71 and 73, and `01-xanathar.md` line 27." — the current text at those lines carries no tenure figure (checked; sections 4 and 5).
-- Line 109: "`running-the-villains.md` line 71 still says "Cold war"." — stale. Current line 71: "| **Xanathar vs. Manshoon** | Active street war — low-level, in the Dock Ward |".
-- Line 111: "The Overview and the phase table call Sylgar a goldfish, and the published adventure never uses that word." — confirmed (section 3).
-- Line 113: "...the Xanathar Notable Figure page and the Guild organization page, which still use "he/his" in places." — the current Notable Figure page (`01-xanathar.md`) and the org page (`08-xanathars-guild.md`, lines 13 and 15: "Xanathar is a beholder, paranoid, impulsive, and absolute in its conviction..." and "...the fish. Xanathar's attachment to the fish is total...") use "it". The "he/his" problem is in the Alexandrian files and in `session` notes, not these lines. Check before you act on the claim.
+Content the drafter should fix:
+- Line 10 lists the quests where Xanathar appears. It omits Gralhund Villa (gazers at `campaign/quests/act-ii/gralhund-villa/overview.md:43`). Section 8, item 15.
+- Line 17: "destroying Manshoon and keeping Skullport's money flowing." See 5a.
+- Line 21: "predates any individual beholder." See section 8, item 1.
+- Line 23: "Kirukeskai claimed the title in the 14th century, in 1372 DR" conflicts with the wiki (section 8, item 2). The clause "The user supplied both names" is provenance, not body text.
+- Line 24: "the user has settled it" is provenance, not body text.
+- Line 26: "two levels below it" and history 02:59 "three levels below the Yawning Portal well" describe the same depth (section 8, item 17).
+- Lines 34-36 and 38-40, 42: the phases, triggers and pop-culture line (section 5b, copied from the retired ch2 file).
+- Line 48: "the only one Xanathar registers as competent; Ahmaergo knows he is replaceable": no source (Not found).
+- Line 50: "Xanathar grants it unusual autonomy": no source (Not found).
+- Line 51: "Xanathar has ordered Manshoon killed twice; both failed": "twice" appears only in the campaign (`running-the-villains.md:71`; `grand-game-in-play.md:61`), not in the published text.
+- Line 52: "Not yet identified as a player": the published text calls Nar'l Jarlaxle's spy (`sources/adventure-wdh.json:15149`). "Player" is ambiguous.
+- Line 62: "not primarily for wealth" is contradicted by `sources/adventure-wdh.json:32760`.
+- Lines 36 and 72: "goldfish." The published text never says "goldfish" (0 matches); it says "fish" (`sources/adventure-wdh.json:32759`).
+- Line 107: "`04-nihiloor.md` lines 22 and 26 say Nihiloor has no interest in supplanting Xanathar." Stale. The current lines 22 and 26 say domination (`campaign/setting/notable-figures/xanathars-guild/04-nihiloor.md:22`, `:26`). "No interest in supplanting" is published (`sources/adventure-wdh.json:32354`).
+- Line 108: "`03-narl.md` line 22 and the Guild organization page" (three years) is stale. Current `03-narl-xibrindas.md:22` says "reporting via Sending spell after one year in place, placed in 1491 DR", and `08-xanathars-guild.md:23` says "operating in place for one year, placed in 1491 DR". The "eleven years or months" in `arc-f` lines 17 and 169 is stale for tenure: line 17 says "placed Nar'l Xibrindas in the Guild in 1491"; line 169 says "Nar'l has kept this from Xanathar for eleven months" (a report-keeping period). The "stale text" at `grand-game-in-play.md` line 63, `running-the-villains.md` lines 71 and 73, and `01-xanathar.md` line 27 carries no tenure figure now.
+- Line 109: "`running-the-villains.md` line 71 still says "Cold war"." Stale. Current line 71: "| **Xanathar vs. Manshoon** | Active street war — low-level, in the Dock Ward |".
+- Line 111: "The Overview and the phase table call Sylgar a goldfish, and the published adventure never uses that word." Confirmed (section 3).
+- Line 113: "...the Xanathar Notable Figure page and the Guild organization page, which still use "he/his" in places." The current Notable Figure (`01-xanathar.md`) and the org page (`08-xanathars-guild.md:13`, "Xanathar is a beholder, paranoid, impulsive, and absolute in its conviction that everyone around it is either a tool or a threat.") use "it". The "he/his" problem is in the Alexandrian files and in the Arc E file (section 8, item 10). Check the claim before acting on it.
 
 ---
 
 ## 8. Open conflicts (paired quotes; ranking noted)
 
-Ranking applied: campaign files (remix decisions and the user's rulings) > published adventure > Alexandrian remix (transcribed) > wiki. "Settled" means the campaign says it.
+Ranking applied: campaign files (remix decisions and the user's rulings) > published adventure > Alexandrian remix (transcribed) > wiki. "Settled" means the campaign says so.
 
 1. **Predecessor count.**
    - "The wiki says Zushaxx is "at least the fifteenth" Xanathar (`Xanathar_Guild.txt` line 151). X33 holds four bodies and nine urns (`adventure-wdh.json` lines 18022-18023), which is thirteen predecessors and makes Zushaxx the fourteenth. This page keeps thirteen and logs the wiki's count." — `campaign/setting/history/02-the-long-shadow.md:152`
    - "It was at least the fifteenth Xanathar by this point, as it kept the embalmed bodies of four other beholders within its lair, along with nine urns containing the ashes of others." — `sources/research/pass4-bundles/xanathar/wiki.txt:281`
-   - Status: **unruled.** The session 47 handoff lists it as open (`session 47 handoff.md:141`). The sum of the X33 count is the history page's arithmetic, not a published number. The page has no count.
+   - Status: **unruled.** The session 47 handoff lists it as open (`session 47 handoff.md:141`). The count of thirteen is the history page's arithmetic from X33, not a published number. The page itself has no count.
 
 2. **Kirukeskai's takeover date.**
    - Page: "Kirukeskai claimed the title in the 14th century, in 1372 DR" — `campaign/setting/villains/xanathar.md:23`
    - Wiki: "'The Xanathar' had taken full control of the Xanathar's Thieves' Guild and gained great power and influence by 1368 DR." — `wiki.txt:106`
-   - Wiki: "Start of reign: Some years after 1304 DR" — `wiki.txt:1364`
-   - Wiki (leader table, a year label): "Xanathar (Kirukeskai) in 1372" — `wiki.txt:142`
+   - Wiki: "| start of reign = Some years after [[1304 DR]]" — `wiki.txt:1364`
+   - Wiki (a leader-table year): "Xanathar (Kirukeskai) in 1372" — `wiki.txt:142`
    - Campaign: "By 1372 DR: Kirukesai rules the merged Guild with eleven Masters." — `campaign/setting/history/02-the-long-shadow.md:137`
-   - Status: **unruled.** The page's "claimed ... in 1372" uses the leader-table year. The text gives 1368 for the takeover. Use one date with its source.
+   - Status: **unruled.** The page's "claimed ... in 1372" uses the leader-table year. The wiki's takeover text gives 1368. Use one date with its source.
 
 3. **How and when the first holder died.**
    - Wiki: "In truth however the original Xanathar was killed in 1358 by an adventuring band under orders of the Lords of Waterdeep and secretly aided by another beholder that assumed the identity of the Xanathar." — `wiki.txt:108`
-   - Wiki: "Xanathar's ruin came at last at some unknown time in the late 1360s DR, ..., the Eye arrived and easily killed Xanathar." — `wiki.txt:106`
+   - Wiki: "Afterward, the Eye replaced it, telling Xanathar's former minions that "the Xanathar" was but a title." — `wiki.txt:106` (the same paragraph dates the killing to "the late 1360s DR")
    - Wiki infobox: `| death          = 1370` — `wiki.txt:29`
-   - Wiki, 1358 DR year page: "The beholder crime lord Xanathar is slain by adventurers under the command of the Lords of Waterdeep." — `wiki.txt:1521`
+   - Wiki, the 1358 DR year page: "The beholder crime lord Xanathar is slain by adventurers under the command of the Lords of Waterdeep." — `wiki.txt:1521`
    - Campaign: "Accounts of its death differ. `[research: wiki only]`" — `campaign/setting/history/02-the-long-shadow.md:36`
-   - Status: **the wiki's own pages conflict.** The page says nothing about it. Do not state a year without a note.
+   - Status: **the wiki's own pages conflict.** The page says nothing on it. Do not state a year without a note.
 
 4. **What Xanathar knows of the vault.**
-   - Page: "It knows the Stone is the key to the vault, but not ... where the vault is." — `campaign/setting/villains/xanathar.md:62`
+   - Page: "It knows the Stone is the key to the vault, but not what the Eye in Sylgar's bowl does, that there are three Eyes, or where the vault is." — `campaign/setting/villains/xanathar.md:62`
    - Campaign: "does not know the Eyes' significance or the vault's location" — `campaign/guides/gm-guide/running-the-villains.md:38`
+   - Campaign history 02: "The campaign has Eye #1 arrive with Manshoon's envoys three months before the fireball (`arc-f` line 9), and the vault is unopened." — `campaign/setting/history/02-the-long-shadow.md:163`
    - Published: "{@creature Xanathar|WDH} was able to open the vault, but was forced out by the dragon inside the place." — `sources/adventure-wdh.json:32760`
-   - Published: "without the {@item Stone of Golorr|WDH}, it can't remember where the gold is hidden." — `sources/adventure-wdh.json:14938`
+   - Published: "but without the {@item Stone of Golorr|WDH}, it can't remember where the gold is hidden." — `sources/adventure-wdh.json:14938`
    - Wiki: "Though it had also been able to locate the vault within which the treasure was kept, it had been forced out by the vault's draconic guardian." — `wiki.txt:283`
-   - Campaign history: "`arc-f` line 9), and the vault is unopened." — `history/02:163` (full sentence: "The campaign has Eye #1 arrive with Manshoon's envoys three months before the fireball (`arc-f` line 9), and the vault is unopened.")
-   - Status: **settled for the remix** (campaign: the vault is unopened and its location unknown). Published and wiki say otherwise.
+   - Status: **settled for the remix** (the vault is unopened and its location unknown). The published and wiki texts say Xanathar opened or located the vault.
 
 5. **Gold or leverage.**
-   - Page: "...not primarily for wealth." — `campaign/setting/villains/xanathar.md:62`
+   - Page: "It wants the gold as proof of supremacy and of its rule over the underworld, not primarily for wealth." — `campaign/setting/villains/xanathar.md:62`
    - Org: "The gold itself holds little appeal; the leverage it represents is everything." — `campaign/setting/organizations/08-xanathars-guild.md:17`
-   - Alexandrian p.15 (transcribed): "You don't need to actually hold the gold if you're the one who controls its location." — PDF page 3
+   - Alexandrian p.15 (transcribed): "You don't need to actually hold the gold if you're the one who controls its location." — `sources/1. The Villains.pdf`, PDF page 3
    - Published: "{@creature Xanathar|WDH} is extremely fond of gold." — `sources/adventure-wdh.json:32760`
-   - Status: campaign and Alexandrian agree; published differs. Campaign wins.
+   - Status: campaign and Alexandrian agree; the published text differs. Campaign wins.
 
 6. **Does Xanathar know of the other Eyes?**
-   - Page: "...but not what the Eye in Sylgar's bowl does, that there are three Eyes, or where the vault is." — `campaign/setting/villains/xanathar.md:62`
-   - History 08: "...it does not know what the Eye in Sylgar's bowl does, that there are three Eyes, or where the vault is." — `campaign/setting/history/08-the-players-arrive.md:101`
+   - Page: "It knows the Stone is the key to the vault, but not what the Eye in Sylgar's bowl does, that there are three Eyes, or where the vault is." — `campaign/setting/villains/xanathar.md:62`
+   - History 08: "It knows the Stone is the key to the vault, but it does not know what the Eye in Sylgar's bowl does, that there are three Eyes, or where the vault is." — `campaign/setting/history/08-the-players-arrive.md:101`
    - Alexandrian p.15 (transcribed): "Xanathar was convinced that the Zhentarim had the other Eyes. (They didn't. Although that changes shortly after Dragon Heist begins; see below.)" — PDF page 3
-   - Status: campaign says no; the Alexandrian says Xanathar believed there were other Eyes. Pick one and log it.
+   - Status: the campaign says no; the Alexandrian says Xanathar believed in other Eyes. Pick one and log it.
 
 7. **Three Eyes or three keys.**
    - Campaign: "He stripped out three gemstone Eyes the Stone needs to reveal anything useful." — `campaign/guides/gm-guide/running-the-villains.md:9`
-   - Published: "...and the three keys that are needed to enter it." — `sources/adventure-wdh.json:7045`; "...and the three keys needed to enter it." — `sources/adventure-wdh.json:7587`
+   - Published: "and the three keys that are needed to enter it." — `sources/adventure-wdh.json:7045`; "and the three keys needed to enter it." — `sources/adventure-wdh.json:7587`
    - Status: **the remix's Eyes replace the published keys.** No published line describes Eyes.
 
 8. **How Eye #1 reached Xanathar.**
    - Published (the Stone, not an Eye): "While the two sides were negotiating in {@creature Xanathar|WDH}'s lair, the {@item Stone of Golorr|WDH} suddenly disappeared from where {@creature Xanathar|WDH} had hidden it. The paranoid beholder accused the Black Network of stealing it and slew the Zhentarim envoys who were present." — `sources/adventure-wdh.json:473`
    - Campaign: "It began when Manshoon's envoys came to Skullport three months before the fireball with Eye #1 of the Stone of Golorr, and Xanathar killed them." — `campaign/setting/history/02-the-long-shadow.md:72`
    - Campaign: "Xanathar received the envoys in its throne room, listened to their proposal, and ate them." — `campaign/structure/arc-f-xanathars-lair.md:9`
-   - Alexandrian p.15 (transcribed): "Then the Zhentarim came to him with one of the Eyes and said, ..." (quoted in section 4)
-   - Status: campaign and Alexandrian agree. Published differs. Campaign wins.
+   - Alexandrian p.15 (transcribed): "Then the Zhentarim came to him with one of the Eyes and said, "We have two different parts of this puzzle. We'd like to make a deal." Xanathar was enraged at both their presumption and his own folly, slew the Zhentarim envoys, and took the Eye they had brought to him."
+   - Status: campaign and Alexandrian agree. The published text differs. Campaign wins.
 
 9. **Who placed Eye #1 in Sylgar's bowl, and whether Ott knows of it.**
    - "The Eye passed to Ott Steeltoes, who placed it in Sylgar's fishbowl because it had a pretty color and Xanathar liked Sylgar's bowl to look interesting." — `campaign/structure/arc-f-xanathars-lair.md:9`
-   - "Ott Steeltoes put it in the bowl of Sylgar, Xanathar's goldfish, because it was a pretty color." — `campaign/setting/lore/stone-of-golorr-and-the-eyes.md:41`
+   - "- **Eye #1, Xanathar:** ... Ott Steeltoes put it in the bowl of Sylgar, Xanathar's goldfish, because it was a pretty color." — `campaign/setting/lore/stone-of-golorr-and-the-eyes.md:41` (full line in section 6)
    - "He knows nothing of the Eye itself." — `campaign/guides/factions/10-manshoons-zhentarim.md:25`
-   - Status: **open.** The handoff lists it (`session 47 handoff.md:137`).
+   - Status: **open.** The session 47 handoff lists it (`session 47 handoff.md:137`: "**Ott Steeltoes:** `guides/factions/10-manshoons-zhentarim.md:25,27` (captured, "knows nothing of the Eye") vs `arc-f:9` (Ott receives the Eye and places it in Sylgar's bowl).").
 
 10. **Pronouns.**
     - Ruling: "I got it wrong, this was one of the previous Xanathars. Zushaxx is the current xanathar, still It as pronouns go" — User, `session 46 handoff.md:47`
-    - Alexandrian lair, p.83 (transcribed): "Xanathar stole the Stone of Golorr from Lord Neverember and he stole one of the three Eyes from the Zhentarim." — PDF page 1
-    - Alexandrian lair, p.89 (transcribed): "...to deliver an incoherent, self-aggrandizing speech to a group of sycophantic underlings who have never seen his true form" — PDF page 7
+    - Alexandrian lair p.83 (transcribed): "Xanathar stole the Stone of Golorr from Lord Neverember and he stole one of the three Eyes from the Zhentarim." — PDF page 1
+    - Alexandrian lair p.89 (transcribed): "...who have never seen his true form" — PDF page 7
     - Arc E: "- **Xanathar** has received a report from his Gazers that new players took the Stone from Gralhund Villa. He does not yet know their names, but he will." — `sources/Act_III_Arc_E.md:894`
-    - Status: the ruling is "it." The Alexandrian and Arc E lines are stale against it.
+    - Status: the user's ruling is "it." The Alexandrian and Arc E lines are stale against it.
 
 11. **Gazer count at Gralhund Villa.**
-    - Campaign: "**Both states:** Xanathar's four gazers on perimeter" — `campaign/quests/act-ii/gralhund-villa/overview.md:43`
-    - Arc E: "Two gazer constructs watching the villa." — `sources/Act_III_Arc_E.md:15`
-    - Status: the campaign's quest journal (ranks above the structure doc) says four; Arc E says two. Not on the villain page, but relevant to any gazer count.
+    - Campaign: "**Both states:** Xanathar's four gazers on perimeter — they observe, track, and report; they do not enter the estate." — `campaign/quests/act-ii/gralhund-villa/overview.md:43`
+    - Arc E: "Two gazer constructs watching the villa. They observe and follow anyone who leaves with the Stone." — `sources/Act_III_Arc_E.md:15`
+    - Status: the campaign quest journal (which ranks above the structure docs) says four; Arc E says two. Not on the villain page, but relevant to any gazer count.
 
 12. **Nihiloor's relation to Xanathar.**
-    - Published: "The illithid {@creature Nihiloor|WDH} works for {@creature Xanathar|WDH}..." — `sources/adventure-wdh.json:32353`; "It has no interest in supplanting the beholder, however, preferring to operate in the shadows and pursue its own fell schemes." — `sources/adventure-wdh.json:32354`
+    - Published: "The illithid {@creature Nihiloor|WDH} works for {@creature Xanathar|WDH}, spending its days creating intellect devourers..." — `sources/adventure-wdh.json:32353`; "It has no interest in supplanting the beholder, however, preferring to operate in the shadows and pursue its own fell schemes." — `sources/adventure-wdh.json:32354`
     - Campaign: "Deep down, Nihiloor has psionically dominated Xanathar for the last four months, and Xanathar does not know." — `campaign/setting/notable-figures/xanathars-guild/04-nihiloor.md:22`
-    - Status: campaign rules (domination). The two statements do not contradict (domination is not supplanting). The page's "Xanathar grants it unusual autonomy" has no source.
+    - Status: the campaign's domination rule governs. Domination and "no interest in supplanting" do not contradict each other. The page's "Xanathar grants it unusual autonomy" has no source.
 
 13. **Phase names and pop-culture inspirations.**
-    - Page: "*Pop culture inspirations:* Jabba the Hutt (...); Inspector Javert (...); Tony Soprano (...)" — `campaign/setting/villains/xanathar.md:42`
+    - Page: "*Pop culture inspirations:* Jabba the Hutt (immovable center of an empire who is also the most childish person in the room); Inspector Javert (certainty as personality disorder); Tony Soprano (the businesslike violence of someone who stopped registering others as fully real)" — `campaign/setting/villains/xanathar.md:42`
     - Notable Figure: "When playing Xanathar, channel Tony Montana (*Scarface*), Smaug (*The Hobbit*), and GLaDOS (*Portal*)." — `campaign/setting/notable-figures/xanathars-guild/01-xanathar.md:19`
-    - Status: two campaign files differ. The page's copy is from `campaign/structure/ch2-city-of-splendors.md:193` (retired).
+    - Status: two campaign files differ. The page's copy comes from the retired `campaign/structure/ch2-city-of-splendors.md:193`.
 
 14. **Sylgar's species.**
     - Published stats: "{@creature Xanathar|WDH}'s beloved fish, {@creature Sylgar|wdh}, has the statistics of a {@creature quipper}, except that it lacks the Blood Frenzy trait." — `sources/adventure-wdh.json:32769`
-    - Wiki: "| race = [[Goldfish]]" with the note: "In contrast, ''Waterdeep: Dragon Heists'' suggests using the stats of a [[quipper]] for Sylgar." — `wiki.txt:360`
-    - Campaign: "goldfish" throughout (page lines 36, 72; `01-xanathar.md:13`).
-    - Status: campaign uses goldfish. The published text never says it (0 matches).
+    - Wiki: "| race           = [[Goldfish]]" with the note: "In contrast, ''Waterdeep: Dragon Heists'' suggests using the stats of a [[quipper]] for Sylgar." — `wiki.txt:360`
+    - Campaign: "goldfish" throughout (page lines 36 and 72; `01-xanathar.md:13`).
+    - Status: the campaign uses "goldfish"; the published text never does (0 matches).
 
 15. **Featured-quest lists.**
-    - Page: "Xanathar appears in **Finding Floon**, **Faction Outposts**, **Xanathar's Lair** and **Vault of Dragons**." — `campaign/setting/villains/xanathar.md:10`
-    - Org: "**Featured in:** **Finding Floon**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**" — `campaign/setting/organizations/08-xanathars-guild.md:9`
-    - Notable Figure: "**Featured in:** **Finding Floon**, **Faction Outposts**, **Xanathar's Lair**, **Vault of Dragons**; **Xanathar Sewer Hideout** (location)" — `campaign/setting/notable-figures/xanathars-guild/01-xanathar.md:9`
+    - Page: "- Xanathar appears in **Finding Floon**, **Faction Outposts**, **Xanathar's Lair** and **Vault of Dragons**. The **Xanathar Sewer Hideout** is the location journal for its sewer base." — `campaign/setting/villains/xanathar.md:10`
+    - Org: "- **Featured in:** **Finding Floon**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**" — `campaign/setting/organizations/08-xanathars-guild.md:9`
+    - Notable Figure: "- **Featured in:** **Finding Floon**, **Faction Outposts**, **Xanathar's Lair**, **Vault of Dragons**; **Xanathar Sewer Hideout** (location)" — `campaign/setting/notable-figures/xanathars-guild/01-xanathar.md:9`
     - History 02: "**Featured in:** **Finding Floon**, **Faction Outposts**, **Xanathar's Lair**, **Vault of Dragons**, and the **Xanathar Sewer Hideout** location journal." — `campaign/setting/history/02-the-long-shadow.md:10`
-    - Status: the page's list omits Gralhund Villa, where the gazers are; the org page includes it.
+    - Status: the page's list omits Gralhund Villa, where the gazers are. The org page includes it.
 
 16. **The hideout and the lair's entrance.**
     - Published: "This hideout contains a secret route to {@creature Xanathar|WDH}'s lair." — `sources/adventure-wdh.json:2888`
     - Alexandrian p.85 (transcribed): "There is a magical portal to Xanathar's Lair in the Guild Sewer Hideout in Chapter 1: Finding Floon." — PDF page 3
-    - Campaign: "**Xanathar Sewer Hideout** maps the Finding Floon vault, not the lair." — `campaign/gazetteer/waterdeep/castle-ward.md:14`; "A secret spiral stair in the Castle Ward sewers leads down to Xanathar's lair..." — `castle-ward.md:40`
+    - Campaign: "**Xanathar Sewer Hideout** maps the Finding Floon vault, not the lair." — `campaign/gazetteer/waterdeep/castle-ward.md:14`; "A secret spiral stair in the Castle Ward sewers leads down to Xanathar's lair (area X1 in Dragon Heist)." — `campaign/gazetteer/waterdeep/castle-ward.md:40`
     - Page line 10: "The **Xanathar Sewer Hideout** is the location journal for its sewer base."
-    - Status: campaign says the lair's entrance is the Castle Ward stair. The published and Alexandrian texts add a hideout route. The page's wording is unclear.
+    - Status: the campaign says the lair's entrance is the Castle Ward stair. The published and Alexandrian texts add a hideout route. The page's wording is unclear.
 
 17. **Skullport's depth wording.**
     - Page: "Skullport lies within Undermountain Level 3, two levels below it" — `campaign/setting/villains/xanathar.md:26`
@@ -981,22 +971,22 @@ Ranking applied: campaign files (remix decisions and the user's rulings) > publi
     - Status: same depth, different counting. Not substantive.
 
 18. **Stale draft notes on the page** (current file text in brackets):
-    - Page line 107: "`04-nihiloor.md` lines 22 and 26 say Nihiloor has no interest in supplanting Xanathar." [current 22: "Deep down, Nihiloor has psionically dominated Xanathar for the last four months, and Xanathar does not know."]
-    - Page line 108: "`03-narl.md` line 22 and the Guild organization page" (three years) [current `03-narl-xibrindas.md:22`: "reporting via Sending spell after one year in place, placed in 1491 DR."]
-    - Page line 109: "`running-the-villains.md` line 71 still says "Cold war"." [current: "| **Xanathar vs. Manshoon** | Active street war — low-level, in the Dock Ward |"]
+    - Page line 107: "`04-nihiloor.md` lines 22 and 26 say Nihiloor has no interest in supplanting Xanathar." [current line 22: "Deep down, Nihiloor has psionically dominated Xanathar for the last four months, and Xanathar does not know."]
+    - Page line 108: "`03-narl.md` line 22 and the Guild organization page" (three years) [current `03-narl-xibrindas.md:22`: "reporting via Sending spell after one year in place, placed in 1491 DR"]
+    - Page line 109: "`running-the-villains.md` line 71 still says "Cold war"." [current line 71: "| **Xanathar vs. Manshoon** | Active street war — low-level, in the Dock Ward |"]
     - Page line 108: "Stale text remains in `grand-game-in-play.md` line 63, `running-the-villains.md` lines 71 and 73, and `01-xanathar.md` line 27." [none of those lines carries a tenure figure now]
 
 19. **Ahmaergo's standing.**
     - Page line 48: "Most trusted lieutenant; the only one Xanathar registers as competent; Ahmaergo knows he is replaceable"
     - Published: "Killing one of {@creature Xanathar|WDH}'s most trusted underlings, such as {@creature Ahmaergo|WDH} or {@creature Noska Ur'gray|wdh}, throws the day-to-day operation of the guild into chaos for a tenday." — `sources/adventure-wdh.json:15041`
-    - Status: "competent" and "replaceable" have no source. The published text says "most influential" (`:31697`).
+    - Status: "competent" and "replaceable" have no source. The published text says "most influential" (`sources/adventure-wdh.json:31697`).
 
-20. **Laeral.** Page line 49 has no Laeral line. The fear is in `sources/adventure-wdh.json:528` and `notable-figures/xanathars-guild/01-xanathar.md:27` only. Not a conflict; a single-source fact.
+20. **Laeral.** The fear appears in `sources/adventure-wdh.json:528` and `campaign/setting/notable-figures/xanathars-guild/01-xanathar.md:27` only. Single-source fact; not a conflict.
 
 21. **Who knows the X33 crypt.**
     - Campaign: "Nar'l Xibrindas is the only current Guild member who knows this room exists." — `campaign/structure/arc-f-xanathars-lair.md:167`
-    - Alexandrian p.91 (transcribed): "Xanathar doesn't allow anyone to enter the Area X33 and most don't even know what's in there, but some know that there's a secret door connecting the Arena (X6) and 'whatever Xanathar has hidden down there'." — PDF page 9
-    - Status: campaign rules Nar'l as the only one. Alexandrian says "some know" of the door.
+    - Alexandrian p.91 (transcribed): "Xanathar doesn't allow anyone to enter the Area X33 and most don't even know what's in there, but some know that there's a secret door connecting the Arena (X6) and "whatever Xanathar has hidden down there"." — PDF page 9
+    - Status: the campaign rules Nar'l as the only one. The Alexandrian says "some know" of the door.
 
 ---
 
@@ -1004,24 +994,24 @@ Ranking applied: campaign files (remix decisions and the user's rulings) > publi
 
 Searched, with no hit (terms and files):
 
-- Ahmaergo "the only one Xanathar registers as competent" and "knows he is replaceable" (page line 48). Searched `campaign/setting/notable-figures/xanathars-guild/02-ahmaergo.md` (read in full), `campaign/setting/organizations/08-xanathars-guild.md`, `campaign/setting/history/02-the-long-shadow.md`, and `sources/adventure-wdh.json` (Ahmaergo lines 14980, 14981, 15041, 17166, 17173, 17552, 17989, 31696-31697). No "replace" in the Notable Figure. The published text says "most influential" (`sources/adventure-wdh.json:31697`).
+- Ahmaergo "the only one Xanathar registers as competent" and "knows he is replaceable" (page line 48). Searched `campaign/setting/notable-figures/xanathars-guild/02-ahmaergo.md` (read in full, no "replace"), `campaign/setting/organizations/08-xanathars-guild.md`, `campaign/setting/history/02-the-long-shadow.md`, and `sources/adventure-wdh.json` (Ahmaergo lines 14980, 14981, 15041, 17166, 17173, 17552, 17989, 31696-31697). The published text says "most influential" (`sources/adventure-wdh.json:31697`).
 - Nihiloor "Xanathar grants it unusual autonomy" (page line 50). No source. Published `sources/adventure-wdh.json:32354` says "considers itself Xanathar's equal."
-- Phase names and phase triggers beyond the retired chapter. Grep for "Wounded God|Cornered Monster|Paranoid Tyrant" across `campaign/`, `sources/` (excluding the research and 5etools folders): only the page, `campaign/structure/ch2-city-of-splendors.md:185-187`, and the voice skill (`.claude/skills/character-voices/voices/xanathars-guild.md:16-18`). No source for phase triggers.
+- Phase names and phase triggers beyond the retired chapter. Grep for "Wounded God|Cornered Monster|Paranoid Tyrant" across `campaign/` and `sources/` (excluding the research and 5etools folders): only the page, `campaign/structure/ch2-city-of-splendors.md:185-187`, and the voice skill (`.claude/skills/character-voices/voices/xanathars-guild.md:16-18`). No source for phase triggers.
 - Pop-culture names (Jabba, Javert, Soprano) for Xanathar: only the page and `ch2-city-of-splendors.md:193`.
 - Other campaign mentions of Xanathar's fear of Laeral: grep "Laeral" with "Xanathar" across `campaign/` returned only `notable-figures/xanathars-guild/01-xanathar.md:27`.
 - A Yalah-Xanathar deal in the campaign: grep of `campaign/` for "Xanathar" with "Yalah", "deal", "bargain", "council" returned only gazer and Stone-theft lines. `campaign/setting/notable-figures/gralhunds/` has no "Xanathar".
 - Xanathar's personal advisors beyond Nar'l in the campaign: none. The wiki says "by 1492 this number had dwindled to one" (`wiki.txt:220`).
-- Zushaxx's four lieutenants (Kal'dir, Quid, Sial Sapphire, Draak): wiki only (`wiki.txt:281`; `history/02:54` says none is a campaign Notable Figure).
+- Zushaxx's four lieutenants (Kal'dir, Quid, Sial Sapphire, Draak): wiki only (`wiki.txt:281`). `history/02:54` says none is a campaign Notable Figure.
 - Zushaxx's own wiki page ("Xanathar (Zushaxx)"), and wiki pages for "Xandulzrithral", "Izulktur", and the "Kirueskai" spelling: not in the bundle. "Kirueskai" does not occur in `wiki.txt`. The disambiguation page "Xanathar" (cited at `history/02:103`) is not in the bundle.
 - "Skullport outside city jurisdiction" in either published adventure: not found (`history/02:149` says the same).
 - Published "three Eyes": not found (section 8, item 7).
 - Published "goldfish": 0 matches in `sources/adventure-wdh.json`.
 - Published "twice" for the Manshoon kill order: not found.
-- Published "knows the Stone is the key": not found in the adventure. Alexandrian p.15 says it.
-- Xanathar's pronoun in the published text: "it" throughout the lines read (527, 14938, 14981, 32756-32760, 32768-32769). The "his" at `sources/adventure-wdh.json:31696` refers to Ahmaergo ("unflinchingly loyal to his beholder master"), not to Xanathar.
+- Published statement that Xanathar "knows the Stone is the key": not found in the adventure. Alexandrian p.15 says it.
+- Xanathar's pronoun in the published text: "it" throughout the lines read (527, 14938, 14981, 15059, 32756-32760, 32768-32769). The "his" at `sources/adventure-wdh.json:31696` refers to Ahmaergo's master, which is Xanathar, but the pronoun belongs to Ahmaergo's loyalty clause, so it is not a use of "he" for Xanathar.
 - Captured prisoners beyond the Samara cell and the tournament: not searched further in the campaign.
 
-Terms and files searched: Xanathar, Zushaxx, Kirukes(k)ai, Kirueskai, Izulktur, Xandulzrithral, "fifteenth", "thirteen", goldfish, Sylgar, Laeral, paranoi*, Wounded God, Cornered Monster, Paranoid Tyrant, Jabba, Javert, Soprano, "Cold war", "kill order", supplant, Nihiloor, dominat*, autonomy, Ahmaergo, Ott, Nar'l, Yalah, Gralhund, Samara, prisoner, captured. Files: all of `campaign/` (grep), `sources/adventure-wdh.json` (targeted), `sources/adventure-wdmm.json` (targeted), `sources/Act_III_Arc_E.md` (all six Xanathar lines), `session 46`, `session 47`, `session 48`, `session 49` handoffs (grep and targeted reads), and `docs/plans/setting-compendium-research-notes/` (grep hits only).
+Terms and files searched: Xanathar, Zushaxx, Kirukes(k)ai, Kirueskai, Izulktur, Xandulzrithral, "fifteenth", "thirteen", goldfish, Sylgar, Laeral, paranoi*, Wounded God, Cornered Monster, Paranoid Tyrant, Jabba, Javert, Soprano, "Cold war", "kill order", supplant, Nihiloor, dominat*, autonomy, Ahmaergo, Ott, Nar'l, Yalah, Gralhund, Samara, prisoner, captured. Files: all of `campaign/` (grep), `sources/adventure-wdh.json` (targeted), `sources/adventure-wdmm.json` (targeted), `sources/Act_III_Arc_E.md` (all six Xanathar lines), the `session 46`, `session 47`, `session 48` and `session 49` handoffs (grep and targeted reads), and `docs/plans/setting-compendium-research-notes/` (grep hits only).
 
 ---
 
