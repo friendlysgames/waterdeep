@@ -1,0 +1,11 @@
+campaign/guides/gm-guide/running-the-villains.md:34: ## Faction Knowledge at Campaign Start
+campaign/guides/gm-guide/running-the-villains.md:36: | Faction | What They Know | What They Have | What They Need |
+campaign/setting/grand-game.md:28: *What Each Faction Knows at Campaign Start*
+campaign/setting/grand-game.md:45: - `21. Faction Reports of the Grand Game.pdf` — what each faction knows at campaign start
+campaign/setting/history/07-a-city-watching-itself.md:96: - Alexandrian files: `13. Clues and Timelines.pdf` pp.98-99 (1467 DR and 1489 DR); `21. Faction Reports of the Grand Game.pdf` pp.142-143 (the Lord Murders in 1491 DR); `2. Other Factions.pdf` pp.20-21 (Yalah's snub; Laeral behind the curve).
+campaign/structure/arc-d-gralhund-villa.md:410: - `sources/21. Faction Reports of the Grand Game.pdf` — *Gralhund Study of the Grand Game* full text (Orond's journal); *A Directive from Jarlaxle* prop text.
+campaign/structure/arc-e-faction-outposts.md:437: | `sources/21. Faction Reports of the Grand Game.pdf` | Document prop texts for planted clues. |
+campaign/structure/ch2-city-of-splendors.md:163: *What Each Faction Knows at Campaign Start*
+campaign/structure/ch2-city-of-splendors.md:393: - `21. Faction Reports of the Grand Game.pdf`: what each faction knows at campaign start — primary source for the starting intelligence table
+campaign/structure/ch3-running-the-campaign.md:156: *Starting Faction Knowledge (campaign day one)*
+campaign/structure/ch3-running-the-campaign.md:302: - `21. Faction Reports of the Grand Game.pdf` — what each faction knows at campaign start; inter-faction intelligence

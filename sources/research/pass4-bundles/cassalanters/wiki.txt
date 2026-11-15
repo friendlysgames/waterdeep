@@ -1,0 +1,1409 @@
+NOT FOUND: House Cassalanter
+
+NOT FOUND: Cassalanter family
+
+=== WIKI PAGE: Victoro Cassalanter
+
+{{DEFAULTSORT:Cassalanter, Victoro}}
+{{Person
+| image          = Cassalanter-5e.jpg
+| caption        = Lord Victoro, rear standing
+| name           = Victoro Cassalanter
+| alt_spelling   = 
+| titles         = Lord
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Sea Ward of Waterdeep|Sea Ward]], [[Waterdeep]]
+| formerhomes    = 
+| sex            = Male<ref name="WDH5e-p218">{{Cite book/Waterdeep: Dragon Heist|218}}</ref>
+| race           = [[Half-elf]]<ref name="WDH5e-p218" />
+| ethnicity      = 
+| occupation     = [[Noble]]
+| age            = 
+| patron deity   = [[Asmodeus]]<ref name="WDH5e-p218" />
+| languages      = [[Common]], [[Draconic language|Draconic]], [[Elven language|Elvish]], [[Infernal language|Infernal]]<ref name="WDH5e-p218" />
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = [[Caladorn Cassalanter]] (father)
+| spouses        = [[Ammalia Cassalanter]]
+| siblings       = 
+| children       = [[Elzerina Cassalanter]]<br /> [[Osvaldo Cassalanter]]<br /> [[Terenzio Cassalanter]]
+| familyrefs     = <ref name="WDH5e-p218" /><ref name="WDH5e-p116">{{Cite book/Waterdeep: Dragon Heist|116}}</ref>
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Lawful evil]]
+| challenge5e    = 10
+| class5e        = {{Class table|edition=5e|[[Cleric]]|15}}
+| refs5e         = <ref name="WDH5e-p218" />
+}}
+'''Victoro Cassalanter''' ({{Pronounce|vic|TOR|oh|_|KAS|ah|lan|ter|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}) was the lord of the [[Cassalanter]] family of [[Waterdeep]] in the late 15{{th}} century [[DR]].<ref name="WDH5e-p218" />
+ 
+==Activities==
+Victoro was schooled in the [[divine]] arts. He was the leader of a Cult of [[Asmodeus]] that involved certain nobles in Waterdeep.<ref name="WDH5e-p55">{{Cite book/Waterdeep: Dragon Heist|55}}</ref> Victoro was a priest of Asmodeus.<ref name="WDH5e-p218" />
+
+On the surface, Victoro posed as a successful banker, philanthropist, and follower of [[Lathander]] but this was only a façade he needed for his businesses.<ref name="WDH5e-p218" />
+
+==History==
+In [[1489 DR]],<ref name="WDH5e-p116" />{{WDH-time}} Victoro and his wife [[Ammalia Cassalanter]] signed a contract with Asmodeus, in which they agreed to give up the souls of their children in exchange for power, good health, and long life. Their eldest son, [[Osvaldo Cassalanter|Osvaldo]], was taken immediately and transformed into a [[chain devil]]. [[Terenzio Cassalanter|Terenzio]] and [[Elzerina Cassalnter|Elzerina]], their youngest twins, were also scheduled to be taken by the [[archdevil]] when they turned nine years old in [[1492 DR]],{{WDH-time}} to be transformed into [[lemure]]s. The only way to save the children was pay to the [[Nine Hells]] a tremendous amount of coin and the souls of numerous people in sacrifice.<ref name="WDH5e-p193-194">{{Cite book/Waterdeep: Dragon Heist|193-194}}</ref><ref name="WDH5e-p130">{{Cite book/Waterdeep: Dragon Heist|130}}</ref>
+
+In 1492 DR, Victoro and his wife planned to recover the lost [[gold]] of [[Dagult Neverember]] and use it to buy back the souls of their children.<ref name="WDH5e-p6">{{Cite book/Waterdeep: Dragon Heist|6}}</ref> Victoro focused on searching for the gold while Ammalia was busy with other preparations for the ceremony to save the souls of their children.<ref name="WDH5e-p115">{{Cite book/Waterdeep: Dragon Heist|115}}</ref>
+
+If Ammalia and Victoro presented the gold and ninety-nine souls to a [[devil]] servant of Asmodeus in time, then the souls of Terenzio and Elzerina would be safe.<ref name="WDH5e-p130" />
+
+If the Cassalanters managed to obtain the ''[[Stone of Golorr]]'', five cultists protected the Stone inside the Cassalanter mausoleum in the [[City of the Dead (Waterdeep)|City of the Dead]]. However, two of the cultists, under the secret orders of Victoro Cassalanter, killed the other cultists and left one for dead in order to better hide their trails.<ref name="WDH5e-p115">{{Cite book/Waterdeep: Dragon Heist|115}}</ref>
+
+Later, Victoro sent his [[doppelganger]] valet [[Willifort Crowelle]] to recover the Stone and return with it to the Cassalanter villa.<ref name="WDH5e-p60-62">{{Cite book/Waterdeep: Dragon Heist|60-62}}</ref>
+
+==Personality==
+Victoro was always polite and slow to anger but deep inside he was a self-interested individual. He cared only for gold and power and for that he sold the souls of his children to the [[Nine Hells]].<ref name="WDH5e-p218" />
+
+==Appendix==
+{{Incomplete}}
+===Notes===
+{{Notes}}
+
+===Appearances===
+{{Appearances
+|adventures = ''[[Waterdeep: Dragon Heist]]''
+|video games = ''[[Idle Champions of the Forgotten Realms]]''
+|miniatures = ''[[Icons of the Realms]]''
+|organized play refs = ''[[Once in Waterdeep]]''
+}}
+
+===References===
+{{Refs}}
+[[Category:Half-elves]]
+[[Category:Members of the Cassalanter family]]
+[[Category:Priests and priestesses]]
+[[Category:Worshipers of Asmodeus]]
+[[Category:Inhabitants of Cassalanter Villa]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sea Ward of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+[[Category:Nobles]]
+
+=== WIKI PAGE: Ammalia Cassalanter
+
+{{DEFAULTSORT:Cassalanter, Ammalia}}
+{{Person
+| image          = Cassalanter-5e.jpg
+| caption        = Lady Ammalia, rear seated
+| name           = Ammalia Cassalanter
+| alt_spelling   = 
+| titles         = Lady
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Sea Ward of Waterdeep|Sea Ward]], [[Waterdeep]]
+| formerhomes    = 
+| sex            = Female<ref name="WDH5e-p193-194">{{Cite book/Waterdeep: Dragon Heist|193-194}}</ref>
+| race           = [[Human]]<ref name="WDH5e-p193-194" />
+| ethnicity      = 
+| occupation     = [[Noble]]
+| age            = 
+| patron deity   = [[Asmodeus]]<ref name="WDH5e-p193-194" />
+| languages      = [[Common]], [[Draconic language|Draconic]], [[Elven language|Elvish]], [[Infernal language|Infernal]]<ref name="WDH5e-p193-194" />
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = [[Victoro Cassalanter]]
+| siblings       = 
+| children       = [[Elzerina Cassalanter]]<br /> [[Osvaldo Cassalanter]]<br /> [[Terenzio Cassalanter]]
+| familyrefs     = <ref name="WDH5e-p193-194" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Lawful evil]]
+| challenge5e    = 5
+| class5e        = {{Class table|edition=5e|[[Wizard]]|9}}
+| refs5e         = <ref name="WDH5e-p193-194" />
+}}
+'''Ammalia Cassalanter''' ({{Pronounce|ah|MAW|lee|ah|_|KAS|ah|lan|ter|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}) was a [[Waterdeep|Waterdhavian]] [[Nobility of Waterdeep|noble]] in the late 15{{th}} century [[DR]]. She was the wife of [[Victoro Cassalanter]].<ref name="WDH5e-p193-194" />
+
+==Activities==
+Ammalia was schooled in the [[arcane]] arts. Like her husband, she was the leader of a Cult of [[Asmodeus]] that involved certain nobles in [[Waterdeep]].<ref name="WDH5e-p55">{{Cite book/Waterdeep: Dragon Heist|55}}</ref>
+
+During an average day, she normally tended to her garden, smoked on the balcony, dismally watching the ocean, or wept at a transformed [[Osvaldo Cassalanter|Osvaldo]]'s feet in her [[House Cassalanter|mansion]]'s attic.<ref name="WDH5e-p116,125">{{Cite book/Waterdeep: Dragon Heist|116,125}}</ref>
+
+==History==
+In [[1489 DR]],<ref name="WDH5e-p116,125" />{{Waterdeep-time}} the couple signed a contract with Asmodeus, in which they agreed to give up the souls of their children in exchange for power, good health, and long life. Their eldest son, Osvaldo, was taken immediately and transformed into a [[chain devil]]. [[Terenzio Cassalanter|Terenzio]] and [[Elzerina Cassalnter|Elzerina]], their youngest twins, were also scheduled to be taken by the [[archdevil]] when they turned nine years old in [[1492 DR]],{{Waterdeep-time}} to be transformed into [[lemure]]s. The only way to save the children was pay to the [[Nine Hells|Hell]] a tremendous amount of coin and the souls of numerous people in sacrifice.<ref name="WDH5e-p193-194" /><ref name="WDH5e-p130">{{Cite book/Waterdeep: Dragon Heist|130}}</ref>
+
+In 1492 Ammalia and her husband planned to recover the lost gold of [[Dagult Neverember]] and use it to buy back the souls of their children<ref name="WDH5e-p6">{{Cite book/Waterdeep: Dragon Heist|6}}</ref> Meantime Ammalia planned to serve poison food during a party ousted during the [[Founders' Day]] celebration in order to gain the ninety-nine souls they need.<ref name="WDH5e-p115">{{Cite book/Waterdeep: Dragon Heist|115}}</ref>
+
+If Ammalia and Victoro presented in time the gold and the ninety-nine souls to a [[devil]] servant of Asmodeus the souls of Terenzio and Elzerina would be safe.<ref name="WDH5e-p130" />
+
+==Appendix==
+{{Incomplete}}
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+|adventures = ''[[Waterdeep: Dragon Heist]]''
+|adventure refs = ''[[Sleeping Dragon's Wake]]''
+|video games = ''[[Idle Champions of the Forgotten Realms]]''
+|miniatures = ''[[Icons of the Realms]]''
+|organized play refs = ''[[Once in Waterdeep]]''
+}}
+
+===References===
+{{Refs}}
+[[Category:Humans]]
+[[Category:Worshipers of Asmodeus]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+[[Category:Inhabitants of the Sea Ward of Waterdeep]]
+[[Category:Inhabitants of Cassalanter Villa]]
+[[Category:Members of the Cassalanter family]]
+[[Category:Wizards]]
+[[Category:Nobles]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/Sea Ward
+
+{{Location
+| image              = Waterdeep_Wards-Sea_Ward_01.gif
+| caption            = 
+| name               = Sea Ward of Waterdeep
+| alt spelling       = 
+| aliases            = 
+| type               = Ward
+| region             = [[Waterdeep]], [[Sword Coast North]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="VGtW-p51">{{Cite book/Volo's Guide to Waterdeep|51}}</ref><ref name="CoS.W-p91">{{Cite book/City of Splendors: Waterdeep|91}}</ref>
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = {{Yearlink|1276}}
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="GHR3e-p128">{{Cite book/The Grand History of the Realms|128}}</ref><ref name="CS-CG2e-p31">{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref>
+| usethe             = yes
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = 
+| items              = 
+}}
+The '''Sea Ward of Waterdeep''' was the wealthiest ward in [[Waterdeep]] and located in the northwest of the city.<ref name="VGtW-p51" /><ref name="CoS.W-p91" />
+
+==Geography==
+The ward was delimited by the [[Trollwall]] on the north and west, by [[Julthoon Street]] to the south, and by [[Shield Street]] to the east, extending to the [[High Road (Waterdeep)|High Road]] north of [[Vondil Street]].<ref name="CS-AG2e-p15">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|52}}</ref>
+
+The ward contained the [[Field of Triumph]], [[Heroes' Garden]] and the [[Sea's Edge Beach]].<ref name="CoS.W-p91" /> It also contained some of the city's largest temples.<ref name="CS-CG2e-p9">{{Cite book/City of Splendors (boxed set)/Campaign Guide|9}}</ref>
+
+==History==
+The Sea Ward was officially included as one of the official wards of Waterdeep in the {{YearlinkName|1276}}, together with the [[Waterdeep/North Ward|North Ward]].<ref name="GHR3e-p128" /><ref name="CS-CG2e-p31" />
+
+==Notable Locations==
+{{Main|:Category:Locations in the Sea Ward of Waterdeep}}
+{{/Imagemap}}
+===Inns & Taverns===
+*[[Banshee at Bay (Waterdeep)|Banshee at Bay]]<ref name="VGtW-p70">{{Cite book/Volo's Guide to Waterdeep|70}}</ref>
+*[[Broken Lance]]<ref name="CoS.W-p92">{{Cite book/City of Splendors: Waterdeep|92}}</ref>
+*[[Dacer's Inn]]<ref name="CoS.W-p92" />
+*[[Demondraught]]<ref>{{Cite book/Blackstaff Tower|88}}</ref>
+*[[Fiery Flagon]]<ref name="CoS.W-p92" />
+*[[Golden Harp Inn]]<ref name="CoS.W-p92" /> - A two story inn that features a magical harp that sings ballads to the patrons.
+*[[Gounar's Tavern]]<ref name="CoS.W-p92" />
+*[[Maerghoun's Inn]]<ref name="CoS.W-p92" />
+*[[Pilgrim's Rest]]<ref name="CoS.W-p92" />
+*[[Sated Satyr]]<ref name="CoS.W-p92" />
+*[[Ship's Wheel]]<ref name="CoS.W-p92" />
+*[[Silken Sylph]]<ref name="CoS.W-p92" /><ref name="TDS-66">{{Cite book/The Dream Spheres|66}}</ref><ref group="note">The name of the tavern is misspelled as "Silken Slyph" in ''[[City of Splendors: Waterdeep]]'' but it is spelled correctly in the novel ''[[The Dream Spheres]]''.</ref>
+*[[Wandering Wemic]]<ref name="CoS.W-p92" />
+*[[Wyvern's Rest]]<ref name="CoS.W-p92" />
+
+===Shops & Businesses===
+*[[Aurora's Realms Shop, Singing Dolphin Catalogue Counter]]<ref name="CoS.W-p92" />
+*[[Chanszobur's Manywares]]<ref name="Dragon413">{{Cite dragon/413/Eye on the Realms: The Six Horned Crowns}}</ref>
+*[[Gerin's Breads]]<ref n
+
+=== LINKED WIKI PAGE (first 5000 chars): Caladorn Cassalanter
+
+{{DEFAULTSORT:Cassalanter, Caladorn}}
+{{Otheruses4|the [[Masked Lord]] of [[Waterdeep]]|the ruler of [[Ulgarth]]|Caladorn the Wise}}
+{{Person
+| image          = LordCaladorn.jpg
+| caption        = 
+| name           = Caladorn Cassalanter
+| alt_spelling   = 
+| titles         = [[Open Lord]],<ref name="BST-p198" /> {{former}} [[Masked Lord]]<ref name="CoSW-p54" />
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Human]]
+| ethnicity      = [[Tethyrian]]
+| occupation     = Ruler
+| age            = 
+| patron deity   = 
+| languages      = 
+| basicrefs      = <ref name="CoSW-p54">{{Cite book/City of Splendors: Waterdeep|54}}</ref>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = [[Ohrl Cassalanter]] (father)
+| spouses        = 
+| siblings       = 
+| children       = [[Victoro Cassalanter]]
+| familyrefs     = <ref name="CoSW-p54" /><ref name="WDH5e-p116">{{Cite book/Waterdeep: Dragon Heist|116}}</ref>
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = {{class table|edition=1e|[[Cavalier]]|8}}
+| refs1e         = <ref name="WatN-p16">{{Cite book/Waterdeep and the North|16}}</ref>
+| alignment2e    = [[Neutral good]]
+| class2e        = {{Class table|edition=2e|[[Fighter]]|12}}
+| refs2e         = <ref name="CoSCG-p69">{{Cite book/City of Splendors (boxed set)/Campaign Guide|69}}</ref>
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = [[Neutral good]]
+| challenge35    = 
+| class35        = {{Class table|edition=3e|[[Fighter]]|13}}
+| refs35         = <ref name="CoSW-p54" />
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Caladorn Cassalanter''' was a young and gallant secret [[Masked Lord]] and later [[Open Lord]] of [[Waterdeep]], who served during the 14{{th}} and 15{{th}} centuries [[DR]].<ref name="CoSW-p54" /><ref name="BST-p198" />
+
+==Description==
+Caladorn was a fighter through and through – broad-shouldered, and {{SI|6|ft}} tall.<ref name="CoSW-p54"/> He had short dark red or brown hair and was clean-shaven<ref name="CoSW-p54"/>, with a prominent cleft chin.<ref name="CoSCG-p69" /> He was somewhat older than his friend [[Danilo Thann]].<ref name="ESo-p28">{{Cite book/Elfsong|28}}</ref>
+
+==Personality==
+Caladorn was quite perceptive and intelligent. He acted with purpose,<ref name="TW-p23">{{Cite book/Tangled Webs/MMP (1998)|p23}}</ref> and had a cynical outlook,<ref name="CoSCG-p69" /> but he loved to have fun in private, when the occasion called for it.<ref name="CoSW-p54"/> He was considered to be the epitome of the "Knight Bachelor".<ref name="WatN-p16"/>
+
+==Activities==
+As lord, was very interested in the city's navy and understood the challenges they had in maintaining order around the [[Sea of Swords]].<ref name="CoSW-p54"/> Those who were unaware of his position with the Lords of Waterdeep thought him a simple fighting instructor at the Fields of Triumph.<ref name="CoSWW-p12">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|12}}</ref>
+
+==History==
+===Early Life===
+A member of the noble family of [[Cassalanter]], one of the richest families in Waterdeep, <ref name="TW-p23"/> Caladorn ceased using his family's name until he had done "something worthy of it."<ref name="WatN-p16"/> His father, Lord [[Ohrl Cassalanter]], believed that Caladorn would never deem himself worthy, and so he was left with the benefits of his birthright but none of the responsibilities.<ref name="CoSW-p54"/>
+
+===Adventuring Years===
+In the {{YearlinkName|1361}}, Caladorn was traveling on the ship ''[[Cutter (ship)|Cutter]]'', a [[seal]]-hunting ship captained by [[Farlow]] in the [[Sea of Moving Ice]].<ref name="TW-24">{{Cite book/Tangled Webs/MMP (1998)|24}}</ref> While he was on the ship, the crew discovered an abandoned ship full of pickled [[sea elf|sea elves]] packed in [[barrel]]s bearing the mark of [[Ruathym]]. It was later discovered to be part of a plot to provoke the [[Lords' Alliance]] into war on Ruathym.<ref name="TW"/>
+
+Caladorn intended to bring the barrels back to Waterdeep to begin an investigation, but his ship was intercepted by the ''[[Elfmaid (ship)|Elfmaid]]'', which scuttled their ship and marooned the crew. With the help of [[Xzorsh]], Caladorn was eventually able to make it to safety on Ruathym and explain his story.<ref name="TW">{{Cite book/Tangled Webs}}</ref>
+
+Soon afterwards, Caladorn traveled back to Waterdeep with [[Liriel Baenre]] and [[Fyodor]], helping them to contact [[Danilo Thann]] in order to secure safe passage to the [[Promenade of 
+
+=== LINKED WIKI PAGE (first 5000 chars): Osvaldo Cassalanter
+
+{{DEFAULTSORT:Cassalanter, Osvaldo}}
+{{Person
+| image          = 
+| caption        = 
+| name           = Osvaldo Cassalanter
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Sea Ward of Waterdeep|Sea Ward]], [[Waterdeep]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = 
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 1489
+| deathnotes     = (soul claimed by [[Asmodeus]]; body turned into a [[chain devil]])<ref name="WDH5e-p116">{{Cite book/Waterdeep: Dragon Heist|116}}</ref>{{Waterdeep-time}}
+| destroyed      = 
+| destroyednotes = 
+| parents        = [[Ammalia Cassalanter]]<br />[[Victoro Cassalanter]]
+| spouses        =
+| siblings       = [[Elzerina Cassalanter]]<br /> [[Terenzio Cassalanter]]
+| children       =
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Osvaldo Cassalanter''' was the heir apparent of the [[Cassalanter]] family of [[Waterdeep]] in the late 15{{th}} century [[DR]].<ref name="WDH5e-p124" />
+
+==History==
+In [[1489 DR]],<ref name="WDH5e-p116" />{{Waterdeep-time}} [[Victoro Cassalanter]] and his wife [[Ammalia Cassalanter|Ammalia]] signed a contract with [[Asmodeus]], in which they agreed to give up the souls of their children in exchange for power, good health, and long life. Osvaldo, their eldest son, was taken immediately and his body transformed into a [[chain devil]]. [[Terenzio Cassalanter|Terenzio]] and [[Elzerina Cassalnter|Elzerina]], their youngest twins, were also scheduled to be taken by the [[archdevil]] when they turned nine years old in [[1492 DR]],{{Waterdeep-time}} to be transformed into [[lemure]]s. The only way to save the children was to pay to the [[Nine Hells]] a tremendous amount of coin and the souls of numerous people in sacrifice.<ref name="WDH5e-p193-194">{{Cite book/Waterdeep: Dragon Heist|193-194}}</ref><ref name="WDH5e-p130">{{Cite book/Waterdeep: Dragon Heist|130}}</ref>
+
+In 1492 DR, Victoro and his wife planned to recover the lost [[gold]] of [[Dagult Neverember]] and use it to buy back the souls of their children.<ref name="WDH5e-p6">{{Cite book/Waterdeep: Dragon Heist|6}}</ref> Victoro focused on searching for the gold while Ammalia was busy with other preparations for the ceremony to save the souls of their children.<ref name="WDH5e-p115">{{Cite book/Waterdeep: Dragon Heist|115}}</ref>
+
+==Personality==
+Osvaldo had become totally insane and hated his parents but the truth was that the soulless body of Osvaldo now housed a [[chain devil]].<ref name="WDH5e-p124" />
+
+==Activities==
+Osvaldo was chained and locked in the attic of [[Cassalanter Villa]] where he was held in place by a magical pentagram and guarded by two [[imp]]s working for Victoro. He desperately tried to free himself by asking for someone to rescue him.<ref name="WDH5e-p124">{{Cite book/Waterdeep: Dragon Heist|124}}</ref> Ammalia often wept at her transformed son's feet in the mansion's attic.<ref name="WDH5e-p116,125">{{Cite book/Waterdeep: Dragon Heist|116,125}}</ref> To everyone but his parents, Osvaldo was studying in a faraway city.<ref name="WDH5e-p116">{{Cite book/Waterdeep: Dragon Heist|116}}</ref>
+
+==Appendix==
+{{Incomplete}}
+===Notes===
+{{Notes}}
+
+===Appearances===
+* ''[[Waterdeep: Dragon Heist]]''
+
+===References===
+{{Refs}}
+[[Category:Kytons]]
+[[Category:Humans]]
+[[Category:Members of the Cassalanter family]]
+[[Category:Inhabitants of Cassalanter Villa]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sea Ward of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Cassalanter
+
+{{Organization
+| image          = Cassalanter.png
+| caption        = The Cassalanter family crest.
+| name           = Cassalanter
+| aliases        = 
+| base           = [[Waterdeep]], [[Sword Coast North]]
+| leader         = [[Ohrl Cassalanter]] (14th century DR)<ref name="WatN-p46"/>
+[[Victoro Cassalanter]] (15th century DR)<ref name="WDH5e-p218"/>
+| symbol         = A white and black bird with a green fillet pall.
+| favored deity  = [[Waukeen]], [[Siamorphe]], [[Asmodeus]]
+| favored weapon = 
+| domains        = 
+| formed         = [[1248 DR]]
+| disbanded      = 
+| basicrefs      = <ref name="CoS.NHoW-p2"/><ref name="WatN-p46"/>
+| members        = 34
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{Alignment grid|off|on|on|off|on|on|on|on|off}}
+| races          = [[Human]] ([[Tethyrian]])
+| memrefs        = <ref name="CoS.NHoW-p2"/><ref name="WDH5e-p218"/><ref name="CSW3e-p92,95" />
+| allegiances    = 
+| enemies        = 
+| relrefs        = 
+| showmembers    = yes
+| orgname        = the Cassalanter family
+}}
+The '''Cassalanter''' ({{Pronounce|CASS|ah|lan|ter|refs=<ref name="CS-WW2e-p12">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|12}}</ref>}}, {{Pronounce|KAS|ah|lan|ter|alt=yes|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}) [[Nobility of Waterdeep|noble house]] of [[Waterdeep]] was among one of the richest families within the city,<ref name="TW-23">{{Cite book/Tangled Webs/MMP (1998)|23}}</ref> having made their fortune in banking, money-lending and rumor-mongering for the highest payer.<ref name="WatN-p46">{{Cite book/Waterdeep and the North|46}}</ref>
+
+==Base of Operations==
+[[File:Sea Ward-Assumbar-Cassalanter-Dezlentyr-Eirontalar Villa.png|thumb|right|270px|''Map showing the location of the Cassalanter Villa (labeled <code>$48</code>) ''circa'' 1372 DR.'']]
+The family had a [[Cassalanter Villa|villa]] in the [[Waterdeep/Sea Ward|Sea Ward]], on the southwest corner of [[Delzorin Street]] and [[Diamond Street]].<ref name="CSW3e-p92,95">{{Cite book/City of Splendors: Waterdeep|92,95}}</ref>
+
+The Cassalanter family had an ancient burial crypt in the [[Dungeon Level]] of [[Undermountain]] with several of the family ancestors interred there. A Shrine of [[Myrkul]] was the part of the family crypt.<ref name="Dec" />
+
+==History==
+House Cassalanter was ennobled in the {{YearlinkName|1248}} when the [[Lords of Waterdeep]] recognized several merchant houses and granted them noble titles and seals.<ref name="CoS:W-p59">{{Cite book/City of Splendors: Waterdeep|59}}</ref>
+
+In [[1368 DR]], Cassalanters loaned two ten-million [[Golden lion (coin)|golden lions]] with a huge interest rate. The first loan was to [[Widow Silvermane]] who ran a [[lottery]] in the [[Waterdeep/North Ward|North Ward]] of Waterdeep, and the second one went to the [[Field of Triumph]] Race Track in the [[Waterdeep/Sea Ward|Sea Ward]]. The astronomical loans were caused by goddess [[Tymora|Tymora']]s luck going out of control all over the Realms. Every single gambler picked the winning number and winning [[horse]]s, costing Widow Silvermane and the Field of Triumph disastrous losses.<ref name="ty">{{Cite book/Tymora's Luck|101-104}}</ref>
+
+In [[1370 DR]], a [[skeleton]] dressed in Cassalanter family garb was seen attacking several Waterdhavians. These incidents attracted the attention of the city's [[Lords of Waterdeep]]. The [[undead]] came from the family's old crypt in [[Undermountain]], and a lone hero was sent to investigate the restless Cassalanter ancestors. The hero successfully destroyed the undead and the [[ghoul]] [[necromancer]] behind the infestation, [[Ghoulmaster]] and the noble family offered a hefty reward for the deed.<ref name="Dec">{{Cite game/Descent to Undermountain}}</ref>
+
+In the late 15{{th}} century DR, the Cassalanters faced imminent bankruptcy. In order to prevent it, in {{Yearlink|1489}}{{Waterdeep-time}} Ammalia and Victoro struck a deal with the [[archdevil]] [[Asmodeus]], trading the souls of their children in exchange for instant financial comeback. Their eldest son, Osvaldo, was taken immediately and transformed into a [[chain devil]], while the younger twins Elzerina and Terenzio were scheduled to be taken on the occasion of their 9{{th}} birthday, one [[tenday]] after [[Founders' Day]] of {{Yearlink|1492}}.<ref name="WDH5e-p115-116">{{Cite book/Waterdeep: Dragon Heist|115-116}}</ref>
+
+Sometime before 1492 DR, one of the Ladies of House Cassalanter caused quite a stir by wearing a gown colored with a certain variety of loud maroon [[dye]] to one of her grand parties that took place in the [[Waterdeep/Sea Ward|Sea Ward]] of Waterdeep.<ref name="bg3">{{Cite game/Baldur's Gate III}}</ref>
+
+==Members==
+;14{{th}} century [[DR]]:
+*[[Ohrl Cassalanter]]: The family's patriarch<ref name="WatN-p46"/>
+*[[Sylull Cassalanter]]: Lady of House Cassalanter<ref name="CoS.NHoW-p2">{{Cite web enhancement/Noble Houses of Waterdeep|2}}</ref>
+*[[Panricon Cassalanter]]: The
+
+=== LINKED WIKI PAGE (first 5000 chars): Marking the years
+
+{{Roll of years|1|Sunrise|nocat=true}}
+''Example conversion between the years for [[1 DR]]''
+
+Years (winters)<ref name="GTotR-p22" /> are referred to by names, each name consistent across the Realms. Each kingdom or city-state numbers years differently, usually to measure the reign of a dynasty or the current monarch, or since the founding of the country. The result is a hodgepodge of overlapping numbers that serve to confuse the ordinary person and frustrate the sage. The widespread differing year dates include the following:
+
+==Methods of Reckoning==
+===Dalereckoning (DR)===
+Dalereckoning is taken from the {{YearlinkName|1}}, when the [[Standing Stone]] was raised by the [[elves]] of [[Cormanthyr]] and the [[human]]s of the [[Dalelands]]. Since this time, humans were permitted by the [[Elven Court]] to settle in the more open regions of the forests. In some texts, primarily those which do not have direct ties to Dalesfolk history, Dalereckoning is called Freeman's Reckoning (FR). The calendar is widely used in [[Faerûn]] but has not spread beyond its shores.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Cormyr Reckoning (CR)===
+[[Cormyr]] Reckoning begins at the foundation of [[House Obarskyr]], the dynasty that still rules that land. The 25-year gap between Cormyr Reckoning and Dalereckoning has caused much of the confusion regarding elder days. Timelines and calendars of the period often use DR designators, but place the founding of Cormyr at 1 DR instead of [[26 DR]]. This is understandable, given that the two reckonings are from two nearby parties and spread by a third (the merchants of Sembia), but it causes learned sages to slam their heads violently against their desks trying to figure things out.<ref name="GTotR-p22">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22}}</ref><ref name="TGHotR-p4">{{Cite book/The Grand History of the Realms|4}}</ref>
+
+===Tethyreckoning (TR)===
+Tethyreckoning begins with Founding Year, Year 0 TR, in {{Yearlink|-212}}, when [[Darrom Ithal]] of [[Clan Ithal]] retook the city of [[Myratma]] from the [[Calimshan|Calishites]] in the [[Battle of the Purple Marches]] and was crowned king of [[Tethyr]] by the clans. This dating system was rarely used outside of official legal documents in Tethyr.<ref name="LoI1-T-p25">{{Cite book/Lands of Intrigue/Tethyr|25}}</ref>
+
+===Northreckoning (NR)===
+Used in the City of [[Waterdeep]], Northreckoning dates from the year [[Ahghairon]] became the first [[Lords of Waterdeep|Lord of Waterdeep]] ([[1032 DR]]). A more archaic system called Waterdeep Years (WY) dates from the supposed first use of Waterdeep as a trading post. This reckoning is now largely abandoned except in ancient texts.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Mulhorand Calendar (MC)===
+One of the oldest calendars in use in the Realms, this ancient scheme of record-keeping dates from the founding of [[Skuld]], the City of Shadows, reputedly by a [[Mulhorand]]i god.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Netheril Year Calendar (NY)===
+Used by the [[Netherese]], it places 0 NY on {{Yearlink|-3859}}, when several villages on the shore of the [[Narrow Sea]] combined for mutual protection, forming the [[Alliance of Seventon]], which later became [[Netheril]].<ref name="NEoM-p5">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|5}}</ref> The Netheril Year calendar was created by [[Nether]] to celebrate the union.<ref name="TGHotR-27">{{Cite book/The Grand History of the Realms|27}}</ref>
+
+===Present Reckoning (PR)===
+In an attempt to get a handle on the various number systems in use, a new type of reckoning has been implemented with the approval of such worthies as [[Khelben "Blackstaff" Arunsun]] of Waterdeep and [[Vangerdahast]] of Cormyr and carried abroad by the [[Harpers]]. All year-dates trace back to the [[Time of Troubles]] in the {{YearlinkName|1358}}, as year 0.<ref name="GTotR-p22-23">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22-23}}</ref>
+
+===Amnian Calendar===
+The local calendar of [[Amn]] was based on the founding of [[Athkatla]] and the opening of its market on [[Shieldmeet]] in {{YearlinkName|100}}, which served as year 0. However, the Amnian calendar was largely irrelevant and rarely used outside of some official documents, with the vast majority of the population using Dalereckoning instead.<ref name="LoI2-A-p19">{{Cite book/Lands of Intrigue/Amn|19}}</ref>
+
+===Impilturan Calendar===
+The old calendar of [[Impiltur]] was the primary reckoning tradition in the so-called [[Demonlands]], including [[Damara]], the [[Great Dale]], Impiltur, [[Narfell]], and [[Vaasa]]. It began with the founding of the kingdom of Impiltur, which in Dalereckoning occurred in the {{YearlinkName|-74}}.<ref name="DunMag.177-p77">{{Cite dungeon/177/Realmslore: Vaasa|77}}</ref><ref name="tGHotR-p58">{{Cite book/The Grand History of the Realms|58}}</ref
+
+=== LINKED WIKI PAGE (first 5000 chars): Lathander
+
+{{Deity
+| image               = Lathander p39-1-.jpg
+| caption             = A depiction of the Morninglord.
+| name                = Lathander
+| title               = Morninglord<ref name="CotR-11">{{Cite book/Cyclopedia of the Realms|11}}</ref><ref name="FA-90">{{Cite book/Faiths and Avatars|90}}</ref><ref name="RtR-46-47">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (Revised)/Running the Realms|46-47}}</ref><ref name="OHG-169">{{Cite book/On Hallowed Ground|169}}</ref><ref name="FP-37">{{Cite book/Faiths & Pantheons|37}}</ref><ref name="FRCS-244">{{Cite book/FRCS|244}}</ref><ref name="SCAG5e-p32">{{Cite book/Sword Coast Adventurer's Guide|32}}</ref><ref name="HoF-p111">{{Cite book/Forgotten Realms: Heroes of Faerûn|111}}</ref><br />Commander of Creativity<ref name="FA-90" /><ref name="RtR-46-47" /><br />Inspiration's Dawn<ref name="SCAG5e-p32" /><ref name="HoF-p111"/><br />The Rose-and-Gold God<ref name="SCAG5e-p32" /><ref name="HoF-p111"/><br />Bringer of the Dawn<ref name="EotB3"/><br />Lord of Birth and Renewal<ref name="EotB3"/><br />Patron to Spring and Eternal Youth<ref name="EotB3"/><br />Mentor of Self-Perfection<ref name="EotB3"/>
+| adjective           = Lathanderian<ref name="FA-92">{{Cite book/Faiths & Avatars|92}}</ref>, Lathanderite<ref name="elFR-p149">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|149}}</ref>
+| aspects             = [[Amaunator]]
+| primordial          = 
+| pantheon            = [[Faerûnian pantheon]]
+| gender              = Masculine
+| died                = 
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Elysium]] ([[Eronia]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Dawn, beginnings, birth, creativity, renewal, spring, youth
+| domains5eR          = 
+| worshipers5eR       = Aristocrats, athletes, merchants, youths
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,111">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,111}}</ref>
+| power5e             = 
+| alignment5e         = [[Neutral good]]
+| symbol5e            = Road traveling into a sunrise
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Dawn, renewal
+| domains5e           = [[Life domain|Life]], [[Light domain|Light]]
+| worshipers5e        = Merchants, travelers
+| channel divinity5e  = ''[[Preserve life]]''<br />''[[Radiance of the dawn]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="PHB5e-p294">{{Cite book/Player's Handbook 5th edition|60-61,294}}</ref><ref name="SCAG5e-p32" />
+| power4e             = 
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = 
+| power3e             = [[Greater deity]]
+| alignment3e         = [[Neutral good]]
+| symbol3e            = Sunrise made of pink, red, and yellow gems
+| homeplane3e         = [[House of Nature]]
+| realm3e             = [[Morninglory]]
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Athletics, birth, creativity, dawn, renewal, self-perfection, spring, vitality, youth
+| domains3e           = [[Chastity domain|Chastity]], [[Glory domain|Glory]], [[Good domain|Good]], [[Nobility domain|Nobility]], [[Protection domain|Protection]], [[Radiance domain|Radiance]], [[Renewal domain|Renewal]], [[Strength domain|Strength]], [[Sun domain|Sun]], [[Zeal domain|Zeal]]
+| mantles3e           = {{Mantles|Good|Life|Light and Darkness|Time}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = Aristocrats, artists, athletes, merchants, [[Sun Soul|Sun Soul monks]], the young
+| cleric alignments3e = {{alignment grid|on|on|on|off|off|off|off|off|off}}
+| favored weapon3e    = "[[Dawnspeaker]]" ([[light mace|light]] or [[heavy mace]])
+| holy days3e         = Any dawn, Midsummer morning, the equinoxes
+| class3e             = {{class table|edition=3e|[[Cleric]]|20|[[Divine champion]]|5|[[Fighter]]|20}}
+| refs3e              = <ref name="FP-37-38">{{Cite book/Faiths & Pantheons|37-38}}</ref><ref name="FRCS-234-235">{{Cite book/FRCS|234-235}}</ref><ref name="FRCS-244-245">{{Cite book/FRCS|244-245}}</ref><ref name="PGtF-158-159">{{Cite book/PGtF|158-159}}</ref><ref name="PGtF-p189">{{Cite book/Player's Guide to Faerûn|189}}</ref><ref name="D355-26">{{Cite dragon/355/Seven Saintly Domains|26}}</ref><ref>{{Cite dragon/321/The Limitless Light: A Tour of the Plane of Radiance|68}}</ref>
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Neutral good]]
+| symbol2e            = A simple rosy pink disk
+
+=== LINKED WIKI PAGE (first 5000 chars): Dagult Neverember
+
+{{DEFAULTSORT:Neverember, Dagult}}
+{{Person
+| image          = Dagult Neverember.jpg
+| caption        = Dagult Neverember circa 1490 DR.
+| name           = Dagult Neverember
+| alt_spelling   = 
+| titles         = Lord Protector of [[Neverwinter]]<br />{{Former}}<small> Open Lord of [[Waterdeep]]</small>
+| aliases        = 
+| nicknames      = "Dagger" Neverember<br />Lord Pretender<br />The Protector
+| true name      = 
+| home           = [[Neverwinter]], [[Sword Coast North]]
+| formerhomes    = [[Waterdeep]]
+| sex            = Male
+| gender         = 
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Dwarvish]], [[Elvish]]
+| basicrefs      = <ref name="SCAG-p51"/><ref name="NCS-p88" /><ref name="NCS-p140" /><ref name="RT-p14-15"/><ref name="AM-ch7" />
+| reckoning      = DR
+| dob            = 1429
+| dobnotes       = 
+| death          = 
+| deathnotes     = 
+| turned         = 
+| turnednotes    = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = <ref name="LCoN-p22" />
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = [[Renaer Neverember]]
+| familyrefs     = <ref name="W:DH-p215" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = Lord of Neverwinter:<br />[[Forge Fitzwilliam]] (temporary)<ref name="HAT-TJN-c5" /><br/><br/>Open Lord:<br />[[Laeral Silverhand]]
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = [[Unaligned]]
+| class4e        = {{class table|edition=4e|Soldier|7|}}
+| refs4e         = <ref name="NCS-p88"/>
+| alignment5e    = [[Lawful neutral]]
+| challenge5e    = 
+| class5e        = [[Fighter]]
+| refs5e         = <ref name="RT-p14-15"/>
+}}
+'''Dagult Neverember''' was the wealthy Lord Protector of [[Neverwinter]] during the late 15{{th}} century and turn of the 16{{th}} century [[DR]], as well as the former [[Open Lord]] of [[Waterdeep]].<ref name="SCAG-p51">{{Cite book/Sword Coast Adventurer's Guide|51-52}}</ref><ref name="NCS-p86">{{Cite book/Neverwinter Campaign Setting|86}}</ref><ref name="HoF-p73">{{Cite book/Forgotten Realms: Heroes of Faerûn|73}}</ref> He was a member of the [[Lords' Alliance]]<ref name="SCAG-p7">{{Cite book/Sword Coast Adventurer's Guide|7}}</ref> and one of the most powerful and well-respected men on the entire [[Sword Coast]].<ref name="Bl-ch12">{{Cite book/Boundless||12}}</ref>
+
+==Description==
+Neverember was tall, broad-shouldered,<ref name="RT-p14-15">{{Cite book/The Rise of Tiamat|14-15}}</ref> and strikingly good-looking,<ref name="W:DH-p215">{{Cite book/Waterdeep: Dragon Heist|215}}</ref> with angular features,<ref name="T-ch8">{{Cite book/Timeless||8}}</ref> a mane of silver-flecked "pumpkin-brown" hair, and deep-set but shining dark eyes.<ref name="LCoN-p22">{{Cite book/Lost Crown of Neverwinter|22}}</ref><ref name="BST-p218">{{Cite book/Blackstaff Tower|218}}</ref> He was often called a "lion of a man" for both his appearance and bearing,<ref name="BST-p218" /> and was said to have the look of a strong ruler.<ref name="FRCG-p198">{{Cite book/Forgotten Realms Campaign Guide|198}}</ref><ref name="RT-p14-15">{{Cite book/The Rise of Tiamat|14-15}}</ref>
+
+By the end of his tenure as Open Lord, Neverember sported a short but thick beard<ref name="RT-p14-15"/><ref name="DDEK:DC">{{Cite book/Dungeons & Dragons Essentials Kit/Divine Contention}}</ref> that had gone grey.<ref name="DDEK:DC" /><ref name="AM-ch7">{{Cite book/Archmage/MMP (2016)||7}}</ref>
+
+==Personality==
+A consummate politician, Neverember was a capable and inspiring leader<ref name="SCAG-p51" /><ref name="LCoN-p22" /> who was known to be both brave and stately in the face of opposition.<ref name="BST-ch18">{{Cite book/Blackstaff Tower||18}}</ref> He outwardly embodied the ideals of moderation, honesty, and responsibility. He always acted decisively and firmly, with a clear-eyed view of the costs and sacrifices that his decisions entailed,<ref name="RT-p14-15">{{Cite book/The Rise of Tiamat|14-15}}</ref> although his cunning and brutal pragmatism had earned him the nickname "Dagger" Neverember.<ref name="SCAG-p66">{{Cite book/Sword Coast Adventurer's Guide|66}}</ref> He was also ambitious, proud, manipulative, and considered himself to be superior to everyone else&mdash;which made him overconfident<ref name="LCoN-p22" />&mdash;and his quick temper was known to interfere with his judgment,<ref name="W:DH-p215" /><ref name="BST-p221">{{Cite book/Blackstaff Tower|221}}</ref> making him boisterous and dangerous.<ref name="NCS-p10">{{Cite book/Neverwinter Campaign Setting|10}}</ref> However, his charisma,<ref name="LCoN-p22" /> affability,<ref name="NCS-p88">{{Cite book/N
+
+=== LINKED WIKI PAGE (first 5000 chars): Stone of Golorr
+
+{{Item
+| image         = Stone_of_golorr-5e.png
+| caption       = 
+| name          = ''Stone of Golorr''
+| othernames    = 
+| nicknames     = 
+| type          = Wondrous item<ref name="WDH5e-p192">{{Cite book/Waterdeep: Dragon Heist|192}}</ref>
+| location      = 
+| value1e       = 
+| weight1e      = 
+| refs1e        = 
+| school2e      = 
+| level2e       = 
+| value2e       = 
+| weight2e      = 
+| refs2e        = 
+| school3e      = 
+| casterlevel3e = 
+| itemlevel3e   = 
+| value3e       = 
+| weight3e      = 
+| refs3e        = 
+| level4e       = 
+| value4e       = 
+| weight4e      = 
+| refs4e        = 
+| rarity5e      = [[Artifact]]
+| attunement5e  = Required
+| school5e      = 
+| level5e       = 
+| value5e       = 
+| weight5e      = 
+| refs5e        = <ref name="WDH5e-p192" />
+| communication = Telepathic<ref name="WDH5e-p192" />
+| languages     = 
+| alignment     = [[Lawful evil]]<ref name="WDH5e-p192" />
+}}
+The '''''Stone of Golorr''''' was an [[artifact]] that contained the consciousness and memories of an [[aboleth]] named [[Golorr]].<ref name="WDH5e-p192" />
+
+==Description==
+The artifact was a small and glossy greenish-gray stone that could fit in the palm of a [[humanoid]]'s hand.<ref name="WDH5e-p192" />
+
+==Powers==
+The power of the ''Stone of Golorr'' could be called upon to access the aboleth's memory in a similar way as the ''[[legend lore]]'' spell. This power could be used up to three times, until the ''stone'' recharged at the next dawn.<ref name="WDH5e-p192" />
+
+However, knowledge given by the aboleth was fleeting. Once a creature broke the attunement to the ''Stone of Golorr'', there was a chance that any knowledge acquired via the stone, and even possession of the stone itself, was forgotten by the user. This magically induced amnesia could sometimes be removed by a ''[[remove curse]]'' spell, but more powerful spells such as ''[[greater restoration]]'' had a better chance of success.<ref name="WDH5e-p192" />
+
+As the trapped creature inside, the ''Stone of Golorr'' hungered for knowledge and did not like to stay attuned to the same individual for too long. It had an alien personality and saw itself as a [[god]]. If its user ignored the ''stone's'' demands, it could attempt to seize control of the user.<ref name="WDH5e-p192" />
+
+==History==
+The ''Stone of Golorr'' was in fact an aboleth that was transformed into an object. It could be freed if the stone was destroyed via an ''[[antipathy/sympathy]]'' spell cast with the appropriate parameters. If Golorr were freed in this way, it could go berserk and attack any nearby creatures.<ref name="WDH5e-p192" />
+
+In the late 15{{th}} century [[DR]], the ''Stone of Golorr'' was used to store the knowledge of the location of the [[Vault of Dragons]], which contained a treasure that had been embezzled by [[Dagult Neverember]] shortly before he was ousted as the [[Open Lord]] of [[Waterdeep]].<ref name="WDH5e-p192" /> At some point the stone fell into the hands of [[Xanathar]]. Then in [[1492 DR]],{{WDH-time}} Lord Dagult ordered many of his agents to obtain the stone from Xanathar's lair, with one [[Dalakhar]] ultimately being the one to do so while the crime lord was in the middle of a meeting with the [[Zhentarim]].<ref name="WDH5e-p5">{{Cite book/Waterdeep: Dragon Heist|5}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+|adventures = ''[[Waterdeep: Dragon Heist]]''
+|video games = ''[[Idle Champions of the Forgotten Realms]]''
+|board games = ''[[Dungeons & Dragons Dice Masters: Adventures in Waterdeep]]''
+|organized play refs = ''[[Once in Waterdeep]]''
+}}
+
+===References===
+{{Refs}}
+[[Category:Items]]
+[[Category:Items from Toril]]
+[[Category:Items from Faerûn]]
+[[Category:Items from Waterdeep]]
+[[Category:Magic items]]
+[[Category:Artifacts]]
+[[Category:Aboleths]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/City of the Dead
+
+{{Otheruses4|the cemetery in [[Waterdeep]]|other uses|City of the Dead (disambiguation)}}
+{{Location
+| image          = City of the Dead-Julian Kok.jpg
+| caption        = 
+| name           = City of the Dead
+| aliases        = The City<ref>{{Cite book/Volo's Guide to Waterdeep|38}}</ref>
+| type           = 
+| size           = Cemetery / ward
+| area           = [[Waterdeep]],<br /> [[Sword Coast North]]
+| languages      = 
+| races          = 
+| religion       = 
+| alignment      = 
+| established    = [[1248 DR]]
+| population1    = 
+| popyear1       = 
+| population2    = 
+| popyear2       = 
+| population3    = 
+| popyear3       = 
+| histrefs       = <ref>{{Cite book/City System|4}}</ref>
+| usethe         = yes
+| useon          = 
+| inhabitants    = yes
+| locations      = yes
+| organizations  = yes
+| settlements    = 
+| events         = yes
+| food and drink = 
+| items          = yes
+}}
+The '''City of the Dead''' was a large cemetery and ward in [[Waterdeep]]. Most of the city's dead were buried here.<ref name="City of the Dead">{{Cite book/City of the Dead}}</ref> By day, it also doubled as the city's major public park picnic area.<ref name="CoS:W-p102">{{Cite book/City of Splendors: Waterdeep|102}}</ref><ref name="WDDH-p179">{{Cite book/Waterdeep: Dragon Heist|179}}</ref>
+
+==Activities==
+Besides burials and funerals, the City of the Dead was host to a variety of activities among Waterdhavians. These included, but were not limited to:  being an exercise run, a dueling ground, a playground, a highsun dining area, a meeting-moot, a place where courting lovers could meet in private, and a performance venue for [[minstrel]]s (and would-be minstrels).<ref>{{Cite web/Realmslore/Dawntree, Part One: Bold Dreams}}</ref>
+
+At night the City of the Dead was off-limits to the public, yet it was still used by many during those hours for more nefarious activities.<ref name="CoS:W-p102" />
+
+==History==
+The area that would eventually become the site of the City of the Dead was used as a burial site as far back as the days of [[Nimoar's Hold]].<ref>{{Cite adventurers league/Hero of the Troll Wars|5-7}}</ref>
+
+When Waterdeep was much smaller, a cemetery was established on the end of the plateau overlooking the plains east of the city. A low wall was built around the cemetery in [[1064 DR]] first establishing its boundaries north and east of the [[Trades Ward of Waterdeep|Trades Ward]] and south of the [[North Ward of Waterdeep|North Ward]]. Since that time, higher walls were built and gates into the City of the Dead were established which were only opened to the public during the daylight hours.<ref name="CoS-CG-p56-57">{{Cite book/City of Splendors (boxed set)/Campaign Guide|56-57}}</ref>
+
+Space soon became hard to come by in the cemetery itself. Many of those who could not afford to be buried there found themselves interred in an area known as [[Grave Alley]] (later called [[Ilisar’s Alley]]). Their coffins were placed vertically below the cobblestones. This led to issues of the [[undead]] rising from the streets themselves and the practice was soon abandoned.<ref name="VGtW-p165">{{Cite book/Volo's Guide to Waterdeep|165}}</ref>
+
+In order to alleviate the overcrowding, in [[1250 DR]], [[Ahghairon]] and other mages of Waterdeep began to establish ''[[portals]]'' from tombs and mausoleums to uninhabited demiplanes of various types where the dead were laid to rest. Most notable among these wizards, except for Ahghairon himself, was the ''portal'' and ''teleportation'' specialist, [[Anacaster]]. Two of his more well known portals led from [[The House of the Homeless]] and [[Merchants’ Rest]].<ref name="CoS:W-p102" />
+
+Most noble houses, reportedly less than half, did not keep family tombs in the City of the Dead. They instead had crypts below their villas or were buried in family estates outside of Waterdeep.<ref name="CoS-CG-p56-57" />
+ 
+The cemetery suffered extensive damage during the [[Spellplague]].<ref name="BT.p107-8">{{Cite book/Blackstaff Tower|107-8}}</ref>
+
+==Notable Locations==
+[[File:Waterdeep_Wards-City-of-the-Dead_01.gif|thumb|250px|''Map of the City of the Dead''.]]
+===Gates===
+;[[Andamarr Gate]]: One of the public gates.<ref name="City of the Dead-p133">{{Cite book/City of the Dead|133}}</ref>
+;[[Coffinsmarch Gate]]: One of the public gates.<ref name="City of the Dead-p1">{{Cite book/City of the Dead|1}}</ref>
+;[[Dead End Gate]]: The hidden, private gate the Carver family uses to enter in order to conduct burials or perform maintenance on the tombs <ref name="City of the Dead">{{Cite book/City of the Dead}}</ref>
+;[[Mhalsyymber Gate]]: One of the public gates.<ref name="City of the Dead-p173">{{Cite book/City of the Dead|173}}</ref>
+===Crypts, plots, tombs, vaults===
+;[[Deepwinter Vault]]: A tomb near the north end of the City of the Dead. It once housed the noble Deepwinter family, but was also the entry into the [[Dungeon of the Crypt]].<ref name="City of the Dead-p10">{{Cite book/City of the Dead|10}}</ref><re
+
+=== LINKED WIKI PAGE (first 5000 chars): Willifort Crowelle
+
+{{DEFAULTSORT:Crowelle, Willifort}}
+{{Person
+| image          = 
+| caption        = 
+| name           = Willifort Crowelle
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Sea Ward of Waterdeep|Sea Ward]], [[Waterdeep]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Doppelganger]] posing as [[tiefling]]
+| ethnicity      = 
+| occupation     = Butler
+| age            = 
+| patron deity   = [[Asmodeus]]<ref name="WDH5e-p122" />
+| languages      = 
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Willifort Crowelle''' was the [[doppelganger]] butler of the [[Cassalanter|Cassalanter family]] in the late–15{{th}} century [[DR]].<ref name="WDH5e-p122" />
+
+==Activities==
+As butler and personal valet of Lord [[Victoro Cassalanter]], Willifort was usually at the side of his master. He always want knew all that happened inside the mansion and survey all the guests in order to hide connection with Asmodeus' cult.<ref name="WDH5e-p116">{{Cite book/Waterdeep: Dragon Heist|116}}</ref> 
+
+He was a full member of the cult of [[Asmodeus]].<ref name="WDH5e-p122">{{Cite book/Waterdeep: Dragon Heist|122}}</ref>
+
+==History==
+In [[1492 DR]],{{WDH-time}} the [[Cassalanter]] family may have managed to acquire the ''[[Stone of Golorr]]''. If so, Willifort, supported by some [[devil]]s, tried to stop some adventurers that wanted retrieve the stone from the Cassalanter mausoleum inside the [[City of the Dead (Waterdeep)|City of the Dead]]<ref name="WDH5e-p60">{{Cite book/Waterdeep: Dragon Heist|60}}</ref>. He later went back with the stone to the Cassalanter villa.<ref name="WDH5e-p62">{{Cite book/Waterdeep: Dragon Heist|62}}</ref> 
+ 
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+* ''[[Waterdeep: Dragon Heist]]''
+===References===
+{{Refs}}
+[[Category:Doppelgangers]]
+[[Category:Worshipers of Asmodeus]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+[[Category:Inhabitants of the Sea Ward of Waterdeep]]
+[[Category:Attendants]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep: Dragon Heist
+
+{{Book
+| image        = Waterdeep-dragon-heist.png
+| caption      = 
+| code         = 
+| title        = Waterdeep: Dragon Heist
+| author       = [[Christopher Perkins]], [[James Haeck]], [[James Introcaso]], [[Adam Lee]], [[Matthew Sernett]]
+| editor       = [[Michele Carter]], [[Scott Fitzgerald Gray]], [[Kim Mohan]]
+| publisher    = [[Wizards of the Coast]]
+| type         = Adventure
+| languages    = <small>
+* English (original)
+* French (''Waterdeep: Le Vol Des Dragons'')
+* German (''Waterdeep: Drachenraub'')
+* Italian (''Waterdeep: Il Furto dei Dragoni'')
+* Russian (''Вотердип: Драконий куш'')
+* Spanish (''Waterdeep: El Golpe de los Dragones'')</small>
+| reprinted    = 
+| cover_artist = [[Tyler Jacobson]]
+| inter_artist = [[Mark Behm]], [[Eric Belisle]]
+| cartography  = [[Dyson Logos]]<br/>[[Jason A. Engle]] (poster map)
+| realm year   = [[1492 DR]]{{WDH-time}}
+| edition1     = 
+| binding1     = Hardcover
+| released1    = September 18, 2018
+| pages1       = 224
+| isbn10-1     = 
+| isbn13-1     = 978-0-7869-6625-7
+| cite1        = 
+| edition2     = 
+| binding2     = 
+| released2    = 
+| pages2       = 
+| isbn10-2     = 
+| isbn13-2     = 
+| cite2        = 
+| edition3     = 
+| binding3     = 
+| released3    = 
+| pages3       = 
+| isbn10-3     = 
+| isbn13-3     = 
+| cite3        = 
+| edition4     = 
+| binding4     = 
+| released4    = 
+| pages4       = 
+| isbn10-4     = 
+| isbn13-4     = 
+| cite4        = 
+| edition5     = 
+| binding5     = 
+| released5    = 
+| pages5       = 
+| isbn10-5     = 
+| isbn13-5     = 
+| cite5        = 
+| series       = 
+| preceded_by  = 
+| followed_by  = ''[[Waterdeep: Dungeon of the Mad Mage]]''
+| Roll20number = 442484
+| EAN-UPC      = 9780786966257
+| Booksamillion= https://www.dpbolvw.net/click-101530721-13599892?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDd-Waterdeep-Dragon-Heist-Hc%2FWizards-Coast%2F9780786966257&cjsku=9780786966257
+| Booktopia    = https://booktopia.kh4ffx.net/WyBZ0P
+}}'''''Waterdeep: Dragon Heist''''' is a 5{{th}}-edition ''[[Dungeons & Dragons]]'' adventure that takes place in the city of [[Waterdeep]]. The adventure runs through levels 1&ndash;5 and is followed by the adventure ''[[Waterdeep: Dungeon of the Mad Mage]]''.
+
+{{Quote|<big>'''''Welcome to Waterdeep'''''</big>
+
+''Famed explorer [[Volothamp Geddarm]] needs you to complete a simple quest. Thus begins a mad romp through the wards of Waterdeep as you uncover a villainous plot involving some of the city's most influential figures.''
+
+''A grand urban caper awaits you. Pit your skill and bravado against villains the likes of which you've never faced before, and let the [[dragon (coin)|dragon]] hunt begin!''
+
+''A Dungeons & Dragons<sup>&reg;</sup> adventure for characters of levels 1&ndash;5. For use with the fifth edition ''[[Player's Handbook 5th edition|Player's Handbook]]''<sup>&reg;</sup>, ''[[Monster Manual 5th edition|Monster Manual]]''<sup>&reg;</sup>, and ''[[Dungeon Master's Guide 5th edition|Dungeon Master's Guide]]''<sup>&reg;</sup>.''
+}}
+
+==Chronology==
+The adventure takes place after the events described in ''[[Hoard of the Dragon Queen]]'', ''[[The Rise of Tiamat]]'', ''[[Princes of the Apocalypse]]'',<ref name="WDH5e-p38-39">{{Cite book/Waterdeep: Dragon Heist|38-39}}</ref> and ''[[Tomb of Annihilation]]'',<ref name="WDH5e-p5">{{Cite book/Waterdeep: Dragon Heist|5}}</ref> but does not directly depend on them. It is not set in a particular year, but is assumed to be the [[1492 DR|Year of Three Ships Sailing, 1492 DR]] (see note).
+
+==Contents==
+* Pronunciation Guide
+* Introduction
+* Chapter 1: A Friend in Need
+* Chapter 2: Trollskull Alley
+* Chapter 3: Fireball
+* Chapter 4: Dragon Season
+* Chapter 5: Spring Madness
+* Chapter 6: Hell of a Summer
+* Chapter 7: Maestro's Fall
+* Chapter 8: Winter Wizardry
+* Chapter 9: Volo's Waterdeep Enchiridion
+* Appendix A: Magic Items
+* Appendix B: Monsters and NPCs
+* Appendix C: Handouts
+
+==Index==
+{{IndexLink|Click here for page index}}
+===Characters===
+:;Dragonborn: {{P|[[Rishaal]]|33}} • {{P|[[Thrakkus]]|57,60,64}} • {{P|[[Valetta]]|47}}
+:;Dwarves: {{P|[[Ahmaergo]]|100,'''193'''}} • {{P|[[Elaspra Ulmarr]]|69-70}} • {{P|[[Istrid Horn]]|17,42,'''199'''}} • {{P|[[Jarbokken Frostbeard]]|78}} • {{P|[[Morana Huldark]]|82}} • {{P|[[Noska Ur'gray]]|66,100,'''213'''}} • {{P|[[Ott Steeltoes]]|34,100,'''214'''}} • {{P|[[Thorvin Twinbeard]]|100,101,'''216'''}} • {{P|[[Ulkoria Stonemarrow]]|42}} • {{P|[[Zemk]]|28}}
+:;Elves: {{P|[[Arannis Nur'zekk]]|101}} • {{P|[[Beldar Tlabbath]]|101}} • {{P|[[Davil Starsong]]|17,20,37,39,40,'''199-200'''}} • {{P|[[Draknafein Uriss]]|101}} • {{P|[[Fala Lefaliir]]|32,45,49}} • {{P|[[Fel'rekt Lafeen]]|15,34,72,'''201'''}} • {{P|[[Jarlaxle Baenre]]|6,11,14,15,35,37,48,49,57,60,63-64,67,75,101,'''206'''}} • {{P|[[Krebbyg Masq'il'yr]]|15,34,72,'''202'''}} • {{P|[[Nar'l Xibrindas]]|15,34,63-64,100,101,'''211'''}} • {{P|[[Remallia Haventree]]|16,30,37,68,69,74,76,'''214-215'''}} • {{P|[[Rylvar Tlabbath]]|101}} • {{P|[[Soluun Xibrindas]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Idle Champions of the Forgotten Realms
+
+{{Computer game
+|image        = Idle Champions of the Forgotten Realms cover.png
+|caption      = 
+|name         = Idle Champions of the Forgotten Realms
+|realm year   = ~[[1493 DR]]<ref name="Realms year" group="note">The character profile of [[Drizzt Do'Urden]] states his age to be 196 years old. Seeing as how he was born in [[1297 DR]] (''[[The Grand History of the Realms]]'', p. 132), ''Idle Champions'' must be set in 1493 DR. That being said, the developers have stated they intentionally keep the game's timeline vague, to allow them to pick and choose the characters (or character ''versions'') they want.</ref>
+|developer    = [[Wikipedia:Codename Entertainment|Codename Entertainment]]
+|publisher    = 
+|distributor  = [[Wikipedia:Steam (software)|Steam]]
+|designer     = 
+|released     = September 2017
+|genre        = [[Wikipedia:Incremental game|Idle game]]
+|modes        = Single player
+|ratings      = 
+|engine       = 
+|version      = 
+|platforms    = PC (Windows)<br />Android<br />iOS<br />PS4<br />Xbox One<br />Nintendo Switch
+|media        = 
+|requirements = 
+}}
+'''''Idle Champions of the Forgotten Realms''''' is a free-to-play [[Wikipedia:Incremental game|idle game]] developed by [[Wikipedia:Codename Entertainment|Codename Entertainment]]. It was released for early access on September 7, 2017.
+
+==Description==
+The core gameplay of ''Idle Champions'' revolves around the player selecting "champions" (such as [[Bruenor Battlehammer|Bruenor]], [[Minsc]], and [[Celeste]], among others) to defeat waves of increasingly difficult monsters, thereby accumulating gold. This gold is used to upgrade the player's champions, or unlock new ones. Each individual champion has its own set of unique abilities that empower either themselves or other champions. The player needs to place these champions in a "formation" that facilitates the overall strength of the party to ensure progress can be made against higher-level waves of monsters. As players complete objectives, or reset their current adventure, they accumulate "Favor" with a specific deity, which increases the amount of gold they find in future sessions. Furthermore, players can collect character-specific equipment that permanently boost their champions further, either as random drops, or through purchasing "chests" filled with random items. Equipment comes in four quality tiers, where "Epic" is the highest. Furthermore, equipment can be further boosted by being made "Shiny" (a rare chance at permanent improvement) or "Golden" (an even bigger improvement but generally limited to real-world currency purchases). Finally, "Epic" equipment can be forged into "Legendary" quality, which does not empower the item itself, but rather provides an additional positive effect for the party.
+
+The game can be automated to a degree using the "Modron Automation" system which allows the game to handle all necessary input to repeatedly play itself, in four separate instances, for a period of up to 7 days.
+
+The game is segmented into several "campaigns", each with its own unique Favor, ensuring Favor progress does not carry over between campaigns. Each campaign has a unique formation pattern, forcing players to rethink how to arrange their champions. Some of the campaigns are permanent, while others are event-based and only available for a short time. Event campaigns reward unique champions that are only available to unlock during their respective events. Permanent campaigns are usually adaptations of a tabletop adventure, such as ''[[Tomb of Annihilation]]''. All the campaigns are further divided into "adventures", which are narrative frames for the core gameplay, for example recounting how the champions help rescue a farmer's daughter who has been kidnapped by [[werewolf|werewolves]]. Most adventures also have additional challenge modes, unlocked after meeting various criteria. These challenge modes present the player with new obstacles to overcome, for example through limiting the champions available to choose from. The "Patron" system allows for these challenges to be replayed with even more limitations imposed on the player. For example, selecting the [[Strahd von Zarovich|Strahd]] patron means players are restricted to only using champions with a high intelligence score.
+
+The "end game" of ''Idle Champions'' is the "Trials of Mount Tiamat", a cooperative campaign where five players undertake missions to defeat [[Tiamat]]. Over the course of a week, players must succeed in daily missions to help reach their goal. Success yields "Scales of Tiamat", which is a currency used to forge "Legendary" equipment.
+
+==Index==
+[[File:Idle Champions campfire.png|thumb|300px|''The champions enjoy a well-deserved rest.'']]
+===Characters===
+<!-- Please do not add links to characters from streams. -->
+:;Lore Champions: [[Anson Iro|Anson]] (and [[Uggie]]) • [[Arkhan]] • [[Artemis Entreri|Artemis]] • [[Asharra]] • [[Astarion]] • [[Azaka Stormfang|Azaka]] • [[Baeloth Barrityl|Baeloth]] • [[Baldric
+
+=== LINKED WIKI PAGE (first 5000 chars): Icons of the Realms
+
+{{Book
+| image        = 
+| caption      = 
+| code         = 
+| title        = Icons of the Realms
+| author       = 
+| editor       = 
+| publisher    = Wizkids
+| type         = Miniatures
+| languages    = 
+| reprinted    = 
+| cover_artist = 
+| inter_artist = 
+| realm year   = 
+| edition1     = <!-- leave blank if there is only one -->
+| binding1     = Booster packs
+| released1    = 2014—
+| pages1       = 
+| isbn10-1     = 
+| isbn13-1     = 
+| cite1        = 
+| edition2     = 
+| binding2     = 
+| released2    = 
+| pages2       = 
+| isbn10-2     = 
+| isbn13-2     = 
+| cite2        = 
+| edition3     = 
+| binding3     = 
+| released3    = 
+| pages3       = 
+| isbn10-3     = 
+| isbn13-3     = 
+| cite3        = 
+| edition4     = 
+| binding4     = 
+| released4    = 
+| pages4       = 
+| isbn10-4     = 
+| isbn13-4     = 
+| cite4        = 
+| edition5     = 
+| binding5     = 
+| released5    = 
+| pages5       = 
+| isbn10-5     = 
+| isbn13-5     = 
+| cite5        = 
+| series       = 
+| preceded_by  = 
+| followed_by  = 
+| source       = 
+}}
+'''''Icons of the Realms''''' is a line of ''[[Forgotten Realms]]'' miniatures by Wizkids, intended for use with the 5th edition of ''[[Dungeons & Dragons]]''. The line consists of hundreds of miniatures, many of which tie into official storylines, adventures, and video games.
+
+==Randomly Assorted Sets==
+{|class="prettytable"
+|-
+|style="background:#c5e0b3; font-size:90%;" width="100px" align="center"|'''Forgotten Realms'''
+|style="background:#dbdbdb; font-size:90%;" width="100px" align="center"|'''Other setting'''
+|}
+
+===Tyranny of Dragons===
+''Released: 19 August 2014.''
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+! style="background:#c5e0b3;" | #
+! style="background:#c5e0b3;" | Name
+! style="background:#c5e0b3;" | Size
+! style="background:#c5e0b3;" | Rarity
+! style="background:#c5e0b3;" | Note
+|-
+| 01 || [[Rock gnome|Rock Gnome]] Female [[Wizard]] || Small || Common ||
+|-
+| 01-ALT || Rock Gnome Female Wizard (Invisible) || Small || Ultra Rare ||
+|-
+| 02 || [[Strongheart halfling|Stoutheart Halfling]] Female [[Bard]] || Small || Common ||
+|-
+| 02-ALT || Stoutheart Halfling Female Bard (Invisible) || Small || Ultra Rare ||
+|-
+| 03 || [[Quickling]] || Small || Common ||
+|-
+| 04 || [[Svirfneblin]] [[Fighter]] || Small || Common ||
+|-
+| 05 || [[Kobold]] [[Fighter]] || Small || Common ||
+|-
+| 06 || [[Goblin]] [[Fighter]] || Small || Common ||
+|-
+| 07 || [[Mane|Mane Demon]] || Small || Common ||
+|-
+| 08 || [[Human]] [[Paladin]] || Medium|| Common ||
+|-
+| 09 || [[Sun elf|Sun Elf]] Guard || Medium|| Common ||
+|-
+| 10 || [[Orc]] [[Fighter]] || Medium|| Common ||
+|-
+| 11 || [[Human]] [[Zhentarim]] Bandit || Medium|| Common ||
+|-
+| 12 || [[Hobgoblin]] [[Fighter]] || Medium || Common ||
+|-
+| 13 || [[Human]] Female [[Barbarian]] || Medium || Common ||
+|-
+| 14 || [[Orog]] [[Orc]] [[Fighter]] || Medium || Uncommon||
+|-
+| 15 || [[Doppleganger]] || Medium || Uncommon ||
+|-
+| 16 || [[Wood elf|Wood Elf]] [[Druid]] || Medium || Uncommon ||
+|-
+| 17 || [[Green hag|Green Hag]] || Medium || Uncommon ||
+|-
+| 18 || [[Needle blight|Needle Blight]] || Medium || Uncommon ||
+|-
+| 19 || [[Human]] [[Red Wizard]] || Medium || Uncommon ||
+|-
+| 20 || [[Cult of the Dragon]] Enforcer || Medium || Uncommon ||
+|-
+| 21 || [[Bugbear]] || Medium || Uncommon ||
+|-
+| 22 || [[Guard drake|Guard Drake]] || Medium || Uncommon ||
+|-
+| 23 || [[Wraith]] || Medium|| Uncommon ||
+|-
+| 24 || [[Bronze dragon|Bronze Dragon]] || Large|| Uncommon ||
+|-
+| 25 || [[Oni mage|Ogre Mage]] || Large|| Uncommon ||
+|-
+| 26 || [[Stone giant|Stone Giant]] Elder || Large|| Uncommon ||
+|-
+| 27 || [[Frost giant|Frost Giant]] || Large|| Uncommon ||
+|-
+| 28 || [[Pegasus]] || Large|| Uncommon ||
+|-
+| 29 || [[Wyvern]] || Large|| Uncommon ||
+|-
+| 30 || Black [[Shadow dragon|Shadow Dragon]] || Large || Uncommon ||
+|-
+| 31 || [[Green dragon|Green Dragon]] || Large || Uncommon ||
+|-
+| 32 || [[Copper dragon|Copper Dragon]] || Large || Uncommon ||
+|-
+| 33 || [[Half-dragon|Half-black dragon]] Lord || Medium || Rare ||
+|-
+| 34 || [[Ballista]] || Medium || Rare ||
+|-
+| 35 || [[Mind flayer|Mind Flayer]] || Medium || Rare ||
+|-
+| 36 || [[Half-dragon|Half-red dragon]] [[Fighter]] || Medium || Rare ||
+|-
+| 37 || [[Aarakocra]] || Medium || Rare ||
+|-
+| 38 || [[Movanic deva|Movanic Deva Angel]] || Medium || Rare ||
+|-
+| 39 || [[Harpy]] || Medium || Rare ||
+|-
+| 40 || [[Gargoyle]] || Medium || Rare ||
+|-
+| 41 || [[Blue dragon|Blue Dragon]] || Large || Rare ||
+|-
+| 42 || [[Silver dragon|Silver Dragon]] || Large || Rare ||
+|-
+| 43 || [[Gold dragon|Gold Dragon]] || Large || Rare ||
+|-
+| 44 || [[Red dragon|Red Dragon]] || Large || Rare ||
+|-
+| 45 || Gargantuan [[Brass dragon|Brass Dragon]] || Gargantuan || Unique || Case incentive
+|-
+| 46 || [[Drizzt Do'Urden]] (invisible) || Medium || Ultra rare || Invisible version of [[Icons of the Realms#Starter Set|Starter Set]] miniature
+|-
+| 47 || [[Dwarf]] [[Cleric]] (invisible) || Medium || Ultra rare || Invisible version of 
+
+=== LINKED WIKI PAGE (first 5000 chars): Once in Waterdeep
+
+{{DEFAULTSORT:Once in Waterdeep}}
+{{Adventurers league
+| image        = Once in Waterdeep.png
+| caption          = 
+| code         = DDEP08-00
+| title        = Once in Waterdeep
+| design           = [[Will Doyle]]<ref name="DDEP08-p1">{{Cite adventurers league/Once in Waterdeep|1}}</ref>
+| editor           = [[Claire Hoffman]], [[Travis Woodall]]<ref name="DDEP08-p1"/>
+| publisher        = [[Wizards of the Coast]] 
+| cover_artist     = 
+| inter_artist     = 
+| cartography      = 
+| pages            = 45
+| debut            = August 2018 <small>(Dragon Con/Tri-Con)</small>
+| released         = September 4, 2018
+| story arc        = ''[[Adventurers League/Waterdeep|Waterdeep]]''
+| realm year       = [[1492 DR]]{{WDH-time}}<ref group="note">The presence of characters and storylines from ''[[Waterdeep: Dragon Heist]]'' implies it is contemporaneous with that adventure, so the same presumed date is assumed here.</ref>
+| setting          = [[Waterdeep]]
+| game_edition     = 5
+| play_time        = 4 hours
+| players          = 
+| levels           = 1{{st}} – 4{{th}}
+| series           = [[Adventurers League]]
+| preceded_by      = 
+| followed_by      = ''[[The Map with No Names]]''
+| Roll20number     = 250993
+}}
+'''''Once in Waterdeep''''' is an adventure module set in the ''Forgotten Realms'' using the ''Dungeons & Dragons'' 5{{th}} edition ruleset. It is part of the ''[[Adventurers League/Waterdeep|Waterdeep]]'' series of adventures published for the [[Adventurers League|D&D Adventurers League]]. It focuses on [[Waterdeep]], and is an adventure designed for 1{{st}}- to 4{{th}}-level characters.
+
+{{Quote|''Who knows why adventurers are drawn together? The lust for gold, a common foe, or the whimsy of fate? Pull up a stool, stoke the hearth, and let YOUR story begin!''<ref name="DDEP08-p1"/>|}}
+
+==Index==
+===Characters===
+:[[Bellwish Grady]] • [[Blossom Snobeedle]] • [[Bonnie]] • [[Diahne Icewilder]] • [[Durnan]] • [[Helmagog]] • [[Jalester Silvermane]] • [[Lug Grimsditch]] • [[Malleus Grimehouse]] • [[Mattrim Mereg]] • [[Meloon Wardragon]] • [[Merry Dwindlejoy]] • [[Rusty Bighat]] • [[Savra Belabranta]] • [[Sh'vis Jhalavar]] • [[Urlon Vhrule]] • [[Valas Trapp]] • [[Yagra Stonefist]]
+:;{{Refonly}}
+::<small>[[Ammalia Cassalanter]] • [[Dalakhar]] • [[Jarlaxle Baenre]] • [[Manshoon]] • [[Victoro Cassalanter]]</small>
+
+===Creatures===
+:[[animated armor]] • [[cat]] • [[doppelganger]] • [[drow]] • [[goblin]] • [[halfling]] • [[half-elf]] • [[half-orc]] • [[human]] • [[imp]] • [[kenku]]
+:;{{Refonly}}
+::<small>[[gnome]]</small>
+
+===Locations===
+;Buildings: [[Yawning Portal]]
+;Region: [[Sword Coast]]
+;Settlements: [[Waterdeep]]
+:;{{Refonly}}
+::<small>[[Menzoberranzan]]</small>
+
+===Magic===
+;Spells: ''[[burning hands]]'' • ''[[cone of cold]]'' • ''[[counterspell]]'' • ''[[cure wounds]]'' • ''[[detect magic]]'' • ''[[disguise self]]'' • ''[[divination]]'' • ''[[fire bolt]]'' • ''[[fireball]]'' • ''[[fly]]'' • ''[[greater invisibility]]'' • ''[[greater restoration]]'' • ''[[hypnotic pattern]]'' • ''[[ice storm]]'' • ''[[identify]]'' • ''[[illusory script]]'' • ''[[infernal calling]]'' • ''[[lesser restoration]]'' • ''[[light]]'' • ''[[locate creature]]'' • ''[[mage armor]]'' • ''[[mage hand]]'' • ''[[magic missile]]'' • ''[[mending]]'' • ''[[misty step]]'' • ''[[prayer of healing]]'' • ''[[prestidigitation]]'' • ''[[raise dead]]'' • ''[[remove curse]]'' • ''[[revivify]]'' • ''[[Shield (spell)|shield]]'' • ''[[speak with dead]]'' • ''[[suggestion]]'' • ''[[true resurrection]]''
+:;{{Refonly}}
+::<small>[[stone of Golorr]]</small>
+
+===Organizations===
+:[[City Watch (Waterdeep)|City Watch]] • [[Force Grey]]
+:;Player Factions:  [[Emerald Enclave]] • [[Harpers]] • [[Lords' Alliance]] • [[Order of the Gauntlet]] • [[Zhentarim]]
+:;{{Refonly}}
+::<small>[[Cassalanter]] • [[Cult of the Howling Hatred]]</small>
+
+===Religions===
+:;{{Refonly}}
+::<small>[[Eilistraee]] • [[Tyr]]</small>
+
+===Miscellaneous===
+:;Food and drink: [[Welcomer's Brew]]
+
+==Credits==
+* '''D&D Adventurers League Guildmaster:''' [[Chris Lindsay]]
+* '''D&D Adventurers League Wizards Team:''' [[Chris Lindsay]], [[Adam Lee]], [[Mike Mearls]], [[Matt Sernett]]
+* '''D&D Adventurers League Administrator(s):''' [[Claire Hoffman]], [[Lysa Chen]], [[Bill Benham]], [[Travis Woodall]], [[Greg Marks]], [[Alan Patrick]]
+* '''Art Director & Graphic Design:''' [[Rich Lescouflair]]
+* '''Playtesters:''' Alex Crouzen, Arthur Saucier, Ben Siekert, Chris McGovern, Dan Taylor, Daniel Oliveira, David N Krolnik, Gary Affeldt, Genesis Martinez, GM Tim, Greg Marks, Justin Faris, Lee Brimmicombe-Wood, Marcello Valazquez, Mik Calow, Monika Milkova, Sean Mittelstaedt, Thomas Valley
+==Appendix==
+===Notes===
+{{notes}}
+===External Links===
+{{External link disclaimer}}
+* {{DMsGuild-AL}}
+* {{DriveThruRPG-AL}}
+* [https://web.archive.org/web/20201129103539/dndadventurersleague.org/storyline-seasons/waterdeep-adventures/ Waterdeep Adventurer's League]
+===References===
+{{Refs}}
+===Connections===
+
+{{Adventurers
+
