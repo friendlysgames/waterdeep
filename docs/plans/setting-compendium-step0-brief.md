@@ -26,3 +26,13 @@ The user has not answered these, so leave them as open Draft Notes: (2) whether 
 - Run `python3 .claude/skills/ember-voice/scripts/voicecheck.py <file>` on every file you change, fix every TELL, and compare against the file's earlier score so you do not make it worse.
 - Run the stale-word grep on your files: `grep -n "Xanathar Guild\|South Ward\|\bDM\b\|goddess of\|\.md)\|tapestry" <file>`; fix anything you introduced.
 - No em dashes in prose you add; no punchlines, fragment stacks or "not X, more Y".
+
+## Addendum: rulings 2, 5 and 6 (user: "Accept recommended")
+
+**Ruling 2: cut the Stone's Overview rumor.** Delete "Rumor holds that someone stole it some years ago" from the **Stone of Golorr and the Eyes** Overview (`stone-of-golorr-and-the-eyes.md:123`). No source says Waterdhavians know the Stone exists. The Overview keeps only what the sources support (an aboleth artifact, if you keep the "is said to have forged" clause check it against the wiki and Dragon Heist first, and cut it if no source gives it to the public). Update the `**Research:**` Draft Notes bullet near `:193` to say the rumor line was cut by the user's ruling.
+
+**Ruling 5: the Palace is not the Watch's base.** Drop the wiki-only claim that the Watch's main base is the Palace of Waterdeep (`city-watch.md:32`, `:13`; `castle-ward.md:173`, `:232`, `:262`, `:273`; `geography/waterdeep.md:155`, `:173`). Dragon Heist names no Watch headquarters (`adventure-wdh.json:30545-30549` and `:31853-31897`), so the pages say the Watch works from ward stations and name no headquarters. Keep the Palace as the seat of government and the City Guard's barracks where Dragon Heist or the page's other sources place them. Remove "Guard and Watch offices" at the Palace where it names the Watch. The old outline's "Watch headquarters in the Castle Ward" stays retired.
+
+**Ruling 6: two services.** The City Guard and the City Watch are separate services in 1492 DR, as in Dragon Heist and the campaign. Remove the wiki's "Guard folded into the Watch by 1479 DR" from the text and from `castle-ward.md:232`; the Draft Notes conflicts (`city-watch.md:126`, `castle-ward.md:268`) become one-line Settled bullets that keep the wiki's reading as a retired claim. Also clear the stale Draft Note at `city-watch.md:129`.
+
+The user's answer to all three was "Accept recommended, carry on" (Session 50).

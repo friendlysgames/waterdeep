@@ -1,0 +1,113 @@
+## sources/adventure-wdh.json lines 513-566
+sources/adventure-wdh.json:513: "name": "Choose Your Villain",
+sources/adventure-wdh.json:514: "page": 6,
+sources/adventure-wdh.json:515: "id": "00f",
+sources/adventure-wdh.json:516: "entries": [
+sources/adventure-wdh.json:517: "When you run this adventure, you choose its main villain at the outset. Your choice determines the season of the year in which the story takes place, as well as the antagonists in several of the encounters in chapter 4. The villain you choose opposes the player characters, while the villains you don't choose become part of the backdrop and could help the characters or hinder them.",
+sources/adventure-wdh.json:518: "As another unusual feature of this adventure, the villains aren't meant to be killed, nor are they out to kill the player characters. The villains are after a treasure hoard, and the adventurers' ultimate goal is to keep the treasure out of their clutches.",
+sources/adventure-wdh.json:519: "You can swap out one villain for another at any time. For example, if you decide halfway through the adventure that because of how the story has progressed {@creature Jarlaxle Baenre|WDH} would make a better antagonist than {@creature Xanathar|WDH}, you can make that change on the fly and run subsequent encounters accordingly.",
+sources/adventure-wdh.json:520: "Each villain is fully described in appendix B and summarized below.",
+sources/adventure-wdh.json:521: {
+sources/adventure-wdh.json:522: "type": "entries",
+sources/adventure-wdh.json:523: "name": "Xanathar",
+sources/adventure-wdh.json:524: "page": 6,
+sources/adventure-wdh.json:525: "id": "010",
+sources/adventure-wdh.json:526: "entries": [
+sources/adventure-wdh.json:527: "{@creature Xanathar|WDH} is a paranoid, megalomaniacal beholder crime lord whose goal is to wipe out anyone it perceives as a Zhentarim operative or sympathizer, retrieve the {@item Stone of Golorr|WDH}, and secure the cache of dragons. Its base is a dungeon under Skullport, a subterranean settlement beneath Waterdeep. This lair is described in chapter 5.",
+sources/adventure-wdh.json:528: "{@creature Xanathar|WDH} has a healthy fear of {@creature Laeral Silverhand|WDH} and is inclined to spare those in her employ, to avoid provoking a conflict with Waterdeep's Open Lord. Adventurers who incur the wrath of the beholder can use its fear of Laeral to escape certain death.",
+sources/adventure-wdh.json:529: "If you choose {@creature Xanathar|WDH} as the villain, the adventure takes place in the spring."
+sources/adventure-wdh.json:530: ]
+sources/adventure-wdh.json:531: },
+sources/adventure-wdh.json:532: {
+sources/adventure-wdh.json:533: "type": "entries",
+sources/adventure-wdh.json:534: "name": "The Cassalanters",
+sources/adventure-wdh.json:535: "page": 6,
+sources/adventure-wdh.json:536: "id": "011",
+sources/adventure-wdh.json:537: "entries": [
+sources/adventure-wdh.json:538: "Victoro and {@creature Ammalia Cassalanter|WDH} are Waterdavian nobles and secret devil worshipers. The Cassalanters plan to use the cache of dragons to buy back the souls of their children, which they traded to Asmodeus for power. Their estate, Cassalanter Villa, has a temple of Asmodeus hidden underneath it, as described in chapter 6.",
+sources/adventure-wdh.json:539: "The Cassalanters try to misdirect and discredit the characters rather than murder them. Victoro and Ammalia rely on their noble status to protect them, and the last thing they want is the City Watch on their doorstep.",
+sources/adventure-wdh.json:540: "If you choose the Cassalanters as the villains, the adventure takes place in the summer."
+sources/adventure-wdh.json:541: ]
+sources/adventure-wdh.json:542: },
+sources/adventure-wdh.json:543: {
+sources/adventure-wdh.json:544: "type": "entries",
+sources/adventure-wdh.json:545: "name": "Jarlaxle Baenre",
+sources/adventure-wdh.json:546: "page": 6,
+sources/adventure-wdh.json:547: "id": "012",
+sources/adventure-wdh.json:548: "entries": [
+sources/adventure-wdh.json:549: "{@creature Jarlaxle Baenre|WDH} is a drow swashbuckler and the secret lord of Luskan, the City of Sails. Jarlaxle plans to use the cache of dragons to buy his way into the Lords' Alliance, a confederation of cities and towns that band together against common threats. Jarlaxle also wants the {@item dragonstaff of Ahghairon|WDH} for leverage in his negotiations. In the magical guise of a human sea captain named Zardoz Zord, Jarlaxle runs a traveling carnival called the Sea Maidens Faire and lairs aboard a ship in Waterdeep's harbor that has a submarine (the {@i Scarlet Marpenoth}) underneath it, as described in chapter 7.",
+sources/adventure-wdh.json:550: "Jarlaxle delights in thwarting his enemies, enjoys the complications that arise when adventurers try to meddle in his affairs, and loves to see the looks on their faces when he finally gets the better of them. He doesn't suffer fools who threaten him, however. If forced into a violent confrontation, he swiftly and brutally kills someone to make an example of them and then walks off.",
+sources/adventure-wdh.json:551: "If you choose Jarlaxle as the villain, the adventure takes place in the autumn."
+sources/adventure-wdh.json:552: ]
+sources/adventure-wdh.json:553: },
+sources/adventure-wdh.json:554: {
+sources/adventure-wdh.json:555: "type": "entries",
+sources/adventure-wdh.json:556: "name": "Manshoon",
+sources/adventure-wdh.json:557: "page": 7,
+sources/adventure-wdh.json:558: "id": "013",
+sources/adventure-wdh.json:559: "entries": [
+sources/adventure-wdh.json:560: "A clone of the wizard {@creature Manshoon|WDH}, one of the founders of the Zhentarim, is hiding in Waterdeep. He wants to rule the city, by claiming the cache of dragons and by using that wealth to bribe the Masked Lords into making him the new Open Lord. He also wants to regain control of the Black Network. {@creature Manshoon|WDH} lurks in Kolat Towers, a pair of wizards' towers in the Trades Ward. This residence is described in chapter 8.",
+sources/adventure-wdh.json:561: "{@creature Manshoon|WDH} creates copies of himself using the {@spell simulacrum} spell and takes great pains to conceal his identity, since his success hinges on not attracting the attention of others who would seek to thwart him before his plans come to fruition. {@creature Manshoon|WDH} avoids unnecessary confrontations with adventurers; only those who enter his extradimensional sanctum are likely to incur his wrath.",
+sources/adventure-wdh.json:562: "If you choose {@creature Manshoon|WDH} as the villain, the adventure takes place in the winter."
+sources/adventure-wdh.json:563: ]
+sources/adventure-wdh.json:564: }
+sources/adventure-wdh.json:565: ]
+sources/adventure-wdh.json:566: },
+
+## sources/adventure-wdh.json lines 32752-32806
+sources/adventure-wdh.json:32752: "name": "Xanathar",
+sources/adventure-wdh.json:32753: "page": 220,
+sources/adventure-wdh.json:32754: "id": "4e2",
+sources/adventure-wdh.json:32755: "entries": [
+sources/adventure-wdh.json:32756: "{@creature Xanathar|WDH} is the name given to the beholder crime lord that lives in the dungeons under Waterdeep. It isn't the first beholder to claim this mantle, nor will it be the last.",
+sources/adventure-wdh.json:32757: "Like all beholders, {@creature Xanathar|WDH} is a paranoid tyrant that charms and bullies its minions into servitude. The Xanathar Guild is made up of some of Waterdeep's most disreputable folk, as well as monsters forced into subservience or drawn to the beholder by the promise of treasure, food, or power. Treachery within the ranks of the guild is common as servants vie for the beholder's favor and affection. Such boons are fleeting, though, as the beholder is quick to distrust those who finagle their way into its good graces.",
+sources/adventure-wdh.json:32758: "{@creature Xanathar|WDH} lives in a dungeon under Skullport, a subterranean settlement connected to Undermountain's third level. The place resembles a ramshackle town, built inside a giant cavern connected to an underground river. Members of the Xanathar Guild haunt Skullport's dilapidated buildings, and flameskulls patrol its streets.",
+sources/adventure-wdh.json:32759: "The only creature {@creature Xanathar|WDH} truly cares about aside from itself is a fish, named {@creature Sylgar|wdh}, that it keeps in a large glass tank. {@creature Xanathar|WDH} has minions that look after the fish constantly, but even their ministrations can't keep such a creature alive forever. Whenever the fish dies, panic spreads through the occupants of the lair as minions try to replace the fish before {@creature Xanathar|WDH} realizes what has happened. Luckily for them, the beholder can't tell one fish from another.",
+sources/adventure-wdh.json:32760: "{@creature Xanathar|WDH} is extremely fond of gold. A few years ago, its spies stole the Stone of Golorr, which contained information that led to the discovery of a dwarven vault under Waterdeep. {@creature Xanathar|WDH} was able to open the vault, but was forced out by the dragon inside the place. Recently, someone stole the Stone of Golorr from where it was hidden inside its lair, and the beholder is convinced that the Black Network is behind the theft.",
+sources/adventure-wdh.json:32761: "The beholder is caught up in the unbreakable grip of its own paranoia. It sees enemies everywhere, and lashes out at anyone it suspects of being a Zhentarim spy or assassin. Adventurers who attract its attention by dealing with known or suspected Black Network operatives are quickly branded as enemies that must be destroyed.",
+sources/adventure-wdh.json:32762: {
+sources/adventure-wdh.json:32763: "type": "entries",
+sources/adventure-wdh.json:32764: "name": "Game Statistics",
+sources/adventure-wdh.json:32765: "page": 220,
+sources/adventure-wdh.json:32766: "id": "4e3",
+sources/adventure-wdh.json:32767: "entries": [
+sources/adventure-wdh.json:32768: "{@creature Xanathar|WDH} is a {@creature beholder} that wears magic rings on three of its eyestalks. It is attuned to all three rings, which don't alter the beholder's challenge rating. It wears a {@item ring of invisibility} on its fear ray eyestalk, a {@item ring of mind shielding} on its sleep ray eyestalk, and a {@item ring of force resistance||ring of resistance (force)} on its slowing ray eyestalk.",
+sources/adventure-wdh.json:32769: "{@creature Xanathar|WDH}'s beloved fish, {@creature Sylgar|wdh}, has the statistics of a {@creature quipper}, except that it lacks the Blood Frenzy trait."
+sources/adventure-wdh.json:32770: ]
+sources/adventure-wdh.json:32771: }
+sources/adventure-wdh.json:32772: ]
+sources/adventure-wdh.json:32773: },
+sources/adventure-wdh.json:32774: {
+sources/adventure-wdh.json:32775: "type": "entries",
+sources/adventure-wdh.json:32776: "name": "Yalah Gralhund",
+sources/adventure-wdh.json:32777: "page": 220,
+sources/adventure-wdh.json:32778: "id": "4e4",
+sources/adventure-wdh.json:32779: "entries": [
+sources/adventure-wdh.json:32780: "The lady of House Gralhund is no fool. She has a keen mind and the wisdom to discern friend from foe. She also has a husband who worships her (see \"{@creature Orond Gralhund|wdh}\"), and a house that has the resources of the Black Network at its disposal.",
+sources/adventure-wdh.json:32781: "{@creature Yalah Gralhund|wdh|Yalah} stays abreast of events in the city, keeps a tight rein on her children, and uses her station and her family's wealth to pry secrets from the lips of nobles, guildmasters, and commoners alike. Though her previous attempts to become a Masked Lord have been thwarted, she believes it's only a matter of time until that honor is bestowed on her. Once she knows the identities and secrets of enough Masked Lords, Yalah is confident that she can bribe, blackmail, or extort her way into their ranks. From there, she plans to effect changes in the government that will ensure House Gralhund's prosperity for generations to come.",
+sources/adventure-wdh.json:32782: "Yalah shares the services of a half-orc bodyguard with her husband, although {@creature Hrabbaz|WDH} (see \"{@creature Hrabbaz|WDH}\") is more loyal to her than to him. She also uses the Zhentarim who are based in House Gralhund as her personal spy network, not realizing that the Zhents' true master is {@creature Manshoon|WDH}. Most of her dealings are with the Zhent master assassin {@creature Urstul Floxin|wdh} (see \"{@creature Urstul Floxin|WDH}\"), whom she treats as an underling.",
+sources/adventure-wdh.json:32783: {
+sources/adventure-wdh.json:32784: "type": "entries",
+sources/adventure-wdh.json:32785: "name": "Game Statistics",
+sources/adventure-wdh.json:32786: "page": 220,
+sources/adventure-wdh.json:32787: "id": "4e5",
+sources/adventure-wdh.json:32788: "entries": [
+sources/adventure-wdh.json:32789: "{@creature Yalah Gralhund|WDH} is a Tethyrian human {@creature noble}, with these changes:",
+sources/adventure-wdh.json:32790: {
+sources/adventure-wdh.json:32791: "type": "list",
+sources/adventure-wdh.json:32792: "items": [
+sources/adventure-wdh.json:32793: "Yalah is neutral evil.",
+sources/adventure-wdh.json:32794: "She has an Intelligence of 16 (+3).",
+sources/adventure-wdh.json:32795: "She speaks Common and Infernal."
+sources/adventure-wdh.json:32796: ]
+sources/adventure-wdh.json:32797: }
+sources/adventure-wdh.json:32798: ]
+sources/adventure-wdh.json:32799: }
+sources/adventure-wdh.json:32800: ]
+sources/adventure-wdh.json:32801: }
+sources/adventure-wdh.json:32802: ]
+sources/adventure-wdh.json:32803: },
+sources/adventure-wdh.json:32804: {
+sources/adventure-wdh.json:32805: "type": "section",
+sources/adventure-wdh.json:32806: "name": "Appendix C: Handouts",
+
