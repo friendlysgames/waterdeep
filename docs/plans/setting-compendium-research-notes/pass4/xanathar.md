@@ -140,7 +140,7 @@ Published adventure, the crypt the remix overrides:
 
 Session ruling (the user's words, from the handoff):
 
-> "> "Yes. Remix overtakes original campaign." — User, this session" — `session 47 handoff.md:72`
+> "Yes. Remix overtakes original campaign." — User, this session — `session 47 handoff.md:72`
 
 ### 2b. How it took the Guild, and how the first holder died
 
@@ -800,7 +800,7 @@ Ott, the Eye's keeper:
 
 User ruling (session 47 handoff):
 
-> "> "Jarlaxle has men in Xanathar's hideout." — User, this session" — `session 47 handoff.md:80`
+> "Jarlaxle has men in Xanathar's hideout." — User, this session — `session 47 handoff.md:80`
 
 **Status (campaign):** Eye #1 is in Sylgar's bowl in X19, and Xanathar does not know what it is (`running-the-villains.md:28`, `:38`; `lore:41`, `:46`; `history/08:25`; `arc-f:157`, `:368`). The Eye's route through Ott is contradicted by one file (section 8, item 9). Eye #3 is consistent across `running-the-villains.md:25`, `lore:43` and the session 47 ruling.
 
@@ -918,7 +918,7 @@ Ranking applied: campaign files (remix decisions and the user's rulings) > publi
 
 9. **Who placed Eye #1 in Sylgar's bowl, and whether Ott knows of it.**
    - "The Eye passed to Ott Steeltoes, who placed it in Sylgar's fishbowl because it had a pretty color and Xanathar liked Sylgar's bowl to look interesting." — `campaign/structure/arc-f-xanathars-lair.md:9`
-   - "- **Eye #1, Xanathar:** ... Ott Steeltoes put it in the bowl of Sylgar, Xanathar's goldfish, because it was a pretty color." — `campaign/setting/lore/stone-of-golorr-and-the-eyes.md:41` (full line in section 6)
+   - "- **Eye #1, Xanathar:** Manshoon's Zhentarim stole it from the Protector's Enclave in Neverwinter. About three months before the fireball, Manshoon sent two lieutenants to Skullport with it as a gift. Xanathar ate them and kept the Eye, and Ott Steeltoes put it in the bowl of Sylgar, Xanathar's goldfish, because it was a pretty color. Xanathar does not know what the Eye is." — `campaign/setting/lore/stone-of-golorr-and-the-eyes.md:41`
    - "He knows nothing of the Eye itself." — `campaign/guides/factions/10-manshoons-zhentarim.md:25`
    - Status: **open.** The session 47 handoff lists it (`session 47 handoff.md:137`: "**Ott Steeltoes:** `guides/factions/10-manshoons-zhentarim.md:25,27` (captured, "knows nothing of the Eye") vs `arc-f:9` (Ott receives the Eye and places it in Sylgar's bowl).").
 
@@ -998,7 +998,7 @@ Searched, with no hit (terms and files):
 - Nihiloor "Xanathar grants it unusual autonomy" (page line 50). No source. Published `sources/adventure-wdh.json:32354` says "considers itself Xanathar's equal."
 - Phase names and phase triggers beyond the retired chapter. Grep for "Wounded God|Cornered Monster|Paranoid Tyrant" across `campaign/` and `sources/` (excluding the research and 5etools folders): only the page, `campaign/structure/ch2-city-of-splendors.md:185-187`, and the voice skill (`.claude/skills/character-voices/voices/xanathars-guild.md:16-18`). No source for phase triggers.
 - Pop-culture names (Jabba, Javert, Soprano) for Xanathar: only the page and `ch2-city-of-splendors.md:193`.
-- Other campaign mentions of Xanathar's fear of Laeral: grep "Laeral" with "Xanathar" across `campaign/` returned only `notable-figures/xanathars-guild/01-xanathar.md:27`.
+- Other campaign mentions of Xanathar's fear of Laeral: a grep of `campaign/` for "Laeral" near "Xanathar" returned `notable-figures/xanathars-guild/01-xanathar.md:27` (the fear) and `campaign/quests/faction-events/lords-alliance/r25-warduke/ev-01-warduke.md:387` (Laeral's line for a faction's escalation tier; not a fear statement). No other fear statement was found.
 - A Yalah-Xanathar deal in the campaign: grep of `campaign/` for "Xanathar" with "Yalah", "deal", "bargain", "council" returned only gazer and Stone-theft lines. `campaign/setting/notable-figures/gralhunds/` has no "Xanathar".
 - Xanathar's personal advisors beyond Nar'l in the campaign: none. The wiki says "by 1492 this number had dwindled to one" (`wiki.txt:220`).
 - Zushaxx's four lieutenants (Kal'dir, Quid, Sial Sapphire, Draak): wiki only (`wiki.txt:281`). `history/02:54` says none is a campaign Notable Figure.
@@ -1008,7 +1008,7 @@ Searched, with no hit (terms and files):
 - Published "goldfish": 0 matches in `sources/adventure-wdh.json`.
 - Published "twice" for the Manshoon kill order: not found.
 - Published statement that Xanathar "knows the Stone is the key": not found in the adventure. Alexandrian p.15 says it.
-- Xanathar's pronoun in the published text: "it" throughout the lines read (527, 14938, 14981, 15059, 32756-32760, 32768-32769). The "his" at `sources/adventure-wdh.json:31696` refers to Ahmaergo's master, which is Xanathar, but the pronoun belongs to Ahmaergo's loyalty clause, so it is not a use of "he" for Xanathar.
+- Xanathar's pronoun in the published text: "it" throughout the lines read (527, 14938, 14981, 15059, 32756-32760, 32768-32769). The "his" at `sources/adventure-wdh.json:31696` belongs to Ahmaergo's loyalty clause ("his beholder master"), not to a use of "he" for Xanathar.
 - Captured prisoners beyond the Samara cell and the tournament: not searched further in the campaign.
 
 Terms and files searched: Xanathar, Zushaxx, Kirukes(k)ai, Kirueskai, Izulktur, Xandulzrithral, "fifteenth", "thirteen", goldfish, Sylgar, Laeral, paranoi*, Wounded God, Cornered Monster, Paranoid Tyrant, Jabba, Javert, Soprano, "Cold war", "kill order", supplant, Nihiloor, dominat*, autonomy, Ahmaergo, Ott, Nar'l, Yalah, Gralhund, Samara, prisoner, captured. Files: all of `campaign/` (grep), `sources/adventure-wdh.json` (targeted), `sources/adventure-wdmm.json` (targeted), `sources/Act_III_Arc_E.md` (all six Xanathar lines), the `session 46`, `session 47`, `session 48` and `session 49` handoffs (grep and targeted reads), and `docs/plans/setting-compendium-research-notes/` (grep hits only).
