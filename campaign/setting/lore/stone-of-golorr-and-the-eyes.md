@@ -120,7 +120,7 @@ The Stone's behavior depends on how many Eyes the party has restored, never on w
 
 ## Overview
 
-The Stone of Golorr is an artifact that an aboleth is said to have forged. Rumor holds that someone stole it some years ago, and ordinary Waterdhavians cannot say where it is now.
+The Stone of Golorr is an artifact that holds the consciousness and memories of an aboleth.
 
 > **[GM]**
 >
@@ -190,7 +190,7 @@ The Stone of Golorr is an artifact that an aboleth is said to have forged. Rumor
 > - **Derived:** "First Eye restored" and "second Eye restored" sub-cases keyed by the Eye that remains. The three structure docs each write two sub-cases by which heist ran first, and CLAUDE.md requires the count framing. Keying by the remaining Eye gives the same three outcomes and never names a heist order. The paraphrase of the second-Eye images is the page's own merge of the three docs.
 > - **Derived:** The "Who Wants It" Xanathar line merges `xanathar.md:62` with `organizations/08-xanathars-guild.md:17`. The Harpers line merges `organizations/01-harpers.md:17` with `guides/factions/02-harpers.md:7`. The Lords' Alliance line is `history/07-a-city-watching-itself.md:54`. The refusal line is the "will not discuss the Stone of Golorr" lines across the five player-faction First Meetings in `campaign-hits.txt`.
 > - **Derived:** "After the vote, Neverember's spies take it from the Palace" uses the published adventure (`adventure-wdh.json:451-452`) and `history/06:66`. The 1489 DR date for the vote comes from the Alexandrian timeline, as `history/06` records. The campaign does not date when Neverember hid the Stone in the Palace.
-> - **Research:** The Overview's "is said to have forged" and "Rumor holds that someone stole it" follow the task brief. No source read says ordinary Waterdhavians know the Stone's name or that it was stolen, and the drafter instructions would keep the Stone out of the Overview altogether. Cut the Overview to nothing if the main session prefers that reading. `[research]`
+> - **Settled by the user (Session 50):** The Overview's "Rumor holds that someone stole it some years ago" is cut, with "ordinary Waterdhavians cannot say where it is now", because no source says Waterdhavians know the Stone exists. "Is said to have forged" is also cut, since no source gives a maker to the public. The Overview now states only the wiki's fact that the artifact holds an aboleth's consciousness and memories (wiki, Dragon Heist 5e).
 > - **Research:** The Dalakhar theft date of Ches 20 comes from `arc-c-fireball.md:345` and the routed-facts note in `history/06:167`. Neither is a quest journal.
 > - **Research:** Illuun has no Notable Figures page. The Stone's "Level 4 of Undermountain" tie comes from `organizations/03-emerald-enclave.md:37` and `arc-c-fireball.md:310`. **The Water Table Stirs** and **The Dreamer's Reach** come from `campaign-hits.txt` and the Enclave pages, and the research notes quote only the Anchor Destroyed outcome (`ev-02-the-anchor.md:203`).
 > - **Research:** Names kept as plain text. Sylgar has no Notable Figure page. Hlam, Fel'rekt Lafeen and Kalain are named in passing and I did not open their pages (`bregan-daerthe/03-felrekt-lafeen.md` and `independents-allies/20-kalain.md` exist). Alethea Brandath, the Protector's Enclave and the Candle Lane warehouse have no page either.
