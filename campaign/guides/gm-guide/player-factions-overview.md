@@ -177,7 +177,7 @@ The surveillance has three branches:
 **J.B. Nevercott** (haberdasher, burgundy coat, *hat of disguise*) arrives at Trollskull Manor and maintains the fiction until he chooses to drop it. The full First Meeting scene is in the **Bregan D'aerthe** Factions guide page. Set **BD Acknowledged** when it concludes.
 
 > [!warning]**Bregan D'aerthe Contact Severed**
-> If the party reports the BD surveillance to the Watch, set **BD Contact Severed** and do not run the J.B. Nevercott scene. This flag closes BD membership for the entire campaign. Jarlaxle becomes aware of the party regardless; his intelligence network is thorough enough that the report changes nothing except the relationship. He operates as a neutral third party in **Sea Maidens Faire** rather than a potential ally. There is no second recruitment opportunity. The decision is permanent.
+> If the party reports the BD surveillance to the Watch, set **BD Contact Severed** and do not run the J.B. Nevercott scene. This Event Outcome closes BD membership. Jarlaxle becomes aware of the party regardless; his intelligence network is thorough enough that the report changes nothing except the relationship. He operates as a neutral third party in **Sea Maidens Faire** rather than a potential ally. There is no second recruitment opportunity. The decision is permanent.
 
 Jarlaxle's true identity surfaces in **Fireball!** and **Sea Maidens Faire**, when the nimblewright thread leads the party to the carnival and its captain. Membership opens several quests before that disclosure.
 

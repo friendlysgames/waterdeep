@@ -7,7 +7,7 @@
 > #### Gamemaster's Summary
 > - This is the villain profile for the Cassalanters, the noble family of **Cassalanter Villa** and the cult beneath it. It sets out their three personality phases, their relationships, their goals and the one design note that makes them playable.
 > - Use it when you run any scene where Victoro, Ammalia or their household acts or reacts. Phase 1 covers Acts I and II, Phase 2 covers Acts II and III, and Phase 3 applies in **Cassalanter Villa** once Founders' Day (Flamerule 1) is within three sessions.
-> - The Cassalanters appear in **Trollskull Alley**, **Fireball!**, **Faction Outposts**, **Cassalanter Villa** and **Vault of Dragons**. They also drive the faction missions **The Wazoo Affair**, **The Theater's Back Room**, **Spined Devils in Twelvedog Court**, **The Shrine on Aveen Street** and **The Writ and the Weight**. **Cassalanter Villa** (location) is the location journal for the villa and the temple beneath it.
+> - The Cassalanters appear in **Trollskull Alley**, **Fireball!**, **Faction Outposts**, **Cassalanter Villa** and **Vault of Dragons**. They also appear in the faction missions **The Wazoo Affair**, **The Theater's Back Room**, **Spined Devils in Twelvedog Court**, **The Shrine on Aveen Street** and **The Writ and the Weight**. **Cassalanter Villa** (location) is the location journal for the villa and the temple beneath it.
 > - The family's response teams, outposts, escalation row and revelation list live on the **The Cassalanters** page of the Factions Guide. Who the family is lives on the **The Cassalanters** page of Organizations.
 
 **Purpose:** Lets the GM portray the Cassalanters as people whose motives are easy to understand and whose plan is indefensible, through three personality phases, a relationship table and three goals.
@@ -19,7 +19,7 @@ Victoro and Ammalia Cassalanter are loving parents and secret diabolists, the he
 ## Background
 
 - House Cassalanter has stood on Waterdeep's noble registry for several generations, and the published adventure shows the family's portraits across them. The wiki dates the house's ennoblement to 1248 DR, when the Lords of Waterdeep granted titles to several merchant houses (Forgotten Realms Wiki, citing *City of Splendors: Waterdeep*, 3e).
-- The family's wealth is banking and money-lending, and Victoro's banking underwrites half the guilds in the city. The **Cassalanter Counting House** in the Sea Ward holds accounts across the North Ward, and the party's renovation financing for **Trollskull Manor** may pass through it in **The Grand Opening**.
+- The family's wealth is banking and money-lending, and Victoro's banking underwrites half the guilds in the city. The Cassalanter Counting House in the Sea Ward holds accounts across the North Ward, and the party's renovation financing for **Trollskull Manor** may pass through it in **The Grand Opening**.
 - Caladorn Cassalanter, Victoro's father, was a former Masked Lord and a hero of the North. His ghost waits in the family crypt below the villa, where it attacks anything with a fiendish taint and helps anyone who shows a holy symbol of Siamorphe.
 - The family faced bankruptcy about three years before the campaign opens. The remix ties the collapse to Dagult Neverember's embezzlement, which emptied the civic funds that Victoro's loans were underwritten against.
 - The bargain was made in 1489 DR, counted back from the published "three years ago". Ammalia found the way through infernal research. A pit fiend carried the contract to them, and they signed it together in the temple beneath their own villa.
@@ -27,7 +27,7 @@ Victoro and Ammalia Cassalanter are loving parents and secret diabolists, the he
 - The buy-out clause asks for 999,999 gp and ninety-nine souls, both, paid to a devil of Asmodeus at the same time. The published text words it as "one shy of a million gold coins" and "one shy of one hundred unfortunate souls". Partial payment will not be accepted, and the family does not know this yet.
 - The family holds about 500,000 gp of its own, and the Vault's 500,000 gp covers the shortfall. The Cassalanters are not competing with the other factions for the Stone of Golorr, and the outposts gather gold and ritual components for the payment.
 - The souls are the guests at the Founders' Day feast. On Flamerule 1 Ammalia invites one hundred of Waterdeep's poorest to the villa lawn and serves ninety-nine of them wine laced with midnight tears, so that the guests die within a day and nothing connects them to the house.
-- Founders' Day (Flamerule 1) is Ammalia's operational window, chosen for the civic cover and for the time left to verify the terms. The contract falls due on Flamerule 11 and does not name Founders' Day.
+- Founders' Day (Flamerule 1) is Ammalia's operational window, chosen for the civic cover and for the time left to verify the terms. The contract falls due on Flamerule 11, ten days after Founders' Day, and its terms do not mention the feast.
 - Victoro is known publicly as a banker, a philanthropist and a worshipper of Lathander. The house also keeps a public devotion to Siamorphe, and the villa's ballroom floor is a Siamorphe mosaic.
 - The temple lies below the wine cellar, behind a secret door marked with a sun symbol and down a spiral stair. Its thirty-foot statue of Asmodeus was carved from an image of Siamorphe, and discovery of the temple is a capital offense under the Code Legal.
 - Eye #2 came to the Cassalanters through infernal divination, which found it in the Brandath Crypts, and their agents took it from Neverember's magical wards. It is secured in a concealed panel behind the base of the Asmodeus statue in the temple's ceremonial hall (A7), and the family knows what it does.
@@ -40,7 +40,7 @@ Victoro and Ammalia Cassalanter are loving parents and secret diabolists, the he
 
 | Phase | Name | When active | The mode |
 |-------|------|-------------|----------|
-| 1 | The Generous Patrons | Acts I–II | Warmth, ease, genuine charity; the public face that is also genuinely true; warmth toward tieflings is specific and real |
+| 1 | The Generous Patrons | Acts I–II | Warmth, ease, genuine charity; the public face that is also genuinely true; warmth toward tieflings is specific and real `[research]` |
 | 2 | The Desperate Parents | Acts II–III | Mask off; they did it and they've lived with it; Ammalia holds steady, Victoro is starting to fracture |
 | 3 | The Hosts of Founders' Day | **Cassalanter Villa** | Founders' Day decided; a terrible calm; they will take any genuine alternative the PCs offer, immediately and without negotiation |
 
@@ -58,7 +58,7 @@ Victoro and Ammalia Cassalanter are loving parents and secret diabolists, the he
 | Osvaldo | Eldest child (transformed) | Chain devil imprisoned in C24 (the soundproofed villa attic); Ammalia visits weekly, sitting outside the pentagram to read aloud while Osvaldo spits curses at her and weeps; Victoro has not visited in months |
 | Terenzio and Elzerina | Surviving children | Twins, eight years old; don't know about the bargain; should appear in **Trollskull Alley** before PCs investigate the villa |
 | Asmodeus | Creditor | The terms are fixed; Asmodeus does not negotiate with mortals who have already signed |
-| The Harpers | Watchers | Ammalia knows the Harpers monitor their charitable work; their genuine goodness has kept the surveillance clean for years |
+| The Harpers | Watchers | Ammalia knows the Harpers monitor their charitable work; their genuine goodness has kept the surveillance clean for years `[research]` |
 | The PCs | Unplanned variable | Either a catastrophe (exposure) or a solution (alternative path); the Cassalanters will tell the truth if they believe the PCs can help |
 
 **Relationship notes**
