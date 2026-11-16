@@ -25,6 +25,8 @@
 
 **Relationships.** Elzerina is Terenzio's twin and the bolder of the two, forfeit to Asmodeus alongside her brother on their ninth birthday, Flamerule 11, 1492 DR (she is eight now), and a child who suspects something is wrong in this house without knowing what.
 
+At the **Trollskull Alley** Grand Opening, Elzerina arrives in her knight's helm with Ammalia and Nana Rosse, asks the party whether they fight monsters, and adds a knight to the drawing on the tavern's specials slate.
+
 ## Overview
 
 Elzerina Cassalanter is Terenzio's twin and the bolder of the two — a child in a knight's helm currently chasing her brother around the villa with a wooden sword, who asks visitors flat-out whether they fight monsters.

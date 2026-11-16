@@ -25,6 +25,8 @@
 
 **Relationships.** Terenzio is one of the twins (alongside Elzerina), forfeit to Asmodeus on his ninth birthday, Flamerule 11, 1492 DR (he is eight now), a child who trusts his parents completely, and a boy who is curious about the attic for entirely innocent reasons.
 
+At the **Trollskull Alley** Grand Opening, Terenzio arrives in his dragon costume with Ammalia and Nana Rosse, roars at the party, and draws a dragon on the tavern's specials slate.
+
 ## Overview
 
 Terenzio Cassalanter is one of the family's young twins, currently best known for wearing a dragon costume around the villa while being chased by his sister with a wooden sword.

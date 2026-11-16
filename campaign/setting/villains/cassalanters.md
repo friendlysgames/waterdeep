@@ -56,7 +56,7 @@ Victoro and Ammalia Cassalanter are loving parents and secret diabolists, the he
 |-----|------|----------------------|
 | Victoro and Ammalia (each other) | Co-conspirators | The marriage is real; decision made together, burden carried together; Ammalia makes the final calls; Victoro has stopped questioning this |
 | Osvaldo | Eldest child (transformed) | Chain devil imprisoned in C24 (the soundproofed villa attic); Ammalia visits weekly, sitting outside the pentagram to read aloud while Osvaldo spits curses at her and weeps; Victoro has not visited in months |
-| Terenzio and Elzerina | Surviving children | Twins, eight years old; don't know about the bargain; should appear in **Trollskull Alley** before PCs investigate the villa |
+| Terenzio and Elzerina | Surviving children | Twins, eight years old; don't know about the bargain; first appear at the **Trollskull Alley** Grand Opening, before PCs investigate the villa |
 | Asmodeus | Creditor | The terms are fixed; Asmodeus does not negotiate with mortals who have already signed |
 | The Harpers | Watchers | Ammalia knows the Harpers monitor their charitable work; their genuine goodness has kept the surveillance clean for years `[research]` |
 | The PCs | Unplanned variable | Either a catastrophe (exposure) or a solution (alternative path); the Cassalanters will tell the truth if they believe the PCs can help |
@@ -74,7 +74,7 @@ Victoro and Ammalia Cassalanter are loving parents and secret diabolists, the he
 
 ## Key Design Note
 
-Terenzio and Elzerina must appear before **Cassalanter Villa**. The GM should identify during **Trollskull Alley** when the children will first be visible, whether at a festival, a neighborhood event or a Cassalanter charitable appearance. Once the PCs have met the children, the Founders' Day deadline becomes personal rather than abstract.
+Terenzio and Elzerina must appear before **Cassalanter Villa**. They first appear at the **Trollskull Alley** Grand Opening, where Ammalia brings them with their nanny, Nana Rosse, and the party meets them again in the villa. The Grand Opening marks the Event Outcome **Cassalanter Twins Met** when any character speaks with either twin. Once the PCs have met the children, the Founders' Day deadline becomes personal rather than abstract.
 
 ## Overview
 
@@ -131,7 +131,7 @@ The Cassalanters are one of Waterdeep's old noble houses, and their name is now 
 > - **Conflicts:** Caladorn. `adventure-wdh.json` line 18404 calls him a "hero of the North" and line 22713 a "hero of Waterdeep". `organizations/10-cassalanters.md` line 72 says the wiki has him a Masked Lord and later Open Lord by 1399 DR, and `05-a-debt-in-blood.md` line 34 says the campaign does not list him as Open Lord. The page keeps the published "former Masked Lord and hero of the North".
 > - **Conflicts:** The Organizations page tags the 1248 DR ennoblement "City of Splendors 2e" (line 63). The wiki cites *City of Splendors: Waterdeep* for it (`wiki.txt` line 574), which is the 3e book, and this page tags it 3e.
 > - **Conflicts:** How Ammalia reads to Osvaldo. `arc-g-cassalanter-villa.md` line 13 has her read through the warded door. `05-a-debt-in-blood.md` line 52 and `02-ammalia-cassalanter.md` line 23 have her sit in the room outside the pentagram. The Relationships row keeps the second.
-> - **Conflicts:** The key design note needs the twins in **Trollskull Alley**, and no file in `campaign/quests/` names Terenzio or Elzerina. `ev-06-the-grand-opening.md` line 55 has Ammalia attend alone. The note also hands the GM a decision ("should identify … when the children will first be visible"), which zero-prep forbids, so **Trollskull Alley** needs a fixed scene for the twins.
+> - **Settled by the user (Session 51):** The key design note needed the twins in **Trollskull Alley**, and no file in `campaign/quests/` named Terenzio or Elzerina. `ev-06-the-grand-opening.md` had Ammalia attend alone, and the note handed the GM a decision ("should identify … when the children will first be visible"), which zero-prep forbids. The twins now first appear at the Grand Opening, with their nanny Nana Rosse, in a fixed scene, and the party meets them again in the villa.
 > - **Conflicts:** Dates in other files. `sources/SOURCE_GUIDE.md` line 136 says the family wants the gold "before Founders' Day", and the contract falls due after it. `05-a-debt-in-blood.md` line 147 says the Alexandrian files put the feast on Tarsakh 9 or 10 and the forfeit on Tarsakh 11, which the campaign overrides, and the Lair PDF pages were not re-read.
 > - **Conflicts:** The Cross-References name the Factions Guide page for the family, as the **Xanathar** page does. A **Faction Operations** page for the Cassalanters now exists at `campaign/setting/faction-operations/10-cassalanters.md`, and `organizations/10-cassalanters.md` line 103 points to it. Retarget this line when the guide pages are removed.
 > - **Derived:** The twins are eight years old (the published text gives no age). The age comes from a birth on Flamerule 11, 1483 DR and a start on Ches 1, 1492 DR. The pact year 1489 DR is arithmetic from "three years ago" (`adventure-wdh.json` line 18294), as the wiki restates it.
