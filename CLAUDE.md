@@ -390,6 +390,8 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 **Wait to be asked:** Never begin researching or writing the next section (faction, quest, guide) without an explicit user request. Complete the current task, then stop.
 
+**Decisions come with full context:** When you give the user decisions at the end of a turn, write each one out with its full context: the quoted lines with file and line, what each option changes, and your recommendation. The user must never have to search for where a question comes from. Write the questions in the message, never in a question-tool call. (User: "when giving me decisions at the end of a turn, give me the full context behind those decisions. I don't have time to search where each question comes from"; "Give me the 4 questions, written out rather than in a question tool call".)
+
 ---
 
 ## Workflows
