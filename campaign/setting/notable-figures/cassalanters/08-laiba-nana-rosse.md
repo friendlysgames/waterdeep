@@ -5,7 +5,7 @@
 > #### Gamemaster's Summary
 > - *Tiefling cult fanatic (Asmodeus), neutral evil*. Stat block: **Cult Fanatic**.
 > - **Affiliation:** The Cassalanters (cult)
-> - **Featured in:** Cassalanter Villa, Cassalanter Villa (location)
+> - **Featured in:** Trollskull Alley, Cassalanter Villa, Cassalanter Villa (location)
 
 ## Roleplaying Information
 
@@ -24,6 +24,8 @@
 **Morale.** In a fight, Nana Rosse grabs the twins and places herself between them and the threat. She is more dangerous than she looks.
 
 **Relationships.** Laiba "Nana" Rosse is the twins' tiefling caretaker and tutor, a cult fanatic whose devotion to the children and devotion to the cult are inseparable in her own understanding, and the person who knows the twins' daily movements better than anyone else in the villa.
+
+At the **Trollskull Alley** Grand Opening, Nana Rosse brings Terenzio and Elzerina along with Ammalia.
 
 ## Overview
 

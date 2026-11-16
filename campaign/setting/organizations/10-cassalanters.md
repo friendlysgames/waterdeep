@@ -22,7 +22,7 @@ The Cassalanters are a Waterdhavian noble family of banking wealth, several gene
 - **Take Any Genuine Alternative:** By the last phase the family has decided on Founders' Day and will accept any real alternative the party offers, immediately and without negotiation.
 - **A Contract Is a Contract:** Asmodeus does not negotiate with mortals who have already signed, so the family works inside the terms. They hunt for loopholes, never for release. Victoro is the family's priest and Ammalia makes the final calls.
 - **Tell the Truth and Leave Out the Price:** Everything the Cassalanters tell the party about their situation is technically true. They never mention that the ritual also requires poisoning 99 people at the Founders' Day feast.
-- **Keep the Temple Hidden:** An illegal temple to Asmodeus lies beneath the villa, and discovery of it is a capital offense under the Code Legal and ruins the plan. Willifort Crowelle manages household security.
+- **Keep the Temple Hidden:** An illegal temple to Asmodeus lies beneath the villa, and discovery of it is a capital offense under the Code Legal once a magistrate has ruled it unlawful, and it ruins the plan. Willifort Crowelle manages household security.
 - **Service Is Worship:** The cult's members fold devotion into the work they do for the family. Tissina Khyret attends Ammalia, Nana Rosse minds the twins, Jandar Chergoba cooks and Seffia Naelryke runs field operations, and none of them sees a conflict between the job and the god.
 - **Doctrine and Rites:** [research] The campaign files do not settle the cult's hierarchy below the family, its sacraments or how it recruits. The **Asmodeus** page in Deities may supply the doctrine.
 

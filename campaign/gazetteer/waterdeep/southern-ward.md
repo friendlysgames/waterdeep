@@ -125,7 +125,7 @@ The Southern Ward is the caravan district of Waterdeep, a ward of stables, inn y
 > **[GM]**
 >
 > #### GM Notes
-> - Jeryth's Southern Ward report in **Summerstrider** is that she has felt a wound in the ley lines near Coachlamp Lane for a tenday and a half. It is not healing, and the Enclave has no lead on the cause. The windmill in the Secret is the cause, and Jeryth does not know it.
+> - Jeryth's Southern Ward report in **Summerstrider** is that she has felt a wound in the ley lines near Coachlamp Lane for a tenday and a half, and she senses infernal influence there. It is not healing, and the Enclave has no lead on the cause. The windmill in the Secret is the cause, and Jeryth does not know it.
 
 **Seffia Naelryke (Lawful Evil, Tethyrian Human, she/her)**
 - A cult fanatic of Asmodeus who leads the Cassalanter response team from the Converted Windmill. The team is Seffia, two Spies, one Veteran and one invisible Imp, and it gathers intelligence, watches targets and supports combat.

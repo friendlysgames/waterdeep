@@ -51,6 +51,6 @@ Level 4 is not reached here. It triggers in **Gralhund Villa** upon recovering t
 | ev-02 | — | Nim Contacted Via CSL; Detector Obtained |
 | ev-03 | Detector Obtained *(ev-02)*; Gralhund Villa Named *(ev-01)* | Gralhund Villa Located; Faire Visited First |
 | ev-04 | Gralhund Villa Located *(ev-03)*; Faire Visited First *(ev-03)*; BD Acknowledged *(Trollskull Alley ev-04, if applicable)* | Jarlaxle Informed; Nimblewright Ledger Stolen; Ledger Complete; Jarlaxle Unmasked (per character); Crystal Ball Accessed |
-| ev-05 | Ammalia Cassalanter Met *(Trollskull Alley ev-06)* | Cassalanter Track A, Cassalanter Track B, Cassalanter Track C or Cassalanter Track D (one) |
+| ev-05 | Ammalia Cassalanter Met *(Trollskull Alley ev-06)*; Cassalanter Twins Met *(Trollskull Alley ev-06)* | Cassalanter Track A, Cassalanter Track B, Cassalanter Track C or Cassalanter Track D (one) |
 | ev-06 | — | Death Mark Discovered; Xanathar Team Encountered; Kalain Letter Received |
 | ev-07 | Kalain Letter Received *(ev-06)*; Cassalanter Track A or Cassalanter Track C *(ev-05, optional)* | Vault Opening Method Known; Eyes Letter Found |

@@ -5,7 +5,7 @@
 > #### Gamemaster's Summary
 > - *Human child, lawful good*. Stat block: **Commoner (child)**.
 > - **Affiliation:** The Cassalanters (non-cultist)
-> - **Featured in:** Cassalanter Villa, Cassalanter Villa (location)
+> - **Featured in:** Trollskull Alley, Cassalanter Villa, Cassalanter Villa (location)
 
 ## Roleplaying Information
 
