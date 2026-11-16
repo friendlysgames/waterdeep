@@ -13,7 +13,7 @@
 
 **Emotions.** Chirada most often feels focused competence, patient determination, professional assessment of how a given situation might be leveraged, and measured irritation when others disrupt a surveillance operation she has been running for weeks.
 
-**Motivations.** Chirada wants to recover the Second Eye of the Stone of Golorr for what remains of Gralhund House interests, track the movements of whoever holds the Stone, and complete the mission described in the Missive from Castle Ward without becoming another casualty of the Grand Game.
+**Motivations.** Chirada wants to recover the Eye of the Stone of Golorr she believes the Zhentarim took, for what remains of Gralhund House interests, track the movements of whoever holds the Stone, and complete the mission described in the Missive from Castle Ward without becoming another casualty of the Grand Game.
 
 **Inspirations.** When playing Chirada, channel George Smiley (*Tinker Tailor Soldier Spy*), Maya (*Zero Dark Thirty*), and Melinda May (*Agents of S.H.I.E.L.D.*).
 

@@ -3,7 +3,7 @@
 > [!gamemaster]**Gamemaster's Summary**
 >
 > - *Lightfoot Halfling wererat, Neutral*. Stat block: **Wererat**, used in halfling form unless a Shunner falls.
-> - **Affiliation:** Independent (adversary). Leader of the Shard Shunners, based in the Field Ward.
+> - **Affiliation:** Independent (adversary). Leader of the Shard Shunners, based in the Field Ward, with a second hideout in a halfling-owned hostel on Spices Street in the Dock Ward.
 > - **Featured in:** **Trollskull Alley**, **The Missing Snobeedle**, **The Doppelganger Problem**, **The Shard Shunners**
 >
 > Kelso is a compact halfling with a scar along his jaw and the manners of a cheerful undertaker. He is a middleman. He buys stolen information and goods and sells them to whoever pays, and he never names a customer to anyone.
