@@ -3,7 +3,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - *Illuskan human moneylender, chaotic good*. Stat block: **Mirt (WDH custom block, CR 9; see the Harpers mechanics reference)**.
+> - *Tethyrian human moneylender, chaotic good*. Stat block: **Mirt (WDH custom block, CR 9; see the Harpers mechanics reference)**.
 > - **Affiliation:** Harpers; Masked Lord of Waterdeep
 > - **Featured in:** **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**, **The Talking Mare**, **The Dead Drop**, **The Doppelganger Auditions**, **A Friend's House**, **The Sleeping Asset**, **The Stone's Other Master**, **The Doppelganger Problem**, **The Dreamer's Reach**
 

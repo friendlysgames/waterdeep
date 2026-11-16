@@ -35,7 +35,7 @@ Savra comes to Trollskull Manor at the third bell on the morning after a member 
 
 > [!social]**The Knight on the Step**
 >
-> Savra Belabranta (Lawful Good, Human, she/her) :: the Order's knight in Waterdeep, a woman in her late twenties with dark hair worn back and a strong jaw.
+> Savra Belabranta (Neutral Good, Human, she/her) :: the Order's knight in Waterdeep, a woman in her late twenties with dark hair worn back and a strong jaw.
 >
 > Savra pauses before every serious answer and says exactly what she knows. She swears rarely, and only at wrongdoing. She nods once at an honest answer and does not nod at anything else. She has no wish to praise the party before it has done the work.
 >

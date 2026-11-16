@@ -64,7 +64,7 @@ For Doom Raiders members, see the **Davil's Arrest** Event (s01) for the full sc
 
 If the party participated in the confrontation at Gralhund Villa (directly, not secondhand), a flying snake finds them within forty-eight hours. On yellowed paper, in small, deliberate letters:
 
-*"I have a business matter to discuss. Ahghairon's Statue, City of the Dead, after dark. Come alone or don't come."*
+*"I have a business matter to discuss. Ahghairon's Statue, City of the Dead, at highsun tomorrow. Come alone or don't come."*
 
 Signed with a symbol: an hourglass with a coin at the bottom.
 

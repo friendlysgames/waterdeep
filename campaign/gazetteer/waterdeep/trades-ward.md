@@ -53,7 +53,7 @@ The Trades Ward is the city's shop floor, a ward of guildhalls, stalls and balco
 - Hook: a Waterdhavian who knows the ward will tell the story to a visiting wizard (see **Azuth**). No source gives a rule for how the magic goes wrong. [research]
 
 **Weirdbottle's Concoctions** — Potion and elixir shop
-- A cramped little shop on a side street, run by Skeemo Weirdbottle. Most of its potions and elixirs are nonmagical, and Dragon Heist names it as a source of discounted potions and poisons for Zhentarim characters.
+- A cramped little shop on a side street, run by Skeemo Weirdbottle. Most of its potions and elixirs are nonmagical, and Dragon Heist says adventurers can buy discounted potions and poisons there.
 - Hook: **The Poisoned Delivery** sends Doom Raiders members here to collect a coffer, and Skeemo knows each of them by name. In **Silencing Skeemo** he bolts from the shop with a satchel and a hired dray waiting.
 
 > **[GM]**

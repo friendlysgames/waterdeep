@@ -24,7 +24,7 @@ In Waterdeep, the Harpers maintain strong ties to the city's intellectual and ar
 
 ## Key Members
 
-- **Mirt** — Illuskan human moneylender; Harper senior operative, Masked Lord, Laeral Silverhand's closest advisor. See the **Mirt** page in Notable Figures.
+- **Mirt** — Tethyrian human moneylender; Harper senior operative, Masked Lord, Laeral Silverhand's closest advisor. See the **Mirt** page in Notable Figures.
 - **Remallia "Remi" Haventree** — Sun elf noblewoman; de facto Harper leader in Waterdeep, manages intelligence from House Ulbrinter. See the **Remallia "Remi" Haventree** page in Notable Figures.
 - **Mattrim "Threestrings" Mereg** — Human Harper spy embedded at the Yawning Portal under cover as a mediocre bard; the only person in Waterdeep who knows Bonnie's true nature. See the **Mattrim "Threestrings" Mereg** page in Notable Figures.
 - **Bonnie** — Doppelganger; leader of a five-doppelganger operation at the Yawning Portal; potential Harper operative after Mission 3. See the **Bonnie** page in Notable Figures.

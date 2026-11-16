@@ -44,7 +44,7 @@ Mirt has rented the room for a tenday, in cash, under no name. The tenement stai
 
 > [!social]**Mirt, the Old Wolf at Work**
 >
-> Mirt (Chaotic Good, Illuskan Human, he/him) :: a big man in plain brown wool, tired, and in his business gear.
+> Mirt (Chaotic Good, Tethyrian Human, he/him) :: a big man in plain brown wool, tired, and in his business gear.
 >
 > He uses short, complete sentences and does not swear or laugh. His hands rest flat on the table, and he tilts his head when he decides how much to say. Anyone who knows him notices the sealed bottle: he always refills a glass, and tonight he has not touched it.
 >

@@ -52,7 +52,7 @@ If **Remallia Harper Contact Known** is marked, read or paraphrase the following
 
 > [!social]**The Old Wolf on Business**
 >
-> Mirt (Chaotic Good, Illuskan Human, he/him) :: a huge, gray-bearded moneylender and senior Harper who holds a second office he does not mention.
+> Mirt (Chaotic Good, Tethyrian Human, he/him) :: a huge, gray-bearded moneylender and senior Harper who holds a second office he does not mention.
 >
 > Mirt speaks in short, complete sentences and tilts his head when he decides how much to say. He refills a glass whenever one runs low, and he does not joke tonight. The Brightcandle dinner is a loan with terms, and he gives it that way.
 >

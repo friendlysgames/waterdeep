@@ -44,7 +44,7 @@ Every qualifying member is invited on their own account, so several members who 
 
 > [!social]**The Knight of the Gauntlet**
 >
-> Savra Belabranta (Lawful Good, Human, she/her) :: a knight in her late twenties with a strong jaw and her dark hair worn back. She wears a dark riding coat and a silver gauntlet pin at her collar.
+> Savra Belabranta (Neutral Good, Human, she/her) :: a knight in her late twenties with a strong jaw and her dark hair worn back. She wears a dark riding coat and a silver gauntlet pin at her collar.
 >
 > Savra stands for the whole meeting and states the hard fact before the reason. She pauses before every serious answer and gives a single measured nod only to answers she believes are honest. She calls Tyr "the Maimed God" and swears rarely, in short bursts aimed at wrongdoing.
 >

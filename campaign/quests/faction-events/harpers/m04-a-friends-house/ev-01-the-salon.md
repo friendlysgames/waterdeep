@@ -44,7 +44,7 @@ Mirt is at his corner table in the Yawning Portal at 17:00, and he does not swea
 
 > [!social]**The Old Wolf on Business**
 >
-> Mirt (Chaotic Good, Illuskan Human, he/him) :: the Old Wolf in his business gear, short and exact, with a full pitcher he keeps refilling.
+> Mirt (Chaotic Good, Tethyrian Human, he/him) :: the Old Wolf in his business gear, short and exact, with a full pitcher he keeps refilling.
 >
 > Mirt gives the brief and answers what he is asked. He does not joke and does not swear. If a member pushes on a point he has already settled, he repeats the answer once and refills the cup.
 >

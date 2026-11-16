@@ -45,7 +45,7 @@ He lets the member eat before he says anything else. When the plates are cleared
 
 > [!social]**The Old Wolf on Business**
 >
-> Mirt (Chaotic Good, Illuskan Human, he/him) :: a huge, gray-bearded moneylender who is a Harper and holds a second office he does not mention.
+> Mirt (Chaotic Good, Tethyrian Human, he/him) :: a huge, gray-bearded moneylender who is a Harper and holds a second office he does not mention.
 >
 > Mirt is level and direct tonight. He tilts his head while he thinks and refills a glass whenever one runs low. He speaks in short, complete sentences, and the absence of his usual bawdy talk is deliberate. He wants the member to understand that the rank is a working tool.
 >

@@ -45,7 +45,7 @@ When the members reach the upstairs room, read the following aloud:
 
 > [!social]**The Moneylender Upstairs**
 >
-> Mirt (Chaotic Good, Illuskan Human, he/him) :: a senior Harper who plays the jovial moneylender downstairs and drops the act when the door closes.
+> Mirt (Chaotic Good, Tethyrian Human, he/him) :: a senior Harper who plays the jovial moneylender downstairs and drops the act when the door closes.
 >
 > Mirt uses his business voice: short sentences, no swearing, and a glass refilled whenever one runs low. He calls the members "lad" and "lass". He does not name the doppelganger he suspects, because he does not want the members to follow his guess.
 >

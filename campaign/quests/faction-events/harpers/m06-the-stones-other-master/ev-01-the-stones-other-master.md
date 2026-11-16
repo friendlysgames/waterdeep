@@ -37,7 +37,7 @@ Mirt reaches Trollskull Manor at 00:15 and has the night staff wake the Harper m
 
 > [!social]**Mirt, the Old Wolf at Work**
 >
-> Mirt (Chaotic Good, Illuskan Human, he/him) :: a big man in plain brown wool, tired, and in his business manner.
+> Mirt (Chaotic Good, Tethyrian Human, he/him) :: a big man in plain brown wool, tired, and in his business manner.
 >
 > Mirt speaks in short, complete sentences tonight. He does not swear or laugh, and he tilts his head when he decides how much to say. He answers each question once and does not repeat himself.
 >

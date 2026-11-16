@@ -71,7 +71,7 @@ If the candidates leave her on the step, she repeats the offer once and then wai
 
 > [!social]**The Knight of the Gauntlet**
 >
-> Savra Belabranta (Lawful Good, Human, she/her) :: a knight in her late twenties who looks older. She wears her dark hair back, has a strong jaw and speaks in a measured way.
+> Savra Belabranta (Neutral Good, Human, she/her) :: a knight in her late twenties who looks older. She wears her dark hair back, has a strong jaw and speaks in a measured way.
 >
 > Savra is Friendly but guarded, and she pauses before every serious answer. She gives the hard fact first and the reasoning after it, and she softens nothing. Her warmth shows in what she does, and she gives a single measured nod to an honest answer. She calls Tyr "the Maimed God" and swears rarely, in short bursts aimed at wrongdoing.
 >

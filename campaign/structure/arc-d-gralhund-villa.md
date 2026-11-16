@@ -321,7 +321,7 @@ Party members with visible Zhentarim associations should keep a low profile for 
 
 Tashlyn's first direct contact: "Keep a low profile. I'll be in touch." She does not explain what that means.
 
-*Istrid Horn's Approach (Conditional — Party Was Directly Involved in the Raid).* If the party participated in the villa confrontation, a black flying snake finds them within forty-eight hours of leaving the scene. It carries a handwritten note on yellowed paper: *"I have a business matter to discuss. Ahghairon's Statue, City of the Dead, after dark. Come alone or don't come."* Signed with a symbol: an hourglass with a coin at the bottom.
+*Istrid Horn's Approach (Conditional — Party Was Directly Involved in the Raid).* If the party participated in the villa confrontation, a black flying snake finds them within forty-eight hours of leaving the scene. It carries a handwritten note on yellowed paper: *"I have a business matter to discuss. Ahghairon's Statue, City of the Dead, at highsun tomorrow. Come alone or don't come."* Signed with a symbol: an hourglass with a coin at the bottom.
 
 Istrid Horn is a shield dwarf fence and unlicensed moneylender who holds the title **Master of Trade and Coin** within the Doom Raiders. The Watch's crackdown has her terrified — she has outstanding loans to a half-dozen city officials, documented in a ledger she cannot afford to have found. She wants the party to hide her, or destroy the ledger, for a tenday, while she makes arrangements to relocate to Baldur's Gate.
 

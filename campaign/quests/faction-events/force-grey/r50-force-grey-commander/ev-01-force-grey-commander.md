@@ -51,7 +51,7 @@ The member climbs on their own. The door opens as they reach the steps, as it di
 
 > [!social]**The Blackstaff at Her Desk**
 >
-> Vajra Safahr (Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, who has arranged this morning down to the hour.
+> Vajra Safahr (Lawful Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, who has arranged this morning down to the hour.
 >
 > Vajra is Friendly toward the member, in her way, and she stands throughout the meeting. She gives her conclusion first, with a sentence or two of reasons, and she swears casually in her own study and keeps it clean in public. She changes the subject when anyone remarks on her youth.
 >

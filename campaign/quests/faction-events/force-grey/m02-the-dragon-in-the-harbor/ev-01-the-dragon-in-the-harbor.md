@@ -104,7 +104,7 @@ On any other date, read or paraphrase the following:
 
 > [!social]**The Blackstaff at Her Desk**
 >
-> Vajra Safahr (Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, who briefs on her feet and wants an assessment, not a fight.
+> Vajra Safahr (Lawful Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, who briefs on her feet and wants an assessment, not a fight.
 >
 > Vajra does not sit, does not offer tea and does not repeat herself. She wants to know what the dragon intends and whether it will stay, and she asks for nothing else. In company she stays barely clean when she swears.
 >

@@ -48,7 +48,7 @@ A member marked **Quietly Reassigned** receives the same note from Brother Halli
 
 > [!social]**The Knight at the Map Table**
 >
-> Savra Belabranta (Lawful Good, Human, she/her) :: the Order's knight in Waterdeep, a woman in her late twenties in a dark riding coat.
+> Savra Belabranta (Neutral Good, Human, she/her) :: the Order's knight in Waterdeep, a woman in her late twenties in a dark riding coat.
 >
 > Savra is Friendly and exact. She pauses before every serious answer, says "I'll tell you plainly" and gives a single nod, but only to an honest answer. She swears rarely and at wrongdoing. She will not ask the party to break the law, and she will not pretend that the law leaves them only one road.
 >
