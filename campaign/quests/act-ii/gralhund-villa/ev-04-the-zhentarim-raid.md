@@ -8,7 +8,7 @@
 >
 > - The ten-beat raid timeline plays out with or without direct PC intervention.
 > - Three factions collide: Floxin's Zhentarim, the Gralhund guards, and Xanathar's gazers observing from the perimeter.
-> - Jarlaxle's BD team fires in parallel to this timeline if *Jarlaxle Informed* is set.
+> - Jarlaxle's BD team fires in parallel to this timeline if **Jarlaxle Informed** is marked.
 > - The party can enter the timeline at any beat — early arrival means fewer bodies; late arrival means more chaos and better cover.
 > - This event feeds directly into ev-05 (Floxin at G15) and ev-07 (Night Confrontation in G16).
 >
@@ -69,9 +69,9 @@ This is the body count at Beat 10, the default night entry point. If the party a
 | G19 | 9 commoners | Barricaded with improvised clubs; not hostile to party |
 | G2 (Yard) | Hurv Taldred (shadow) + 2 mastiff-shadows | Transformed at nightfall |
 
-### Jarlaxle's Team in Motion (Conditional — *Jarlaxle Informed*)
+### Jarlaxle's Team in Motion (Conditional — **Jarlaxle Informed**)
 
-If *Jarlaxle Informed* is set, this sequence fires concurrent with Beats 8–10 once the raid is fully committed:
+If **Jarlaxle Informed** is marked, this sequence fires concurrent with Beats 8–10 once the raid is fully committed:
 
 1. Jarlaxle's drow gunslingers and two drow cross the rooftops and take positions at the exterior of G13, with sightlines through the upstairs windows.
 2. Fel'rekt Lafeen and four drow drop to the Balcony (G17) and enter the upper floor.
@@ -94,21 +94,16 @@ Floxin's plan can succeed or collapse based on party action.
 
 ### Concluding the Event
 
-#### Floxin Alive: True / False
-Record whether Floxin survived the raid. If True, he becomes available as a Manshoon response team leader in **Kolat Towers**.
-
-#### Floxin Captured: True / False
-Record whether the party took Floxin into custody. If True, he provides nothing useful about his master. Only meaningful when *Floxin Alive* is True.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Floxin Alive** — mark when Floxin survives the raid; read by **Kolat Towers**, where he becomes available as a Manshoon response team leader.
+> - **Floxin Captured** — mark when the party takes Floxin into custody, only when **Floxin Alive** is also marked; a captured Floxin provides nothing useful about his master.
+
+> [!gamemaster]**Next Steps**
 >
 > Proceed to the **The Guest Suite** Event (ev-05) to handle Floxin at G15 and Orond in G15b.
 >
 > After ev-05, proceed to the **The Gralhund Confrontation — Night** Event (ev-07).
->
-> #### Milestone: None
 >
 > This Event awards no Milestone Points.
 

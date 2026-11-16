@@ -84,24 +84,17 @@ If Yalah judges the confrontation has turned against her and the Stone is about 
 
 ### Concluding the Event
 
-#### Balcony Entry Used: True / False
-The party entered via the Coach House roofline to the G17 balcony. If True, they bypassed the raid and proceed directly to ev-07 without going through ev-04.
-
-#### Pantry Entry Used: True / False
-The party entered via the already-open pantry door. If True, they avoided the main yard encounter and begin the raid in the kitchen corridor.
-
-#### Gazers Active at Night: True / False
-Carry forward from *Gazers Spotted* in ev-02. If False, Xanathar has an unrecorded record of the party entering the building during the raid.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Balcony Entry Used** — mark when the party enters via the Coach House roofline to the G17 balcony; the party bypasses the raid and proceeds directly to ev-07 without going through ev-04.
+> - **Pantry Entry Used** — mark when the party enters via the already-open pantry door; the party avoids the main yard encounter and begins the raid in the kitchen corridor.
+> - **Gazers Active at Night** — carry forward from **Gazers Spotted** in ev-02: mark it when that outcome is marked. If it is not marked, Xanathar has an unrecorded record of the party entering the building during the raid.
+
+> [!gamemaster]**Next Steps**
 >
 > Proceed to **The Zhentarim Raid** (ev-04) to run the raid timeline from the appropriate beat.
 >
 > If the party entered via the balcony and reached G16 without entering the raid, proceed directly to **The Gralhund Confrontation — Night** (ev-07).
->
-> #### Milestone: None
 >
 > This Event awards no Milestone Points.
 

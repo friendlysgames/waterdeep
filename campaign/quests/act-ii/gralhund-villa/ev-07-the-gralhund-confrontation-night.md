@@ -10,7 +10,7 @@
 > - The raid is still in progress — G13 is active combat, the building is not secure.
 > - Yalah is in emergency mode: the warmth is gone, the negotiating window is compressed, but the same leverage points work.
 > - Hrabbaz acts on Yalah's judgment, not his own. He will not fight against her will.
-> - If *Jarlaxle Informed* is set, the BD assault fires if it has not already fired during ev-04.
+> - If **Jarlaxle Informed** is marked, the BD assault fires if it has not already fired during ev-04.
 > - Stone recovery paths: party extracts directly, BD takes it (Fel'rekt, conditional), Zhent survivor seizes it during raid chaos, or Yalah orders the nimblewright to flee with it.
 >
 > **Trigger:** Night path. Party reaches G16 after ev-04 (Zhentarim Raid) and ev-05 (The Guest Suite).
@@ -55,7 +55,7 @@ If the GM wants to add pressure without adding combatants: have sounds escalate 
 
 Hrabbaz is not a negotiator. He has been paid to stand beside a door, and he will stand there. He does not initiate; he responds to Yalah's read. If Yalah says *stop*, he stops. If she says *now*, he acts. There is no version of this encounter where Hrabbaz fights against Yalah's will. He will absolutely fight for her if she gives the word, and he will not hesitate or pull his punches.
 
-### If Jarlaxle's Team Fires (Conditional — *Jarlaxle Informed*)
+### If Jarlaxle's Team Fires (Conditional — **Jarlaxle Informed**)
 
 If the BD sequence from ev-04 did not already fire (the party arrived at G16 before Fel'rekt reached it), it fires now. Gunslingers take positions at G13's exterior windows and fire through the glass — guards at the stairhead, neutralized. Fel'rekt Lafeen drops to the balcony (G17) with four drow.
 
@@ -71,13 +71,13 @@ He gestures toward G18. Then he looks at the party and waits.
 
 **Three paths:**
 
-**Cooperate.** The party stands aside and lets Fel'rekt work. He acknowledges this with a nod and moves to negotiate through the G18 door. When Yalah surrenders the Stone, he takes it — then turns back to the party: *"Jarlaxle remembers his debts. When this city decides what to do with half a million gold dragons, someone who was helpful tonight will find the doors easier to open."* He exits via the balcony. *Stone Secured: False.* The party receives an open invitation to the Sea Maidens Faire at any time — Fel'rekt's word, not a written note.
+**Cooperate.** The party stands aside and lets Fel'rekt work. He acknowledges this with a nod and moves to negotiate through the G18 door. When Yalah surrenders the Stone, he takes it — then turns back to the party: *"Jarlaxle remembers his debts. When this city decides what to do with half a million gold dragons, someone who was helpful tonight will find the doors easier to open."* He exits via the balcony. Do not mark **Stone Secured**. The party receives an open invitation to the Sea Maidens Faire at any time — Fel'rekt's word, not a written note.
 
 **Negotiate.** The party wants something in exchange for standing aside — information, a cut, a guarantee. DC 13 Persuasion. On a success: Fel'rekt provides one piece of intelligence the party does not yet have (GM's choice from: the Stone's second Eye location, Yalah's Asmodean contact in Castle Ward, or Floxin's dead-drop locations). On a failure: he declines without heat — *"The offer stands anyway. Stand aside or don't."* — and proceeds regardless.
 
 **Resist.** The party tries to stop him or take the Stone themselves. Fel'rekt does not argue: *"Unfortunate."* He sends two drow to hold the party at the balcony while he works the G18 door. This is a blocking action, not a kill order — the drow fight to restrain, not to drop anyone below 0. If the party breaks through, Fel'rekt abandons the Stone negotiation and retreats via the balcony empty-handed. The Stone remains with Yalah.
 
-**Fel'rekt negotiates with Yalah regardless** — unless the party is actively preventing it. *"The Stone, Lady Gralhund. That is all I am here for."* If she surrenders the Stone to Fel'rekt, set *Stone Secured: False* and proceed to ev-08 (the party may give chase) or ev-09 (if the party chooses not to pursue).
+**Fel'rekt negotiates with Yalah regardless** — unless the party is actively preventing it. *"The Stone, Lady Gralhund. That is all I am here for."* If she surrenders the Stone to Fel'rekt, do not mark **Stone Secured**, and proceed to ev-08 (the party may give chase) or ev-09 (if the party chooses not to pursue).
 
 #### BD Operative in the Party
 
@@ -89,7 +89,7 @@ He and his team wait at G17, visible to anyone inside G16. Yalah can see four ar
 
 **If the negotiation succeeds:** The party takes the Stone. Fel'rekt nods from the balcony and withdraws with his team without a word.
 
-**If the negotiation is failing** — the party has exhausted their leverage, a Persuasion check has failed, or Yalah has spoken the command word for the nimblewright — Fel'rekt enters G16 and addresses Yalah directly, not the party: *"Lady Gralhund. Consider your next choice carefully."* His presence alone tips her calculation. If she still refuses, the confrontation becomes combat. Fel'rekt fights to reach Yalah, not to harm the party. Whoever reaches her first takes the Stone. Set *Stone Secured: True* if the party holds it, or *Stone Secured: False* if BD does.
+**If the negotiation is failing** — the party has exhausted their leverage, a Persuasion check has failed, or Yalah has spoken the command word for the nimblewright — Fel'rekt enters G16 and addresses Yalah directly, not the party: *"Lady Gralhund. Consider your next choice carefully."* His presence alone tips her calculation. If she still refuses, the confrontation becomes combat. Fel'rekt fights to reach Yalah, not to harm the party. Whoever reaches her first takes the Stone. Mark **Stone Secured** if the party holds it. Do not mark it if BD does.
 
 If the BD sequence already fired in ev-04 and Yalah already surrendered the Stone to Fel'rekt, this event is moot — proceed to ev-08 or ev-09 based on whether the party pursues.
 
@@ -116,18 +116,15 @@ If truly cornered, with Hrabbaz down, the Stone about to be taken, and nowhere t
 
 ### Concluding the Event
 
-#### Stone Secured: True / False
-Record whether the party holds the Stone at the close of this confrontation. True → proceed to ev-09. False → proceed to ev-08.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Stone Secured** — mark when the party holds the Stone at the close of this confrontation; read by ev-08, which fires only when it is not marked, and by ev-09 (the Stone status check, the Jarlaxle package and the Bregan D'aerthe debrief). If it is not marked, proceed to ev-08.
+
+> [!gamemaster]**Next Steps**
 >
 > If the party holds the Stone, proceed to the **Aftermath** Event (ev-09).
 >
-> If the Stone escaped — with the nimblewright, with BD, or with a Zhent survivor — proceed to the **The Rooftop Chase** Event (ev-08).
->
-> #### Milestone: The Confrontation — 1 Point
+> If the Stone escaped, with the nimblewright, with BD or with a Zhent survivor, proceed to the **The Rooftop Chase** Event (ev-08).
 >
 > The party engaging the confrontation with Lady Yalah Gralhund in G16 awards 1 Milestone Point. Cumulative total: 8. This milestone fires here, in ev-07, for parties on the night path. It does not fire in ev-06.
 

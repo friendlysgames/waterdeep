@@ -43,48 +43,50 @@
 **Lif Appeasement Branch:**
 ```
 ev-01: Party behavior
-  ├── Respectful → Appeasement track begins (resolves ev-06: "Lif Appeased")
-  └── Hostile → Stage 3 combat (resolves ev-01: "Lif Destroyed")
+  ├── Respectful → Appeasement track begins (resolves ev-06: mark Lif Appeased)
+  └── Hostile → Stage 3 combat (resolves ev-01: mark Lif Destroyed)
 ```
 
 **BD Surveillance Branch:**
 ```
 ev-03: Ryvarra spotted (optional)
   └── ev-04: Surveillance escalates
-       ├── Report to Watch → "BD Contact Severed" for each reporting character — no further BD recruitment for them
-       └── Confront or ignore → J.B. Nevercott arrives → "BD Acknowledged"
+       ├── Report to Watch → mark BD Contact Severed for each reporting character — no further BD recruitment for them
+       └── Confront or ignore → J.B. Nevercott arrives → mark BD Acknowledged
 ```
 
 **Nimblewright Branch:**
 ```
 ev-07: Procession observation
-  ├── DC 14 Perception + DC 16 Arcana → "Nimblewright: Noticed"
-  └── Miss either check → "Nimblewright: Missed"
+  ├── DC 14 Perception + DC 16 Arcana → mark Nimblewright Noticed
+  └── Miss either check → Nimblewright Noticed not marked
           → Fireball opens cold vs. corroborated
 ```
 
 **Fireball Victim Selection:**
 ```
 GM observation runs: ev-01 → ev-02 → ev-03 → ev-04 → ev-05 → ev-06
-  └── ev-07: "Fireball Victim Designated: [NPC]" must be recorded before **The Twin Parades** ends
+  └── ev-07: Fireball Victim Designated (with the NPC's name) must be marked before **The Twin Parades** ends
 ```
 
-## Attunements Set in This Quest
+## Event Outcomes Marked in This Quest
 
-| Attunement | Set At | Read By |
+| Event Outcome | Marked At | Read By |
 |---|---|---|
 | Lif Appeased | ev-06 | the **Trollskull Manor** guide (bartender mechanics); Fireball (Spirit Haunting) |
 | Lif Destroyed | ev-01 | the **Trollskull Manor** guide (no bartender line); Fireball (Spirit Haunting absent) |
 | Sewer Grate Documented | ev-02 | Fireball (response team sewer approach) |
 | Ryvarra Identified | ev-03 | ev-04 (BD recruitment entry framing) |
 | Two Zhentarims Known | ev-03 | ev-04 (Doom Raiders enrollment context) |
-| Faction Joined: [Name] | ev-04 | the **Factions** guide pages (missions); Faction Outposts (outpost access) |
+| Harpers Joined, Force Grey Joined, Doom Raiders Joined, Bregan D'aerthe Joined | ev-04 | the **Factions** guide pages (missions); Faction Outposts (outpost access) |
+| Lords' Alliance Joined, Emerald Enclave Joined, Order of the Gauntlet Joined (per character) | the faction's First Meeting | the **Factions** guide pages (missions); Faction Outposts (outpost access) |
 | BD Acknowledged | ev-04 | Sea Maidens Faire (Zardoz relationship) |
-| BD Contact Severed (per character) | ev-04 | Sea Maidens Faire (no BD relationship for that character) |
-| Meloon Met (Field of Triumph) | ev-05 | Force Grey Mission 3 |
-| Xanathar Token: Kept/Discarded/Reported | ev-05 | Faction Outposts, Xanathar's Lair |
+| BD Contact Severed (per character) | the Bregan D'aerthe First Meeting | Contact Severed; Sea Maidens Faire (no BD relationship for that character) |
+| Meloon Met | ev-05 | Force Grey Mission 3 |
+| Xanathar Token Kept | ev-05 | Xanathar's Lair (intelligence briefing) |
+| Xanathar Token Discarded | ev-05 | none |
+| Xanathar Token Reported | ev-05 | Faction Outposts (intelligence-gathering phase) |
 | Ammalia Cassalanter Met | ev-06 | Cassalanter Villa (entry disposition) |
 | Undermountain Thread Activated | ev-06 | Xanathar's Lair (intelligence briefing depth) |
-| Nimblewright: Noticed | ev-07 | Fireball (corroboration vs. cold open) |
-| Nimblewright: Missed | ev-07 | Fireball (Renaer's account is first data point) |
-| Fireball Victim Designated: [NPC] | ev-07 | Fireball (opening beat) |
+| Nimblewright Noticed | ev-07 | Fireball (corroboration vs. cold open when not marked) |
+| Fireball Victim Designated (with NPC name) | ev-07 | Fireball (opening beat) |

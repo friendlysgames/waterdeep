@@ -36,11 +36,11 @@ One of the processions includes a mechanical figure among its performers — mov
 
 The figure is visible for approximately two minutes before the procession moves on. No immediate consequence.
 
-| Check Result | Attunement |
+| Check Result | Event Outcome |
 |---|---|
-| Both checks pass | "Nimblewright: Noticed" — Fireball opens with immediate corroboration of Renaer's account |
-| Only Perception passes | "Nimblewright: Noticed" — party saw the mechanical figure but cannot name it |
-| Neither check passes | "Nimblewright: Missed" — Fireball's nimblewright thread opens cold; Renaer's account is the first data point |
+| Both checks pass | Mark **Nimblewright Noticed**. Fireball opens with immediate corroboration of Renaer's account |
+| Only Perception passes | Mark **Nimblewright Noticed**. The party saw the mechanical figure but cannot name it |
+| Neither check passes | Do not mark **Nimblewright Noticed**. Fireball's nimblewright thread opens cold, and Renaer's account is the first data point |
 
 This is pure Fireball foreshadowing. There is nothing to investigate here; the procession moves on.
 
@@ -71,7 +71,7 @@ Before the Event ends, the GM must designate the fireball victim. The quest has 
 
 The victim is whoever the GM watched become real to the table. Cross-ref the **Structural Rules** guide, The Fireball Victim section, for full guidance.
 
-Award **Fireball Victim Designated: [NPC Name]** attunement.
+Mark **Fireball Victim Designated** and record the chosen NPC's name with it.
 
 ### Festival Aftermath
 
@@ -81,13 +81,10 @@ This is Emmek's Stage 4 misfiring. Kelso targeted the wrong building. Emmek know
 
 ### Concluding the Event
 
-#### Nimblewright Noticed: True / False
-
-Recorded. Fireball reads this attunement to determine whether the party enters the investigation with a prior sighting corroborating Renaer's account, or cold.
-
-#### Fireball Victim Designated: True / False
-
-Recorded. Fireball reads this attunement in its opening beat. The GM notes which NPC was designated in their own session notes.
+> [!gamemaster]**Event Outcomes**
+>
+> - **Nimblewright Noticed** — mark when the Perception check on the mechanical figure passes. Read by **Fireball!**, which decides whether the party enters the investigation with a prior sighting corroborating Renaer's account, or cold. If it is not marked, the investigation opens cold.
+> - **Fireball Victim Designated** — mark with the chosen NPC's name when the GM designates the victim, and note the name in session notes. Read by **Fireball!** in its opening beat.
 
 > **[GM]**
 >

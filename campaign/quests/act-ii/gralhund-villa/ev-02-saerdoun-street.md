@@ -55,7 +55,7 @@ If the party marked **Jarlaxle Informed** in **Fireball!**, Fel'rekt Lafeen's te
 
 Ground floor: Fel'rekt and two drow at a front-room watch post. Top floor: two drow gunslingers and six additional drow with a direct sightline to the villa's upper windows. *A Directive from Jarlaxle* sits on a side table in the ground-floor room — recoverable if the party searches Artheyn Manor before or after the raid. Jarlaxle's team has full situational awareness of both other factions' watchers. They are waiting for an opportunity, not a trigger.
 
-If this condition is not set, Artheyn Manor is empty.
+If **Jarlaxle Informed** is not marked, Artheyn Manor is empty.
 
 > **[GM]**
 >
