@@ -106,9 +106,9 @@ The deed is real. **Trollskull Manor** is real, non-operational, and now the par
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Floon Rescued** — mark when Floon is found alive in Q07 (1 hp) and survives the quest; read by **Trollskull Alley**, where he reappears as a regular. He doesn't know why he was taken. He thanks everyone and invites the party to drinks he cannot afford.
+> - **Floon Rescued** — mark when Floon is found alive in Q07 (1 hp) and survives the quest; shows in **Trollskull Alley**, where he reappears as a regular. He doesn't know why he was taken. He thanks everyone and invites the party to drinks he cannot afford.
 > - **Nihiloor Sighted** — mark when the party witnesses a mind flayer in the Guild's sewer cell. They don't yet know what it is. This Event Outcome pays off when the mind flayer's role in the Grand Game surfaces in **Xanathar's Lair**.
-> - **Trollskull Deed Accepted** — mark when the party accepts the deed and holds legal title to a derelict tavern at 10 Trollskull Alley, North Ward; read by **Trollskull Alley**, which begins with this deed in hand.
+> - **Trollskull Deed Accepted** — mark when the party accepts the deed and holds legal title to a derelict tavern at 10 Trollskull Alley, North Ward; shows in **Trollskull Alley**, which begins with this deed in hand.
 
 > [!gamemaster]**Next Steps**
 >

@@ -122,24 +122,16 @@ The persona drops. Hat removed, quieter smile, plain speech. He offers the compl
 
 ### Concluding the Event
 
-#### Jarlaxle Informed: True / False
-The party spoke directly with Jarlaxle (as Zord or revealed). He already knows of the Stone, the Eyes and the vault, and has since he reached Waterdeep, so the conversation tells him nothing new; this records the party's contact. True = he deploys BD agents to Gralhund Villa before the party arrives. Read by Gralhund Villa (faction interaction matrix; *Jarlaxle Informed* trigger).
-
-#### Nimblewright Ledger Stolen: True / False
-The party stole seller records from the Heartbreaker or Eyecatcher. True = Jarlaxle discovers the theft within 24 hours and does not deploy. Read by Gralhund Villa.
-
-#### Ledger Complete: True / False
-Record only when *Nimblewright Ledger Stolen* is True. True = records from the Eyecatcher (complete chain of sale). False = Heartbreaker only (partial). Read by Gralhund Villa (intelligence depth).
-
-#### Jarlaxle Unmasked (per character)
-Mark for each character who learns Zord's true name through **Who Zord Is**, and record the character's name. Read by every Bregan D'aerthe event (no Bregan D'aerthe speaker says "Jarlaxle" to a member until it is marked), by the Harper mission **A Friend's House** (a marked member knows the name behind Zord and that he wears personas), and by **Sea Maidens Faire**.
-
-#### Crystal Ball Accessed: True / False
-The party accessed the Scarlet Marpenoth's crystal ball footage. True = maximum intelligence; Jarlaxle discovers the access and does not deploy; is curious about who found the sub. Read by Gralhund Villa.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
+> Mark each outcome that occurs. Later events read them.
 >
-> #### Next Steps
+> - **Jarlaxle Informed** — mark when the party speaks directly with Jarlaxle (as Zord or revealed). He already knows of the Stone, the Eyes and the vault, and has since he reached Waterdeep, so the conversation tells him nothing new; this records the party's contact. When it is marked, he deploys BD agents to Gralhund Villa before the party arrives. Read by Gralhund Villa (faction interaction matrix; **Jarlaxle Informed** trigger).
+> - **Nimblewright Ledger Stolen** — mark when the party steals seller records from the Heartbreaker or Eyecatcher. When it is marked, Jarlaxle discovers the theft within 24 hours and does not deploy. Read by Gralhund Villa.
+> - **Ledger Complete** — mark only when **Nimblewright Ledger Stolen** is marked and the records come from the Eyecatcher (complete chain of sale). If they come from the Heartbreaker only (partial), do not mark it. Read by Gralhund Villa (intelligence depth).
+> - **Jarlaxle Unmasked (per character)** — mark for each character who learns Zord's true name through **Who Zord Is**, and record the character's name. Read by every Bregan D'aerthe event (no Bregan D'aerthe speaker says "Jarlaxle" to a member until it is marked), by the Harper mission **A Friend's House** (a marked member knows the name behind Zord and that he wears personas), and by **Sea Maidens Faire**.
+> - **Crystal Ball Accessed** — mark when the party accesses the Scarlet Marpenoth's crystal ball footage. This gives maximum intelligence. When it is marked, Jarlaxle discovers the access and does not deploy, and he is curious about who found the sub. Read by Gralhund Villa.
+
+> [!gamemaster]**Next Steps**
 >
 > Proceed to **Gralhund Villa: Gralhund Villa** after this event. The party now has the Gralhund name, address, and a window that is closing — Floxin's strike team arrives on Ches 24th at nightfall.
 >

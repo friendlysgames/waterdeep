@@ -11,9 +11,9 @@ START → ev-01: The Fireball
         ↓
         ev-03: The Nimblewright Hunt  ←── MILESTONE 2 (1 Point)
         │
-        ├── [Faire: Skipped] ──────────────────────────────→ Gralhund Villa: Gralhund Villa
+        ├── [Faire Visited First not marked] ──────────────→ Gralhund Villa: Gralhund Villa
         │
-        └── [Faire: Visited First]
+        └── [Faire Visited First marked]
               │
               ↓
               ev-04: The Sea Maidens Faire
@@ -25,9 +25,9 @@ Optional Events — available throughout the Fireball investigation window:
 
         ev-05: The Cassalanter Dinner     (available from Ches 23rd; invitation arrives day after blast)
         ev-06: The Death Mark             (available anytime; gated by tracking Dalakhar's movements)
-        ev-07: Kalain's Tower             (available from Ches 26th; gated by Kalain's Letter: Received)
+        ev-07: Kalain's Tower             (available from Ches 26th; gated by Kalain Letter Received)
 
-        ev-06 → [Kalain's Letter: Received] → ev-07
+        ev-06 → [Kalain Letter Received] → ev-07
 ```
 
 ---

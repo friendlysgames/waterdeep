@@ -110,8 +110,8 @@ Volo pushes through the settling crowd, steered to the party's table by Threestr
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Durnan Acknowledged** — mark when the party showed meaningful competence in the troll fight; read by **Trollskull Alley**, where Durnan is slightly more communicative and the Watch guards who know him give the party slightly more benefit of the doubt, and by the **Doom Raiders** First Meeting.
-> - **Yagra Courteous** — mark when the party helped Yagra in the brawl or talked the fight down; read by **Trollskull Alley**, where Yagra will not work against the party without cause, and by the **Doom Raiders** First Meeting. She will not pretend this was warmth, but she names Davil Starsong to the party.
+> - **Durnan Acknowledged** — mark when the party showed meaningful competence in the troll fight; read by the **Doom Raiders** First Meeting, and shows in **Trollskull Alley**, where Durnan is slightly more communicative and the Watch guards who know him give the party slightly more benefit of the doubt.
+> - **Yagra Courteous** — mark when the party helped Yagra in the brawl or talked the fight down; read by the **Doom Raiders** First Meeting, and shows in **Trollskull Alley**, where Yagra will not work against the party without cause. She will not pretend this was warmth, but she names Davil Starsong to the party.
 
 > [!gamemaster]**Next Steps**
 >

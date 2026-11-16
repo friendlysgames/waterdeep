@@ -80,8 +80,9 @@ A captured kenku repeats under DC 10 Charisma (Intimidation): "Follow the yellow
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Renaer Found** — mark when Renaer is found in Z02 and survives the quest; read by **Trollskull Alley** and later events, where he is a recurring contact. His account of the locket seizure tells the party the Zhentarim wanted the locket, but he cannot say why. The cell pried the locket open and found an Eye of the Stone of Golorr inside. The Guild's raid then carried the Eye out of the back office without knowing what it was, and the party can follow its trail in the **Xanathar Sewer Hideout** and **The Eyes of the Stone**.
+> - **Renaer Found** — mark when Renaer is found in Z02 and survives the quest; shows in **Trollskull Alley** and later events, where he is a recurring contact. His account of the locket seizure tells the party the Zhentarim wanted the locket, but he cannot say why. The cell pried the locket open and found an Eye of the Stone of Golorr inside. The Guild's raid then carried the Eye out of the back office without knowing what it was, and the party can follow its trail in the **Xanathar Sewer Hideout** and **The Eyes of the Stone**.
 > - **Warehouse Cleared** — mark when the kenku are neutralized (defeated, driven off, or subdued) and the party controls the warehouse. Any loot in Z03 (four paintings, fifteen silver trade bars) is then accessible without contest.
+
 > [!gamemaster]**Next Steps**
 >
 > With Revelation #3 established, the party proceeds to the **Xanathar Sewer Hideout** Event. The sewer grate is half a block east of the warehouse yard. Renaer offers to wait at the warehouse or accompany the party — he doesn't know what's in the sewers, but he wants Floon back.

@@ -13,7 +13,7 @@
 >
 > **Trigger:** The party accepts Ammalia's invitation. The invitation arrives by messenger within one day of the fireball. The dinner takes place the following evening.
 >
-> **Attunement read:** Ammalia Cassalanter Met *(from Trollskull Alley ev-06)* — if this is set, Ammalia references specific details from that visit. If not, she introduces herself warmly but without prior context.
+> **Event Outcome read:** **Ammalia Cassalanter Met** (from Trollskull Alley ev-06). If it is marked, Ammalia references specific details from that visit. If it is not marked, she introduces herself warmly but without prior context.
 >
 > For the villa layout, see the **Cassalanter Villa** journal.
 
@@ -73,23 +73,17 @@ The party declines outright, accuses the Cassalanters of involvement, or leaves 
 
 ### Concluding the Event
 
-#### Cassalanter Track A: True / False
-The party shared intelligence with Victoro — crime scene findings, the nimblewright, the Gralhund name. Cassalanters know the party's investigative depth entering Cassalanter Villa; alliance track opens.
-
-#### Cassalanter Track B: True / False
-The party deflected — polite misdirection or honest uncertainty. Victoro interprets it as operational caution; neither warmth nor frost entering the villa.
-
-#### Cassalanter Track C: True / False
-The party accepted the arrangement outright. Same as Track A plus a follow-up letter naming the vault as "Lord Dagult's Melairkyn project"; alliance track opens with one step already taken.
-
-#### Cassalanter Track D: True / False
-The party refused or treated the dinner as hostile. Cassalanter response teams briefed to watch them as unknown-hostile entering the villa; alliance track closed.
-
-Read by Cassalanter Villa (Cassalanter operational posture; alliance track availability; response team briefing). Only one track fires per play-through; the others are False.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
+> Mark the one outcome that matches how the party answered Victoro. Later events read it.
 >
-> #### Next Steps
+> - **Cassalanter Track A** — mark when the party shares intelligence with Victoro: crime scene findings, the nimblewright, the Gralhund name. The Cassalanters know the party's investigative depth entering Cassalanter Villa, and the alliance track opens.
+> - **Cassalanter Track B** — mark when the party deflects with polite misdirection or honest uncertainty. Victoro interprets it as operational caution, so the party meets neither warmth nor frost entering the villa.
+> - **Cassalanter Track C** — mark when the party accepts the arrangement outright. This is the same as Track A plus a follow-up letter naming the vault as "Lord Dagult's Melairkyn project", and the alliance track opens with one step already taken.
+> - **Cassalanter Track D** — mark when the party refuses or treats the dinner as hostile. Cassalanter response teams are briefed to watch them as unknown-hostile entering the villa, and the alliance track is closed.
+>
+> All four are read by Cassalanter Villa (Cassalanter operational posture; alliance track availability; response team briefing). Only one track is marked per play-through.
+
+> [!gamemaster]**Next Steps**
 >
 > This event has no narrative successor inside Fireball — it is a standalone optional scene available throughout the investigation window. After the dinner, the party returns to the investigation. If they have not yet visited the Faire (ev-04) or confirmed the Gralhund address (ev-03), those continue normally.
 >

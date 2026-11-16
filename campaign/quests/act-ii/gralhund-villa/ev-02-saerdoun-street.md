@@ -49,9 +49,9 @@ Four gazers positioned at cardinal points around the estate. Each success on the
 
 **If the party is spotted:** No immediate reaction. Xanathar now knows the party is involved. The gazers will follow anyone who exits the villa with something valuable — this activates their potential role in ev-08 if the Stone escapes.
 
-#### Jarlaxle's Team at Artheyn Manor (DC 14 Perception — conditional on *Jarlaxle Informed*)
+#### Jarlaxle's Team at Artheyn Manor (DC 14 Perception — conditional on **Jarlaxle Informed**)
 
-If the party set the *Jarlaxle Informed* attunement in **Fireball!**, Fel'rekt Lafeen's team occupies the empty Artheyn Manor directly across Saerdoun Street. The owner has relocated to the Moonshae Isles and the building is dark.
+If the party marked **Jarlaxle Informed** in **Fireball!**, Fel'rekt Lafeen's team occupies the empty Artheyn Manor directly across Saerdoun Street. The owner has relocated to the Moonshae Isles and the building is dark.
 
 Ground floor: Fel'rekt and two drow at a front-room watch post. Top floor: two drow gunslingers and six additional drow with a direct sightline to the villa's upper windows. *A Directive from Jarlaxle* sits on a side table in the ground-floor room — recoverable if the party searches Artheyn Manor before or after the raid. Jarlaxle's team has full situational awareness of both other factions' watchers. They are waiting for an opportunity, not a trigger.
 
@@ -85,26 +85,18 @@ The day/night choice should not feel like a coin flip. The GM should surface wha
 
 ### Concluding the Event
 
-#### Zhents Spotted: True / False
-Record whether the party identified the Zhentarim watchers on Saerdoun Street. Read by ev-04 — awareness of the raiding force shapes contingency decisions during the raid.
-
-#### Gazers Spotted: True / False
-Record whether the party identified Xanathar's gazers surveilling the villa. Read by ev-03c — if not spotted, Xanathar has an unrecorded record of the party entering during the raid.
-
-#### BD Team Spotted: True / False
-Record whether the party identified Bregan D'aerthe watchers near the villa. Read by ev-03 and ev-04 — BD awareness shapes the party's read on Jarlaxle's interest.
-
-#### Day Entry: True / False
-Record the party's entry timing. This is the branch that determines whether ev-03 or ev-04 fires next.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Zhents Spotted** — mark when the party identifies the Zhentarim watchers on Saerdoun Street; read by ev-04, where awareness of the raiding force shapes contingency decisions during the raid.
+> - **Gazers Spotted** — mark when the party identifies Xanathar's gazers surveilling the villa; read by ev-03c. If it is not marked, Xanathar has an unrecorded record of the party entering during the raid.
+> - **BD Team Spotted** — mark when the party identifies the Bregan D'aerthe watchers near the villa; read by ev-03 and ev-04, where BD awareness shapes the party's read on Jarlaxle's interest.
+> - **Day Entry** — mark when the party enters the villa before nightfall on Ches 24th; read by this Event's Next Steps, which route to ev-03 when it is marked and to ev-04 when it is not.
+
+> [!gamemaster]**Next Steps**
 >
 > **Day path:** Proceed to the **Daytime Infiltration** Event.
-> **Night path:** Proceed to the **The Zhentarim Raid** Event.
 >
-> #### Milestone: None
+> **Night path:** Proceed to the **The Zhentarim Raid** Event.
 >
 > This Event awards no Milestone Points.
 

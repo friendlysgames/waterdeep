@@ -12,7 +12,7 @@
 > - She reveals Victoro Cassalanter's recent visit — the first concrete Cassalanter-to-vault link.
 > - Lord Dagult's lockbox contains four items that together constitute some of the most valuable intelligence in the campaign.
 >
-> **Trigger:** The party has Kalain's letter (Kalain's Letter: Received from ev-06) and chooses to follow the address, OR the party visits the harbor district and hears about a reclusive painter who knew Neverember from an NPC referral.
+> **Trigger:** The party has Kalain's letter (**Kalain Letter Received** is marked, from ev-06) and chooses to follow the address, OR the party visits the harbor district and hears about a reclusive painter who knew Neverember from an NPC referral.
 
 ### Kalain's Tower
 
@@ -46,7 +46,7 @@ What she knows — and will eventually share, in pieces, without prompting:
 >
 > This is the first concrete in-campaign evidence that Victoro has been actively investigating the vault independently — not just in response to the fireball but for weeks prior. It confirms the dinner conversation's implication and explains why his intelligence is unusually specific. Cross-ref Cassalanter Villa: Victoro's research dossier.
 >
-> A party that received Track C or Track A from ev-05 (Cassalanter dinner) will recognize this as confirming what they already knew. A party that skipped ev-05 gains the Cassalanter connection here for the first time.
+> A party that marked **Cassalanter Track C** or **Cassalanter Track A** in ev-05 (Cassalanter dinner) will recognize this as confirming what they already knew. A party that skipped ev-05 gains the Cassalanter connection here for the first time.
 
 **DC 12 Charisma (Persuasion) — accessing the lockbox:** After the Cassalanter revelation, if the party asks about the papers Cassalanter was asking about, Kalain gestures toward a writing table in the corner without much concern. The lockbox is there. **DC 13 Dexterity (Thieves' Tools)** to open it; Kalain has the key and hands it over if asked and if the DC 14 check succeeded earlier.
 
@@ -68,15 +68,13 @@ The lockbox contains some of the most consequential intelligence in the entire c
 
 ### Concluding the Event
 
-#### Vault Opening Method Known: True / False
-The party has the Melairkyn notes: dragon scale + mithral hammer + sunlight = vault opens. Read by Vault of Dragons (ceremonial opening sequence, Scene 3).
-
-#### Eyes Letter Found: True / False
-The party has the unsigned letter confirming Neverember held all three Eyes four years ago. Read by Vault of Dragons (Vault of Dragons: the Full Awakening scene, confirming the deliberate separation).
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
+> Mark each outcome that occurs. Later events read them.
 >
-> #### Next Steps
+> - **Vault Opening Method Known** — mark when the party has the Melairkyn notes: dragon scale + mithral hammer + sunlight = vault opens. Read by Vault of Dragons (ceremonial opening sequence, Scene 3).
+> - **Eyes Letter Found** — mark when the party has the unsigned letter confirming Neverember held all three Eyes four years ago. Read by Vault of Dragons (Vault of Dragons: the Full Awakening scene, confirming the deliberate separation).
+
+> [!gamemaster]**Next Steps**
 >
 > This event has no narrative successor inside Fireball. After visiting Kalain's tower, the party returns to the investigation. If they have not yet committed to Gralhund Villa — proceed to **Gralhund Villa: Gralhund Villa** when ready.
 >
