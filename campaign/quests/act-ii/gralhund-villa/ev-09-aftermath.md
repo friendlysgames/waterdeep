@@ -74,7 +74,7 @@ The meeting at Ahghairon's Statue proceeds **at highsun**. She chose the open ho
 
 **Branch Outcomes:**
 
-**Help her.** She stays hidden for a tenday, then vanishes south. She leaves a handwritten note: the name and location of a Zhentarim courier cache in the South Ward that the party can raid without Manshoon's cell knowing for at least a month. Doom Raiders renown +2 if the party reports the arrangement to Tashlyn.
+**Help her.** She stays hidden for a tenday, then vanishes south. She leaves a handwritten note: the name and location of a Zhentarim courier cache in the Southern Ward that the party can raid without Manshoon's cell knowing for at least a month. Doom Raiders renown +2 if the party reports the arrangement to Tashlyn.
 
 **Turn her in.** City Watch takes her. The moneylending ledger surfaces in the Watch's evidence log and quietly disappears within a week; someone on the force had a loan outstanding. The Watch contact improves for the party (reduced questioning on the Gralhund matter). Doom Raiders renown −2 if the party reports this to Tashlyn. Tashlyn does not explain why.
 
@@ -84,7 +84,7 @@ The meeting at Ahghairon's Statue proceeds **at highsun**. She chose the open ho
 
 ### Jarlaxle Returns the Stone (Conditional — *Stone Holder: BD*, No BD Operative)
 
-If Bregan D'Aerthe holds the Stone and no BD operative is in the party, a package arrives at Trollskull Manor some time after Istrid's approach — the exact hour does not matter, but it is the same day. It is wrapped in dark cloth, unmarked, left at the door by someone no one saw.
+If Bregan D'aerthe holds the Stone and no BD operative is in the party, a package arrives at Trollskull Manor some time after Istrid's approach — the exact hour does not matter, but it is the same day. It is wrapped in dark cloth, unmarked, left at the door by someone no one saw.
 
 Inside: the Stone of Golorr. And a card, blank on one side, written on the other in a small, precise hand:
 
@@ -118,11 +118,11 @@ Within one to three days of the villa, the party's active faction contacts reque
 
 **Doom Raiders (Tashlyn).** Already covered above. "Keep a low profile. I'll be in touch." No debrief. No elaboration.
 
-**Bregan D'Aerthe — BD Operative in Party (conditional — *Jarlaxle Informed*).** No back-room invitation. Fel'rekt's debrief arrives through the operative's established channel — a direct, brief message, not an open offer to the group.
+**Bregan D'aerthe — BD Operative in Party (conditional — *Jarlaxle Informed*).** No back-room invitation. Fel'rekt's debrief arrives through the operative's established channel — a direct, brief message, not an open offer to the group.
 
 The message assesses the mission against Jarlaxle's standing orders. Its tone depends on the quest outcome:
 
-*Stone Holder: Party* — the operative delivered as ordered: *"Stone confirmed. Jarlaxle is satisfied. Your renown with the organization reflects the outcome."* Bregan D'Aerthe renown +2.
+*Stone Holder: Party* — the operative delivered as ordered: *"Stone confirmed. Jarlaxle is satisfied. Your renown with the organization reflects the outcome."* Bregan D'aerthe renown +2.
 
 *Stone Holder: Zhentarim, Xanathar, or Nimblewright* (Stone lost entirely) — *"The Stone did not reach the party. Jarlaxle is reviewing the operation. Await contact."* No renown change. Jarlaxle will want an explanation before the next assignment.
 

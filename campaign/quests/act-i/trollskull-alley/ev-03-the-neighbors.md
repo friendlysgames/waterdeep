@@ -78,4 +78,4 @@ The party met the people of Trollskull Alley during the renovation: a woodworker
 
 ## Summary
 
-The party met their Trollskull Alley neighbors during the renovation period, established first-contact moments with six residents, and may have spotted the Bregan D'Aerthe observer who has been tracking them since the Yawning Portal.
+The party met their Trollskull Alley neighbors during the renovation period, established first-contact moments with six residents, and may have spotted the Bregan D'aerthe observer who has been tracking them since the Yawning Portal.

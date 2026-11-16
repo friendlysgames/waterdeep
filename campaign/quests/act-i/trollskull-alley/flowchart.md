@@ -66,7 +66,7 @@ ev-07: Procession observation
 **Fireball Victim Selection:**
 ```
 GM observation runs: ev-01 → ev-02 → ev-03 → ev-04 → ev-05 → ev-06
-  └── ev-07: "Fireball Victim Designated: [NPC]" must be recorded before arc ends
+  └── ev-07: "Fireball Victim Designated: [NPC]" must be recorded before **The Twin Parades** ends
 ```
 
 ## Attunements Set in This Quest

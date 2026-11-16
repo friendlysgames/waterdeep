@@ -19,7 +19,7 @@ The party must see the Stone leave and decide to give chase. This event does not
 
 **Nimblewright.** Yalah's contingency: the construct drops from the Balcony (G17) to the Coach House roofline and crosses from there. It moves at 60 feet per round and does not tire.
 
-**Bregan D'Aerthe.** Fel'rekt's team exits via the rooftops. They move fast and know where they are going: a BD outpost in the Trades Ward (Fenerus Stormcastle).
+**Bregan D'aerthe.** Fel'rekt's team exits via the rooftops. They move fast and know where they are going: a BD outpost in the Trades Ward (Fenerus Stormcastle).
 
 **Zhentarim survivor.** A surviving Zhent thug grabbed the Stone in the confusion and is running for the nearest safe house rather than waiting for orders that aren't coming.
 

@@ -104,7 +104,7 @@ Volo pushes through the settling crowd, steered to the party's table by Threestr
 >
 > #### Faction Visibility in This Event
 >
-> Doom Raiders: Yagra, flying snake tattoo on her neck, Zhentarim pendant worn openly. Xanathar's Guild: Krentz and four thugs with eye-shaped tattoos shaved into scalps. Bregan D'Aerthe: Ryvarra at the balcony table. Manshoon's Zhentarim: not present at the Yawning Portal. The Dock Ward killing Yagra referenced is their work.
+> Doom Raiders: Yagra, flying snake tattoo on her neck, Zhentarim pendant worn openly. Xanathar's Guild: Krentz and four thugs with eye-shaped tattoos shaved into scalps. Bregan D'aerthe: Ryvarra at the balcony table. Manshoon's Zhentarim: not present at the Yawning Portal. The Dock Ward killing Yagra referenced is their work.
 
 ### Concluding the Event
 

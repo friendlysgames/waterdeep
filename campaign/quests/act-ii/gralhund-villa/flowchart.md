@@ -100,4 +100,4 @@ Milestone 1 fires in exactly one confrontation event per playthrough — ev-06 (
 | Orond's Confession: Heard / Missed | ev-03 (day) or ev-05 (night) | ev-09 |
 | Floxin Status: Alive / Dead / Captured | ev-04 or ev-05 | **Kolat Towers** (Manshoon response team) |
 | Stone Holder: Party / BD / Zhent / Xanathar | ev-06 or ev-07 | ev-08 trigger; ev-09 Milestone 2 |
-| Istrid Horn Outcome | ev-09 | **Faction Outposts** (Doom Raiders renown) |
+| Istrid Horn Helped / Istrid Horn Turned In | ev-09 | **Faction Outposts** (Doom Raiders renown) |

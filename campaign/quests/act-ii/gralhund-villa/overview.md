@@ -27,7 +27,7 @@
 - **Lord Orond Gralhund** (Gralhund household) — Yalah's husband; reads in the library during the day, barricades himself in G15b during the raid; will not fight; will talk under light pressure; knows more than he wants to
 - **Hrabbaz** (Gralhund household) — Yalah's bodyguard; orog; nothing to say; has been paid to stand by a door, and he will stand by it
 - **Urstul Floxin** (Manshoon's Zhentarim) — led the strike team; arrived on the night of Ches 24th with eight agents and lost most of them; trapped in the guest suite corridor by the time the party arrives; still armed; still operational; still will not name his master
-- **Fel'rekt Lafeen** (Bregan D'Aerthe — conditional on *Jarlaxle Informed*) — the drow negotiator across the street; arrives through the balcony during the raid; his offer to Yalah is the cleanest sentence in the building: *"The Stone, Lady Gralhund. That is all I am here for."*
+- **Fel'rekt Lafeen** (Bregan D'aerthe — conditional on *Jarlaxle Informed*) — the drow negotiator across the street; arrives through the balcony during the raid; his offer to Yalah is the cleanest sentence in the building: *"The Stone, Lady Gralhund. That is all I am here for."*
 - **Hurv Taldred** (Gralhund household) — groundskeeper, cult fanatic; transforms to a shadow at nightfall
 - **Istrid Horn** (Doom Raiders) — Doom Raiders Master of Trade and Coin; reached for Ahghairon's Statue within forty-eight hours of the bloodbath; terrified; has leverage and debts in both directions; the one quiet personal beat in a political aftermath
 - **Davil Starsong** (Doom Raiders, player faction contact) — arrested in the Watch's post-Gralhund sweep; in custody for questioning; replaced in practice, if not in title, by Tashlyn
@@ -44,7 +44,7 @@
 
 ## Overview
 
-The investigation that began in Trollskull Alley ends at the gate of Gralhund Villa on Saerdoun Street. The Stone of Golorr is upstairs in Lady Yalah Gralhund's breastplate. Urstul Floxin's backup team arrives on the night of Ches 24th. Xanathar's gazers are already watching the perimeter. Jarlaxle's Bregan D'Aerthe has a team across the street, waiting for the right moment to move.
+The investigation that began in Trollskull Alley ends at the gate of Gralhund Villa on Saerdoun Street. The Stone of Golorr is upstairs in Lady Yalah Gralhund's breastplate. Urstul Floxin's backup team arrives on the night of Ches 24th. Xanathar's gazers are already watching the perimeter. Jarlaxle's Bregan D'aerthe has a team across the street, waiting for the right moment to move.
 
 The party has a window of forty-eight hours. They can enter the villa during the day — a guarded household, the Stone upstairs, the alarm one wrong move away from pulling everyone in the building into the stairwell. Or they can wait and enter that night, walking into a battle already in progress, with three factions contesting a building full of bodies.
 

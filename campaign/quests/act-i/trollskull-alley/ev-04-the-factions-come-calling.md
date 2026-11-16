@@ -116,7 +116,7 @@ At least one party member enrolled with the Doom Raiders.
 At least one party member enrolled with Bregan D'aerthe.
 
 #### BD Acknowledged: True / False
-The J.B. Nevercott meeting proceeded. Zardoz Zord's relationship with the party during Sea Maidens Faire is shaped by this flag.
+The J.B. Nevercott meeting proceeded. Zardoz Zord's relationship with the party during Sea Maidens Faire is shaped by this Event Outcome.
 
 #### BD Contact Severed
 The **Bregan D'aerthe First Meeting** marks this for each character who gives Sergeant Dunmere their name or attacks Nevercott, so this Event does not. It closes Bregan D'aerthe for that character only. Read by **Contact Severed** and **Sea Maidens Faire**.

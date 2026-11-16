@@ -11,7 +11,7 @@
 
 **Resonance.** Soluun should inspire revulsion with his methodical murder of surface elves, discomfort with his fanatical loyalty to Jarlaxle, and pity for the hatred that defines his entire existence.
 
-**Emotions.** Soluun most often feels cold hatred of surface elves, fanatical devotion to Bregan D'Aerthe, contemptuous superiority, a zealot's fervor for the band (which, like every member of Bregan D'Aerthe, rejects Lolth), hunting focus, and bitter disdain for his brother Nar'l.
+**Emotions.** Soluun most often feels cold hatred of surface elves, fanatical devotion to Bregan D'aerthe, contemptuous superiority, a zealot's fervor for the band (which, like every member of Bregan D'aerthe, rejects Lolth), hunting focus, and bitter disdain for his brother Nar'l.
 
 **Motivations.** Soluun wants to kill every surface elf and half-elf he can find without consequences, serve Jarlaxle with absolute loyalty, and prove that his brother Nar'l is the weak one.
 
@@ -19,11 +19,11 @@
 
 ## Character Information
 
-**Persona.** To the world, Soluun is a drow gunslinger of Bregan D'Aerthe, disowned for unsanctioned Dock Ward murders. To those he trusts, he is fiercely loyal to Jarlaxle and Bregan D'Aerthe, and he considers his brother Nar'l a weakling who turned to arcane magic by way of compensation. Deep down, he was taught from a young age to kill surface elves as opportunity permits, and the habit has become his identity. He despises Lolth and the matron houses that serve her, as the whole band does, and the devotion a drow of the houses would give the Spider Queen he gives to Jarlaxle instead.
+**Persona.** To the world, Soluun is a drow gunslinger of Bregan D'aerthe, disowned for unsanctioned Dock Ward murders. To those he trusts, he is fiercely loyal to Jarlaxle and Bregan D'aerthe, and he considers his brother Nar'l a weakling who turned to arcane magic by way of compensation. Deep down, he was taught from a young age to kill surface elves as opportunity permits, and the habit has become his identity. He despises Lolth and the matron houses that serve her, as the whole band does, and the devotion a drow of the houses would give the Spider Queen he gives to Jarlaxle instead.
 
 **Morale.** In a fight, Soluun attacks without hesitation or mercy. He carries a bloodstained Seven Masks Theater playbill for Blood Wedding; he stalks and murders elven and half-elven audience members after shows. Jarlaxle is aware and hasn't yet decided what to do about it.
 
-**Relationships.** Soluun is the elder brother of Nar'l Xibrindas (whom he despises), a lieutenant of Jarlaxle (whom he worships), and a serial killer whose disownment by Bregan D'Aerthe is a cover story: he carries forged BD identification.
+**Relationships.** Soluun is the elder brother of Nar'l Xibrindas (whom he despises), a lieutenant of Jarlaxle (whom he worships), and a serial killer whose disownment by Bregan D'aerthe is a cover story: he carries forged BD identification.
 
 ## Overview
 

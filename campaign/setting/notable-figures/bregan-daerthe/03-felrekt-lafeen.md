@@ -19,11 +19,11 @@
 
 ## Character Information
 
-**Persona.** To the world, Fel'rekt is a drow gunslinger, one of Jarlaxle's most trusted lieutenants. To those he trusts, he was born female in a society that punishes male drow; he petitioned to join Bregan D'Aerthe and Jarlaxle took an immediate shine to him. Deep down, he lacks the cruelty common to most drow and will not kill an adversary unless left with no other choice.
+**Persona.** To the world, Fel'rekt is a drow gunslinger, one of Jarlaxle's most trusted lieutenants. To those he trusts, he was born female in a society that punishes male drow; he petitioned to join Bregan D'aerthe and Jarlaxle took an immediate shine to him. Deep down, he lacks the cruelty common to most drow and will not kill an adversary unless left with no other choice.
 
 **Morale.** In a fight, Fel'rekt hurls himself into combat with verve, trading banter with Krebbyg at the enemies' expense. He volunteers for dangerous tasks first and disengages last.
 
-**Relationships.** Fel'rekt is one of Jarlaxle's most loyal lieutenants, the close friend and operational partner of Krebbyg Masq'il'yr, and the Bregan D'Aerthe operative who led the team at Gralhund Villa.
+**Relationships.** Fel'rekt is one of Jarlaxle's most loyal lieutenants, the close friend and operational partner of Krebbyg Masq'il'yr, and the Bregan D'aerthe operative who led the team at Gralhund Villa.
 
 ## Overview
 

@@ -23,7 +23,7 @@ ev-03 — Zhentarim Warehouse ────────── Milestone: 1 point
   Kenku confrontation
   Finding Renaer → knowledge state
   3 paths → Revelation #3 (sewer hideout)
-  Attunements: Renaer Neverember Found / Warehouse Cleared
+  Attunements: Renaer Found / Warehouse Cleared
   See: Zhentarim Warehouse journal (Z01–Z05)
       │
       ▼
@@ -45,7 +45,7 @@ ev-04 — Xanathar Sewer Hideout ─────── Milestone: 1 point → Le
             Q09 Peabody cellar / Q08 escape tunnel (Trollskull Alley resource)
             Q10 empty sleeping quarters
             Volo's payment → Deed to Trollskull Manor
-            Attunements: Floon Blagmaar Rescued / Nihiloor Sighted / Deed to Trollskull Manor
+            Attunements: Floon Rescued / Nihiloor Sighted / Deed to Trollskull Manor
             See: Xanathar Sewer Hideout journal (Q01–Q11)
       │
       ▼

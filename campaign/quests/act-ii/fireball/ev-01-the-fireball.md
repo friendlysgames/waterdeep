@@ -203,7 +203,7 @@ Each active faction contact responds to the explosion in their own register. Del
 
 **Doom Raiders — Davil Starsong (Renown 1+):** Davil is still free during Fireball. He identifies Floxin immediately as Manshoon's blade. He suspects Floxin filed an anonymous Watch tip naming the Doom Raiders as persons of interest — damage control meant to draw Watch heat away from the Splinter cell. He wants proof of Floxin's direct involvement. He also wants to know if anyone arrived at the blast site early — before the Watch, before the other witnesses — and behaved in a way that suggested foreknowledge. He has a suspicion he is not ready to name.
 
-**Bregan D'Aerthe (entry condition — party is visibly investigating):** Shortly after the party begins asking questions — in the Alley, at the House of Inspired Hands, in the harbor district — a folded note on Seven Masks Theater stationery arrives by unmarked runner: two tickets to tonight's performance, no explanation, no name. Any drow party member receives it directly. If no drow are present, it is addressed to "the group from the Alley."
+**Bregan D'aerthe (entry condition — party is visibly investigating):** Shortly after the party begins asking questions — in the Alley, at the House of Inspired Hands, in the harbor district — a folded note on Seven Masks Theater stationery arrives by unmarked runner: two tickets to tonight's performance, no explanation, no name. Any drow party member receives it directly. If no drow are present, it is addressed to "the group from the Alley."
 
 ### Villain Faction Response Teams
 
@@ -211,7 +211,7 @@ All four villain factions move on the crime scene within hours of the explosion.
 
 - **Xanathar's Guild:** Gazers post to watch Trollskull Alley. DC 16 Wisdom (Perception) to notice a floating eyeball behind a chimney. They are collecting intelligence, not acting.
 - **Manshoon's Zhentarim:** A parallel investigation runs through the Black Network's city contact network. The party may notice strangers asking the same questions in the same order (DC 14 Insight if they cross paths with a Zhent investigator at a witness).
-- **Bregan D'Aerthe:** Observers activate conditionally — engagement scales with whether the party later reaches the Sea Maidens Faire.
+- **Bregan D'aerthe:** Observers activate conditionally — engagement scales with whether the party later reaches the Sea Maidens Faire.
 - **Cassalanters:** Flowers and a warm handwritten condolence note delivered to Trollskull Manor — Ammalia's handwriting. No return address on the card.
 
 ### Concluding the Event

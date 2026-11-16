@@ -110,7 +110,7 @@ If truly cornered, with Hrabbaz down, the Stone about to be taken, and nowhere t
 | Outcome | Who Holds the Stone | Next Event |
 |---------|--------------------|-----------  |
 | Party extracts from Yalah directly | Party | ev-09 |
-| BD takes the Stone (Fel'rekt, conditional) | Bregan D'Aerthe | ev-08 or ev-09 |
+| BD takes the Stone (Fel'rekt, conditional) | Bregan D'aerthe | ev-08 or ev-09 |
 | Zhent survivor seizes it during raid chaos | Zhentarim | ev-08 |
 | Nimblewright flees with it | No one yet | ev-08 |
 
@@ -143,4 +143,4 @@ The night-path confrontation. Lady Yalah Gralhund behind a barred door, a buildi
 
 ## Summary
 
-The night-path confrontation with Lady Yalah Gralhund ended in G16. The raid was still in progress. The Stone changed hands — to the party, to Bregan D'Aerthe, to a surviving Zhentarim, or via the balcony on the legs of a nimblewright.
+The night-path confrontation with Lady Yalah Gralhund ended in G16. The raid was still in progress. The Stone changed hands — to the party, to Bregan D'aerthe, to a surviving Zhentarim, or via the balcony on the legs of a nimblewright.

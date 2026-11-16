@@ -80,7 +80,7 @@ If not already awarded: Lif is behind the bar on opening night. He has extended 
 
 #### Ammalia Cassalanter Met: True / False
 
-Record attunement. Cassalanter Villa reads this flag; Ammalia's quest-entry disposition is shaped by this first contact.
+Record attunement. Cassalanter Villa reads this Event Outcome; Ammalia's quest-entry disposition is shaped by this first contact.
 
 #### Undermountain Thread Activated: True / False
 

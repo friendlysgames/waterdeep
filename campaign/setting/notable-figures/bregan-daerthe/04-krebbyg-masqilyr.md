@@ -19,7 +19,7 @@
 
 ## Character Information
 
-**Persona.** To the world, Krebbyg operates as "Kreb Sorrush," the booking manager of the Seven Masks Theater. To those he trusts, he is young, rash, and happy to let Fel'rekt do the thinking and talking. Deep down, his house was destroyed long ago, leaving him with no connection to his old life in the Underdark. The theater is the closest thing he has to a home outside Bregan D'Aerthe.
+**Persona.** To the world, Krebbyg operates as "Kreb Sorrush," the booking manager of the Seven Masks Theater. To those he trusts, he is young, rash, and happy to let Fel'rekt do the thinking and talking. Deep down, his house was destroyed long ago, leaving him with no connection to his old life in the Underdark. The theater is the closest thing he has to a home outside Bregan D'aerthe.
 
 **Morale.** In a fight, Krebbyg follows Fel'rekt's lead, trading banter and covering flanks. He acts before thinking and relies on Fel'rekt to tell him when to stop.
 
