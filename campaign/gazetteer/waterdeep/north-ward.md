@@ -19,7 +19,7 @@ The North Ward is the part of Waterdeep that goes home in the evening, a ward of
 
 ## At a Glance
 
-- **District Type:** Residential, with inns, taverns, gambling halls and shops. The wiki calls it the quietest ward in the city (*Volo's Guide to Waterdeep* 5e).
+- **District Type:** Residential, with inns, taverns, gambling halls and shops. The wiki calls it the quietest ward in the city (*Volo's Guide to Waterdeep* 2e).
 - **Boundaries:** The walls of the City of the Dead lie to the southeast, and the Trollwall to the east and north. The southern border follows Andamaar's Street and Trader's Way up to Shield Street, which forms the western border as far as Vondil Street. North of Vondil Street the High Road forms the western border all the way to the Trollwall, and the strip between Shield Street and the High Road there is Sea Ward, since Vondil Street is the border between the two wards (wiki, *City of Splendors* 2e). The cliffs of the Cliffwatch interrupt the wall between Endcliff Tower and the Watchway Tower in the City of the Dead (wiki, Dragon Heist).
 - **Founded:** 1276 DR, when the ward was made an official ward of Waterdeep together with the **Sea Ward** (wiki, *The Grand History of the Realms* 3e).
 - **Population:** No source gives a ward figure, and the wiki leaves the field blank. Its Inhabitants text names upper-middle-class Waterdhavians, successful merchants, lesser noble families and civic workers. For scale, the city figures are 1,347,680 across Waterdeep and the farmland it commands (*Forgotten Realms Campaign Setting* 3e, 1372 DR), 132,661 counted as the metropolis, and about 200,000 in the city proper by the wiki's own estimate.
@@ -30,7 +30,7 @@ The North Ward is the part of Waterdeep that goes home in the evening, a ward of
 - **Languages:** The wiki leaves this blank. [research]
 - **Religion:** Holyhands House (all deities) and the Hospice of St. Laupsenn (**Ilmater**). The Major Temples table in Dragon Heist places both here, and the wiki's temple list for the ward agrees. No dominant faith is sourced for the ward. [research] See the temples bullet under Culture in Life in the Ward, and **The Deities** for the other wards' temples.
 - **Governance:** No source names a ward government. The City Watch keeps a station that takes reports and holds the dead, and Endcliff Tower, a Watch-manned torchtower, overlooks the Cliffwatch. Who commands them is [research].
-- **Architecture:** Rowhouses fill the gaps between the villas of the lesser noble houses (wiki, *Volo's Guide to Waterdeep* 5e). The inns and residences of the Cliffwatch have terraces and balconies that face east over the countryside. Trollskull Manor is four stories of stone with five chimneys and a turret.
+- **Architecture:** Rowhouses fill the gaps between the villas of the lesser noble houses (wiki, *Volo's Guide to Waterdeep* 2e). The inns and residences of the Cliffwatch have terraces and balconies that face east over the countryside. Trollskull Manor is four stories of stone with five chimneys and a turret.
 - **Economy:** Taverns, shops and guildhalls serve residents who ride hire-coaches to work in other wards. Day servants arrive by dray each morning from the poorer parts of the city. Guild law applies as everywhere in the city.
 - **Organizations:** House Gralhund and the Black Network resources in its villa, the Harpers (Ulbrinter Villa), Manshoon's Zhentarim (the Interrogation House), the Fellowship of Innkeepers (represented by Broxley Fairkettle), the City Watch (the station and Endcliff Tower), the Watchful Order (Ulkoria Stonemarrow and Rishaal the Page-Turner in Trollskull Alley) and the Guild of Glassblowers, Glaziers and Spectacle-makers (the House of Crystal).
 
@@ -195,7 +195,7 @@ The North Ward is the part of Waterdeep that goes home in the evening, a ward of
 
 ### Economy
 - Residents work in other wards, and the ward's own trade serves their households: day servants, taverns, shops and guildhalls.
-- The House of Crystal, the guildhall of the Glassblowers, Glaziers and Spectacle-makers, stands on Copper Street, where crystal balls and mirrors sell for 1 sp to 600 gp (wiki, *Volo's Guide to Waterdeep* 5e). The wiki also lists furriers, harp makers, a tobacconist, a pastry shop and Corondorr's Countinghouse, which trains guild members and shopkeepers in accounting.
+- The House of Crystal, the guildhall of the Glassblowers, Glaziers and Spectacle-makers, stands on Copper Street, where crystal balls and mirrors sell for 1 sp to 600 gp (wiki, *Volo's Guide to Waterdeep* 2e). The wiki also lists furriers, harp makers, a tobacconist, a pastry shop and Corondorr's Countinghouse, which trains guild members and shopkeepers in accounting.
 - Gaxly Rudderbust publishes *The Waterdeep Wazoo* from a second-floor office at the corner of Immar Street and Stallion Street. Hessa Dorn keeps a stable on Brondar's Way between two bakeries.
 - The Cassalanter Counting House, a Sea Ward banking operation, holds accounts throughout the ward, and the party's renovation loan may pass through it.
 - Founders' Day (Flamerule 1) doubles foot traffic across the ward as civic ceremonies and street celebrations draw crowds, and the party's tavern earns one of its best days of the year.
@@ -240,7 +240,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 - Quest and faction-event journals under `campaign/quests/`: Finding Floon, Trollskull Alley, Fireball!, Gralhund Villa, and the Harpers, Bregan D'aerthe, Lords' Alliance, Order of the Gauntlet, Doom Raiders and Emerald Enclave events named in the Gamemaster's Summary.
 - `campaign/guides/trollskull-manor/`: the Founders' Day foot traffic, the Response Teams ground rule and the fireball patrol sweep.
 - Research note `batch-wards-a.md`, section `north-ward` (`docs/plans/setting-compendium-research-notes/pass3/`): compiled the above and the unsettled-field list.
-- Forgotten Realms Wiki, North Ward (*City of Splendors* 2e, *Volo's Guide to Waterdeep* 5e, *The Grand History of the Realms* 3e): boundaries, 1276 DR founding, inhabitants, temples, residences and the shop and inn lists.
+- Forgotten Realms Wiki, North Ward (*City of Splendors* 2e, *Volo's Guide to Waterdeep* 2e, *The Grand History of the Realms* 3e): boundaries, 1276 DR founding, inhabitants, temples, residences and the shop and inn lists.
 - Forgotten Realms Wiki, Cliffwatch, Endcliff Tower, Trollwall, Andamaar's Street, Shield Street, Vondil Street, Gentle Mermaid, House of Crystal and Misty Beard: the walkway, the tower, the borders and the businesses.
 
 ## Cross-References

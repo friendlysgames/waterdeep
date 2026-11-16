@@ -35,7 +35,7 @@ Krebbyg gives the brief in the locked booking office at six bells, with a ticket
 
 ## The Lobby
 
-The Faire's showcase opens its doors at eight bells, and the lobby fills with Faire fans and tumblers in costume. Florette Cressyn waits among them for Brimel. The party has until half past eight to find her, and a second chance until five to nine if it does not. Malcolm Brizzenbright, the theater's ghost, helps anyone who speaks to him politely.
+The Faire's showcase opens its doors at eight bells, and the lobby fills with Faire fans and tumblers in costume. Florette Cressyn waits among them for Brimel. The party has until half past eight to find her, and a second chance until five to nine if it does not. Malkolm Brizzenbright, the theater's ghost, helps anyone who speaks to him politely.
 
 ## Four Ways to Keep Her Off Brimel
 
@@ -80,7 +80,7 @@ Brimel boards the *Heartbreaker* or stays in the villa, depending on what he was
 - **Brimel Crestfall** (Cassalanter household): a frightened steward who sold a floor plan for coin.
 - **Florette Cressyn** (Cassalanter retainer): a household investigator watching Brimel for Ammalia Cassalanter.
 - **Captain Ilsa Dalloway** and **Constable Harl Pimm** (Dock Ward Watch): the officers on crowd duty at the showcase.
-- **Malcolm Brizzenbright** (Bregan D'aerthe, unknowing asset): the theater's ghost, who knows the house better than its management.
+- **Malkolm Brizzenbright** (Bregan D'aerthe, unknowing asset): the theater's ghost, who knows the house better than its management.
 - **Seffia Naelryke** and **Arn Xalrondar** (Cassalanters): the tenants of the windmill's upper floor, who never appear in this mission.
 
 ## Dangers & Enemies

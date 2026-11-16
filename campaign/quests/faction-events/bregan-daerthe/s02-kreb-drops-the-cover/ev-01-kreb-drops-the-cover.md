@@ -89,7 +89,7 @@ Fel'rekt keeps the crossbow pointed at the floor until the weapon is lowered, th
 > Krebbyg is happy to discuss the following topics:
 >
 > - Why he wore the cover and why it is off now, which he explains at length.
-> - The theater, the soprano and Malcolm Brizzenbright's ghost.
+> - The theater, the soprano and Malkolm Brizzenbright's ghost.
 > - What he does for the members from now on, which he hands to Fel'rekt after two sentences.
 > - Nevercott and the captain, which he answers with as little as he can.
 >

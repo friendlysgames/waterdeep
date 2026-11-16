@@ -20,7 +20,7 @@
 > - Wynne Cobb saw it from the scullery door and told Trevar that Darrick had chased a halfling girl off with a knife. Trevar fired him the next morning, never learned whose child she was and never learned that nobody had told her family.
 > - Kelso waited thirty days for the Endshift to say anything. Twenty days ago the Shunners began lifting a few coins from the night guards, and the robberies have been nightly for the last tenday. Giant Rats cover the lane, and nobody has been hurt.
 > - Kelso wants Trevar's apology to Danika, a payment of 50 gp toward her care and Darrick named to the Watch. He accepts any two.
-> - Two off-duty Watchmen drink at the Endshift, and the Field Ward watch house will put a dozen Guards in the taproom on the sixth night from the brief, which Kelso will not walk into.
+> - Two off-duty City Guards drink at the Endshift, and the Field Ward watch house will put a dozen Guards in the taproom on the sixth night from the brief, which Kelso will not walk into.
 > - Kelso is not a Splinter agent but sells what people pay for, and the Splinter is one of his customers. Nobody in this Event learns that, and nobody names Manshoon.
 > - Savra does not accompany the party, because the Marcheon benefit covers quests only and not faction missions.
 

@@ -49,7 +49,7 @@ The raid can be clean or not. **Windmill Clean Exit** marked sends Brimel on to 
 
 ## Out-of-Scope Notes
 
-Invented: Marra Selby (the lease name), Captain Ilsa Dalloway, the household wine merchant, the Net Street sailmaker's doorway, the printed berth pass and the seat phrase. Brimel Crestfall and Florette Cressyn keep their draft names and have no Notable Figures pages, so they are voiced from the event text. Constable Harl Pimm and Malcolm Brizzenbright are used as written in **Kreb Drops the Cover** and Malcolm's page.
+Invented: Marra Selby (the lease name), Captain Ilsa Dalloway, the household wine merchant, the Net Street sailmaker's doorway, the printed berth pass and the seat phrase. Brimel Crestfall and Florette Cressyn keep their draft names and have no Notable Figures pages, so they are voiced from the event text. Constable Harl Pimm and Malkolm Brizzenbright are used as written in **Kreb Drops the Cover** and Malcolm's page.
 
 Contradictions with files outside this folder, left unedited:
 - `sources/SOURCE_GUIDE.md` line 219 puts the windmill in the North Ward.
