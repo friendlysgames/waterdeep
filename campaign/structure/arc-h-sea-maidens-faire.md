@@ -199,7 +199,7 @@ Jarlaxle's location by operation window: during carnival parades, he is marching
 
 **Content.**
 
-*The Manshoon Parallel Strike.* Manshoon knows Eye #3 is aboard the Eyecatcher. His intelligence sources — scrying via simulacrum, double agents in multiple factions, Zhentarim informants in the Dock Ward — have confirmed the target. He dispatches a strike team regardless of what path the party has chosen.
+*The Manshoon Parallel Strike.* Manshoon knows Eye #3 is aboard the Scarlet Marpenoth. His intelligence sources — scrying via simulacrum, double agents in multiple factions, Zhentarim informants in the Dock Ward — have confirmed the target. He dispatches a strike team regardless of what path the party has chosen.
 
 **The Strike Team.** Urstul Floxin (if alive from **Gralhund Villa**; if dead, replaced by Vevette Blackwater) + 1 lieutenant + 4 thugs. They approach by rowboat from the harbor's south side, boarding the Eyecatcher via grappling hooks on the port hull. They carry pass-amulets to Kolat Towers for emergency extraction.
 
