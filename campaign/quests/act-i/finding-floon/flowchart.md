@@ -7,7 +7,7 @@ Campaign Start
 ev-01 — The Yawning Portal
   [Social Event — 1st level]
   Bar brawl → Dip ritual → Troll fight → Volo's quest
-  Attunements: Durnan's Acknowledgment / Yagra's Courtesy
+  Event Outcomes: Durnan Acknowledged / Yagra Courteous
       │
       ▼
 ev-02 — Dock Ward Investigation
@@ -23,7 +23,7 @@ ev-03 — Zhentarim Warehouse ────────── Milestone: 1 point
   Kenku confrontation
   Finding Renaer → knowledge state
   3 paths → Revelation #3 (sewer hideout)
-  Attunements: Renaer Found / Warehouse Cleared
+  Event Outcomes: Renaer Found / Warehouse Cleared
   See: Zhentarim Warehouse journal (Z01–Z05)
       │
       ▼
@@ -45,7 +45,7 @@ ev-04 — Xanathar Sewer Hideout ─────── Milestone: 1 point → Le
             Q09 Peabody cellar / Q08 escape tunnel (Trollskull Alley resource)
             Q10 empty sleeping quarters
             Volo's payment → Deed to Trollskull Manor
-            Attunements: Floon Rescued / Nihiloor Sighted / Deed to Trollskull Manor
+            Event Outcomes: Floon Rescued / Nihiloor Sighted / Trollskull Deed Accepted
             See: Xanathar Sewer Hideout journal (Q01–Q11)
       │
       ▼

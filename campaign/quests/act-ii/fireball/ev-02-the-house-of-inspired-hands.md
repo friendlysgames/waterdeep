@@ -98,15 +98,13 @@ From ev-02 — all three are equivalent:
 
 ### Concluding the Event
 
-#### Nim Contacted Via CSL: True / False
-Record whether any party member communicated with Nim directly in Common Sign Language. False if the conversation went through Valetta's partial translation. Read by design-notes.md (Nim character moment documentation).
-
-#### Detector Obtained: True / False
-The party has the nimblewright detector. Required for ev-03. Read by ev-03.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
+> Mark each outcome that occurs. Later events read them.
 >
-> #### Next Steps
+> - **Nim Contacted Via CSL** — mark when any party member communicates with Nim directly in Common Sign Language. Do not mark it if the conversation goes through Valetta's partial translation. The design notes record Nim's character moment.
+> - **Detector Obtained** — mark when the party has the nimblewright detector. Required for ev-03; read by ev-03.
+
+> [!gamemaster]**Next Steps**
 >
 > Proceed to the **The Nimblewright Hunt** Event once the party leaves the House of Inspired Hands with the detector. The elimination montage begins immediately.
 >

@@ -76,7 +76,7 @@ If the party takes Orond into custody and brings him upstairs to G16, Yalah will
 >
 > *A Missive from Castle Ward*, signed "Chirada," dated two weeks prior. The party can read it if they are in G12 and look at the stand — no check required.
 >
-> It names the Second Eye, Yellowspire in the Castle Ward, and a suspected teleportal. This is a direct feed into the Grand Game intelligence network the party will navigate in **Faction Outposts**. Record in the **G12 Searched** attunement.
+> It names the Second Eye, Yellowspire in the Castle Ward, and a suspected teleportal. This is a direct feed into the Grand Game intelligence network the party will navigate in **Faction Outposts**. Mark **Chirada Letter Found** when the party reads it.
 
 ### Yalah's Contingency
 
@@ -103,15 +103,12 @@ Continue from current adversary positions into ev-04: The Zhentarim Raid. The da
 
 ### Concluding the Event
 
-#### Chirada Letter Found: True / False
-Record whether the party found and read *A Missive from Castle Ward* on the G12 reading stand. Pays off in **Faction Outposts**: Yellowspire, Chirada's name, and the Second Eye lead.
-
-#### Orond Confession Heard: True / False
-Record whether the party questioned Orond and heard his four revelations. Shapes ev-09 aftermath — parties who heard the confession have documentation of Yalah's orders on Ches 22nd.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Chirada Letter Found** — mark when the party finds and reads *A Missive from Castle Ward* on the G12 reading stand; read by **Faction Outposts**, which pays it off with Yellowspire, Chirada's name and the Second Eye lead.
+> - **Orond Confession Heard** — mark when the party questions Orond and hears his four revelations; read by ev-09, where parties who heard the confession have documentation of Yalah's orders on Ches 22nd.
+
+> [!gamemaster]**Next Steps**
 >
 > If the party moves to confront Yalah in G16 before the raid arrives, proceed to the **The Gralhund Confrontation — Day** Event.
 >

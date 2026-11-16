@@ -72,16 +72,15 @@ From any of these locations, the Stone moves to the faction's primary lair withi
 
 ### If the Chase Succeeds
 
-The party recovers the Stone from the carrier. Set *Stone Recovered: True* and proceed to ev-09. Milestone 2 fires at the ev-09 opening.
+The party recovers the Stone from the carrier. Mark **Stone Recovered** and proceed to ev-09. Milestone 2 fires at the ev-09 opening.
 
 ### Concluding the Event
 
-#### Stone Recovered: True / False
-Record whether the party holds the Stone at chase end. True → Milestone 2 fires at ev-09 opening. False → party enters ev-09 without the Stone.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Stone Recovered** — mark when the party holds the Stone at the end of the chase; read by ev-09, where Milestone 2 fires at the opening. If it is not marked, the party enters ev-09 without the Stone.
+
+> [!gamemaster]**Next Steps**
 >
 > Proceed to the **Aftermath** Event (ev-09) regardless of chase outcome.
 >

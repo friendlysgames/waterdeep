@@ -30,14 +30,14 @@ The first thing the party does, consciously or not, is establish where the Stone
 
 ### What the Party Knows and Holds
 
-At quest's end, confirm what the party has. Cross-check against attunements set during this quest:
+At quest's end, confirm what the party has. Cross-check against the Event Outcomes marked during this quest:
 
 | Intelligence | Source | Pays Off |
 |---|---|---|
-| Stone of Golorr | G16 — Yalah, or recovered in ev-08 | lair heist opening state |
-| Second Eye / Yellowspire lead | G12 — Chirada letter (if G12 was searched) | **Faction Outposts** |
-| Gralhund–Cassalanter cult link | G16 trunk (if G16 compartment was found) | **Cassalanter Villa** |
-| Grand Game journal | G11 (if G11 was searched) | Lore; Orond characterization |
+| Stone of Golorr | G16 — Yalah (**Stone Secured** marked), or recovered in ev-08 (**Stone Recovered** marked) | lair heist opening state |
+| Second Eye / Yellowspire lead | G12 — Chirada letter (if **Chirada Letter Found** is marked) | **Faction Outposts** |
+| Gralhund–Cassalanter cult link | G16 trunk (if **G16 Compartment Found** is marked) | **Cassalanter Villa** |
+| Grand Game journal | G11 (if **Grand Game Journal Found** is marked) | Lore; Orond characterization |
 | Orond's confession | ev-03 or ev-05 | Davil's proof request; faction debrief tone |
 | Manshoon's name | Not revealed; Floxin never gave it | Preserved for a later arc |
 
@@ -82,9 +82,9 @@ The meeting at Ahghairon's Statue proceeds **at highsun**. She chose the open ho
 
 **Mortal Enemy.** If any PC has designated Istrid Horn as their Doom Raiders Mortal Enemy contact: she cannot refuse to come, and the party holds the leverage. A PC with this history may extract the courier cache information and the full 40 platinum and shelter cooperation without a check, simply by naming the arrangement clearly. Alternatively: a PC who turns her in despite having named her mortal enemy forfeits the Mortal Enemy bond and takes Doom Raiders renown −3. Tashlyn's note arrives the next morning: *"That was our business. Not the Watch's."*
 
-### Jarlaxle Returns the Stone (Conditional — *Stone Holder: BD*, No BD Operative)
+### Jarlaxle Returns the Stone (Conditional — Neither **Stone Secured** nor **Stone Recovered** Marked, BD Holds the Stone, No BD Operative)
 
-If Bregan D'aerthe holds the Stone and no BD operative is in the party, a package arrives at Trollskull Manor some time after Istrid's approach — the exact hour does not matter, but it is the same day. It is wrapped in dark cloth, unmarked, left at the door by someone no one saw.
+If Bregan D'aerthe holds the Stone (**Stone Secured** and **Stone Recovered** are both unmarked, and Fel'rekt took it in ev-06 or ev-07 or it reached Fenerus Stormcastle when the ev-08 chase failed) and no BD operative is in the party, a package arrives at Trollskull Manor some time after Istrid's approach — the exact hour does not matter, but it is the same day. It is wrapped in dark cloth, unmarked, left at the door by someone no one saw.
 
 Inside: the Stone of Golorr. And a card, blank on one side, written on the other in a small, precise hand:
 
@@ -108,7 +108,7 @@ Within one to three days of the villa, the party's active faction contacts reque
 
 **Harpers (Mirt).** A Harper agent in the crowd outside the villa recognized at least one PC. If the party reports in first, Mirt receives the account with measured satisfaction and asks no follow-up questions. If they don't, he sends a note in his own handwriting: *"I heard Saerdoun Street was lively last night. Whenever you have a moment."* He would appreciate being told things that concern him before he learns them from someone else.
 
-**Lords' Alliance (Jalester).** His debrief request arrives within twenty-four hours. The Watch officers on the Saerdoun Street beat were transferred to a Far South Ward assignment the week before the raid. Jalester has traced the reassignment to a request from inside the Watch hierarchy; the source is unknown. He wants to know if the party saw any evidence of Watch coordination with Xanathar's Guild or the Gralhund household.
+**Lords' Alliance (Jalester).** His debrief request arrives within twenty-four hours. The Watch officers on the Saerdoun Street beat were transferred to a Southern Ward assignment the week before the raid. Jalester has traced the reassignment to a request from inside the Watch hierarchy; the source is unknown. He wants to know if the party saw any evidence of Watch coordination with Xanathar's Guild or the Gralhund household.
 
 **Emerald Enclave (Melannor).** Gralhund Villa sits over a minor ley line the Enclave monitors as part of Jeryth Phaulkon's aberrant-activity survey. Xanathar's Guild's presence in the neighborhood destabilized it over the past week in a way that correlates with Nihiloor's movements below the city. Melannor wants to know what the party observed. For the map.
 
@@ -118,13 +118,13 @@ Within one to three days of the villa, the party's active faction contacts reque
 
 **Doom Raiders (Tashlyn).** Already covered above. "Keep a low profile. I'll be in touch." No debrief. No elaboration.
 
-**Bregan D'aerthe — BD Operative in Party (conditional — *Jarlaxle Informed*).** No back-room invitation. Fel'rekt's debrief arrives through the operative's established channel — a direct, brief message, not an open offer to the group.
+**Bregan D'aerthe — BD Operative in Party (conditional — **Jarlaxle Informed**).** No back-room invitation. Fel'rekt's debrief arrives through the operative's established channel — a direct, brief message, not an open offer to the group.
 
 The message assesses the mission against Jarlaxle's standing orders. Its tone depends on the quest outcome:
 
-*Stone Holder: Party* — the operative delivered as ordered: *"Stone confirmed. Jarlaxle is satisfied. Your renown with the organization reflects the outcome."* Bregan D'aerthe renown +2.
+**Stone Secured** or **Stone Recovered** is marked — the operative delivered as ordered: *"Stone confirmed. Jarlaxle is satisfied. Your renown with the organization reflects the outcome."* Bregan D'aerthe renown +2.
 
-*Stone Holder: Zhentarim, Xanathar, or Nimblewright* (Stone lost entirely) — *"The Stone did not reach the party. Jarlaxle is reviewing the operation. Await contact."* No renown change. Jarlaxle will want an explanation before the next assignment.
+Neither is marked, and the Stone is with the Zhentarim (the ev-08 safe house) or still with Yalah (Stone lost to the party) — *"The Stone did not reach the party. Jarlaxle is reviewing the operation. Await contact."* No renown change. Jarlaxle will want an explanation before the next assignment.
 
 In all cases, the operative is not blamed for outcomes beyond their control (the party's failure, another faction seizing the Stone mid-chase). The renown reflects what the operative personally did, not what the quest produced.
 
@@ -134,32 +134,23 @@ If the party did not recover the Stone (if it remains with the Gralhunds at ques
 
 ### Concluding the Event
 
-#### Istrid Horn Helped: True / False
-Record whether the party sheltered Istrid Horn. Read by **Faction Outposts**: Doom Raiders renown modifier and courier cache availability.
-
-#### Istrid Horn Turned In: True / False
-Record whether the party handed her to the Watch. Read by **Faction Outposts**: Watch relation modifier and Doom Raiders renown penalty.
-
-#### G16 Compartment Found: True / False
-Record whether the party discovered the locked Asmodean compartment in the G16 trunk. If True, they hold the Cassalanter seal and know Yalah had an infernal contact in Castle Ward. Read by **Cassalanter Villa**.
-
-#### Yalah Missing: True / False
-Record whether Yalah fled before the Watch arrived. If True, a want notice circulates through gate guards and ship registries.
-
-#### Yalah In Custody: True / False
-Record whether Yalah was taken by the Watch. If True, she is in Castle Waterdeep and says nothing useful. If both *Yalah Missing* and *Yalah In Custody* are False, she is dead.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Istrid Horn Helped** — mark when the party shelters Istrid Horn; read by **Faction Outposts** for the Doom Raiders renown modifier and courier cache availability.
+> - **Istrid Horn Turned In** — mark when the party hands her to the Watch; read by **Faction Outposts** for the Watch relation modifier and the Doom Raiders renown penalty.
+> - **G16 Compartment Found** — mark when the party discovers the locked Asmodean compartment in the G16 trunk, which gives them the Cassalanter seal and the knowledge that Yalah had an infernal contact in Castle Ward; read by **Cassalanter Villa**.
+> - **Yalah Missing** — mark when Yalah fled before the Watch arrived; a want notice circulates through gate guards and ship registries.
+> - **Yalah In Custody** — mark when the Watch took Yalah; she is in Castle Waterdeep and says nothing useful. If neither **Yalah Missing** nor **Yalah In Custody** is marked, she is dead.
+>
+> This Event also reads **Stone Secured** (ev-06 and ev-07) and **Stone Recovered** (ev-08). If either is marked, the party holds the Stone. If neither is marked, the Stone is with whoever took it in ev-06 to ev-08: Bregan D'aerthe (Fel'rekt, or the nimblewright or the BD team at the end of a failed chase), the Zhentarim (a Manshoon safe house), or Yalah, who kept it.
+
+> [!gamemaster]**Next Steps**
 >
 > Proceed to **Faction Outposts**. **Faction Outposts** opens with the party deciding which faction to probe first. The post-crackdown landscape has shifted: Davil is in Watch custody, Tashlyn is reorganizing, Jarlaxle is reassessing the party's usefulness. The faction outpost phase begins.
 >
 > #### Milestone: The Stone of Golorr — 1 Point (conditional)
 >
-> If the Stone of Golorr is in party hands at the opening of this Event, award 1 Milestone Point. Cumulative total: 9 → **Level 4**.
->
-> This Milestone was listed at the top of this Event. It does not fire again here; this entry is a cross-reference.
+> If the Stone of Golorr is in party hands at the opening of this Event, the party earned 1 Milestone Point at the top of this Event (cumulative total 9, **Level 4**). It does not fire again here.
 
 ## Overview
 

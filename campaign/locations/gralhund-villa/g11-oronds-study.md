@@ -8,7 +8,7 @@ Most of the books are not books. They are painted cardboard boxes fitted with fa
 
 This is the **Gralhund Study of the Grand Game** — Orond's personal running analysis of the six Grand Game faction leaders, their embedded agents, his deduction of the Three Eyes and the Stone, and his designation of code names for two informants inside Renaer Neverember's household ("Eagle" and "Catoblepas"). This is characterization rather than tactical intelligence; the party cannot weaponize it directly, but it confirms that Orond has been more active in the Grand Game than his frightened-library-reader persona suggests.
 
-Setting this attunement: ***Grand Game Journal Found: Yes / No.***
+Mark the Event Outcome **Grand Game Journal Found** when the party finds the journal (DC 15 Investigation, any state).
 
 **A mahogany desk** holds correspondence in progress (household accounts) and three quill pens in a bronze holder. Nothing incriminating on the desk surface.
 

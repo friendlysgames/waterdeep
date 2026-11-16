@@ -8,7 +8,7 @@
 >
 > - Six faction contacts each deliver a distinct tactical perspective and agenda.
 > - The party hears five versions of the same situation without any of them being straightforwardly wrong.
-> - If the party met Jarlaxle in **Fireball!** (*Jarlaxle Informed* set), he delivers a different brief depending on whether a BD operative is in the party: non-operatives receive the intelligence package with one deliberate omission; BD operatives receive the full picture plus direct operational orders.
+> - If the party met Jarlaxle in **Fireball!** (**Jarlaxle Informed** marked), he delivers a different brief depending on whether a BD operative is in the party: non-operatives receive the intelligence package with one deliberate omission; BD operatives receive the full picture plus direct operational orders.
 > - All contacts reference the Ches 24th deadline; the party understands the window is real.
 > - "If They Don't Go" contingency is noted at the end for GM reference.
 >
@@ -38,7 +38,7 @@ Jalester does not acknowledge that forty-eight hours means the Stone will be gon
 
 No pretense of subtlety. Vajra cannot authorize entry legally and does not pretend otherwise. She pushes the party to move that night. She promises to speak to the Open Lord afterward, without specifying what this means in practice — protection, advocacy, or simply documentation that something was said. Her instruction is clear and her backing is ambiguous.
 
-### Jarlaxle Baenre (conditional on *Jarlaxle Informed* from **Fireball!** — fires for all parties, not members only)
+### Jarlaxle Baenre (conditional on **Jarlaxle Informed** from **Fireball!** — fires for all parties, not members only)
 
 A carnival acrobat delivers a sealed note to wherever the party is staying. The note offers a meeting — a specific time, a specific location, nothing else.
 
@@ -74,7 +74,7 @@ He does not explain what happens if the outcome does not satisfy him. He does no
 
 He expects no reply beyond acknowledgment. The meeting is three minutes shorter than it is for everyone else.
 
-### Renaer Neverember (conditional on *Gralhund Villa Named* attunement from **Fireball!**)
+### Renaer Neverember (conditional on **Gralhund Villa Named** from **Fireball!**)
 
 The source who named the villa does not have a faction brief to deliver. He wants to understand what his father's vault has to do with the Gralhunds, and what the Gralhunds have to do with the Zhentarim who were chasing Dalakhar through Trollskull Alley the night of the explosion. His access to Harper contacts gave the party the address. His family history gives him a stake in what happens once they cross the gate.
 
@@ -82,30 +82,19 @@ He does not ask the party to act. He asks to know what they find. He will be at 
 
 ### Concluding the Event
 
-#### Mirt Brief Received: True / False
-The party heard Mirt's ask before committing to the villa. Shapes ev-09 debrief — Mirt's follow-up arrives with lower pressure for parties who reported in promptly.
-
-#### Davil Brief Received: True / False
-The party heard Davil's ask for Floxin's testimony clearing the Doom Raiders from the explosion. Read by ev-09 when Tashlyn replaces Davil as the Doom Raiders contact after his arrest.
-
-#### Jalester Brief Received: True / False
-The party heard Jalester's caution and his offer of the Cromley path. Shapes ev-09 debrief — Jalester's Watch reassignment is most relevant to parties who registered his legal constraint here.
-
-#### Vajra Brief Received: True / False
-The party received Vajra's advance instruction to move on the villa. Shapes ev-09 debrief — Vajra's debrief is framed differently for parties acting on her instruction versus those who moved independently.
-
-#### Jarlaxle Brief Received: True / False
-Record whether the party met with Jarlaxle and received his intelligence package — upper floor layout, gazer positions, and the nimblewright ledger. Read by ev-02 (the party enters with or without this intelligence) and ev-06/ev-07 (Yalah's negotiation tone).
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Mirt Brief Received** — mark when the party hears Mirt's ask before committing to the villa; read by ev-09, where Mirt's follow-up arrives with lower pressure for parties who reported in promptly.
+> - **Davil Brief Received** — mark when the party hears Davil's ask for Floxin's testimony clearing the Doom Raiders from the explosion; read by ev-09 when Tashlyn replaces Davil as the Doom Raiders contact after his arrest.
+> - **Jalester Brief Received** — mark when the party hears Jalester's caution and his offer of the Cromley path; read by ev-09, where Jalester's Watch reassignment is most relevant to parties who registered his legal constraint here.
+> - **Vajra Brief Received** — mark when the party receives Vajra's advance instruction to move on the villa; read by ev-09, where Vajra's debrief is framed differently for parties acting on her instruction and those who moved independently.
+> - **Jarlaxle Brief Received** — mark when the party meets Jarlaxle and receives his intelligence package: the upper floor layout, the gazer positions and the nimblewright ledger; read by ev-02 (the party enters with or without this intelligence) and by ev-06 and ev-07 (Yalah's negotiation tone).
+
+> [!gamemaster]**Next Steps**
 >
-> Proceed to the **Saerdoun Street** Event when the party sets out for Gralhund Villa. The contacts' briefs can arrive in any order — the party may receive all, some, or none before committing to entry.
+> Proceed to the **Saerdoun Street** Event when the party sets out for Gralhund Villa. The contacts' briefs can arrive in any order, and the party may receive all, some or none of them before committing to entry.
 >
-> #### If They Don't Go
->
-> If the party decides not to enter Gralhund Villa after receiving the address — and this is a genuine choice they can make — the fallback applies: Floxin's team arrives on the night of Ches 24th regardless. Two days later, broadsheets name the event the "Gralhund Villa Bloodbath." Faction contacts report what happened inside from secondhand accounts. The Stone's location becomes the next investigation — wherever the faction that left the estate with it has taken it. The campaign has not ended; its shape has changed.
+> If the party decides not to enter Gralhund Villa after receiving the address, and this is a genuine choice they can make, the fallback applies. Floxin's team arrives on the night of Ches 24th regardless. Two days later, broadsheets name the event the "Gralhund Villa Bloodbath." Faction contacts report what happened inside from secondhand accounts. The Stone's location becomes the next investigation, wherever the faction that left the estate with it has taken it. The campaign has not ended; its shape has changed.
 >
 > #### Milestone: None
 >

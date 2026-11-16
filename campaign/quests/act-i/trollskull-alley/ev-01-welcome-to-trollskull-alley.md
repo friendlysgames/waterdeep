@@ -61,11 +61,11 @@ If the party continues with hostility or ignores the warnings, escalate to Stage
 
 Lif hauls furniture into improvised barriers, shatters the remaining intact glassware, and retreats to the turret when reduced to half hit points. See **tm06-turret.md** in the Trollskull Manor Location Journal for retreat and resolution detail.
 
-Destroying Lif requires reducing him to 0 hit points. Award **Lif Destroyed** attunement. His +2 Revenue bonus and the "free bartender" line in the **Trollskull Manor** guide's operating cost calculation are forfeited permanently.
+Destroying Lif requires reducing him to 0 hit points. Mark **Lif Destroyed**. His +2 Revenue bonus and the "free bartender" line in the **Trollskull Manor** guide's operating cost calculation are forfeited permanently.
 
 #### Appeasement
 
-Lif's appeasement is behavioral, not a single check. A party that renovates with clear intent to reopen the tavern as a functioning public house gradually earns his acceptance across the renovation period. By the Grand Opening (ev-06), a party that has treated the building with respect finds Lif laying out bar tools, wiping down surfaces, and managing the chalk slate behind the bar. Award **Lif Appeased** attunement at the Grand Opening.
+Lif's appeasement is behavioral, not a single check. A party that renovates with clear intent to reopen the tavern as a functioning public house gradually earns his acceptance across the renovation period. By the Grand Opening (ev-06), a party that has treated the building with respect finds Lif laying out bar tools, wiping down surfaces, and managing the chalk slate behind the bar. **Lif Appeased** is marked at the Grand Opening (ev-06), not in this Event.
 
 Cross-ref the **Lif** page in Notable Figures, the **Trollskull Manor** guide, Operating Costs (Lif as bartender, Signature Drink mechanics).
 
@@ -82,17 +82,13 @@ The gap between what the party has and what the renovation costs is the engine t
 
 ### Concluding the Event
 
-#### Lif Appeased: True / False
-
-Awarded at the Grand Opening (ev-06), not here. Lif's acceptance accumulates quietly across the renovation period. At ev-06, he is behind the bar on opening night without being asked. The full attunement unpacking is in ev-06.
-
-#### Lif Destroyed: True / False
-
-Lif reduced to 0 HP. The +2 Revenue bonus is gone. The tavern runs without a poltergeist bartender; the opening costs table in the **Trollskull Manor** guide adjusts accordingly. Record this attunement now; ev-06 reads it.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Lif Destroyed** — mark when Lif is reduced to 0 hit points. The +2 Revenue bonus is gone, the tavern runs without a poltergeist bartender, and the opening costs table in the **Trollskull Manor** guide adjusts accordingly. Read by **The Grand Opening** (ev-06).
+>
+> **Lif Appeased** is marked by **The Grand Opening** (ev-06), not by this Event.
+
+> [!gamemaster]**Next Steps**
 >
 > The party has established what they own and what it will cost them. Broxley Fairkettle contacts them within the day to deliver the permit checklist. Proceed to **The Guild Gauntlet** Event.
 

@@ -93,22 +93,17 @@ Under either path:
 
 If the party takes Orond into custody and brings him upstairs to G16, Yalah surrenders the Stone without a Charisma check. Hrabbaz stands down if Yalah looks at him first.
 
-The Chirada letter on the G12 reading stand is visible to anyone who enters the library — no check required. See **G12 Searched** attunement below.
+The Chirada letter on the G12 reading stand is visible to anyone who enters the library — no check required. Mark **Chirada Letter Found** when the party reads it.
 
 ### Concluding the Event
 
-#### Orond Confession Heard: True / False
-Record whether the party questioned Orond and heard his four revelations. Shapes ev-09 aftermath — parties who heard the confession have documentation of Yalah's orders on Ches 22nd.
-
-#### Chirada Letter Found: True / False
-Record whether the party found and read *A Missive from Castle Ward* on the G12 reading stand. Pays off in **Faction Outposts**: Yellowspire, Chirada's name, and the Second Eye lead.
-
-#### Front Door Visit Recorded: True / False
-Cray noted the party's names in his ledger. Yalah is informed by evening: who came, what they claimed, and that they spoke with Orond. Read by ev-09 — shapes Yalah's debrief attitude and any Watch-related aftermath if the party used a Watch credential.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Orond Confession Heard** — mark when the party questions Orond and hears his four revelations; read by ev-09, where parties who heard the confession have documentation of Yalah's orders on Ches 22nd.
+> - **Chirada Letter Found** — mark when the party finds and reads *A Missive from Castle Ward* on the G12 reading stand; read by **Faction Outposts**, which pays it off with Yellowspire, Chirada's name and the Second Eye lead.
+> - **Front Door Visit Recorded** — mark when Cray notes the party's names in his ledger, so that Yalah is informed by evening of who came, what they claimed and that they spoke with Orond; read by ev-09, where it shapes Yalah's debrief attitude and any Watch-related aftermath if the party used a Watch credential.
+
+> [!gamemaster]**Next Steps**
 >
 > If the party moves toward the upper floor to confront Yalah, proceed to **The Gralhund Confrontation — Day** Event.
 >

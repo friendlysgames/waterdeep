@@ -49,7 +49,7 @@
 
 ## Dangers & Enemies
 
-**Lif (Stage 3):** If the party attacks or persistently disrespects the manor, Lif escalates to violence — furniture barriers, shattered glassware, retreat to the turret at half HP. Resolves through appeasement or combat; combat awards **Lif Destroyed** attunement and forfeits his +2 Revenue bonus permanently.
+**Lif (Stage 3):** If the party attacks or persistently disrespects the manor, Lif escalates to violence — furniture barriers, shattered glassware, retreat to the turret at half HP. Resolves through appeasement or combat; combat marks **Lif Destroyed** and forfeits his +2 Revenue bonus permanently.
 
 **Shard Shunner Wererats:** Halfling lycanthropes in Emmek Frewn's employ. Spotted casing entry points in ev-02; one may return for a staff interview under a false name in ev-06. Not a combat encounter unless the party initiates.
 

@@ -16,4 +16,4 @@ Bonnie, the courier and the missing-axe excuses come from the Meloon guide, not 
 
 ## Invented Names and Open Items
 
-Invented: Dobb Ketterly, the Guild courier, and his lodging above a net-maker's in the Dock Ward. Merris is kept from the rank events, and the "junior quartermaster" of the mechanics reference is read as Merris. **Meloon Met** is written in **Trollskull Alley** as an attunement and a True/False flag, so it should be reformatted there. The Notable Figures pages for Meloon and Nihiloor still say the devourer "ate his brain".
+Invented: Dobb Ketterly, the Guild courier, and his lodging above a net-maker's in the Dock Ward. Merris is kept from the rank events, and the "junior quartermaster" of the mechanics reference is read as Merris. **Meloon Met** is an Event Outcome marked in **Trollskull Alley**, in **The Field of Triumph**. The Notable Figures pages for Meloon and Nihiloor still say the devourer "ate his brain".

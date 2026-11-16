@@ -4,7 +4,7 @@
 >
 > #### Quest Requirements
 >
-> Fireball complete. The *Gralhund Villa Named* attunement is set — the party has confirmed that Gralhund Villa on Saerdoun Street, North Ward, is where the Stone of Golorr now rests. The party has at least one active faction contact. The Ches 24th deadline is established and understood.
+> Fireball complete. The party marked the **Gralhund Villa Named** Event Outcome in **Fireball!** and has confirmed that Gralhund Villa on Saerdoun Street, North Ward, is where the Stone of Golorr now rests. The party has at least one active faction contact. The Ches 24th deadline is established and understood.
 >
 > #### Difficulty
 >
@@ -27,7 +27,7 @@
 - **Lord Orond Gralhund** (Gralhund household) — Yalah's husband; reads in the library during the day, barricades himself in G15b during the raid; will not fight; will talk under light pressure; knows more than he wants to
 - **Hrabbaz** (Gralhund household) — Yalah's bodyguard; orog; nothing to say; has been paid to stand by a door, and he will stand by it
 - **Urstul Floxin** (Manshoon's Zhentarim) — led the strike team; arrived on the night of Ches 24th with eight agents and lost most of them; trapped in the guest suite corridor by the time the party arrives; still armed; still operational; still will not name his master
-- **Fel'rekt Lafeen** (Bregan D'aerthe — conditional on *Jarlaxle Informed*) — the drow negotiator across the street; arrives through the balcony during the raid; his offer to Yalah is the cleanest sentence in the building: *"The Stone, Lady Gralhund. That is all I am here for."*
+- **Fel'rekt Lafeen** (Bregan D'aerthe — conditional on **Jarlaxle Informed**) — the drow negotiator across the street; arrives through the balcony during the raid; his offer to Yalah is the cleanest sentence in the building: *"The Stone, Lady Gralhund. That is all I am here for."*
 - **Hurv Taldred** (Gralhund household) — groundskeeper, cult fanatic; transforms to a shadow at nightfall
 - **Istrid Horn** (Doom Raiders) — Doom Raiders Master of Trade and Coin; reached for Ahghairon's Statue within forty-eight hours of the bloodbath; terrified; has leverage and debts in both directions; the one quiet personal beat in a political aftermath
 - **Davil Starsong** (Doom Raiders, player faction contact) — arrested in the Watch's post-Gralhund sweep; in custody for questioning; replaced in practice, if not in title, by Tashlyn
@@ -38,7 +38,7 @@
 
 **Day state:** Gralhund house guards (veterans), Hurv Taldred (cult fanatic) + 2 mastiffs in the yard, Hrabbaz (orog) at the master bedroom door, the household nimblewright (if the Alarm triggers or Yalah activates it). Optional homebrew escalation (animated armor, spell glyphs, proto-beholder) available if the GM needs additional challenge — see ev-03.
 
-**Night state:** Urstul Floxin (50 hp, no poison, CR 3) in the guest suite corridor; Hurv Taldred as shadow + 2 mastiff-shadows in the yard; 1–2 surviving Zhent thugs in the great hall and upstairs foyer; Hrabbaz; Yalah; the household nimblewright. Jarlaxle's gunslingers fire through the upstairs foyer windows if *Jarlaxle Informed* is set.
+**Night state:** Urstul Floxin (50 hp, no poison, CR 3) in the guest suite corridor; Hurv Taldred as shadow + 2 mastiff-shadows in the yard; 1–2 surviving Zhent thugs in the great hall and upstairs foyer; Hrabbaz; Yalah; the household nimblewright. Jarlaxle's gunslingers fire through the upstairs foyer windows if **Jarlaxle Informed** is marked.
 
 **Both states:** Xanathar's four gazers on perimeter — they observe, track, and report; they do not enter the estate.
 

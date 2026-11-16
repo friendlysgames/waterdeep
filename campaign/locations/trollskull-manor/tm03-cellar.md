@@ -6,7 +6,7 @@ Below the ground floor; accessed via a heavy door off the kitchen corridor. Ston
 
 The grate is not locked — the previous locking mechanism rusted out at some point and was never replaced. It is heavy enough to require a DC 12 Strength check to lift quietly.
 
-**Attunement note.** The **Sewer Grate Documented** attunement (set in ev-02) means this passage is on the guild permit record. Faction response teams using a sewer approach to the alley have this connection available. Cross-ref Fireball for the party's next encounter with the sewer network.
+**Event Outcome note.** The **Sewer Grate Documented** Event Outcome (marked in ev-02) means this passage is on the guild permit record. Faction response teams using a sewer approach to the alley have this connection available. Cross-ref Fireball for the party's next encounter with the sewer network.
 
 **Lif does not manifest here.** The cellar is below Lif's area of effect. It is the one genuinely quiet room in the building during the renovation period.
 

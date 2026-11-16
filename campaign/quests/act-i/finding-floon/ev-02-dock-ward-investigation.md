@@ -88,11 +88,9 @@ Following the trail leads directly to the mouth of Candle Lane and ends at the w
 
 ### Concluding the Event
 
-No attunements are awarded for this Event.
+This Event marks no Event Outcomes.
 
-> **[GM]**
->
-> #### Next Steps
+> [!gamemaster]**Next Steps**
 >
 > When the party has the Candle Lane warehouse address, proceed to the **Zhentarim Warehouse** Event. The warehouse is occupied by four kenku left by Xanathar's Guild — not Zhentarim. What the party expects to find and what they actually find are not the same thing.
 

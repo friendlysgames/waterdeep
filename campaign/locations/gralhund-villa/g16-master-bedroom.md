@@ -13,7 +13,7 @@ At the foot of the bed: a locked traveling trunk, iron-banded, with a combinatio
 
 This is the first physical evidence that the Gralhunds and the Cassalanters are members of the same Asmodean cult. It pays off in **Cassalanter Villa**.
 
-Setting this attunement: ***G16 Asmodean Compartment Searched: Yes / No.***
+Mark the Event Outcome **G16 Compartment Found** when the party finds the false bottom of the trunk (DC 15 Wisdom (Perception), any state).
 
 **Yalah's brass key:** The small brass key on the chain at Yalah's throat opens the locked tome in G12, bypassing its Specter trap. A party that takes it on the way out prevents three specters from ambushing whoever opens the family chronicle later.
 

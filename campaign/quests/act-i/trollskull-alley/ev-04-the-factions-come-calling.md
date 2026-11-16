@@ -42,7 +42,7 @@ Each faction's First Meeting is its own event:
 
 ### Bregan D'aerthe Recruitment
 
-D'aerthe spies shadow the party for several days. The party may recognize them; a character who gives the Watch the surveillance report is closed out of Bregan D'aerthe for the rest of Acts I through III, and the other characters keep the offer. Otherwise, J.B. Nevercott — haberdasher, burgundy coat, *hat of disguise* — arrives at Trollskull Manor's front door, maintains his fiction until he is secure, then names Bregan D'aerthe and offers a first assignment. If **Ryvarra Identified** is True, his opening shifts.
+D'aerthe spies shadow the party for several days. The party may recognize them; a character who gives the Watch the surveillance report is closed out of Bregan D'aerthe for the rest of Acts I through III, and the other characters keep the offer. Otherwise, J.B. Nevercott — haberdasher, burgundy coat, *hat of disguise* — arrives at Trollskull Manor's front door, maintains his fiction until he is secure, then names Bregan D'aerthe and offers a first assignment. If **Ryvarra Identified** is marked, his opening shifts.
 
 *Full First Meeting write-up, including all three branches and the Nevercott scene: [**Bregan D'aerthe First Meeting**](../../faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md)*
 
@@ -88,42 +88,26 @@ When the party joins the Doom Raiders or receives a direct briefing from Davil S
 
 ### Filthy Meg
 
-The Mistshore information broker is available through faction referral: **Remallia Haventree** (Harpers) or **Yagra Stonefist** (Doom Raiders) name her as a reliable Dock Ward source. Direct Dock Ward exploration works, but the referral drops the opening Persuasion DC from 16 to 12. Award **Filthy Meg Referred** attunement when a referral is received.
+The Mistshore information broker is available through faction referral: **Remallia Haventree** (Harpers) or **Yagra Stonefist** (Doom Raiders) name her as a reliable Dock Ward source. Direct Dock Ward exploration works, but the referral drops the opening Persuasion DC from 16 to 12. Mark **Filthy Meg Referred** when a referral is received.
 
 Cross-ref the **Filthy Meg** page in Notable Figures.
 
 ### Concluding the Event
 
-#### Harpers Joined: True / False
-At least one party member enrolled with the Harpers. Cross-referenced by the **Harpers** Factions guide page (mission unlock), the **Faction Events** quest journals (mission dispatch), and **Faction Outposts** (outpost access).
-
-#### Lords' Alliance Joined
-The **Lords' Alliance First Meeting** marks this for each character who accepts, so this Event does not. The 200 gp renovation grant is given once, when the first candidate accepts.
-
-#### Emerald Enclave Joined
-The **Emerald Enclave First Meeting** marks this for each character who accepts, so this Event does not. The renovation help is given once, when the first candidate accepts.
-
-#### Order of the Gauntlet Joined
-The **Order of the Gauntlet First Meeting** marks this for each character who swears the oath, so this Event does not. The renovation help is given once, when the first member swears.
-
-#### Force Grey Joined: True / False
-At least one party member enrolled with Force Grey.
-
-#### Doom Raiders Joined: True / False
-At least one party member enrolled with the Doom Raiders.
-
-#### Bregan D'aerthe Joined: True / False
-At least one party member enrolled with Bregan D'aerthe.
-
-#### BD Acknowledged: True / False
-The J.B. Nevercott meeting proceeded. Zardoz Zord's relationship with the party during Sea Maidens Faire is shaped by this Event Outcome.
-
-#### BD Contact Severed
-The **Bregan D'aerthe First Meeting** marks this for each character who gives Sergeant Dunmere their name or attacks Nevercott, so this Event does not. It closes Bregan D'aerthe for that character only. Read by **Contact Severed** and **Sea Maidens Faire**.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Harpers Joined** — mark when at least one party member enrolls with the Harpers. Read by the **Harpers** page of the Factions guide (mission unlock), the **Faction Events** quest journals (mission dispatch) and **Faction Outposts** (outpost access).
+> - **Lords' Alliance Joined** — marked by the **Lords' Alliance First Meeting** for each character who accepts, so this Event does not mark it. The 200 gp renovation grant is given once, when the first candidate accepts.
+> - **Emerald Enclave Joined** — marked by the **Emerald Enclave First Meeting** for each character who accepts, so this Event does not mark it. The renovation help is given once, when the first candidate accepts.
+> - **Order of the Gauntlet Joined** — marked by the **Order of the Gauntlet First Meeting** for each character who swears the oath, so this Event does not mark it. The renovation help is given once, when the first member swears.
+> - **Force Grey Joined** — mark when at least one party member enrolls with Force Grey.
+> - **Doom Raiders Joined** — mark when at least one party member enrolls with the Doom Raiders.
+> - **Bregan D'aerthe Joined** — mark when at least one party member enrolls with Bregan D'aerthe.
+> - **BD Acknowledged** — mark when the J.B. Nevercott meeting goes ahead. Read by **Sea Maidens Faire**, where it shapes Zardoz Zord's relationship with the party.
+> - **BD Contact Severed** — marked by the **Bregan D'aerthe First Meeting** for each character who gives Sergeant Dunmere their name or attacks Nevercott, so this Event does not mark it. It closes Bregan D'aerthe for that character only. Read by **Contact Severed** and **Sea Maidens Faire**.
+> - **Filthy Meg Referred** — mark when a faction referral to Filthy Meg is received. Read by the Dock Ward approach to Filthy Meg, where the opening Persuasion DC drops from 16 to 12.
+
+> [!gamemaster]**Next Steps**
 >
 > The renovation is still running. Faction missions are now available. The Field of Triumph invitation arrives from the Sea Maidens Faire. Proceed to **The Field of Triumph** Event.
 >

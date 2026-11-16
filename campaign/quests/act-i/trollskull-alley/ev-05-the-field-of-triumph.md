@@ -52,9 +52,9 @@ The final round puts the party across the sand from a team led by **Meloon Wardr
 
 Win or lose, Meloon is first across the sand when the yield is called — firm handshake, specific compliment about something he noticed in the fight, and a recommendation for the best tavern currently operating in the North Ward that comes with a grin when the party tells him they own one. He asks their names and uses them.
 
-Award **Meloon Met (Field of Triumph)** attunement.
+Mark **Meloon Met**.
 
-Force Grey Mission 3 brings him back changed. This attunement is load-bearing for that mission's impact. Cross-ref the **Meloon Wardragon** page in Notable Figures, the **Force Grey** Faction Events (Mission 3).
+Force Grey Mission 3 brings him back changed. This Event Outcome is load-bearing for that mission's impact. Cross-ref the **Meloon Wardragon** page in Notable Figures, the **Force Grey** Faction Events (Mission 3).
 
 ### Xanathar's Guild Contact
 
@@ -62,15 +62,15 @@ After the final bout, a Guild scout makes contact: professional and direct, offe
 
 #### Party Branch — Keeps the Token
 
-Award **Xanathar Token: Kept**. The token may function as limited safe passage in Xanathar's Guild territory. If the party won the final bout, Xanathar itself has been notified. This notification becomes relevant in Xanathar's Lair.
+Mark **Xanathar Token Kept**. The token may function as limited safe passage in Xanathar's Guild territory. If the party won the final bout, Xanathar itself has been notified. This notification becomes relevant in Xanathar's Lair.
 
 #### Party Branch — Discards the Token
 
-Award **Xanathar Token: Discarded**. No further contact in this quest.
+Mark **Xanathar Token Discarded**. No further contact in this quest.
 
 #### Party Branch — Reports the Contact to a Faction
 
-Award **Xanathar Token: Reported**. Faction receives intelligence on Guild scouting patterns. Relevant to the intelligence-gathering work in Faction Outposts.
+Mark **Xanathar Token Reported**. Faction receives intelligence on Guild scouting patterns. Relevant to the intelligence-gathering work in Faction Outposts.
 
 ### Jarlaxle Watching
 
@@ -80,25 +80,14 @@ Cross-ref the **Jarlaxle Baenre** page in Notable Figures.
 
 ### Concluding the Event
 
-#### Meloon Met: True / False
-
-The party encountered Meloon Wardragon as himself: competitive, warm, direct. Force Grey Mission 3 brings him back changed. The contrast requires this prior meeting. Record the attunement.
-
-#### Xanathar Token Kept: True / False
-
-The party held the Guild scout's token. It functions as limited safe passage in Xanathar's Guild territory. If the party won the final bout, Xanathar itself has been notified of them — this notification is read by Xanathar's Lair's intelligence briefing and shapes how the lair's occupants respond when the party arrives.
-
-#### Xanathar Token Discarded: True / False
-
-The party returned or discarded the token. No further Guild contact in this quest.
-
-#### Xanathar Token Reported: True / False
-
-The party brought the token and the scout's approach to a faction. The faction gains intelligence on Guild scouting patterns in the Sea Ward. Read by Faction Outposts's intelligence-gathering phase.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Meloon Met** — mark when the party meets Meloon Wardragon as himself in the final round: competitive, warm and direct. Read by **Force Grey** Mission 3, which brings him back changed and needs this prior meeting for the contrast.
+> - **Xanathar Token Kept** — mark when the party keeps the Guild scout's token, which works as limited safe passage in Xanathar's Guild territory. If the party won the final bout, Xanathar itself has been notified of them. Read by the intelligence briefing in **Xanathar's Lair**, where it shapes how the lair's occupants respond when the party arrives.
+> - **Xanathar Token Discarded** — mark when the party returns or discards the token. There is no further Guild contact in this quest.
+> - **Xanathar Token Reported** — mark when the party brings the token and the scout's approach to a faction. The faction gains intelligence on Guild scouting patterns in the Sea Ward. Read by the intelligence-gathering phase of **Faction Outposts**.
+
+> [!gamemaster]**Next Steps**
 >
 > The renovation continues. The tournament winnings have closed most of the financing gap. The party is now known at the Field of Triumph, which means they are known across the Sea Ward and by every faction with Noble connections. Proceed to **The Grand Opening** Event.
 >

@@ -24,7 +24,7 @@ In the days before opening, candidates arrive for each open position. The interv
 
 Key framing:
 - Candidates arrive through word of mouth and guild placement notices; the party does not advertise
-- An appeased Lif handles the bar himself (**Lif Appeased** attunement), eliminating the bartender position; the party may still hire living staff
+- An appeased Lif handles the bar himself (**Lif Appeased**), eliminating the bartender position; the party may still hire living staff
 - An unappeased or destroyed Lif means the bartender position is open and competitive
 - One Shard Shunner wererat may return for a second interview under a different name; **DC 15 Passive Perception** or **DC 14 active Perception** to recognize them from ev-02
 
@@ -48,7 +48,7 @@ Starting Fame rolled or set per the **Trollskull Manor** guide, Fame. Key guests
 
 **Volo Geddarm** — Attempts a review for his next publication. Spills ink on two pages.
 
-**Lif** (if appeased) — Award **Lif Appeased** attunement here, if not already awarded. He is behind the bar before anyone asks. Bar tools laid out. Chalk slate updated. He has decided.
+**Lif** (if appeased) — Mark **Lif Appeased** here, if it is not already marked. He is behind the bar before anyone asks. Bar tools laid out. Chalk slate updated. He has decided.
 
 ### Ammalia Cassalanter
 
@@ -56,7 +56,7 @@ Ammalia arrives without Lord Cassalanter. She is warm, generous, and interested 
 
 Her warmth is genuine — she finds capable people interesting, and she pays close attention to those who have survived a city doing its best to kill them.
 
-Award **Ammalia Cassalanter Met** attunement.
+Mark **Ammalia Cassalanter Met**.
 
 **Thread: The Cassalanters Exist** (third path). The three-path redundancy is complete.
 
@@ -66,7 +66,7 @@ Cross-ref the **Ammalia Cassalanter** page in Notable Figures. Design Notes: her
 
 Three threads land here. None resolves; all are designed to accumulate below the surface.
 
-**The Skullport Trader** — A compact, sun-dark merchant arrives late in the evening with unusual inventory: river stones that glow under arcane examination, bottles of water that never warms, a vial described as "cave-aged, original vintage, not for the squeamish." He trades from a flat-bottomed boat at Mistshore and surfaces twice a year. He asks the party whether they've noticed more activity below recently. "The harbor bottom has been busy. More than usual. Something moving." Two ales, generous tip, no name. **Thread: Undermountain Is Active** (second path). Award **Undermountain Thread Activated** attunement on first seed received.
+**The Skullport Trader** — A compact, sun-dark merchant arrives late in the evening with unusual inventory: river stones that glow under arcane examination, bottles of water that never warms, a vial described as "cave-aged, original vintage, not for the squeamish." He trades from a flat-bottomed boat at Mistshore and surfaces twice a year. He asks the party whether they've noticed more activity below recently. "The harbor bottom has been busy. More than usual. Something moving." Two ales, generous tip, no name. **Thread: Undermountain Is Active** (second path). Mark **Undermountain Thread Activated** when the first seed is received.
 
 **Durnan's Warning** — Durnan sends a one-line message through Threestrings, delivered at the end of the evening: "More activity than usual below. Nothing you need to worry about. Yet." The word "yet" is Threestrings's addition. When asked, he says he's pretty sure Durnan meant it. **Thread: Undermountain Is Active** (third path).
 
@@ -74,21 +74,13 @@ Three threads land here. None resolves; all are designed to accumulate below the
 
 ### Concluding the Event
 
-#### Lif Appeased: True / False
-
-If not already awarded: Lif is behind the bar on opening night. He has extended professional courtesy to the new owners and has no intention of leaving. Record the attunement; the **Trollskull Manor** guide's full bartender mechanics apply from this point forward.
-
-#### Ammalia Cassalanter Met: True / False
-
-Record attunement. Cassalanter Villa reads this Event Outcome; Ammalia's quest-entry disposition is shaped by this first contact.
-
-#### Undermountain Thread Activated: True / False
-
-Record when the first of the three seeds is received. The full three-seed cluster becomes relevant to Xanathar's Lair's intelligence briefing.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Lif Appeased** — mark when Lif is behind the bar on opening night, if it is not already marked. He has extended professional courtesy to the new owners and has no intention of leaving. Read by the **Trollskull Manor** guide, whose full bartender mechanics apply from this point forward, and by **Fireball!** (Spirit Haunting).
+> - **Ammalia Cassalanter Met** — mark when Ammalia attends the opening. Read by **Cassalanter Villa**, where her quest-entry disposition is shaped by this first contact.
+> - **Undermountain Thread Activated** — mark when the first of the three seeds is received. Read by the intelligence briefing in **Xanathar's Lair**, where the full three-seed cluster becomes relevant.
+
+> [!gamemaster]**Next Steps**
 >
 > The tavern is open. The quest's main work is done. The Twin Parades fall on Ches 21. The calendar brings the quest to its coda. Proceed to **The Twin Parades** Event.
 >

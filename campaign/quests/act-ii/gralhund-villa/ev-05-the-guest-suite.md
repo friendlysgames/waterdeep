@@ -54,12 +54,11 @@ Under **DC 10 Intimidation** (Disadvantage if he has any reason to believe Yalah
 
 ### Concluding the Event
 
-#### Orond Confession Heard: True / False
-Record whether the party questioned Orond and obtained his four revelations. Shapes ev-09 aftermath content: parties who heard the confession have documentation of Yalah's Ches 22nd orders.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Orond Confession Heard** — mark when the party questions Orond and obtains his four revelations; read by ev-09, where parties who heard the confession have documentation of Yalah's Ches 22nd orders.
+
+> [!gamemaster]**Next Steps**
 >
 > Proceed to the **The Gralhund Confrontation — Night** Event.
 >
