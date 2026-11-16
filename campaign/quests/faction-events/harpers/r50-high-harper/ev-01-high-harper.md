@@ -309,7 +309,7 @@ If it is not marked, read or paraphrase the following instead:
 
 > [!qna]**Who vouches for Talar?**
 >
-> > "A rope-maker in the South Ward and a glazier in the Castle Ward. Each knows you by this name and by no other. Go and buy something from them before you rely on it."
+> > "A rope-maker in the Southern Ward and a glazier in the Castle Ward. Each knows you by this name and by no other. Go and buy something from them before you rely on it."
 
 > [!exploration]**The Third Persona**
 >
