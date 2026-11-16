@@ -54,7 +54,7 @@ Unlike **Xanathar's Lair** (where the briefing confirms a known dungeon) or **Ca
 
 **Content.**
 
-*Identifying the Score.* Eye #3 is aboard the Scarlet Marpenoth, in Jarlaxle's stateroom (U4), sitting in a velvet-lined compartment built into the base of the crystal ball pedestal. The Stone's impression (if 1+ Eyes restored) sharpens to: "a ship in the harbor, the Scarlet Marpenoth, a bald elf with a year of patience." **Faction Outposts** documents — Fenerus Stormcastle's decoded messages confirming intelligence flows to the Sea Maidens Faire, Malcolm Brizzenbright's ghost testimony that "Rongquan Mystere" met with drow who mentioned the Faire — converge on the fleet. **Xanathar's Lair** documents — the Report on Seven Masks Theater from X35 — provide a third confirmation path.
+*Identifying the Score.* Eye #3 is aboard the Scarlet Marpenoth, in Jarlaxle's stateroom (U4), sitting in a velvet-lined compartment built into the base of the crystal ball pedestal. The Stone's impression (if 1+ Eyes restored) sharpens to: "a ship in the harbor, the Scarlet Marpenoth, a bald elf with a year of patience." **Faction Outposts** documents — Fenerus Stormcastle's decoded messages confirming intelligence flows to the Sea Maidens Faire, Malkolm Brizzenbright's ghost testimony that "Rongquan Mystere" met with drow who mentioned the Faire — converge on the fleet. **Xanathar's Lair** documents — the Report on Seven Masks Theater from X35 — provide a third confirmation path.
 
 *Three Entry Methods.* Each is seeded by prior arcs. All three are simultaneously available. A party may use more than one.
 
@@ -332,9 +332,9 @@ This quest's transition is open. The remaining lair heists are available in any 
 ## Cross-References
 
 - **Fireball! Scene 4** — First visit to Sea Maidens Faire. Nimblewright detector results. Zord's office. Mini-heist aboard the Eyecatcher. Complete and partial nimblewright ledger. Jarlaxle's introduction. All prior party intelligence enters this quest here.
-- **Faction Outposts, Scene 4 (BD Outposts)** — Fenerus Stormcastle's house, Seven Masks Theater. Escalation tier entering this quest. Decoded messages confirming intelligence flows to the Faire. Malcolm Brizzenbright's ghost testimony about "Rongquan Mystere."
+- **Faction Outposts, Scene 4 (BD Outposts)** — Fenerus Stormcastle's house, Seven Masks Theater. Escalation tier entering this quest. Decoded messages confirming intelligence flows to the Faire. Malkolm Brizzenbright's ghost testimony about "Rongquan Mystere."
 - **Force Grey Mission 2 — The Dragon in the Harbor** — Zelifarn's introduction, submarine observation, Vajra's threat assessment filing. Seeds the harbor approach entry method and Zelifarn ally subplot.
-- **Notable Figures** — Full NPC profiles for Jarlaxle, Soluun, Fel'rekt, Krebbyg, Zelifarn, Margo Verida, Khafeyta Murzan, Fenerus Stormcastle, Malcolm Brizzenbright.
+- **Notable Figures** — Full NPC profiles for Jarlaxle, Soluun, Fel'rekt, Krebbyg, Zelifarn, Margo Verida, Khafeyta Murzan, Fenerus Stormcastle, Malkolm Brizzenbright.
 - **Bestiary** (not yet drafted) — Custom stat block for Jarlaxle (boss encounter). Stat blocks for Soluun, Fel'rekt, Krebbyg (drow gunslingers).
 - **Bregan D'aerthe** organization page — Bregan D'aerthe faction overview and NPC roster. **Bregan D'aerthe** Factions guide page — outpost entries, response team compositions, escalation framework, Revelation List.
 - **Xanathar's Lair** — Stone 1-Eye impressions (ship in harbor, bald elf) point toward this quest. Jarlaxle's simultaneous heist in **Xanathar's Lair** shapes this quest's stakes. Report on Seven Masks Theater (X35) provides third clue path to this quest.

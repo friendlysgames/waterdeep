@@ -290,9 +290,9 @@ Area W8 — Room of Rituals: a blood pentagram drawn in salt and ash. A DC 15 Ar
 
 ### Scene 7: Bregan D'aerthe Outposts
 
-**Purpose:** Two outposts structured as noir intelligence work. Fenerus Stormcastle is a civilian in over his head. The Seven Masks Theater is glamorous on the surface, haunted in the walls, and hiding something operational in a dressing room. Malcolm Brizzenbright's ghost is the emotional counterweight to both: a man who wanted none of this and got all of it.
+**Purpose:** Two outposts structured as noir intelligence work. Fenerus Stormcastle is a civilian in over his head. The Seven Masks Theater is glamorous on the surface, haunted in the walls, and hiding something operational in a dressing room. Malkolm Brizzenbright's ghost is the emotional counterweight to both: a man who wanted none of this and got all of it.
 
-**Tone:** Noir espionage. Fenerus is a scared civilian. The theater is glamorous on the surface, haunted underneath, hiding something operational in the walls. Malcolm Brizzenbright is the emotional surprise — a ghost who wants his theater run honestly.
+**Tone:** Noir espionage. Fenerus is a scared civilian. The theater is glamorous on the surface, haunted underneath, hiding something operational in the walls. Malkolm Brizzenbright is the emotional surprise — a ghost who wants his theater run honestly.
 
 ---
 
@@ -332,7 +332,7 @@ If the party arrives after Fenerus has been taken: the house shows signs of stru
 
 *Step 4 — The Operation.* Primary objective: the BD safehouse dressing room and its stored intelligence. Stage Manager's Office (P6): *A Letter from K to J* — Krebbyg writing to Jarlaxle — warning that Fenerus's address has become known to a third party and recommending a new message drop. This letter cross-references the Fenerus outpost and confirms the BD communication architecture.
 
-Malcolm Brizzenbright, the theater's ghost, is non-hostile. He appears in the backstage corridors as a translucent figure in a director's coat, carrying a script that was never performed. He is not a haunting — he is an anxious witness. He has watched "Rongquan Mystere" transform his theater over the past two years and does not approve. A party that treats him with respect earns his testimony: "Rongquan" is a false identity, drow use the dressing room at irregular hours, and he overheard a conversation about "the Faire" and "cargo that must not be examined." See the **Malcolm Brizzenbright** page in Notable Figures.
+Malkolm Brizzenbright, the theater's ghost, is non-hostile. He appears in the backstage corridors as a translucent figure in a director's coat, carrying a script that was never performed. He is not a haunting — he is an anxious witness. He has watched "Rongquan Mystere" transform his theater over the past two years and does not approve. A party that treats him with respect earns his testimony: "Rongquan" is a false identity, drow use the dressing room at irregular hours, and he overheard a conversation about "the Faire" and "cargo that must not be examined." See the **Malkolm Brizzenbright** page in Notable Figures.
 
 *Soluun's Murders.* A pattern emerges if the party investigates the *Bloodstained Playbill* further: seat numbers corresponding to elves and half-elves who attended the theater and subsequently disappeared. Soluun Xibrindas is stalking victims from the audience after performances. The pattern is discoverable through theater records (DC 14 Investigation) or through asking Malcolm, who witnessed it. This is not required for the main intelligence pipeline — but it is leverage. Jarlaxle is aware of Soluun's behavior and has not acted on it. "He's useful" is his entire position on the matter.
 
@@ -443,12 +443,12 @@ Total **Faction Outposts**: 1 Milestone Point, for the first completed chain; a 
 
 - **Running the Villains** (GM Guide) — Authoritative outpost entries, rosters, revelation lists, response team compositions, escalation framework, and inter-faction dynamics. This quest orchestrates this content and does not reproduce it.
 - the **Factions** guide pages — Quest Hooks for Harpers, Lords' Alliance, Doom Raiders, and Bregan D'aerthe. New hooks for Emerald Enclave, Order of the Gauntlet, and Force Grey fill the gaps identified in planning.
-- **Notable Figures** — Profiles for Malcolm Brizzenbright, Ott Steeltoes, Fenerus Stormcastle, Jarlaxle (as Rongquan Mystere / J.B. Nevercott), Krebbyg Masq'il'yr, Soluun Xibrindas, Tashlyn Yafeera, Melannor Fellbranch, and Savra Belabranta.
+- **Notable Figures** — Profiles for Malkolm Brizzenbright, Ott Steeltoes, Fenerus Stormcastle, Jarlaxle (as Rongquan Mystere / J.B. Nevercott), Krebbyg Masq'il'yr, Soluun Xibrindas, Tashlyn Yafeera, Melannor Fellbranch, and Savra Belabranta.
 - **Gralhund Villa** — Predecessor quest. Scene 6 Aftermath defines this quest's starting state: Davil's arrest, Chirada's active investigation, and the *Missive from Castle Ward* thread.
 - **Fireball!** — The Cassalanter Approach scene establishes the dinner invitation and the party's existing relationship with the family before this quest's outpost discoveries.
 - **Xanathar's Lair** — Xanathar outpost chain (Scene 4) feeds directly into **Xanathar's Lair**. Nar'l's guildsign trail, the gladiatorial transport route, and Ott Steeltoes all function as **Xanathar's Lair** entry methods.
 - **Cassalanter Villa** — Cassalanter outpost chain (Scene 6) feeds into **Cassalanter Villa**. The Brandath Crypt map and Victoro's letter are cross-quest documents. Esvele Rosznar in **Cassalanter Villa** provides a backup vault-location path.
-- **Sea Maidens Faire** — BD outpost chain (Scene 7) feeds into **Sea Maidens Faire**. Fenerus's decoded messages and Malcolm Brizzenbright's testimony are Three Clue Rule paths to the Faire as a heist target.
+- **Sea Maidens Faire** — BD outpost chain (Scene 7) feeds into **Sea Maidens Faire**. Fenerus's decoded messages and Malkolm Brizzenbright's testimony are Three Clue Rule paths to the Faire as a heist target.
 - **Kolat Towers** — The Yellowspire teleportation circle and captured pass-amulets are primary entry paths to Kolat Towers, bypassing the force field.
 - **Vault of Dragons** — The Brandath Crypt map from the Converted Windmill is the primary **Vault of Dragons** entrance clue.
 
@@ -488,7 +488,7 @@ Total **Faction Outposts**: 1 Milestone Point, for the first completed chain; a 
 
 ***Chain Entry Points.*** Every faction chain has at least three independent paths to its first outpost: one from prior quest documents (**Gralhund Villa** fallout, **Fireball!** Faire visit), one from within the faction's chain (cross-outpost documents), and one requiring no prior relationship or document (street-level entry). The last path — Grinda's reputation in Mistshore, Trade Ward canvassing for Brindul Alley, Divine Sense near Coachlamp Lane, theater district playbills — ensures that a party who has avoided faction contacts and found no cross-outpost documents still has a way in. Three Clue Rule requires three independent paths that cannot all fail simultaneously; it does not require three equally prominent paths.
 
-***Lair Entrance Verification.*** Four lair entrances, all reachable from this quest's intelligence: Xanathar's Lair — Nar'l's guildsign trail, gladiatorial transport via Terasse, Ott Steeltoes as guide (three paths); Kolat Towers — Yellowspire teleportation circle, captured pass-amulet from Avareen, Agorn's amulet traded under duress (three paths); Cassalanter Villa — Ammalia's **Fireball!** dinner invitation, Cassalanter cultist testimony from this quest's outposts, Esvele Rosznar in **Cassalanter Villa** (three paths, the last requiring no completion of this quest at all); Sea Maidens Faire — Fenerus's decoded messages, Malcolm Brizzenbright's testimony, Xanathar's Lair report from **Xanathar's Lair** (three paths).
+***Lair Entrance Verification.*** Four lair entrances, all reachable from this quest's intelligence: Xanathar's Lair — Nar'l's guildsign trail, gladiatorial transport via Terasse, Ott Steeltoes as guide (three paths); Kolat Towers — Yellowspire teleportation circle, captured pass-amulet from Avareen, Agorn's amulet traded under duress (three paths); Cassalanter Villa — Ammalia's **Fireball!** dinner invitation, Cassalanter cultist testimony from this quest's outposts, Esvele Rosznar in **Cassalanter Villa** (three paths, the last requiring no completion of this quest at all); Sea Maidens Faire — Fenerus's decoded messages, Malkolm Brizzenbright's testimony, Xanathar's Lair report from **Xanathar's Lair** (three paths).
 
 ## Faction Hooks
 

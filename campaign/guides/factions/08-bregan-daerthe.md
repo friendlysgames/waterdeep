@@ -106,9 +106,9 @@ Use the Autumn version of the theater (DH p. 75). Jarlaxle owns it under the fal
 
 *Area P6 — Stage Manager's Office.* Among the theater paperwork: the *Letter Regarding Fenerus Stormcastle's House* from "K" to "J." Krebbyg warns Jarlaxle that strange eyes have been watching Fenerus's house and black snakes have been spotted over the Trades Ward; he recommends caution and possibly finding a replacement asset.
 
-Malcolm Brizzenbright haunts the building. He shares his knowledge with characters who treat him with respect, including the detail about "Rongquan" meeting with drow who mentioned the Sea Maidens Faire.
+Malkolm Brizzenbright haunts the building. He shares his knowledge with characters who treat him with respect, including the detail about "Rongquan" meeting with drow who mentioned the Sea Maidens Faire.
 
-**Roster:** Two **Drow** serving as safe house guards, present only when the dressing room is occupied. Malcolm Brizzenbright (**Ghost**, non-hostile).
+**Roster:** Two **Drow** serving as safe house guards, present only when the dressing room is occupied. Malkolm Brizzenbright (**Ghost**, non-hostile).
 
 **Escalation:** Bregan D'aerthe moves to Alert if the dressing room is searched without BD sanction. Renown penalties apply if the outpost is raided without an established relationship; if drow guards escape, Jarlaxle knows before the party reaches the door. **Founders' Day Clock: 2–4 days.**
 
@@ -140,7 +140,7 @@ Jarlaxle reaches for leverage before force against the party. Direct confrontati
 **Lair: Sea Maidens Faire** (*Heartbreaker*, *Hellraiser*, *Eyecatcher*, *Scarlet Marpenoth*)
 - Report on guild difficulties relating to the Sea Maidens Faire (Fenerus Stormcastle's House)
 - Following Krebbyg / Questioning Fenerus (Fenerus Stormcastle's House)
-- Speaking with Malcolm Brizzenbright (Seven Masks Theater)
+- Speaking with Malkolm Brizzenbright (Seven Masks Theater)
 - *Report on the Seven Masks Theater* (Xanathar's Lair)
 
 ## Cross-References
@@ -149,7 +149,7 @@ Jarlaxle reaches for leverage before force against the party. Direct confrontati
 - [Bregan D'aerthe Faction Events](../../quests/faction-events/bregan-daerthe/) — six missions, first meeting, standalone events, rank-up events
 - **Factions** guide overview
 - **Running the Villains** in the GM Guide
-- Notable Figures: **Jarlaxle Baenre**, **Krebbyg Masq'il'yr**, **Fel'rekt Lafeen**, **Soluun Xibrindas**, **Zelifarn**, **Fenerus Stormcastle**, **Malcolm Brizzenbright**
+- Notable Figures: **Jarlaxle Baenre**, **Krebbyg Masq'il'yr**, **Fel'rekt Lafeen**, **Soluun Xibrindas**, **Zelifarn**, **Fenerus Stormcastle**, **Malkolm Brizzenbright**
 - First Meeting: [Bregan D'aerthe First Meeting](../../quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md)
 - Standalone events: [Coin Pouches](../../quests/faction-events/bregan-daerthe/s01-coin-pouches/ev-01-coin-pouches.md) · [Kreb Drops the Cover](../../quests/faction-events/bregan-daerthe/s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md) · [Dinner with Zardoz](../../quests/faction-events/bregan-daerthe/s03-dinner-with-zardoz/ev-01-dinner-with-zardoz.md) · [Contact Severed](../../quests/faction-events/bregan-daerthe/s04-contact-severed/ev-01-contact-severed.md)
 - Rank events: [Soldier](../../quests/faction-events/bregan-daerthe/r03-soldier/ev-01-soldier.md) · [Officer](../../quests/faction-events/bregan-daerthe/r10-officer/ev-01-officer.md) · [Commander](../../quests/faction-events/bregan-daerthe/r25-commander/ev-01-commander.md) · [Houseless Noble](../../quests/faction-events/bregan-daerthe/r50-houseless-noble/ev-01-houseless-noble.md)

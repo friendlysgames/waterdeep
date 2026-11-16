@@ -130,12 +130,12 @@ The showcase opens its doors at eight bells, and the lobby fills with Faire fans
 > Any character who scans the lobby before half past eight and makes a successful DC 13 Wisdom (Perception) check picks out Florette Cressyn, a woman of about thirty in a grey hat with a long brown braid, who holds a closed book and watches the front doors instead of the stage. Each character can try once before Brimel arrives.
 >
 > - **Advantage:** the character watches the front doors until Brimel comes in and sees who turns to follow him.
-> - **Auto:** the character has greeted Malcolm Brizzenbright by name, politely, and listens to what he says (see **The Ghost at the Stair**).
+> - **Auto:** the character has greeted Malkolm Brizzenbright by name, politely, and listens to what he says (see **The Ghost at the Stair**).
 > - **Late:** if nobody has found her, a member seated next to Brimel notices at a quarter to nine, without a check, that he keeps glancing back at the same woman in row six. **The Double-Booked Seat** and **The Lifted Stub** are closed by then. **The Fire Aisle** and **The Service Corridor** stay open until five to nine.
 
 > [!exploration]**The Ghost at the Stair**
 >
-> Malcolm Brizzenbright is moving programs at the foot of the gallery stair, and he is visible to anyone who speaks to him. He greets the party with a complaint, as he does the theater's staff, and warms to anyone who greets him by name without talking down to him. A character who does so hears:
+> Malkolm Brizzenbright is moving programs at the foot of the gallery stair, and he is visible to anyone who speaks to him. He greets the party with a complaint, as he does the theater's staff, and warms to anyone who greets him by name without talking down to him. A character who does so hears:
 >
 > > "Finally, someone who greets the house like a person! You'll want to know about the woman in the grey hat, my darling. She bought a ticket and hasn't looked at the stage once, which is the rudest thing a patron can do. She stood by the doors for ten minutes counting the exits. She's got a book she hasn't opened. I've seen her type before, and they're never here for the music."
 >

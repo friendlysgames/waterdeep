@@ -13,7 +13,7 @@
 
 **Emotions.** Krebbyg most often feels reckless confidence, cheerful deference to Fel'rekt's judgment, restless boredom with routine, creative pleasure in his theater cover identity, mischievous humor, and an eagerness that substitutes for planning.
 
-**Motivations.** Krebbyg wants to follow Fel'rekt into whatever comes next, run the Seven Masks Theater without Malcolm Brizzenbright's ghost interfering, and prove useful enough that Jarlaxle never regrets taking him in.
+**Motivations.** Krebbyg wants to follow Fel'rekt into whatever comes next, run the Seven Masks Theater without Malkolm Brizzenbright's ghost interfering, and prove useful enough that Jarlaxle never regrets taking him in.
 
 **Inspirations.** When playing Krebbyg, channel Rocket Raccoon (*Guardians of the Galaxy*), Jesse Pinkman (*Breaking Bad*), and Mushu (*Mulan*).
 

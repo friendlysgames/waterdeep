@@ -115,7 +115,7 @@ Volo pushes through the settling crowd, steered to the party's table by Threestr
 
 > [!gamemaster]**Next Steps**
 >
-> With Volo's quest accepted, the party proceeds to the **Dock Ward Investigation** Event. Threestrings can point them toward the Dock Ward generally. Volo tells them Floon was last at the Skewered Dragon on Dock Street.
+> With Volo's quest accepted, the party proceeds to the **Dock Ward Investigation** Event. Threestrings can point them toward the Dock Ward generally. Volo tells them Floon was last at the Skewered Dragon, between Net Street and Fillet Lane in the Dock Ward.
 
 ## Overview
 
