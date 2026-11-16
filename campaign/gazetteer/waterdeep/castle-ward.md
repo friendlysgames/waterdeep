@@ -55,7 +55,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 
 **Castle Waterdeep** — Fortress
 - A redoubt of last defense on a bluff above the city. It is not the seat of government. Scheduled executions happen behind its walls.
-- Garrison (wiki, 2e, 1372 DR): 1,400 City Guard, stabling for 70 warhorses, 30 guards on the battlements, and a gate guardroom manned by 20 crossbowmen and 2 wizards. The wiki gives no later figure, and the page uses these.
+- Garrison (wiki, 3e, 1372 DR): 1,400 City Guard, stabling for 70 warhorses, 30 guards on the battlements, and a gate guardroom manned by 20 crossbowmen and 2 wizards. The wiki gives no later figure, and the page uses these.
 - On Founders' Day (Flamerule 1) mages veil it in an illusion of Nimoar's log fortress from midday to sunset.
 - Hook: a custody wing built for thirty prisoners holds sixty-one, and Davil Starsong is held there after **Gralhund Villa**.
 
@@ -170,7 +170,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 - A watch post's green and gold lantern burns by continual flame even in daylight. Whistles summon more constables.
 - The Griffon Cavalry flies from Peaktop Aerie on Mount Waterdeep, and its riders drop from their mounts under rings of feather falling.
 - The City Navy docks in the Great Harbor. Castle Waterdeep is the redoubt of last defense and the site of the custody wing.
-- The Watch's main base is the Palace of Waterdeep, which also holds the Guard's and the Watch's offices and the guard barracks beside its stables (wiki, 2e). Castle Waterdeep's garrison is in its landmark entry. The Dragon Heist text names no headquarters.
+- The Watch's main base is the Palace of Waterdeep, which also holds the City Guard's and the Watch's offices and the guard barracks beside its stables (wiki; City of Splendors: Waterdeep, 3e). Castle Waterdeep's garrison is in its landmark entry.
 - Arcane casters register with the city and are urged to join the Watchful Order, headed by the Blackstaff.
 - Barnibus Blastwind (Lawful Good, Illuskan Human, he/him) is a prickly, secretive investigator for the Watchful Order of Magists and Protectors who looks into crimes that involve magic. He confides in Saeth Cromley and almost no one else. A lifelong bachelor, he spends his free days in his grandmother's library on his estate in the Sea Ward, and **Fireball!** puts him in charge of the fireball scene.
 
@@ -229,8 +229,8 @@ Sensory anchors for the GM to build the passage from (not written out):
 - Forgotten Realms Wiki, Castle Ward (2e *City of Splendors*, *Adventurer's Guide to the City*): boundaries, 1035 DR founding, the six statues, Market position, temples, residences.
 - Forgotten Realms Wiki, Walking Statues of Waterdeep (5e *Dragon Heist*): statue sites and the Honorable Knight's ward.
 - Forgotten Realms Wiki, Castle Waterdeep (2e, 1372 DR): garrison, prisoner capacity, seat of government.
-- Forgotten Realms Wiki, City Watch (Waterdeep) (2e and 4e): the Palace as main base; the Guard folded into the Watch by 1479 DR.
-- Forgotten Realms Wiki, Palace of Waterdeep (2e): Guard and Watch offices and barracks.
+- Forgotten Realms Wiki, City Watch (Waterdeep) (3e and 4e): the Palace as main base; the wiki's 1479 DR fold of the Guard is set aside (settled by the user, Session 51).
+- Forgotten Realms Wiki, Palace of Waterdeep (*City of Splendors: Waterdeep*, 3e): Guard and Watch offices and barracks.
 - Forgotten Realms Wiki, Waterdeep (3e *Forgotten Realms Campaign Setting*, 2e): city population and peoples.
 - Forgotten Realms Wiki, Yawning Portal (various): the well's size. Lightsinger Theater (2e): its street.
 - Forgotten Realms Wiki, Durnan, Vajra Safahr, Savra Belabranta, Laeral Silverhand (5e and earlier): alignments, titles, the Howling Hatred timing.
@@ -259,18 +259,18 @@ Sensory anchors for the GM to build the passage from (not written out):
 > - **Answered from the wiki:** The Great Drunkard stands just south of the Market in the Castle Ward (Dragon Heist, confirmed by the wiki).
 > - **Research:** Ward of Warrior's Way and the Street of Silver, which Dragon Heist names for the Asmagh's Alley rhyme (Waterdeep gazetteer or wiki street list).
 > - **Research:** Campaign hooks for the Temple of the Seldarine and the Spires of the Morning (campaign decision; no source supplies one).
-> - **Answered from the wiki:** The Watch's main base is the Palace of Waterdeep (*City of Splendors* 2e). Castle Waterdeep's garrison is 1,400 City Guard, 70 warhorses, 30 on the battlements and a gate guardroom of 20 crossbowmen and 2 wizards (2e, 1372 DR).
+> - **Settled by the user (Session 51):** The Watch's main base is the Palace of Waterdeep (*City of Splendors: Waterdeep*, 3e, pages 35-37). Castle Waterdeep's garrison is 1,400 City Guard, 70 warhorses, 30 on the battlements and a gate guardroom of 20 crossbowmen and 2 wizards (3e, 1372 DR).
 > - **Research:** Which Masked Lords keep homes in the ward and who runs the Palace day to day. The wiki's Castle Ward residence list names Mirt (a Masked Lord), Leone and Lady Naneatha Lhaurilstar, and no other Masked Lord.
 > - **Research:** Rents and prices in the ward (wiki or Waterdeep gazetteer).
 > - **Answered from the wiki:** The six Castle Ward statues are the God Catcher, Great Drunkard, Griffon, Hawk Man, Lady Dreaming and Sahuagin Humbled. The Honorable Knight is in the Trades Ward (wiki only; Dragon Heist places it near the corner where four wards meet and names no ward).
 > - **Conflicts:** Mirt's Mansion. The wiki and the Dragon Heist Castle Ward section place it near the Naval Harbor in the Castle Ward; the campaign's Harper events place Mirt's dinner manor in the Sea Ward. The page keeps the Castle Ward residence and leaves the events alone.
 > - **Conflicts:** Castle Waterdeep, kept as the campaign has it. The wiki (2e) says the castle holds up to 540 prisoners in 90 cells and was the seat of the city's government; the page has a custody wing built for 30 that holds 61, and says the castle is not the seat of government (Dragon Heist supports the page).
-> - **Conflicts:** City Guard and City Watch, kept separate as in Dragon Heist and the campaign. The wiki (*Forgotten Realms Campaign Guide* 4e) says the Guard had been folded into the Watch as a division by 1479 DR.
+> - **Settled by the user (Session 51):** The City Guard and the City Watch stay two services. The wiki's 1479 DR fold (*Forgotten Realms Campaign Guide*, 4e) is not used, because Dragon Heist keeps two services in 1492 DR.
 > - **Conflicts:** Alignments. The page gives Vajra Safahr as Neutral and Savra Belabranta as Lawful Good, matching their Notable Figure pages; the wiki (5e) gives Vajra lawful neutral and Savra neutral good. Saeth, Durnan and Mirt match the wiki.
 > - **Conflicts:** Savra's time in the Howling Hatred. The page says she left about three years ago. The wiki places her in the cult during the 1491 DR crisis, about a year before the campaign (*Princes of the Apocalypse*). The page keeps the campaign value.
 > - **Conflicts:** Tower of Luck. The Dragon Heist temple table lists it in the Castle Ward; the Dragon Heist Sea Ward text and `waterdeep-lore.md` place it in the Sea Ward. Ruling 1 (the published adventure wins on temples) follows the table, so it is a Castle Ward temple, and the split is stated on this page and the **Sea Ward** page. `waterdeep-lore.md` also puts the Selûne temple in the Sea Ward, which the table agrees with.
 > - **Conflicts:** Temple of Helm. The Dragon Heist temple table places Helm's Hall in the Southern Ward, and ruling 1 follows it, so the Temple of Helm is not a Castle Ward temple. The earlier Castle Ward placement came from `player-factions-overview.md` (line 99) and the Order of the Gauntlet files.
-> - **Conflicts:** City Watch headquarters and the Masked Lords' seat. `waterdeep-lore.md` (line 14) puts both in the ward; Dragon Heist Ch.9 names neither. The wiki settles the Watch: its main base is the Palace of Waterdeep, in the Castle Ward. The Masked Lords' seat is still unsourced.
+> - **Settled by the user (Session 51):** The Watch's main base is the Palace of Waterdeep, in the Castle Ward (wiki). The old outline's separate Watch headquarters in the ward (`waterdeep-lore.md` line 14) is not used. **Still open, not part of this ruling:** the Masked Lords' seat, which is unsourced.
 > - **Conflicts:** Dragonward. `waterdeep-lore.md` (line 50) said it bars dragons without the Open Lord's permission; Dragon Heist says dragons are physically unable to enter unless touched by the dragonstaff of Ahghairon. Ruling 2 of the Pass 3 brief follows Dragon Heist, and the page does too.
 > - **Conflicts:** Walking-statue size. `waterdeep-lore.md` (line 51) called all eight 90 feet tall and dormant; Dragon Heist gives 90 feet only for the original statue and nine stories for the Honorable Knight (`adventure-wdh.json:30693`). Ruling 3 of the Pass 3 brief follows Dragon Heist, and the page does too.
 > - **Settled:** Barnibus Blastwind (ruling 4). His Notable Figure page now calls him a Watchful Order investigator with a Sea Ward estate (`02-barnibus-blastwind.md:6,22,26`), as Dragon Heist does, and tags "Magistrate" as a campaign-only title in the Lords' Alliance events (`r10-stingblade/ev-01-stingblade.md:122`, `m04-the-archer-above/ev-01-the-archer-above.md:396`). The Pass 4 brief (call 5) dropped "personally compromised", which no source supports.

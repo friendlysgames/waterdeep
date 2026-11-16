@@ -31,7 +31,7 @@ At noon on the day after the member reaches Renown 3, a grey pigeon finds them w
 > - Jeryth has watched the member's work through the roots and the groundwater. The rank records her decision to keep a closer eye on the member, and Melannor's book follows her.
 > - The healing is a favor she grants to people who are hurt doing the Enclave's work. She does not offer it to anyone else, and she does not offer it for free to a stranger.
 > - The network is made of ordinary people: gardeners in the City of the Dead, park wardens near the Field of Triumph and two fisherfolk on the south quay. They do not know they report to a druid, and they tell Melannor what they notice.
-> - Nobody in this Event can say Manshoon's name, or call Kolat Towers his home, unless **Manshoon Named** is marked for the member. Melannor says "the Splinter" or "the other cell", and the Trades Ward report stays closed until the outcome is marked.
+> - Nobody in this Event can say Manshoon's name, or call Kolat Towers his home, unless **Manshoon Named** is marked for the member. Melannor says "the Splinter" or "the other cell", and the Southern Ward towers report stays closed until the outcome is marked.
 > - Phaulkonmere is one block south of Kolat Towers, and before the gate nobody points at the towers or says what they are.
 > - Nobody in the Enclave knows what the Sea Ward villa is hiding or names its owners, and Melannor reports only what the butterflies do.
 > - Jeryth has felt a dreaming presence below the city for months. She does not know its name, and she says only "Something dreams below."
@@ -187,7 +187,7 @@ Melannor takes a folded paper from his coat and unfolds it on the lid of a rain 
 > - **Dock Ward, before Tarsakh 20:** "Fish keep away from the water beneath the hull of the *Eyecatcher*. The water there changes temperature in ways a ship should not cause."
 > - **Dock Ward, from Tarsakh 20:** "Odd fungi follow the drains below the harbor. The water flow is cut against its gradient. Small animals will not return from certain junctions. Something large is being dug."
 > - **Southern Ward:** "Jeryth has felt a wound in the ley lines near Coachlamp Lane for a tenday and a half. It is not healing. The Enclave has no lead on the cause."
-> - **Trades Ward:** if **Manshoon Named** is marked for the member: "Dead birds lie at the foot of an invisible wall. The grass is dead in a band three feet wide around it. No insects live within twenty feet. Find the anchor, destroy it, and the field collapses." Otherwise: "Nothing the animals will carry."
+> - **Southern Ward, the towers:** if **Manshoon Named** is marked for the member: "Dead birds lie at the foot of an invisible wall. The grass is dead in a band three feet wide around it. No insects live within twenty feet. Find the anchor, destroy it, and the field collapses." Otherwise: "Nothing the animals will carry."
 > - **Field Ward and Undercliff:** if **Splinter Site Reported** is marked for the member: "The Undercliff animals will not cross the north fields at dusk. The chalk circle in the north fields is cold and empty. Nobody has come back to it." Otherwise: "The Undercliff animals will not cross the north fields at dusk."
 > - **Castle Ward:** "Nothing the animals will carry. The cisterns run slow and quiet."
 > - **North Ward:** "Nothing the animals will carry."
@@ -224,7 +224,7 @@ The Event concludes when the member has heard all three benefits and left Phaulk
 >
 > - **Summerstrider Reached** — mark with the recipient's name when Melannor names the rank at the gate. It is read by **Autumnreaver**, which checks it before naming the next rank. Track separately for each member the day of the last message sent. Also track the day each ward was last asked about and the Long Rest after which the last healing was cast.
 >
-> This Event also reads **East Gate Key Held** (the garden's hours for the healing), **Splinter Site Reported** (the Field Ward report) and **Manshoon Named** (the Trades Ward report).
+> This Event also reads **East Gate Key Held** (the garden's hours for the healing), **Splinter Site Reported** (the Field Ward report) and **Manshoon Named** (the Southern Ward towers report).
 
 > [!gamemaster]**Next Steps**
 >
