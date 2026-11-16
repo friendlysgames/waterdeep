@@ -11,7 +11,7 @@
 
 **Resonance.** Malcolm should inspire pity for a man who loved his theater enough to haunt it; endearment with his fussy pride in the building's artistic integrity; and useful surprise when his grievance against Jarlaxle turns out to be the intelligence the party needed.
 
-**Emotions.** Malcolm most often feels proprietary outrage at the Lantanese machinery in the basement, anxious concern about the theater's reputation, a director's eye that notices everything that has changed, and the specific unhappiness of a ghost who died too early to see what his theater would become.
+**Emotions.** Malcolm most often feels proprietary outrage at the drow who use his dressing room, anxious concern about the theater's reputation, a director's eye that notices everything that has changed, and the specific unhappiness of a ghost who died too early to see what his theater would become.
 
 **Motivations.** Malcolm wants to protect the Seven Masks Theater's reputation, convince someone worth convincing that "Rongquan Mystere" is not who he claims, and move props in a way that communicates his displeasure without being dismissed as a poltergeist.
 
@@ -19,11 +19,11 @@
 
 ## Character Information
 
-**Persona.** To the world, the Seven Masks Theater has a ghost that moves props during rehearsals and occasionally hisses at actors who project poorly. To those who speak with him, Malkolm Brizzenbright is the theater's founder — appalled by the Lantanese machinery in the basement, anxious about the drow who uses a secret door he did not put there, and offended by a man who introduced himself as "Rongquan Mystere" when the handwriting on his correspondence is obviously not Tethyrian. Deep down, he has been waiting for someone to tell, and the only question is whether they are worth telling.
+**Persona.** To the world, the Seven Masks Theater has a ghost that moves props during rehearsals and occasionally hisses at actors who project poorly. To those who speak with him, Malkolm Brizzenbright is the theater's founder — anxious that his theater not be used for nefarious purposes, certain that "Rongquan Mystere" is a false name, and able to point to the empty dressing room where drow agents in trouble hide. Deep down, he has been waiting for someone to tell, and the only question is whether they are worth telling.
 
 **Morale.** Malcolm is a ghost. He passes through walls, can terrify intruders, and moves props. He avoids combat because the theater cannot afford the damage.
 
-**Relationships.** Malkolm Brizzenbright is the founding ghost of the Seven Masks Theater, the only witness to the secret door between the theater and the Vault of Dragons, and a man whose handwriting analysis of Jarlaxle's correspondence is reliable to anyone with a Harper contact who has seen the original letters.
+**Relationships.** Malkolm Brizzenbright is the founding ghost of the Seven Masks Theater, the one who knows "Rongquan Mystere" is a fake identity, the witness who can identify the dressing room Bregan D'aerthe keeps as a safe house, and the man who once saw "Rongquan" speaking with drow in the lobby during a performance of *The Mad Mage's Seven Riddles*, when they mentioned something called the Sea Maidens Faire.
 
 ## Overview
 
