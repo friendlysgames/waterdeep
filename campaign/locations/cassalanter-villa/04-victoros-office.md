@@ -27,3 +27,9 @@ No check required to find the desk's surface papers. Thirteen loan contracts —
 Also in the hidden compartment: the **Cassalanter Report on the Grand Game**. This document is a hand-written summary of the current faction competition for the Stone of Golorr, prepared by Victoro for his own reference. It references Manshoon's operations directly, identifies Kolat Towers by name and location, describes Zhentarim splinter movements in the Castle Ward, and includes the note: *"The wizard who calls himself Manshoon guards his fortress with a force field that admits only those he has keyed."* This is the Three Clue Rule path to Kolat Towers — Kolat Towers.
 
 A second copy of the Cassalanter Report on the Grand Game is kept in C22 (Ammalia's study), ensuring that parties who do not reach C6 still have access to the Kolat Towers clue.
+
+#### The Cassalanter Twins
+
+On a day with no event, Terenzio lies on the floor of the third-floor corridor from 4 to 5, looking through the gap under the door's lower hinge. His father gets very cross when he finds him there. A party member who reaches the door in that hour finds him, and he greets them as described in **The Cassalanter Twins** in the **Cassalanter Villa Area Overview**. Then he whispers: "There's a knight in there. It never moves. I think it's asleep."
+
+Terenzio tells Nana Rosse about any stranger he saw at the door, and she reports it to the household that evening.

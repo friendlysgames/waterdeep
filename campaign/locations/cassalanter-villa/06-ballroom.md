@@ -17,3 +17,7 @@ During the Charity Ball, Goldenight gala, or any social event, the ballroom is t
 **Ammalia's Pattern.** During social events, Ammalia rotates through C13 (ballroom), C15 (banquet hall), and C25 (butterfly garden) on a twenty-minute cycle. If the party is tracking her position for access to C22, her C13 presence is the departure point — she moves upstairs to C22 only at the event's end.
 
 **The Floor Mosaic.** The Siamorphe sun symbol is still here, unchanged. The Cassalanters have not defaced it — unlike the temple below, where every Siamorphe image was reshaped. The ballroom floor is Waterdeep's finest craftsmanship. The contrast between this floor and the carved defacement in A3 and A7 is available to any party member who has seen both.
+
+#### The Cassalanter Twins
+
+On Caravance the family hunts presents here from noon to 2, with Victoro, Ammalia, and Nana Rosse. The twins greet the party as described in **The Cassalanter Twins** in the **Cassalanter Villa Area Overview**. Terenzio stands in the middle of the mosaic and tells anyone who looks at it: "Mama says it's a sun. I think it's a flat dragon." Elzerina searches the mannequin's alcove and warns the mannequin: "You'd better not have my present." The mannequin does not move. At social events the twins are upstairs and are not in the ballroom.

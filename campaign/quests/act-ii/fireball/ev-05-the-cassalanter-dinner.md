@@ -9,7 +9,7 @@
 > - Ammalia is warm, attentive, and genuine; she is not performing.
 > - Victoro makes a calibrated pitch after the first course — he wants to be "in the room."
 > - The party's response (four tracks) shapes the Cassalanter operational picture entering Cassalanter Villa.
-> - No infernal pact, children, or Asmodeus are mentioned. This is not the conversation for those.
+> - No infernal pact or Asmodeus is mentioned. This is not the conversation for those.
 >
 > **Trigger:** The party accepts Ammalia's invitation. The invitation arrives by messenger within one day of the fireball. The dinner takes place the following evening.
 >

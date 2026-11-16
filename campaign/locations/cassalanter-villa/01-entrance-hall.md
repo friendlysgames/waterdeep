@@ -21,3 +21,9 @@ Portraits carry information for observant players. A DC 14 Intelligence (History
 Doppelganger, tiefling disguise. Combat behavior: Multiattack in his natural form; flees through the service corridor if reduced below 15 HP. His absence triggers an immediate household response — Ammalia checks on him within 15 minutes of any gap in his presence.
 
 During normal operations, Willifort reads surface thoughts passively. A creature actively controlling surface thoughts must make a DC 13 Charisma (Deception) check per interaction with him. Failure: he flags a concerning thought to Ammalia but does not immediately escalate — the party advances to Stage 2. If a creature is immune to *Charm Person* or has active mind-protection (e.g., *ring of mind shielding*), Willifort notices the blank spot: he cannot force a reading, but the absence registers as anomalous. He notes it and does not react unless other triggers accumulate.
+
+#### The Cassalanter Twins
+
+Terenzio and Elzerina are in C1 at two times. At a social event, Ammalia brings them down for the first fifteen minutes after the doors open, with Nana Rosse a step behind, and then Nana Rosse takes them up to C18. On Caravance they are here from 10 to noon with Victoro and Ammalia, hunting presents under the stair and behind the portraits. They greet the party as described in **The Cassalanter Twins** in the **Cassalanter Villa Area Overview**.
+
+At a social event Nana Rosse has taken Elzerina's wooden sword at the stair, and Elzerina tells the nearest party member: "They took my sword. It's only wood." Terenzio roars once at the harpsichord player and is hushed.

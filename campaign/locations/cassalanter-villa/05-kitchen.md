@@ -19,3 +19,7 @@ During social events: Jandar and full staff in the kitchen, serving food to gues
 **The Carving Knives.** If Jandar speaks the command word "For'zaal," ten flying swords animate from the knife rack and attack on his direction. Deactivation word: "Basta" — obtainable from Fiorella (she overheard it once and doesn't know what it means) or by succeeding on a DC 14 Charisma (Intimidation) check directed at Jandar mid-combat.
 
 **Founders' Day:** Jandar is outside on the lawn pavilion, preparing the charitable feast. The kitchen is empty except for Fiorella, who has been told to stay inside. The cellar key ring is on its hook, the carving knives are on the rack, and the kitchen door to the garden is propped open for Jandar's supply runs.
+
+#### The Cassalanter Twins
+
+On a day with no event, Elzerina waits in the corridor outside the kitchen from 4 to 5, hoping Fiorella will slip her a biscuit from the good tray. She greets a party member who passes as described in **The Cassalanter Twins** in the **Cassalanter Villa Area Overview**, and then says: "I'm waiting for Fiorella. She saves me the honey ones." If anyone asks her about the cellar, she tells them what she knows of the door behind the sun (see **C28 — Wine Cellar**). Jandar does not allow the twins in the kitchen, and Elzerina does not try to go in.
