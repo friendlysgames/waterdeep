@@ -56,7 +56,7 @@
 - Their leaders are Davil Starsong, Master of Opportunities and Negotiations; Istrid Horn, Master of Trade and Coin; Skeemo Weirdbottle, Master of Magic; Tashlyn Yafeera, Master of Arms and Mercenaries; and Ziraj the Hunter, Master of Assassination.
 - They were sent to Waterdeep in 1489 DR to establish a Zhentarim foothold. The published adventure says only that they came "three years ago".
 - They want a legitimate economic foothold, which means alliances with local guilds and nobles. They have formed several, run afoul of other houses, and fended off Harper spies.
-- Their fronts are ordinary businesses. Davil holds court in a curtained room at the Yawning Portal, Istrid lends money from a Dock Ward warehouse, and Skeemo runs Weirdbottle's Concoctions in the Trades Ward.
+- Their fronts are ordinary businesses. Davil holds court in a curtained room at the Yawning Portal, and Skeemo runs Weirdbottle's Concoctions in the Trades Ward. Istrid runs an illegal lending operation out of a heavily guarded warehouse in the Dock Ward (`adventure-wdh.json` line 31934).
 - Tashlyn serves as Captain of the City Guard at the South Gate under the dwarf magister Vorondar Levelstone. She has earned his confidence over two years, according to the Doom Raiders organization page, and the published adventure gives no duration.
 - The cell prefers contracts to confrontation and holds that the Black Network works best as a legitimate enterprise. Its agreements hold, and its violence is purposeful.
 - Davil wants to end the street violence that Manshoon's cell has caused, because a legitimate criminal enterprise cannot run in a city where an illegitimate one keeps shooting people.
