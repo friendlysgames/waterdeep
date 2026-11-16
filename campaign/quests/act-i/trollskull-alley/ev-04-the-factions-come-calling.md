@@ -42,7 +42,7 @@ Each faction's First Meeting is its own event:
 
 ### Bregan D'aerthe Recruitment
 
-D'aerthe spies shadow the party for several days. The party may recognize them; if they report the surveillance to the Watch, contact ends permanently. Otherwise, J.B. Nevercott — haberdasher, burgundy coat, *hat of disguise* — arrives at Trollskull Manor's front door, maintains his fiction until he is secure, then names Bregan D'aerthe and offers a first assignment. If **Ryvarra Identified** is True, his opening shifts.
+D'aerthe spies shadow the party for several days. The party may recognize them; a character who gives the Watch the surveillance report is closed out of Bregan D'aerthe for the rest of Acts I through III, and the other characters keep the offer. Otherwise, J.B. Nevercott — haberdasher, burgundy coat, *hat of disguise* — arrives at Trollskull Manor's front door, maintains his fiction until he is secure, then names Bregan D'aerthe and offers a first assignment. If **Ryvarra Identified** is True, his opening shifts.
 
 *Full First Meeting write-up, including all three branches and the Nevercott scene: [**Bregan D'aerthe First Meeting**](../../faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md)*
 
@@ -118,8 +118,8 @@ At least one party member enrolled with Bregan D'aerthe.
 #### BD Acknowledged: True / False
 The J.B. Nevercott meeting proceeded. Zardoz Zord's relationship with the party during Sea Maidens Faire is shaped by this flag.
 
-#### BD Contact Severed: True / False
-The party reported the BD surveillance to the Watch. Overrides *BD Acknowledged* if both are set.
+#### BD Contact Severed
+The **Bregan D'aerthe First Meeting** marks this for each character who gives Sergeant Dunmere their name or attacks Nevercott, so this Event does not. It closes Bregan D'aerthe for that character only. Read by **Contact Severed** and **Sea Maidens Faire**.
 
 > **[GM]**
 >

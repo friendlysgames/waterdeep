@@ -16,7 +16,7 @@ For the between-sessions procedure (the tenday faction check, faction state trac
 
 The campaign's central plot runs through a chain of objects, each one gatekeeping the next.
 
-**The Stone of Golorr** — an aboleth creation. At campaign start it is in Dalakhar's possession; Dalakhar was a rock gnome spy in Neverember's employ, carrying the Stone to Trollskull Manor when the fireball killed him. The Gralhunds recovered it from the blast site. The party acquires it during **Gralhund Villa**. The Stone can name the location of Neverember's Vault, but Neverember blinded it by removing three Eyes before losing control of it. Without all three Eyes seated in the Stone, it reveals nothing useful.
+**The Stone of Golorr** — an aboleth creation. Xanathar holds it in its lair until Dalakhar, a rock gnome spy in Neverember's employ, steals it on Ches 20; he was carrying it to Trollskull Manor when the fireball killed him on Ches 22. The Gralhunds recovered it from the blast site. The party acquires it during **Gralhund Villa**. The Stone can name the location of Neverember's Vault, but Neverember blinded it by removing three Eyes before losing control of it. Without all three Eyes seated in the Stone, it reveals nothing useful.
 
 **Eye #1** — formerly held by Manshoon's Zhentarim, who stole it from Protector's Enclave in Neverwinter. Xanathar killed the Zhentarim envoys who brought it to him and seized the Eye. It now resides in Xanathar's Lair sanctum.
 
@@ -31,7 +31,7 @@ The campaign's central plot runs through a chain of objects, each one gatekeepin
 
 **The Vault of Dragons** — 500,000 gold dragons, guarded by the adult gold dragon Aurinax under a geas, beneath the Brandath Crypts in the City of the Dead. The vault opens only when someone presents the complete Stone of Golorr, with all three Eyes restored, and speaks the command phrase the Stone reveals.
 
-## Faction Knowledge at Campaign Start
+## Faction Knowledge When Fireball! Opens (Ches 22)
 
 | Faction | What They Know | What They Have | What They Need |
 |---|---|---|---|

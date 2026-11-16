@@ -56,7 +56,7 @@ The MacGuffin chain runs in a straight line: the Stone of Golorr names the vault
 | [Bonds and Flaws](bonds-and-flaws.md) | During character creation — where each Flaw lands in the campaign |
 | [Adventure Summary](adventure-summary.md) | Before pitching to players — four-act shape, milestone progression, pacing |
 | [Structural Rules](structural-rules.md) | Before **Finding Floon** — Two Zhentarims, response teams, festival calendar, Three Clue Rule |
-| [Running the Villains](running-the-villains.md) | Before **Finding Floon** — MacGuffin chain, faction knowledge at campaign start, escalation tiers |
+| [Running the Villains](running-the-villains.md) | Before **Finding Floon** — MacGuffin chain, faction knowledge when **Fireball!** opens, escalation tiers |
 | [The Grand Game in Play](grand-game-in-play.md) | Before **Trollskull Alley** — faction starting positions, between-session tracking procedure |
 | [Player Factions Overview](player-factions-overview.md) | Before **Trollskull Alley** — renown rules, conflicting loyalties, Bregan D'aerthe unique mechanic |
 | [Design Notes: Running the Campaign](design-notes-running-the-campaign.md) | Any time you want the argument behind a structural choice — not required prep |
