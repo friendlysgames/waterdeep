@@ -48,7 +48,7 @@ Starting Fame rolled or set per the **Trollskull Manor** guide, Fame. Key guests
 
 **Volo Geddarm** — Attempts a review for his next publication. Spills ink on two pages.
 
-**Lif** (if appeased) — Mark **Lif Appeased** here, if it is not already marked. He is behind the bar before anyone asks. Bar tools laid out. Chalk slate updated. He has decided.
+**Lif** (if appeased) — Mark **Lif Appeased** here. He is behind the bar before anyone asks. Bar tools laid out. Chalk slate updated. He has decided.
 
 ### Ammalia Cassalanter
 
@@ -76,7 +76,7 @@ Three threads land here. None resolves; all are designed to accumulate below the
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Lif Appeased** — mark when Lif is behind the bar on opening night, if it is not already marked. He has extended professional courtesy to the new owners and has no intention of leaving. Read by the **Trollskull Manor** guide, whose full bartender mechanics apply from this point forward, and by **Fireball!** (Spirit Haunting).
+> - **Lif Appeased** — mark when Lif is behind the bar on opening night. He has extended professional courtesy to the new owners and has no intention of leaving. Read by the **Trollskull Manor** guide, whose full bartender mechanics apply from this point forward, and by **Fireball!** (Spirit Haunting).
 > - **Ammalia Cassalanter Met** — mark when Ammalia attends the opening. Read by **Cassalanter Villa**, where her quest-entry disposition is shaped by this first contact.
 > - **Undermountain Thread Activated** — mark when the first of the three seeds is received. Read by the intelligence briefing in **Xanathar's Lair**, where the full three-seed cluster becomes relevant.
 

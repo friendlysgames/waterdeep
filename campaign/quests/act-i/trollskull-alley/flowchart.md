@@ -80,6 +80,7 @@ GM observation runs: ev-01 → ev-02 → ev-03 → ev-04 → ev-05 → ev-06
 | Two Zhentarims Known | ev-03 | ev-04 (Doom Raiders enrollment context) |
 | Harpers Joined, Force Grey Joined, Doom Raiders Joined, Bregan D'aerthe Joined | ev-04 | the **Factions** guide pages (missions); Faction Outposts (outpost access) |
 | Lords' Alliance Joined, Emerald Enclave Joined, Order of the Gauntlet Joined (per character) | the faction's First Meeting | the **Factions** guide pages (missions); Faction Outposts (outpost access) |
+| Filthy Meg Referred | ev-04 | ev-04 (the opening Persuasion DC drops from 16 to 12) |
 | BD Acknowledged | ev-04 | Sea Maidens Faire (Zardoz relationship) |
 | BD Contact Severed (per character) | the Bregan D'aerthe First Meeting | Contact Severed; Sea Maidens Faire (no BD relationship for that character) |
 | Meloon Met | ev-05 | Force Grey Mission 3 |
