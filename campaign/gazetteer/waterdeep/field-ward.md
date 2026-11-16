@@ -215,10 +215,10 @@ Sensory anchors for the GM to build the passage from (not written out):
 ## Cross-References
 - **Waterdeep**: city overview and the other wards.
 - **North Ward**: the other side of Aveen Street and the Asmodean shrine.
-- **Castle Ward**: the Halls of Justice, Savra Belabranta's office and the Temple of Helm in the campaign's Marcheon list.
+- **Castle Ward**: the Halls of Justice and Savra Belabranta's office.
 - **Dock Ward**: Mistshore, Filthy Meg's base, and Pell's drinking den.
 - **Trades Ward**: the well and bench where Halla waits.
-- **Southern Ward**: where the campaign puts the Cassalanters' Converted Windmill.
+- **Southern Ward**: where the campaign puts the Cassalanters' Converted Windmill, and the Temple of Helm in the campaign's Marcheon list.
 - **The City Watch**: the Watch and the Guard.
 - **The Code Legal and the Magisters**: the magisters who register visitors at the gates.
 - **The Open Lord and the Masked Lords**: who could accept the ward as an official ward.
