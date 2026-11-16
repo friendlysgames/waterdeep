@@ -82,7 +82,7 @@ Xanathar's Guild is the largest criminal organization in Waterdeep, and the only
 - `sources/11. Lair Xanathar's Lair.pdf`: full lair reference
 - Earlier outline of this page (retired), Section 2: Xanathar
 - `campaign/setting/history/02-the-long-shadow.md`: the title, continuity method, ascension and Skullport bullets in Background
-- `campaign/setting/waterdeep-lore.md`, Wards: the Dock Ward and Undermountain bullets in Background
+- the retired Waterdeep outline, Wards: the Dock Ward and Undermountain bullets in Background
 - `campaign/setting/organizations/08-xanathars-guild.md` and `campaign/setting/notable-figures/xanathars-guild/`: public face used in the Overview, and name verification
 - Forgotten Realms Wiki, Xanathar and Xanathar's Thieves' Guild (2e to 5e): the title's derivation, Zushaxx (1492 DR), Kirukeskai (1372 DR). Skullport (*City of Splendors* 2e; *Forgotten Realms Campaign Setting* 3e): its place on Undermountain Level 3.
 

@@ -125,7 +125,7 @@ Dagult Neverember was Open Lord of Waterdeep for some twenty years, until the Ma
 
 ## Source References
 
-- `campaign/setting/waterdeep-lore.md` (line 20): the old outline bullet that names the Brandath Mausoleum and the Brandath Crypts. This page and **City of the Dead** replace it.
+- the retired Waterdeep outline (line 20): the old outline bullet that names the Brandath Mausoleum and the Brandath Crypts. This page and **City of the Dead** replace it.
 - `sources/adventure-wdh.json` lines 451-454: the embezzlement, the wizard's memory erasure, the Stone, the vault and Aurinax's bargain. Line 32204: Neverember ousted "a few years ago". Lines 7045, 7587, 10612 and 9778 (also 8358-8368): the four published vault sites, and the mausoleum with its treant and the Brandath marriage. Lines 13471, 14521 and 14522: the three keys, the door text and the command word. Line 13735: the wards. Lines 14750-14763: Aurinax and the treasure. Lines 31745-31747: Maaril, the dragonstaff and the bargain.
 - `sources/19. The Brandath Crypts.pdf` (printed pp.130-131): the Melairkyn vault, the Maroon Brotherhood, Neverember's discovery and the Cassalanters' survey.
 - `sources/20. The Vault.pdf` (printed pp.136-140): the antechamber, the ceremony and its components, and the Alexandrian's note about a red dragon.
@@ -179,5 +179,5 @@ Dagult Neverember was Open Lord of Waterdeep for some twenty years, until the Ma
 > - **Left out:** The vault's keyed rooms, the Broken Circle of Gods frescoes, Harlsnod's tomb and the Mad Mage bridge hooks (`arc-j:140-158`, `:270-276`). They belong to **Vault of Dragons**. The Faction-State Summary Table and Neverember's arrival belong there too.
 > - **Left out:** The Alexandrian's claim that Neverember used the local Zhentarim's resources for the embezzlement (`history/06:45`), the wiki's separate million-gold scheme with House Margaster (`history/06:165`), and the fifth site in *Idle Champions of the Forgotten Realms*, a North Ward villa (`wiki.txt:43`). None is used in the campaign.
 > - **Left out:** The Eye placements, the Stone's aboleth origin and the Eye route to Jarlaxle. They belong to **The Stone of Golorr and the Eyes**, and the only mentions here are pointers.
-> - **Routed facts:** Retarget `waterdeep-lore.md:20` and the `arc-e:33` and `running-the-villains.md` lines above at the Pass 3 close-out. `moradin.md:67` already says "Never reveal" the vault, and this page agrees with it.
+> - **Routed facts:** Retarget the retired Waterdeep outline, line 20 and the `arc-e:33` and `running-the-villains.md` lines above at the Pass 3 close-out. `moradin.md:67` already says "Never reveal" the vault, and this page agrees with it.
 > - **Not run:** `voicecheck.py` was not run, because this agent has no shell.

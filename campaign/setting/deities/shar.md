@@ -90,7 +90,7 @@ Shar is the god of darkness and loss, also known as the Lady of Loss and the Mis
 - Same note, SCAG p.21 entry (2014), used for alignment, domains and symbol. Marked "SCAG, 2014" where used. The PHB p.294 entry (2014) gives the same alignment and domains and a symbol with no border color.
 - `sources/adventure-wdh.json`: the Major Temples of Waterdeep table (no Shar row, line 30910 onward) and the Selûne's Hallowing entry (line 31558).
 - `sources/adventure-wdmm.json`: the Vanrakdoom background (lines 48599 to 48631), the cult of Shar (line 48712), Keresta's map (line 50537), the altar tenets (lines 50781 to 50788), the ending (line 50852), Lady Wylynd's request (lines 472 and 473) and Midna Tauberth (lines 4051 and 6387).
-- `campaign/setting/waterdeep-lore.md` (line 36): Selûne's temple in the Sea Ward.
+- the retired Waterdeep outline (line 36): Selûne's temple in the Sea Ward.
 - `campaign/setting/history/09-timekeeping-and-the-festival-calendar.md` (line 50): the Feast of the Moon.
 - `campaign/setting/deities/lathander.md` (lines 49, 52 and 82) and `mystra.md` (line 59): the wording of the Keresta seed and of the 1385 DR account, kept consistent with this page.
 - Forgotten Realms Wiki, Shar (editions and books tagged on the page): relations, origin and rise, holy days, the 1358 DR episode in Waterdeep, the Spellplague and the Second Sundering. The wiki is paraphrased, never quoted.

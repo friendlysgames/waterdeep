@@ -95,7 +95,7 @@ Asmodeus is the god of indulgence and the ruler of the Nine Hells, an archdevil 
 - `campaign/setting/history/05-a-debt-in-blood.md`: the pact, the three children, Osvaldo, the Founders' Day calculation.
 - `campaign/setting/organizations/10-cassalanters.md`: key members and cult roles, the twins' ninth birthday, the loophole ritual, the 99-person feast.
 - `campaign/setting/villains/cassalanters.md`: Asmodeus as creditor.
-- `campaign/setting/waterdeep-lore.md`: the illegal temple and the Code Legal offense.
+- the retired Waterdeep outline: the illegal temple and the Code Legal offense.
 - `campaign/guides/gm-guide/structural-rules.md` and `design-notes-running-the-campaign.md`: the 999,999 gp and ninety-nine souls terms, the Flamerule 11 deadline.
 - `CLAUDE.md`, "Cassalanter secrecy" rule: who knows what.
 - `campaign/setting/notable-figures/cassalanters/01-victoro-cassalanter.md`: Victoro's public worship of Lathander. `campaign/setting/organizations/10-cassalanters.md`: the family's public devotion to Siamorphe.

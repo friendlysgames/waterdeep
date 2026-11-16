@@ -267,7 +267,7 @@ This is the campaign's pivotal revelation. The GM should give this moment the we
 
 *Faction State Changes.*
 
-**Bregan D'aerthe.** Set the "BD operational?" flag. Five states:
+**Bregan D'aerthe.** Record one of five Bregan D'aerthe Event Outcomes:
 
 - *Allied (diplomatic resolution):* Jarlaxle traded the Eye for a political commitment. BD is now a campaign ally providing intelligence, operational support, and Jarlaxle's considerable personal charm. The cost: the party owes Luskan's Alliance bid genuine support. Jarlaxle will collect. The alliance does not make BD harmless — it makes them a partner with their own agenda.
 - *Impressed (heist succeeded, Jarlaxle confronted and negotiated):* Jarlaxle lost the Eye but gained respect for the party. He is not hostile — he is intrigued. BD continues to operate but treats the party as worthy opponents rather than targets. Jarlaxle may approach them for **Kolat Towers** or **Vault of Dragons** cooperation.
@@ -340,7 +340,7 @@ This quest's transition is open. The remaining lair heists are available in any 
 - **Xanathar's Lair** — Stone 1-Eye impressions (ship in harbor, bald elf) point toward this quest. Jarlaxle's simultaneous heist in **Xanathar's Lair** shapes this quest's stakes. Report on Seven Masks Theater (X35) provides third clue path to this quest.
 - **Cassalanter Villa** — Report on Cultists of Asmodeus (J30) provides Three Clue Rule path to **Cassalanter Villa**. "Vessa" the BD operative in **Cassalanter Villa** previews Jarlaxle's surveillance operations.
 - **Kolat Towers** — Jarlaxle's Report on the Grand Game (J30) and the Zhentarim pass-amulets (Scene 5) both provide independent Three Clue Rule paths to **Kolat Towers**. Combined with Jarlaxle's BD intelligence on Manshoon (alliance/patron path), this is the strongest entry path to **Kolat Towers** in the campaign.
-- **Vault of Dragons** — "BD operational?" flag set in this quest's Scene 6 affects **Vault of Dragons**' difficulty and approach options. Full Awakening (if Eye #3) launches **Vault of Dragons** directly.
+- **Vault of Dragons** — the Bregan D'aerthe Event Outcome recorded in this quest's Scene 6 affects **Vault of Dragons**' difficulty and approach options. Full Awakening (if Eye #3) launches **Vault of Dragons** directly.
 - **Undermountain (future)** — Zelifarn's grief and potential alliance seeds his future role if the party descends. Illuun's emerging consciousness in the Stone's Full Awakening connects to Undermountain Level 4.
 
 ---

@@ -213,10 +213,9 @@ Key content per faction:
 **Manshoon's Zhentarim outposts:**
 - Yellowspire (wizard tower in Castle Ward — contains teleportation circle to Kolat Towers, key infiltration route)
 - Safe house near Trades Ward with coded correspondence
-- Hired-muscle front company in the Field Ward
 
 **Cassalanter outposts:**
-- Converted windmill in North Ward (contains a clue pointing to the Brandath Crypts — key to finding the vault entrance)
+- Converted windmill in Southern Ward (contains a clue pointing to the Brandath Crypts — key to finding the vault entrance)
 - Sea Ward property used as a social cover location
 - Temple of Asmodeus secondary prayer site in Southern Ward (reveals the infernal connection)
 
@@ -284,7 +283,7 @@ Key content:
 - Eye #3: Jarlaxle has it — aboard the *Scarlet Marpenoth*
 - The Stone of Golorr itself: PCs will acquire it during **Gralhund Villa**. The Stone without its Eyes cannot open the vault — this is why all three lair heists are required.
 - Eye retrieval mechanics: what the Eye looks like, how it attaches to the Stone, what each successful Eye insertion reveals (clues that eventually point to the vault location)
-- Why Manshoon doesn't have an Eye: he knows the vault's theoretical location from research but can't open it without the Eyes, so he's trying to intercept the PCs at the vault rather than acquire Eyes directly.
+- Why Manshoon doesn't have an Eye: Xanathar killed the envoys who brought him Eye #1 and kept it, and the locket Eye went to Bregan D'aerthe. He needs the Stone plus any two Eyes.
 
 **When to consult:** Every lair heist (**Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**). **Vault of Dragons** (vault opening). Any time the Stone or Eyes are referenced in player descriptions or design notes.
 
@@ -322,7 +321,7 @@ Key content:
 - Social entry routes: attending a Cassalanter event (charity function, dinner party, temple service), servant infiltration, noble credentials
 - Adversary rosters: household staff, hired guards, Willifort Crowelle (doppelganger butler), chain devil, and the Cassalanters themselves
 - The children — Terenzio and Elzerina — as NPCs the PCs can interact with. The horror of their situation (pact-bound but unaware of the full implications) as a motivational hook.
-- Osvaldo the eldest son: transformed into a chain devil, kept in a basement cell. Tragic figure.
+- Osvaldo the eldest son: transformed into a chain devil, kept in an attic cell (C24). Tragic figure.
 - The infernal contract: physical location, what it looks like, how to destroy it
 - Five resolution paths for the children's pact (from the plan's Critical Design Decisions)
 - Founders' Day deadline mechanics and what happens if it passes
@@ -360,7 +359,7 @@ Key content:
 - Full keyed location: towers (22 areas) plus extradimensional sanctum (13 areas accessed via teleporters)
 - The force field: surrounds the towers, cannot be penetrated without a pass-amulet. Pass-amulets are held by Manshoon's named lieutenants — PCs must acquire them from an outpost (Yellowspire, see `5. Faction Outposts.pdf`) or by defeating a team in the field.
 - Teleporter signet rings: required to navigate the extradimensional sanctum. The non-linear spatial layout is the dungeon's main challenge.
-- The simulacrum: Manshoon runs at least one simulacrum. Defeating the simulacrum triggers the real Manshoon. Players may not realize which they fought until after the encounter.
+- The simulacrum: Manshoon runs at least one simulacrum. Defeating the simulacrum does not end Manshoon: it fights while he escapes, and if it is destroyed he makes another. Players may not realize which they fought until after the encounter.
 - Manshoon's spellbook: secondary treasure target, contains several unique spells he developed.
 - Reinforcement clock: Manshoon's lieutenants will reinforce if combat is prolonged. The raid is designed for speed over stealth.
 
@@ -425,7 +424,7 @@ Key content:
 **Contents:** An optional investigation branch in **Fireball!** — following Dalakhar's trail backwards to understand where he came from and why he was targeted.
 
 Key content:
-- Kalain the painter: an artist who briefly sheltered Dalakhar before the fireball. Her studio in the Trades Ward is a clue location.
+- Kalain the painter: an artist who briefly sheltered Dalakhar before the fireball. Her crumbling harbor tower is a clue location.
 - Dalakhar's route: reconstructing his movements through Waterdeep in the days before his death (safe houses used, who he contacted, which factions were already tracking him)
 - Information yielded: context for the Grand Game, confirmation that multiple factions were hunting Dalakhar simultaneously
 - Why this is optional: all the investigation-critical clues about the nimblewright are available via `15. The Nimblewright Investigation.pdf`. This branch adds depth and rewards thorough PCs but is not required.

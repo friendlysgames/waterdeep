@@ -201,7 +201,7 @@ Both milestones are awarded regardless of order — some parties may follow the 
 
 *Transition to Arc B.* The party holds a deed to a derelict tavern. They are residents of Trollskull Alley. The city faction recruitment, Manor renovation, and the first rumors of something called "Neverember's Enigma" begin in Arc B.
 
-**Tone:** Warm, slightly chaotic, and quietly triumphant. The party solved a crime in a city full of crimes. They did not stop anything — the Eye Manshoon's cell extracted from Renaer's locket is already in Kolat Towers. But they saved two people and earned a home. That should feel like something.
+**Tone:** Warm, slightly chaotic, and quietly triumphant. The party solved a crime in a city full of crimes. They did not stop anything — the Eye Manshoon's cell extracted from Renaer's locket has already been carried off by Xanathar's Guild and then lifted by Bregan D'aerthe. But they saved two people and earned a home. That should feel like something.
 
 ---
 
@@ -232,7 +232,7 @@ All nine decisions are settled. No open items.
 1. **Bar brawl trigger and scope.** The Alexandrian's six-step enhanced opening: contact (Threestrings) greets party → pre-brawl tavern atmosphere and NPC interactions → Yagra (Doom Raiders) vs. Krentz (Xanathar) → The Dip ritual and Going Down Song → troll and stirges → Durnan's and Yagra's reactions → Volo introduced through Threestrings.
 2. **Party contact at the Yawning Portal.** **Threestrings** (Mattrim Mereg) — the bard performing at the YP. He greets the party, leads the Going Down Song, and introduces Volo. He is already in Appendix A; no new profile needed.
 3. **BD watcher identity.** **Ryvarra** — a drow woman posing as a Calimshan cloth merchant. Full profile written and added to Appendix A (Section 11, Bregan D'aerthe). Named field observer in Jarlaxle's Waterdeep intelligence network.
-4. **Which Zhentarim cell at the warehouse.** Manshoon's cell — Urstul Floxin's thugs. Not the Doom Raiders. The Eye extracted from Renaer's locket was delivered to Kolat Towers before the Xanathar Guild raid.
+4. **Which Zhentarim cell at the warehouse.** Manshoon's cell — Urstul Floxin's thugs. Not the Doom Raiders. The Eye extracted from Renaer's locket was carried off by Xanathar's Guild in the raid on the warehouse, and Bregan D'aerthe lifted it that night.
 5. **Skewered Dragon ownership.** Manshoon's Splinter Zhentarim. The Splinter operates the Skewered Dragon as an informal Dock Ward headquarters. The five men who followed Floon and Renaer out were Splinter thugs who have not returned.
 6. **Cassalanter name-drop delivery.** Renaer dialogue in Scene 3. He mentions the Cassalanters' property acquisitions near the Brandath tombs as an unexplained oddity, not a suspicion.
 7. **Nihiloor visibility level.** Q7: Nihiloor is seen briefly — rising, releasing its intellect devourer, gliding toward Q11. It uses dominate monster only to clear its escape path. No direct engagement. It vanishes through the Q11 portal into X22 of Xanathar's lair.

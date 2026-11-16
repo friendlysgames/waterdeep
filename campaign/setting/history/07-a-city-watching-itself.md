@@ -100,8 +100,8 @@ Laeral Silverhand is the Open Lord of Waterdeep, and she has held the office sin
 - `campaign/setting/organizations/02-lords-alliance.md` lines 36-39 and `campaign/guides/factions/03-lords-alliance.md` lines 7, 9, 34-35 and 54: what Laeral believes, the Writ, the escalation path, "three moves behind."
 - `campaign/guides/gm-guide/design-notes-running-the-campaign.md` line 93 and `campaign/structure/arc-j-vault-of-dragons.md` line 238: the 10 percent offer.
 - `campaign/quests/faction-events/lords-alliance/m06-an-audience-with-the-open-lord/overview.md` lines 21-27 and `r50-lioncrown/ev-01-lioncrown.md` lines 33-38 and 243-261: the Splinter offer, the Writ, Neverember's lock, "nobody is winning," the Halaster crystal.
-- The retired Grand Game outline (`grand-game.md`, now **The Grand Game** in the Grand Game journal): the City Watch as a character.
-- `campaign/setting/waterdeep-lore.md` line 24: her preference for a recovery out of public view.
+- The retired Grand Game outline: the City Watch as a character, retired at close-out (see `campaign/setting/the-grand-game/the-grand-game.md` line 54).
+- the retired Waterdeep outline line 24: her preference for a recovery out of public view.
 
 ## Cross-References
 
@@ -124,7 +124,7 @@ Laeral Silverhand is the Open Lord of Waterdeep, and she has held the office sin
 > - **Research:** The old outline's "reformist," "the kind of leader Ahghairon designed the system to produce," the vault story damaging the Lords' credibility, "watching and choosing not to intervene," and "has contingencies" have no source. The first two are dropped or tagged, and the last three are replaced by the newer pages.
 > - **Research:** The Lord Murders and the 1491 DR conspiracy appear in no campaign file, and the wiki account is now cited in the body. The Shieldmeet reading is derived from the wiki's 1372 DR rule. Whether Laeral knows how far the Lords have been penetrated is unstated.
 > - **Research:** Elminster, the Warden of Waterdeep, has no Notable Figures page. His pairing with Laeral comes from the published adventure.
-> - **Conflicts:** The vault. `history.md` lines 60-61 say Laeral suspects the vault exists and does not know where. `organizations/02-lords-alliance.md` line 38 and `guides/factions/03-lords-alliance.md` lines 7 and 9 say she believes it lies in Neverwinter. `waterdeep-lore.md` line 24 ("knows more than she lets on") partly overlaps. The newer pages win.
+> - **Conflicts:** The vault. `history.md` lines 60-61 say Laeral suspects the vault exists and does not know where. `organizations/02-lords-alliance.md` line 38 and `guides/factions/03-lords-alliance.md` lines 7 and 9 say she believes it lies in Neverwinter. the retired Waterdeep outline line 24 ("knows more than she lets on") partly overlaps. The newer pages win.
 > - **Conflicts:** `2. Other Factions.pdf` p.21 has Laeral considerably behind the curve and aware that a powerful artifact was stolen from the Palace during the ouster. No campaign file says this. The campaign has her not know the Stone resurfaced.
 > - **Conflicts:** Bregan D'aerthe. `adventure-wdh.json` lines 26632-26633 have Laeral arranging a meeting with Bregan D'aerthe spies in a Dock Ward alley, warned by Harper spies in Luskan. The campaign has nobody name Jarlaxle to her before **Jarlaxle Unmasked** (`r50-lioncrown/ev-01-lioncrown.md` line 38). This page follows the campaign and omits the meeting.
 > - **Conflicts:** Khelben. `adventure-wdh.json` line 32202 says Laeral married him. The wiki's Laeral page says she never did (City of Splendors: Waterdeep, 3e; Seven Sisters, 2e), but its Khelben Arunsun page calls her his lady love and speaks of his wife, so the wiki contradicts itself. The published adventure wins, and the campaign calls her his widow.
@@ -135,5 +135,5 @@ Laeral Silverhand is the Open Lord of Waterdeep, and she has held the office sin
 > - **Conflicts:** Caladorn Cassalanter. The wiki lists him as an Open Lord (City of Splendors: Waterdeep, 3e). The published adventure (line 18404) and the campaign make him a Masked Lord only.
 > - **Conflicts:** Vajra's tenure. The campaign says three years in the post. The wiki says the seventh Blackstaff took office in 1479 DR (4e), and the adventure (line 31193) names an earlier Blackstaff, Tsarra Chaadren, at the Spellplague and gives no tenure. This page gives no tenure.
 > - **Conflicts:** The Masked Lord's authority. `adventure-wdh.json` line 30516 lets any Masked Lord overturn a magister's ruling, and the wiki reserves sole executive powers to the Open Lord.
-> - **Settled:** The retired `grand-game.md` had no row for the Lords' Alliance or for Laeral. Pass 4 added the government's place and Laeral's information to **The Grand Game** (`the-grand-game/the-grand-game.md` line 40).
+> - **Settled:** The retired the retired Grand Game outline had no row for the Lords' Alliance or for Laeral. Pass 4 added the government's place and Laeral's information to **The Grand Game** (`the-grand-game/the-grand-game.md` line 40).
 > - **Routed facts:** Laeral's offer, the Writ and the Splinter offer belong in the Lords' Alliance operations page and the **Vault of Dragons** quest. Elminster as Warden belongs on the governance pages.

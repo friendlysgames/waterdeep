@@ -94,7 +94,7 @@ Xanathar's Guild is the largest criminal organization in Waterdeep and, accordin
 - `campaign/setting/villains/xanathar.md`: the Background bullets, the Zushaxx and Kirukesai ruling, pronouns, the Nar'l grell, the Manshoon war (lines 21-28, 56-58).
 - `campaign/setting/organizations/08-xanathars-guild.md`: Ahmaergo's role, the Nihiloor domination, public face (lines 22-24, 41).
 - `campaign/setting/notable-figures/xanathars-guild/` (Xanathar, Ahmaergo, Nar'l Xibrindas, Nihiloor, Ott Steeltoes): name verification and the Nar'l tenure.
-- `campaign/setting/waterdeep-lore.md` line 21: Skullport's depth and jurisdiction.
+- the retired Waterdeep outline line 21: Skullport's depth and jurisdiction.
 - `campaign/structure/arc-f-xanathars-lair.md` lines 9 and 167 and 346: the envoys and the Eye, area X33, the Undermountain thread.
 - `campaign/guides/gm-guide/running-the-villains.md` line 28: Eye #1 in Sylgar's bowl.
 - `sources/adventure-wdh.json`: the "Xanathar" appendix entry (line 32756), area X33 (lines 18014-18034), the lair's origin and exits (lines 15126, 17136), the Guild's ranks (line 1203) and its membership and support (lines 1423-1430), the Nar'l entry (line 32323).
@@ -146,7 +146,7 @@ Xanathar's Guild is the largest criminal organization in Waterdeep and, accordin
 > #### Draft Notes
 > - **Research:** The Span. The Guild's founding year is unsourced. 1357 DR is the wiki's first date (`Xanathar_Guild.txt` line 125), and "a century" from the old block is replaced by about 135 years from it.
 > - **Research:** Other Names. No in-world name for the era is sourced.
-> - **Research:** Skullport "outside city jurisdiction". `waterdeep-lore.md` line 21 and `xanathar.md` line 25 state it. Neither adventure does, and the wiki shows Waterdeep sentencing criminals there (`Skullport.txt` line 256). The old block's image of the Guild as the city's relationship to its sewers is invented flavor and was left out.
+> - **Research:** Skullport "outside city jurisdiction". the retired Waterdeep outline line 21 and `xanathar.md` line 25 state it. Neither adventure does, and the wiki shows Waterdeep sentencing criminals there (`Skullport.txt` line 256). The old block's image of the Guild as the city's relationship to its sewers is invented flavor and was left out.
 > - **Settled by the user (Session 47):** How the current Xanathar came to believe it is the original needs no source. The user's ruling fixes the belief (see the Settled bullet below), and the remix overrides the published detail.
 > - **Research:** How Zushaxx took the title. The wiki says Izulktur "replaced itself" with Zushaxx (`Xanathar_Guild.txt` line 149). The Waterdavian's Guide docx has Zushaxx plot with Nihiloor to kill Izulktur and gives Zushaxx an arrival in Skullport in 1205 DR as a slaver from the Graypeaks Hive (lines 455, 480-482). Neither is a campaign decision.
 > - **Conflicts:** The wiki says Zushaxx is "at least the fifteenth" Xanathar (`Xanathar_Guild.txt` line 151). X33 holds four bodies and nine urns (`adventure-wdh.json` lines 18022-18023), which is thirteen predecessors and makes Zushaxx the fourteenth. This page keeps thirteen and logs the wiki's count.

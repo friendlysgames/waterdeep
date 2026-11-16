@@ -181,7 +181,7 @@ Four resolution paths exist, and none of them is the GM's to pick in advance —
 
 ## Scene 5: The Faction Confrontation
 
-**Purpose.** Every faction thread the campaign has built converges here. Who shows up, and how dangerous they are, is a direct function of the flags set in the Faction-State Summary Table from Scene 1 — this scene is where those flags become an encounter. Dagult Neverember's arrival is the one constant: staged as a second wave, spatially separate from the villain confrontation, so his very personal reckoning with Renaer does not get lost inside a multi-faction brawl.
+**Purpose.** Every faction thread the campaign has built converges here. Who shows up, and how dangerous they are, is a direct function of the Event Outcomes set in the Faction-State Summary Table from Scene 1 — this scene is where those Event Outcomes become an encounter. Dagult Neverember's arrival is the one constant: staged as a second wave, spatially separate from the villain confrontation, so his very personal reckoning with Renaer does not get lost inside a multi-faction brawl.
 
 **Content.**
 
@@ -323,7 +323,7 @@ By the end of Scene 6 the Grand Game is formally concluded, and the campaign's c
 - **Xanathar's Lair** Scene 6 / **Cassalanter Villa** Scene 6 — both defer explicitly to "the 3-Eye disclosure scene from **Vault of Dragons**." Scene 1's Full Awakening text is that scene.
 - **Cassalanter Villa** — Esvele's Viper Den as a backup clue path; the Cooperative (Gold Delivered) resolution's promised gold share, paid out here in Scene 5.
 - **Sea Maidens Faire** Scene 6 ("Stone of Golorr Full Awakening") — the inline version of the disclosure, already published; Scene 1's canonical text is written to match it.
-- **Kolat Towers** Scene 6 — "Manshoon operational?" flag and the full Manshoon Identity Reveal, both read directly in Scene 5.
+- **Kolat Towers** Scene 6 — "Manshoon operational?" Event Outcome and the full Manshoon Identity Reveal, both read directly in Scene 5.
 - **Notable Figures** — Existing profiles used directly: Aurinax, Renaer Neverember, Hlam, Sir Ambrose Everdawn, Laeral Silverhand, Mirt, Jalester Silvermane, Vajra Safahr, Savra Belabranta, Jarlaxle, Manshoon. New profile added: Dagult Neverember.
 - **the Bestiary (not yet drafted)** — Boss stat block needed: Aurinax (see boss-design notes below).
 - the **Factions** guide pages — All seven Mission 6 entries (Missions section), quoted or paraphrased directly in Scene 1.

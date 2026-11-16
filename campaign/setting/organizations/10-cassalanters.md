@@ -91,8 +91,8 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 - `campaign/setting/villains/cassalanters.md`: Personality Phases, Relationships, Goals, Harpers watching, Willifort and the temple
 - `campaign/setting/history/05-a-debt-in-blood.md`: several generations on the registry, the terms of the bargain, the recovery plan, Ammalia's Founders' Day calculation
 - `campaign/setting/notable-figures/cassalanters/`: all fourteen pages, for public personas, motivations and the service-as-worship tenet
-- `campaign/setting/waterdeep-lore.md`: Sea Ward, Waukeentide galas, the illegal temple and the Code Legal
-- The retired Grand Game outline (`grand-game.md`, now **The Grand Game** and **What Each Faction Knows at Start**): front businesses, galas as recruitment screens, starting knowledge
+- the retired Waterdeep outline: Sea Ward, Waukeentide galas, the illegal temple and the Code Legal
+- **The Grand Game** and **What Each Faction Knows at Start** (`campaign/setting/the-grand-game/`): front businesses, galas as recruitment screens, starting knowledge
 - `campaign/setting/organizations/03-emerald-enclave.md`, `04-order-of-the-gauntlet.md`, `09-manshoons-zhentarim.md` and `07-bregan-daerthe.md`: who suspects the family and who knows
 - `campaign/setting/villains/jarlaxle.md`: Jarlaxle's knowledge of the infernal bargain
 - `CLAUDE.md`, Cassalanter secrecy: the suspicion-never-knowledge rule and the Jarlaxle exception

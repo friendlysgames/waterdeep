@@ -230,7 +230,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 ---
 
 ## Source References
-- `campaign/setting/waterdeep-lore.md` (North Ward bullet): campaign outline, the page this one replaces. The Religion bullets of that file name no North Ward temple, so none moved here.
+- the retired Waterdeep outline (North Ward bullet): campaign outline, the page this one replaces. The Religion bullets of that file name no North Ward temple, so none moved here.
 - `sources/adventure-wdh.json` Ch.9 "North Ward" (lines 30900-30907) and the Major Temples table (30908-30998); the wards introduction (30849-30872) and the Watch's rounds (30548); Manycats Alley (31308-31312) and the Swordmaiden (31271-31276, 32723); and the entries for Trollskull Manor (485, 1595, 2962), Ulbrinter Villa (1363), the noble houses (1060-1078), Broxley (4102), Ulkoria (4134-4136), Emmek (4246), the fireball (4405, 4527, 4704, 4792, 4830), Gralhund Villa (4864) and Kalain's residence with Vhaspar Holmdreg (13267). Dragon Heist, 2014 text, used for facts only.
 - `campaign/locations/trollskull-manor/area-overview.md` and `campaign/locations/gralhund-villa/area-overview.md`: the building descriptions, Lif, and the villa's wall, gate and ward.
 - `campaign/guides/factions/10-manshoons-zhentarim.md` (lines 9-29, 62) and `campaign/guides/factions/11-cassalanters.md` (lines 23-43): the Interrogation House and the Asmodean Shrine.
