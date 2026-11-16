@@ -53,7 +53,7 @@ Invented: Marra Selby (the lease name), Captain Ilsa Dalloway, the household win
 
 Contradictions with files outside this folder, left unedited:
 - `sources/SOURCE_GUIDE.md` line 219 puts the windmill in the North Ward.
-- `campaign/structure/arc-j-vault-of-dragons.md` lines 75 and 322 call it a "Manshoon outpost," though the Cassalanters run it.
+- Settled (Session 51): `campaign/structure/arc-j-vault-of-dragons.md` now says Cassalanter outpost, matching the Cassalanters who run it.
 - Guide 08 line 70 says "false name," while `arc-e-faction-outposts.md` has ordinary tenants.
 - The Notable Figures page for Ammalia Cassalanter lists this mission under "Featured in" and does not describe Florette.
 

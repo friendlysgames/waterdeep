@@ -22,7 +22,7 @@ The Cassalanters are a Waterdhavian noble family of banking wealth, several gene
 - **Take Any Genuine Alternative:** By the last phase the family has decided on Founders' Day and will accept any real alternative the party offers, immediately and without negotiation.
 - **A Contract Is a Contract:** Asmodeus does not negotiate with mortals who have already signed, so the family works inside the terms. They hunt for loopholes, never for release. Victoro is the family's priest and Ammalia makes the final calls.
 - **Tell the Truth and Leave Out the Price:** Everything the Cassalanters tell the party about their situation is technically true. They never mention that the ritual also requires poisoning 99 people at the Founders' Day feast.
-- **Keep the Temple Hidden:** An illegal temple to Asmodeus lies beneath the villa, and discovery of it is a capital offense under the Code Legal and ruins the plan. Willifort Crowelle manages household security.
+- **Keep the Temple Hidden:** An illegal temple to Asmodeus lies beneath the villa, and discovery of it is a capital offense under the Code Legal once a magistrate has ruled it unlawful, and it ruins the plan. Willifort Crowelle manages household security.
 - **Service Is Worship:** The cult's members fold devotion into the work they do for the family. Tissina Khyret attends Ammalia, Nana Rosse minds the twins, Jandar Chergoba cooks and Seffia Naelryke runs field operations, and none of them sees a conflict between the job and the god.
 - **Doctrine and Rites:** [research] The campaign files do not settle the cult's hierarchy below the family, its sacraments or how it recruits. The **Asmodeus** page in Deities may supply the doctrine.
 
@@ -41,7 +41,7 @@ How the family responds to a party that helps or hinders them is in the **Cassal
 - **Victoro Cassalanter** — Half-elf banker and secret priest of Asmodeus, lawful evil. See the **Victoro Cassalanter** page in Notable Figures.
 - **Ammalia Cassalanter** — Human wizard and secret Asmodeus worshipper, lawful evil. See the **Ammalia Cassalanter** page in Notable Figures.
 - **Willifort Crowelle** — Doppelganger butler, neutral. The Cassalanters' doppelganger valet. Presents as an elderly tiefling. Their most trusted operative and most dangerous weapon. Uses disguise to burn bridges, gather intelligence, and when necessary, solve problems permanently. See the **Willifort Crowelle** page in Notable Figures.
-- **Osvaldo Cassalanter** — Human (chain devil), neutral evil (formerly lawful good). The Cassalanters' eldest son, now a **chain devil**, chained in the soundproofed attic of the Villa (room C24). The pact's first cost. Victoro and Ammalia have told no one. See the **Osvaldo Cassalanter** page in Notable Figures.
+- **Osvaldo Cassalanter** — Human (chain devil), lawful evil. The Cassalanters' eldest son, now a **chain devil**, chained in the soundproofed attic of the Villa (room C24). The pact's first cost. Victoro and Ammalia have told no one. See the **Osvaldo Cassalanter** page in Notable Figures.
 - **Terenzio Cassalanter** — Human child, lawful good. See the **Terenzio Cassalanter** page in Notable Figures.
 - **Elzerina Cassalanter** — Human child, lawful good. See the **Elzerina Cassalanter** page in Notable Figures.
 - **Tissina Khyret** — Tiefling cult fanatic (Asmodeus), lawful evil. See the **Tissina Khyret** page in Notable Figures.
@@ -66,7 +66,7 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 > - **Chain of command:** Ammalia makes the final calls and Victoro has stopped questioning this. Willifort Crowelle reports to Ammalia on everything that happens in the villa. Seffia Naelryke's response team answers to Lord Cassalanter, and Rella Asp and Ivrala Sorn report to Willifort.
 > - **Who suspects:** Everybody is suspicious of the Cassalanters because they are too nice to be this rich and this purebred, and nobody knows they are infernalists before the party discovers it.
 >   - The Order of the Gauntlet is suspicious of the family and will move against the family once it has solid evidence. Sister Valdra holds three independent pieces of Cassalanter intelligence.
->   - The Emerald Enclave senses infernal influence in the Sea Ward through Jeryth and does not know whose it is.
+>   - The Emerald Enclave senses infernal influence in the Southern Ward through Jeryth and does not know whose it is.
 >   - Vevette Blackwater of the Zhentarim rebuffed Seffia's approach to open a communication channel, suspecting a trap.
 > - **The one exception:** Jarlaxle knows about the pact through **Vessa**, his doppelganger spy in the Cassalanter social circle. He never tells Bregan D'aerthe members unless they work it out themselves.
 > - **Caladorn Cassalanter:** Victoro's father. The wiki has him a Masked Lord and later Open Lord of Waterdeep, by 1399 DR (*Blackstaff Tower*, 2e and 3e). The family uses the portrait of the former Masked Lord and hero of the North as a symbol of civic virtue. His ghost waits below the villa and is the reason the way to break the contract lies beneath it.
@@ -114,7 +114,7 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 > - **Research:** Doctrine and Rites (Tenets). The cult's hierarchy below the family, its sacraments and its recruiting are unsourced in the campaign files. The FRHoF-based **Asmodeus** page holds candidate material (the Fugue Plane pitch, recruiting through greed and impatience), but a lore source on the Cassalanter cult would settle it.
 > - **Settled:** The pact covers three children (Osvaldo, taken, and the twins), per **A Debt in Blood**. The inline tag is dropped.
 > - **Conflicts:** Gold held. The Operations text says the family holds about half the gold and needs Neverember's vault for the rest. *Dragon Heist* (5e) says only that the Cassalanters have most of the coin they need. The page keeps the campaign figure of about 500,000 gp, which the Vault's 500,000 gp covers to reach 999,999 gp.
-> - **Conflicts:** Osvaldo is given as neutral evil (formerly lawful good). *Dragon Heist* gives only "chain devil", and a standard chain devil is lawful evil. The page keeps the campaign alignment.
+> - **Settled by the user (Session 51):** Osvaldo's alignment. *Dragon Heist* gives only "chain devil", and a standard chain devil is lawful evil. The page and his Notable Figures page now say lawful evil, and "formerly lawful good" is dropped.
 > - **Conflicts:** The Operations section keeps the original text, which says the pact traded "their children's souls" and then names only the twins. This agrees with the Era page once Osvaldo is counted, but the Operations wording could read as two children.
 > - **Settled:** The "Who suspects" bullet now reads "too nice to be this rich and this purebred", matching CLAUDE.md, the Era page and the Asmodeus page.
 > - **Conflicts:** Public cover. The wiki lists Waukeen, Siamorphe and Asmodeus as favored deities. The campaign's public cover is Lathander for Victoro and Siamorphe for the house, which matches *Dragon Heist*, and the page keeps it.

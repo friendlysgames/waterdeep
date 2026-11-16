@@ -21,3 +21,9 @@ During social events, the butterfly garden hosts 8–15 guests in rotation. Amma
 **Entry through the garden gate:** The perimeter garden wall has a service gate at the south end (Tomas the night watchman's blind spot during his patrol). A DC 14 Dexterity (Stealth) check enters the garden from outside during the day; DC 16 at night. During social events, the gate is unguarded on the outside — the imps cover surveillance — and a DC 12 Charisma (Deception) check (plausible story about arriving late) allows entry without triggering Stage 2.
 
 **During combat:** Imps use *Invisibility* and attack with their sting in pairs, targeting the character most recently isolated from the group. They retreat to invisibility after each attack.
+
+#### The Cassalanter Twins
+
+On a day with no event, the twins play on the lawn from noon to 2, and Nana Rosse sits on a wrought-iron bench with her crochet. On Caravance they are here from 2 to 5 with Victoro, Ammalia, and Nana Rosse. At social events and at night they are not here. They greet the party as described in **The Cassalanter Twins** in the **Cassalanter Villa Area Overview**.
+
+Terenzio holds up a butterfly on his finger and tells anyone who stops: "Mama's butterflies came on a ship. This one's a Monarch." Elzerina asks the first armed party member about their weapon: "Is that a real sword? Mine's only wood, so it's a shit sword." Nana Rosse answers: "Bother and buttons, Elzerina. Language." If anyone asks about the ravens, the twins say their mother rescued the birds from the docks.

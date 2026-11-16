@@ -8,7 +8,7 @@
 >
 > - Staff hiring runs in the days before opening; candidates have agendas and faction affiliations
 > - The Cassalanter Bank Hook precedes the opening by two days: wine delivery, card from the house
-> - Opening night has a full guest list including faction contacts, neighbors, and Ammalia Cassalanter
+> - Opening night has a full guest list including faction contacts, neighbors, and Ammalia Cassalanter, who brings her twins and their nanny
 > - Three Undermountain seeds land here: Hlam result (Force Grey Mission 1 payoff), Skullport Trader, Durnan's Warning
 > - Emmek's Stage 4 may fire: Shard Shunner wererats apply for staff positions under false names
 >
@@ -52,7 +52,7 @@ Starting Fame rolled or set per the **Trollskull Manor** guide, Fame. Key guests
 
 ### Ammalia Cassalanter
 
-Ammalia arrives without Lord Cassalanter. She is warm, generous, and interested in the party as people. She stays two hours, learns everyone's name, and leaves with the social grace that makes a room feel larger after she's gone. She is a diabolist counting the days to Founders' Day. Play none of it.
+Ammalia arrives without Lord Cassalanter. She brings her twins, Terenzio and Elzerina, and their tiefling nanny, Nana Rosse. She is warm, generous, and interested in the party as people. She stays two hours, learns everyone's name, and leaves with the social grace that makes a room feel larger after she's gone. She is a diabolist counting the days to Founders' Day. Play none of it.
 
 Her warmth is genuine — she finds capable people interesting, and she pays close attention to those who have survived a city doing its best to kill them.
 
@@ -60,7 +60,65 @@ Mark **Ammalia Cassalanter Met**.
 
 **Thread: The Cassalanters Exist** (third path). The three-path redundancy is complete.
 
-Cross-ref the **Ammalia Cassalanter** page in Notable Figures. Design Notes: her warmth must never be undercut with signaling; see the Ammalia Design Note in design-notes.md.
+Cross-ref the **Ammalia Cassalanter**, **Terenzio Cassalanter**, **Elzerina Cassalanter** and **Laiba "Nana" Rosse** pages in Notable Figures. Design Notes: her warmth must never be undercut with signaling; see the Ammalia Design Note in design-notes.md.
+
+#### Two Small Guests
+
+The twins are eight years old and turn nine on Flamerule 11. They know nothing of the pact, and nothing in this scene points to it. Ammalia is as warm with them as she is with the party, and she keeps a hand on one twin or the other whenever they stand still. Play it as a mother's care in a busy room.
+
+When the family arrives, read or paraphrase the following:
+
+> [!readaloud]
+> Ammalia Cassalanter steps through the door with a hand on each of two children's shoulders. An elderly tiefling woman in a crocheted shawl follows a few steps behind them. The boy wears a dragon costume with a felt tail that drags across the floor. The girl wears a knight's helm that is too big for her and carries a wooden sword. Ammalia smiles at the room, and then at you.
+>
+> > You must be the owners. I've heard wonderful things, and I hope you don't mind that I've brought the twins. They were very good about the wait, and they wouldn't be left at home.
+>
+> The boy lets out a roar, and the girl points her sword at the nearest one of you.
+
+> [!social]**Two Small Guests**
+>
+> Terenzio and Elzerina Cassalanter (Lawful Good, Human, he/him and she/her) :: eight-year-old twins in a dragon costume and a knight's helm, who want to see every corner of the tavern.
+>
+> Terenzio is curious and trusting, and he roars at people as a greeting. Elzerina is blunt and competitive, and she pokes people with her wooden sword when she wants an answer. He calls her Elzi, and she calls him Ter. They go first to the character standing nearest the door.
+>
+> Nana Rosse, their tiefling nanny, stays a few steps behind them and crochets while she watches. She counts the twins aloud whenever one of them moves, and she calls them her lambs. She reports their movements to the household every evening.
+>
+> Conversation topics the twins are willing to discuss include:
+> - Dragons: Terenzio asks everyone whether they have seen one, and he repeats that his father is looking for missing dragons.
+> - Monsters: Elzerina asks whether the party fights them and whether she can come.
+> - The tavern: both want to see the bar, the stairs and the chalk slate.
+> - Their birthday: either twin tells anyone who asks their age that they turn nine on the eleventh of Flamerule.
+>
+> Any character who watches Ammalia with the twins and makes a successful DC 14 Wisdom (Insight) check sees that she is a devoted mother, and that her attention stays on the children however the conversation goes.
+
+> [!qna]**Seen a dragon?**
+>
+> Terenzio roars, swishes his felt tail, and waits for your answer.
+>
+> > RAWR! Have you ever seen a real dragon? Father's looking for some that went missing, but he says that's mostly banking. I'm eight and three-quarters, and I'll be nine on the eleventh of Flamerule.
+
+> [!qna]**Do you fight monsters?**
+>
+> Elzerina pokes the nearest character in the belt with her wooden sword.
+>
+> > Do you fight monsters? Real ones? Can I come? I'm very good, but this sword's shit, it's only wood.
+>
+> Nana Rosse looks up from her crochet.
+>
+> > Bother and buttons, Elzerina. Where did you hear that?
+>
+> Elzerina says "The stables" and goes on waiting for her answer.
+
+Later in the evening, read or paraphrase the following:
+
+> [!readaloud]
+> The twins are kneeling on two stools at the end of the bar, drawing in the corner of the specials slate with a stub of chalk. Terenzio's dragon has a long neck and a great many teeth, and Elzerina is adding a knight with a very large sword. Nana Rosse sits close by with a ball of yarn and a half-finished doll, glancing at the twins between stitches. Terenzio looks up and holds the chalk out to you.
+>
+> > That's you, fighting the dragon, and you're winning. Elzi did the sword, so it's too big. Can it stay on the slate, please?
+
+Terenzio accepts either answer cheerfully. If the party says yes, the drawing stays in the corner of the slate until someone wipes it. Near the end of the evening, Ammalia tells the twins to thank the owners, takes a child's hand in each of hers and leaves, with Nana Rosse a step behind.
+
+Mark **Cassalanter Twins Met** when any character speaks with Terenzio or Elzerina.
 
 ### Undermountain Seeds
 
@@ -78,6 +136,7 @@ Three threads land here. None resolves; all are designed to accumulate below the
 >
 > - **Lif Appeased** — mark when Lif is behind the bar on opening night. He has extended professional courtesy to the new owners and has no intention of leaving. Read by the **Trollskull Manor** guide, whose full bartender mechanics apply from this point forward, and by **Fireball!** (Spirit Haunting).
 > - **Ammalia Cassalanter Met** — mark when Ammalia attends the opening. Read by **Cassalanter Villa**, where her quest-entry disposition is shaped by this first contact.
+> - **Cassalanter Twins Met** — mark when any character speaks with Terenzio or Elzerina at the opening. Read by **Cassalanter Villa**, where the twins recognize the party and the Founders' Day deadline becomes personal.
 > - **Undermountain Thread Activated** — mark when the first of the three seeds is received. Read by the intelligence briefing in **Xanathar's Lair**, where the full three-seed cluster becomes relevant.
 
 > [!gamemaster]**Next Steps**
@@ -90,7 +149,7 @@ Three threads land here. None resolves; all are designed to accumulate below the
 
 ## Overview
 
-After twelve days of renovation, six guilds, seven factions, and a gladiatorial tournament, the party opened Trollskull Manor. Full house on opening night. Ammalia Cassalanter attended, stayed two hours, learned everyone's name, and was exactly as warm as the wine she sent. Durnan sent a message through Threestrings. A merchant from the harbor bottom came and went without giving his name.
+After twelve days of renovation, six guilds, seven factions, and a gladiatorial tournament, the party opened Trollskull Manor. Full house on opening night. Ammalia Cassalanter attended, stayed two hours, learned everyone's name, and was exactly as warm as the wine she sent. She brought her eight-year-old twins and their nanny, and the twins spent the evening drawing on the specials slate. Durnan sent a message through Threestrings. A merchant from the harbor bottom came and went without giving his name.
 
 ## Read Aloud
 
@@ -98,4 +157,4 @@ After twelve days of renovation, six guilds, seven factions, and a gladiatorial 
 
 ## Summary
 
-Trollskull Manor opened to the public after twelve days of renovation. Staff was hired, three Undermountain threads were seeded at the party, Ammalia Cassalanter attended as a warm and generous first patron, and Lif — if appeased — was behind the bar without being asked.
+Trollskull Manor opened to the public after twelve days of renovation. Staff was hired, three Undermountain threads were seeded at the party, Ammalia Cassalanter attended as a warm and generous first patron with her young twins, and Lif — if appeased — was behind the bar without being asked.

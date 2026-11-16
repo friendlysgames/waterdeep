@@ -17,4 +17,4 @@ The Dock Ward has two rows, one for each side of Tarsakh 20, when the carnival f
 Invented: the gate box, the benches by the gate, the dusk meeting, the falcon for the Field Ward relay, and the Castle Ward and North Ward lines. Jeryth's social block uses the shared parenthetical: alignment, title, disembodied presence and pronouns.
 
 For the out-of-scope log:
-- `campaign/structure/arc-e-faction-outposts.md:85` places the infernal disturbance in the Southern Ward; the Enclave senses it in the Sea Ward.
+- **Settled by the user (Session 51):** `campaign/structure/arc-e-faction-outposts.md:85` places the infernal disturbance in the Southern Ward, and the Enclave senses it in the Southern Ward as well. The Sea Ward report concerns the villa's butterfly garden.

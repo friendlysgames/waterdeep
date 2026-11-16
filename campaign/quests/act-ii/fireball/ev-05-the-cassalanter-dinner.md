@@ -9,11 +9,11 @@
 > - Ammalia is warm, attentive, and genuine; she is not performing.
 > - Victoro makes a calibrated pitch after the first course — he wants to be "in the room."
 > - The party's response (four tracks) shapes the Cassalanter operational picture entering Cassalanter Villa.
-> - No infernal pact, children, or Asmodeus are mentioned. This is not the conversation for those.
+> - No infernal pact or Asmodeus is mentioned. This is not the conversation for those.
 >
 > **Trigger:** The party accepts Ammalia's invitation. The invitation arrives by messenger within one day of the fireball. The dinner takes place the following evening.
 >
-> **Event Outcome read:** **Ammalia Cassalanter Met** (from Trollskull Alley ev-06). If it is marked, Ammalia references specific details from that visit. If it is not marked, she introduces herself warmly but without prior context.
+> **Event Outcome read:** **Ammalia Cassalanter Met** and **Cassalanter Twins Met** (from Trollskull Alley ev-06). If **Ammalia Cassalanter Met** is marked, Ammalia references specific details from that visit. If it is not marked, she introduces herself warmly but without prior context.
 >
 > For the villa layout, see the **Cassalanter Villa** journal.
 
@@ -23,7 +23,7 @@ The letter arrives by footman on cream vellum in Ammalia's own hand — clear, u
 
 ### Cassalanter Villa — Arrival
 
-The villa sits in the Sea Ward behind an iron gate and a garden whose topiary has been maintained for two generations. The house staff is attentive, formal, and impeccably briefed. The dining room seats twelve; tonight it is set for six. The children are "not well enough for company" — a detail offered once by the butler and not returned to. The food is excellent. The wine is exceptional. Everything is exactly right, and a party paying attention will find the precision slightly exhausting.
+The villa sits in the Sea Ward behind an iron gate and a garden whose topiary has been maintained for two generations. The house staff is attentive, formal, and impeccably briefed. The dining room seats twelve; tonight it is set for six. The children are "not well enough for company" — a detail offered once by the butler and not returned to. If **Cassalanter Twins Met** is marked, a party that asks after the twins hears the butler say they are with their nanny and at their lessons, and nothing more, because the household keeps the children away from guests. The food is excellent. The wine is exceptional. Everything is exactly right, and a party paying attention will find the precision slightly exhausting.
 
 ### Ammalia at the Table
 

@@ -5,7 +5,7 @@
 > #### Gamemaster's Summary
 > - *Human child, lawful good*. Stat block: **Commoner (child)**.
 > - **Affiliation:** The Cassalanters (non-cultist)
-> - **Featured in:** Cassalanter Villa, Cassalanter Villa (location)
+> - **Featured in:** Trollskull Alley, Cassalanter Villa, Cassalanter Villa (location)
 
 ## Roleplaying Information
 
@@ -24,6 +24,8 @@
 **Morale.** Terenzio runs to Nana Rosse if frightened by anything he cannot interpret as a game.
 
 **Relationships.** Terenzio is one of the twins (alongside Elzerina), forfeit to Asmodeus on his ninth birthday, Flamerule 11, 1492 DR (he is eight now), a child who trusts his parents completely, and a boy who is curious about the attic for entirely innocent reasons.
+
+At the **Trollskull Alley** Grand Opening, Terenzio arrives in his dragon costume with Ammalia and Nana Rosse, roars at the party, and draws a dragon on the tavern's specials slate.
 
 ## Overview
 

@@ -72,7 +72,7 @@ With the third Eye seated, the Stone goes still, then speaks with sudden, precis
 
 *Three Clue Rule — Paths to the Crypts.* Any of the following, independently, gets the party to the City of the Dead knowing exactly which mausoleum complex to enter:
 
-- The Converted Windmill map (**Faction Outposts**, Manshoon outpost) — the primary clue, a physical document showing the Brandath crypt-complex layout.
+- The Converted Windmill map (**Faction Outposts**, Cassalanter outpost) — the primary clue, a physical document showing the Brandath crypt-complex layout.
 - Esvele Rosznar's Viper Den (**Cassalanter Villa**) — her "old tunnels" beneath the villa run toward the City of the Dead; if the party's relationship with her is Ally or Rival-but-informed, she confirms the destination directly.
 - Kalain's letter and Lord Dagult's papers (**Fireball!**, Scene 6, if pursued) — an unsigned letter confirming all three Eyes were once in Neverember's hands, and papers describing the vault-opening method in Neverember's own hand.
 - Manshoon's Report on the Grand Game (**Kolat Towers**, area E9) — if the party secured the contents of the bloodlocked vault during the Kolat Towers raid, this document describes the Brandath Crypts approach and identifies the mausoleum by name. A party that completed **Kolat Towers** and extracted this intelligence enters **Vault of Dragons** already knowing the route.
@@ -319,7 +319,7 @@ By the end of Scene 6 the Grand Game is formally concluded, and the campaign's c
 ## Cross-References
 
 - **Fireball!**, Scene 6 (Backtracking Dalakhar) — Kalain's letter and Lord Dagult's papers, a Three Clue Rule path into **Vault of Dragons** established nine quests early.
-- **Faction Outposts**, Scene 4 (Manshoon Outposts) — the Converted Windmill map, the primary clue to the Brandath Crypts' location.
+- **Faction Outposts**, Scene 4 (Cassalanter Outposts) — the Converted Windmill map, the primary clue to the Brandath Crypts' location.
 - **Xanathar's Lair** Scene 6 / **Cassalanter Villa** Scene 6 — both defer explicitly to "the 3-Eye disclosure scene from **Vault of Dragons**." Scene 1's Full Awakening text is that scene.
 - **Cassalanter Villa** — Esvele's Viper Den as a backup clue path; the Cooperative (Gold Delivered) resolution's promised gold share, paid out here in Scene 5.
 - **Sea Maidens Faire** Scene 6 ("Stone of Golorr Full Awakening") — the inline version of the disclosure, already published; Scene 1's canonical text is written to match it.

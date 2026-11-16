@@ -31,13 +31,13 @@ The Sea Ward is Waterdeep's wealthiest ward, a district of walled villas, grand 
 - **Governance:** No ward officer is sourced. [research] The City Watch keeps single-person watch boxes on nearly every street corner, and the noble houses guard their own walled estates. Two Masked Lords, Corylus Thann and Jelenn Urmbrusk, belong to Sea Ward families (Dragon Heist).
 - **Architecture:** Palatial homes behind garden walls, many built around the remains of old pirate and warlord fortresses. The Cassalanter Villa's white walls and crimson roof and turrets. The House of Wonder's ornate towers and mosaics. The Tower of the Moon, rising seventy-five feet above the street. The Field of Triumph, over five stories tall.
 - **Economy:** Rents that only the rich can pay. Banking through the Cassalanter Counting House, trading houses, vintners and gem merchants, and the arena's crowds. Guild law applies as everywhere in the city.
-- **Organizations:** The Cassalanters, House Rosznar, the Thann and Urmbrusk families, the Watchful Order (Barnibus Blastwind), the Harpers (Mirt's dinner house, Renaer Neverember), the Order of the Gauntlet (a family under suspicion), the Emerald Enclave (Jeryth's sense of infernal influence), the House of Inspired Hands.
+- **Organizations:** The Cassalanters, House Rosznar, the Thann and Urmbrusk families, the Watchful Order (Barnibus Blastwind), the Harpers (Mirt's dinner house, Renaer Neverember), the Order of the Gauntlet (a family under suspicion), the Emerald Enclave (a butterfly garden at the back of one villa), the House of Inspired Hands.
 
 > **[GM]**
 >
 > #### Secret
 > - Cassalanter Villa hides an illegal temple to Asmodeus below its sub-basement. Victoro and Ammalia traded their three children's souls to Asmodeus about 1489 DR, and the contract falls due on Flamerule 11. They mean to poison ninety-nine guests at the Founders' Day feast on Flamerule 1 to buy out the twins' souls. The villa is mapped in **Cassalanter Villa**.
-> - Nobody in the ward knows. Every faction suspects the family because it is too nice to be this rich, and none knows about the pact. Savra Belabranta of the Order of the Gauntlet hunts for proof, and Jeryth Phaulkon feels an infernal influence in the Sea Ward that the Emerald Enclave cannot trace to a house. The one exception is Jarlaxle, who knows through **Vessa**, his doppelganger spy in the Cassalanter social circle, and tells Bregan D'aerthe members nothing unless they work it out.
+> - Nobody in the ward knows. Every faction suspects the family because it is too nice to be this rich, and none knows about the pact. Savra Belabranta of the Order of the Gauntlet hunts for proof, and Jeryth Phaulkon feels an infernal influence in the Southern Ward that the Emerald Enclave cannot trace to a house. The one exception is Jarlaxle, who knows through **Vessa**, his doppelganger spy in the Cassalanter social circle, and tells Bregan D'aerthe members nothing unless they work it out.
 
 ## Landmarks
 
@@ -232,7 +232,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 - **House of Inspired Hands**: the temple of Gond and Nim's attic.
 - **Sea Maidens Faire**: the Faire whose captain sponsors the Field of Triumph tournament.
 - **Manshoon's Zhentarim**: the blackmailers of Jelenn Urmbrusk and Corylus Thann.
-- **The Emerald Enclave**: Jeryth's sense of infernal influence in the ward.
+- **The Emerald Enclave**: the butterfly garden at the back of one villa.
 - **The Order of the Gauntlet**: Savra Belabranta's suspicion of the family.
 - **The Open Lord and the Masked Lords**: the Masked Lords with Sea Ward estates.
 - **The City Watch**: the watch boxes and the veterans' response.

@@ -5,7 +5,7 @@
 > #### Gamemaster's Summary
 > - *Human child, lawful good*. Stat block: **Commoner (child)**.
 > - **Affiliation:** The Cassalanters (non-cultist)
-> - **Featured in:** Cassalanter Villa, Cassalanter Villa (location)
+> - **Featured in:** Trollskull Alley, Cassalanter Villa, Cassalanter Villa (location)
 
 ## Roleplaying Information
 
@@ -24,6 +24,8 @@
 **Morale.** Elzerina does not run when frightened. She interposes herself between Terenzio and the threat and looks for a weapon.
 
 **Relationships.** Elzerina is Terenzio's twin and the bolder of the two, forfeit to Asmodeus alongside her brother on their ninth birthday, Flamerule 11, 1492 DR (she is eight now), and a child who suspects something is wrong in this house without knowing what.
+
+At the **Trollskull Alley** Grand Opening, Elzerina arrives in her knight's helm with Ammalia and Nana Rosse, asks the party whether they fight monsters, and adds a knight to the drawing on the tavern's specials slate.
 
 ## Overview
 

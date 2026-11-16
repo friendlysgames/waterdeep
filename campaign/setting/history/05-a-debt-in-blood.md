@@ -87,7 +87,7 @@ The Cassalanters are one of Waterdeep's old noble houses, with several generatio
 > - The bargain is with Asmodeus, and the villa hides a temple to him. The Code Legal offense for the temple alone is capital.
 > - No faction or NPC outside the household knows this. They suspect the Cassalanters because the family is too nice to be this rich and this purebred, and they know nothing.
 > - The one exception is Jarlaxle, who learned it through Vessa, his doppelganger spy in the Cassalanter social circle. He does not tell Bregan D'aerthe members unless they work it out themselves.
-> - The Emerald Enclave can sense that infernal influence is at work in the city, and Jeryth feels it in the Sea Ward. No Enclave speaker knows whose it is.
+> - The Emerald Enclave can sense that infernal influence is at work in the city, and Jeryth feels it in the Southern Ward. No Enclave speaker knows whose it is.
 > - Osvaldo is the proof of the bargain, and Terenzio and Elzerina know nothing about it.
 > - What the Cassalanters tell the party about their situation is technically true. The ritual does require a sacrifice, and the twins are in danger. They leave out that the ritual also requires the deaths of 99 people.
 

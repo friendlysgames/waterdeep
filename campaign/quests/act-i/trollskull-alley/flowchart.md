@@ -88,6 +88,7 @@ GM observation runs: ev-01 → ev-02 → ev-03 → ev-04 → ev-05 → ev-06
 | Xanathar Token Discarded | ev-05 | none |
 | Xanathar Token Reported | ev-05 | Faction Outposts (intelligence-gathering phase) |
 | Ammalia Cassalanter Met | ev-06 | Cassalanter Villa (entry disposition) |
+| Cassalanter Twins Met | ev-06 | Cassalanter Villa (the twins recognize the party; the Founders' Day deadline becomes personal) |
 | Undermountain Thread Activated | ev-06 | Xanathar's Lair (intelligence briefing depth) |
 | Nimblewright Noticed | ev-07 | Fireball (corroboration vs. cold open when not marked) |
 | Fireball Victim Designated (with NPC name) | ev-07 | Fireball (opening beat) |

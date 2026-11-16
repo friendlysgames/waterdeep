@@ -25,3 +25,7 @@ A party member who enters C2 during the event catches her mid-change — one glo
 | Party captures or exposes her | Bargains with information | Her Viper Den sits above the Brandath Crypts; she has found "old tunnels" beneath — Vault of Dragons path to Vault entry |
 
 If recruited, Esvele provides distraction on request (fainting spell, spilled drink, loud argument), cover stories for the party in the banquet areas, and the rooftop escape route from Scene 5. She will not enter the temple.
+
+#### The Cassalanter Twins
+
+On a day with no event, the twins and Nana Rosse pass through C2 at noon on the way to C25 and again at 2 on the way back. Nana Rosse stops them at the door to scrape their boots. A party member in the room is greeted as described in **The Cassalanter Twins** in the **Cassalanter Villa Area Overview**, and Nana Rosse says: "Mind the mud, dear. My lambs track it in from here to the stairs." At social events the twins are upstairs and never reach C2.

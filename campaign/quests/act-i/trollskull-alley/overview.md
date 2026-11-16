@@ -41,7 +41,7 @@
 - **Floon Blagmaar** (independent) — appears twice during renovation; dice game in the Trades Ward is not going well
 - **Zardoz Zord / Jarlaxle Baenre** (Bregan D'aerthe) — Sea Maidens Faire captain; sponsors the party's tournament entry; watches from his box
 - **Meloon Wardragon** (Force Grey) — leads the opposing team in the Field of Triumph final round; met as himself here; load-bearing for Force Grey Mission 3
-- **Ammalia Cassalanter** (Cassalanter household) — attends the Grand Opening alone; warm, generous, counting the days to Founders' Day
+- **Ammalia Cassalanter** (Cassalanter household) — attends the Grand Opening with her twins and their nanny; warm, generous, counting the days to Founders' Day
 - **Davil Starsong** (Doom Raiders) — Doom Raiders contact; visible at the Twin Parades
 - **Volo Geddarm** (independent) — attends the Grand Opening; attempts a review; spills ink on two pages
 - **Durnan** (Masked Lords / independent) — sends a one-line message through Threestrings at the Grand Opening
@@ -61,6 +61,6 @@ The party arrived in the North Ward with the deed to a derelict tavern and not e
 
 While the renovation ran, Waterdeep came to them. Guild inspectors arrived with clipboards. Neighbors appeared with gifts, concerns, and agendas. Seven adventuring factions sent their own recruiters, targeting specific party members by alignment, race, and reputation — not the group as a whole. Between the guild fees, the renovation costs, and the neighbor across the alley filing complaints about rats, the city showed them exactly what it cost to put down roots.
 
-A carnival captain named Zardoz Zord invited them to fight in his sponsored gladiatorial slots at the Field of Triumph. They met Meloon Wardragon in the final round, who shook their hands afterward and asked their names. The Grand Opening filled the house — and Ammalia Cassalanter stayed two hours, learned everyone's name, and left with the social grace that makes a room feel larger after she's gone.
+A carnival captain named Zardoz Zord invited them to fight in his sponsored gladiatorial slots at the Field of Triumph. They met Meloon Wardragon in the final round, who shook their hands afterward and asked their names. The Grand Opening filled the house — and Ammalia Cassalanter stayed two hours with her twins and their nanny, learned everyone's name, and left with the social grace that makes a room feel larger after she's gone.
 
 The Twin Parades fell on Ches 21. One of the processions included something mechanical walking among the performers. The party may or may not have noticed. The fireball struck the following morning.
