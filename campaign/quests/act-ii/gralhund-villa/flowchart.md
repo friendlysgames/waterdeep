@@ -95,7 +95,7 @@ Milestone 1 fires in exactly one confrontation event per playthrough — ev-06 (
 | Jarlaxle Brief Received | ev-01 | ev-02, ev-06 and ev-07 (Yalah's negotiation tone) |
 | Zhents Spotted, Gazers Spotted, BD Team Spotted | ev-02 | ev-03, ev-03c and ev-04 (entry advantages) |
 | Day Entry | ev-02 | ev-03 vs ev-04 routing |
-| Chirada Letter Found | ev-03 or ev-03b (also on the G12 room page) | **Faction Outposts** (Yellowspire/Second Eye lead) |
+| Chirada Letter Found | ev-03 or ev-03b (also on the G12 room page) | **Faction Outposts** (Yellowspire teleportal lead) |
 | Grand Game Journal Found | G11 room file (DC 15 Investigation, any state) | ev-09 (lore table) |
 | G16 Compartment Found | G16 room file (DC 15 Perception, any state) and ev-09 | **Cassalanter Villa** (Cassalanter cult link) |
 | Orond Confession Heard | ev-03, ev-03b or ev-05 | ev-09 |

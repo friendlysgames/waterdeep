@@ -35,7 +35,7 @@ At quest's end, confirm what the party has. Cross-check against the Event Outcom
 | Intelligence | Source | Pays Off |
 |---|---|---|
 | Stone of Golorr | G16 — Yalah (**Stone Secured** marked), or recovered in ev-08 (**Stone Recovered** marked) | lair heist opening state |
-| Second Eye / Yellowspire lead | G12 — Chirada letter (if **Chirada Letter Found** is marked) | **Faction Outposts** |
+| Yellowspire teleportal lead | G12 — Chirada letter (if **Chirada Letter Found** is marked) | **Faction Outposts** |
 | Gralhund–Cassalanter cult link | G16 trunk (if **G16 Compartment Found** is marked) | **Cassalanter Villa** |
 | Grand Game journal | G11 (if **Grand Game Journal Found** is marked) | Lore; Orond characterization |
 | Orond's confession | ev-03 or ev-05 | Davil's proof request; faction debrief tone |

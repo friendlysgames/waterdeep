@@ -10,10 +10,10 @@ A folded letter rests on the reading stand. It was placed there two weeks ago an
 
 *A Missive from Castle Ward, signed "Chirada," dated Ches 10th:*
 
-> *"We are now certain that the Second Eye was carried from the warehouse in the Dock Ward to Yellowspire in the Castle Ward. I no longer believe that it remains within Yellowspire, however. After observing the Zhentarim traffic here, I am convinced that they must be using a teleportal within the tower. If we wish to track the Second Eye further, we will need to access that teleportal or otherwise determine where it leads. — Chirada"*
+> *"We are now certain that the Zhentarim took an Eye of the Stone from the warehouse in the Dock Ward, and that their couriers carried it to Yellowspire in the Castle Ward. I no longer believe that it remains within Yellowspire, however. After observing the Zhentarim traffic here, I am convinced that they must be using a teleportal within the tower. If we wish to track the Eye further, we will need to access that teleportal or otherwise determine where it leads. — Chirada"*
 
-No check is required to read the letter; it's open on the stand.
+No check is required to read the letter; it's open on the stand. Chirada is wrong about where the Eye went. The Zhentarim pried the locket open at the Candle Lane warehouse, but Xanathar's Guild raided it the same night, and Bregan D'aerthe lifted the Eye in the Guild's hideout (see Eye #3 in **Running the Villains**). What she watched was Zhentarim couriers moving between the warehouse and Yellowspire.
 
-Mark the Event Outcome **Chirada Letter Found** when the party reads the letter. It pays off in **Faction Outposts** — Yellowspire, the Second Eye, and Chirada's name.
+Mark the Event Outcome **Chirada Letter Found** when the party reads the letter. It pays off in **Faction Outposts** — Yellowspire, the teleportal, and Chirada's name.
 
 **Day state only — Lord Orond Gralhund:** Orond is in this room during the day, reading in the wolf-skin chair, a glass of amber spirits on the side table beside him. For his social encounter behavior, refer to the **Daytime Infiltration** Event (ev-03).

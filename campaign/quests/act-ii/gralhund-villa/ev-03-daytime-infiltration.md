@@ -76,7 +76,7 @@ If the party takes Orond into custody and brings him upstairs to G16, Yalah will
 >
 > *A Missive from Castle Ward*, signed "Chirada," dated two weeks prior. The party can read it if they are in G12 and look at the stand — no check required.
 >
-> It names the Second Eye, Yellowspire in the Castle Ward, and a suspected teleportal. This is a direct feed into the Grand Game intelligence network the party will navigate in **Faction Outposts**. Mark **Chirada Letter Found** when the party reads it.
+> It names an Eye of the Stone, Yellowspire in the Castle Ward, and a suspected teleportal. Chirada is wrong about where the Eye went. This is a direct feed into the Grand Game intelligence network the party will navigate in **Faction Outposts**. Mark **Chirada Letter Found** when the party reads it.
 
 ### Yalah's Contingency
 
@@ -105,7 +105,7 @@ Continue from current adversary positions into ev-04: The Zhentarim Raid. The da
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Chirada Letter Found** — mark when the party finds and reads *A Missive from Castle Ward* on the G12 reading stand; read by **Faction Outposts**, which pays it off with Yellowspire, Chirada's name and the Second Eye lead.
+> - **Chirada Letter Found** — mark when the party finds and reads *A Missive from Castle Ward* on the G12 reading stand; read by **Faction Outposts**, which pays it off with Yellowspire, Chirada's name and the teleportal lead.
 > - **Orond Confession Heard** — mark when the party questions Orond and hears his four revelations; read by ev-09, where parties who heard the confession have documentation of Yalah's orders on Ches 22nd.
 
 > [!gamemaster]**Next Steps**

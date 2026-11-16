@@ -79,7 +79,7 @@ Manshoon is a centuries-old wizard, a clone of a clone of one of the Zhentarim's
 
 ## Goals
 
-- **Acquire the Stone of Golorr.** The Stone is a transformed aboleth encoded with ancient Weave knowledge, and Manshoon means to absorb the Weave and supplant Mystra. The vault's gold funds the process. Method: Stone recovery, then Weave absorption. He holds no Eye, because Xanathar killed the envoys who delivered Eye #1 as a gift and kept it, so he needs the Stone plus any two Eyes. Contingency: destroy the vault rather than cede it. Connects to **Gralhund Villa** and **Kolat Towers**.
+- **Acquire the Stone of Golorr.** The Stone is a transformed aboleth encoded with ancient Weave knowledge, and Manshoon means to absorb the Weave and supplant Mystra. The vault's gold funds the process. Method: Stone recovery, then Weave absorption. He holds no Eye, because Xanathar killed the envoys who delivered Eye #1 as a gift and kept it, so he needs the Stone plus all three Eyes. Contingency: destroy the vault rather than cede it. Connects to **Gralhund Villa** and **Kolat Towers**.
 - **Control Waterdeep's Underworld.** He means to eliminate Xanathar, absorb the Doom Raiders and marginalize Bregan D'aerthe. Method: patient erosion through targeted disruption and strategic violence. The Dock Ward conflict in Acts I–II is this plan in early operation.
 - **Survive Through the Simulacrum.** The simulacrum is the clone's primary survival strategy, and it fights while he escapes. Defeating the Manshoon the party meets first may defeat only the simulacrum, and if it is destroyed he makes another. Connects to the **Kolat Towers** design requirement.
 
