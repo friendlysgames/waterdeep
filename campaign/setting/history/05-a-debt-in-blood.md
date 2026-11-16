@@ -31,7 +31,7 @@
 ### The Bargain
 
 - The Cassalanter name has stood in Waterdeep's noble registry for several generations. The published adventure shows several generations of family portraits.
-- Caladorn Cassalanter was Victoro's father, a Masked Lord and a hero of the North (`adventure-wdh.json` lines 18404 and 22713). His ghost haunts the family crypt beneath the villa. The wiki also lists him as the fifth Open Lord, which the published adventure and the campaign do not (Forgotten Realms Wiki, Lords of Waterdeep and Caladorn Cassalanter; City of Splendors: Waterdeep, 2e). See **A City Watching Itself**.
+- Caladorn Cassalanter was Victoro's father, a Masked Lord and a hero of the North (`adventure-wdh.json` lines 18404 and 22713). His ghost haunts the family crypt beneath the villa. The wiki also lists him as the fifth Open Lord, which the published adventure and the campaign do not (Forgotten Realms Wiki, Lords of Waterdeep and Caladorn Cassalanter; City of Splendors: Waterdeep, 3e). See **A City Watching Itself**.
 - Financial ruin was the trigger. The family's banking was near bankruptcy when the bargain was made.
 - The deal also bought power, good health and long life.
 - Victoro and Ammalia discussed the bargain, understood what they were signing and signed together.
@@ -107,7 +107,7 @@ The Cassalanters are one of Waterdeep's old noble houses, with several generatio
 - `sources/adventure-wdh.json`: published account of Osvaldo's disappearance three years ago and the family's near bankruptcy.
 - `sources/1. The Villains.pdf` (the Cassalanters section) and `sources/10. Lair  Cassalanter Villa.pdf`: read for background. They supplied no Era 5 fact.
 - `CLAUDE.md` (Cassalanter secrecy): the Secret callout.
-- Forgotten Realms Wiki, Cassalanter, Victoro Cassalanter, Ammalia Cassalanter and Osvaldo Cassalanter (edition cited: Waterdeep: Dragon Heist, 5e): each states 1489 DR for the pact, derived from the adventure's "three years ago". Cassalanter Villa gives no pact date, and Founders' Day gives only 1492 DR. Caladorn Cassalanter and Lords of Waterdeep (City of Splendors: Waterdeep, 2e): Caladorn's father, children and Open Lord listing.
+- Forgotten Realms Wiki, Cassalanter, Victoro Cassalanter, Ammalia Cassalanter and Osvaldo Cassalanter (edition cited: Waterdeep: Dragon Heist, 5e): each states 1489 DR for the pact, derived from the adventure's "three years ago". Cassalanter Villa gives no pact date, and Founders' Day gives only 1492 DR. Caladorn Cassalanter and Lords of Waterdeep (City of Splendors: Waterdeep, 3e): Caladorn's father, children and Open Lord listing.
 - Not read: `sources/Other remix files/Cassalanters, their tragic backtstory, and Endgame setup.docx` (not readable in this session). Anything it might settle is marked `[research]`.
 
 ## Cross-References

@@ -56,7 +56,7 @@
 ### Skullport
 
 - Skullport is a subterranean town in a vast cavern on the River Sargauth, connected to the third level of Undermountain. It has three levels of buildings, and a bridge leads from its southern end to Skull Island, where a fortress stands garrisoned by Xanathar's minions (WDMM, "Skullport").
-- The campaign puts Skullport three levels below the Yawning Portal well and outside city jurisdiction (**Undermountain and Skullport**). `[research: no adventure text states the jurisdiction]`
+- The campaign puts Skullport outside city jurisdiction, connected to Level 3 of Undermountain (**Undermountain and Skullport**). `[research: no adventure text states the jurisdiction]`
 - The sourced chain of masters runs from a Netherese enclave to the Guild. Netherese wizards of the Sargauth Enclave built the place about -750 DR. Halaster Blackcloak's apprentice Shradin Mulophor settled it in 1148 DR, and the Keepers took control of its sea locks in 1166 to 1168 DR. The Skulls destroyed Shradin in 1369 DR, and the Spellplague of 1385 DR gutted the old magical mantle. Mithral revived the town late in the 15th century. `[research: wiki only]`
 - The published adventure lists the town's earlier occupants as duergar, drow, dwarves, crazed wizards, slavers and pirates. Today it is under the sway of Xanathar, and the businesses that remain pay the Guild for protection.
 - Thirteen flameskulls, the remnants of the Sargauth Enclave, still haunt the town and consider themselves its true rulers. They rarely communicate, and by 1492 DR they do not interfere with the Guild.
