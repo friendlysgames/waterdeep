@@ -170,14 +170,14 @@ Recruitment follows the same schedule as the other six factions: during **Trolls
 
 The surveillance has three branches:
 
-- **Watch reported:** The spies vanish within hours. All BD contact ends for the campaign. Set **BD Contact Severed**.
+- **Watch reported:** The spies vanish within hours, for the whole party. Set **BD Contact Severed** for each character who gives Sergeant Marek Dunmere their name. The mark closes Bregan D'aerthe for that character only, for the rest of Acts I through III.
 - **Surveillance confronted:** The spies melt away and leave a single black eye patch on the cobblestones. J.B. Nevercott knocks the next morning.
 - **Party does nothing:** Surveillance continues through the tenday. J.B. Nevercott knocks regardless of whether the party noticed the watchers.
 
 **J.B. Nevercott** (haberdasher, burgundy coat, *hat of disguise*) arrives at Trollskull Manor and maintains the fiction until he chooses to drop it. The full First Meeting scene is in the **Bregan D'aerthe** Factions guide page. Set **BD Acknowledged** when it concludes.
 
 > [!warning]**Bregan D'aerthe Contact Severed**
-> If the party reports the BD surveillance to the Watch, set **BD Contact Severed** and do not run the J.B. Nevercott scene. This Event Outcome closes BD membership. Jarlaxle becomes aware of the party regardless; his intelligence network is thorough enough that the report changes nothing except the relationship. He operates as a neutral third party in **Sea Maidens Faire** rather than a potential ally. There is no second recruitment opportunity. The decision is permanent.
+> If a character gives the Watch the BD surveillance report, set **BD Contact Severed** for that character. This Event Outcome closes Bregan D'aerthe for that character only, for the rest of Acts I through III. The watchers leave Trollskull Alley for the whole party, and the other characters keep the status they earned. Jarlaxle becomes aware of the party regardless; his intelligence network is thorough enough that the report changes nothing except the relationship. He treats a severed character as a civilian variable in **Sea Maidens Faire** rather than a potential ally, and nobody from Bregan D'aerthe raises membership with that character again.
 
 Jarlaxle's true identity surfaces in **Fireball!** and **Sea Maidens Faire**, when the nimblewright thread leads the party to the carnival and its captain. Membership opens several quests before that disclosure.
 

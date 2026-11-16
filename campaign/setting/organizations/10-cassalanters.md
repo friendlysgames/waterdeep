@@ -70,7 +70,7 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 >   - Vevette Blackwater of the Zhentarim rebuffed Seffia's approach to open a communication channel, suspecting a trap.
 > - **The one exception:** Jarlaxle knows about the pact through **Vessa**, his doppelganger spy in the Cassalanter social circle. He never tells Bregan D'aerthe members unless they work it out themselves.
 > - **Caladorn Cassalanter:** Victoro's father. The wiki has him a Masked Lord and later Open Lord of Waterdeep, by 1399 DR (*Blackstaff Tower*, 2e and 3e). The family uses the portrait of the former Masked Lord and hero of the North as a symbol of civic virtue. His ghost waits below the villa and is the reason the way to break the contract lies beneath it.
-> - **The Eye:** The Cassalanters hold Eye #2 of the Stone of Golorr, which Seffia's infernal divination found in the Brandath Crypts. They still need the Stone and Eyes #1 and #3, so the family is actively pursuing them.
+> - **The Eye:** The Cassalanters hold Eye #2 of the Stone of Golorr, which Seffia's infernal divination found in the Brandath Crypts. They still need the Stone and Eyes #1 and #3, so the family waits with a standing request to be told when the Stone is found, and moves on the vault the moment someone activates it.
 
 > **[GM]**
 >

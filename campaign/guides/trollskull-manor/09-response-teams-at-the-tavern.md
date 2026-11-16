@@ -93,7 +93,7 @@ If the party is a serious Act III threat: Seffia Naelryke's team (cult fanatic +
 
 **Reconnaissance visit:** Four people come in within minutes of each other. Well-dressed, surface-correct with slight hesitation. Learning the room. One orders a Calishite spirit by its proper name and watches Lif pour it with professional appreciation. They stay two hours. One leaves a tip in a coin the party doesn't recognize. It is worth more than expected.
 
-**If a BD member is in the party:** Fel'rekt does not disguise his heritage. Sits at the bar openly. Looks at the drow PC the way one professional looks at another who has found a good hiding spot. "Jarlaxle sends his regards, and wonders if you'd like to have dinner. Remalia's, Thursday. He'll know if you come." This scene never fires for a party with **BD Contact Severed**, and it never reopens membership: Bregan D'aerthe recruits only in **Trollskull Alley**.
+**If a BD member is in the party:** Fel'rekt does not disguise his heritage. Sits at the bar openly. Looks at the drow PC the way one professional looks at another who has found a good hiding spot. "Jarlaxle sends his regards, and wonders if you'd like to have dinner. Remalia's, Thursday. He'll know if you come." This scene never fires for a character marked **BD Contact Severed**, and it never reopens membership for that character: Bregan D'aerthe recruits only in **Trollskull Alley**.
 
 **What the party can do:** Meet Jarlaxle (full scene — see Patron Profiles), refuse him (he finds refusal interesting), or tail Fel'rekt back to the Sea Maidens Faire (DC 16 Dexterity Stealth vs. Fel'rekt's +6 Perception).
 
