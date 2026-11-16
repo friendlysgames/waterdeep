@@ -94,7 +94,7 @@ If this happens, proceed to ev-08: The Rooftop Chase.
 | Outcome | Who Holds the Stone | Next Event |
 |---------|--------------------|-----------  |
 | Party extracts from Yalah directly | Party | ev-09 |
-| BD takes the Stone (Fel'rekt, conditional) | Bregan D'Aerthe | ev-08 or ev-09 |
+| BD takes the Stone (Fel'rekt, conditional) | Bregan D'aerthe | ev-08 or ev-09 |
 | Zhents mobilized early seize it (raid arrives mid-confrontation) | Zhentarim | ev-08 |
 | Nimblewright flees with it | No one yet | ev-08 |
 

@@ -11,7 +11,7 @@
 
 **Resonance.** Jarlaxle should inspire delight with his theatrical flair and razor wit, unease with the realization that every conversation is a negotiation, and reluctant admiration for an opponent who prefers confused enemies to dead ones.
 
-**Emotions.** Jarlaxle most often feels theatrical amusement, predatory curiosity, strategic calculation behind every smile, honest delight when a scheme comes together, contempt for fools who threaten him (swiftly expressed), and possessive loyalty to Bregan D'Aerthe that he frames as pragmatism.
+**Emotions.** Jarlaxle most often feels theatrical amusement, predatory curiosity, strategic calculation behind every smile, honest delight when a scheme comes together, contempt for fools who threaten him (swiftly expressed), and possessive loyalty to Bregan D'aerthe that he frames as pragmatism.
 
 **Motivations.** Jarlaxle wants to buy Luskan's way into the Lords' Alliance using the dragon hoard, acquire the dragonstaff of Ahghairon for leverage over Waterdeep, and ensure that if everything falls apart, the submarine is fueled and ready.
 
@@ -19,11 +19,11 @@
 
 ## Character Information
 
-**Persona.** To the world, Jarlaxle is Captain Zardoz Zord, a flamboyant human sea captain running the Sea Maidens Faire carnival. To those he trusts, he is the secret lord of Luskan, the commander of Bregan D'Aerthe, and a drow iconoclast whose loyalties run to himself first and his operatives second. Deep down, he likes to weave schemes that leave his enemies baffled, and the look on their faces when he gets the better of them is its own reward. The first thing he does with new contacts is determine whether they are useful or dangerous. Ideally, he discovers they are both.
+**Persona.** To the world, Jarlaxle is Captain Zardoz Zord, a flamboyant human sea captain running the Sea Maidens Faire carnival. To those he trusts, he is the secret lord of Luskan, the commander of Bregan D'aerthe, and a drow iconoclast whose loyalties run to himself first and his operatives second. Deep down, he likes to weave schemes that leave his enemies baffled, and the look on their faces when he gets the better of them is its own reward. The first thing he does with new contacts is determine whether they are useful or dangerous. Ideally, he discovers they are both.
 
 **Morale.** In combat, Jarlaxle would swiftly and brutally kill someone to make an example, then propose terms. He reaches for leverage before force. If reduced to danger, he uses his wealth of magic items to escape. Direct confrontation only comes when the PCs kill his lieutenants without first offering terms.
 
-**Relationships.** Jarlaxle is the leader of Bregan D'Aerthe, the secret lord of Luskan, the employer of Soluun, Fel'rekt, and Krebbyg, and a rival who may become an ally if the party offers him something worth more than the gold. He has known of the Stone, the Eyes, and the vault since reaching Waterdeep, no later than Marpenoth 3, 1491 DR. He alone outside the household and the cult knows of the Cassalanter pact, through his doppelganger spy Vessa. Eye #3 is aboard the *Scarlet Marpenoth*.
+**Relationships.** Jarlaxle is the leader of Bregan D'aerthe, the secret lord of Luskan, the employer of Soluun, Fel'rekt, and Krebbyg, and a rival who may become an ally if the party offers him something worth more than the gold. He has known of the Stone, the Eyes, and the vault since reaching Waterdeep, no later than Marpenoth 3, 1491 DR. He alone outside the household and the cult knows of the Cassalanter pact, through his doppelganger spy Vessa. Eye #3 is aboard the *Scarlet Marpenoth*.
 
 ## Overview
 

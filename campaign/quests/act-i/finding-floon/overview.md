@@ -4,7 +4,7 @@
 >
 > #### Quest Requirements
 >
-> This is the campaign's first quest. No prior quests or flags required. The party should have completed session zero (character creation, Trollskull Alley as destination established). The quest begins the evening the party arrives in Waterdeep to meet their contact at the Yawning Portal.
+> This is the campaign's first quest. No prior quests or Event Outcomes required. The party should have completed session zero (character creation, Trollskull Alley as destination established). The quest begins the evening the party arrives in Waterdeep to meet their contact at the Yawning Portal.
 >
 > #### Difficulty
 >
@@ -25,7 +25,7 @@
 - **Volo Geddarm** (independent) — the quest-giver; offers 10 gp upfront and a deed to Trollskull Manor as payment
 - **Durnan** (Masked Lords / independent) — innkeeper of the Yawning Portal; handles the troll; registers the party's competence
 - **Yagra Stonefist** (Doom Raiders) — Davil Starsong's bodyguard; present at the brawl; first Doom Raiders contact
-- **Ryvarra** (Bregan D'Aerthe) — drow field observer at the YP balcony; catalogues Undermountain traffic; unnamed in this quest
+- **Ryvarra** (Bregan D'aerthe) — drow field observer at the YP balcony; catalogues Undermountain traffic; unnamed in this quest
 - **Krentz** (Xanathar's Guild) — thug leader Yagra confronts; eye-tattoos; may appear in the sewer hideout (Q05) if he survived Scene 1
 - **Renaer Neverember** (independent) — found in the Zhentarim Warehouse; knows the kidnapping backstory; key long-term ally
 - **Floon Blagmaar** (independent) — the rescue target; held in Q07 of the sewer hideout

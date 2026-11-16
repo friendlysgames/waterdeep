@@ -9,7 +9,7 @@
 > - Two processions converge on the Market; the party participates as North Ward residents, not spectators
 > - The nimblewright sighting is the event's structural purpose: DC 14 Perception / DC 16 Arcana establishes the Fireball corroboration path
 > - The Sea Maidens Faire carnival fleet sails into harbor this morning for Fleetswake; the first Sea Maidens Faire seed is visible from the parade route
-> - BD faction mission window (The Handkerchief Job) if party is Bregan D'Aerthe-enrolled
+> - BD faction mission window (The Handkerchief Job) if party is Bregan D'aerthe-enrolled
 > - Davil Starsong is visible in the crowd; Ammalia Cassalanter is at the charity booth
 > - The Festival Aftermath (Frewn's cask incident) provides closure on Emmek's arc and confirms Stage 4 misfired
 > - The GM's fireball victim selection must be finalized before this Event ends
@@ -54,7 +54,7 @@ Brief social moments, not full scenes:
 
 ### BD Mission Window
 
-If the party is Bregan D'Aerthe-enrolled and The Handkerchief Job (Level 2 Mission) has not yet been completed: the procession provides a natural window. Vessin is positioned along the parade route. Full mission write-up in the **Bregan D'aerthe** Faction Events.
+If the party is Bregan D'aerthe-enrolled and The Handkerchief Job (Level 2 Mission) has not yet been completed: the procession provides a natural window. Vessin is positioned along the parade route. Full mission write-up in the **Bregan D'aerthe** Faction Events.
 
 ### Finalize the Fireball Victim
 
@@ -69,7 +69,7 @@ Before the Event ends, the GM must designate the fireball victim. The quest has 
 | A hired staff member | ev-06 | Only if the party bonded with a specific candidate; requires observed investment during hiring |
 | A PC backstory NPC | Setup-dependent | Works if a Waterdeep backstory connection was activated during Trollskull Alley |
 
-The victim is whoever the GM watched become real to the table. Cross-ref **Ch. 3: Running the Campaign** (The Fireball Victim mechanic) for full guidance.
+The victim is whoever the GM watched become real to the table. Cross-ref the **Structural Rules** guide, The Fireball Victim section, for full guidance.
 
 Award **Fireball Victim Designated: [NPC Name]** attunement.
 

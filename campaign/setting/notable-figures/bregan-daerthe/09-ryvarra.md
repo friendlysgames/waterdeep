@@ -13,7 +13,7 @@
 
 **Emotions.** Ryvarra most often feels analytical detachment, the practiced stillness of someone trained to read a room without being read, professional loyalty to Jarlaxle, private curiosity about the party (they are more interesting than most of what she observes), and a controlled impatience she has not let surface in two weeks of watching the well.
 
-**Motivations.** Ryvarra wants to file accurate weekly reports to Jarlaxle on Undermountain traffic, maintain her cover as a Calimshan cloth merchant for as long as operationally viable, and avoid any action that would compromise Bregan D'Aerthe's Waterdeep network.
+**Motivations.** Ryvarra wants to file accurate weekly reports to Jarlaxle on Undermountain traffic, maintain her cover as a Calimshan cloth merchant for as long as operationally viable, and avoid any action that would compromise Bregan D'aerthe's Waterdeep network.
 
 **Inspirations.** When playing Ryvarra, channel George Smiley (*Tinker, Tailor, Soldier, Spy*), The Operative (*Serenity*), and O-Ren Ishii (*Kill Bill*).
 
@@ -23,7 +23,7 @@
 
 **Morale.** Approached and questioned directly, Ryvarra excuses herself politely and does not return to that table. No evidence remains — her wine glass is full, her chair is straight, and no one at the adjacent tables can say what she looked like. Cornered or exposed, she fights with a drow's efficiency: targeted, fast, brutal, with every move aimed at an exit.
 
-**Relationships.** Ryvarra is a Bregan D'Aerthe field observer stationed at the Yawning Portal to catalog Undermountain traffic, a weekly intelligence source for Jarlaxle's Waterdeep network, and the first evidence (retroactively understood) that Jarlaxle had eyes on the party from their first night in the city.
+**Relationships.** Ryvarra is a Bregan D'aerthe field observer stationed at the Yawning Portal to catalog Undermountain traffic, a weekly intelligence source for Jarlaxle's Waterdeep network, and the first evidence (retroactively understood) that Jarlaxle had eyes on the party from their first night in the city.
 
 ## Overview
 

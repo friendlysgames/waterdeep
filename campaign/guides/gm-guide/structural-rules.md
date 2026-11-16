@@ -95,7 +95,7 @@ The fireball that opens **Fireball!** kills a named NPC the party bonded with du
 
 The players tell you who it is: the one they keep asking about after scenes end, whose shop they return to without prompting, whose name surfaces in conversation when there's no mechanical reason for it. Your job through Trollskull Alley is to watch for it.
 
-Before ev-07 ends, write the chosen NPC's name in your session notes and record the attunement **Fireball Victim Designated: [NPC Name]**. **Fireball!** reads this attunement in its opening beat.
+Before ev-07 ends, write the chosen NPC's name in your session notes and record the Event Outcome **Fireball Victim Designated: [NPC Name]**. **Fireball!** reads this Event Outcome in its opening beat.
 
 | Candidate | Introduced | Loss Logic |
 |---|---|---|

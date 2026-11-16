@@ -92,7 +92,7 @@ Record whether the party identified the Zhentarim watchers on Saerdoun Street. R
 Record whether the party identified Xanathar's gazers surveilling the villa. Read by ev-03c — if not spotted, Xanathar has an unrecorded record of the party entering during the raid.
 
 #### BD Team Spotted: True / False
-Record whether the party identified Bregan D'Aerthe watchers near the villa. Read by ev-03 and ev-04 — BD awareness shapes the party's read on Jarlaxle's interest.
+Record whether the party identified Bregan D'aerthe watchers near the villa. Read by ev-03 and ev-04 — BD awareness shapes the party's read on Jarlaxle's interest.
 
 #### Day Entry: True / False
 Record the party's entry timing. This is the branch that determines whether ev-03 or ev-04 fires next.
@@ -118,4 +118,4 @@ Saerdoun Street, North Ward. The villa is across the street. Three factions are 
 
 ## Summary
 
-The party reached Saerdoun Street and observed the villa. Three factions are watching: Zhentarim watchers on the rooftops, Xanathar's gazers on the perimeter, and — if the party reached Jarlaxle in the Fireball investigation — a Bregan D'Aerthe team directly across the street. The party committed to a day or night entry.
+The party reached Saerdoun Street and observed the villa. Three factions are watching: Zhentarim watchers on the rooftops, Xanathar's gazers on the perimeter, and — if the party reached Jarlaxle in the Fireball investigation — a Bregan D'aerthe team directly across the street. The party committed to a day or night entry.

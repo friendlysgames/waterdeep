@@ -81,7 +81,7 @@ If *Jarlaxle Informed* is set, this sequence fires concurrent with Beats 8–10 
 6. Fel'rekt negotiates through the G18 door while holding Orond. Zartan and Greth are on the other side. *"The Stone, Lady Gralhund. That is all I am here for."*
 7. Yalah surrenders the Stone through the door. She does not speak. Fel'rekt's team withdraws across the rooftops as the Watch arrives at the front gate.
 
-**BD-affiliated PCs:** If any party member belongs to Bregan D'Aerthe, Jarlaxle's gunslingers extend their covering fire to include that character during the raid, sniping threats the PC is engaged with through the upper-floor windows. Fel'rekt acknowledges the PC with a nod when their paths cross.
+**BD-affiliated PCs:** If any party member belongs to Bregan D'aerthe, Jarlaxle's gunslingers extend their covering fire to include that character during the raid, sniping threats the PC is engaged with through the upper-floor windows. Fel'rekt acknowledges the PC with a nod when their paths cross.
 
 ### Failure Is Not Foreordained
 

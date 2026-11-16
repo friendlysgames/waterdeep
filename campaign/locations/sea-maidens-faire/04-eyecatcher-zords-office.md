@@ -12,7 +12,7 @@ Two adjacent private spaces in the Eyecatcher's aft castle, separated from the g
 
 If the party asks about the nimblewright: Zord excuses himself briefly, steps through the wardrobe into J30 (he closes the door behind him), and returns with the Gralhund name, address, and the note that the unit had "combat programming — unusual for a household model." He presents this as a simple ledger lookup. Consequence: Jarlaxle has full intelligence on the party's investigation. He deploys BD agents to Gralhund Villa.
 
-**Bregan D'Aerthe Member:** A drow party member (or any party member with BD affiliation established) is escorted not to J29 but through the wardrobe directly to J30. The hat comes off. Jarlaxle sits without the persona. He offers the complete ledger as a gift (no check required) and asks only to be in the room when the Stone conversation happens. Renown: +1 for sharing intelligence with BD, +2 for withholding.
+**Bregan D'aerthe Member:** A drow party member (or any party member with BD affiliation established) is escorted not to J29 but through the wardrobe directly to J30. The hat comes off. Jarlaxle sits without the persona. He offers the complete ledger as a gift (no check required) and asks only to be in the room when the Stone conversation happens. Renown: +1 for sharing intelligence with BD, +2 for withholding.
 
 **Complete Ledger (J30):** DC 18 Intelligence (Investigation) to locate among the cabin's papers. DC 16 Dexterity (Thieves' Tools) for the locked drawer. The ledger contains all nine entries; see the **The Sea Maidens Faire** Event for full table. NW-02 (Gralhund entry) and NW-03 (voided Cassalanter entry) are both present.
 

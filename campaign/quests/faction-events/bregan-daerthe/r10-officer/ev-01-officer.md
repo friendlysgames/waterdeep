@@ -149,7 +149,7 @@ Ilphrin Quiss, a drow Spy, waits at the window in the stage manager's office, by
 > | Officer | Spy | Cover |
 > |---|---|---|
 > | First | Ilphrin Quiss (she/her) | Calligraphy shop in the Trades Ward |
-> | Second | Nyrae Zauvir (she/her) | Alterations stall in the South Ward |
+> | Second | Nyrae Zauvir (she/her) | Alterations stall in the Southern Ward |
 > | Third | Dhaer Oussen (he/him) | Counter clerk at a pawnbroker in the Dock Ward |
 > | Fourth | Velkyn Hune (he/him) | Tallyman for a grain factor in the Field Ward |
 > | Fifth | Ghaena Tormyl (she/her) | Laundress in the Castle Ward |

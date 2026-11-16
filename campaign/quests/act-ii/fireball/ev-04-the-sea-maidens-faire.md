@@ -9,7 +9,7 @@
 > - Multiple nimblewright signals overwhelm the detector — the Gralhund unit is not isolatable here.
 > - Three independent paths reach the same conclusion: the Gralhunds are the target.
 > - Each path has distinct consequences for Jarlaxle's deployment in Gralhund Villa.
-> - The BD character track gives any Bregan D'Aerthe party member a private meeting with Jarlaxle.
+> - The BD character track gives any Bregan D'aerthe party member a private meeting with Jarlaxle.
 >
 > **Trigger:** Faire: Visited First attunement (from ev-03).
 >
@@ -39,7 +39,7 @@ A party that attended the Field of Triumph (Trollskull Alley) recognizes the pri
 
 After pleasantries and a read of the party's investigation state, Zord excuses himself briefly. He returns with the Gralhund name, address, and the note that their nimblewright had "combat programming — unusual for a household model." He offers this freely.
 
-**Consequence:** The party has told Jarlaxle everything he needs to know. He deploys Bregan D'Aerthe agents to Gralhund Villa before the party arrives. Cross-ref Gralhund Villa: Jarlaxle Pre-Positioned attuement.
+**Consequence:** The party has told Jarlaxle everything he needs to know. He deploys Bregan D'aerthe agents to Gralhund Villa before the party arrives. Cross-ref **Gralhund Villa** (reads the **Jarlaxle Informed** Event Outcome set below).
 
 #### Path 2 — Steal Jarlaxle's Records (Difficult, Preserves Secrecy)
 
@@ -108,13 +108,13 @@ The *Scarlet Marpenoth* — whose brass model stands in the House of Inspired Ha
 The party can learn that Captain Zord is Jarlaxle Baenre in two ways during this event:
 
 - **The ledger.** Both folios open with the seller's line, "Sold through the Eyecatcher, J. Baenre, for the Company." A character who reads either ledger and makes a successful DC 14 Intelligence (History) check knows the name: Jarlaxle Baenre, a drow mercenary captain of some legend. On a failure the name means nothing yet, and the character can ask about it later.
-- **The cabin.** A Bregan D'Aerthe member taken to his private cabin (below) sees the persona drop. He names himself.
+- **The cabin.** A Bregan D'aerthe member taken to his private cabin (below) sees the persona drop. He names himself.
 
 Asking Zord directly (Path 1) or watching the crystal ball (Path 3) does not give the name on its own.
 
-### For Bregan D'Aerthe Characters
+### For Bregan D'aerthe Characters
 
-Any party member who is a Bregan D'Aerthe operative is escorted from the main deck directly to Jarlaxle's private cabin rather than the public meeting room.
+Any party member who is a Bregan D'aerthe operative is escorted from the main deck directly to Jarlaxle's private cabin rather than the public meeting room.
 
 The persona drops. Hat removed, quieter smile, plain speech. He offers the complete ledger as a gift and a test. His ask: be in the room when the Stone conversation happens. He does not elaborate on what "the conversation" will be. He is pleasant about it.
 

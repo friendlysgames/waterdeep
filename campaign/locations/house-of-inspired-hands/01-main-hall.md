@@ -12,7 +12,7 @@ When strangers ask about the nimblewright by description, she identifies it as N
 
 #### The Scarlet Marpenoth Model
 
-The model is not interactive — it is sealed and display-only. DC 14 Intelligence (History): the Scarlet Marpenoth was a Lantanese submersible launched from Baldur's Gate in 1489 DR, reportedly lost to a sea battle within the year. No record of its current status appears in the Waterdeep civic archive. DC 16 Intelligence (History): Lantanese submersibles of this class were operated exclusively by the Bregan D'Aerthe trade network as of the late 1480s DR.
+The model is not interactive — it is sealed and display-only. DC 14 Intelligence (History): the Scarlet Marpenoth was a Lantanese submersible launched from Baldur's Gate in 1489 DR, reportedly lost to a sea battle within the year. No record of its current status appears in the Waterdeep civic archive. DC 16 Intelligence (History): Lantanese submersibles of this class were operated exclusively by the Bregan D'aerthe trade network as of the late 1480s DR.
 
 A party that examines the model during ev-03 and later discovers the *Scarlet Marpenoth* beneath the *Eyecatcher* will recognize the design. No check required for the visual match — the model is accurate to the actual vessel's hull configuration.
 
