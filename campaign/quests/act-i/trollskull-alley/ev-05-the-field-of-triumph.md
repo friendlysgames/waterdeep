@@ -90,8 +90,6 @@ Cross-ref the **Jarlaxle Baenre** page in Notable Figures.
 > [!gamemaster]**Next Steps**
 >
 > The renovation continues. The tournament winnings have closed most of the financing gap. The party is now known at the Field of Triumph, which means they are known across the Sea Ward and by every faction with Noble connections. Proceed to **The Grand Opening** Event.
-
-> **[GM]**
 >
 > #### Milestone: The Field of Triumph
 >

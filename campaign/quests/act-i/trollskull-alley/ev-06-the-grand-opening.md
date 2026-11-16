@@ -83,8 +83,6 @@ Three threads land here. None resolves; all are designed to accumulate below the
 > [!gamemaster]**Next Steps**
 >
 > The tavern is open. The quest's main work is done. The Twin Parades fall on Ches 21. The calendar brings the quest to its coda. Proceed to **The Twin Parades** Event.
-
-> **[GM]**
 >
 > #### Milestone: The Grand Opening
 >

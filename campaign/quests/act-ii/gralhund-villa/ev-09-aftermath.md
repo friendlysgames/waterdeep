@@ -30,13 +30,13 @@ The first thing the party does, consciously or not, is establish where the Stone
 
 ### What the Party Knows and Holds
 
-At quest's end, confirm what the party has. Cross-check against attunements set during this quest:
+At quest's end, confirm what the party has. Cross-check against the Event Outcomes marked during this quest:
 
 | Intelligence | Source | Pays Off |
 |---|---|---|
-| Stone of Golorr | G16 — Yalah, or recovered in ev-08 | lair heist opening state |
-| Second Eye / Yellowspire lead | G12 — Chirada letter (if G12 was searched) | **Faction Outposts** |
-| Gralhund–Cassalanter cult link | G16 trunk (if G16 compartment was found) | **Cassalanter Villa** |
+| Stone of Golorr | G16 — Yalah (**Stone Secured** marked), or recovered in ev-08 (**Stone Recovered** marked) | lair heist opening state |
+| Second Eye / Yellowspire lead | G12 — Chirada letter (if **Chirada Letter Found** is marked) | **Faction Outposts** |
+| Gralhund–Cassalanter cult link | G16 trunk (if **G16 Compartment Found** is marked) | **Cassalanter Villa** |
 | Grand Game journal | G11 (if G11 was searched) | Lore; Orond characterization |
 | Orond's confession | ev-03 or ev-05 | Davil's proof request; faction debrief tone |
 | Manshoon's name | Not revealed; Floxin never gave it | Preserved for a later arc |
@@ -82,9 +82,9 @@ The meeting at Ahghairon's Statue proceeds **at highsun**. She chose the open ho
 
 **Mortal Enemy.** If any PC has designated Istrid Horn as their Doom Raiders Mortal Enemy contact: she cannot refuse to come, and the party holds the leverage. A PC with this history may extract the courier cache information and the full 40 platinum and shelter cooperation without a check, simply by naming the arrangement clearly. Alternatively: a PC who turns her in despite having named her mortal enemy forfeits the Mortal Enemy bond and takes Doom Raiders renown −3. Tashlyn's note arrives the next morning: *"That was our business. Not the Watch's."*
 
-### Jarlaxle Returns the Stone (Conditional — *Stone Holder: BD*, No BD Operative)
+### Jarlaxle Returns the Stone (Conditional — Neither **Stone Secured** nor **Stone Recovered** Marked, BD Holds the Stone, No BD Operative)
 
-If Bregan D'aerthe holds the Stone and no BD operative is in the party, a package arrives at Trollskull Manor some time after Istrid's approach — the exact hour does not matter, but it is the same day. It is wrapped in dark cloth, unmarked, left at the door by someone no one saw.
+If neither **Stone Secured** nor **Stone Recovered** is marked, Bregan D'aerthe holds the Stone (Fel'rekt took it in ev-06 or ev-07, or it reached Fenerus Stormcastle when the ev-08 chase failed), and no BD operative is in the party, a package arrives at Trollskull Manor some time after Istrid's approach — the exact hour does not matter, but it is the same day. It is wrapped in dark cloth, unmarked, left at the door by someone no one saw.
 
 Inside: the Stone of Golorr. And a card, blank on one side, written on the other in a small, precise hand:
 
@@ -118,13 +118,13 @@ Within one to three days of the villa, the party's active faction contacts reque
 
 **Doom Raiders (Tashlyn).** Already covered above. "Keep a low profile. I'll be in touch." No debrief. No elaboration.
 
-**Bregan D'aerthe — BD Operative in Party (conditional — *Jarlaxle Informed*).** No back-room invitation. Fel'rekt's debrief arrives through the operative's established channel — a direct, brief message, not an open offer to the group.
+**Bregan D'aerthe — BD Operative in Party (conditional — **Jarlaxle Informed**).** No back-room invitation. Fel'rekt's debrief arrives through the operative's established channel — a direct, brief message, not an open offer to the group.
 
 The message assesses the mission against Jarlaxle's standing orders. Its tone depends on the quest outcome:
 
-*Stone Holder: Party* — the operative delivered as ordered: *"Stone confirmed. Jarlaxle is satisfied. Your renown with the organization reflects the outcome."* Bregan D'aerthe renown +2.
+**Stone Secured** or **Stone Recovered** is marked — the operative delivered as ordered: *"Stone confirmed. Jarlaxle is satisfied. Your renown with the organization reflects the outcome."* Bregan D'aerthe renown +2.
 
-*Stone Holder: Zhentarim, Xanathar, or Nimblewright* (Stone lost entirely) — *"The Stone did not reach the party. Jarlaxle is reviewing the operation. Await contact."* No renown change. Jarlaxle will want an explanation before the next assignment.
+Neither is marked, and the Stone went to the Zhentarim, Xanathar or the nimblewright (Stone lost entirely) — *"The Stone did not reach the party. Jarlaxle is reviewing the operation. Await contact."* No renown change. Jarlaxle will want an explanation before the next assignment.
 
 In all cases, the operative is not blamed for outcomes beyond their control (the party's failure, another faction seizing the Stone mid-chase). The renown reflects what the operative personally did, not what the quest produced.
 

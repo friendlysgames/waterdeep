@@ -110,8 +110,6 @@ Cross-ref the **Filthy Meg** page in Notable Figures.
 > [!gamemaster]**Next Steps**
 >
 > The renovation is still running. Faction missions are now available. The Field of Triumph invitation arrives from the Sea Maidens Faire. Proceed to **The Field of Triumph** Event.
-
-> **[GM]**
 >
 > #### Milestone: The Factions Come Calling
 >

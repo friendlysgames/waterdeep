@@ -58,8 +58,8 @@ ev-03: Ryvarra spotted (optional)
 **Nimblewright Branch:**
 ```
 ev-07: Procession observation
-  ├── DC 14 Perception + DC 16 Arcana → mark Nimblewright Noticed
-  └── Miss either check → Nimblewright Noticed not marked
+  ├── DC 14 Perception passes → mark Nimblewright Noticed (with DC 16 Arcana too, Fireball opens with corroboration)
+  └── Perception fails → Nimblewright Noticed not marked
           → Fireball opens cold vs. corroborated
 ```
 
