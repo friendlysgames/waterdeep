@@ -92,7 +92,7 @@ Xanathar's Guild is the largest criminal organization in Waterdeep, and the only
 - **Finding Floon**, **Faction Outposts**, **Vault of Dragons**: the other quests where Xanathar or its Guild appears
 - **Xanathar Sewer Hideout**: location journal for the Guild's sewer base
 - **Xanathar**, **Ahmaergo**, **Nar'l Xibrindas**, **Nihiloor** (Notable Figures): full profiles for the Relationships table
-- **Manshoon** and **Jarlaxle** (Villains): the rival and the unidentified player in the Relationships table
+- **Manshoon** and **Jarlaxle Baenre** (Villains): the rival and the unidentified player in the Relationships table
 - **Running the Villains**: villain reference tables
 - **Xanathar's Guild** (Factions Guide): response teams, outposts, escalation, revelation list
 - **Xanathar's Guild** (Organizations): who the Guild is
