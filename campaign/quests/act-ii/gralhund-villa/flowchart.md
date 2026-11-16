@@ -78,11 +78,11 @@ Milestone 1 fires in exactly one confrontation event per playthrough — ev-06 (
 
 ---
 
-## Attunement Summary
+## Event Outcome Summary
 
 ### Read from Prior Quests
 
-| Attunement | Source | Read In |
+| Event Outcome | Source | Read In |
 |---|---|---|
 | Jarlaxle Informed | **Fireball!** ev-04 | ev-01 (Jarlaxle contact available), ev-02 (BD team at Artheyn Manor), ev-06/ev-07 (BD assault fires) |
 | Gralhund Villa Named | **Fireball!** ev-03 | ev-01 (Renaer contact available), ev-02 (Renaer contingency) |

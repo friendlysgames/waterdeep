@@ -134,32 +134,21 @@ If the party did not recover the Stone (if it remains with the Gralhunds at ques
 
 ### Concluding the Event
 
-#### Istrid Horn Helped: True / False
-Record whether the party sheltered Istrid Horn. Read by **Faction Outposts**: Doom Raiders renown modifier and courier cache availability.
-
-#### Istrid Horn Turned In: True / False
-Record whether the party handed her to the Watch. Read by **Faction Outposts**: Watch relation modifier and Doom Raiders renown penalty.
-
-#### G16 Compartment Found: True / False
-Record whether the party discovered the locked Asmodean compartment in the G16 trunk. If True, they hold the Cassalanter seal and know Yalah had an infernal contact in Castle Ward. Read by **Cassalanter Villa**.
-
-#### Yalah Missing: True / False
-Record whether Yalah fled before the Watch arrived. If True, a want notice circulates through gate guards and ship registries.
-
-#### Yalah In Custody: True / False
-Record whether Yalah was taken by the Watch. If True, she is in Castle Waterdeep and says nothing useful. If both *Yalah Missing* and *Yalah In Custody* are False, she is dead.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Istrid Horn Helped** — mark when the party shelters Istrid Horn; read by **Faction Outposts** for the Doom Raiders renown modifier and courier cache availability.
+> - **Istrid Horn Turned In** — mark when the party hands her to the Watch; read by **Faction Outposts** for the Watch relation modifier and the Doom Raiders renown penalty.
+> - **G16 Compartment Found** — mark when the party discovers the locked Asmodean compartment in the G16 trunk, which gives them the Cassalanter seal and the knowledge that Yalah had an infernal contact in Castle Ward; read by **Cassalanter Villa**.
+> - **Yalah Missing** — mark when Yalah fled before the Watch arrived; a want notice circulates through gate guards and ship registries.
+> - **Yalah In Custody** — mark when the Watch took Yalah; she is in Castle Waterdeep and says nothing useful. If neither **Yalah Missing** nor **Yalah In Custody** is marked, she is dead.
+>
+> This Event also reads **Stone Secured** (ev-06 and ev-07) and **Stone Recovered** (ev-08). If either is marked, the party holds the Stone. If neither is marked, the Stone is with whoever took it in ev-06 to ev-08: Bregan D'aerthe, or the Zhentarim, Xanathar or the nimblewright.
+
+> [!gamemaster]**Next Steps**
 >
 > Proceed to **Faction Outposts**. **Faction Outposts** opens with the party deciding which faction to probe first. The post-crackdown landscape has shifted: Davil is in Watch custody, Tashlyn is reorganizing, Jarlaxle is reassessing the party's usefulness. The faction outpost phase begins.
 >
-> #### Milestone: The Stone of Golorr — 1 Point (conditional)
->
-> If the Stone of Golorr is in party hands at the opening of this Event, award 1 Milestone Point. Cumulative total: 9 → **Level 4**.
->
-> This Milestone was listed at the top of this Event. It does not fire again here; this entry is a cross-reference.
+> If the Stone of Golorr is in party hands at the opening of this Event, the party earned 1 Milestone Point at the top of this Event (cumulative total 9, **Level 4**). It does not fire again here.
 
 ## Overview
 
