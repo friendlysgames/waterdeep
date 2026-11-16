@@ -60,7 +60,7 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 > **[GM]**
 >
 > #### GM Notes
-> - **Origins:** The Cassalanter name has stood in Waterdeep's noble registry for several generations. The Lords of Waterdeep ennobled the house in 1248 DR, about 244 years before the campaign, when they granted titles to several merchant houses (Forgotten Realms Wiki, *City of Splendors* 2e). The wiki lists Waukeen, Siamorphe and Asmodeus as the house's favored deities. Financial ruin was the trigger for the bargain, which was made three years ago, about 1489 DR. The deal also bought power, good health and long life.
+> - **Origins:** The Cassalanter name has stood in Waterdeep's noble registry for several generations. The Lords of Waterdeep ennobled the house in 1248 DR, about 244 years before the campaign, when they granted titles to several merchant houses (Forgotten Realms Wiki, *City of Splendors: Waterdeep*, 3e). The wiki lists Waukeen, Siamorphe and Asmodeus as the house's favored deities. Financial ruin was the trigger for the bargain, which was made three years ago, about 1489 DR. The deal also bought power, good health and long life.
 > - **The public face is true:** The family built its charitable reputation, political connections and public warmth in the years since the bargain, and none of it is faked. They became what they presented themselves as while also accumulating what Asmodeus requires.
 > - **Social cover:** Sea Ward dinner parties are intelligence operations, and the Cassalanters' charitable galas are recruitment screens. A charitable hospital serves as the family's front business.
 > - **Chain of command:** Ammalia makes the final calls and Victoro has stopped questioning this. Willifort Crowelle reports to Ammalia on everything that happens in the villa. Seffia Naelryke's response team answers to Lord Cassalanter, and Rella Asp and Ivrala Sorn report to Willifort.
@@ -96,7 +96,7 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 - `campaign/setting/organizations/03-emerald-enclave.md`, `04-order-of-the-gauntlet.md`, `09-manshoons-zhentarim.md` and `07-bregan-daerthe.md`: who suspects the family and who knows
 - `campaign/setting/villains/jarlaxle.md`: Jarlaxle's knowledge of the infernal bargain
 - `CLAUDE.md`, Cassalanter secrecy: the suspicion-never-knowledge rule and the Jarlaxle exception
-- Forgotten Realms Wiki, Cassalanter (*City of Splendors* 2e): ennobled 1248 DR, favored deities, Caladorn's office. Victoro Cassalanter (*Dragon Heist*, 5e): Caladorn as his father, the twins as lemures. Caladorn Cassalanter (2e and 3e): Masked Lord, then Open Lord by 1399 DR.
+- Forgotten Realms Wiki, Cassalanter (*City of Splendors: Waterdeep*, 3e): ennobled 1248 DR, favored deities, Caladorn's office. Victoro Cassalanter (*Dragon Heist*, 5e): Caladorn as his father, the twins as lemures. Caladorn Cassalanter (2e and 3e): Masked Lord, then Open Lord by 1399 DR.
 
 ## Cross-References
 

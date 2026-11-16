@@ -65,7 +65,7 @@
 >   - The wiki dates his ascension to Marpenoth 15, 1358 DR, which is the date of Gods' Day (derived).
 >   - Liar's Night, Marpenoth 30, pays tribute to Leira and Mask, and the text does not name Cyric (`sources/adventure-wdh.json:31545`). No source ties it to him.
 >   - Whether Waterdeep forbids his worship is unsourced. [research]
->   - The nearest temple a source names is the wiki's House of Cyric beneath Skullport, which lies three levels down in Undermountain (the retired Waterdeep outline, line 21). Undermountain is future work, so treat it as a seed.
+>   - The nearest temple a source names is the wiki's House of Cyric beneath Skullport, which is connected to Level 3 of Undermountain (the retired Waterdeep outline, line 21). Undermountain is future work, so treat it as a seed.
 > - **A cleric PC:** Trickery Domain (derived; Player's Handbook, 2024). It is his own domain (SCAG, 2014), so it is the direct fit. The Divine Order that fits is Thaumaturge (derived), because the faith runs on blood sacrifice, prayer at night and scheming more than open fighting. His temples are forbidden in most nations, so a Cyricist cleric in Waterdeep has no temple to turn to.
 > - **A paladin PC:** Oathbreaker (derived; Dungeon Master's Guide, 2014). A faith that teaches every bond must wither suits a paladin who has broken a sacred oath to serve an evil power. FRHoF lists no paladins among his followers, so the fit is loose. Oath of Vengeance (Player's Handbook, 2024) is the alternative for a zealot who punishes enemies. A paladin who opposes the faith fits Vengeance better, as the Knights of the Mystic Fire do when they hunt his shrines (see **Mystra**).
 > - **A warlock PC:** No warlock connection in the sources.
@@ -86,7 +86,7 @@ Cyric is the god of lies, called the Prince of Lies and the Dark Sun, and he is 
 - `sources/adventure-wdh.json`: the grant of godhood on Mount Waterdeep (line 30483), the Spellplague (line 30485), the Gods' Day bonfire (line 31536), Liar's Night (lines 31541 to 31549) and the Major Temples of Waterdeep table (from line 30910; no Cyric row).
 - `campaign/setting/history/04-the-founding-of-chains.md` (line 35): the only campaign line that names Cyric.
 - `campaign/setting/history/09-timekeeping-and-the-festival-calendar.md` (line 111): Gods' Day and Liar's Night, after the campaign window.
-- the retired Waterdeep outline (line 21): Skullport three levels down in Undermountain.
+- the retired Waterdeep outline (line 21): Skullport connected to Level 3 of Undermountain.
 - `campaign/gazetteer/waterdeep/castle-ward.md` (line 195): the Gods' Day bonfire.
 - `campaign/setting/deities/tyr.md` (lines 43 and 51), `lathander.md` (lines 49 and 52), `shar.md` (line 55), `mystra.md` (lines 50 and 59), `helm.md` (line 50), `gond.md` (line 53), `torm.md` (line 50), `oghma.md` (line 50), `deneir.md` (line 45) and `siamorphe.md` (line 39): the foe lists and the 1385 DR account, kept consistent with this page.
 - Forgotten Realms Wiki, Cyric (editions and books tagged on the page): rank, clergy and holy days, temples, relations, origin and rise, the 1371 DR trial, the 1385 DR murder and imprisonment, and the 1486 DR manifestation. The wiki is paraphrased, never quoted.
