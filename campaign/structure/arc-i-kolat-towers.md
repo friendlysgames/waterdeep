@@ -214,7 +214,7 @@ Manshoon's combat priorities in order: the simulacrum as a shield (if present), 
 
 Documents in E9 (Manshoon's Report on the Grand Game, which refers to "my predecessor" and "the original network" in a way that implies historical continuity without explaining it) + a sigil on documents in E13 (DC 14 Intelligence (History) to identify as the historical Zhentarim founder's personal mark, in use 200 years before the current Manshoon was born) + Lady Gondafrey's testimony, if she was freed ("He told me he founded the Zhentarim centuries ago. I thought he was mad. Then I saw what was left of his arm — the joint where it ends, the way it ends — and I stopped thinking he was mad.") combine to establish:
 
-- Manshoon is a clone of a clone of the original Zhentarim founder, one of multiple surviving clone bodies.
+- Manshoon is a clone of a clone of one of the original Zhentarim founders, one of multiple surviving clone bodies.
 - The clone was activated in Undermountain and subsequently fled.
 - Halaster Blackcloak amputated the left arm; the artificial replacement is a tell.
 - The simulacrum mechanic: Manshoon can create ice-preserved duplicates with limited capabilities.

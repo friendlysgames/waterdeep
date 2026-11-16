@@ -18,8 +18,8 @@ Xanathar is a beholder and the crime lord of **Xanathar's Guild**, a paranoid in
 
 ## Background
 
-- "Xanathar" is a title that predates any individual beholder. The first holder established the criminal underworld's structure, and each later Xanathar inherited the apparatus and the paranoia together.
-- The Guild keeps continuity by systematically eliminating anyone who knows more than the current Xanathar. After a century of this, the Guild is a surveillance network with no institutional memory beyond what the current beholder chooses to believe.
+- "Xanathar" is a title, derived from the personal name of the Guild's founder and held by the leaders who came after (Forgotten Realms Wiki, Xanathar (title)). The founder established the criminal underworld's structure, and each later Xanathar inherited the apparatus and the paranoia together.
+- The Guild keeps continuity by systematically eliminating anyone who knows more than the current Xanathar. After about 135 years of this, the Guild is a surveillance network with no institutional memory beyond what the current beholder chooses to believe.
 - The current Xanathar is a beholder named Zushaxx, and its pronouns are "it". Kirukesai was one of the previous Xanathars. The user supplied both names. The Forgotten Realms Wiki confirms them: Zushaxx is the Xanathar of 1492 DR, and Kirukeskai claimed the title in the 14th century, in 1372 DR (the wiki spells it Kirukeskai; the campaign spells it Kirukesai).
 - The current Xanathar believes it is the original. This belief is now structural to the Guild's identity rather than correctable. How the belief arose is not settled in any source, and the user has settled it ("Remix overtakes original campaign"): the remix line wins over the published adventure's area X33, where Xanathar gazes somberly at the tombs of its predecessors.
 - Skullport is the Guild's undercity foundation: the shadow city beneath Waterdeep, outside city jurisdiction, processing everything the surface economy won't handle. The Guild's relationship to Skullport is the relationship between a city and its sewers.
@@ -100,7 +100,7 @@ Xanathar's Guild is the largest criminal organization in Waterdeep, and the only
 > **[GM]**
 >
 > #### Draft Notes
-> - **Conflicts:** The title. Background says "Xanathar" is a title that predates any individual beholder, and the page keeps that campaign line: the title belongs to a succession. The wiki says the title was held by the second and later leaders of Xanathar's Thieves' Guild and derives from the personal name of its founder, "Xanathar (original)", listed under 1357 DR.
+> - **Settled by the user (Session 51):** The title. The wiki says it was held by the second and later leaders of Xanathar's Thieves' Guild and derives from the personal name of its founder, "Xanathar (original)", listed under 1357 DR, and the page now follows it. The old campaign line that the title predates any individual beholder had no source.
 > - **Settled by the user (Session 47):** The current Xanathar believes it is the original. "Yes. Remix overtakes original campaign." The remix line wins over the published area X33 (`adventure-wdh.json` line 18027, Xanathar "gazing somberly" at past Xanathars), the published entry (line 32756) and `arc-f` line 167. See `02-the-long-shadow.md`, Draft Notes.
 > - **Settled:** Zushaxx and Kirukesai were supplied by the user and the Forgotten Realms Wiki confirms both (Xanathar and Xanathar's Thieves' Guild pages): Zushaxx for 1492 DR, Kirukeskai for 1372 DR. The wiki's spelling of the second is Kirukeskai, which the campaign does not use. The page uses "it" throughout, per the user's ruling.
 > - **Conflicts:** Skullport's depth. The page now follows the wiki and *City of Splendors*: Skullport lies within Undermountain Level 3, two levels below Level 1. The earlier text said three levels down.

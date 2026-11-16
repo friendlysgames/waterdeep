@@ -146,7 +146,7 @@ The Southern Ward is the caravan district of Waterdeep, a ward of stables, inn y
 > - Arn acts on his own when Seffia is out of the room. He sent the Eye away with a spined devil rather than let the party take it, and he believes the decision was correct.
 
 **Manshoon (Lawful Evil, Human, he/him)**
-- A clone of the Zhentarim's founder, a wizard who lost his left arm to Halaster Blackcloak and wears a crafted replacement. The Zhentarim operatives on the city's streets answer to him, and none of them will say so. He leads the Splinter cell, which is **Manshoon's Zhentarim** and not the Doom Raiders.
+- A clone of one of the Zhentarim's founders, a wizard who lost his left arm to Halaster Blackcloak and wears a crafted replacement. The Zhentarim operatives on the city's streets answer to him, and none of them will say so. He leads the Splinter cell, which is **Manshoon's Zhentarim** and not the Doom Raiders.
 - Hook: the party has no name for him until **Manshoon Named** is marked for a member.
 
 > **[GM]**

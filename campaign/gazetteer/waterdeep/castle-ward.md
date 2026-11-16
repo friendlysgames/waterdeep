@@ -130,7 +130,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 > - Her power has declined since the Spellplague, and only Elminster knows how far. She considers Vajra an insecure child holding her husband's soul in the Blackstaff.
 
 **Vajra Safahr (Neutral, Tethyrian Human, she/her)**
-- The Blackstaff of Waterdeep, head of the Watchful Order, and the youngest Blackstaff ever, three years in the post. She sends orders by Sending, often in exactly 25 words.
+- The Blackstaff of Waterdeep, head of the Watchful Order, and the youngest Blackstaff ever, in the post since 1479 DR `[research]`. She sends orders by Sending, often in exactly 25 words.
 - She does not perform warmth she does not feel.
 
 > **[GM]**

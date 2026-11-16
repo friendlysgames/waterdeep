@@ -20,7 +20,7 @@
 
 ## Character Information
 
-**Persona.** To the world, Manshoon does not exist; he is never seen entering or leaving Kolat Towers, using a teleportation circle for all movement. To those he trusts, he is a surviving clone of the Zhentarim founder who fled Undermountain after Halaster amputated his left arm, crafted an artificial replacement, and now orchestrates a bid for total control of Waterdeep. Deep down, he claims to be the one true Manshoon, as all surviving clones do. He creates simulacra of himself and takes great pains to conceal his identity.
+**Persona.** To the world, Manshoon does not exist; he is never seen entering or leaving Kolat Towers, using a teleportation circle for all movement. To those he trusts, he is a surviving clone of one of the Zhentarim's founders who fled Undermountain after Halaster amputated his left arm, crafted an artificial replacement, and now orchestrates a bid for total control of Waterdeep. Deep down, he claims to be the one true Manshoon, as all surviving clones do. He creates simulacra of himself and takes great pains to conceal his identity.
 
 **Morale.** In combat, Manshoon lets his simulacrum absorb the opening volley while he casts from behind it. He prefers to capture rather than kill (prisoners answer questions; corpses do not), and this habit creates tactical openings the party can exploit. Only those who breach his extradimensional sanctum see his full power.
 

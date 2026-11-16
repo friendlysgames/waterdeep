@@ -30,7 +30,7 @@
 ### The Black Network
 
 - Manshoon was born in Zhentil Keep in 1229 DR and became one of the city's lords. He founded the Zhentarim in 1261 DR, and the Banite priest Fzoul Chembryl joined him in 1263 DR.
-- The published adventure calls Manshoon "one of the founders" of the Zhentarim. This page follows the wiki and treats him as the founder.
+- The published adventure calls Manshoon "one of the founders" of the Zhentarim (`adventure-wdh.json` lines 560 and 32216), and this page keeps that wording. The wiki calls him the founder.
 - Manshoon set his wizards to open trade routes between the Moonsea and the Sword Coast. The Network began as a mercantile concern and grew into a company that trades mercenaries and goods, weapons included.
 - Zhentil Keep fell in stages. Its northern half was ruined about 1369 DR after Cyric's fall, and the Shadovar razed the whole city in 1383 DR over the Zhentarim's alliance with the phaerimm.
 - The Black Network has an open recruitment policy, and it prizes tenacity and loyalty without requiring either.
@@ -168,7 +168,7 @@ The Zhentarim, also called the Black Network, is a mercenary and trading company
 > - **Conflicts:** The ward of Yellowspire. `arc-i` line 15, `guides/factions/10-manshoons-zhentarim.md` lines 33 and 67 and `fireball/ev-04-the-sea-maidens-faire.md` line 83 say the Castle Ward. `guides/factions/07-doom-raiders.md` lines 31 and 70 say the Trades Ward, and `fireball/ev-06-the-death-mark.md` line 53 says the North Ward. This page follows the Castle Ward.
 > - **Conflicts:** Kolat Towers dates. The "late fourteenth century" build date and the years 1379 (Gondafrey), 1385 (Alcedor) and 1394 (Duhlark) come from `arc-i-kolat-towers.md` alone and appear in neither the wiki nor `adventure-wdh.json` (lines 26863-26865), so they are campaign-only. The wiki says the brothers bought the buildings before 1368 DR (`Kolat_Towers.txt` line 34), which predates the body's build date. The campaign dates stand.
 > - **Conflicts:** Alcedor Kolat's fate. `adventure-wdh.json` line 26865 says he left the towers and was never heard from again. `arc-i-kolat-towers.md` line 9 says he died there in 1385 DR. The campaign wins.
-> - **Conflicts:** Manshoon's founding role and goals. The published adventure says "one of the founders" (lines 560 and 32216), and the wiki says the founder. Its goals (rule the city, oust the Open Lord, destroy Halaster) differ from `villains/manshoon.md` lines 40-42. The villain page governs.
+> - **Settled by the user (Session 51):** Manshoon's founding role. The published adventure says "one of the founders" (lines 560 and 32216), and the wiki says the founder; the page keeps the published wording. His goals (rule the city, oust the Open Lord, destroy Halaster) still differ from `villains/manshoon.md` lines 40-42, and the villain page governs because `arc-e` gives the Weave aim as a recorded design choice.
 > - **Routed facts:** The Undermountain guardian that is Manshoon's severed hand (`adventure-wdmm.json` line 26133), and Halaster's part in the clone's flight, belong in the Undermountain and Mad Mage material.
 > - **Routed facts:** The wiki caption puts Laeral Silverhand on Piergeiron's Palace to witness the Manshoon Wars. It belongs on **Laeral Silverhand** and **A City Watching Itself**.
 > - **Routed facts:** The Kolat Towers layout, the force-field mechanics and Gondafrey's imprisonment belong in the Kolat Towers location journal and the Southern Ward gazetteer page. The Interrogation House and Yellowspire belong in their ward pages.
