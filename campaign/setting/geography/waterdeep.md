@@ -173,7 +173,7 @@ Waterdeep, the City of Splendors, is the grandest and most civilized city on the
 > | Wards: North Ward | **North Ward** | **Trollskull Manor** kept, and the operating mechanics stay in the Trollskull Manor guide. |
 > | Wards: Trades Ward | **Trades Ward**, **Southern Ward**, **The Guilds** | Guildhalls go to **The Guilds** and **Trades Ward**. Faction front businesses are Trades Ward landmarks. Kolat Towers moves to **Southern Ward** by ruling 1. |
 > | Wards: Southern Ward | **Southern Ward** | "Where new arrivals settle first" is dropped as unsourced. |
-> | Wards: Dock Ward | **Dock Ward** | Xanathar's Guild territory, Istrid Horn's warehouse and the Faire's pier stay. "Most dangerous" is not repeated, and this page ranks no ward. Dragon Heist says the Field Ward has taken that title (`:31061`), and **Field Ward** records it. |
+> | Wards: Dock Ward | **Dock Ward** | Xanathar's Guild territory, Istrid Horn's warehouse and the Faire's pier stay. The Field Ward holds the "most dangerous" title (`:31061`, settled by the user in Session 51), and **Field Ward** records it. |
 > | Wards: City of the Dead | **City of the Dead** | Kept, with the Brandath Mausoleum and the Brandath Crypts kept apart. |
 > | Wards: Undermountain | **Undermountain and Skullport** | Kept. The Yawning Portal's well is on **Castle Ward**. |
 > | Governance: Open Lord Laeral Silverhand | **The Open Lord and the Masked Lords**, **Laeral Silverhand** | The claims that she knows more about the Grand Game than she says and would rather recover the vault without a fuss are dropped as unsourced. **A City Watching Itself** holds what Laeral knows. |
