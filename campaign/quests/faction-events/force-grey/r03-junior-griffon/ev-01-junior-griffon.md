@@ -49,7 +49,7 @@ The member climbs on their own. The door opens as they reach the steps, the same
 
 > [!social]**The Blackstaff at Her Desk**
 >
-> Vajra Safahr (Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, who regards a rank as a matter of bookkeeping.
+> Vajra Safahr (Lawful Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, who regards a rank as a matter of bookkeeping.
 >
 > Vajra is Indifferent toward the member and brisk without being cold. She stands throughout, states her conclusion first and then explains it in one or two sentences. She swears casually in her own study and keeps it clean in public, and she changes the subject when anyone remarks on her youth.
 >

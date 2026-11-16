@@ -23,7 +23,7 @@ Xanathar is a beholder and the crime lord of **Xanathar's Guild**, a paranoid in
 - The current Xanathar is a beholder named Zushaxx, and its pronouns are "it". Kirukesai was one of the previous Xanathars. The user supplied both names. The Forgotten Realms Wiki confirms them: Zushaxx is the Xanathar of 1492 DR, and Kirukeskai claimed the title in the 14th century, in 1372 DR (the wiki spells it Kirukeskai; the campaign spells it Kirukesai).
 - The current Xanathar believes it is the original. This belief is now structural to the Guild's identity rather than correctable. How the belief arose is not settled in any source, and the user has settled it ("Remix overtakes original campaign"): the remix line wins over the published adventure's area X33, where Xanathar gazes somberly at the tombs of its predecessors.
 - Skullport is the Guild's undercity foundation: the shadow city beneath Waterdeep, outside city jurisdiction, processing everything the surface economy won't handle. The Guild's relationship to Skullport is the relationship between a city and its sewers.
-- The Yawning Portal well drops to Undermountain Level 1, and Skullport lies within Undermountain Level 3, two levels below it (the wiki's Sargauth Level).
+- The Yawning Portal well drops to Undermountain Level 1, and Skullport is connected to Undermountain Level 3, two levels below it (the wiki's Sargauth Level).
 - The Dock Ward is the Guild's primary surface territory.
 - Where the history leaves the Guild: an empire built on fear, run by a paranoid intelligence, served by people who survive by hiding their ambitions behind obedience.
 

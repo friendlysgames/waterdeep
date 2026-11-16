@@ -19,7 +19,7 @@ The earlier draft named Nihiloor and intellect devourers to a party that may nev
 ## Invented Names and Open Items
 
 - Father Corwen Thale (priest of Tyr, seals the oath), Brother Haldric Wence (door-warden of the Halls of Justice) and the Chapel of the Steadfast Shield (a Torm chapel in the Dock Ward). Each was grep-checked against `campaign/` and has no collision.
-- Savra's alignment follows the brief (Lawful Good). Her Notable Figures page says neutral good, and should be fixed by the companion pass.
+- Savra's alignment is Neutral Good, as Dragon Heist gives it (`adventure-wdh.json:3949`). The earlier brief's Lawful Good was dropped in Session 51, and her Notable Figures page and the events now agree.
 - `ev-04-the-factions-come-calling.md:28` still gives paladins and clerics as the eligibility and `:106` still writes a True or False heading for Joined. The Trollskull manor guide still lists a different Order renovation offer at `02-operating-costs.md:83`.
 - The Dragon Heist Major Temples table puts the Halls of Justice in the Castle Ward, which is the placement used here. The retired the retired Waterdeep outline, line 36 once listed Tyr among the Sea Ward temples, and that tension is resolved.
 - The Howling Hatred's rank names are unverified and are not used on this page.

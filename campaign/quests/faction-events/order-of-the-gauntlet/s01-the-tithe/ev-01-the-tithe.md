@@ -111,7 +111,7 @@ At dusk on day two, Savra goes to the manor and knocks once. She speaks to each 
 
 > [!social]**Savra Belabranta**
 >
-> Savra Belabranta (Lawful Good, Human, she/her) :: a late-twenties knight of the Order with her dark hair worn back, a strong jaw, a dark riding coat and a silver gauntlet pin at her collar.
+> Savra Belabranta (Neutral Good, Human, she/her) :: a late-twenties knight of the Order with her dark hair worn back, a strong jaw, a dark riding coat and a silver gauntlet pin at her collar.
 >
 > Savra does not sit and does not accept tea, because she has one piece of Order business and wants to be done with it. She speaks plainly and states the hard part first. She gives a single measured nod only to answers she believes are honest.
 >

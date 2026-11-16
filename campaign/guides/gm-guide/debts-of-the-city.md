@@ -73,7 +73,7 @@ What you didn't know when you acquired the credential was that Yalah Gralhund is
 
 ### The Holder: Yalah Gralhund (House Gralhund)
 
-Yalah Gralhund is the lady of House Gralhund, a Sea Ward noble family whose motto is "We see both sides." Her husband Orond manages appearances; she manages the house. Her intelligence is genuine and her ruthlessness practical: she is interested in outcomes that serve House Gralhund, and in nothing else.
+Yalah Gralhund is the lady of House Gralhund, a North Ward noble family whose motto is "We see both sides." Her husband Orond manages appearances; she manages the house. Her intelligence is genuine and her ruthlessness practical: she is interested in outcomes that serve House Gralhund, and in nothing else.
 
 Her first contact with the character will feel like an invitation: social, professional, the warmth of someone who knows many people. She won't accuse. She'll place the character in a setting where both parties understand the same thing without saying it: she knows, and her response is still being decided.
 

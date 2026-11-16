@@ -239,7 +239,7 @@ When the other witnesses have gone, Savra sits on the altar steps with a folded 
 
 > [!social]**The Knight on the Steps**
 >
-> Savra Belabranta (Lawful Good, Human, she/her) :: the Order's knight in Waterdeep. She is a woman in her late twenties with dark hair worn back, a strong jaw and a silver gauntlet pin.
+> Savra Belabranta (Neutral Good, Human, she/her) :: the Order's knight in Waterdeep. She is a woman in her late twenties with dark hair worn back, a strong jaw and a silver gauntlet pin.
 >
 > Savra is grave and exact, and she states each limit before she names the benefit it belongs to. She pauses before every serious answer, gives her single nod only to an honest one and swears rarely, in short bursts aimed at wrongdoing. She does not push the document toward the member, and she does not pull it back.
 >

@@ -50,7 +50,7 @@ Mirt receives the Harper members there during the matinee and leaves at 13:30, b
 
 > [!social]**The Old Wolf in Business Gear**
 >
-> Mirt (Chaotic Good, Illuskan human, he/him) :: the senior Harper of the Waterdeep cell, who briefs in the back of a theater box so the orchestra covers his voice.
+> Mirt (Chaotic Good, Tethyrian human, he/him) :: the senior Harper of the Waterdeep cell, who briefs in the back of a theater box so the orchestra covers his voice.
 >
 > Mirt refills every glass without being asked and keeps a hand over the note when an usher passes. He answers in short, complete sentences. He wants Maxeene's account of the Zhentarim and anything else she has heard, and he wants her out of the Dock Ward. He does not ask the members to promise a result.
 >

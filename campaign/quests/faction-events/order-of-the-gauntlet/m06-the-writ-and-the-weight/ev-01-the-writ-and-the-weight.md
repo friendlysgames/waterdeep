@@ -50,7 +50,7 @@ The notice is a document that the players can read, and you write each character
 
 > [!social]**The Knight Before the Hearing**
 >
-> Savra Belabranta (Lawful Good, Human, she/her) :: the Order's knight in Waterdeep, in her late twenties, with dark hair worn back and a strong jaw.
+> Savra Belabranta (Neutral Good, Human, she/her) :: the Order's knight in Waterdeep, in her late twenties, with dark hair worn back and a strong jaw.
 >
 > Savra has not slept, and she keeps her voice low and level. She pauses before every serious answer and gives her single nod only to an honest one. She swears rarely, in short bursts, and only at wrongdoing.
 >

@@ -50,7 +50,7 @@ The member climbs on their own. The door opens as they reach the steps, the same
 
 > [!social]**The Blackstaff Planning**
 >
-> Vajra Safahr (Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, who is lending out people she has to account for.
+> Vajra Safahr (Lawful Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, who is lending out people she has to account for.
 >
 > Vajra is Indifferent toward the member, though she is more open than at the last meeting. She stands at the desk and gives her conclusion first, then one or two sentences of reasons. She swears casually in her own study and keeps it clean in public. She changes the subject when anyone remarks on her youth.
 >

@@ -48,7 +48,7 @@ Mirt is at home for once, and he receives the member in his business gear.
 
 > [!social]**The Old Wolf at Home**
 >
-> Mirt (Chaotic Good, Illuskan Human, he/him) :: the Old Wolf, moneylender and senior Harper, who is home for once and speaking plainly.
+> Mirt (Chaotic Good, Tethyrian Human, he/him) :: the Old Wolf, moneylender and senior Harper, who is home for once and speaking plainly.
 >
 > Mirt is Friendly toward the member. He refills their cup without being asked, tilts his head while he works out how much to say, and does not swear. He calls the member "lad" or "lass" as it fits, and he gives each benefit its terms the way he would give a loan.
 >

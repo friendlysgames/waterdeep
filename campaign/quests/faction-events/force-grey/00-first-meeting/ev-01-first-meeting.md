@@ -91,7 +91,7 @@ If the *Sending* recipient climbed the stair alone, read or paraphrase the follo
 
 > [!social]**The Blackstaff**
 >
-> Vajra Safahr (Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, who made her decision about the party before they climbed the stairs.
+> Vajra Safahr (Lawful Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, who made her decision about the party before they climbed the stairs.
 >
 > Vajra is Indifferent toward the party and spends no words on warmth. She stands at the desk throughout and answers every question plainly, stating her conclusion first and keeping explanations short. In front of strangers her swearing is rare and barely clean. She finds remarks about her youth uninteresting and changes the subject. If a character asks about the length of the *Sending*, she says "Twenty-five. I counted."
 >

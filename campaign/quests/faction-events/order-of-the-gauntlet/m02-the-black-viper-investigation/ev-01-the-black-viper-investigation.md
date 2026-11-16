@@ -36,7 +36,7 @@ Savra knocks once at dawn and waits on the step until a member asks her in. She 
 
 > [!social]**The Knight at the Door**
 >
-> Savra Belabranta (Lawful Good, Human, she/her) :: a Knight of the Order in her late twenties with dark hair worn back. She briefs standing and does not soften what she says.
+> Savra Belabranta (Neutral Good, Human, she/her) :: a Knight of the Order in her late twenties with dark hair worn back. She briefs standing and does not soften what she says.
 >
 > Savra pauses before every serious answer and says what she knows in plain order. She swears rarely and only at wrongdoing, and she gives a single nod to an honest answer and nothing to a managed one. She calls Tyr the Maimed God and voices every suspicion as a suspicion.
 >

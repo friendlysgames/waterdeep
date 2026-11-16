@@ -154,7 +154,7 @@
 
 > [!social]**The Old Wolf**
 >
-> Mirt (Chaotic Good, Illuskan human, he/him) :: A moneylender of great girth and a senior Harper, who wants to see how Renaer's recommended candidates carry themselves.
+> Mirt (Chaotic Good, Tethyrian human, he/him) :: A moneylender of great girth and a senior Harper, who wants to see how Renaer's recommended candidates carry themselves.
 >
 > Mirt is Friendly toward the candidates and in no hurry. Until intermission he roars: his sentences are long and rolling, full of food, wine and old stories, and he laughs at his own jokes. He swears like a sailor and invents his insults as he goes. He gossips about the house, talks over the singers and calls younger people "lad" and "lass". He tilts his head slightly when an answer makes him recalculate. Once the curtain falls his voice drops, his sentences get short and the swearing stops.
 >

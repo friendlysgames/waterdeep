@@ -133,7 +133,7 @@ The Field Ward is Waterdeep's slum, an unofficial ward of mud, tanneries and sla
 > #### GM Notes
 > - Jarlaxle gave Meg a ring of *true sight* as a retainer and gets harbor intelligence in return, and the Cassalanters have paid her for Field Ward surveillance twice. If her Field Ward people are threatened she does not fight, and she sells the name of whoever is responsible to someone who will act.
 
-**Savra Belabranta (Lawful Good, Human, she/her)**
+**Savra Belabranta (Neutral Good, Human, she/her)**
 - Head of the Order of the Gauntlet's Waterdeep chapter, who sends the party into the Field Ward because a knight in the Order's coat turns a quarrel into a message. She fights beside the party in Twelvedog Court, and she cannot walk through the Aveen Street door herself. See the **Castle Ward** page for her office and her history.
 
 ## Life in the Ward

@@ -90,7 +90,7 @@ The member and any companions give their account standing, because there is nowh
 
 > [!social]**The Blackstaff at Work**
 >
-> Vajra Safahr (Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, giving the party her full attention at the standing desk.
+> Vajra Safahr (Lawful Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, giving the party her full attention at the standing desk.
 >
 > Vajra is Friendly toward the party, which shows as patience and nothing warmer. She stands throughout, writes while others talk, and gives her conclusion before her reasons. Her swearing is casual and colourful in her own study, and she saves it for what angers her. She says "the Open Lord" for Laeral Silverhand and never discusses the Blackstaff.
 >

@@ -22,7 +22,7 @@ The Waterdeep chapter is small. It is Savra, a clerk's office in the east annex 
 
 ## Key Members
 
-- **Savra Belabranta** — Lawful Good Tethyrian human knight; Order faction contact, atonement-driven; delivers the missions in person. See the **Savra Belabranta** page in Notable Figures.
+- **Savra Belabranta** — Neutral Good Tethyrian human knight; Order faction contact, atonement-driven; delivers the missions in person. See the **Savra Belabranta** page in Notable Figures.
 - **Sister Valdra** — Half-orc cleric of Tyr; unofficial Order operative (unsanctioned by Savra); holds three independent pieces of Cassalanter intelligence. She plays no part in the faction's events. See the **Sister Valdra** page in Notable Figures.
 
 ## Grand Game Agenda

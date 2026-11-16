@@ -125,7 +125,7 @@ No check needed; Fala is shaken and willing.
 >
 > #### Fala Victim Fallback
 >
-> If Fala was the Trollskull Alley victim, she is dead in the alley. Substitute **Tally Fellbranch** as this witness — she watched the blast from the Bent Nail's doorway and provides the same account of the burned man limping north. The information is identical; the NPC differs.
+> If Fala was the Trollskull Alley victim, she is dead in the alley. Substitute **Tally Fellbranch** as this witness — he watched the blast from the Bent Nail's doorway and provides the same account of the burned man limping north. The information is identical; the NPC differs.
 
 #### Jezrynne Hornraven
 

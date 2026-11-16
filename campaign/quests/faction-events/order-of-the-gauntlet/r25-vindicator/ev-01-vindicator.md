@@ -45,7 +45,7 @@ Hold this Event until **Whitehawk Reached** is marked for the member. At noon on
 
 > [!social]**The Knight of the Gauntlet**
 >
-> Savra Belabranta (Lawful Good, Human, she/her) :: a knight in her late twenties with her dark hair worn back and a strong jaw. She wears a dark riding coat with a silver gauntlet pin at the collar.
+> Savra Belabranta (Neutral Good, Human, she/her) :: a knight in her late twenties with her dark hair worn back and a strong jaw. She wears a dark riding coat with a silver gauntlet pin at the collar.
 >
 > Savra speaks more slowly than usual, because Brother Hallin writes down what she says in front of the witnesses. She states each limit before the benefit it belongs to, and she pauses before every serious answer. She gives a single measured nod only to answers she believes are honest. She calls Tyr "the Maimed God" and swears rarely, in short bursts aimed at wrongdoing.
 >

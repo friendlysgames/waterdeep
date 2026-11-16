@@ -46,7 +46,7 @@ The door of Blackstaff Tower opens as the party reaches the steps, as it always 
 
 > [!social]**The Blackstaff Without an Audience**
 >
-> Vajra Safahr (Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep, speaking in private to people she trusts and swearing harder than the members have heard from her.
+> Vajra Safahr (Lawful Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep, speaking in private to people she trusts and swearing harder than the members have heard from her.
 >
 > Vajra stands at the window for the whole brief and gives her orders in plain, full sentences. She is tired and angry at the Tower and not at the members, and she swears the way she does at the end of a bad week, in rants and without apology. A member who asks if she is alright gets one word.
 >

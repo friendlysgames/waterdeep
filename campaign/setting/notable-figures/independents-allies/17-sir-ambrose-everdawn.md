@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Tethyrian Human knight of Kelemvor, Lawful Neutral, he/him*. Stat block: **Knight**.
+> - *Tethyrian Human knight of Kelemvor, Lawful Good, he/him*. Stat block: **Knight**.
 > - **Affiliation:** Independent (Emerald Enclave mission partner)
 > - **Featured in:** **Ten Nights in the City of the Dead**, **Vault of Dragons** (unconverted)
 >

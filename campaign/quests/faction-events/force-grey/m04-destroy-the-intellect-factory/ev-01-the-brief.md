@@ -43,7 +43,7 @@ The *Sending* is exactly 25 words, and a member can answer in up to 25 words, th
 
 > [!social]**The Blackstaff at Her Desk**
 >
-> Vajra Safahr (Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep, who has laid her supplies out in rows and gives her orders in full sentences.
+> Vajra Safahr (Lawful Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep, who has laid her supplies out in rows and gives her orders in full sentences.
 >
 > Vajra has not slept much and does not mention it, and she waits for each answer before she goes on. She is blunt about the danger and does not soften it, and when someone asks if she is all right, she answers with one word.
 >

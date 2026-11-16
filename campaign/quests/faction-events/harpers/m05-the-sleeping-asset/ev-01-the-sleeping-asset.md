@@ -32,7 +32,7 @@ Mirt comes in at 05:00 through the back door of the taproom and sits at a table 
 
 > [!social]**Mirt at Dawn**
 >
-> Mirt (Chaotic Good, Illuskan Human, he/him) :: a big man in plain brown wool who has not slept and does not hide it.
+> Mirt (Chaotic Good, Tethyrian Human, he/him) :: a big man in plain brown wool who has not slept and does not hide it.
 >
 > He is in business mode, which means short, complete sentences, no jokes, no swearing and his hands flat on the table. He refills no glasses. He is worried about Corene without saying so.
 >

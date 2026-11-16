@@ -114,7 +114,7 @@ None of the visions identify who holds each Eye or where the holder can be found
 
 **Xanathar's Guild:** Grinda Garloth's operates openly in Mistshore as a black-market armorer. Anyone asking about Xanathar weapons or Guild suppliers in the Dock Ward gets pointed to her within a day. No credentials required.
 
-**Manshoon's Zhentarim:** Parties who searched Urstul Floxin's effects at Gralhund Villa have documents pointing to Brindul Alley. Parties that did not can find the Interrogation House through Trade Ward canvassing — the safe house's traffic is unusual enough to notice if someone is looking (DC 14 Investigation over a day).
+**Manshoon's Zhentarim:** Parties who searched Urstul Floxin's effects at Gralhund Villa have documents pointing to Brindul Alley. Parties that did not can find the Interrogation House through North Ward canvassing — the safe house's traffic is unusual enough to notice if someone is looking (DC 14 Investigation over a day).
 
 **Cassalanter outposts:** The infernal presence near Coachlamp Lane is detectable by any character with Divine Sense within 60 feet of the Converted Windmill, and confirmable with *detect evil and good*. Parties without such abilities can find the location through Coachlamp Lane neighborhood inquiry — neighbors report strange smells, unusual visitors at odd hours, a couple who never quite fit in (DC 13 Charisma, no faction required).
 
@@ -198,7 +198,7 @@ An eye-themed confectioners' shop — smallcakes, candied nuts, ocular sugar scu
 
 #### 5A: Interrogation House (Encounter-Plus)
 
-*Trade Ward, Brindul Alley.* — **Street-level entry point for the Manshoon chain** (for parties with **Gralhund Villa** documents).
+*North Ward, Brindul Alley.* — **Street-level entry point for the Manshoon chain** (for parties with **Gralhund Villa** documents).
 
 *Approach.* Four paths to the Interrogation House: the *Directive to Urstul Floxin* from **Gralhund Villa** names Avareen Windrivver and Brindul Alley explicitly; Yellowspire's crumpled note from Avareen (for parties who hit Yellowspire first); questioning a captured Zhentarim response team member (prisoners taken by Zhent teams are brought here — they'll say so); or Trade Ward canvassing for parties lacking **Gralhund Villa** documents (DC 14 Investigation over a day; no faction membership required). The house appears unremarkable from the street. Use house L1 layout (DH p. 62).
 

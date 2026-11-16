@@ -51,7 +51,7 @@ If **Remallia Harper Contact Known** is marked for the member, add the following
 
 > [!social]**The Old Wolf at His Own Table**
 >
-> Mirt (Chaotic Good, Illuskan Human, he/him) :: a huge, gray-bearded moneylender and senior Harper, who is home for once and speaking plainly.
+> Mirt (Chaotic Good, Tethyrian Human, he/him) :: a huge, gray-bearded moneylender and senior Harper, who is home for once and speaking plainly.
 >
 > Mirt is Friendly and unhurried. He speaks in short, complete sentences and tilts his head while he decides how much to say. He refills a glass whenever one runs low, he calls the member "lad" or "lass", and he gives each benefit its terms the way he would give a loan.
 >

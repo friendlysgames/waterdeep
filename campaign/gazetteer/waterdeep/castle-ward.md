@@ -109,7 +109,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 > - Durnan is a secret Masked Lord of Waterdeep and the secret founder of the Red Sashes (campaign-only). Its fighters pose as regulars at the Portal and are magically sworn to his service.
 > - Neither fact can be found in normal play, and Durnan confirms neither under pressure. The party only notices that he often knows of a threat to the city before the Watch does.
 
-**Mirt (Chaotic Good, Illuskan Human, he/him)**
+**Mirt (Chaotic Good, Tethyrian Human, he/him)**
 - A moneylender of great girth known as "the Old Wolf", who spends days on politics and nights on drink. He knows architecture well and will talk about it.
 - Laeral's closest advisor. His personal loans to Harper members leave them owing him a favor.
 - His mansion was once a fortress-like, glowering tower near the Naval Harbor, softened by new architecture since he returned. The page treats it as a Castle Ward residence, as the wiki (*Waterdeep and the North* 2e) and the Dragon Heist ward chapter do. The campaign's Harper events host Mirt's dinners at a manor in the Sea Ward behind the Naval Harbor, and those events are left as they are.
@@ -129,7 +129,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 > #### GM Notes
 > - Her power has declined since the Spellplague, and only Elminster knows how far. She considers Vajra an insecure child holding her husband's soul in the Blackstaff.
 
-**Vajra Safahr (Neutral, Tethyrian Human, she/her)**
+**Vajra Safahr (Lawful Neutral, Tethyrian Human, she/her)**
 - The Blackstaff of Waterdeep, head of the Watchful Order, and the youngest Blackstaff ever, in the post since 1479 DR `[research]`. She sends orders by Sending, often in exactly 25 words.
 - She does not perform warmth she does not feel.
 
@@ -142,7 +142,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 - Retired City Watch sergeant. He sits in the Halls of Justice sergeants' room in the afternoons, and a visitor who buys him a drink finds him easy to talk to.
 - He helps Barnibus Blastwind with unusual crimes by translating between the investigator and the common folk.
 
-**Savra Belabranta (Lawful Good, Human, she/her)**
+**Savra Belabranta (Neutral Good, Human, she/her)**
 - Head of the Order of the Gauntlet's Waterdeep chapter, from a clerk's office in the Halls of Justice, with about a dozen Knights and Priests under her. She comes from the noble Belabranta family, who breed griffons for the Cavalry.
 - She is blunt, has a hunter's eye for infernal work, and holds no patience for people who manage her.
 
@@ -189,7 +189,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 ### Lore
 - Ahghairon seated himself on the flaming warlord's throne and set up the Open Lord and the hidden Masked Lords. The throne is still in the Palace.
 - The dragonward begins beneath Ahghairon's Tower. Dragons are physically unable to enter the city unless touched by the dragonstaff of Ahghairon. The Open Lord's permission plays no part.
-- Six walking statues stand in the ward (Dragon Heist, confirmed by the wiki): the God Catcher just north of the Market, the Great Drunkard just south of it, the Griffon on Mount Waterdeep near the Peaktop Aerie, the Hawk Man, and the Lady Dreaming on the northern slope of the mountain, and the Sahuagin Humbled, which Dragon Heist places at two sites: the foot of Mount Waterdeep near the head of Julthoon Street, and Gull Leap, a bluff at the mountain's northern foot. The Honorable Knight belongs to the Trades Ward. Only the original statue, now the Sahuagin Humbled, is 90 feet tall. The Honorable Knight is nine stories tall, and the other statues have no published height. Only the Griffon has moved since the 1385 DR rampage (it woke in 1479 DR). See **The Dragonward and Walking Statues**.
+- Six walking statues stand in the ward (Dragon Heist, confirmed by the wiki): the God Catcher just north of the Market, the Great Drunkard just south of it, the Griffon on Mount Waterdeep near the Peaktop Aerie, the Hawk Man, and the Lady Dreaming on the northern slope of the mountain, and the Sahuagin Humbled, which stands on Gull Leap, a bluff at the mountain's northern foot. The Honorable Knight belongs to the Trades Ward. Only the original statue, now the Sahuagin Humbled, is 90 feet tall. The Honorable Knight is nine stories tall, the Griffon's back stands about twenty feet off the ground, and the other statues have no published height. Only the Griffon has moved since the 1385 DR rampage (it woke in 1479 DR). See **The Dragonward and Walking Statues**.
 - The wiki dates the ward's founding to 1035 DR, when Ahghairon established it with the Trades, Southern and Dock Wards.
 - Halaster Blackcloak built his tower at the foot of Mount Waterdeep before the city existed. The Well into Undermountain was once where Waterdeep threw its criminals, and Durnan built the Yawning Portal over it.
 - Gods' Day (Marpenoth 15) ends with a Griffon Cavalry bonfire on Mount Waterdeep, in memory of Myrkul's fires that burned through the Southern, Dock and Castle Wards.
@@ -266,7 +266,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 > - **Conflicts:** Mirt's Mansion. The wiki and the Dragon Heist Castle Ward section place it near the Naval Harbor in the Castle Ward; the campaign's Harper events place Mirt's dinner manor in the Sea Ward. The page keeps the Castle Ward residence and leaves the events alone.
 > - **Conflicts:** Castle Waterdeep, kept as the campaign has it. The wiki (2e) says the castle holds up to 540 prisoners in 90 cells and was the seat of the city's government; the page has a custody wing built for 30 that holds 61, and says the castle is not the seat of government (Dragon Heist supports the page).
 > - **Settled by the user (Session 51):** The City Guard and the City Watch stay two services. The wiki's 1479 DR fold (*Forgotten Realms Campaign Guide*, 4e) is not used, because Dragon Heist keeps two services in 1492 DR.
-> - **Conflicts:** Alignments. The page gives Vajra Safahr as Neutral and Savra Belabranta as Lawful Good, matching their Notable Figure pages; the wiki (5e) gives Vajra lawful neutral and Savra neutral good. Saeth, Durnan and Mirt match the wiki.
+> - **Settled by the user (Session 51):** Alignments follow canon. Savra Belabranta is Neutral Good (Dragon Heist `adventure-wdh.json:3949` and the wiki) and Vajra Safahr is Lawful Neutral (wiki, 5e). Saeth, Durnan and Mirt match the wiki.
 > - **Conflicts:** Savra's time in the Howling Hatred. The page says she left about three years ago. The wiki places her in the cult during the 1491 DR crisis, about a year before the campaign (*Princes of the Apocalypse*). The page keeps the campaign value.
 > - **Conflicts:** Tower of Luck. The Dragon Heist temple table lists it in the Castle Ward; the Dragon Heist Sea Ward text and the retired Waterdeep outline place it in the Sea Ward. Ruling 1 (the published adventure wins on temples) follows the table, so it is a Castle Ward temple, and the split is stated on this page and the **Sea Ward** page. the retired Waterdeep outline also puts the Selûne temple in the Sea Ward, which the table agrees with.
 > - **Conflicts:** Temple of Helm. The Dragon Heist temple table places Helm's Hall in the Southern Ward, and ruling 1 follows it, so the Temple of Helm is not a Castle Ward temple. The earlier Castle Ward placement came from `player-factions-overview.md` (line 99) and the Order of the Gauntlet files.

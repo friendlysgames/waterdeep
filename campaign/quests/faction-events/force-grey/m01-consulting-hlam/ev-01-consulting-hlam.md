@@ -38,7 +38,7 @@ The member can reply once or several times. Vajra answers the first four replies
 
 > [!social]**The Voice Behind the Eyes**
 >
-> Vajra Safahr (Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, who sends her orders by spell because the spell makes her cut every word she would otherwise waste.
+> Vajra Safahr (Lawful Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, who sends her orders by spell because the spell makes her cut every word she would otherwise waste.
 >
 > Vajra counts the words on her fingers as she sends, and she does not wait for thanks. She is dry and brisk, and she gives the member what the climb requires and nothing else. She has not climbed Hlam's slope in two years, and she gives the reason only if a reply asks.
 >
