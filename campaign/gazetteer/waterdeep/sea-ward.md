@@ -209,7 +209,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 ---
 
 ## Source References
-- `campaign/setting/waterdeep-lore.md` (Sea Ward bullet and Religion bullets, lines 15 and 36): campaign outline, the page this one replaces.
+- the retired Waterdeep outline (Sea Ward bullet and Religion bullets, lines 15 and 36): campaign outline, the page this one replaces.
 - `sources/adventure-wdh.json` Ch.9 "Sea Ward" (lines 30873-30899), the Major Temples table (30910-30998), the festivals (Plowing and Running 31410-31414, Founders' Day 31447-31451, Ahghairon's Day 31479, Selûne's Hallowing 31554-31558, Guildsmeet 31405), the alleys (31321, 31330), the Cassalanter Villa chapter (18560, 18579), House Rosznar (1083-1088), Thann and Urmbrusk (30357-30378), and the character appendix entries (Renaer 32547, Barnibus 31775). Dragon Heist, 2014 text, used for facts only.
 - `campaign/locations/cassalanter-villa/area-overview.md` and `campaign/locations/house-of-inspired-hands/area-overview.md`.
 - `campaign/setting/notable-figures/`: Victoro Cassalanter, Ammalia Cassalanter, The Black Viper, Renaer Neverember, Barnibus Blastwind, Jelenn Urmbrusk and Valetta (alignment, species, role and GM notes).

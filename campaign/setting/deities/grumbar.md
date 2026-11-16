@@ -67,7 +67,7 @@
 > - **Campaign ties:** No campaign file uses this power. The published adventures hold no Grumbar line either, only material near him that is a seed for later work.
 >   - Dragon Heist, Vault of Dragons: area V4 is the Hall of Moradin (`sources/adventure-wdh.json:14586`) and area V7 is Dumathoin's Secret (`:14674`). The campaign keeps both (`campaign/structure/arc-j-vault-of-dragons.md:140` and `:148`). The wiki lists Dumathoin among the earth powers with loose ties to Grumbar. No source ties Moradin to him.
 >   - Dungeon of the Mad Mage, Level 13, area 9, holds two pools of liquid metal drawn from the Elemental Plane of Earth (`sources/adventure-wdmm.json:37535`). On Level 19, area 11b, the dao Jarûk returns to the Elemental Plane of Earth if the party completes his quest (`:52115`). Temples of Dumathoin lie on Levels 2, 3 and 6 (`:7044`, `:9836`, `:18477`), and a 12-foot statue of Moradin stands on Level 15, area 26 (`:43276`).
->   - Undermountain lies below the city (`campaign/setting/waterdeep-lore.md:21`). Undermountain is future work, so treat all of this as seed material that names no one but the dwarven powers.
+>   - Undermountain lies below the city (the retired Waterdeep outline, line 21). Undermountain is future work, so treat all of this as seed material that names no one but the dwarven powers.
 
 ## Overview
 
@@ -82,7 +82,7 @@ Grumbar, the Earthlord, is the neutral god of earth and one of the four elementa
 - 5etools `deities.json`, SCAG p.21 (2014): title, pantheon, alignment, domains and symbol, marked "SCAG, 2014" where used. There is no FRHoF entry for Grumbar, and the PHB carries none, so other names, plane and typical followers come from the wiki and carry their editions.
 - `sources/adventure-wdh.json`: the Major Temples of Waterdeep table (no Grumbar row; Holyhands House at lines 30923 to 30925; caption at line 30910), and the Vault of Dragons areas V4 (line 14586) and V7 (line 14674). No line of either adventure file names Grumbar.
 - `sources/adventure-wdmm.json`: Level 13 area 9 (line 37535), Level 19 area 11b (line 52115), the Dumathoin temples (lines 7044, 9836 and 18477) and the Moradin statue (line 43276). Seeds only.
-- `campaign/structure/arc-j-vault-of-dragons.md` (active structure doc, lines 140 and 148): the Hall of Moradin and the offerings to Dumathoin. `campaign/setting/waterdeep-lore.md:21`: Undermountain below the city.
+- `campaign/structure/arc-j-vault-of-dragons.md` (active structure doc, lines 140 and 148): the Hall of Moradin and the offerings to Dumathoin. the retired Waterdeep outline, line 21: Undermountain below the city.
 - Forgotten Realms Wiki, Grumbar (editions and books tagged on the page): rank by edition, other names, temperament, appearance, followers, clergy, orders, temples, divine realm, relations, regional forms and the 1369 DR and Second Sundering history. The wiki is paraphrased, never quoted. The wiki's Umberlee page supplies the Kelthann episode and the First Circle, and its Akadi page supplies the Knights of the Wind's Four Quarters.
 - `docs/plans/setting-compendium-research-notes/pass2/batch-e-umberlee-auril-akadi-grumbar-istishia-kossuth.md`, section "4. Grumbar": the field-by-field extract of the above.
 

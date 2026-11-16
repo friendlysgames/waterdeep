@@ -256,7 +256,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 ---
 
 ## Source References
-- `campaign/setting/waterdeep-lore.md` (Dock Ward bullet, line 19, and the Fleetswake row, line 44): campaign outline, the page this one replaces.
+- the retired Waterdeep outline (Dock Ward bullet, line 19, and the Fleetswake row, line 44): campaign outline, the page this one replaces.
 - `sources/adventure-wdh.json` Ch.9 "Dock Ward" (lines 31057-31066), the Wards of Waterdeep text (30849-30872), the Watch's rounds (30548), the Major Temples table (30908-30998), the city-life text (31161-31162), the Honorable Knight orientation (30693), the Griffon (31220), Three Daggers Alley (31335-31340), and the Finding Floon text (1678-2251, 2860, 2914). Also the Stone-trail text for Mistshore, the Seven Masks Theater, the courthouse and the Faire's pier (6169, 6672, 6710, 7226, 9066, 10558, 23005), and the appendix entries for Istrid Horn (31934) and Esloon Bezant (3922). Dragon Heist, 2014 text, used for facts only.
 - `campaign/locations/zhentarim-warehouse/area-overview.md`, `campaign/locations/xanathar-sewer-hideout/area-overview.md` and `campaign/locations/sea-maidens-faire/area-overview.md`.
 - `campaign/quests/act-i/finding-floon/` (overview and events 01 to 04), `trollskull-alley/` (events 04, 05, 07), `campaign/quests/act-ii/fireball/ev-03-the-nimblewright-hunt.md` and `ev-04-the-sea-maidens-faire.md`, and `campaign/locations/gralhund-villa/g12-family-library.md`.

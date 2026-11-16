@@ -25,7 +25,7 @@
 > - Manshoon survived that death through the stasis clone spell and fought his own clones in the Manshoon Wars. The man in Kolat Towers is a clone of a clone who claims to be the true Manshoon, and he keeps a simulacrum in reserve.
 > - The Doom Raiders, five retired adventurers, were sent to Waterdeep in 1489 DR to found the Black Network's foothold. They regard themselves as the true Zhentarim of Waterdeep.
 > - Manshoon's clone arrived later, took over Kolat Towers and built a cell of his own, the Splinter, in about two years. He peeled off a large part of the Doom Raiders' local network.
-> - Manshoon's cell regards the Doom Raiders as deserters who stole his name, and the Doom Raiders are at active internal war with it. The two cells will not cooperate.
+> - Manshoon's cell regards the Doom Raiders as deserters who stole his name, and the Doom Raiders are at active internal war with it. The two cells will not cooperate. `[research]`
 
 ### The Black Network
 
@@ -83,7 +83,7 @@
 
 - Two cells use the name Zhentarim in Waterdeep, and each denies the other's claim. The distinction should become clear to attentive players during **Trollskull Alley**, because the Doom Raiders' professionalism makes Manshoon's operatives land harder when they appear.
 - The Doom Raiders call themselves the legitimate Black Network in the city. They are at active internal war with Manshoon's cell, and anyone who joins them is caught in the crossfire.
-- Manshoon's cell does not acknowledge the Doom Raiders as Zhentarim. It regards them as deserters who stole his name.
+- Manshoon's cell does not acknowledge the Doom Raiders as Zhentarim. It regards them as deserters who stole his name. `[research]`
 - The cells will not cooperate or share intelligence, and where their operations overlap they undermine each other. Information given to the Doom Raiders does not reach Manshoon's agents.
 - The Doom Raiders have a leak of their own. Skeemo Weirdbottle has been feeding intelligence to Manshoon's cell since before the party was recruited.
 - Factions that speak to players say "the Splinter" or "the other cell" until **Manshoon Named** is marked for the listener.

@@ -64,7 +64,7 @@
 > - **Waterdeep:** Ilmater has one temple in the city, the Hospice of St. Laupsenn in the North Ward.
 >   - The Dragon Heist Major Temples table lists "Ilmater, Hospice of St. Laupsenn, North Ward" (`sources/adventure-wdh.json:30943-30945`). The adventure text for Kalain's residence calls it "a temple of Ilmater, god of suffering" (`sources/adventure-wdh.json:13267`).
 >   - No campaign file names or describes the Hospice. The sources do not say who built it, who runs it, how large it is, or who St. Laupsenn was. [research]
->   - The same table lists Holyhands House in the North Ward as a temple of all deities. Trollskull Manor, the party's tavern, also stands in the North Ward (`campaign/setting/waterdeep-lore.md:16`).
+>   - The same table lists Holyhands House in the North Ward as a temple of all deities. Trollskull Manor, the party's tavern, also stands in the North Ward (the retired Waterdeep outline, line 16).
 >   - In the Dragon Heist text one priest works at the Hospice, Vhaspar Holmdreg, a lawful good Illuskan human in his seventies who is half blind with cataracts. He rents a room in the west wing of Kalain's residence and brings her food twice a week, and firewood three times a week in winter. He is the only person she treats politely. The campaign's Kalain's Tower event does not use him, so he is a seed for a GM who wants a face at the Hospice.
 >   - The Order of the Gauntlet's temple benefits name the temples of Tyr, Helm and Torm, and the Hospice is not among them (`campaign/quests/faction-events/order-of-the-gauntlet/00-first-meeting/ev-01-first-meeting.md:203`).
 >   - No other shrine or temple of Ilmater exists in the campaign files, and no city festival is tied to him.
@@ -93,7 +93,7 @@ Ilmater is the Crying God, a lawful good power of endurance, suffering and marty
 - Deity research note (FRHoF p.109 entry, current 2024-era canon): title, other names, worshipers, plane, the faith's tenets, priests and hair shirts, messengers and signs, Chosen, and the Broken Ones.
 - Same note, SCAG p.21 entry (2014), used for alignment, domains and symbol, and for the hair-shirt taboo and public respect for the faith. Marked "SCAG, 2014" where used. The PHB p.294 entry repeats the SCAG values.
 - `sources/adventure-wdh.json`: the Major Temples of Waterdeep table row (Ilmater, Hospice of St. Laupsenn, North Ward), the Holyhands House row, and the Kalain's residence text that names the Hospice and Vhaspar Holmdreg.
-- `campaign/setting/waterdeep-lore.md`: Trollskull Manor in the North Ward.
+- the retired Waterdeep outline: Trollskull Manor in the North Ward.
 - `campaign/guides/trollskull-manor/03-staff-and-hiring.md`: Brother Aldric, cook candidate 4. `sources/Appendix_D_-_Running_the_Tavern.md`: the Alexandrian version of the same candidate.
 - `campaign/quests/faction-events/order-of-the-gauntlet/00-first-meeting/ev-01-first-meeting.md`, `r10-whitehawk/ev-01-whitehawk.md` and `r50-righteous-hand/ev-01-righteous-hand.md`: the Order's temples and its use of "the Triad".
 - `campaign/quests/faction-events/lords-alliance/m04-the-archer-above/`: Vhaspar Coldwater and the surname change. `campaign/setting/notable-figures/independents-allies/20-kalain.md` and `campaign/quests/act-ii/fireball/ev-07-kalainsalley-tower.md`: Kalain, who does not mention a lodger.

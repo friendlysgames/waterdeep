@@ -254,10 +254,10 @@ No single piece is sufficient on its own. The party assembles the reveal from th
 
 *Faction State: "Manshoon Operational?"*
 
-Three values; this flag is read directly in **Vault of Dragons**.
+Three values; this Event Outcome is read directly in **Vault of Dragons**.
 
-- **Destroyed.** Both the original Manshoon and the simulacrum were eliminated during the raid. The Splinter cell collapses within a tenday — Vevette (if alive) attempts to hold the surviving operatives together but lacks Manshoon's authority and his clone-network insurance. No Manshoon at the Vault. The party arrives at **Vault of Dragons** facing Aurinax without a third-party obstacle.
-- **Simulacrum Only.** The original Manshoon was destroyed but the simulacrum survived and escaped (or was not found). The simulacrum has no 6th-level or higher spell slots and no staff of power. It arrives at the Vault with reduced capabilities and diminished tactical creativity — it can execute plans Manshoon taught it but cannot adapt to novel situations effectively.
+- **Destroyed.** Both Manshoon (the clone of a clone) and the simulacrum were eliminated during the raid. The Splinter cell collapses within a tenday — Vevette (if alive) attempts to hold the surviving operatives together but lacks Manshoon's authority and his clone-network insurance. No Manshoon at the Vault. The party arrives at **Vault of Dragons** facing Aurinax without a third-party obstacle.
+- **Simulacrum Only.** Manshoon was destroyed but the simulacrum survived and escaped (or was not found). The simulacrum has no 6th-level or higher spell slots and no staff of power. It arrives at the Vault with reduced capabilities and diminished tactical creativity — it can execute plans Manshoon taught it but cannot adapt to novel situations effectively.
 - **Alive.** Manshoon survived (escaped, negotiated, or was never reached). He arrives at the Vault at full strength with surviving lieutenants and the staff of power. The hardest **Vault of Dragons** configuration. He will have had time to prepare.
 
 *All-Seven-Faction Debriefs.*

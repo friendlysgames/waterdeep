@@ -82,7 +82,7 @@ Zariel is the archdevil who rules Avernus, the first layer of the Nine Hells, an
 - `sources/adventure-wdh.json`, "Major Temples of Waterdeep" table (caption at about line 30910): no temple of Zariel. Neither adventure source names Zariel or Avernus.
 - `campaign/setting/deities/asmodeus.md`: the history line that dates Bel's demotion and her re-elevation to before 1492 DR.
 - `campaign/structure/arc-e-faction-outposts.md`: the Asmodean Shrine's Nine Hells mural of Avernus, Area 7.
-- `campaign/setting/waterdeep-lore.md`: the Field of Triumph in the Sea Ward, used only to place the wiki's Founders' Day item.
+- the retired Waterdeep outline: the Field of Triumph in the Sea Ward, used only to place the wiki's Founders' Day item.
 - `campaign/setting/history/09-timekeeping-and-the-festival-calendar.md`: Founders' Day on Flamerule 1.
 
 ## Cross-References
