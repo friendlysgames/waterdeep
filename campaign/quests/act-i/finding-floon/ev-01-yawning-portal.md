@@ -40,19 +40,19 @@ Durnan watches until Krentz's companions pile in: one tankard flung, the word "O
 
 #### Party Branch — Helps Yagra
 
-Fight ends faster. Durnan ejects Krentz's companions with less damage to furniture. Yagra: "I had it." She acknowledges the party — "Good punch. Better timing." — and buys them a drink. If they mention looking for work, she names Davil Starsong at the Doom Raiders. She is professional. Any warmth waits until the troll fight, if it comes at all. Award **Yagra's Courtesy** attunement.
+Fight ends faster. Durnan ejects Krentz's companions with less damage to furniture. Yagra: "I had it." She acknowledges the party — "Good punch. Better timing." — and buys them a drink. If they mention looking for work, she names Davil Starsong at the Doom Raiders. She is professional. Any warmth waits until the troll fight, if it comes at all. Mark **Yagra Courteous**.
 
 #### Party Branch — Helps Krentz or the Xanathar Thugs
 
-Yagra turns briefly on the party before Durnan ends it. She is not hostile after, but she will not work with this party without a significant reconciliation effort in Trollskull Alley or later. No attunement.
+Yagra turns briefly on the party before Durnan ends it. She is not hostile after, but she will not work with this party without a significant reconciliation effort in Trollskull Alley or later. Mark no Event Outcome.
 
 #### Party Branch — Stays Out
 
-Yagra knocks Krentz unconscious; the four companions beat her unconscious in return; Durnan ejects all five. Yagra wakes at the bar, assesses the party once: "Watchers." No grudge, no warmth. No attunement.
+Yagra knocks Krentz unconscious; the four companions beat her unconscious in return; Durnan ejects all five. Yagra wakes at the bar, assesses the party once: "Watchers." No grudge, no warmth. Mark no Event Outcome.
 
 #### Party Branch — Peaceful Resolution
 
-DC 16 Charisma (Persuasion) to interrupt the fight before the first punch. The DC is high because Yagra wanted this fight. If successful, Krentz and his companions leave muttering. Yagra: "Nice words." Back to drinking. No grudge. Award **Yagra's Courtesy** attunement.
+DC 16 Charisma (Persuasion) to interrupt the fight before the first punch. The DC is high because Yagra wanted this fight. If successful, Krentz and his companions leave muttering. Yagra: "Nice words." Back to drinking. No grudge. Mark **Yagra Courteous**.
 
 ### The Dip and the Going Down Song
 
@@ -76,19 +76,19 @@ Yagra (if conscious) joins the troll's flank without being asked and without tak
 
 #### Party Branch — Handles Stirges Only
 
-Durnan drives the troll back into the well. "You fought well," said to any character who killed a stirge. He returns to the bar. Yagra nods once. Award **Durnan's Acknowledgment** attunement.
+Durnan drives the troll back into the well. "You fought well," said to any character who killed a stirge. He returns to the bar. Yagra nods once. Mark **Durnan Acknowledged**.
 
 #### Party Branch — Also Engages the Troll
 
-Durnan keeps the troll's primary attention, preventing it from turning fully on party members who wade in. After: "Useful. But that was mine." Said without heat. Award **Durnan's Acknowledgment** attunement at higher register. Trollskull Alley tracks the difference.
+Durnan keeps the troll's primary attention, preventing it from turning fully on party members who wade in. After: "Useful. But that was mine." Said without heat. Mark **Durnan Acknowledged**, at the higher register. Trollskull Alley tracks the difference.
 
 #### Party Branch — Uses Fire or Acid on the Troll
 
-Durnan: "Good." Highest register of praise. Yagra: "Experienced. Nice." Rewarding the correct use of fire signals that the room's regulars know exactly what they're doing. Award **Durnan's Acknowledgment** attunement at highest register.
+Durnan: "Good." Highest register of praise. Yagra: "Experienced. Nice." Rewarding the correct use of fire signals that the room's regulars know exactly what they're doing. Mark **Durnan Acknowledged**, at the highest register.
 
 #### Party Branch — Does Nothing
 
-Durnan and Yagra handle everything. Durnan does not address the party after. He goes back behind the bar. No attunement.
+Durnan and Yagra handle everything. Durnan does not address the party after. He goes back behind the bar. Mark no Event Outcome.
 
 Brandoch survives. He is at the bar in shock: he turned back immediately when he reached the bottom. Something large was in the dark. Durnan gives him a drink. Regulars at nearby tables note this as extremely unusual.
 
@@ -108,17 +108,12 @@ Volo pushes through the settling crowd, steered to the party's table by Threestr
 
 ### Concluding the Event
 
-#### Durnan Acknowledged: True / False
-
-The party demonstrated meaningful competence in a dangerous moment. Durnan's estimation of them adjusts upward in ways that manifest subtly in Trollskull Alley. He is slightly more communicative, and the Watch guards who know him give the party slightly more benefit of the doubt.
-
-#### Yagra Courteous: True / False
-
-Yagra extends professional courtesy. She will not pretend this was warmth, but she names Davil Starsong to the party and will not work against them in Trollskull Alley without cause.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Durnan Acknowledged** — mark when the party showed meaningful competence in the troll fight; read by **Trollskull Alley**, where Durnan is slightly more communicative and the Watch guards who know him give the party slightly more benefit of the doubt, and by the **Doom Raiders** First Meeting.
+> - **Yagra Courteous** — mark when the party helped Yagra in the brawl or talked the fight down; read by **Trollskull Alley**, where Yagra will not work against the party without cause, and by the **Doom Raiders** First Meeting. She will not pretend this was warmth, but she names Davil Starsong to the party.
+
+> [!gamemaster]**Next Steps**
 >
 > With Volo's quest accepted, the party proceeds to the **Dock Ward Investigation** Event. Threestrings can point them toward the Dock Ward generally. Volo tells them Floon was last at the Skewered Dragon on Dock Street.
 

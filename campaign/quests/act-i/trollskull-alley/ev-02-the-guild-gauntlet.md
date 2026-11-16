@@ -42,7 +42,7 @@ This is the party's first negotiation in a city where knowing what you're buying
 
 The inspector finds the **sewer access grate at T7** in the manor's cellar and connects it to the city's sewer network through infrastructure predating the current building by at least two centuries. He flags it for "structural heritage documentation" — not a blocking condition, but it goes on the permit record.
 
-Award **Sewer Grate Documented** attunement. This passage becomes relevant when faction response teams use the sewer approach, and when the party re-enters the sewer network in Fireball.
+Mark **Sewer Grate Documented**. This passage becomes relevant when faction response teams use the sewer approach, and when the party re-enters the sewer network in Fireball.
 
 ### The Watchful Order Inspection
 
@@ -66,13 +66,11 @@ Cross-ref the **Broxley Fairkettle** and **Hammond Kraddoc** pages in Notable Fi
 
 ### Concluding the Event
 
-#### Sewer Grate Documented: True / False
-
-The Cellarers' inspector's flag is on the permit record. The T7 grate connects the manor's cellar to the city sewer network. Cross-ref **Fireball** (response team routing, sewer re-entry).
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Sewer Grate Documented** — mark when the Cellarers' inspector flags the T7 grate for heritage documentation and it goes on the permit record. The grate connects the manor's cellar to the city sewer network. Read by **Fireball!** (response team routing, sewer re-entry).
+
+> [!gamemaster]**Next Steps**
 >
 > The renovation is running. Guild inspections are complete or pending the poltergeist attestation. Faction invitations have not yet arrived. Neighbors have been visible since ev-01 but have not formally introduced themselves. Proceed to **The Neighbors** Event.
 

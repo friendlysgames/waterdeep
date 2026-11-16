@@ -104,21 +104,13 @@ The deed is real. **Trollskull Manor** is real, non-operational, and now the par
 
 ### Concluding the Event
 
-#### Floon Rescued: True / False
-
-Floon is found alive in Q07 (1 hp) and survives the quest. He doesn't know why he was taken. He thanks everyone, invites the party to drinks he cannot afford, and reappears in Trollskull Alley as a Trollskull Alley regular.
-
-#### Nihiloor Sighted: True / False
-
-The party witnessed a mind flayer in the Guild's sewer cell. They don't yet know what it is. This attunement pays off when the mind flayer's role in the Grand Game surfaces in Xanathar's Lair.
-
-#### Trollskull Deed Accepted: True / False
-
-The party holds legal title to a derelict tavern at 10 Trollskull Alley, North Ward. Trollskull Alley begins with this deed in hand.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Floon Rescued** — mark when Floon is found alive in Q07 (1 hp) and survives the quest; read by **Trollskull Alley**, where he reappears as a regular. He doesn't know why he was taken. He thanks everyone and invites the party to drinks he cannot afford.
+> - **Nihiloor Sighted** — mark when the party witnesses a mind flayer in the Guild's sewer cell. They don't yet know what it is. This Event Outcome pays off when the mind flayer's role in the Grand Game surfaces in **Xanathar's Lair**.
+> - **Trollskull Deed Accepted** — mark when the party accepts the deed and holds legal title to a derelict tavern at 10 Trollskull Alley, North Ward; read by **Trollskull Alley**, which begins with this deed in hand.
+
+> [!gamemaster]**Next Steps**
 >
 > The party holds the deed to Trollskull Manor. The reunion of Floon and Renaer (at the warehouse, the Yawning Portal, or en route to the Alley) is the emotional close of the quest.
 >

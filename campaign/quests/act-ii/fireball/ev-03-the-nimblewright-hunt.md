@@ -12,9 +12,9 @@
 > - Going directly to Gralhund Villa is a valid choice — it transitions immediately to Gralhund Villa.
 > - Going to the Faire first leads to ev-04 and intelligence that changes the Gralhund approach.
 >
-> **Trigger:** The party has the nimblewright detector (Detector Obtained attunement, from ev-02).
+> **Trigger:** The party has the nimblewright detector (**Detector Obtained** is marked, from ev-02).
 >
-> **Attunement read:** Renaer Contact: Gralhund Villa Named — if this is set (from ev-01), the party already knows Gralhund Villa is the destination before the sweep begins. The sweep confirms and narrows.
+> **Event Outcome read:** **Gralhund Villa Named** (from ev-01). If it is marked, the party already knows Gralhund Villa is the destination before the sweep begins. The sweep confirms and narrows.
 
 ### The Elimination Montage
 
@@ -72,21 +72,19 @@ After the sweep, two locations produce strong unresolved readings:
 
 ### Concluding the Event
 
-#### Gralhund Villa Located: True / False
-The party has confirmed Gralhund Estate on Saerdoun Street, North Ward as the strongest nimblewright signal in the city. The Stone of Golorr is there. Read by Gralhund Villa entry conditions.
+> [!gamemaster]**Event Outcomes**
+> Mark each outcome that occurs. Later events read them.
+>
+> - **Gralhund Villa Located** — mark when the party has confirmed Gralhund Estate on Saerdoun Street, North Ward as the strongest nimblewright signal in the city. The Stone of Golorr is there. Read by Gralhund Villa entry conditions.
+> - **Faire Visited First** — mark when the party chooses to investigate the Sea Maidens Faire before proceeding to Gralhund Villa. Read by ev-04 (conditional event trigger) and Gralhund Villa (Jarlaxle pre-positioning).
 
-#### Faire Visited First: True / False
-Record whether the party chose to investigate the Sea Maidens Faire before proceeding to Gralhund Villa. Read by ev-04 (conditional event trigger) and Gralhund Villa (Jarlaxle pre-positioning).
+> [!gamemaster]**Next Steps**
+>
+> If **Faire Visited First** is marked, proceed to the **The Sea Maidens Faire** Event.
+>
+> If **Faire Visited First** is not marked, proceed directly to **Gralhund Villa: Gralhund Villa**. The quest transition is immediate. Fireball ends here for this party. The Cassalanter dinner (ev-05) and Dalakhar backtrack (ev-06, ev-07) are only available if the party delays before entering the estate — available windows are noted in Gralhund Villa's opening.
 
-> **[GM]**
->
-> #### Next Steps
->
-> **If Faire Visited First: True** — proceed to the **The Sea Maidens Faire** Event.
->
-> **If Faire Visited First: False** — proceed directly to **Gralhund Villa: Gralhund Villa**. The quest transition is immediate. Fireball ends here for this party. The Cassalanter dinner (ev-05) and Dalakhar backtrack (ev-06, ev-07) are only available if the party delays before entering the estate — available windows are noted in Gralhund Villa's opening.
->
-> #### Milestone: The Nimblewright Hunt
+> [!gamemaster]**Milestone: The Nimblewright Hunt**
 >
 > Completing this Event awards 1 Milestone Point. The party has confirmed Gralhund Villa, Saerdoun Street, North Ward as the Stone's location. This is the second of two Milestone Points in Fireball, for a total of 2 points (9 cumulative toward Level 4, which is reached in Gralhund Villa).
 

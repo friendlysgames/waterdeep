@@ -11,7 +11,7 @@
 > - Each path has distinct consequences for Jarlaxle's deployment in Gralhund Villa.
 > - The BD character track gives any Bregan D'aerthe party member a private meeting with Jarlaxle.
 >
-> **Trigger:** Faire: Visited First attunement (from ev-03).
+> **Trigger:** **Faire Visited First** is marked (from ev-03).
 >
 > For the full ship and fleet layout, see the **Sea Maidens Faire** journal.
 

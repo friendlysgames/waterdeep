@@ -44,7 +44,7 @@ The drow from the **Yawning Portal** Event, Jarlaxle's field observer, is spotte
 
 She is professional and evasive if approached. Available only to parties with drow PCs or characters who made the **Yawning Portal** Perception check. Her presence seeds the BD surveillance that escalates into **The Factions Come Calling** Event.
 
-Award **Ryvarra Identified** if both checks succeed. Cross-ref the **Ryvarra** page in Notable Figures.
+Mark **Ryvarra Identified** if both checks succeed. Cross-ref the **Ryvarra** page in Notable Figures.
 
 ### The GM's Observation Task
 
@@ -54,17 +54,12 @@ Candidates and their loss logic are in ev-07. Begin tracking now.
 
 ### Concluding the Event
 
-#### Ryvarra Identified: True / False
-
-Both Perception and Investigation checks passed. BD surveillance is confirmed. When J.B. Nevercott arrives in ev-04, the party already knows what they're dealing with. The attunement modifies how ev-04's BD recruitment sequence opens.
-
-#### Two Zhentarims Known: True / False
-
-Fala's mention of Ziraj (or a subsequent follow-up conversation about the "friend who visits the second floor") establishes the Doom Raiders' personal-connection style before Davil Starsong's recruitment invitation arrives. The distinction between Doom Raiders and Manshoon's Splinter is easier to absorb when one half of it has already been humanized.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Ryvarra Identified** — mark when both the Perception and Investigation checks pass, which confirms the Bregan D'aerthe surveillance. When J.B. Nevercott arrives, the party already knows what they are dealing with. Read by **The Factions Come Calling** (ev-04), where it changes how the Bregan D'aerthe recruitment sequence opens.
+> - **Two Zhentarims Known** — mark when Fala mentions Ziraj, or when a follow-up conversation about the "friend who visits the second floor" takes place. It shows the Doom Raiders' personal-connection style before Davil Starsong's invitation arrives, so the difference between the Doom Raiders and Manshoon's Splinter is easier to absorb. Read by **The Factions Come Calling** (ev-04), as context for Doom Raiders enrollment.
+
+> [!gamemaster]**Next Steps**
 >
 > The renovation period is running. Neighbors have been introduced. Faction invitations are about to arrive. Proceed to **The Factions Come Calling** Event.
 
