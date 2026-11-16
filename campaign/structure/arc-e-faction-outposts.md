@@ -310,7 +310,7 @@ If the party did not warn him and arrives before the kidnap team: Zorbog's team 
 
 If the party arrives after Fenerus has been taken: the house shows signs of struggle. The coded messages are undisturbed — Zorbog was after Fenerus, not intelligence. The trail leads back to the Interrogation House.
 
-*Key Areas.* Per DH p. 63. The intelligence in the house is coded messages in Drow (DC 16 Intelligence to decode; advantage if the character reads Drow): a Gralhund Villa observation report signed by Fel'rekt Lafeen; theater business notes; a nimblewright delivery note addressed to Bowgentra Summertaen; a guild licensing note concerning the Sea Maidens Faire. Staking out the house and following Krebbyg Masq'il'yr (he visits every 1d3 days to drop or collect messages) leads directly to the Faire.
+*Key Areas.* Per DH p. 63. The intelligence in the house is coded messages in Drow (DC 16 Intelligence to decode; advantage if the character reads Drow): a Gralhund Villa observation report signed by Fel'rekt Lafeen; theater business notes; a nimblewright delivery note addressed to Bowgentra Summertaen; a guild licensing note concerning the Sea Maidens Faire. Staking out the house and following Krebbyg Masq'il'yr (he visits every two days to drop or collect messages) leads directly to the Faire.
 
 *Intel Yield.* Decoded messages provide multiple independent paths to the Sea Maidens Faire as the next target. Fenerus's testimony — if he is present and cooperative — confirms that messages travel to a contact at the Faire and that "Rongquan Mystere" is not the theater owner's real identity. The Gralhund observation report is historical intelligence confirming BD knew about the villa operation before it happened.
 

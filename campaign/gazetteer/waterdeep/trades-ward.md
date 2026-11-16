@@ -37,7 +37,7 @@ The Trades Ward is the city's shop floor, a ward of guildhalls, stalls and balco
 >
 > #### Secret
 > - Fenerus Stormcastle's house on Quill Alley is a Bregan D'aerthe message drop. Fenerus gathers messages from dead drops across the ward and stores them at the house, and Krebbyg Masq'il'yr collects them every two days. The messages are coded in Drow, and they point the party to the **Sea Maidens Faire**.
-> - Fenerus believes his contacts are Luskan agents. He followed Krebbyg once and knows where the messages go, but he has not worked out that the cloaked drow belong to Bregan D'aerthe.
+> - Fenerus spies for Luskan. He followed Krebbyg once and knows where the messages go, but he has not worked out that the cloaked drow belong to Bregan D'aerthe.
 > - Manshoon has marked Fenerus as a soft target. A directive in Zhentarim hands orders his kidnapping, and the **Faction Outposts** quest holds the timing and the three states the house can be in when the party arrives.
 
 ## Landmarks
@@ -126,7 +126,7 @@ The Trades Ward is the city's shop floor, a ward of guildhalls, stalls and balco
 > - Skeemo is a traitor who feeds intelligence to Manshoon's cell and House Gralhund and messages both sides by paper bird. If cornered he trades information for his life.
 
 **Fenerus Stormcastle (Neutral Evil, Human, he/him)**
-- A big, scar-faced lamplighter with gray hair, who lights lamps in the ward and minds his own business. He is a retired brigand and has spent considerable time in a Watch cell.
+- A big, scar-faced lamplighter with gray hair, who lights lamps in the ward and minds his own business. He is a retired brigand who spies for Luskan.
 - He wants immunity and a quiet life, and he survives by saying little.
 
 **Myl Dunpier (Neutral, Human, she/her)**
@@ -257,9 +257,9 @@ Sensory anchors for the GM to build the passage from (not written out):
 > - **Settled by ruling 1:** Helm's Hall. The Dragon Heist table places it in the Southern Ward (`sources/adventure-wdh.json:30938-30940`), and `campaign/guides/gm-guide/player-factions-overview.md:99` and the Order of the Gauntlet files now agree. No source puts it in the Trades Ward.
 > - **Conflicts:** The Inn of the Dripping Dagger's street. The wiki puts it on the High Road (`trades-ward/wiki.txt:80`), and `campaign/quests/act-ii/fireball/ev-06-the-death-mark.md:20` puts it on Snail Street. The page keeps the campaign street.
 > - **Conflicts:** Brizzenbright Theater. `sources/adventure-wdh.json:9115` places a theater called the Brizzenbright in the Trades Ward, named for its dead owner Malkolm Brizzenbright. The campaign's Malkolm Brizzenbright haunts the Seven Masks Theater in the Dock Ward (`campaign/setting/notable-figures/bregan-daerthe/07-malcolm-brizzenbright.md:7`; `campaign/guides/factions/08-bregan-daerthe.md:101`), so the page does not list a Trades Ward theater.
-> - **Conflicts:** Whether Fenerus knows who his contacts are. The published text says he has no idea (`sources/adventure-wdh.json:7124`). His Notable Figures page says he believes they are Luskan agents (`06-fenerus-stormcastle.md:7`). The Factions Guide says he followed Krebbyg once and knows where the messages go (`campaign/guides/factions/08-bregan-daerthe.md:85`). The Secret reconciles the three: he knows the destination and believes the Luskan story. This is derived.
-> - **Conflicts:** The Stone and Fenerus. His Notable Figures page says he hid the Stone before his arrest and will trade it for immunity (`06-fenerus-stormcastle.md:22`). `campaign/quests/act-ii/gralhund-villa/ev-08-the-rooftop-chase.md:67-68` has the Stone delivered to his house for Bregan D'aerthe. The page follows **Gralhund Villa** and leaves his page alone.
-> - **Conflicts:** Krebbyg's pickup timing. The Factions Guide says every two days (`08-bregan-daerthe.md:85`), and `campaign/structure/arc-e-faction-outposts.md:313` says every 1d3 days. The page uses the guide, as it needs no dice.
+> - **Settled by the user (Session 51):** Whether Fenerus knows who his contacts are. The published text says he has no idea (`sources/adventure-wdh.json:7124`), and the Factions Guide says he followed Krebbyg once and knows where the messages go (`campaign/guides/factions/08-bregan-daerthe.md:85`). He knows the destination and spies for Luskan, and his Notable Figures page now says so. He has not worked out that the cloaked drow belong to Bregan D'aerthe.
+> - **Settled by the user (Session 51):** The Stone and Fenerus. He is not a Watch prisoner and did not hide the Stone before an arrest. `campaign/quests/act-ii/gralhund-villa/ev-08-the-rooftop-chase.md:67-68` has the Stone delivered to his house for Bregan D'aerthe, and that governs. His Notable Figures page now agrees.
+> - **Settled by the user (Session 51):** Krebbyg's pickup timing. The remix and `campaign/structure/arc-e-faction-outposts.md:313` said every 1d3 days, and the Factions Guide says every two days (`08-bregan-daerthe.md:85`). The page uses two days, as it needs no dice, and `arc-e` is corrected to match.
 > - **Conflicts:** Fenerus's pronouns. His Notable Figures page has no pronoun tag, and its prose uses "he" and "man" (`06-fenerus-stormcastle.md:22, 30`). The page uses he/him on that basis.
 > - **Conflicts:** The Weirdbottle discount. Dragon Heist names the shop as a source of discounted potions and poisons (`sources/adventure-wdh.json:1453`). The campaign's Wolf-rank benefit gives a 20% discount through the supply chain and does not name the shop (`campaign/guides/factions/07-doom-raiders.md:57`).
 > - **Conflicts:** The ward of Yellowspire and Kalain's studio. `sources/SOURCE_GUIDE.md:214` places Yellowspire in the Trades Ward, and Dragon Heist and the campaign place it in the Castle Ward. `sources/SOURCE_GUIDE.md:428` places Kalain's studio in the Trades Ward, against the Sea Ward estate at `sources/adventure-wdh.json:13256`. Neither is a landmark here.

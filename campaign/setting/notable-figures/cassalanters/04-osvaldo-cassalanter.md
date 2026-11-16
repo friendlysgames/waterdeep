@@ -3,7 +3,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - *Human (chain devil), neutral evil (formerly lawful good)*. Stat block: **Chain Devil**.
+> - *Human (chain devil), lawful evil*. Stat block: **Chain Devil**.
 > - **Affiliation:** The Cassalanters
 > - **Featured in:** Cassalanter Villa, Cassalanter Villa (location)
 

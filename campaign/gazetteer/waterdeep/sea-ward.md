@@ -37,7 +37,7 @@ The Sea Ward is Waterdeep's wealthiest ward, a district of walled villas, grand 
 >
 > #### Secret
 > - Cassalanter Villa hides an illegal temple to Asmodeus below its sub-basement. Victoro and Ammalia traded their three children's souls to Asmodeus about 1489 DR, and the contract falls due on Flamerule 11. They mean to poison ninety-nine guests at the Founders' Day feast on Flamerule 1 to buy out the twins' souls. The villa is mapped in **Cassalanter Villa**.
-> - Nobody in the ward knows. Every faction suspects the family because it is too nice to be this rich, and none knows about the pact. Savra Belabranta of the Order of the Gauntlet hunts for proof, and Jeryth Phaulkon feels an infernal influence in the Sea Ward that the Emerald Enclave cannot trace to a house. The one exception is Jarlaxle, who knows through **Vessa**, his doppelganger spy in the Cassalanter social circle, and tells Bregan D'aerthe members nothing unless they work it out.
+> - Nobody in the ward knows. Every faction suspects the family because it is too nice to be this rich, and none knows about the pact. Savra Belabranta of the Order of the Gauntlet hunts for proof, and Jeryth Phaulkon feels an infernal influence in the Southern Ward that the Emerald Enclave cannot trace to a house. The one exception is Jarlaxle, who knows through **Vessa**, his doppelganger spy in the Cassalanter social circle, and tells Bregan D'aerthe members nothing unless they work it out.
 
 ## Landmarks
 
@@ -232,7 +232,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 - **House of Inspired Hands**: the temple of Gond and Nim's attic.
 - **Sea Maidens Faire**: the Faire whose captain sponsors the Field of Triumph tournament.
 - **Manshoon's Zhentarim**: the blackmailers of Jelenn Urmbrusk and Corylus Thann.
-- **The Emerald Enclave**: Jeryth's sense of infernal influence in the ward.
+- **The Emerald Enclave**: Jeryth's sense of infernal influence in the Southern Ward.
 - **The Order of the Gauntlet**: Savra Belabranta's suspicion of the family.
 - **The Open Lord and the Masked Lords**: the Masked Lords with Sea Ward estates.
 - **The City Watch**: the watch boxes and the veterans' response.

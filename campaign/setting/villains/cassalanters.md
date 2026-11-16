@@ -63,7 +63,7 @@ Victoro and Ammalia Cassalanter are loving parents and secret diabolists, the he
 
 **Relationship notes**
 - Willifort Crowelle, the doppelganger butler, knows everything that happens in the villa and reports to Ammalia. He runs household security and is the family's most dangerous weapon.
-- Everyone outside the household and the cult only suspects the family, because it is too nice to be this rich and this purebred. Savra Belabranta of the **Order of the Gauntlet** has no legal evidence, Mirt suspects Cassalanter money stood behind the Howling Hatred cult, and Vajra Safahr of **Force Grey** has scried conjuration and abjuration residue beneath the villa. The Lords' Alliance has no proof, the Watch has closed three complaints against the house, and the Emerald Enclave senses infernal influence in the Sea Ward without knowing whose it is.
+- Everyone outside the household and the cult only suspects the family, because it is too nice to be this rich and this purebred. Savra Belabranta of the **Order of the Gauntlet** has no legal evidence, Mirt suspects Cassalanter money stood behind the Howling Hatred cult, and Vajra Safahr of **Force Grey** has scried conjuration and abjuration residue beneath the villa. The Lords' Alliance has no proof, the Watch has closed three complaints against the house, and the Emerald Enclave senses infernal influence in the Southern Ward without knowing whose it is.
 - Jarlaxle is the one exception. He knows about the pact through **Vessa**, his doppelganger spy in the Cassalanter social circle, and he tells no Bregan D'aerthe member unless the member works it out.
 
 ## Goals
