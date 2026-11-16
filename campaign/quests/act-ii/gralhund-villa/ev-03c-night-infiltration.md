@@ -96,6 +96,8 @@ If Yalah judges the confrontation has turned against her and the Stone is about 
 >
 > If the party entered via the balcony and reached G16 without entering the raid, proceed directly to **The Gralhund Confrontation — Night** (ev-07).
 >
+> #### Milestone: None
+>
 > This Event awards no Milestone Points.
 
 ## Overview

@@ -126,6 +126,8 @@ If truly cornered, with Hrabbaz down, the Stone about to be taken, and nowhere t
 >
 > If the Stone escaped, with the nimblewright, with BD or with a Zhent survivor, proceed to the **The Rooftop Chase** Event (ev-08).
 >
+> #### Milestone: The Confrontation — 1 Point
+>
 > The party engaging the confrontation with Lady Yalah Gralhund in G16 awards 1 Milestone Point. Cumulative total: 8. This milestone fires here, in ev-07, for parties on the night path. It does not fire in ev-06.
 
 ## Overview

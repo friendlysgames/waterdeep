@@ -98,6 +98,8 @@ The day/night choice should not feel like a coin flip. The GM should surface wha
 >
 > **Night path:** Proceed to the **The Zhentarim Raid** Event.
 >
+> #### Milestone: None
+>
 > This Event awards no Milestone Points.
 
 ## Overview

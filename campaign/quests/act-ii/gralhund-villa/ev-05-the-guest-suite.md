@@ -62,6 +62,8 @@ Under **DC 10 Intimidation** (Disadvantage if he has any reason to believe Yalah
 >
 > Proceed to the **The Gralhund Confrontation — Night** Event.
 >
+> #### Milestone: None
+>
 > This Event awards no Milestone Points.
 
 ## Overview

@@ -114,6 +114,8 @@ Continue from current adversary positions into ev-04: The Zhentarim Raid. The da
 >
 > If the raid arrives while the party is inside (Ches 24th nightfall or early mobilization from Zhent watchers spotting them), proceed to the **The Zhentarim Raid** Event.
 >
+> #### Milestone: None
+>
 > This Event awards no Milestone Points.
 
 ## Overview

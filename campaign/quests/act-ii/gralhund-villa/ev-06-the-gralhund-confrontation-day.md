@@ -110,6 +110,8 @@ If this happens, proceed to ev-08: The Rooftop Chase.
 >
 > If the Stone escaped, with the nimblewright, with BD or with a Zhent, proceed to the **The Rooftop Chase** Event (ev-08).
 >
+> #### Milestone: The Confrontation — 1 Point
+>
 > The party engaging the confrontation with Lady Yalah Gralhund in G16 awards 1 Milestone Point. Cumulative total: 8.
 
 ## Overview

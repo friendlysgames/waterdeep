@@ -85,19 +85,27 @@ Milestone 1 fires in exactly one confrontation event per playthrough — ev-06 (
 | Event Outcome | Source | Read In |
 |---|---|---|
 | Jarlaxle Informed | **Fireball!** ev-04 | ev-01 (Jarlaxle contact available), ev-02 (BD team at Artheyn Manor), ev-06/ev-07 (BD assault fires) |
-| Gralhund Villa Named | **Fireball!** ev-03 | ev-01 (Renaer contact available), ev-02 (Renaer contingency) |
+| Gralhund Villa Named | **Fireball!** ev-01 | ev-01 (Renaer contact available), ev-02 (Renaer contingency) |
 
 ### Set During Gralhund Villa
 
-| Attunement | Where Set | Read By |
+| Event Outcome | Where Marked | Read By |
 |---|---|---|
-| Faction Brief Received (per contact) | ev-01 | ev-09 (debrief tone) |
-| Observation Teams Spotted | ev-02 | ev-03/ev-04 (entry advantages) |
-| Villa Approach: Day / Night | ev-02 | ev-03 vs ev-04 routing |
-| G12 Searched: Chirada Letter | ev-03 (daytime) | **Faction Outposts** (Yellowspire/Second Eye lead) |
-| Grand Game Journal Found | G11 room file (DC 15 — any state) | ev-09 end-state ledger |
-| G16 Asmodean Compartment Searched | G16 room file (DC 15 Perception — any state) | **Cassalanter Villa** (Cassalanter cult link) |
-| Orond's Confession: Heard / Missed | ev-03 (day) or ev-05 (night) | ev-09 |
-| Floxin Status: Alive / Dead / Captured | ev-04 or ev-05 | **Kolat Towers** (Manshoon response team) |
-| Stone Holder: Party / BD / Zhent / Xanathar | ev-06 or ev-07 | ev-08 trigger; ev-09 Milestone 2 |
+| Mirt Brief Received, Davil Brief Received, Jalester Brief Received, Vajra Brief Received | ev-01 | ev-09 (debrief tone) |
+| Jarlaxle Brief Received | ev-01 | ev-02, ev-06 and ev-07 (Yalah's negotiation tone) |
+| Zhents Spotted, Gazers Spotted, BD Team Spotted | ev-02 | ev-03, ev-03c and ev-04 (entry advantages) |
+| Day Entry | ev-02 | ev-03 vs ev-04 routing |
+| Chirada Letter Found | ev-03 or ev-03b (also on the G12 room page) | **Faction Outposts** (Yellowspire/Second Eye lead) |
+| Grand Game Journal Found | G11 room file (DC 15 Investigation, any state) | ev-09 (lore table) |
+| G16 Compartment Found | G16 room file (DC 15 Perception, any state) and ev-09 | **Cassalanter Villa** (Cassalanter cult link) |
+| Orond Confession Heard | ev-03, ev-03b or ev-05 | ev-09 |
+| Front Door Visit Recorded | ev-03b | ev-09 (Yalah's debrief attitude) |
+| Balcony Entry Used | ev-03c | ev-07 (the party bypasses ev-04) |
+| Pantry Entry Used | ev-03c | ev-04 (the raid begins in the kitchen corridor) |
+| Gazers Active at Night | ev-03c | No event reads it yet |
+| Floxin Alive | ev-04 | **Kolat Towers** (Manshoon response team) |
+| Floxin Captured | ev-04 | No event reads it yet |
+| Stone Secured | ev-06 or ev-07 | ev-08 trigger (fires when not marked); ev-09 (Stone status check, Milestone 2, Jarlaxle package, BD debrief) |
+| Stone Recovered | ev-08 | ev-09 (Milestone 2, BD debrief) |
+| Yalah Missing, Yalah In Custody | ev-09 | No event reads them yet |
 | Istrid Horn Helped / Istrid Horn Turned In | ev-09 | **Faction Outposts** (Doom Raiders renown) |

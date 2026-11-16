@@ -96,6 +96,8 @@ He does not ask the party to act. He asks to know what they find. He will be at 
 >
 > If the party decides not to enter Gralhund Villa after receiving the address, and this is a genuine choice they can make, the fallback applies. Floxin's team arrives on the night of Ches 24th regardless. Two days later, broadsheets name the event the "Gralhund Villa Bloodbath." Faction contacts report what happened inside from secondhand accounts. The Stone's location becomes the next investigation, wherever the faction that left the estate with it has taken it. The campaign has not ended; its shape has changed.
 >
+> #### Milestone: None
+>
 > This Event awards no Milestone Points.
 
 ## Overview

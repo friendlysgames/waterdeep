@@ -84,6 +84,8 @@ The party recovers the Stone from the carrier. Mark **Stone Recovered** and proc
 >
 > Proceed to the **Aftermath** Event (ev-09) regardless of chase outcome.
 >
+> #### Milestone: None
+>
 > This Event awards no Milestone Points. Milestone 2 fires in ev-09 if the party holds the Stone.
 
 ## Overview

@@ -111,6 +111,8 @@ The Chirada letter on the G12 reading stand is visible to anyone who enters the 
 >
 > If the raid arrives while the party is inside, proceed to **The Zhentarim Raid** Event.
 >
+> #### Milestone: None
+>
 > This Event awards no Milestone Points.
 
 ## Overview

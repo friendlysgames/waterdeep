@@ -105,6 +105,8 @@ Floxin's plan can succeed or collapse based on party action.
 >
 > After ev-05, proceed to the **The Gralhund Confrontation — Night** Event (ev-07).
 >
+> #### Milestone: None
+>
 > This Event awards no Milestone Points.
 
 ## Overview
