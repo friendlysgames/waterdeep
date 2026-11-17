@@ -13,7 +13,7 @@
 
 **Emotions.** Agorn most often feels artistic self-absorption, the particular anxiety of someone who has made too many decisions based on mood, passive compliance with whoever is most immediately persuasive, genuine love of music that sits embarrassingly alongside everything else, and deep filial attachment to his mother.
 
-**Motivations.** Agorn wants to avoid consequences for the Stone's transfer, use whatever he knows (Amath's identity, his pass-amulet, Manshoon's operational structure) to buy his freedom, and eventually retire somewhere quieter.
+**Motivations.** Agorn wants to avoid consequences for his Zhentarim work, use whatever he knows (Amath's identity, his pass-amulet, Manshoon's operational structure) to buy his freedom, and eventually retire somewhere quieter.
 
 **Inspirations.** When playing Agorn, channel Pete Campbell (*Mad Men*), Zaphod Beeblebrox (*The Hitchhiker's Guide to the Galaxy*), and Tom Ripley (*The Talented Mr. Ripley*, the man always one step behind the situation).
 
@@ -23,7 +23,7 @@
 
 **Morale.** In a fight, Agorn attempts to flee immediately. If capture is certain, he begins trading information before anyone asks.
 
-**Relationships.** Agorn is a Manshoon lieutenant and bard, the man who entrusted the Stone of Golorr to Amath Seccent, a pass-amulet holder for Kolat Towers, and a man whose mother lives in Mistshore and knows nothing about any of this.
+**Relationships.** Agorn is a Manshoon lieutenant and bard, the partner of Amath Seccent, whom he visits at Yellowspire in the evenings, a pass-amulet holder for Kolat Towers, and a man whose mother lives in Mistshore and knows nothing about any of this.
 
 ## Overview
 

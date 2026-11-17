@@ -47,7 +47,7 @@
   - He was once a mortal wizard of Halruaa (*Magic of Faerûn*, 3e).
   - As a demigod he was the god of spellcasters. Azuth contended for his place and the two fought a duel, which Azuth won (*Powers & Pantheons*, 2e; *Faiths & Pantheons*, 3e). He imprisoned Savras in the Scepter of Savras, and the Azuth page adds that Azuth made the staff himself and rose to godhood with Mystra's help (*Powers & Pantheons*, 2e).
   - Savras lost his place as god of spellcasters. He remained a prisoner until the Time of Troubles in 1358 DR, when Azuth released him in exchange for a pledge of fealty. He then became the deity of the school of divination only (*Powers & Pantheons*, 2e; *Faiths & Pantheons*, 3e). On the Azuth page, Azuth loses the Scepter, Syluné Silverhand returns it, and guilt moves him to free Savras.
-  - In 1385 DR Cyric entered Dweomerheart with Shar's aid and murdered Mystra. The plane broke apart, which hurled Azuth and Velsharoon into the Astral Plane and killed Savras outright (*The Grand History of the Realms*, 4e).
+  - In 1385 DR Cyric, aided by Shar (FRHoF), entered Dweomerheart and murdered Mystra. The plane broke apart, which hurled Azuth and Velsharoon into the Astral Plane and killed Savras outright (*The Grand History of the Realms*, 4e).
   - He returned to godhood by the 1480s DR (*Sword Coast Adventurer's Guide*, 5e; *Player's Handbook*, 5e).
 - **In the campaign:** Savras is alive in 1492 DR and holds his place among the gods of magic. No file shows him as dead or absent, so the page treats the 4e death as history.
 

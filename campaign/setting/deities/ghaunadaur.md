@@ -18,9 +18,9 @@
 - **Other Names:** The Elder Eye and the Ancient One (wiki; *Demihuman Deities* 2e, *Faiths & Pantheons* 3e). The Lord of Slime (wiki; the video game *Baldur's Gate II: Shadows of Amn*). The wiki also lists Ghaunadar, Gormauth Souldrinker, Juiblex and the Elder Elemental God as aspects (*Demihuman Deities* 2e).
 - **Pantheon:** Drow, the Dark Seldarine (MTF). It is not part of the Faerûnian pantheon.
 - **Areas of Concern:** Oozes, slimes, outcasts, all things subterranean, drow who lack status (derived from the wiki's portfolio rows and the MTF text; neither lists Areas of Concern)
-- **Domains:** War (MTF, 2014 rules). The wiki's older rows differ: Destruction, Earth and Madness in 4e, and Cavern, Chaos, Drow, Evil, Hatred and Slime in 3e.
+- **Domains:** War (MTF, 2018). The wiki's older rows differ: Destruction, Earth and Madness in 4e, and Cavern, Chaos, Drow, Evil, Hatred and Slime in 3e.
 - **Symbol:** A purple eye with a black sclera (MTF). The wiki's 3e row describes a purplish eye on purple, violet and black circles.
-- **Alignment:** Chaotic Evil (MTF, 2014 rules)
+- **Alignment:** Chaotic Evil (MTF, 2018)
 - **Plane:** [research] for the current edition, since the 5etools entry gives none and the wiki's 5e row is blank. The wiki's older rows name the Paraelemental Plane of Ooze (*Demihuman Deities* 2e), the Demonweb Pits (*Faiths & Pantheons* 3e) and the Dismal Caverns (4e).
 - **Typical Followers:** Drow, oozes and jellies (wiki; 5e row). The wiki's 3e row adds aboleths, fighters, outcasts and ropers (*Faiths & Pantheons* 3e).
 
@@ -104,7 +104,7 @@ Ghaunadaur, called That Which Lurks, is the chaotic evil power of oozes, slimes 
 > **[GM]**
 >
 > #### Draft Notes
-> - **Conflict, domains:** MTF gives War (`research/deities/ghaunadaur/5etools.md:3`) and the wiki's 5e row agrees (`wiki.txt:29`). The wiki's 4e row gives Destruction, Earth and Madness (`wiki.txt:43`) and its 3e row gives Cavern, Chaos, Drow, Evil, Hatred and Slime (`wiki.txt:58`). The page lists MTF's War and names the others. The hub row is War (MTF, 2014 rules), Chaotic Evil, War Domain (derived).
+> - **Conflict, domains:** MTF gives War (`research/deities/ghaunadaur/5etools.md:3`) and the wiki's 5e row agrees (`wiki.txt:29`). The wiki's 4e row gives Destruction, Earth and Madness (`wiki.txt:43`) and its 3e row gives Cavern, Chaos, Drow, Evil, Hatred and Slime (`wiki.txt:58`). The page lists MTF's War and names the others. The hub row is War (MTF, 2018), Chaotic Evil, War Domain (derived).
 > - **Conflict, plane:** The wiki's 5e row is blank (`wiki.txt:24`), 4e says the Dismal Caverns (`wiki.txt:38`), 3e says the Demonweb Pits (`wiki.txt:53`) and 2e says the Paraelemental Plane of Ooze (`wiki.txt:68`). The text says it left the Demonweb Pits in 1379 DR for the Deep Caverns (`wiki.txt:144`). The page gives [research] for the current edition and lists the older rows. The wiki's category list also places it among the inhabitants of the Swamp of Oblivion (`wiki.txt:176`). The Mad Mage names the Swamp of Oblivion as the source of the Level 19 ooze (`sources/adventure-wdmm.json:51862`) and says the Weeping Eye is not truly part of Ghaunadaur (`:50910`), so the page makes no link.
 > - **Conflict, rank:** The wiki lead calls it a greater god (`wiki.txt:100`), the 4e row says greater, the 2e and 3e rows say lesser (`wiki.txt:50` and `:65`), and the 5e row is blank (`wiki.txt:21`). The page gives the rows and picks none.
 > - **Conflict, its history in the pantheon:** The wiki lead says it broke from the Dark Seldarine after the War of the Spider Queen and rejoined after the Second Sundering (`wiki.txt:100`). The history says it joined because of drow who left Lolth (`wiki.txt:142`) and left the Demonweb Pits in 1379 DR (`wiki.txt:144`). The wiki does not reconcile them, so the page tags each.

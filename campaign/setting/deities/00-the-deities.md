@@ -25,7 +25,7 @@ Rows are sorted by the first domain listed, then by name. A power with no 5etool
 | Power | Title | Domains |
 |---|---|---|
 | **Azuth** | God of Wizardry | Arcana, Knowledge |
-| **Corellon Larethian** | God of Art and Magic | Arcana, Light (MTF, 2014, adds Life and War) |
+| **Corellon Larethian** | God of Art and Magic | Arcana, Life, Light, War (MTF, 2018) |
 | **Deneir** | God of Writing | Arcana, Knowledge |
 | **Mystra** | God of Magic | Arcana, Knowledge |
 | **Savras** | God of Divination and Fate | Arcana, Knowledge |
@@ -54,7 +54,7 @@ Rows are sorted by the first domain listed, then by name. A power with no 5etool
 | **Lliira** | God of Joy | Life |
 | **Sune** | God of Love and Beauty | Life, Light |
 | **Yondalla** | God of fertility and protection | Life, Twilight |
-| **Eilistraee** | God of Song and Moonlight | Light, Nature (MTF, 2014, adds Life) |
+| **Eilistraee** | God of Song and Moonlight | Life, Light, Nature (MTF, 2018; SCAG lists Light and Nature) |
 | **Kossuth** | God of Fire | Light |
 | **Milil** | God of Poetry and Song | Light |
 | **Auril** | God of Winter | Nature, Tempest |
@@ -71,13 +71,13 @@ Rows are sorted by the first domain listed, then by name. A power with no 5etool
 | **Cyric** | God of Lies | Trickery |
 | **Garl Glittergold** | God of Trickery and Gems | Trickery |
 | **Leira** | God of Illusion | Trickery |
-| **Lolth** | God of spiders | Trickery (MTF, 2014, adds War) |
+| **Lolth** | God of spiders | Trickery (MTF, 2018, adds War) |
 | **Mask** | God of Thieves | Trickery |
 | **Tharizdun** | The Chained God | Trickery (PHB, 2014) |
 | **Tiamat** | Dragon goddess of evil | Trickery (PHB, 2014) |
 | **Tymora** | God of Good Fortune | Trickery |
 | **Bane** | God of Tyranny | War, Order |
-| **Ghaunadaur** | That Which Lurks | War (MTF, 2014 rules) |
+| **Ghaunadaur** | That Which Lurks | War (MTF, 2018) |
 | **Hoar** | God of revenge and retribution | War |
 | **Maglubiyet** | Goblinoid god of war | War, Order (PHB, 2014) |
 | **The Red Knight** | God of Strategy | War |
@@ -166,7 +166,7 @@ Alignments are SCAG, 2014 unless a cell names another source. Rows are sorted fr
 | **Beshaba** | Chaotic Evil | Faerûnian god |
 | **Cyric** | Chaotic Evil | Faerûnian god |
 | **Demogorgon** | Chaotic Evil (wiki, 5e) | Patron |
-| **Ghaunadaur** | Chaotic Evil (MTF, 2014 rules) | Patron |
+| **Ghaunadaur** | Chaotic Evil (MTF, 2018) | Patron |
 | **Graz'zt** | Chaotic Evil (wiki, 3e and 5e) | Patron |
 | **Gruumsh** | Chaotic Evil | Power of other peoples |
 | **Lolth** | Chaotic Evil | Faerûnian god (drow pantheon in SCAG) |
@@ -332,7 +332,7 @@ Eight powers lead the faiths of peoples other than the humans of Faerûn. Their 
 | Power | Pantheon | Title | Typical followers | In Waterdeep |
 |---|---|---|---|---|
 | **Corellon Larethian** | Elven, the Seldarine | God of Art and Magic | Elves, especially elf wizards | Shares the Temple of the Seldarine, Castle Ward; no temple of his own |
-| **Moradin** | Dwarven, the Morndinsamman | God of creation | Dwarves, smiths, miners, engineers, fighters | No temple, shrine, priest or festival |
+| **Moradin** | Dwarven, the Mordinsamman | God of creation | Dwarves, smiths, miners, engineers, fighters | No temple, shrine, priest or festival |
 | **Garl Glittergold** | Gnomish | God of Trickery and Gems | Gnomes | No temple, shrine, priest or festival |
 | **Yondalla** | Halfling | God of fertility and protection | Halflings | Shrine on Larkhaven Street, Southern Ward |
 | **Gruumsh** | Orc | God of storms and war | Orcs, half-orcs | No temple, shrine, priest or festival |
@@ -452,7 +452,7 @@ This journal gathers the powers that a character in Waterdeep might follow or ba
 >   - **Warlock patrons where the page weighed two options:** Orcus takes Undead over Fiend, Demogorgon takes Fiend over Great Old One, Iggwilv takes Archfey over Fiend, and Amaunator takes Vestige over Celestial. Amaunator's page says he is a living god in 1492 DR, so Vestige is a backstory choice for the player. Sune's page finds no warlock connection and names Celestial only as the nearest.
 > - **Sourced, not derived:** Torm's and Ilmater's Oath of Devotion come from FRHoF. Every other entry in the third table is derived.
 > - **Domain sources:** Heads and patrons use the PHB, MTF or wiki domains their pages cite, and the cell names the book. Shaundakul has no SCAG or FRHoF domain, so he sits with the powers that have none in 5etools.
-> - **Eilistraee and Corellon:** Their pages carry MTF's extra domains (Life for Eilistraee; Life and War for Corellon), and the hub shows them in brackets beside SCAG's.
+> - **Eilistraee and Corellon:** Corellon's row uses MTF's four domains (2018), since MTF is newer than SCAG. Eilistraee's row still shows MTF's extra domain in brackets beside SCAG's.
 > - **Iggwilv:** She is listed under Archfey with Fiend as the alternative, as her page says.
 > - **Derived on this page:** The sort orders, the Kind column, the By subclass grouping (read from the first fit on each page's cleric, paladin and warlock lines; 34 options, of which four have no page: the Oath of the Watchers, the Undying, the Genie and the Hexblade; all 14 domains are used), the counts (73 powers: 52 gods, 8 powers of other peoples, 13 patrons) and the opening's claim that the larger temples stand mostly in the Castle and Sea Wards, which counts the table rows.
 > - **Names with no page:** Meritide Blackfin has no Notable Figures page, so he is plain text. The Order of the Gauntlet temples' priests and door-wardens are named on the Tyr page only.

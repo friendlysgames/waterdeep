@@ -82,7 +82,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 > **[GM]**
 >
 > #### GM Notes
-> - Amath is a priest of Bane allied with Manshoon's Zhentarim, and she keeps the teleportation circle to Kolat Towers. She is the partner of Agorn Fuoco and holds the Stone of Golorr.
+> - Amath is a priest of Bane allied with Manshoon's Zhentarim, and she keeps the teleportation circle to Kolat Towers. She is the partner of Agorn Fuoco.
 
 **Terasse Estate** — Rowhouse and healing clinic
 - A rowhouse clinic on Elsambul's Lane that asks no questions about injuries. Keln Trigos (Neutral Evil, Tiefling, he/him) runs it and asks no questions about how his patients were hurt.

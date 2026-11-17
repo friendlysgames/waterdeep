@@ -16,7 +16,7 @@
 
 - **Title:** God of creation (SCAG, 2014). The PHB, 2014, prints "Dwarf god of creation", and the MTF entry has no title field.
 - **Other Names:** The All-Father (wiki, citing *Demihuman Deities*, SCAG and the DMG); the Dwarffather, the Soul Forger, the Creator (wiki, citing *Demihuman Deities*)
-- **Pantheon:** Dwarven, the Morndinsamman (SCAG, 2014), and its head. MTF spells the name "Mordinsamman".
+- **Pantheon:** Dwarven, the Mordinsamman (MTF, 2018), and its head. SCAG (2014) spells it "Morndinsamman".
 - **Areas of Concern:** Creation, the dwarven crafts, smithing and stonework, the protection of dwarves (derived from the MTF text and the wiki portfolio; no entry lists Areas of Concern)
 - **Domains:** Forge, Knowledge (SCAG, 2014; the PHB, 2014, and MTF agree)
 - **Symbol:** Hammer and anvil (SCAG, 2014; the PHB, 2014, and MTF agree)
@@ -28,7 +28,7 @@
 
 ## Influence and Followers
 
-- **Rank:** Moradin heads the Morndinsamman, and MTF files him under it. The wiki calls him the chief deity of the dwarves and rates him a greater deity in its 1e, 2e and 3e rows. Its 4e and 5e rows give no rank.
+- **Rank:** Moradin heads the Mordinsamman, and MTF files him under it. The wiki calls him the chief deity of the dwarves and rates him a greater deity in its 1e, 2e and 3e rows. Its 4e and 5e rows give no rank.
 - **Character:** He is gruff and stern and almost incapable of compromise, and he defends his people, their values and his principles of good and law without tiring (*Demihuman Deities*; *Forgotten Realms Campaign Guide*, 4e). A good heart is needed for his acceptance, but only quality results earn his approval (*Monster Mythology*). The wiki's opening describes a harsh but fair judge who weighed the goodness of a work before the intention behind it.
 - **Craftiness:** Contrary to rumor he is very crafty, and he lets others think him dull so that they drop their guard (*On Hallowed Ground*).
 - **How he appears:** As a dwarf twenty feet tall with a powerful upper body, a stern face, and a mane and beard that reach his knees. He wears a smith's leather leggings and apron with gold bracers, his clothes become plate armor and a large shield when he needs them, and a faint white radiance surrounds him that he can hide (*Demihuman Deities*, 2e).
@@ -68,7 +68,7 @@
 
 ## Overview
 
-Moradin is the lawful good god of creation and the All-Father of the dwarves, and he heads their pantheon, the Morndinsamman. Dwarven tales say he forged the first dwarves from metal and gems and gave them souls with his breath as the metal cooled. Smiths, miners and artisans honor him, and his symbol is a hammer and anvil. Waterdeep has no temple of his.
+Moradin is the lawful good god of creation and the All-Father of the dwarves, and he heads their pantheon, the Mordinsamman. Dwarven tales say he forged the first dwarves from metal and gems and gave them souls with his breath as the metal cooled. Smiths, miners and artisans honor him, and his symbol is a hammer and anvil. Waterdeep has no temple of his.
 
 > **[GM]**
 >
@@ -79,7 +79,7 @@ Moradin is the lawful good god of creation and the All-Father of the dwarves, an
 > - **The mosaic:** It shows a smith at a forge crafting dwarves from black metal and diamonds, which matches the creation myth the faith tells (derived). A dwarf PC who studies it recognizes the image of Moradin the maker. No source gives a check for this.
 > - **The Secrets Room:** The next room holds "a small silver statuette of a dwarf priest of Moradin". In the campaign the urns are empty and the story of sealed secrets "is a legend with nothing behind it", so the statuette is the only thing to find (`campaign/structure/arc-j-vault-of-dragons.md:150`). The published room has treasure in five urns, among them a 9-inch silver statuette with amethyst eyes worth 250 gp (`sources/adventure-wdh.json:14625-14632`). The campaign file wins.
 > - **Dumathoin's Secret (V7):** The room beyond is the vault's real path down. "A DC 14 Intelligence (Religion) check identifies Dumathoin as the dwarven god of secrets — automatic for any dwarf character." (`campaign/structure/arc-j-vault-of-dragons.md:156`; `sources/adventure-wdh.json:14674-14693`). The Melairkyn dwarves' notes in **Fireball!** call the vault "a Dumathoin ceremonial site" (`campaign/quests/act-ii/fireball/ev-07-kalainsalley-tower.md:61`), so Moradin is honored in the Hall as the maker while Dumathoin holds the vault.
-> - **The Broken Circle of Gods:** The vault's frescoes show Dumathoin, Ilsensine and Laduguer in a circle of friendship that "official dwarven doctrine insists never existed", from before a falling-out "that the Morndinsamman has never fully explained" (`campaign/structure/arc-j-vault-of-dragons.md:154`). Moradin is not among the figures. The wiki's 2e account calls Laduguer estranged from him (*Demihuman Deities*), and the page does not connect the two.
+> - **The Broken Circle of Gods:** The vault's frescoes show Dumathoin, Ilsensine and Laduguer in a circle of friendship that "official dwarven doctrine insists never existed", from before a falling-out "that the Mordinsamman has never fully explained" (`campaign/structure/arc-j-vault-of-dragons.md:154`). Moradin is not among the figures. The wiki's 2e account calls Laduguer estranged from him (*Demihuman Deities*), and the page does not connect the two.
 > - **Statues on Level 6 of Undermountain (seed):** In the Lost Level, area 19 (Mountain Shrine) has four statues of Moradin (god of creation), Berronar Truesilver, Clangeddin Silverbeard and Marthammor Duin in niches at the corners (`sources/adventure-wdmm.json:18631`). Area 29d (Gods and Demons) has four 9-foot statues of the same gods with a demon trapped in each, and a barlgura in the statue of Moradin (`:18866-18879`). The Melairkyn dwarves trapped them there.
 > - **The statue on Level 15 of Undermountain (seed):** In the Obstacle Course, area 26 is "dominated by a 12-foot-tall stone statue of Moradin, the great dwarven god of the forge". It is veined with mithral and raises a stone hammer carved with glowing runes, and a steel plaque at its base reads in Dwarvish, "All that is made can be unmade." (`sources/adventure-wdmm.json:43276`). The statue animates and swings at a creature teleported in from another teleport trap in the level, for 40 (6d10 + 7) force damage on a failed DC 17 Dexterity save (`:43316`).
 
@@ -113,7 +113,7 @@ Moradin is the lawful good god of creation and the All-Father of the dwarves, an
 > **[GM]**
 >
 > #### Draft Notes
-> - **Conflict, pantheon spelling:** MTF prints "The Mordinsamman" (`research/deities/moradin/5etools.md:28`), while the wiki and the Vault of Dragons structure doc write "Morndinsamman" (`wiki.txt:17`; `campaign/structure/arc-j-vault-of-dragons.md:154`). The page uses the campaign's spelling and notes MTF's in the Pantheon field.
+> - **Conflict, pantheon spelling:** MTF (2018) prints "The Mordinsamman" (`sources/5etools/deities.json:9837`), and SCAG (2014) and the wiki print "Morndinsamman" (`sources/5etools/book/book-scag.json:5636`; `wiki.txt:17`). MTF is newer and wins. The page and the Vault of Dragons structure doc (`campaign/structure/arc-j-vault-of-dragons.md:154`) use "Mordinsamman", and the Pantheon field notes SCAG's spelling.
 > - **Conflict, campaign against the published room:** The structure doc empties the urns of the Secrets Room and renames the room (`campaign/structure/arc-j-vault-of-dragons.md:150`), while the published V5 holds treasure in them (`sources/adventure-wdh.json:14632`). The structure doc also drops the published secret-door clause about creatures transformed into dwarves (`:14614`). The campaign file wins, and the page gives the published detail beside it.
 > - **Conflict, plane:** The wiki gives Solania and Erackinor for 2e (`wiki.txt:74-75`) and Dwarfhome for 3e and 4e (`wiki.txt:58` and `:43`). EGW puts Erackinor on Celestia (`5etools.md:17`) and is not used. SCAG, the PHB and MTF give no plane, so the field carries the wiki's two answers.
 > - **Conflict, holy day:** The wiki's crescent moon (`wiki.txt:141`) differs from EGW's Deep Solace on the eighteenth day of the fifth month (`5etools.md:19`). The page uses the wiki line, since EGW belongs to Exandria. The wiki cites no book for the crescent moon.

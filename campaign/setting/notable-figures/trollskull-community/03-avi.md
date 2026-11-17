@@ -23,7 +23,7 @@
 
 **Morale.** In a fight, Avi would position herself between the attacker and anyone unarmed, using her shield and her faith before her spells. She will not strike first.
 
-**Relationships.** Avi is the wife of Embric, a fellow member of the Splendid Order of Armorers, Locksmiths, and Finesmiths, and a worshipper of Eldath whose pacifism occasionally puts her at odds with adventuring customers.
+**Relationships.** Avi is the wife of Embric, a fellow member of the Most Careful Order of Skilled Smiths and Metalforgers, a member of the Splendid Order of Armorers, Locksmiths, and Finesmiths as an armorer, and a worshipper of Eldath whose pacifism occasionally puts her at odds with adventuring customers.
 
 ## Overview
 

@@ -32,7 +32,7 @@ Ambrose is waiting at the central gate path when the party arrives. He asks how 
 
 > [!social]**The Warden at Dawn**
 >
-> Sir Ambrose Everdawn (Lawful Neutral, Tethyrian Human, he/him) :: the Kelemvorite knight, who has watched the party stand ten nights and now treats it as a colleague.
+> Sir Ambrose Everdawn (Lawful Good, Tethyrian Human, he/him) :: the Kelemvorite knight, who has watched the party stand ten nights and now treats it as a colleague.
 >
 > Ambrose is still formal and still uses no contractions, but his reserve is gone. He listens to the whole report before he speaks and removes a gauntlet to touch the headstone beside the path as he talks. If the party has done well, a trace of dry humour shows once.
 >
