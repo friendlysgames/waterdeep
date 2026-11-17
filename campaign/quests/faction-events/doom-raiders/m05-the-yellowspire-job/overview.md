@@ -23,7 +23,7 @@ Davil has been out of Castle Waterdeep for some time, and he asks the member to 
 
 ## Background
 
-Yellowspire is a narrow tower of yellowish brick that a Banite priestess named Amath Seccent calls the House of Tyranny. She and her acolytes hold a prayer hour there each dusk, and the tower doubles as a relay for Manshoon's Splinter, with a permanent teleportation circle in a chamber beyond the cellar that connects to Kolat Towers. The circle's runes are keyed to a pressure plate in the northeast corner, and a courier who steps onto the ring without pressing it sends a silent signal to the towers. Amath keeps a ledger of pass-amulet carriers in an iron-bound box beside the circle, and she keeps coded letters from Kolat Towers in a locked drawer upstairs.
+Yellowspire is a narrow tower of yellowish brick that a Banite priestess named Amath Sercent calls the House of Tyranny. She and her acolytes hold a prayer hour there each dusk, and the tower doubles as a relay for Manshoon's Splinter, with a permanent teleportation circle in a chamber beyond the cellar that connects to Kolat Towers. The circle's runes are keyed to a pressure plate in the northeast corner, and a courier who steps onto the ring without pressing it sends a silent signal to the towers. Amath keeps a ledger of pass-amulet carriers in an iron-bound box beside the circle, and she keeps coded letters from Kolat Towers in a locked drawer upstairs.
 
 If Skeemo Weirdbottle escaped through the circle, Amath has been warned. The Doom Raiders believe that Urstul Floxin leads the Splinter, but Manshoon directs Floxin from behind him, and no Doom Raider says the name unless **Manshoon Named** is marked. If Floxin is dead or captured, they say "the other cell" and never "Floxin's cell".
 
@@ -75,7 +75,7 @@ Davil holds the ledger, Tashlyn holds the letters, and Ziraj's notes are in the 
 - **Tashlyn Yafeera** (Doom Raiders): supplies the schematics and the cover name Rorik Halvars, and receives the letters.
 - **Istrid Horn** and **Yagra Stonefist** (Doom Raiders): pay for the report and offer to go back, in The Debrief.
 - **Ziraj the Hunter** (Doom Raiders) and **Fala Lefaliir** (independent; Fala is Ziraj's friend in the Trollskull Alley community, not a member): hand over the force-field notes at Corellon's Crown.
-- **Amath Seccent** (Manshoon's Zhentarim): a Banite priestess who keeps Yellowspire.
+- **Amath Sercent** (Manshoon's Zhentarim): a Banite priestess who keeps Yellowspire.
 - **Agorn Fuoco** (Manshoon's Zhentarim): a bard who visits some evenings and trades his pass-amulet for his life.
 - **Vevette Blackwater** (Manshoon's Zhentarim): stays at Kolat Towers, and the letters name her as the strike-team coordinator.
 

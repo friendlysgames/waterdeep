@@ -19,7 +19,7 @@ At dusk on the day the member qualifies, a flying snake with silvery scales brin
 > Three Faction Outposts outcomes decide what the members bring to the table. The **Faction Outposts** conversion must write them when the party goes through Yellowspire.
 >
 > - **Yellowspire Ledger Taken** — the party removed the relay ledger from the circle chamber.
-> - **Yellowspire Letters Taken** — the party removed the three coded letters from Amath Seccent's desk.
+> - **Yellowspire Letters Taken** — the party removed the three coded letters from Amath Sercent's desk.
 > - **Yellowspire Clean Exit** — the party left without the circle pulsing, a coin dropping in the call bowl, or Agorn Fuoco escaping.
 >
 > Until **Manshoon Named** is marked, every Doom Raider says "Floxin's cell", "the other cell" or "the Splinter". If **Floxin Status** from **Gralhund Villa** is Dead or Captured, they say "the other cell" and never "Floxin's cell". The truth is that Manshoon directs the Splinter from Kolat Towers, and Davil and Tashlyn may say so only after **Manshoon Named** is marked. The Skeemo outcomes from **Silencing Skeemo** change a few lines, and each change is noted where it occurs.

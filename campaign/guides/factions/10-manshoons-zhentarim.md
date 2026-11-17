@@ -34,13 +34,13 @@ If the party frees him, Ott immediately tries to recruit his rescuers into Xanat
 
 *Full 5-step planning framework in **Faction Outposts**, Scene 5B. This entry provides keyed area reference for the operation.*
 
-Use the Winter version of the Old Tower (DH p. 79). Amath Seccent and four **acolytes** occupy this converted tower. The permanent teleportation circle here connects directly to Kolat Towers — one of the few physical routes into Manshoon's lair that bypasses the pass-amulet requirement.
+Use the Winter version of the Old Tower (DH p. 79). Amath Sercent and four **acolytes** occupy this converted tower. The permanent teleportation circle here connects directly to Kolat Towers — one of the few physical routes into Manshoon's lair that bypasses the pass-amulet requirement.
 
-*Area O2 — Ground Level.* A crumpled note from Avareen to Seccent, full of barely contained contempt: Avareen complains about Manshoon's directive to hand over a broadsheet publisher named Shan Chien for Seccent's "foul rites," but closes with "Manshoon's word is my command."
+*Area O2 — Ground Level.* A crumpled note from Avareen to Sercent, full of barely contained contempt: Avareen complains about Manshoon's directive to hand over a broadsheet publisher named Shan Chien for Sercent's "foul rites," but closes with "Manshoon's word is my command."
 
 **Gralhund complication:** If the Gralhunds remain active in the Grand Game, their agent Chirada may be watching Yellowspire from across the street. The Gralhunds may mount their own raid on Yellowspire to access the teleportal, inserting a third party into whatever operation the characters are planning.
 
-**Roster:** Amath Seccent (**priest**) + 4 **acolytes**. Agorn Fuoco is present from dusk to midnight, when he reports to Amath; casing the tower for one evening reveals the pattern.
+**Roster:** Amath Sercent (**priest**) + 4 **acolytes**. Agorn Fuoco is present from dusk to midnight, when he reports to Amath; casing the tower for one evening reveals the pattern.
 
 **Escalation:** Manshoon moves to Suspicious (Tier 2) if the Interrogation House has not yet been hit; moves to Lockdown (Tier 4) if it has. Agorn carries word to surviving Zhentarim contacts if he escapes; response teams redeploy within 3 days. **Founders' Day Clock: 3–5 days.**
 
@@ -66,7 +66,7 @@ Manshoon underestimates threats that aren't magical. A party that stays clear of
 
 **Yellowspire** (Castle Ward)
 - Tracking Urstul Floxin before the Gralhund Villa operation (Response Team: Urstul Floxin)
-- Threatening Agorn Fuoco: he sells out Amath Seccent to save himself (Response Team: Agorn Fuoco)
+- Threatening Agorn Fuoco: he sells out Amath Sercent to save himself (Response Team: Agorn Fuoco)
 - *A Missive from Castle Ward* (Gralhund Villa)
 - Questioning Samara (Xanathar's Lair)
 

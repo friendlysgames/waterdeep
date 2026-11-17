@@ -56,7 +56,7 @@ Davil is released when the Lords' clerks hear him on the fifth day after the mem
 - **Skeemo Weirdbottle** (Doom Raiders, secretly of the Splinter): the Master of Magic, who tries to reach Kolat Towers.
 - **Davil Starsong** (Doom Raiders): held at Castle Waterdeep and absent until **Davil's Return**.
 - **Vevette Blackwater** (Manshoon's Zhentarim): the hand that receives Skeemo's letters, named only when Tashlyn decodes them.
-- **Amath Seccent** (Manshoon's Zhentarim): keeper of Yellowspire, whose acolytes bar the door behind Skeemo.
+- **Amath Sercent** (Manshoon's Zhentarim): keeper of Yellowspire, whose acolytes bar the door behind Skeemo.
 - **The hire-dray's driver and five commuters:** a baker's apprentice, a laundress, an old cobbler, a young clerk and a woman who sells ribbons, who stand to be hurt if the party is careless.
 
 ## Dangers & Enemies

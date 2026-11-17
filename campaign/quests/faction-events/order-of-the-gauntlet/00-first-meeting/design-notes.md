@@ -10,7 +10,7 @@ The earlier draft had Savra return after **Fireball!** or **Gralhund Villa** for
 
 ## The Chapter and the Cult
 
-The earlier draft called Savra "the only Order member in Waterdeep", while the rank events field a chapter and a council. The page now defines the chapter once: Savra, a clerk's office in the east annex, a rotation of about a dozen Knights and Priests, and the priests of the Triad who help without being members. Her cult tenure is three years, and she left in 1491 DR, about a year ago. The Chevall benefits are written as procedures with a temple, a contact, a limit and a loss rule. The renovation help follows the manor guide's non-monetary version and keeps the 100 gp saving from **The Factions Come Calling**.
+The earlier draft called Savra "the only Order member in Waterdeep", while the rank events field a chapter and a council. The page now defines the chapter once: Savra, a clerk's office in the east annex, a rotation of about a dozen Knights and Priests, and the priests of the Order's three temples who help without being members. Her cult tenure is three years, and she left in 1491 DR, about a year ago. The Chevall benefits are written as procedures with a temple, a contact, a limit and a loss rule. The renovation help follows the manor guide's non-monetary version and keeps the 100 gp saving from **The Factions Come Calling**.
 
 ## Departures
 

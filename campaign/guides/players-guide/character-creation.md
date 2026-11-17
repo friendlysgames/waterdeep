@@ -59,7 +59,7 @@ Your background says what your character did before the story starts, and in a c
 | Harper | Excellent | The Harpers are active in Waterdeep, which gives this background an immediate contact in the city. |
 | Lords' Alliance Vassal | Excellent | Waterdeep leads the Lords' Alliance, giving you political access and faction credibility from day one. |
 | Zhentarim Mercenary | Excellent | A direct tie to the Doom Raiders. In a city with two different groups called "the Zhentarim," your loyalty is a live question worth playing. |
-| Shadowmasters Exile | Strong | Your old underworld connections still have reach into Waterdeep's black market. |
+| Shadowmasters Exile | Strong | The Shadowmasters of Telflamm are a criminal syndicate from Thesk with a cell in Waterdeep's black market, and your old connections still reach it. |
 | Chondathan Freebooter | Strong | Sword Coast maritime culture at home in a major port city. |
 | Mythalkeeper | Good | Waterdeep's arcane history runs deep, and your knowledge of elven lore and high magic taps straight into it. |
 | Emerald Enclave Caretaker | Good | Waterdeep's parks and green spaces fall under Enclave protection, which gives this background an immediate contact. |

@@ -163,7 +163,7 @@ The Southern Ward is the caravan district of Waterdeep, a ward of stables, inn y
 - The ward hosts most of the traveling merchants who visit the city. Its enclaves, blocks and streets hold families who trace their ancestry to other realms, and the name comes from the southerners who settled here as the city grew.
 - The finest halfling food, the best Calishite singers and the most striking dwarven crafting are all here, and the first challenge is finding where they are housed (Dragon Heist).
 - Ward pride rests on overland travel and hard work. The mule on the red and white flag stands for both, and locals call the stretch of streets between the Way of the Dragon and the High Road the Tween Run (wiki, 2e).
-- The Moon Sphere draws visitors from across the city. Couples come to dance in it, and sailors extend a hand into the field and ask Selûne to guide them to their next port. The wiki says a priestess from the House of the Moon came to dance and pray there whenever it appeared (14th-century DR sources). The Sea Ward's Tower of the Moon is the table's name for Selûne's temple.
+- The Moon Sphere draws visitors from across the city. Couples come to dance in it, and sailors extend a hand into the field and ask Selûne to guide them to their next port. The wiki says a priestess from the House of the Moon came to dance and pray there whenever it appeared (14th-century DR sources). The Sea Ward's House of the Moon is Selûne's temple in the city.
 - The ward's halflings gather in three places, the market by the Waymoot, the Yondalla shrine and the rooms above the cooperage, and they keep Dasher Snobeedle's secret from strangers.
 - Temples of the ward: Helm's Hall for Helm, from the Dragon Heist Major Temples table, and the Yondalla shrine, which only the campaign places here. Tymora's Tower of Luck is a Castle Ward row in the table, and the Sea Ward text describes it as a Sea Ward temple, so it is not a Southern Ward temple here. Phaulkonmere is an estate and not a temple. No campaign hook for Helm's Hall beyond the Order of the Gauntlet's healing is sourced. [research]
 
@@ -230,7 +230,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 - **Castle Ward**: Yellowspire, Terasse Estate and the water table that Jeryth watches.
 - **North Ward**: the Interrogation House, which the towers' circles reach, and Samara's misdirection.
 - **Dock Ward**: the ward the Doom Raiders design note puts the Waymoot in. Dragon Heist names no ward for it, and the **Field Ward** page says it is not a Field Ward site.
-- **Sea Ward**: the Tower of the Moon and Tymora's Tower of Luck.
+- **Sea Ward**: the House of the Moon and Tymora's Tower of Luck.
 - **The Guilds**: the ward's six guildhalls.
 - **The City Watch**: the Watch's presence in the ward.
 - **The Deities**: the Major Temples table. **Helm**, **Yondalla**, **Mielikki** and **Selûne**: the gods of the ward's temples, Phaulkonmere and the Moon Sphere.

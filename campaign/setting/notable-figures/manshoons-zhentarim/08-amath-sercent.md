@@ -1,9 +1,9 @@
-# Amath Seccent
+# Amath Sercent
 
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - *Human priest of Bane, lawful evil*. Stat block: **Priest**.
+> - *Mulan human priest of Bane, lawful evil*. Stat block: **Priest**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Faction Outposts**; **The Yellowspire Job**
 
@@ -19,7 +19,7 @@
 
 ## Character Information
 
-**Persona.** To the world, Amath Seccent is a well-mannered woman in common clothes who lives in an old tower in the Castle Ward. To those who enter the tower, every interior surface is covered in black handprints (the symbol of Bane) and the five occupants wear fur-lined robes and are at complete peace with this. Deep down, the tower is a house of worship, a command post, and a fallback location, and she considers any distinction between these purposes academic.
+**Persona.** To the world, Amath Sercent is a well-mannered Mulan woman in common clothes who lives in an old tower in the Castle Ward. To those who enter the tower, every interior surface is covered in black handprints (the symbol of Bane) and the five occupants wear fur-lined robes and are at complete peace with this. Deep down, the tower is a house of worship, a command post, and a fallback location, and she considers any distinction between these purposes academic.
 
 **Morale.** In a fight, Amath maintains her composure, uses priestly magic precisely, and calls her acolytes to position. The tower is defensible and she knows every corner of it.
 
@@ -27,4 +27,4 @@
 
 ## Overview
 
-A well-mannered woman in common clothes who keeps a tower in the Castle Ward. Those who enter find every interior surface covered in black handprints and its occupants entirely at peace with this.
+A well-mannered Mulan woman in common clothes who keeps a tower in the Castle Ward. Those who enter find every interior surface covered in black handprints and its occupants entirely at peace with this.

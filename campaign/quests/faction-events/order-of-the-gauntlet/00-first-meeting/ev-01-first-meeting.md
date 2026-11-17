@@ -22,7 +22,7 @@
 > - Savra chose these candidates herself, from what Renaer Neverember and the rescue of Floon told her. The Order has no one else to send.
 > - The family she will not name is the Cassalanters. She suspects them, she cannot prove anything, and she does not know what they worship, and she never names them in this Event.
 > - The Howling Hatred was real, and Savra spent three years in it. She left around the time the Watch released two of its members, and the Order took her in afterward. What she did inside is hers, and she says so.
-> - The Waterdeep chapter is Savra and a clerk's office in the east annex of the Halls of Justice. A rotation of about a dozen Knights and Priests answers to her. The priests of the Triad help without being members. Savra is not the only Order member in the city, and she does not say she is.
+> - The Waterdeep chapter is Savra and a clerk's office in the east annex of the Halls of Justice. A rotation of about a dozen Knights and Priests answers to her. The priests of the Order's three temples help without being members. Savra is not the only Order member in the city, and she does not say she is.
 > - The Halls of Justice, the temple of Tyr, stands in the Castle Ward west of the Market. The Order's clerk's office keeps its seal there.
 > - The oath asks three questions. A candidate who says plainly that they do not mean to oppose evil is not sworn, and the Event decides nothing else about an honest answer.
 > - Nobody in this Event names the master of the Splinter, Jarlaxle's fleet or the Cassalanters' faith. Until **Manshoon Named** is marked for the listener, Savra says "the Splinter" or "the other cell".

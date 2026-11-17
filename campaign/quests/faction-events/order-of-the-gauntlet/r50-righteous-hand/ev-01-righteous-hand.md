@@ -309,7 +309,7 @@ If the member leaves the paper, read the following:
 > - **Level 21:** Fazrian, once a planetar of Torm, is corrupted. A character it judges innocent can ask it to judge itself with a **DC 26 Charisma (Persuasion)** check.
 > - **Level 22:** Dezmyr and Zalthar Shadowdusk, former paladins of Torm, are now death knights. A shrine of Torm with a white gauntlet fresco stands in the hold.
 > - **Level 23:** Aryx, a deva sent by Tyr to reach Fazrian, is trapped in a shield in the vaults.
-> - The adventure has no Order of the Gauntlet. The white gauntlet is Torm's symbol, and Torm is one of the Triad the Order serves.
+> - The adventure has no Order of the Gauntlet. The white gauntlet is Torm's symbol, and Torm is one of the three gods whose temples the Order works with.
 > - The transport and *Sending* limits are recorded in **Force Grey Commander** and are not repeated here. The Order has no *Sending*, so every courier and every Priest walks the stairs.
 
 ### Renown Opportunities
