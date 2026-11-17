@@ -113,7 +113,7 @@ Yondalla is the lawful good halfling god of fertility and protection, shown by a
 > **[GM]**
 >
 > #### Draft Notes
-> - **Conflict, symbol:** The five entries give a cornucopia on a shield, a shield alone or a cornucopia alone. SCAG gives a cornucopia on a shield (`research/deities/yondalla/5etools.md:22`), the PHB gives a shield (`:14`) and MTF gives a cornucopia (`:4`). The wiki's 5e row repeats SCAG (`wiki.txt:24`) and its 2e row reads shield with cornucopia (`wiki.txt:71`). The page takes SCAG and shows the other two.
+> - **Conflict, symbol:** The five entries give a cornucopia on a shield, a shield alone or a cornucopia alone. SCAG gives a cornucopia on a shield (`sources/research/pass2-bundles/yondalla/5etools.md:22`), the PHB gives a shield (`:14`) and MTF gives a cornucopia (`:4`). The wiki's 5e row repeats SCAG (`wiki.txt:24`) and its 2e row reads shield with cornucopia (`wiki.txt:71`). The page takes SCAG and shows the other two.
 > - **Conflict, creator or adopter:** The wiki's opening calls her the creator of the halfling race (`wiki.txt:105`, citing *Faiths & Pantheons*, 3e). MTF has her adopt halflings who already existed (`5etools.md:6`). The Rank bullet says "built" the pantheon, and Origin and rise follows MTF.
 > - **Conflict, plane:** The wiki's 3e row gives Green Fields as her home plane (`wiki.txt:56`). Its 2e row gives Mount Celestia and Venya as the plane and Green Fields as the realm (`wiki.txt:72-73`). The page shows both.
 > - **Conflict, shrine or temple:** The campaign mission says "shrine" (`m03-the-missing-snobeedle/ev-01-the-missing-snobeedle.md:128` and `:166`), and the Alexandrian Remix says "small temple" (`sources/Appendix_C_-_Player_Faction_Missions.md:1312`). The campaign file wins.

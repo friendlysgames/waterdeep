@@ -128,7 +128,7 @@ Maglubiyet is the lawful evil god of war and the ruler of the goblinoid gods. Go
 > **[GM]**
 >
 > #### Draft Notes
-> - **Conflict, alignment:** The PHB and the wiki's 5e and 2e rows give lawful evil (`research/deities/maglubiyet/5etools.md:3`; `wiki.txt:36` and `:80`). The wiki's 3e row gives neutral evil (`wiki.txt:65`). The page uses lawful evil.
+> - **Conflict, alignment:** The PHB and the wiki's 5e and 2e rows give lawful evil (`sources/research/pass2-bundles/maglubiyet/5etools.md:3`; `wiki.txt:36` and `:80`). The wiki's 3e row gives neutral evil (`wiki.txt:65`). The page uses lawful evil.
 > - **Conflict, plane:** The wiki's 5e row gives Acheron (`wiki.txt:38`), the 2e and 3e rows add Avalas and Clangor (`:67-68`, `:82-83`), the 4e row gives Banehold (`:52`), and the 1e row gives the Nine Hells (`:96`). The page uses Acheron, Clangor and Avalas and shows the 1e answer beside them.
 > - **Conflict, domains and symbol:** The PHB gives War and Order and a bloody axe (`5etools.md:4-5`). The wiki's 3e row lists eight 3e domains and no Order (`wiki.txt:72`), and its 5e row adds "headsman's" to the symbol (`:37`). The page uses the PHB and leaves the 3e list out.
 > - **Conflict, edition (rank):** The wiki says Bane made him an exarch in the 4e era (`wiki.txt:49-54` and `:274`). The campaign treats every power as present in 1492 DR, and the wiki says he later returned to greater status, so the page gives the exarch period as history. `campaign/setting/deities/bane.md:45` and `:56` list him among Bane's servants without saying the service ended.

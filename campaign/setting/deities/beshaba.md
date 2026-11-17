@@ -103,7 +103,7 @@ Beshaba is the chaotic evil god of misfortune, whom Waterdhavians know as Lady D
 > **[GM]**
 >
 > #### Draft Notes
-> - **Conflict, edition (worshipers):** FRHoF lists "Gamblers, Red Wizards, Rogues" (`research/deities/beshaba/5etools.md:4`). The wiki's 5e row lists "Druids, Red Wizards of Thay" (`research/deities/beshaba/wiki.txt:63`). The page gives FRHoF in the metadata and both in Influence and Followers.
+> - **Conflict, edition (worshipers):** FRHoF lists "Gamblers, Red Wizards, Rogues" (`sources/research/pass2-bundles/beshaba/5etools.md:4`). The wiki's 5e row lists "Druids, Red Wizards of Thay" (`sources/research/pass2-bundles/beshaba/wiki.txt:63`). The page gives FRHoF in the metadata and both in Influence and Followers.
 > - **Conflict, edition (plane):** FRHoF gives the Abyss (`5etools.md:5`). The wiki's 3e field gives the Barrens of Doom and Despair (`wiki.txt:87`) and its 2e field the 13th layer of the Abyss (`wiki.txt:102`). The page follows FRHoF and leaves the realm names out.
 > - **Conflict, origin:** FRHoF says Tyche became corrupted and died and her essence split (`5etools.md:8`). The wiki says Moander's taint infected her and Selûne forced the split (`wiki.txt:173`). The page gives both. The Tymora page and the Lathander page (`campaign/setting/deities/lathander.md:57`) tell the wiki version.
 > - **Conflict, holy days:** The wiki lists Midsummer and Shieldmeet (`wiki.txt:160`). The Dragon Heist festival is the Reign of Misrule on Marpenoth 10 (`sources/adventure-wdh.json:31526`). No source ties the wiki dates to Waterdeep, and no source explains the difference. The page states both.

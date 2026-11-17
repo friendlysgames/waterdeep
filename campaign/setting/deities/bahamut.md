@@ -121,7 +121,7 @@ Bahamut is the Platinum Dragon, the lawful good god of the good dragons, and his
 > **[GM]**
 >
 > #### Draft Notes
-> - **Conflict, pantheon:** The PHB files him under Nonhuman (`research/deities/bahamut/5etools.md:24`), while the wiki lists the Faerûnian, Draconic and Untheric pantheons (`wiki.txt:11`). The page shows both. The hub row should read Nonhuman (PHB, 2014).
+> - **Conflict, pantheon:** The PHB files him under Nonhuman (`sources/research/pass2-bundles/bahamut/5etools.md:24`), while the wiki lists the Faerûnian, Draconic and Untheric pantheons (`wiki.txt:11`). The page shows both. The hub row should read Nonhuman (PHB, 2014).
 > - **Conflict, domains:** The PHB and the wiki's 5e row agree on Life and War (`5etools.md:27`; `wiki.txt:81`). The wiki's 3e and 4e rows are wider (`wiki.txt:51` and `:66`), and the EGW entry adds Order for Exandria (`5etools.md:12`). The page takes the PHB and lists the wiki rows. The hub row should read Life, War (PHB, 2014), with Life Domain and War Domain (derived).
 > - **Conflict, symbol:** The PHB, the wiki's 4e row and its 5e row give a dragon's head in profile (`5etools.md:28`; `wiki.txt:60` and `:75`), while the 2e and 3e rows give a star and nebula symbol (`wiki.txt:31` and `:45`). The page shows both.
 > - **Conflict, plane:** The wiki's 2e row reads Mount Celestia and Mercuria (`wiki.txt:32`), its 3e row Celestia (`wiki.txt:46`), its 4e row Celestia as the dominion with Bahamut's Palace as the realm (`wiki.txt:61-62`) and its 5e row Celestia (`wiki.txt:76`). The wiki's body also records older myths that placed his castle behind the east or north wind, with some scholars putting it on the Elemental Plane of Air (`wiki.txt:136`). The page follows the 4e and 5e rows and leaves the myths out.
