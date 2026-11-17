@@ -88,7 +88,7 @@ If Yalah judges the confrontation has turned against her and the Stone is about 
 >
 > - **Balcony Entry Used** — mark when the party enters via the Coach House roofline to the G17 balcony; the party bypasses the raid and proceeds directly to ev-07 without going through ev-04.
 > - **Pantry Entry Used** — mark when the party enters via the already-open pantry door; the party avoids the main yard encounter and begins the raid in the kitchen corridor.
-> - **Gazers Active at Night** — carry forward from **Gazers Spotted** in ev-02: mark it when that outcome is marked. If it is not marked, Xanathar has an unrecorded record of the party entering the building during the raid.
+> - **Gazers Active at Night** — carry forward from **Gazers Spotted** in ev-02: mark it when that outcome is marked. If it is not marked, Xanathar has an unrecorded record of the party entering the building during the raid. Read by **Dungeon of the Mad Mage** (reserved; that journal is not yet written).
 
 > [!gamemaster]**Next Steps**
 >

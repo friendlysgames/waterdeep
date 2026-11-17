@@ -97,7 +97,7 @@ Floxin's plan can succeed or collapse based on party action.
 > [!gamemaster]**Event Outcomes**
 >
 > - **Floxin Alive** — mark when Floxin survives the raid; read by **Kolat Towers**, where he becomes available as a Manshoon response team leader.
-> - **Floxin Captured** — mark when the party takes Floxin into custody, only when **Floxin Alive** is also marked; a captured Floxin provides nothing useful about his master.
+> - **Floxin Captured** — mark when the party takes Floxin into custody, only when **Floxin Alive** is also marked; a captured Floxin provides nothing useful about his master. Read by **Dungeon of the Mad Mage** (reserved; that journal is not yet written).
 
 > [!gamemaster]**Next Steps**
 >

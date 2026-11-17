@@ -19,7 +19,7 @@
 
 ## Character Information
 
-**Persona.** To the world, Savra is a knight in her late twenties who looks older, dark hair worn back, strong jaw, the measured manner of someone who has learned to think before speaking. To anyone who asks her sincerely, she says that she spent three years in the Howling Hatred cult and left about three years ago, and that the Order took her in afterward. She tells what she did in it only to a member she has come to trust. Deep down, her goodness is hard-won in a way that makes it more convincing, and she cannot work with people she is managing around.
+**Persona.** To the world, Savra is a knight in her late twenties who looks older, dark hair worn back, strong jaw, the measured manner of someone who has learned to think before speaking. To anyone who asks her sincerely, she says that she spent three years in the Howling Hatred cult and left it in 1491 DR, about a year ago, and that the Order took her in afterward. She tells what she did in it only to a member she has come to trust. Deep down, her goodness is hard-won in a way that makes it more convincing, and she cannot work with people she is managing around.
 
 **Morale.** In a fight, Savra positions herself where the line is thinnest and holds it. She kills what needs killing and moves on without commentary. Diabolists die first; everything else queues behind them.
 

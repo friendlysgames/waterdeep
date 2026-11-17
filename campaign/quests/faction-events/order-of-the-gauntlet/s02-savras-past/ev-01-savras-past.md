@@ -13,7 +13,7 @@
 
 > [!gamemaster]**What Is Actually True**
 >
-> - Savra was in the Howling Hatred for three years and left it about three years ago, on the night of the storm. She joined the Order of the Gauntlet after she left.
+> - Savra was in the Howling Hatred for three years and left it in 1491 DR, about a year ago, on the night of the storm. She joined the Order of the Gauntlet after she left.
 > - She held the stairwell door while four initiates were bound to the roof parapet. She stopped two of the four from going over and could not stop the other two.
 > - She saw one of the two who fell catch a drainpipe. She has never learned whether he lived, and she has never asked.
 > - Two days later she gave the Halls of Justice every name she knew. Within a tenday the Watch made arrests, and the high priest was gone before they reached the tower.
@@ -60,7 +60,7 @@ The Cassalanter suspicion reaches an Order member by two routes, and either one 
 
 > [!gamemaster]**Two Routes to Savra**
 >
-> - **Mirt, through a Harper.** In **Fireball!** Mirt tells a Harper member of Renown 1 or higher that Cassalanter money may have been behind the Howling Hatred three years ago. The Watch released two of its members after a quiet word from someone at Cassalanter Villa. He has no proof, and he shares it because he is worried. The Harper can pass the words on, and any Order member who hears them can carry them to Savra.
+> - **Mirt, through a Harper.** In **Fireball!** Mirt tells a Harper member of Renown 1 or higher that Cassalanter money may have been behind the Howling Hatred about a year ago. The Watch released two of its members after a quiet word from someone at Cassalanter Villa. He has no proof, and he shares it because he is worried. The Harper can pass the words on, and any Order member who hears them can carry them to Savra.
 > - **Saeth Cromley, in the sergeants' room.** Saeth sits in the Watch sergeants' room at the Halls of Justice most afternoons. Any member who buys him a drink and asks about the Howling Hatred gets the account below, with no check needed. A Harper who already holds Mirt's account gets the same story from him as a second source.
 
 > [!social]**The Retired Sergeant**
@@ -81,7 +81,7 @@ The Cassalanter suspicion reaches an Order member by two routes, and either one 
 >
 > Saeth laughs shortly and waves the barmaid over for a second round.
 >
-> > "That was three years back, friend. A tower full of fools in the Dock Ward, preaching at the wind. We took the lot of them inside a tenday, and I'd have bet my pension it was done."
+> > "That was a year back, friend. A tower full of fools in the Dock Ward, preaching at the wind. We took the lot of them inside a tenday, and I'd have bet my pension it was done."
 
 > [!qna]**Two of them walked?**
 >
@@ -109,7 +109,7 @@ The east annex stands behind the main hall of the Halls of Justice, and the side
 >
 > This is background for the GM, and Savra gives it only in pieces.
 >
-> - The Howling Hatred was an elemental air cult that worked in Waterdeep until about three years ago. It served Yan-C-Bin, the Prince of Evil Air, and preached that walls, contracts and gold kept the world from his wind.
+> - The Howling Hatred was an elemental air cult that worked in Waterdeep until 1491 DR, about a year ago. It served Yan-C-Bin, the Prince of Evil Air, and preached that walls, contracts and gold kept the world from his wind.
 > - Its ranks ran from Initiate through Windwalker to Windcaller, and a few ordained leaders sat above them. The rank names are invented for this campaign.
 > - It met in a derelict Dock Ward tower for its last two years. Member offerings could not have paid for the tower, so money came from outside.
 > - It broke in a single tenday of arrests. The high priest was never found, and no Watch record names the source of the money.

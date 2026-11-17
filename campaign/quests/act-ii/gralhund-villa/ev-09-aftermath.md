@@ -139,8 +139,8 @@ If the party did not recover the Stone (if it remains with the Gralhunds at ques
 > - **Istrid Horn Helped** — mark when the party shelters Istrid Horn; read by **Faction Outposts** for the Doom Raiders renown modifier and courier cache availability.
 > - **Istrid Horn Turned In** — mark when the party hands her to the Watch; read by **Faction Outposts** for the Watch relation modifier and the Doom Raiders renown penalty.
 > - **G16 Compartment Found** — mark when the party discovers the locked Asmodean compartment in the G16 trunk, which gives them the Cassalanter seal and the knowledge that Yalah had an infernal contact in Castle Ward; read by **Cassalanter Villa**.
-> - **Yalah Missing** — mark when Yalah fled before the Watch arrived; a want notice circulates through gate guards and ship registries.
-> - **Yalah In Custody** — mark when the Watch took Yalah; she is in Castle Waterdeep and says nothing useful. If neither **Yalah Missing** nor **Yalah In Custody** is marked, she is dead.
+> - **Yalah Missing** — mark when Yalah fled before the Watch arrived; a want notice circulates through gate guards and ship registries. Read by **Dungeon of the Mad Mage** (reserved; that journal is not yet written).
+> - **Yalah In Custody** — mark when the Watch took Yalah; she is in Castle Waterdeep and says nothing useful. Read by **Dungeon of the Mad Mage** (reserved; that journal is not yet written). If neither **Yalah Missing** nor **Yalah In Custody** is marked, she is dead.
 >
 > This Event also reads **Stone Secured** (ev-06 and ev-07) and **Stone Recovered** (ev-08). If either is marked, the party holds the Stone. If neither is marked, the Stone is with whoever took it in ev-06 to ev-08: Bregan D'aerthe (Fel'rekt, or the nimblewright or the BD team at the end of a failed chase), the Zhentarim (a Manshoon safe house), or Yalah, who kept it.
 

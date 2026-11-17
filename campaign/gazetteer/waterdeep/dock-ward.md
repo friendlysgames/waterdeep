@@ -123,6 +123,14 @@ The Dock Ward is the part of Waterdeep that works for a living, a steep ward of 
 > - Two Bregan D'aerthe agents are posing as Guild guards here, and they lifted the locket's Eye from the forced Q03 strongbox before dawn. The Guild does not know it is gone, and the party cannot recover it.
 > - One guard was pulled off the watch that night and reassigned to a Dock Ward street crew. A captured goblin or Zemk grumbles about it.
 
+**Spices Street Hostel** — Halfling-owned hostel
+- A halfling-owned hostel on Spices Street. A narrow passage links its cellar to the tunnel by the Xanathar Sewer Hideout, and Medium characters must squeeze to get through it (Dragon Heist).
+
+> **[GM]**
+>
+> #### GM Notes
+> - The hostel is a base for the Shard Shunners, a gang of halfling wererats led by Kelso Fiddlewick, whose other hideout is in the Field Ward. They know about the Xanathar Guild hideout, and the two gangs are tenuous allies.
+
 **Pier 17 and the South Quay** — Pier and cargo quay
 - Pier 17 stands on the south quay, the stretch of waterfront that the alley from the Muleskull runs toward. Sarna, a boat owner who watches the harbor for the Emerald Enclave, keeps her boat at the quay and is aboard at dawn.
 - Hook: in **The Grells in the Dock Ward**, three people have vanished from Pier 17 on three nights, and the nest is a closed warehouse at the end of the quay. In **Winterstalker**, Sarna's notes report two flat barges that come in light to Pier 17 and leave riding low before each tide.
