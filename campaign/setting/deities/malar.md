@@ -47,7 +47,7 @@
   - He has a long-standing alliance with Lolth against the Seldarine, and he is allied with dark powers such as Bane. Loviatar was affiliated with him only before the Time of Troubles, as her page records.
   - He fights the powers of peace, civilization and nature, and he hates Nobanion most, who beat him in a battle during the Time of Troubles.
   - The Chauntea, Deneir, Helm and Ilmater pages each list him among their opponents.
-  - In the late fifteenth century DR, Umberlee turned to Talos and Malar against Auril, and with their help drove the Frostmaiden back to the Sea of Moving Ice (*Icewind Dale: Rime of the Frostmaiden*, 5e).
+  - In the late 1480s DR, Umberlee turned to Talos and Malar against Auril, and with their help drove the Frostmaiden back to the Sea of Moving Ice, the frozen sea beside Icewind Dale (*Icewind Dale: Rime of the Frostmaiden*, 5e).
 - **Origin and rise:** Wiki-sourced, with the book or edition named on each fact.
   - He is a minor god who is not unique to Toril, a divine scavenger who forages for worshipers among perhaps a hundred predatory races on as many worlds (*Evermeet: Island of Elves*, novel).
   - After the Spellplague he was much reduced, and it was said his own beasts had hunted him down and slain him. He could then reach his followers only in dreams and nightmares (*Forgotten Realms Campaign Guide*, 4e). The 4e sources make him an exarch serving Silvanus in the Deep Wilds.
