@@ -30,7 +30,7 @@ Five quests, four heist targets, no fixed order. The party holds the Stone and n
 
 ### Act IV: The Vault
 
-The Vault of Dragons is a convergence, not a heist. The Faction-State Summary reads every flag the party set across Act III and populates the final confrontation accordingly: which villains survived, which factions arrived to stake their claim, what the Stone's Full Awakening revealed. Aurinax, the adult gold dragon guarding the vault, has four paths to resolution and no obligation to take the simplest one. After the two-wave faction confrontation, 500,000 gold pieces sit on the vault floor. What the party does with them is the campaign's last decision, and the campaign doesn't make it for them.
+The Vault of Dragons is a convergence, not a heist. The Faction-State Summary reads every Event Outcome the party marked across Act III and populates the final confrontation accordingly: which villains survived, which factions arrived to stake their claim, what the Stone's Full Awakening revealed. Aurinax, the adult gold dragon guarding the vault, has four paths to resolution and no obligation to take the simplest one. After the two-wave faction confrontation, 500,000 gold pieces sit on the vault floor. What the party does with them is the campaign's last decision, and the campaign doesn't make it for them.
 
 ## Milestone Progression
 

@@ -11,7 +11,7 @@ The campaign contains two distinct Zhentarim factions. Conflating them is a prep
 These two cells won't cooperate. If their operations overlap, they actively undermine each other. When a scene involves "the Zhentarim," know which cell is present. The distinction should become apparent to attentive players during **Trollskull Alley** — earlier encounters with the Doom Raiders' professionalism make Manshoon's operatives land harder when they appear.
 
 > [!warning]**Two Zhentarims, Never One**
-> Every scene involving a "Zhentarim" NPC requires knowing which cell is present. The Doom Raiders and Manshoon's Zhentarim won't coordinate or share intelligence. If their operations run parallel, they'll try to disrupt each other. Davil Starsong's renown mechanic is entirely separate from Manshoon's faction state. Track them separately and never conflate the two when reading attunement flags.
+> Every scene involving a "Zhentarim" NPC requires knowing which cell is present. The Doom Raiders and Manshoon's Zhentarim won't coordinate or share intelligence. If their operations run parallel, they'll try to disrupt each other. Davil Starsong's renown mechanic is entirely separate from Manshoon's faction state. Track them separately and never conflate the two when reading Event Outcomes.
 
 ## Faction Response Teams
 

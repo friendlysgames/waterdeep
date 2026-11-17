@@ -112,7 +112,7 @@ Waukeen, the Coinmaiden, is the god of trade and wealth, and merchants, caravan 
 - **Lathander** (Deities): the god she shares Sornyn with.
 - **Helm** (Deities): the guardian of the Celestial Stairway whom she tried to bribe.
 - **Lliira**, **Gond**, **Shaundakul** (Deities): her ally, her supporter among the gods, and the god of travelers and caravans.
-- **Mask**, **Graz'zt** (Deities, pages planned): her enemies, the god of thieves and the demon lord who imprisoned her.
+- **Mask**, **Graz'zt** (Deities): her enemies, the god of thieves and the demon lord who imprisoned her.
 - **Leira** (Deities): the goddess buried under molten gold in the Leiruin tale.
 - **Tymora**, **Sune** (Deities): two of the four powers who share her realm in the 3e books.
 - **Amaunator** (Deities): the sun god whose palace her realm surrounds in the 4e books.

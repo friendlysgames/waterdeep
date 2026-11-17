@@ -49,7 +49,7 @@
   - The wiki lists her as a formerly mortal human. A text in *Baldur's Gate III* says she was a devout paladin who toured armies as student and teacher before Tempus raised her.
   - In the Time of Troubles, in 1358 DR, her avatar possessed Lady Kaitlin Tindall Bloodhawk. With her adventuring band Bloodhawk crossed into Tethyr and drove back a large army of monsters, and the nation was grateful. She then found her clan's stronghold destroyed, rebuilt it as a temple to the Red Lady and named it the Citadel of Strategic Militancy, which became the center of her worship (*Powers & Pantheons*). Bloodhawk went on to lead the Order of the Red Falcon, a small knightly order that trained officers in tactics and military history (*Champions of Valor*).
   - In Ankhapur she was patron of the ruling family and was called the Red Lady, and some there honored her as the Red Lord, a male god. Her clergy kept the Cup and the Knife, the traditional symbols of the king's authority. The patronage ended in 1366 DR, when Janol Famisso took the throne and chose **Lathander** (*Empires of the Shining Sea*).
-  - In the wiki's 4e account she is an exarch of Tempus with a dominion in Warrior's Rest. Valkur became an exarch of Tempus during the Spellplague (*Forgotten Realms Campaign Guide*).
+  - In the wiki's 4e account she is an exarch of Tempus with a dominion in Warrior's Rest (*Forgotten Realms Campaign Guide*). The same account makes Valkur an exarch of Tempus too. Both clauses are 4e history, not used here.
 - **In the campaign:** The Red Knight is alive and present in 1492 DR as a god of the Faerûnian pantheon, as FRHoF has her. The 4e exarchy is wiki history that this page does not use as her present rank (see Draft Notes).
 
 > **[GM]**
@@ -89,7 +89,7 @@ The Red Knight is the Lady of Strategy, a lawful neutral god of planning and tac
 - **Torm** (Deities): the god she is fond of, whose page lists her as an ally.
 - **Tyr** (Deities): the god who urged Torm to befriend her in the wiki account.
 - **Cyric** (Deities): the god she holds in greatest contempt.
-- **Valkur** (Deities): her best ally in naval conflicts and a fellow exarch of Tempus in the wiki's 4e account.
+- **Valkur** (Deities): the god of sailors, her best ally in naval conflicts.
 - **Lathander** (Deities): the god Janol Famisso favored over her in Ankhapur in 1366 DR.
 - **Timekeeping and the Festival Calendar** (History): Tarsakh 1 as Caravance and Midwinter between Hammer and Alturiak.
 
@@ -107,4 +107,4 @@ The Red Knight is the Lady of Strategy, a lawful neutral god of planning and tac
 > - **Source note, game text:** The statement that she was a devout paladin before her rise comes from a wiki quotation of a *Baldur's Gate III* text, "The Red Knight's Final Stratagem" (`wiki.txt:138`). It is a video-game source and ranks below the wiki's tabletop books. The page tags it and uses it only for the paladin fit and the mortal origin.
 > - **Names with no page:** Garagos (not on the roster), Lady Kaitlin Tindall Bloodhawk, the Citadel of Strategic Militancy, the Order of the Red Falcon, Janol Famisso and Ankhapur. They are plain text.
 > - **Left out:** Her appearance (blood-red plate mail, dark braids, ruby-star eyes), because the template has no Appearance section. The wiki's 2e spheres, class table and favored weapon "Checkmate", and the 3e and 4e domain lists, since the campaign uses the SCAG domain. The video-game appearances and the *Dragon* 317 further reading.
-> - **Checks for other pages:** The hub's temples table has no Red Knight row, since no source places a temple of hers in the city. The Torm page lists her as an ally, and the Valkur page, once drafted, should do the same. The Tempus page should record that every Red Knight temple carries an altar to him.
+> - **Checks for other pages:** The hub's temples table has no Red Knight row, since no source places a temple of hers in the city. The Torm page lists her as an ally, and the Valkur page does the same. By the user's ruling (Session 51), the 4e clause that Valkur serves Tempus is history, so this page no longer states it as fact. The Tempus page should record that every Red Knight temple carries an altar to him.

@@ -43,7 +43,7 @@ Four acts, levels 1 through 7 or 8. See [Adventure Summary](adventure-summary.md
 
 **Act III: The Heists** (Levels 4–7) is the campaign's bulk. Two clocks run underneath it: the Sea Maidens Faire departs Tarsakh 20 and Founders' Day falls Flamerule 1.
 
-**Act IV: The Vault** (Levels 6–8) reads every flag the party set across Act III, populates the final confrontation accordingly, and puts half a million gold pieces on the vault floor.
+**Act IV: The Vault** (Levels 6–8) reads every Event Outcome the party marked across Act III, populates the final confrontation accordingly, and puts half a million gold pieces on the vault floor.
 
 The MacGuffin chain runs in a straight line: the Stone of Golorr names the vault but can't open it without all three Eyes. Xanathar holds Eye #1 (in Sylgar's fish bowl, unknowingly). The Cassalanters hold Eye #2. Jarlaxle holds Eye #3 aboard the *Scarlet Marpenoth*. Kolat Towers holds Manshoon, not an Eye. It's the fourth heist target; clearing it before the Vault pushes the party to Level 7.
 
