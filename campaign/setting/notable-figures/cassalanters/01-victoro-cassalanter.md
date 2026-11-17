@@ -14,7 +14,7 @@
 
 **Emotions.** Victoro most often feels calculated charm, paternal desperation masked by composure, cold theological certainty, genuine love for his children twisted by his own choices, strategic patience, and a self-serving hunger for power that he mistakes for devotion.
 
-**Motivations.** Victoro wants to save his younger twins from the Asmodean pact before their ninth birthday, acquire 999,999 gold pieces to fund the buy-out clause, and sacrifice 99 souls at the Founders' Day feast while maintaining his philanthropist reputation.
+**Motivations.** Victoro wants to save his younger twins from the Asmodean pact before their ninth birthday, acquire 999,999 gold pieces to fund the buy-out clause, and sacrifice 99 souls at the Founders' Day feast while maintaining his philanthropist reputation. The family already holds about 500,000 gp of its own, so the 500,000 gp in the Vault of Dragons is the shortfall to 999,999 gp.
 
 **Inspirations.** When playing Victoro, channel Tywin Lannister (*Game of Thrones*), Frollo (*The Hunchback of Notre Dame*), and Gustavo Fring (*Breaking Bad*).
 

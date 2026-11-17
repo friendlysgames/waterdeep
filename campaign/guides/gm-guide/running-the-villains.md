@@ -6,7 +6,7 @@ Read this page before the campaign begins and keep it close. Every faction liste
 
 Periodically throughout Waterdeep's long history, its byzantine factions become collectively fixated on a single objective. The city's chroniclers call these episodes Grand Games. They breed subterfuge, violence, and all manner of covert maneuvering, often without the city's population noticing anything unusual at all.
 
-The current Grand Game revolves around Neverember's Enigma: the 500,000 gold dragons that disgraced former Open Lord Dagult Neverember embezzled from the city and hid in a vault beneath the Brandath Crypts. The vault's location is locked inside the Stone of Golorr, an aboleth-created artifact Neverember blinded before he lost it. He stripped out three gemstone Eyes the Stone needs to reveal anything useful. Getting into the vault requires recovering all three Eyes and restoring them to the Stone.
+The current Grand Game revolves around Neverember's Enigma: the 500,000 gold dragons that disgraced former Open Lord Dagult Neverember embezzled from the city and hid in a vault beneath the Brandath Mausoleum. The vault's location is locked inside the Stone of Golorr, an aboleth-created artifact Neverember blinded before he lost it. He stripped out three gemstone Eyes the Stone needs to reveal anything useful. Getting into the vault requires recovering all three Eyes and restoring them to the Stone.
 
 Four factions are in active competition for the Enigma when the campaign begins. The players' characters stumble into the middle of that competition, and their choices will determine who wins, who loses, and what the vault's gold accomplishes.
 
@@ -29,7 +29,7 @@ The campaign's central plot runs through a chain of objects, each one gatekeepin
 > **Eye #2:** Cassalanters — vault beneath Cassalanter Villa (area A7). The family knows its function.
 > **Eye #3:** Jarlaxle Baenre — aboard the *Scarlet Marpenoth*. Jarlaxle knows exactly what it is. It passed from Renaer's locket to the Zhentarim, then to Xanathar's Guild in the warehouse raid, and Bregan D'aerthe agents inside Xanathar's hideout lifted it that night. Manshoon holds no Eye.
 
-**The Vault of Dragons** — 500,000 gold dragons, guarded by the adult gold dragon Aurinax under an oath, beneath the Brandath Crypts in the City of the Dead. The vault opens only when someone presents the complete Stone of Golorr, with all three Eyes restored, and speaks the command phrase the Stone reveals.
+**The Vault of Dragons** — 500,000 gold dragons, guarded by the adult gold dragon Aurinax under an oath, beneath the Brandath Mausoleum in the City of the Dead. The vault opens only when someone presents the complete Stone of Golorr, with all three Eyes restored, and speaks the command phrase the Stone reveals.
 
 ## Faction Knowledge When Fireball! Opens (Ches 22)
 
@@ -37,7 +37,7 @@ The campaign's central plot runs through a chain of objects, each one gatekeepin
 |---|---|---|---|
 | Xanathar's Guild | Dalakhar was moving the Stone; Stone is now in circulation; does not know the Eyes' significance or the vault's location | Eye #1 (in Sylgar's bowl; Xanathar does not know what it is) | The Stone; the Eyes' significance |
 | Manshoon's Zhentarim | The Stone exists and unlocks great wealth; Urstul Floxin's team was tracking Dalakhar; does not yet know the Stone reached the Gralhunds | Nothing | Stone + all three Eyes |
-| The Cassalanters | Vault is beneath Brandath Crypts; does not yet know the Stone is in play or in circulation | Eye #2 | Stone + Eyes #1 and #3 |
+| The Cassalanters | The Stone leads to the gold, but they do not know where the vault lies; does not yet know the Stone is in play or in circulation | Eye #2 | Stone + Eyes #1 and #3 |
 | Bregan D'aerthe | Most complete picture via Nar'l Xibrindas; knows the Stone, the Eyes, and the vault; waiting to see which party proves most useful | Eye #3 | Stone + Eyes #1 and #2 |
 
 ## Faction Escalation

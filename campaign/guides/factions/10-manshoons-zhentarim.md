@@ -22,7 +22,7 @@ Use the map for house L1 (DH p. 62). Avareen Windrivver and Zorbog Jyarkoth main
 
 *Front Room.* Avareen and Zorbog's quarters. Avareen carries a pass-amulet to Kolat Towers. While the party explores, a flying snake arrives with *A Directive to Zorbog* signed by "Manshoon," ordering Zorbog to kidnap Fenerus Stormcastle of Quill Alley, a "known associate of these new meddlers in the Grand Game."
 
-*Backroom.* A rack and other instruments of torture. An arcane circle on the floor. Strapped into the rack is **Ott Steeltoes**, a Xanathar's Guild agent captured while the Zhentarim were trying to locate the Eye. He knows nothing of the Eye itself.
+*Backroom.* A rack and other instruments of torture. An arcane circle on the floor. Strapped into the rack is **Ott Steeltoes**, a Xanathar's Guild agent captured while the Zhentarim were trying to locate the Eye. Ott put the Eye in Sylgar's bowl as a pretty stone and has no idea what it is.
 
 If the party frees him, Ott immediately tries to recruit his rescuers into Xanathar's organization. With patience and the right questions, the party can persuade him to lead them toward the Lair instead.
 
