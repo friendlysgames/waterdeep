@@ -99,6 +99,7 @@ Hoar is the god of revenge and retribution, called the Doombringer, and his symb
 > **[GM]**
 >
 > #### Draft Notes
+> - **No FRHoF entry:** Heroes of Faerûn has no entry for this god; the page rests on SCAG (2014) and the wiki.
 > - **Conflict, temples:** SCAG says temples and shrines are almost nonexistent except for ancient sites in Chessenta and Unther (`sources/research/pass2-bundles/hoar/5etools.md:9`). The wiki says smaller shrines spread north by the late 15th century DR, with one in Baldur's Gate and one on Dragonisle (`sources/research/pass2-bundles/hoar/wiki.txt:179`). SCAG ranks higher, so the Using box follows it, and the wiki's places appear tagged in Influence and Followers. Neither source names Waterdeep.
 > - **Conflict, how he joined the pantheon:** SCAG says his worship spread beyond its first lands (`5etools.md:10`). The wiki says Ao let him gain power in Faerûn in exchange for Mystra's influence in Unther (`wiki.txt:190`). They describe different mechanisms and do not clearly contradict each other, so the page gives both.
 > - **Conflict, edition (plane):** The wiki gives Mechanus and the Doomcourt for 2e (`wiki.txt:87-88`) and Banehold for 3e, with Zigguraxus as a former home (`wiki.txt:72`). The 4e dominion is Banehold (`wiki.txt:57`). SCAG and the 5e row give none, so the Plane field cites the older editions and is marked [research].

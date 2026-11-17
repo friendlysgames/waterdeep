@@ -101,6 +101,7 @@ Grumbar, the Earthlord, is the neutral god of earth and one of the four elementa
 > **[GM]**
 >
 > #### Draft Notes
+> - **No FRHoF entry:** Heroes of Faerûn has no entry for this god; the page rests on SCAG (2014) and the wiki.
 > - **Conflict, rank:** The wiki calls him a deity in its 5e row and a primordial in its 4e row (`sources/research/pass2-bundles/grumbar/wiki.txt:14` and `:29`), and says he nonetheless kept worshipers and a god's power (`wiki.txt:95`). SCAG lists him in the Faerûnian pantheon with a title, domain and symbol. The page keeps him a god and gives the primordial label as edition history.
 > - **Conflict, gender:** SCAG calls him a god and the wiki infobox says masculine (`wiki.txt:13`), while the wiki's Hordelands text calls Etugen a goddess (`wiki.txt:128`). The page keeps "he" and gives Etugen as a regional form.
 > - **Conflict, Ogrémoch:** *The Inner Planes* has him balance the archomentals Sunnis and Ogrémoch against each other (`wiki.txt:113`), while *Menzoberranzan: City of Intrigue* makes Ogrémoch his child (`wiki.txt:115`). The page states both with their books and does not reconcile them.

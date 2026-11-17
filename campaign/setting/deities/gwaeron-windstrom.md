@@ -91,6 +91,7 @@ Gwaeron Windstrom is the god of tracking, a ranger who was once mortal and was r
 > **[GM]**
 >
 > #### Draft Notes
+> - **No FRHoF entry:** Heroes of Faerûn has no entry for this god; the page rests on SCAG (2014) and the wiki.
 > - **Conflict, domains:** SCAG gives Knowledge and Nature (bundle `5etools.md:5`). The wiki's 5e row adds Forge (`wiki.txt:61`), citing the Player's Handbook, *Xanathar's Guide to Everything* and an Ed Greenwood post. The page follows SCAG and leaves Forge out.
 > - **Conflict, temples:** SCAG says he has no temples (`5etools.md:10`). The wiki infobox says "church = yes" (`wiki.txt:142`) and links a Church of Gwaeron Windstrom page, but the page carries no temple text. The page follows SCAG.
 > - **Conflict, worshipers:** SCAG says rangers of the North (`5etools.md:8`). The wiki's 2e row says "Fisherfolk, sailors, sea merchants" (`wiki.txt:117`), which matches no other worshiper text on its own page. The page leaves the 2e row out and uses the wiki's 3e row.

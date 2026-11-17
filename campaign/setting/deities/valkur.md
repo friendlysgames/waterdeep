@@ -96,6 +96,7 @@ Valkur is the Captain of the Waves, a chaotic good god of sailors, ships and fav
 > **[GM]**
 >
 > #### Draft Notes
+> - **No FRHoF entry:** Heroes of Faerûn has no entry for this god; the page rests on SCAG (2014) and the wiki.
 > - **Settled by the user (Session 51), plane:** The wiki disagrees with itself. Its 2e line puts him in Ysgard (`wiki.txt:85`, `:151`), its 3e line in Warrior's Rest (`wiki.txt:70`), and its 4e line gives his dominion as Warrior's Rest (`wiki.txt:55`). Safe Harbor is his realm in 2e and 3e (`wiki.txt:71`, `:86`). FRHoF gives no plane for him. The page keeps both planes, tagged by edition. The 4e line also has him serving Tempus (`wiki.txt:57`), and that clause is history and not used.
 > - **Conflict, rank:** 2e demipower or lesser power (`wiki.txt:82`), 3e demigod (`wiki.txt:67`), 4e exarch (`wiki.txt:52`), 5e hero-god and lesser deity (`wiki.txt:38`). The page keeps him an independent god in 1492 DR and gives the exarchy as history, as the Red Knight and Tempus pages do. By the user's ruling on the plane (Session 51), the 4e "serving Tempus" clause is history, so he serves no one in 1492 DR.
 > - **Conflict, Fleetswake:** The Dragon Heist entry names Umberlee and "the gods of the sea" only (`sources/adventure-wdh.json:31394`), and the campaign calendar adds Deep Sashelas and Valkur (`campaign/setting/history/09-timekeeping-and-the-festival-calendar.md:82`). The campaign file wins. No bundle for this page explains where the calendar's list came from. [research]

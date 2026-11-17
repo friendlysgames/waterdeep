@@ -62,7 +62,7 @@
 >   - Neither *Dragon Heist* nor *Dungeon of the Mad Mage* names her, and no city festival is tied to her.
 >   - FRHoF says she has almost no temples, and the only temple the sources name is in Tashluta. A shrine of hers in Waterdeep would be a small private one, kept by a plague survivor.
 > - **A cleric PC:** Death Domain (derived; Dungeon Master's Guide). Death is her one SCAG domain (the 2014 Player's Handbook repeats it), and the domain's Touch of Death and Inescapable Destruction suit a god of plague and poison. Life Domain (derived) is the alternative for a priest in the FRHoF mold, who tends the sick to keep her fate from others. The Divine Order that fits is Thaumaturge (derived), because the faith runs on small rites and shrines. This is an evil character, and a cleric of Talona in Waterdeep has no temple to turn to.
-> - **A paladin PC:** Oathbreaker (derived; Dungeon Master's Guide) is the only oath that can serve a chaotic evil goddess, and the fit is loose. Neither FRHoF nor SCAG lists paladins among her followers. A paladin sworn to fight blight and disease stands against her instead, and Oath of the Ancients is the closest oath for that (derived).
+> - **A paladin PC:** Oathbreaker (derived; Dungeon Master's Guide). It is the oath of a paladin who serves an evil power, which suits a chaotic evil goddess of plague and poison. A paladin sworn to fight blight and disease stands against her instead, and Oath of the Ancients is the closest oath for that (derived).
 > - **A warlock PC:** No warlock connection in the sources.
 > - **Campaign ties:** No campaign file uses this power. No campaign file ties a poisoner, an assassin or an apothecary to her, so the page does not either.
 

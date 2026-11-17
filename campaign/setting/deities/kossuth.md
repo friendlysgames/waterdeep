@@ -100,6 +100,7 @@ Kossuth, the Firelord, is the neutral god of fire and of purification through fi
 > **[GM]**
 >
 > #### Draft Notes
+> - **No FRHoF entry:** Heroes of Faerûn has no entry for this god; the page rests on SCAG (2014) and the wiki.
 > - **Conflict, god or primordial:** SCAG prints his title as "God of fire" (bundle `5etools.md:2`) and the wiki's 5e and 3e rows say deity and greater deity (`wiki.txt:18`, `:48`). The wiki's introduction says he was "not considered a true god in the late 15th century DR" but an elemental primordial (`wiki.txt:100`, citing *Forgotten Realms Campaign Guide*, 4e), and its 4e row says primordial (`wiki.txt:33`). The page follows SCAG, gives the primordial account as 4e history and keeps him present in 1492 DR.
 > - **Conflict, domains by edition:** SCAG gives Light only (`5etools.md:4`). The wiki's 3e row gives Destruction, Fire, Renewal, Suffering and Wrath (`wiki.txt:56`). The page gives both and builds the cleric advice on SCAG.
 > - **Conflict, Moradin:** The Kossuth wiki page says Moradin and Flandal Steelskin honored him for the heat of the forge and he barely responded (`wiki.txt:108`). The Moradin research note quotes the Moradin wiki page as saying Moradin had a strategic but friendly alliance with Kossuth, among others (`docs/plans/setting-compendium-research-notes/pass2/batch-k1-moradin-yondalla-maglubiyet.md:182`, citing *Faiths and Pantheons* p.122). This page reports its own wiki line. The Moradin page should say which reading it follows.

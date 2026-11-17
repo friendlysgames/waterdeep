@@ -97,6 +97,7 @@ Istishia is the Water Lord, the elemental god of water itself and not of any par
 > **[GM]**
 >
 > #### Draft Notes
+> - **No FRHoF entry:** Heroes of Faerûn has no entry for this god; the page rests on SCAG (2014) and the wiki.
 > - **Conflict, rank:** The wiki's 5e field says deity (`wiki.txt:14`), its 4e field says primordial (`wiki.txt:29`), and its intro calls him the "neutral primordial deity of elemental water and purification" (`wiki.txt:95`). Earlier editions rate him a lesser power (1e) and a greater deity (2e and 3e). The page keeps him an independent god in 1492 DR and gives the primordial status as another edition's account.
 > - **Conflict, domains:** SCAG gives Tempest (`5etools.md:4`). The wiki's 3e row gives Destruction, Ocean, Storm, Travel and Water (`wiki.txt:52`). Those are 3e domains, so the page follows SCAG and leaves the 3e list out.
 > - **Conflict, alignment:** SCAG and the wiki's 5e, 3e and 2e rows give Neutral (`5etools.md:3`; `wiki.txt:15`, `:45`, `:60`), and the 4e row gives Unaligned (`wiki.txt:30`). The page follows SCAG.

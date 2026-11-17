@@ -109,6 +109,7 @@ Akadi is the neutral god of air, wind and flying creatures, and Waterdhavians wh
 > **[GM]**
 >
 > #### Draft Notes
+> - **No FRHoF entry:** Heroes of Faerûn has no entry for this god; the page rests on SCAG (2014) and the wiki.
 > - **Settled, deity or primordial:** SCAG prints her title as "Goddess of air" (`sources/5etools/deities.json:94-96`, bundle `5etools.md:2`). The wiki's status field says deity (`wiki.txt:13`), its 4e row says primordial (`wiki.txt:52`, `:184`), and its history says she was reported to be a primordial after the Spellplague (`wiki.txt:167`). The page follows SCAG, gives the primordial account as 4e history and keeps her present in 1492 DR.
 > - **Settled, Second Sundering:** The wiki says she left Toril for Abeir during the Second Sundering and still seems to have a presence in Faerûn (`wiki.txt:169`). The departure rests on a novel, and SCAG, the higher source, still lists her as a goddess of Faerûn. The page keeps her present and gives the departure as history.
 > - **Shaundakul's ally list:** `campaign/setting/deities/shaundakul.md:51` lists Akadi as his ally, citing *Faiths & Pantheons* and *Faiths & Avatars*. Akadi's wiki page names Quorlinn and Syranita as allies and does not name him (`wiki.txt:132`). This page reports his page's claim and says her page does not repeat it.

@@ -93,6 +93,7 @@ Savras is the god of divination and fate, a lawful neutral power whom the faithf
 > **[GM]**
 >
 > #### Draft Notes
+> - **No FRHoF entry:** Heroes of Faerûn has no entry for this god; the page rests on SCAG (2014) and the wiki.
 > - **Settled, temples:** SCAG says Savras "has no currently active temples in Faerûn" (research bundle `savras/5etools.md:17`). The wiki says priests worshiped him in temples across Chult in 1490 DR (`savras/wiki.txt:161`, citing *Tomb of Annihilation* p.20). The user ruled that SCAG's line is about the Sword Coast and the north of Faerûn, and that Chult is not on the Sword Coast. The page now says he has no active temples on the Sword Coast and that priests keep temples to him in Chult.
 > - **Conflict, domains:** The PHB p.294 entry lists Knowledge only (`savras/5etools.md:4`). SCAG lists Arcana and Knowledge (`savras/5etools.md:13`), and the wiki's 5e column agrees with SCAG (`savras/wiki.txt:46`). The page follows SCAG.
 > - **Conflict, the prison:** SCAG says Savras was trapped in "Azuth's staff" (`savras/5etools.md:17`). The wiki names it the Scepter of Savras and says Azuth made it (`savras/wiki.txt:157`; `campaign/setting/deities/azuth.md:54`). The page treats the Scepter as the staff of the legend and keeps both names.
