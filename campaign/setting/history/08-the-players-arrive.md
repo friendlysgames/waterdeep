@@ -58,7 +58,7 @@
 - By the morning of Ches 22 Dalakhar has the Stone of Golorr and is carrying it to Trollskull Manor, where he means to deliver it to the party. Which keeper he took it from is unsettled. See Draft Notes.
 - Xanathar's Guild knows Dalakhar was moving the Stone, though it does not know what the Eyes are. Urstul Floxin's Zhentarim cell was tracking him.
 - The Gralhunds funded the Zhentarim seizure of Renaer Neverember to gain leverage over Dalakhar, according to Orond Gralhund, who says Yalah Gralhund arranged it. Source: **Gralhund Villa**, the guest suite.
-- The Cassalanters know the vault lies beneath the Brandath Crypts. Their agents found Eye #2 there by infernal divination, and Victoro Cassalanter visited Kalain a few weeks before the fireball to ask what Dalakhar had asked. The sources give no sign that the family has sped up its plan since the bargain.
+- The Cassalanters know the vault lies beneath the Brandath Mausoleum. Their agents found Eye #2 in the Brandath Crypts by infernal divination, and Victoro Cassalanter visited Kalain a few weeks before the fireball to ask what Dalakhar had asked. The sources give no sign that the family has sped up its plan since the bargain.
 - Nim of the House of Inspired Hands built a second nimblewright about three months before the fireball. It fled the temple about one month before, which puts it near Alturiak 22, 1492 DR. `[research]`
 
 ### The Night Before Ches 1

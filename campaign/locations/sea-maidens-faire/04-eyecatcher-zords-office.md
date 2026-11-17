@@ -2,9 +2,9 @@
 
 Two adjacent private spaces in the Eyecatcher's aft castle, separated from the guest and common areas by a shared secret door in the wardrobe of J28.
 
-**J29 — Guest Cabin:** The room where Zardoz Zord entertains visitors. Comfortable but not ostentatious — three chairs, a side table, maps of the Sword Coast displayed on the walls. Zord meets all guests here first. The persona is in full effect: cheerful, entrepreneurial, slightly flamboyant. A magic mouth trap on the door to J30 triggers if anyone other than Zord opens it (DC 16 Intelligence (Arcana) to detect), releasing a sound like a gong audible throughout the aft castle.
+**J29 — Guest Cabin:** The room where Zardoz Zord entertains visitors. Comfortable but not ostentatious — three chairs, a side table, maps of the Sword Coast displayed on the walls. Zord meets all guests here first. The persona is in full effect: cheerful, entrepreneurial, slightly flamboyant. A magic mouth trap on the door to J30 triggers if anyone other than Zord opens it (DC 16 Intelligence (Arcana) to detect). It shouts loudly enough to be heard throughout the aft castle, and Jarlaxle comes to investigate.
 
-**J30 — Captain's Main Cabin:** Jarlaxle's private space. The magic mouth trap, the jade chess set (2,500 gp, kept on a side table), a nimblewright guard standing in the corner, and a trapdoor in the floor — arcane locked (Jarlaxle's key or DC 20 Dexterity (Thieves' Tools)) — opening to the Scarlet Marpenoth's pressurized hatch collar (U1). The complete ledger is kept here in a locked drawer (DC 16 Thieves' Tools for the drawer; DC 18 Investigation to find within the desk's papers).
+**J30 — Captain's Main Cabin:** Jarlaxle's private space. The magic mouth on the door from J29 shouts, "By the Nine Hells, have you no manners?" at anyone but Jarlaxle who opens it. The room also holds the jade chess set (2,500 gp, kept on a side table), a nimblewright guard standing in the corner, and a trapdoor in the floor — arcane locked (Jarlaxle's key or DC 20 Dexterity (Thieves' Tools)) — opening to the Scarlet Marpenoth's pressurized hatch collar (U1). The complete ledger is kept here in a locked drawer (DC 16 Thieves' Tools for the drawer; DC 18 Investigation to find within the desk's papers).
 
 ### Normal — Fireball Investigation
 
