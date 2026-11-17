@@ -56,7 +56,7 @@
   - The House of Wonder in Waterdeep was dedicated to her in 1215 DR (*The Grand History of the Realms*).
   - In 1358 DR, in the last hour before the gods were cast down to walk Toril, she entrusted a pendant holding some of her power to the wizard Midnight. Bane then captured her, and she sought dissolution. Her avatar attacked Helm at the Celestial Stairway, and he destroyed it in an explosion above Castle Kilgrave (*Shadowdale*; *Waterdeep*, the 2e adventure).
   - At the end of the Godswar, Ao offered the post of god of magic to Midnight, who accepted reluctantly and took Mystra's name to smooth the transition (*Waterdeep*, the 2e adventure; *Faiths & Avatars*). *Dragon Heist* places this on the slopes of Mount Waterdeep.
-  - In 1385 DR the Spellplague gripped the world. *Dragon Heist* says it has since been divined that Cyric's hatred for her boiled over into her murder, and that parts of Toril switched places with parts of another world. The Lathander page records the wiki's 4e account, in which Cyric and Shar killed her.
+  - In 1385 DR the Spellplague gripped the world. *Dragon Heist* says it has since been divined that Cyric's hatred for her boiled over into her murder, and that parts of Toril switched places with parts of another world. FRHoF says Cyric killed her aided by Shar, and the Lathander page gives the same account.
 - **In the campaign:** Mystra is present in 1492 DR. The House of Wonder is a working temple with a high priest, and no file treats her as dead or absent. *Dragon Heist* says her death, rebirth and withdrawal from the world weakened Laeral, and the page treats those events as history (see Draft Notes).
 
 > **[GM]**
@@ -114,7 +114,7 @@ Mystra is the god of magic and of the Weave, the force from which every spell is
 - **Oghma**, **Gond**, **Milil**, **Deneir** (Deities): the cadre she worked with, and the rival among them.
 - **Kelemvor**, **Selûne** (Deities): traditional allies of her Knights.
 - **Cyric** (Deities): the foremost enemy of her Knights and the god blamed for her murder.
-- **Bane**, **Talos**, **Shar** (Deities): the powers who captured her avatar (Bane) or disliked her (Talos, Shar). The 4e wiki account of her death names Cyric and Shar, not Bane or Talos.
+- **Bane**, **Talos**, **Shar** (Deities): the powers who captured her avatar (Bane) or disliked her (Talos, Shar). FRHoF's account of her death names Cyric and Shar, not Bane or Talos.
 - **Helm** (Deities): the god who destroyed her at the Celestial Stairway.
 - **Lathander** (Deities): the page that records the 4e account of her death.
 - **Laeral Silverhand**, **Vajra Safahr, the Blackstaff**, **Manshoon** (Notable Figures): the daughter, the holder of Khelben's staff, and the villain who means to supplant her.
