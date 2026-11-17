@@ -16,27 +16,27 @@
 
 - **Title:** God of Art and Magic (SCAG, 2014; the PHB, 2014, prints "Elf deity of art and magic")
 - **Other Names:** The Protector, Coronal of Arvandor, Ruler of All Elves, First of the Seldarine, Preserver of Life (wiki; *Demihuman Deities*, 2e; *Faiths & Pantheons*, 3e), and Father of Elvenkind (wiki; *Dragon* 408). Orcs insult him as the Big Fairy and the Lord of Cowardice (wiki).
-- **Pantheon:** Elven, the Seldarine (MTF, 2014; SCAG, 2014)
+- **Pantheon:** Elven, the Seldarine (MTF, 2018; SCAG, 2014)
 - **Areas of Concern:** Elves, art, magic, music, poetry and crafts, and war in defense of elvenkind (derived from the MTF text and the wiki portfolio; no entry lists Areas of Concern)
 - **Domains:** Arcana, Life, Light, War (MTF, 2018). SCAG (2014) lists Arcana and Light, and the PHB (2014) lists Light and Arcana.
 - **Symbol:** Quarter moon or starburst (MTF, 2018; the PHB, 2014 agrees). SCAG (2014) gives a crescent moon.
 - **Alignment:** Chaotic Good (SCAG, 2014; MTF and the PHB agree)
 - **Plane:** Arvandor, on Arborea (wiki; the 5e row gives the plane as Arborea and the realm as Arvandor)
-- **Typical Followers:** Elves, especially elf wizards (MTF, 2014)
+- **Typical Followers:** Elves, especially elf wizards (MTF, 2018)
 
 > Live freely and kindly, and solve your own troubles before you pray for help.
 
 ## Influence and Followers
 
 - **Rank:** Corellon is the head of the Seldarine, the elven pantheon, and the creator of the elves. The wiki rates him a greater deity in its 1e to 4e rows and a deity in its 5e row.
-- **His nature:** MTF describes him as chaos and beauty together, as changeable as a breeze or a brook, quick to anger and just as quick to forgive and forget. He loves magic, artistry, nature and freedom. Anyone who has felt his presence calls it a joy like no other, followed by a deep melancholy when it fades (MTF, 2014).
-- **What the faith asks:** Very little. There are no complex rituals, frequent ceremonies or regular prayers. Corellon wants his followers to enjoy life, try new things, pursue what they imagine and be kind to others, and in return they are expected to deal with their own problems instead of praying for help in every crisis. Every elf carries these precepts, because all elves descend from fragments of him (MTF, 2014).
-- **Seeking him:** When elves ask how to sense their creator, priests often tell them to know themselves first (MTF, 2014).
-- **Worship:** Services are held in natural stone amphitheaters or bowl-shaped forest clearings. Each worshiper shows reverence in a personal way, as long as it joins the others in one display, so a gathering feels more like a festival than a service (MTF, 2014).
-- **Wizards:** Many elf wizards honor him and mark their spellbooks and towers with his symbols. Some hold that he is raw magic itself, the primal force under the multiverse, rather than the Weave (MTF, 2014).
+- **His nature:** MTF describes him as chaos and beauty together, as changeable as a breeze or a brook, quick to anger and just as quick to forgive and forget. He loves magic, artistry, nature and freedom. Anyone who has felt his presence calls it a joy like no other, followed by a deep melancholy when it fades (MTF, 2018).
+- **What the faith asks:** Very little. There are no complex rituals, frequent ceremonies or regular prayers. Corellon wants his followers to enjoy life, try new things, pursue what they imagine and be kind to others, and in return they are expected to deal with their own problems instead of praying for help in every crisis. Every elf carries these precepts, because all elves descend from fragments of him (MTF, 2018).
+- **Seeking him:** When elves ask how to sense their creator, priests often tell them to know themselves first (MTF, 2018).
+- **Worship:** Services are held in natural stone amphitheaters or bowl-shaped forest clearings. Each worshiper shows reverence in a personal way, as long as it joins the others in one display, so a gathering feels more like a festival than a service (MTF, 2018).
+- **Wizards:** Many elf wizards honor him and mark their spellbooks and towers with his symbols. Some hold that he is raw magic itself, the primal force under the multiverse, rather than the Weave (MTF, 2018).
 - **Orders:** The wiki lists knightly orders of the faith (*Demihuman Deities*, 2e). They include the Fellowship of the Forgotten Flower, which recovers lost elven relics from abandoned realms, and the Knights of the Golden Wyrm, the Swords of the Seldarine and the Swords of Evereska.
-- **The Mysteries of Arvandor:** This is a rare summons that elves recognize as a call from their creator. Chosen elves receive dreams and waking visions that send them to a gathering, sometimes across hundreds of miles or across planes. Each joins Corellon's body for a time and returns transformed, and not every elf comes back. Shrines to the Mysteries are caves whose ceilings carry painted or carved stars (MTF, 2014).
-- **The blessed of Corellon:** Androgynous elves are proclaimed blessed of Corellon, and many of his chief priests are among them. The rarest can change their sex after a Long Rest, a gift that elves of every kind celebrate except drow, who call it a curse. A drow who manifests it usually flees to the surface to shelter among his faithful (MTF, 2014).
+- **The Mysteries of Arvandor:** This is a rare summons that elves recognize as a call from their creator. Chosen elves receive dreams and waking visions that send them to a gathering, sometimes across hundreds of miles or across planes. Each joins Corellon's body for a time and returns transformed, and not every elf comes back. Shrines to the Mysteries are caves whose ceilings carry painted or carved stars (MTF, 2018).
+- **The blessed of Corellon:** Androgynous elves are proclaimed blessed of Corellon, and many of his chief priests are among them. The rarest can change their sex after a Long Rest, a gift that elves of every kind celebrate except drow, who call it a curse. A drow who manifests it usually flees to the surface to shelter among his faithful (MTF, 2018).
 - **Form and pronouns:** The sources write "he". The wiki says he has no biological sex and can appear as male or female, though he is conventionally an androgynous male elf in a sky-blue cloak, with a crescent moon amulet and dazzling gauntlets (*Demihuman Deities*, 2e). *Dragon Heist* says he is neither male nor female (see Campaign ties).
 - **Messengers and omens:** The wiki lists many servants, among them aasimar, gold and silver dragons, unicorns, lythari, dryads and nymphs, and says the whole Seldarine favors agathinons, asuras and elder treants (*Demihuman Deities*, 2e). His manifestations are a blue aura, shooting stars, a rising blue-tinted crescent moon or a blue star (*Deity Do's and Don'ts*, no edition tagged).
 - **Holy day:** Shieldmeet (wiki, 4e; the 2e, 3e and 5e rows are blank). In 1492 DR it is the leap day after Flamerule 30, past the campaign's Flamerule 11 deadline, and no file ties a city observance to him.
