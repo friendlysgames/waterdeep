@@ -15,7 +15,7 @@
 
 **Motivations.** Avi wants to craft armor that protects without encouraging violence, maintain peace in his marriage and his neighborhood, and honor Eldath through the discipline of her trade.
 
-**Inspirations.** When playing Avi, channel Toph Beifong (*Avatar: The Last Airbender*), Winona Kirk (*Star Trek 2009*), and Essun (*The Fifth Season*).
+**Inspirations.** When playing Avi, channel Iroh (*Avatar: The Last Airbender*), Brother Cadfael (*The Cadfael Chronicles*), and Hank Hill (*King of the Hill*).
 
 ## Character Information
 
