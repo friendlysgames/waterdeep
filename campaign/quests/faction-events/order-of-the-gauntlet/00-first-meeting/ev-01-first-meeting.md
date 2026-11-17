@@ -141,7 +141,7 @@ A character who makes a successful **DC 14 Charisma (Persuasion)** check also he
 >
 > Savra looks at the floor between her boots for a moment and then raises her eyes again, and her voice stays level.
 >
-> > "I was in a cult called the Howling Hatred for three years. I left about three years ago, and the Order took me in afterward, and that is the shape of it."
+> > "I was in a cult called the Howling Hatred for three years. I left about a year ago, and the Order took me in afterward, and that is the shape of it."
 
 > [!qna]**What did you do in it?**
 >

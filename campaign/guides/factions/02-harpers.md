@@ -25,7 +25,7 @@ The Splinter's infiltration of the Waterdeep cell creates complications organica
 
 | Quest | Harper Hook |
 |-----|-------------|
-| **Fireball!** | Mirt quietly tells a Harper character that he suspects Cassalanter money stood behind the Howling Hatred cult three years ago, and that he wants proof. Their sudden interest in the Grand Game worries him. |
+| **Fireball!** | Mirt quietly tells a Harper character that he suspects Cassalanter money stood behind the Howling Hatred cult about a year ago, and that he wants proof. Their sudden interest in the Grand Game worries him. |
 | **Gralhund Villa** | A Harper agent was in the crowd near Gralhund Villa. If the party doesn't report in, Mirt asks directly what they were doing there. |
 | **Faction Outposts** | Harper informants can be activated against Xanathar and Splinter outposts (Wise Owl, Renown 25). One informant inside the Sea Maidens Faire reports Jarlaxle has been asking about the party. |
 | **Xanathar's Lair** | Mirt wants Nihiloor dead — the mind flayer's intellect devourers have touched three Harper assets. He offers tactical support for the Xanathar lair heist if the party commits to eliminating Nihiloor. Nihiloor always escapes, so the support rests on a real attempt, not a kill. |

@@ -238,7 +238,7 @@ No single piece is sufficient on its own. The party assembles the reveal from th
 
 ## Scene 6: Aftermath
 
-**Purpose.** Resolve the raid. No Eye to insert, no Stone upgrade. Instead: deliver the intelligence haul, record the Manshoon faction state, stage the identity reveal through faction debriefs, and position the party for **Vault of Dragons**. Scene 6 is shorter than in prior quests — the dramatic question of **Kolat Towers** resolves on a strategic rather than an emotional register. The party has done something violent and decisive; the aftermath reflects that.
+**Purpose.** Resolve the raid. No Eye to insert, no Stone upgrade. Instead: deliver the intelligence haul, mark the Manshoon Event Outcome, stage the identity reveal through faction debriefs, and position the party for **Vault of Dragons**. Scene 6 is shorter than in prior quests — the dramatic question of **Kolat Towers** resolves on a strategic rather than an emotional register. The party has done something violent and decisive; the aftermath reflects that.
 
 **Content.**
 
@@ -252,19 +252,19 @@ No single piece is sufficient on its own. The party assembles the reveal from th
 
 **Lady Gondafrey's Freedom (K13, if freed).** Gondafrey is not merely a rescued prisoner — she is a living witness who can testify before the Masked Lords Council about Manshoon's political infiltration, the blackmail operation's scope, and the simulacrum's nature. Her 113-year captivity is itself evidence. Savra will take Gondafrey to the Order's care immediately and arrange the testimony. Gondafrey herself has one request: to be present when the ledger is delivered to Laeral.
 
-*Faction State: "Manshoon Operational?"*
+*Manshoon Event Outcomes.*
 
-Three values; this Event Outcome is read directly in **Vault of Dragons**.
+Record one of three Manshoon Event Outcomes. Each is read directly in **Vault of Dragons**.
 
-- **Destroyed.** Both Manshoon (the clone of a clone) and the simulacrum were eliminated during the raid. The Splinter cell collapses within a tenday — Vevette (if alive) attempts to hold the surviving operatives together but lacks Manshoon's authority and his clone-network insurance. No Manshoon at the Vault. The party arrives at **Vault of Dragons** facing Aurinax without a third-party obstacle.
-- **Simulacrum Only.** Manshoon was destroyed but the simulacrum survived and escaped (or was not found). The simulacrum has no 6th-level or higher spell slots and no staff of power. It arrives at the Vault with reduced capabilities and diminished tactical creativity — it can execute plans Manshoon taught it but cannot adapt to novel situations effectively.
-- **Alive.** Manshoon survived (escaped, negotiated, or was never reached). He arrives at the Vault at full strength with surviving lieutenants and the staff of power. The hardest **Vault of Dragons** configuration. He will have had time to prepare.
+- **Manshoon Destroyed.** Both Manshoon (the clone of a clone) and the simulacrum were eliminated during the raid. The Splinter cell collapses within a tenday — Vevette (if alive) attempts to hold the surviving operatives together but lacks Manshoon's authority and his clone-network insurance. No Manshoon at the Vault. The party arrives at **Vault of Dragons** facing Aurinax without a third-party obstacle.
+- **Manshoon Simulacrum Only.** Manshoon was destroyed but the simulacrum survived and escaped (or was not found). The simulacrum has no 6th-level or higher spell slots and no staff of power. It arrives at the Vault with reduced capabilities and diminished tactical creativity — it can execute plans Manshoon taught it but cannot adapt to novel situations effectively.
+- **Manshoon Alive.** Manshoon survived (escaped, negotiated, or was never reached). He arrives at the Vault at full strength with surviving lieutenants and the staff of power. The hardest **Vault of Dragons** configuration. He will have had time to prepare.
 
 *All-Seven-Faction Debriefs.*
 
 **Mirt (Harpers).** Wants the ledger, and specifically wants to review the identity list before Laeral receives it. "I volunteered" is the context he provides — he became a Masked Lord knowing Manshoon's network existed and chose to be legible to it rather than to fight it from cover. He is not apologizing. If the Manshoon Identity Reveal is fully assembled, Mirt is quiet for a moment before responding: "Clone of the Founder. Of course. That's why he could never be bargained with — he has nowhere to retreat to. He's already been everywhere."
 
-**Jalester Silvermane (Lords' Alliance).** "Is Manshoon neutralized?" Direct and operational. If alive: "Then he will be at the Vault. We plan accordingly." If destroyed: brief satisfaction, then immediately to the next question — the identity list and its implications for Watch patrol integrity. He will want to know which Watch officers Manshoon's Masked Lord contacts influenced.
+**Jalester Silvermane (Lords' Alliance).** "Is Manshoon neutralized?" Direct and operational. If **Manshoon Alive** is marked: "Then he will be at the Vault. We plan accordingly." If **Manshoon Destroyed** is marked: brief satisfaction, then immediately to the next question — the identity list and its implications for Watch patrol integrity. He will want to know which Watch officers Manshoon's Masked Lord contacts influenced.
 
 **Melannor Fellbranch (Emerald Enclave).** "Is the force field down?" If the K18 rune was destroyed, Melannor is relieved — four decades of environmental damage to the Southern Ward block. He sends a junior member to begin soil remediation. If the barlgura escaped during the raid and is unaccounted for, Melannor is alarmed; he begins tracking within the hour.
 
@@ -280,7 +280,7 @@ Three values; this Event Outcome is read directly in **Vault of Dragons**.
 
 *Transition.* The party holds the Stone of Golorr with between 0 and 3 Eyes. If 3 Eyes are restored, **Vault of Dragons** launches — the Full Awakening has already occurred and the Vault's location is known; **Kolat Towers**'s intelligence confirms the approach route. If Eyes remain unrestored, other lair heists are still available; the intelligence haul from **Kolat Towers** (specifically Manshoon's Report on the Grand Game) enriches whichever quests follow. The Report's partial command phrase is a direct **Vault of Dragons** hook regardless of Eye count — the party knows the phrase is partially decoded and that completing it requires either the Stone's Full Awakening or additional research.
 
-**Tone.** Tactical decompression. **Kolat Towers**'s aftermath has a different texture than the prior lair heists' endings: no revelatory awakening (**Xanathar's Lair**), no moral reckoning (**Cassalanter Villa**), no relationship reassessment (**Sea Maidens Faire**). This is strategic positioning — the party has done a violent thing that was necessary, has recovered intelligence that changes the **Vault of Dragons** situation, and has set a faction state flag that will determine what they face at the Vault. Professional satisfaction or grim assessment, depending on how the operation went.
+**Tone.** Tactical decompression. **Kolat Towers**'s aftermath has a different texture than the prior lair heists' endings: no revelatory awakening (**Xanathar's Lair**), no moral reckoning (**Cassalanter Villa**), no relationship reassessment (**Sea Maidens Faire**). This is strategic positioning — the party has done a violent thing that was necessary, has recovered intelligence that changes the **Vault of Dragons** situation, and has marked a Manshoon Event Outcome that will determine what they face at the Vault. Professional satisfaction or grim assessment, depending on how the operation went.
 
 ---
 
@@ -316,7 +316,7 @@ The quest's encounters are calibrated for the 4th–7th level range this flexibi
 - **Cassalanter Villa** (Cassalanter Report on the Grand Game) — identifies Kolat Towers' Southern Ward location. Three Clue Rule path to **Kolat Towers**.
 - **Sea Maidens Faire**, J30 (Jarlaxle's Report) — references Manshoon's operations. Three Clue Rule path to **Kolat Towers**.
 - **Sea Maidens Faire**, Scene 5 (Zhentarim Strike Team) — pass-amulets recoverable from defeated Zhentarim. Entry method for **Kolat Towers**. Jarlaxle's "They came to my ship" motivation.
-- **Vault of Dragons** — "Manshoon operational?" flag + intelligence haul (Report on the Grand Game, partial command phrase) directly shape the Vault approach.
+- **Vault of Dragons** — the Manshoon Event Outcome (**Manshoon Destroyed**, **Manshoon Simulacrum Only** or **Manshoon Alive**) + intelligence haul (Report on the Grand Game, partial command phrase) directly shape the Vault approach.
 - **Notable Figures** — Existing profiles: Manshoon, Sidra Romeir, Manafret Cherryport, Vevette Blackwater, Agorn Fuoco, Urstul Floxin, Lady Gondafrey, Skeemo Weirdbottle. New profiles needed: Kaevja Cynavern, Havia Quickknife, Mookie Plush, Yorn the Terror.
 - **the Bestiary (not yet drafted)** — Boss stat block needed: Manshoon (with simulacrum mechanic distinction). Standard stat blocks needed: Havia Quickknife, Mookie Plush.
 - the **Faction Events** quest journals (Doom Raiders Missions 5–6) — intelligence products feeding Scenes 1 and 2.

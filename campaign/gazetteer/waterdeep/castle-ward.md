@@ -149,7 +149,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 > **[GM]**
 >
 > #### GM Notes
-> - She spent three years in the Howling Hatred cult and left about three years ago. She tells this to anyone who asks her sincerely, and what she did there only to a member she trusts.
+> - She spent three years in the Howling Hatred cult and left it in 1491 DR, about a year ago. She tells this to anyone who asks her sincerely, and what she did there only to a member she trusts.
 
 ## Life in the Ward
 
@@ -267,7 +267,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 > - **Conflicts:** Castle Waterdeep, kept as the campaign has it. The wiki (2e) says the castle holds up to 540 prisoners in 90 cells and was the seat of the city's government; the page has a custody wing built for 30 that holds 61, and says the castle is not the seat of government (Dragon Heist supports the page).
 > - **Settled by the user (Session 51):** The City Guard and the City Watch stay two services. The wiki's 1479 DR fold (*Forgotten Realms Campaign Guide*, 4e) is not used, because Dragon Heist keeps two services in 1492 DR.
 > - **Settled by the user (Session 51):** Alignments follow canon. Savra Belabranta is Neutral Good (Dragon Heist `adventure-wdh.json:3949` and the wiki) and Vajra Safahr is Lawful Neutral (wiki, 5e). Saeth, Durnan and Mirt match the wiki.
-> - **Conflicts:** Savra's time in the Howling Hatred. The page says she left about three years ago. The wiki places her in the cult during the 1491 DR crisis, about a year before the campaign (*Princes of the Apocalypse*). The page keeps the campaign value.
+> - **Settled by the user (Session 51):** Savra's time in the Howling Hatred. She left it in 1491 DR, about a year before the campaign. *Princes of the Apocalypse* has the air cult indoctrinate her during that adventure and frees her if the heroes defeat the cult and destroy Windvane, and the campaign's 1492 DR starts after those events.
 > - **Conflicts:** Tower of Luck. The Dragon Heist temple table lists it in the Castle Ward; the Dragon Heist Sea Ward text and the retired Waterdeep outline place it in the Sea Ward. Ruling 1 (the published adventure wins on temples) follows the table, so it is a Castle Ward temple, and the split is stated on this page and the **Sea Ward** page. the retired Waterdeep outline also puts the Selûne temple in the Sea Ward, which the table agrees with.
 > - **Conflicts:** Temple of Helm. The Dragon Heist temple table places Helm's Hall in the Southern Ward, and ruling 1 follows it, so the Temple of Helm is not a Castle Ward temple. The earlier Castle Ward placement came from `player-factions-overview.md` (line 99) and the Order of the Gauntlet files.
 > - **Settled by the user (Session 51):** The Watch's main base is the Palace of Waterdeep, in the Castle Ward (wiki). The old outline's separate Watch headquarters in the ward (the retired Waterdeep outline line 14) is not used. **Still open, not part of this ruling:** the Masked Lords' seat, which is unsourced.

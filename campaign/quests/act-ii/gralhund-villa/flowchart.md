@@ -102,10 +102,10 @@ Milestone 1 fires in exactly one confrontation event per playthrough — ev-06 (
 | Front Door Visit Recorded | ev-03b | ev-09 (Yalah's debrief attitude) |
 | Balcony Entry Used | ev-03c | ev-07 (the party bypasses ev-04) |
 | Pantry Entry Used | ev-03c | ev-04 (the raid begins in the kitchen corridor) |
-| Gazers Active at Night | ev-03c | No event reads it yet |
+| Gazers Active at Night | ev-03c | **Dungeon of the Mad Mage** (reserved) |
 | Floxin Alive | ev-04 | **Kolat Towers** (Manshoon response team) |
-| Floxin Captured | ev-04 | No event reads it yet |
+| Floxin Captured | ev-04 | **Dungeon of the Mad Mage** (reserved) |
 | Stone Secured | ev-06 or ev-07 | ev-08 trigger (fires when not marked); ev-09 (Stone status check, Milestone 2, Jarlaxle package, BD debrief) |
 | Stone Recovered | ev-08 | ev-09 (Milestone 2, BD debrief) |
-| Yalah Missing, Yalah In Custody | ev-09 | No event reads them yet |
+| Yalah Missing, Yalah In Custody | ev-09 | **Dungeon of the Mad Mage** (reserved) |
 | Istrid Horn Helped / Istrid Horn Turned In | ev-09 | **Faction Outposts** (Doom Raiders renown) |

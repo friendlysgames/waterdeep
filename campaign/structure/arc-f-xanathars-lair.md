@@ -243,7 +243,7 @@ Once Stage 3 fires, the party has approximately 4 minutes before Ahmaergo's team
 
 ## Scene 6: Aftermath
 
-**Purpose.** Resolve the heist. Insert the Eye. The Stone of Golorr wakes for the first time. Faction states shift. The party debriefs, recovers, and pivots toward the next target.
+**Purpose.** Resolve the heist. Insert the Eye. The Stone of Golorr wakes for the first time. Event Outcomes are marked. The party debriefs, recovers, and pivots toward the next target.
 
 **Content.**
 
@@ -275,13 +275,13 @@ The attuned character hears a voice for the first time. It is not warm. It is ol
 
 **If this is the third Eye restored (both **Cassalanter Villa** and **Sea Maidens Faire** already completed).** The Stone goes still, then speaks with sudden, precise clarity. The fragmentary impressions are gone. The vault's location, the command phrase, and the nature of its guardian resolve in full. Run the 3-Eye disclosure scene from **Vault of Dragons** at this point. Quest order does not change the awakening, only its timing.
 
-*Faction State Changes.*
+*Event Outcomes.*
 
-**Xanathar's Guild:** Set the "Xanathar operational?" flag to one of three states:
+**Xanathar's Guild:** Record one of three Xanathar Event Outcomes:
 
-- *YES — Xanathar alive, Eye taken:* It doesn't know immediately what was stolen. It notices Sylgar's bowl was disturbed within hours. When it identifies what is missing — days of interrogation later — its response will be disproportionate. The party is now personally known to Xanathar. This intensifies **Vault of Dragons**'s difficulty.
-- *WOUNDED — Xanathar alive, fought and fled:* As above, plus Ahmaergo takes over lair security. Xanathar is less effective in **Vault of Dragons** but more enraged.
-- *GONE — Lair demolished or Xanathar killed:* Guild collapses into Ahmaergo-led factional fighting. Response teams disbanded. Nihiloor escapes to Undermountain Level 17. The party permanently loses Guild intelligence as a resource. **Vault of Dragons**'s approach routes through former Guild contacts who are now independent actors.
+- **Xanathar Intact** (Xanathar alive, Eye taken): It doesn't know immediately what was stolen. It notices Sylgar's bowl was disturbed within hours. When it identifies what is missing — days of interrogation later — its response will be disproportionate. The party is now personally known to Xanathar. This intensifies **Vault of Dragons**'s difficulty.
+- **Xanathar Wounded** (Xanathar alive, fought and fled): As above, plus Ahmaergo takes over lair security. Xanathar is less effective in **Vault of Dragons** but more enraged.
+- **Xanathar Gone** (lair demolished or Xanathar killed): Guild collapses into Ahmaergo-led factional fighting. Response teams disbanded. Nihiloor escapes to Undermountain Level 17. The party permanently loses Guild intelligence as a resource. **Vault of Dragons**'s approach routes through former Guild contacts who are now independent actors.
 
 **Manshoon's Zhentarim Splinter.** Monitoring via agents watching the lair's entrances. If Xanathar is weakened or eliminated, Manshoon moves within days to absorb abandoned Guild territory. His alert tier increases if the party was observed.
 
@@ -342,7 +342,7 @@ This quest's transition is open. The three remaining lair heists (**Cassalanter 
 - **Cassalanter Villa** — Stone 1-Eye impressions (Sea Ward villa, hidden temple) point toward **Cassalanter Villa**. Cassalanter faction state reflects what the party's Cassalanter relationship has been.
 - **Sea Maidens Faire** — Stone 1-Eye impressions (ship in harbor, dark-skinned elf) and Report on Seven Masks Theater (X35) both point toward **Sea Maidens Faire**. Jarlaxle's simultaneous heist outcome shapes **Sea Maidens Faire** stakes directly.
 - **Kolat Towers** — Samara's testimony (X7), Nihiloor's Manshoon intelligence (X23), and a third clue seeded in **Cassalanter Villa** form the Three Clue Rule paths to **Kolat Towers**.
-- **Vault of Dragons** — "Xanathar operational?" flag set in Scene 6 Aftermath affects **Vault of Dragons**'s difficulty and approach options.
+- **Vault of Dragons** — the Xanathar Event Outcome (**Xanathar Intact**, **Xanathar Wounded** or **Xanathar Gone**) recorded in Scene 6 Aftermath affects **Vault of Dragons**'s difficulty and approach options.
 - **Undermountain (future)** — Nihiloor's escape to Level 17, the crypt of previous Xanathars (the title, not the beholder), and the Mad Mage seed in the Stone's 1-Eye awakening are all threads the Undermountain arc will resolve. The emergency descent via X4 to Undermountain Level 1 may be used in a failure scenario.
 
 ---

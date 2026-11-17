@@ -10,7 +10,7 @@ Trigger A is now per member and fixed in time and place: Renown 3, 3rd level, on
 
 ## Timeline and Voice
 
-The cult tenure is three years and Savra left about three years ago, matching the First Meeting. Her statement to the Halls of Justice leads to the arrests, and two arrested members are released within the month, which joins her story to Mirt's intel without her knowing the cause. She swears once, at her own failure, in line with her voice profile. She gives no nod until The Ask, where the table fixes her reply to each kind of answer and the nod goes only to answers that say what the member will do.
+The cult tenure is three years and Savra left in 1491 DR, about a year ago, matching the First Meeting. Her statement to the Halls of Justice leads to the arrests, and two arrested members are released within the month, which joins her story to Mirt's intel without her knowing the cause. She swears once, at her own failure, in line with her voice profile. She gives no nod until The Ask, where the table fixes her reply to each kind of answer and the nod goes only to answers that say what the member will do.
 
 ## Departures from the Source
 
