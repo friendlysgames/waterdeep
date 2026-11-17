@@ -128,7 +128,7 @@ Maglubiyet is the lawful evil god of war and the ruler of the goblinoid gods. Go
 > **[GM]**
 >
 > #### Draft Notes
-> - **Conflict, alignment:** The PHB and the wiki's 5e and 2e rows give lawful evil (`research/deities/maglubiyet/5etools.md:3`; `wiki.txt:36` and `:80`). The wiki's 3e row gives neutral evil (`wiki.txt:65`). The page uses lawful evil.
+> - **Conflict, alignment:** The PHB and the wiki's 5e and 2e rows give lawful evil (`sources/research/pass2-bundles/maglubiyet/5etools.md:3`; `wiki.txt:36` and `:80`). The wiki's 3e row gives neutral evil (`wiki.txt:65`). The page uses lawful evil.
 > - **Conflict, plane:** The wiki's 5e row gives Acheron (`wiki.txt:38`), the 2e and 3e rows add Avalas and Clangor (`:67-68`, `:82-83`), the 4e row gives Banehold (`:52`), and the 1e row gives the Nine Hells (`:96`). The page uses Acheron, Clangor and Avalas and shows the 1e answer beside them.
 > - **Conflict, domains and symbol:** The PHB gives War and Order and a bloody axe (`5etools.md:4-5`). The wiki's 3e row lists eight 3e domains and no Order (`wiki.txt:72`), and its 5e row adds "headsman's" to the symbol (`:37`). The page uses the PHB and leaves the 3e list out.
 > - **Conflict, edition (rank):** The wiki says Bane made him an exarch in the 4e era (`wiki.txt:49-54` and `:274`). The campaign treats every power as present in 1492 DR, and the wiki says he later returned to greater status, so the page gives the exarch period as history. `campaign/setting/deities/bane.md:45` and `:56` list him among Bane's servants without saying the service ended.
@@ -141,5 +141,5 @@ Maglubiyet is the lawful evil god of war and the ruler of the goblinoid gods. Go
 > - **Left out:** The wiki's avatar powers, tactics and possessions, the Baldur's Gate III worshipers and quotes, the wiki's other notable worshipers (Magalvahg, the Malauthar and Skaran Bendbone), the sons he disposed of, the goddesses Luthic and Kikanuti, the kobold god Kurtulmak, the norkers and banderhobbs, the bladelings, the class tables, and the note on the Turkish meaning of his name. None has a Waterdeep or campaign use.
 > - **No Never reveal bullet:** No secret attaches to him. The Vault of Dragons fresco is the only guarded item and sits in the GM Notes.
 > - **Hub:** No row in the hub's temples table. His hub rows are War and Order (PHB, 2014), Lawful Evil and War Domain (derived), and one row in "The powers of other peoples".
-> - **Checks for other pages:** `bane.md:119`, `zariel.md:93` and `moradin.md:107` mark Maglubiyet "(Deities, page planned)"; drop the note when this page lands.
+> - **Checks for other pages:** Settled: `bane.md:119`, `zariel.md:94` and `moradin.md:107` now read "(Deities)", so their cross-references point to this live page.
 > - **Not run:** `voicecheck.py` was not run, since this drafting agent has no shell. The main session runs it.

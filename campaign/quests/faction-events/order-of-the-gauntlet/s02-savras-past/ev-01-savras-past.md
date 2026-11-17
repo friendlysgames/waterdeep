@@ -16,7 +16,7 @@
 > - Savra was in the Howling Hatred for three years and left it in 1491 DR, about a year ago, on the night of the storm. She joined the Order of the Gauntlet after she left.
 > - She held the stairwell door while four initiates were bound to the roof parapet. She stopped two of the four from going over and could not stop the other two.
 > - She saw one of the two who fell catch a drainpipe. She has never learned whether he lived, and she has never asked.
-> - Two days later she gave the Halls of Justice every name she knew. Within a tenday the Watch made arrests, and the high priest was gone before they reached the tower.
+> - Two days later she gave the Halls of Justice every name she knew. The cult was defeated in the north, and within a tenday the Order's chapter in Waterdeep arrested the remaining agents. The high priest was gone before they reached the tower.
 > - Two of those arrested were released within the month. The Watch told Savra there was not enough evidence, and she believed it.
 > - Savra never traced the cult's money. It came through a courier and notes in a formal hand, and she suspects old Waterdhavian money without naming a house.
 > - Nothing in the campaign settles who paid. The Event leaves the Cassalanters a suspicion, and Savra neither confirms nor denies them.
@@ -81,7 +81,7 @@ The Cassalanter suspicion reaches an Order member by two routes, and either one 
 >
 > Saeth laughs shortly and waves the barmaid over for a second round.
 >
-> > "That was a year back, friend. A tower full of fools in the Dock Ward, preaching at the wind. We took the lot of them inside a tenday, and I'd have bet my pension it was done."
+> > "That was a year back, friend. A tower full of fools in the Dock Ward, preaching at the wind. The lot of them were locked up inside a tenday, and I'd have bet my pension it was done."
 
 > [!qna]**Two of them walked?**
 >
@@ -112,7 +112,7 @@ The east annex stands behind the main hall of the Halls of Justice, and the side
 > - The Howling Hatred was an elemental air cult that worked in Waterdeep until 1491 DR, about a year ago. It served Yan-C-Bin, the Prince of Evil Air, and preached that walls, contracts and gold kept the world from his wind.
 > - Its ranks ran from Initiate through Windwalker to Windcaller, and a few ordained leaders sat above them. The rank names are invented for this campaign.
 > - It met in a derelict Dock Ward tower for its last two years. Member offerings could not have paid for the tower, so money came from outside.
-> - It broke in a single tenday of arrests. The high priest was never found, and no Watch record names the source of the money.
+> - The cult was defeated in the north, and the Order's chapter in Waterdeep arrested the remaining agents within a tenday. The high priest was never found, and no Watch record names the source of the money.
 > - It is not active during the campaign, and its surviving members scattered or recanted.
 
 ### What She Did

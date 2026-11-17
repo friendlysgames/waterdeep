@@ -15,7 +15,7 @@
 
 **Motivations.** Korgstrod wants to maintain discipline in the sewer hideout and earn Xanathar's favor by running the Orb Confectioners operation without trouble.
 
-**Inspirations.** When playing Korgstrod, channel Vernon Dursley (*Harry Potter*, the authoritarian who does not understand what he controls), General Grievous (*Star Wars*, the capable commander with a systemic failure), and any mid-level bureaucrat who is certain the problem is personal inadequacy.
+**Inspirations.** When playing Korgstrod, channel Vernon Dursley (*Harry Potter*, the authoritarian who does not understand what he controls), General Grievous (*Star Wars*, the brutal officer who treats his own troops as expendable), and any petty overseer who is certain that harsher discipline will fix whatever has gone wrong in the hideout.
 
 ## Character Information
 

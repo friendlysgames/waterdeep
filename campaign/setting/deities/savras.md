@@ -76,7 +76,7 @@ Savras is the god of divination and fate, a lawful neutral power whom the faithf
 
 ## Source References
 
-- Deity research note (SCAG p.21 entry, 2014): title, other names, alignment, domains, symbol, the mirror chant, the absence of active temples, library and scriptorium shrines, the decorated staffs and the legend of the staff. Marked "SCAG, 2014" where used. The PHB p.294 entry repeats the title, alignment and symbol and lists Knowledge as the only domain. The deity has no FRHoF entry.
+- Deity research note (SCAG p.21 entry, 2014): title, other names, alignment, domains, symbol, the mirror chant, the absence of active temples on the Sword Coast, library and scriptorium shrines, the decorated staffs and the legend of the staff. Marked "SCAG, 2014" where used. The PHB p.294 entry repeats the title, alignment and symbol and lists Knowledge as the only domain. The deity has no FRHoF entry.
 - `sources/adventure-wdh.json`: the Major Temples of Waterdeep table (caption at line 30910, no Savras row; Holyhands House at line 30924) and the Gods' Day entry (line 31536). A search of `sources/adventure-wdh.json` and `sources/adventure-wdmm.json` for Savras, the All-Seeing, the Third Eye and Divination's Lord found no match.
 - `campaign/setting/deities/azuth.md:53-55`: the duel, the Scepter of Savras and the release. `campaign/setting/deities/mystra.md:48`: Mystra's sponsorship and the rivalry. `campaign/setting/deities/deneir.md:44`: Deneir's standing with the gods of magic.
 - `campaign/guides/trollskull-manor/09-response-teams-at-the-tavern.md:69` and `campaign/structure/arc-e-faction-outposts.md:283`: the campaign's "Third Eye", which is an Eye of the Stone of Golorr.
