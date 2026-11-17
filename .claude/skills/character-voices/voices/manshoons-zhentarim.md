@@ -136,7 +136,7 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 
 ---
 
-### Amath Seccent
+### Amath Sercent
 *A well-mannered Banite priestess whose courtesy is the calm of absolute certainty.*
 
 - **Sound:** A clear, composed, courteous voice, never warm and never cold.
