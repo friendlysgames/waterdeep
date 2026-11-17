@@ -19,11 +19,11 @@
 
 ## Character Information
 
-**Persona.** To the world, Agorn Fuoco is a bard who attends the theater, keeps excellent company, and does occasional work for the Zhentarim that he does not ask about too carefully. To those who capture him, he offers his pass-amulet, Amath Seccent's address, Manshoon's general operational structure, and whatever else occurs to him — starting immediately and working outward from least to most useful, in the order most likely to buy another minute. Deep down, he would rather be playing music.
+**Persona.** To the world, Agorn Fuoco is a bard who attends the theater, keeps excellent company, and does occasional work for the Zhentarim that he does not ask about too carefully. To those who capture him, he offers his pass-amulet, Amath Sercent's address, Manshoon's general operational structure, and whatever else occurs to him — starting immediately and working outward from least to most useful, in the order most likely to buy another minute. Deep down, he would rather be playing music.
 
 **Morale.** In a fight, Agorn attempts to flee immediately. If capture is certain, he begins trading information before anyone asks.
 
-**Relationships.** Agorn is a Manshoon lieutenant and bard, the partner of Amath Seccent, whom he visits at Yellowspire in the evenings, a pass-amulet holder for Kolat Towers, and a man whose mother lives in Mistshore and knows nothing about any of this.
+**Relationships.** Agorn is a Manshoon lieutenant and bard, the partner of Amath Sercent, whom he visits at Yellowspire in the evenings, a pass-amulet holder for Kolat Towers, and a man whose mother lives in Mistshore and knows nothing about any of this.
 
 ## Overview
 

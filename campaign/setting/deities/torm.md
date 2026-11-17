@@ -103,7 +103,7 @@ Torm is the lawful good god of courage and self-sacrifice, and his symbol is a w
 - `campaign/quests/faction-events/order-of-the-gauntlet/r03-marcheon/ev-01-marcheon.md`: the Chapel of the Steadfast Shield, its briefings and the priests' rule on names (lines 201 to 234, with the rule at 206).
 - `campaign/quests/faction-events/order-of-the-gauntlet/r50-righteous-hand/ev-01-righteous-hand.md`: the investiture words (line 106), the writ and lodging (lines 139 and 143) and the Mad Mage seeds (lines 309 to 312).
 - `campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md` (line 28).
-- `campaign/setting/organizations/04-order-of-the-gauntlet.md` and `campaign/setting/notable-figures/order-of-the-gauntlet/01-savra-belabranta.md`: the Waterdeep chapter, the priests of the Triad and Savra.
+- `campaign/setting/organizations/04-order-of-the-gauntlet.md` and `campaign/setting/notable-figures/order-of-the-gauntlet/01-savra-belabranta.md`: the Waterdeep chapter, the priests of its three temples and Savra.
 - `campaign/guides/gm-guide/player-factions-overview.md` (line 99): the three temples and the statement that no list names the Cassalanters.
 - `campaign/setting/history/09-timekeeping-and-the-festival-calendar.md` (lines 28 and 111): Shieldmeet in 1492 DR and Gods' Day.
 - `campaign/setting/deities/tyr.md` and `zariel.md`: the Triad account and the Thavius Kreeg line.

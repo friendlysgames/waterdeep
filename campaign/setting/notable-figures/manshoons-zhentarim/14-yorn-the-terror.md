@@ -3,7 +3,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - *Human enforcer, neutral evil*. Stat block: **Gladiator**.
+> - *Half-orc enforcer, neutral evil*. Stat block: **Gladiator**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Kolat Towers**
 
@@ -27,4 +27,4 @@
 
 ## Overview
 
-An enforcer stationed in Kolat Towers' extradimensional sanctum. He does not introduce himself. The epithet "the Terror" was not self-applied, and the professionals who gave it to him knew what they were talking about.
+A half-orc enforcer stationed in Kolat Towers' extradimensional sanctum. He does not introduce himself. The epithet "the Terror" was not self-applied, and the professionals who gave it to him knew what they were talking about.

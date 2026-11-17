@@ -27,13 +27,13 @@ He keeps a simulacrum in Kolat Towers as the clone's insurance, and it fights wh
 - **Urstul Floxin** — Illuskan human assassin, lawful evil. Thuggish leader who ran both the Dalakhar capture attempt and the Gralhund Villa operation. If he survives the Villa, he leads a response team later in the campaign. Carries the *Directive to Urstul Floxin*: prisoners from other factions are to be delivered to Avareen in Brindul Alley. See the **Urstul Floxin** page in Notable Figures.
 - **Avareen Windrivver** — Human spy (Zhentarim interrogator), lawful evil. Spy maintaining the Interrogation House alongside Zorbog. Carries a pass-amulet to Kolat Towers. See the **Avareen Windrivver** page in Notable Figures.
 - **Zorbog Jyarkoth** — Human thug (Zhentarim), neutral evil. Thug, Avareen's partner at the Interrogation House. See the **Zorbog Jyarkoth** page in Notable Figures.
-- **Amath Seccent** — Human priest of Bane, lawful evil. Banite priestess occupying Yellowspire, allied with Manshoon. Friends with Agorn Fuoco, who visits when he wants company. See the **Amath Seccent** page in Notable Figures.
+- **Amath Sercent** — Mulan human priest of Bane, lawful evil. Banite priestess occupying Yellowspire, allied with Manshoon. Friends with Agorn Fuoco, who visits when he wants company. See the **Amath Sercent** page in Notable Figures.
 - **Vira Solkan** — Human mage (Manshoon plant), neutral evil. See the **Vira Solkan** page in Notable Figures.
 - **Manafret Cherryport** — Lightfoot halfling mage (Kolat Towers cook), neutral evil. See the **Manafret Cherryport** page in Notable Figures.
 - **Kaevja Cynavern** — Human mage, lawful neutral. See the **Kaevja Cynavern** page in Notable Figures.
 - **Havia Quickknife** — Lightfoot halfling adept, lawful evil. See the **Havia Quickknife** page in Notable Figures.
 - **Mookie Plush** — Lightfoot halfling adept, lawful evil. See the **Mookie Plush** page in Notable Figures.
-- **Yorn the Terror** — Human enforcer, neutral evil. See the **Yorn the Terror** page in Notable Figures.
+- **Yorn the Terror** — Half-orc enforcer, neutral evil. See the **Yorn the Terror** page in Notable Figures.
 
 ## Cross-References
 

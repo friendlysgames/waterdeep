@@ -76,7 +76,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 
 **Yellowspire** — Banite tower
 - A tower of pale yellow brick, locally called the House of Tyranny by those inside. Black handprints cover every interior surface.
-- Amath Seccent (Lawful Evil, Human, she/her), a well-mannered woman in common clothes, keeps the tower with four followers, and visitors find them at ease with the handprints.
+- Amath Sercent (Lawful Evil, Mulan Human, she/her), a well-mannered woman in common clothes, keeps the tower with four followers, and visitors find them at ease with the handprints.
 - Hook: a teleportation circle in the basement links to Kolat Towers. **Faction Outposts** and the Doom Raiders heist both target it.
 
 > **[GM]**
@@ -222,7 +222,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 - `sources/adventure-wdh.json` Ch.9 "Castle Ward" (lines 31003-31027), plus the temple table (30921-30998), the city-life, Watch and Guard text (30440-30650), the walking statues (31186-31279), festivals (31414-31536), and the character appendix entries (Dragon Heist, 2014 text, used for facts only).
 - `sources/Appendix_B_-_Player_Factions.md` (lines 446-451): the Halls of Justice oath scene.
 - `sources/Act_III_Arc_E.md` and `5. Faction Outposts.pdf`: Yellowspire and Terasse Estate.
-- `campaign/setting/notable-figures/`: Durnan, Mirt, Laeral Silverhand, Vajra Safahr, Saeth Cromley, Barnibus Blastwind, Savra Belabranta, Amath Seccent and Keln Trigos (alignment, species, affiliation and the GM notes).
+- `campaign/setting/notable-figures/`: Durnan, Mirt, Laeral Silverhand, Vajra Safahr, Saeth Cromley, Barnibus Blastwind, Savra Belabranta, Amath Sercent and Keln Trigos (alignment, species, affiliation and the GM notes).
 - `campaign/setting/organizations/03-emerald-enclave.md` (lines 37-39): Illuun and the water table.
 - Quest and faction-event journals under `campaign/quests/`: Finding Floon, Trollskull Alley, Fireball!, Gralhund Villa, and the Doom Raiders, Bregan D'aerthe, Harpers, Order of the Gauntlet and Emerald Enclave events.
 - Research note `ward-castle-research.md` (scratchpad): compiled the above and the unsettled-field list.
@@ -241,7 +241,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 - **The Open Lord and the Masked Lords**: governance of the ward.
 - **Durnan**, **Mirt**, **Laeral Silverhand**, **Vajra Safahr**, **Saeth Cromley**, **Savra Belabranta**: the characters of interest.
 - **Barnibus Blastwind**: the Watchful Order investigator who works with Saeth Cromley (see Defense under Life in the Ward).
-- **Amath Seccent**: keeper of Yellowspire (see the Yellowspire entry).
+- **Amath Sercent**: keeper of Yellowspire (see the Yellowspire entry).
 - **Keln Trigos**: keeper of Terasse Estate (see the Terasse Estate entry).
 - **Xanathar's Lair**: the Act III quest that enters the lair by the Castle Ward sewer stair. The lair has no location journal yet.
 - **Xanathar's Guild**: the guild behind Terasse Estate and the stair.
@@ -281,6 +281,6 @@ Sensory anchors for the GM to build the passage from (not written out):
 > - **Routed facts:** Mirt's Mansion (demoted landmark) moved into Mirt's character entry, with its ward note.
 > - **Routed facts:** Asmagh's Alley (demoted landmark) moved into Culture under Life in the Ward.
 > - **Routed facts:** Temples of the Castle Ward (demoted landmark), including the Tower of Luck, Selûne and Helm notes and the missing hooks, moved into Culture under Life in the Ward.
-> - **Routed facts:** Amath Seccent (demoted character) moved into the Yellowspire entry, with her GM Notes as a callout there.
+> - **Routed facts:** Amath Sercent (demoted character) moved into the Yellowspire entry, with her GM Notes as a callout there.
 > - **Routed facts:** Keln Trigos (demoted character) moved into the Terasse Estate entry, with his GM Notes as a callout there.
 > - **Routed facts:** Barnibus Blastwind (demoted character) moved into Defense under Life in the Ward.

@@ -48,7 +48,7 @@
   - The drow goddess Kiaransalee killed him and took over Thanatos, and she then tried to erase every trace of him (*Dead Gods*; *Faiths and Pantheons*).
   - He was a patron of sorts to the mage Vecna, to whom he offered the ritual that made Vecna the first lich (*Dungeon Master's Guide* 5e). He was pleased with Vecna's follower Acererak, who for a time worshiped him (*Streams of Crimson*; *Tomb of Horrors* 4e).
   - He once imprisoned his foe Baphomet in the dungeons of his lair (*The Throne of Bloodstone*).
-- **Origin and rise:** Wiki-sourced, and the wiki gives two accounts as alternatives.
+- **Origin and rise:** Wiki-sourced. The wiki gives two accounts as alternatives, and in the world nobody knows which is true.
   - In one he began as a mortal wicked spellcaster, probably a priest of a dark god. He rose through the demon ranks over thousands of years, from larva to balor (*Fiendish Codex I* 3e).
   - In the other he was a primordial of the Dawn War, older than the Abyss. With Baphomet and Demogorgon he cast down the Prince of Demons, Obox-ob, and the three rose to become demon lords (*Demonomicon*).
   - Whichever is true, he became the Prince of the Undead and took Thanatos, and then tried to take the title of Prince of Demons from Demogorgon (*Fiendish Codex I* 3e; *Dragon* 359; *Dungeon* 150).
@@ -102,7 +102,7 @@ Orcus is the demon lord of undeath, called the Prince of the Undead and the Bloo
 >
 > #### Draft Notes
 > - **Brief claim not found:** The brief says Orcus appears in Undermountain's Level 23 and below, in the demon lord areas. He does not. `sources/adventure-wdmm.json` has no "Orcus" at all, and `sources/adventure-wdh.json` has none either (its one text hit is the gnome name "Horcusporcus", line 26489). The only related text is the book title at line 58833, on Level 22. The Level 23 section starts at line 59845 and was not found to name any demon lord.
-> - **Conflict, origin:** The wiki gives a mortal origin (`research/deities/orcus/wiki.txt:243`, *Fiendish Codex I* 3e) and a primordial origin (`wiki.txt:245`, *Demonomicon*), and its introduction calls him a "purported primordial" (`wiki.txt:113`). The page gives both and picks none.
+> - **Settled, origin:** The wiki gives a mortal origin (`research/deities/orcus/wiki.txt:243`, *Fiendish Codex I* 3e) and a primordial origin (`wiki.txt:245`, *Demonomicon*), and its introduction calls him a "purported primordial" (`wiki.txt:113`). The user ruled to keep both. The page gives both and says that in the world nobody knows which is true.
 > - **Conflict, divinity:** 5e calls him a demon lord and names him among the fiends that can forge a warlock pact (`sources/5etools/class/class-warlock.json:5041`). The wiki says he came close to obtaining divinity (`wiki.txt:113`), achieved some form of actual divinity (`wiki.txt:261`), and could not grant powers as a true deity (`wiki.txt:285`). The page follows 5e, calls him a demon lord and a patron, and gives the divinity claims as older-edition history with their books.
 > - **Conflict, layer number:** *The Throne of Bloodstone* makes Thanatos the 333rd layer of the Abyss, and *Fiendish Codex I* and *On Hallowed Ground* make it the 113th (`wiki.txt:18`). The page gives the layer name only.
 > - **Conflict, challenge rating:** The 5e row gives 26 (`wiki.txt:112`) and the 3e row gives 28 (`wiki.txt:71`). The page gives 26 and notes 28.

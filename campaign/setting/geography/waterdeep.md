@@ -81,7 +81,7 @@ Waterdeep has six official wards, and a visitor changes ward by crossing a stree
 
 ### Religion and Festivals
 
-- **Temples:** Waterdeep honors many gods and no one temple speaks for the city. The Major Temples table in the adventure lists fifteen temples. Two stand in the North Ward, five in the Castle Ward (the Temple of the Seldarine, the Spires of the Morning, the Font of Knowledge, Tymora's Tower of Luck and the Halls of Justice) and six in the Sea Ward. Helm's Hall stands in the Southern Ward, and Umberlee's Queenspire stands on the beach. The table has no row for the Trades Ward, the Dock Ward or the Field Ward. The wiki lists Deneir, Mystra, Oghma and Tempus as the city's faiths. See **The Deities** for the temples table, with **Tyr**, **Tymora** and **Selûne** for the gods of the Halls of Justice, the Tower of Luck and the Tower of the Moon.
+- **Temples:** Waterdeep honors many gods and no one temple speaks for the city. The Major Temples table in the adventure lists fifteen temples. Two stand in the North Ward, five in the Castle Ward (the Temple of the Seldarine, the Spires of the Morning, the Font of Knowledge, Tymora's Tower of Luck and the Halls of Justice) and six in the Sea Ward. Helm's Hall stands in the Southern Ward, and Umberlee's Queenspire stands on the beach. The table has no row for the Trades Ward, the Dock Ward or the Field Ward. The wiki lists Deneir, Mystra, Oghma and Tempus as the city's faiths. See **The Deities** for the temples table, with **Tyr**, **Tymora** and **Selûne** for the gods of the Halls of Justice, the Tower of Luck and the House of the Moon.
 - **Pilgrims:** Pilgrims worship Mystra at her temple and pay homage to Kelemvor in the City of the Dead, where he has no temple.
 - **Festivals:** The city keeps the Calendar of Harptos and fills it with public holidays. Fleetswake runs from Ches 21 to Ches 30, Waukeentide from Tarsakh 1 to Tarsakh 10, and Founders' Day falls on Flamerule 1, the party's real deadline. The Day of Wonders on Marpenoth 3 falls after the campaign window. The Plowing and Running sends ward racers to the finals at the Field of Triumph on Mirtul 9. See **Timekeeping and the Festival Calendar**.
 
@@ -136,7 +136,7 @@ Waterdeep, the City of Splendors, is the grandest and most civilized city on the
 - **Castle Ward**, **Sea Ward**, **North Ward**, **Trades Ward**, **Southern Ward**, **Dock Ward** and **Field Ward**: the ward pages.
 - **City of the Dead**, **Undermountain and Skullport** and **The Dragonward and Walking Statues**: the other geography pages.
 - **The Open Lord and the Masked Lords**, **The Code Legal and the Magisters**, **The City Watch** and **The Guilds**: the governance pages.
-- **The Deities**, with **Tyr**, **Tymora** and **Selûne**: the temples table and the gods of the Halls of Justice, the Tower of Luck and the Tower of the Moon.
+- **The Deities**, with **Tyr**, **Tymora** and **Selûne**: the temples table and the gods of the Halls of Justice, the Tower of Luck and the House of the Moon.
 - **Timekeeping and the Festival Calendar**, **The History**, **Ahghairon's Gifts**, **The Open Lord's Fall** and **A City Watching Itself**: the calendar and the eras behind the city.
 - **The Grand Game** and **Structural Rules**: the in-world frame for the factions and the GM Guide's calendar and response-team rules.
 - **Laeral Silverhand**, **Dagult Neverember** and **Vajra Safahr**: the Open Lord, her predecessor and the Blackstaff.
@@ -184,7 +184,7 @@ Waterdeep, the City of Splendors, is the grandest and most civilized city on the
 > | Guilds: 18 recognized guilds | **The Guilds** | Corrected to more than forty, with forty-four names in the adventure's list. |
 > | Guilds: relevant guilds | **The Guilds** | The Dungsweepers' Guild is kept. The League of Skinners and Tanners and the Jewelers' Guild are retired and tagged `[research]`. The Carpenters' villa maintenance is replaced by the loan contracts. |
 > | Guilds: faction operatives in leadership | **The Guilds** | Retired. No file names an operative, and the GM Notes list the ties that exist. |
-> | Religion: Tymora and Selûne in the Sea Ward | **Sea Ward**, **The Deities**, **Tymora**, **Selûne** | Selûne's Tower of the Moon is a Sea Ward temple. The table puts the Tower of Luck in the Castle Ward (see Conflicts). The old descriptive tags are not carried. |
+> | Religion: Tymora and Selûne in the Sea Ward | **Sea Ward**, **The Deities**, **Tymora**, **Selûne** | Selûne's House of the Moon is a Sea Ward temple. The table puts the Tower of Luck in the Castle Ward (see Conflicts). The old descriptive tags are not carried. |
 > | Religion: Halls of Justice in the Castle Ward | **Castle Ward**, **Tyr** | Kept. "City Watch captain is a worshiper" is unsourced and not carried. |
 > | Religion: House of Inspired Hands | **Sea Ward**, **House of Inspired Hands** | Kept, with the **Fireball!** hook. |
 > | Religion: the hidden Cassalanter temple | **Cassalanter Villa**, **The Cassalanters**, **Asmodeus**, **The Code Legal and the Magisters** | Not a ward fact. The offense is in the Code Legal GM Notes, and the Sea Ward Secret holds the villa's side. |

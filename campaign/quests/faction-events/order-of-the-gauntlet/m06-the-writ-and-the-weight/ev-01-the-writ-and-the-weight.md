@@ -380,7 +380,7 @@ Then Brother Hallin Ostrel hands over the Recognition, and Savra reads out the n
 
 The Lords' court carries the exhibit away at dawn and enters it in the record. The devil reforms in the Nine Hells with all its hit points and remembers every name on the notice. The Halls of Justice repairs its window within the tenday, and Brother Haldric Wence nails a plain board over the hole until then.
 
-If **Devil Sent Back** is marked, Savra files the night in the Order's roll, and the Order's priests tell the other temples of the Triad. If the party hid in the vestry, she tells them the bailiff may come again.
+If **Devil Sent Back** is marked, Savra files the night in the Order's roll, and the Order's priests tell the Order's other temples. If the party hid in the vestry, she tells them the bailiff may come again.
 
 In the **Cassalanters Exposed** result, the family stays in the hands of the Lords' court or in flight. In the other three results the Order holds no further case against the family, and Savra closes her file. **Vault of Dragons** (unconverted) reads **Order Recognized**. **Righteous Hand** reads both outcomes when Savra names the investiture.
 

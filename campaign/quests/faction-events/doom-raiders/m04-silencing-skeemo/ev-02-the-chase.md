@@ -148,7 +148,7 @@ If the chase ends here, Skeemo reaches an old stone tower at the Castle Ward bor
 
 > [!gamemaster]**Yellowspire**
 >
-> This is Yellowspire, home of Amath Seccent and her four acolytes, and the door bars from inside within one round. Skeemo goes down to a teleportation circle in the cellar and reaches Kolat Towers within two minutes. A character who is standing at the door when he knocks can seize him with a successful DC 15 Strength (Athletics) check, which puts the party back in the Cornered state on the doorstep. Otherwise the door holds.
+> This is Yellowspire, home of Amath Sercent and her four acolytes, and the door bars from inside within one round. Skeemo goes down to a teleportation circle in the cellar and reaches Kolat Towers within two minutes. A character who is standing at the door when he knocks can seize him with a successful DC 15 Strength (Athletics) check, which puts the party back in the Cornered state on the doorstep. Otherwise the door holds.
 >
 > The party cannot enter this tower in this Event. Breaking the door takes ten minutes and a DC 25 Strength (Athletics) check, and within one minute of the first blow a Castle Ward Watch patrol rounds the corner, which marks **Watch File Opened**. The tower's layout and defenders are described in **The Yellowspire Job**, and this is not the time to test them.
 >

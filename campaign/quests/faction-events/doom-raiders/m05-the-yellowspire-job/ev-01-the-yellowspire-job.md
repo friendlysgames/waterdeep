@@ -7,7 +7,7 @@
 > - Hear Davil and Tashlyn Yafeera explain the job and what they know about the tower.
 > - Watch the tower for a day and choose between the coded knock, the outer wall and a false referral to get inside.
 > - Recover the relay ledger from the circle chamber in the cellar, past a pressure plate that alerts Kolat Towers.
-> - Take three coded letters from Amath Seccent's desk, which name Vevette Blackwater as the coordinator of the Splinter's strike teams.
+> - Take three coded letters from Amath Sercent's desk, which name Vevette Blackwater as the coordinator of the Splinter's strike teams.
 > - Leave before the reinforcements arrive through the teleportation circle, fight them, or wreck the circle.
 > - Collect Ziraj's notes on the Kolat Towers force field, which Davil has asked him to hand over once the job is done.
 
@@ -71,7 +71,7 @@ If **Manshoon Named** is marked, read or paraphrase the following instead:
 
 > [!qna]**Who lives in the tower?**
 >
-> > "A woman named Amath Seccent and four followers of Bane, though I've never counted more than a few of them on the premises at once. They keep the place as a temple and a post office, and they go out looking like ordinary neighbors. Please don't underestimate her, because she was picked for that tower on purpose."
+> > "A woman named Amath Sercent and four followers of Bane, though I've never counted more than a few of them on the premises at once. They keep the place as a temple and a post office, and they go out looking like ordinary neighbors. Please don't underestimate her, because she was picked for that tower on purpose."
 
 > [!qna]**What are the letters?**
 >
@@ -136,7 +136,7 @@ The party can spend a day watching Yellowspire from the lane, from a rented uppe
 
 > [!gamemaster]**Who Is in the Tower**
 >
-> Amath Seccent and her four acolytes live and work here, and the Splinter posts guards according to the size of the party. Use the table for the party's size.
+> Amath Sercent and her four acolytes live and work here, and the Splinter posts guards according to the size of the party. Use the table for the party's size.
 >
 > | Party size | In the tower | Spies through the circle |
 > |---|---|---|
@@ -214,9 +214,9 @@ The party can use any approach or combine them. Each approach has several steps,
 >
 > If **Skeemo at Kolat Towers** is marked, Amath recognizes the name Rorik Halvars and plays along. She sends an acolyte to the cellar to drop a Zhentarim coin into the call bowl, which starts the ten-minute clock. A character who makes a successful DC 15 Wisdom (Insight) check notices that she is stalling, and a character who makes a successful DC 14 Wisdom (Perception) check hears a coin ring in the cellar and sees a gray glow beneath the cellar door.
 
-> [!social]**Amath Seccent**
+> [!social]**Amath Sercent**
 >
-> Amath Seccent (Lawful Evil, Human, she/her) :: a Banite priestess in common clothes who keeps Yellowspire as a temple, a post office and a fallback position, and who is unfailingly polite about all three.
+> Amath Sercent (Lawful Evil, Mulan Human, she/her) :: a Banite priestess in common clothes who keeps Yellowspire as a temple, a post office and a fallback position, and who is unfailingly polite about all three.
 >
 > Amath is composed and correct. She speaks in courteous, complete sentences and never raises her voice. She is committed to Bane in a way that does not feel like devotion to her, only alignment, and she treats weakness with controlled contempt. She receives guests as though she were hosting a tea, and any hostility reads as a small breach of manners. The handprints on the walls are the only thing in the tower she mentions with warmth.
 >
@@ -284,7 +284,7 @@ If the party fights, Amath keeps her acolytes and guards in front of her and hol
 
 > [!hazard]**The House of Tyranny**
 >
-> Amath Seccent uses the 2024 **Priest** statistics, her acolytes use the 2024 **Priest Acolyte** statistics, and the guards use the 2024 **Tough** and **Warrior Veteran** statistics, in the numbers shown in **Who Is in the Tower**.
+> Amath Sercent uses the 2024 **Priest** statistics, her acolytes use the 2024 **Priest Acolyte** statistics, and the guards use the 2024 **Tough** and **Warrior Veteran** statistics, in the numbers shown in **Who Is in the Tower**.
 >
 > #### Amath's Tactics
 > Amath calls her acolytes to position and casts *Spirit Guardians* once two or more party members are within 15 feet of her. She uses Divine Aid to cast *Dispel Magic* on the first lingering spell the party leaves on her people or the room, to cast *Healing Word* on a fallen acolyte, and to cast *Lesser Restoration* on an ally who is poisoned or frightened. Otherwise she attacks with Radiant Flame at range and the mace in melee. She sends the acolyte from the cellar, or the nearest one, to drop a coin in the call bowl as soon as the fight begins, which starts the ten-minute clock. She yields at about 10 hit points.
@@ -429,4 +429,4 @@ Davil sends the party into Yellowspire, a Banite tower in the Castle Ward, to st
 
 ## Summary
 
-We went into Yellowspire for Davil and took the relay ledger from the circle chamber in the cellar. Amath Seccent's acolytes, the pressure plate and the teleportation circle all cost us something on the way out. Ziraj gave us his notes on the gaps in the force field around the towers in the Southern Ward, and Davil now has a list of who carries an amulet.
+We went into Yellowspire for Davil and took the relay ledger from the circle chamber in the cellar. Amath Sercent's acolytes, the pressure plate and the teleportation circle all cost us something on the way out. Ziraj gave us his notes on the gaps in the force field around the towers in the Southern Ward, and Davil now has a list of who carries an amulet.
