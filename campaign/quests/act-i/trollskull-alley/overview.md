@@ -30,7 +30,7 @@
 - **Justyn Rassk** (Guild of Butchers) — meat supply inspector; bluff artist; DC 13 Insight to read him correctly
 - **Emmek Frewn** (independent) — competitor across the alley; runs Frewn's Brews; his five-stage sabotage campaign begins in ev-02
 - **Tally Fellbranch** (independent) — woodworker at the Bent Nail; Melannor's brother; potential fireball victim
-- **Embric and Avi** (independent) — smith and ceramicist at Steam and Steel; courtyard gate neighbors
+- **Embric and Avi** (independent) — weaponsmith and armorsmith at Steam and Steel; courtyard gate neighbors
 - **Fala Lefaliir** (independent) — herbalist at Corellon's Crown; knows Ziraj the Hunter; potential fireball victim
 - **Vincent Trench / Valantajar** (independent) — rakshasa detective at the Tiger's Eye; self-serving interest in the party
 - **Rishaal the Page-Turner** (Watchful Order) — bookseller at Book Wyrm's Treasure; filed the poltergeist notice; suspicious of Vincent Trench

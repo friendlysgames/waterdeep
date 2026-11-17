@@ -41,7 +41,7 @@ Waterdeep has always been governed by secrets — the Masked Lords, the hidden g
 - **Undermountain** (below the city): the Yawning Portal well drops to Level 1; Skullport is three levels down; outside city jurisdiction
 
 *Governance*
-- **Open Lord Laeral Silverhand**: one of the Seven Sisters, former Chosen of Mystra; politically formidable; knows more about the Grand Game than she lets on; would prefer to recover the vault quietly if it ever surfaces
+- **Open Lord Laeral Silverhand**: one of the Seven Sisters, Chosen of Mystra; politically formidable; knows more about the Grand Game than she lets on; would prefer to recover the vault quietly if it ever surfaces
 - **Masked Lords**: anonymous governing council; their identities are the city's most closely guarded secret; individual Lords may have faction affiliations the PCs never learn
 - **The Code Legal**: posted publicly, enforced by the Watch; notable for what it doesn't cover (most guild business) as much as what it does
 - **Magisters**: city judges; Barnibus Blastwind handles sensitive investigations

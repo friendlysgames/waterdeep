@@ -23,7 +23,7 @@
 
 **Morale.** In a fight, Amath maintains her composure, uses priestly magic precisely, and calls her acolytes to position. The tower is defensible and she knows every corner of it.
 
-**Relationships.** Amath is the Banite priestess occupying Yellowspire (Castle Ward), the keeper of a teleportation circle providing a back-route into Kolat Towers (bypassing the pass-amulet requirement), Agorn Fuoco's romantic partner and the person entrusted with the Stone of Golorr, and a Manshoon-adjacent religious operative whose devotion to Bane predates and outlasts any particular Zhentarim arrangement.
+**Relationships.** Amath is the Banite priestess occupying Yellowspire (Castle Ward), the keeper of a teleportation circle providing a back-route into Kolat Towers (bypassing the pass-amulet requirement), Agorn Fuoco's romantic partner, and a Manshoon-adjacent religious operative whose devotion to Bane predates and outlasts any particular Zhentarim arrangement.
 
 ## Overview
 

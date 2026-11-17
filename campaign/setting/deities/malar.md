@@ -44,7 +44,7 @@
 - **Omen:** No source gives one. [research]
 - **Chosen in the campaign:** None. No file names a Chosen of Malar. FRHoF says his Chosen are gifted trackers, sometimes blessed with lycanthropy, who can smell their quarry from miles away.
 - **Relations:** Wiki-sourced; the wiki's relations paragraph cites no edition.
-  - He has a long-standing alliance with Lolth against the Seldarine, and he is allied with dark powers such as Bane and Loviatar.
+  - He has a long-standing alliance with Lolth against the Seldarine, and he is allied with dark powers such as Bane. Loviatar was affiliated with him only before the Time of Troubles, as her page records.
   - He fights the powers of peace, civilization and nature, and he hates Nobanion most, who beat him in a battle during the Time of Troubles.
   - The Chauntea, Deneir, Helm and Ilmater pages each list him among their opponents.
   - In the late fifteenth century DR, Umberlee turned to Talos and Malar against Auril, and with their help drove the Frostmaiden back to the Sea of Moving Ice (*Icewind Dale: Rime of the Frostmaiden*, 5e).
@@ -93,7 +93,8 @@ Malar, the Beastlord, is the god of the hunt and of the cruel side of nature, an
 ## Cross-References
 
 - **Talos**, **Auril**, **Umberlee** (Deities): the other Gods of Fury.
-- **Lolth**, **Bane**, **Loviatar** (Deities): the powers he is allied with.
+- **Lolth**, **Bane** (Deities): the powers he is allied with.
+- **Loviatar** (Deities): affiliated with him before the Time of Troubles.
 - **Silvanus** (Deities): the Forest Father he served as an exarch in the 4e account.
 - **Chauntea** (Deities): an opponent who nonetheless approved his revival in the novel.
 - **Helm**, **Deneir**, **Ilmater** (Deities): powers that oppose him.
@@ -106,6 +107,7 @@ Malar, the Beastlord, is the god of the hunt and of the cruel side of nature, an
 > #### Draft Notes
 > - **Conflict, festival days:** FRHoF puts the Feast of the Stags at Highharvestide (`research/deities/malar/5etools.md:10`). The Dragon Heist festival list puts Howldown on Nightal 11 (`sources/adventure-wdh.json:31573`). They are two different days, so the page gives both. The campaign calendar lists Howldown nowhere (`campaign/setting/history/09-timekeeping-and-the-festival-calendar.md:33`, `:51`), which makes it a Dragon Heist festival that the remix calendar omits. It falls outside the campaign's window either way.
 > - **Conflict, patron and rank:** The wiki's 5e row says Malar serves Talos (`research/deities/malar/wiki.txt:23`), while its 4e row makes him an exarch and the Silvanus page lists "Malar (exarch)" (`research/deities/silvanus/wiki.txt:65`). The page gives each with its edition and keeps him a full god in 1492 DR. The wiki also says he was believed dead after the Spellplague (`wiki.txt:182`) and revived in the late 1470s DR, so the death is history and does not touch the present tense.
+> - **Settled, Loviatar tie:** Loviatar's wiki page says she was affiliated with Malar only before the Time of Troubles (`campaign/setting/deities/loviatar.md:47` and `:98`). The Relations bullet tags the tie as that period's and no longer lists her as a current ally.
 > - **Conflict, alignment:** PHB and SCAG give Chaotic Evil (`5etools.md:15`, `:24`); the wiki's 4e row gives Evil only (`wiki.txt:49`). FRHoF has no alignment field. The page follows SCAG.
 > - **Not a conflict, temples:** FRHoF says "no temples in Faerûn's major cities" (`5etools.md:10`) and the Dragon Heist table has no Malar row. The Undermountain tabernacle is not a city temple, and it belongs to a destroyed cult.
 > - **Derived:** The one-line edict, written from the FRHoF "survival of the fittest" and "savor the fear of their prey" text because no source gives one. Areas of Concern. The Nature Domain and Protector fits, Oath of Vengeance (with Oathbreaker as the alternative) and the absence of a warlock fit. Nightal falling after the Flamerule 11 deadline.

@@ -12,7 +12,7 @@ The mission is two events because it has two clocks. **The Ten Nights** holds th
 
 Three routes lead to the Brandath grove: the skeletons' path, Ambrose's account of the robbed mausoleums and the Watch ledger. Each night the party picks a post, which gives the patrol decisions instead of a single roll.
 
-Ambrose uses the Knight block, keeps his Lawful Neutral alignment from his page and speaks without contractions. He names the crypt unasked only after the party reports the pattern. The 100 gp goes to everyone who stood all ten nights, member or not, while Renown goes only to members.
+Ambrose uses the Knight block, keeps his Lawful Good alignment from his page and speaks without contractions. He names the crypt unasked only after the party reports the pattern. The 100 gp goes to everyone who stood all ten nights, member or not, while Renown goes only to members.
 
 ## Departures from the Source
 
