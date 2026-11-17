@@ -8,7 +8,7 @@
 > - This is the villain profile for Manshoon, the clone-wizard who leads the Zhentarim splinter cell known as the Splinter from Kolat Towers in the Southern Ward. It sets out his three personality phases, his relationships, his goals and the one design note that times the simulacrum reveal.
 > - Use it when you run any scene where Manshoon or his operatives act or react. Phase 1 covers Acts I and II, Phase 2 covers Acts II and III, and Phase 3 begins when the party enters **Kolat Towers**.
 > - Manshoon appears in **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers** and **Vault of Dragons**. In the first four quests the party meets only his operatives and hears hints of a master. The party gets his name at the Interrogation House in **Faction Outposts**, which is where the **Manshoon Named** Event Outcome is marked.
-> - **Kolat Towers** records the result of the raid as **Manshoon operational?** (Destroyed, Simulacrum Only or Alive), and **Vault of Dragons** reads it. The **Zhentarim Warehouse** is the location journal for the Candle Lane warehouse where a Xanathar's Guild raid killed his cell. **Kolat Towers** has no location journal yet.
+> - **Kolat Towers** records the result of the raid as one of three Event Outcomes (**Manshoon Destroyed**, **Manshoon Simulacrum Only** or **Manshoon Alive**), and **Vault of Dragons** reads it. The **Zhentarim Warehouse** is the location journal for the Candle Lane warehouse where a Xanathar's Guild raid killed his cell. **Kolat Towers** has no location journal yet.
 > - The Splinter's response teams, outposts, escalation row and revelation list live in the **Manshoon's Zhentarim** page of the Factions Guide. Who the Splinter is lives in the **Manshoon's Zhentarim** page of Organizations.
 
 **Purpose:** Distinguishes Manshoon from the Doom Raiders and lets the GM portray the campaign's most intellectually dangerous villain through three personality phases, a relationship table and three goals.
@@ -101,7 +101,7 @@ Zhentarim crews with flying snake tattoos work the back streets of Waterdeep. Th
 - `sources/adventure-wdmm.json`: area 1a, the Left Hand of Manshoon
 - `sources/1. The Villains.pdf`, p. 16: the Doom Raiders' network and the Neverember embezzlement
 - `sources/12. Lair  Zhentarim – Kolat Towers.pdf`, pp. 92-96, and `sources/8. The Eyes of the Stone.pdf`, p. 62: read for the Eye conflict only
-- `campaign/structure/arc-i-kolat-towers.md`: the Quest Opener (clone of a clone, the Splinter, the simulacrum, the blackmail) and the "Manshoon operational?" states
+- `campaign/structure/arc-i-kolat-towers.md`: the Quest Opener (clone of a clone, the Splinter, the simulacrum, the blackmail) and the three Manshoon Event Outcomes (**Manshoon Destroyed**, **Manshoon Simulacrum Only**, **Manshoon Alive**)
 - `campaign/structure/arc-e-faction-outposts.md`: the reveal sequence and the first use of Manshoon's name
 - `campaign/guides/gm-guide/running-the-villains.md`: the Eye chain and the Xanathar and Cassalanter operations
 - `campaign/setting/organizations/09-manshoons-zhentarim.md` and `campaign/setting/notable-figures/manshoons-zhentarim/01-manshoon.md`: the Weave motive, the Overview and name verification

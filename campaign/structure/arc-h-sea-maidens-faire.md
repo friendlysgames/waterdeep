@@ -242,7 +242,7 @@ If combat occurs, Jarlaxle uses hit-and-run tactics: smoke bombs (20-foot-radius
 
 ## Scene 6: Aftermath
 
-**Purpose.** Resolve the heist. Deliver Eye #3. Trigger the Stone of Golorr's knowledge expansion calibrated to Eye count. Assess faction state changes. All-seven-faction debriefs, outcome-branched.
+**Purpose.** Resolve the heist. Deliver Eye #3. Trigger the Stone of Golorr's knowledge expansion calibrated to Eye count. Mark Event Outcomes. All-seven-faction debriefs, outcome-branched.
 
 **Content.**
 
@@ -265,15 +265,15 @@ The aboleth consciousness is fully present. Not a whisper, not an impression, bu
 
 This is the campaign's pivotal revelation. The GM should give this moment the weight it deserves.
 
-*Faction State Changes.*
+*Event Outcomes.*
 
 **Bregan D'aerthe.** Record one of five Bregan D'aerthe Event Outcomes:
 
-- *Allied (diplomatic resolution):* Jarlaxle traded the Eye for a political commitment. BD is now a campaign ally providing intelligence, operational support, and Jarlaxle's considerable personal charm. The cost: the party owes Luskan's Alliance bid genuine support. Jarlaxle will collect. The alliance does not make BD harmless — it makes them a partner with their own agenda.
-- *Impressed (heist succeeded, Jarlaxle confronted and negotiated):* Jarlaxle lost the Eye but gained respect for the party. He is not hostile — he is intrigued. BD continues to operate but treats the party as worthy opponents rather than targets. Jarlaxle may approach them for **Kolat Towers** or **Vault of Dragons** cooperation.
-- *Robbed (heist succeeded, clean escape):* Jarlaxle lost the Eye without knowing who took it (possible at Unaware tier). BD launches an intelligence operation to identify the thieves. Jarlaxle is embarrassed, which makes him more decisive when he discovers the truth.
-- *Hostile (combat, casualties among BD lieutenants):* If the party killed Soluun, Fel'rekt, or Krebbyg, Jarlaxle's response escalates from professional to personal. He reaches for leverage before force, but he reaches harder. BD response teams become more aggressive in future encounters.
-- *Patron (BD member received the Eye):* Jarlaxle's investment in the PC is confirmed. BD renown increases. The PC is now a trusted operative, which means more missions, more intelligence, and more expectations.
+- **Jarlaxle Allied** (diplomatic resolution): Jarlaxle traded the Eye for a political commitment. BD is now a campaign ally providing intelligence, operational support, and Jarlaxle's considerable personal charm. The cost: the party owes Luskan's Alliance bid genuine support. Jarlaxle will collect. The alliance does not make BD harmless — it makes them a partner with their own agenda.
+- **Jarlaxle Impressed** (heist succeeded, Jarlaxle confronted and negotiated): Jarlaxle lost the Eye but gained respect for the party. He is not hostile — he is intrigued. BD continues to operate but treats the party as worthy opponents rather than targets. Jarlaxle may approach them for **Kolat Towers** or **Vault of Dragons** cooperation.
+- **Jarlaxle Robbed** (heist succeeded, clean escape): Jarlaxle lost the Eye without knowing who took it (possible at Unaware tier). BD launches an intelligence operation to identify the thieves. Jarlaxle is embarrassed, which makes him more decisive when he discovers the truth.
+- **Jarlaxle Hostile** (combat, casualties among BD lieutenants): If the party killed Soluun, Fel'rekt, or Krebbyg, Jarlaxle's response escalates from professional to personal. He reaches for leverage before force, but he reaches harder. BD response teams become more aggressive in future encounters.
+- **Jarlaxle Patron** (BD member received the Eye): Jarlaxle's investment in the PC is confirmed. BD renown increases. The PC is now a trusted operative, which means more missions, more intelligence, and more expectations.
 
 **Manshoon's Zhentarim.** If the Zhentarim strike team was defeated, Manshoon knows — the pass-amulets went dark. He adjusts **Kolat Towers** preparations. If the strike team caused chaos but failed to get the Eye, Manshoon redirects to Kolat Towers defense. Manshoon's cell holds no Eye unless the party's failure puts one there: if the strike team recovered the Eye, **Kolat Towers** becomes a recovery operation as well as an assault.
 
@@ -291,7 +291,7 @@ This is the campaign's pivotal revelation. The GM should give this moment the we
 - *Savra (Order of the Gauntlet):* "Did you find the elf-killer?" If the party encountered Soluun and dealt with him, Savra considers the arc a success regardless of the Eye. If Soluun escaped, Savra asks the party to prioritize his capture.
 - *Vajra (Force Grey):* Fascinated by the submarine's engineering and the nimblewright crystal ball network. Wants technical details. If the party recovered the crystal ball, Vajra offers to study it for a tenday — she returns it, but the analysis lets her start mapping the nine surveillance locations. If the party gave it to Zelifarn, Vajra respects the choice but is visibly disappointed.
 - *Tashlyn or Davil (Doom Raiders):* "What happened to the Zhentarim team?" Names and faces from the strike team help them map Manshoon's remaining force structure. The pass-amulets to Kolat Towers are of particular interest: "Those get you inside his base. That is extremely valuable intelligence."
-- *Jarlaxle (if allied or impressed):* If the party negotiated the alliance: "I trust you'll remember our arrangement. Luskan is patient. I am less so." If the party robbed him cleanly: silence for three days, then a note on Seven Masks Theater stationery — "Well played." If the party fought him: a more cautious approach through intermediaries, testing whether hostility has become permanent or was situational.
+- *Jarlaxle (if **Jarlaxle Allied** or **Jarlaxle Impressed** is marked):* If the party negotiated the alliance: "I trust you'll remember our arrangement. Luskan is patient. I am less so." If the party robbed him cleanly: silence for three days, then a note on Seven Masks Theater stationery — "Well played." If the party fought him: a more cautious approach through intermediaries, testing whether hostility has become permanent or was situational.
 
 **If Eye not recovered (heist failed):**
 
@@ -340,7 +340,7 @@ This quest's transition is open. The remaining lair heists are available in any 
 - **Xanathar's Lair** — Stone 1-Eye impressions (ship in harbor, bald elf) point toward this quest. Jarlaxle's simultaneous heist in **Xanathar's Lair** shapes this quest's stakes. Report on Seven Masks Theater (X35) provides third clue path to this quest.
 - **Cassalanter Villa** — Report on Cultists of Asmodeus (J30) provides Three Clue Rule path to **Cassalanter Villa**. "Vessa" the BD operative in **Cassalanter Villa** previews Jarlaxle's surveillance operations.
 - **Kolat Towers** — Jarlaxle's Report on the Grand Game (J30) and the Zhentarim pass-amulets (Scene 5) both provide independent Three Clue Rule paths to **Kolat Towers**. Combined with Jarlaxle's BD intelligence on Manshoon (alliance/patron path), this is the strongest entry path to **Kolat Towers** in the campaign.
-- **Vault of Dragons** — the Bregan D'aerthe Event Outcome recorded in this quest's Scene 6 affects **Vault of Dragons**' difficulty and approach options. Full Awakening (if Eye #3) launches **Vault of Dragons** directly.
+- **Vault of Dragons** — the Bregan D'aerthe Event Outcome recorded in this quest's Scene 6 (**Jarlaxle Allied**, **Jarlaxle Impressed**, **Jarlaxle Robbed**, **Jarlaxle Hostile** or **Jarlaxle Patron**) affects **Vault of Dragons**' difficulty and approach options. Full Awakening (if Eye #3) launches **Vault of Dragons** directly.
 - **Undermountain (future)** — Zelifarn's grief and potential alliance seeds his future role if the party descends. Illuun's emerging consciousness in the Stone's Full Awakening connects to Undermountain Level 4.
 
 ---
@@ -361,7 +361,7 @@ This quest is the only lair heist that offers three fundamentally different appr
 
 The heist path is the default and receives the most structural support. The alliance path exists because it reflects Jarlaxle's actual priorities — Luskan's Alliance bid matters more to him than one component of a treasure-hunting artifact. The patron path exists because the campaign supports BD membership from **Trollskull Alley** onward and must reward that investment with a meaningful payoff.
 
-All three paths lead to the same aftermath structure, but the faction state changes and debrief reactions differ significantly. The text presents all three without advocacy.
+All three paths lead to the same aftermath structure, but the Event Outcomes and debrief reactions differ significantly. The text presents all three without advocacy.
 
 ## Jarlaxle as Charming Antagonist
 
