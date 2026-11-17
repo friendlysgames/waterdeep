@@ -71,7 +71,7 @@
 >   - No campaign file names a keeper, a priest, a festival or a hook at the Shrines of Nature, and none says whether a resident may bring guests inside. [research] No campaign file sends the party inside, so the iron fence is as far as play goes.
 >   - Phaulkonmere in the Southern Ward is Mielikki's, and no source ties it to Silvanus.
 > - **A cleric PC:** The domain is Nature (SCAG, 2014), and Nature Domain (derived; Player's Handbook, 2014) is the exact fit for the god of wild nature. Life Domain (derived; Player's Handbook, 2024) is the alternative for a cleric built on his creed that wild nature refreshes the mortal soul and on his clergy's fight against disease. The Divine Order that fits is Protector (derived), because the wiki gives his clergy the work of guarding the wilderness from encroachment. A player who wants the closest match can play a druid instead, since FRHoF says druids make up most of his following (derived).
-> - **A paladin PC:** Oath of the Ancients (derived; Player's Handbook, 2024), the oath of protecting life and the wild places. The fit is loose, because FRHoF lists no paladins among his typical followers and the oath rests on his creed alone.
+> - **A paladin PC:** Oath of the Ancients (derived; Player's Handbook, 2024), the oath of protecting life and the wild places, which matches a creed of guarding wild nature.
 > - **A warlock PC:** No warlock connection in the sources.
 > - **Campaign ties:** No campaign file uses this power. The Emerald Enclave files name Mielikki alone, through Jeryth Phaulkon, Chosen of Mielikki, who is the patron of Phaulkonmere. No Enclave page, Notable Figure or faction event names Silvanus or any other power of the wild.
 
