@@ -68,7 +68,7 @@
 >   - No campaign file describes the building, its size, its hours, its high priest or its staff, and the gazetteer has no landmark entry for it. FRHoF says most temples of Oghma hold the Covenant each evening, and no file says the Font does. Which network of the faith the Font belongs to, if any, is unsourced. [research]
 >   - No other shrine or temple of Oghma exists in the campaign files, and no city festival is tied to him.
 > - **A cleric PC:** Knowledge Domain (derived; Heroes of Faerun). His domain is Knowledge (SCAG, 2014), and the option is built around learning and understanding, so the match is direct. The wiki's 3e and 4e domain lists include Trickery, but SCAG says his followers oppose deceit and trickery, so this page does not choose it (derived). The Divine Order that fits is Thaumaturge (derived), because his clergy are archivists, scribes and scholars.
-> - **A paladin PC:** Oath of Devotion (derived; Player's Handbook 2024), a loose fit. No source lists paladins among his followers, and the wiki's class lists for him name bards, clerics, fighters and wizards. Devotion suits a knight sworn to honest learning and against deceit.
+> - **A paladin PC:** Oath of Devotion (derived; Player's Handbook 2024). Devotion suits a knight sworn to honest learning and against deceit.
 > - **A warlock PC:** No warlock connection in the sources.
 > - **Campaign ties:** A priest of Oghma in Renaer's circle, an archivist at the Font, and the Font itself. The details are in the GM Notes below. No quest or event has Oghma act, and in the published *Dungeon of the Mad Mage* the Font appears only in a picture caption.
 
