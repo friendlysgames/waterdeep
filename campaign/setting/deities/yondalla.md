@@ -16,7 +16,7 @@
 
 - **Title:** Goddess of fertility and protection (SCAG, 2014). The PHB, 2014, prints "Halfling goddess of fertility and protection", and the MTF entry has no title field.
 - **Other Names:** The Nurturing Matriarch, the Blessed One (wiki, citing *Faiths & Pantheons*, 3e, and *Demihuman Deities*, 2e). Her followers and the things of her faith are called Yondallan (wiki, *Demihuman Deities*, 2e).
-- **Pantheon:** Halfling (MTF, 2014; SCAG, 2014), and its head. The PHB, 2014, files her with the nonhuman deities, and the wiki calls the pantheon Yondalla's Children.
+- **Pantheon:** Halfling (MTF, 2018; SCAG, 2014), and its head. The PHB, 2014, files her with the nonhuman deities, and the wiki calls the pantheon Yondalla's Children.
 - **Areas of Concern:** Fertility, protection, the harvest and good luck, children and family, and the hiding and defense of halfling villages (derived from the SCAG title, the MTF text and the wiki portfolios; no entry lists Areas of Concern)
 - **Domains:** Life, Twilight (SCAG, 2014; MTF and the PHB, 2014, agree). The wiki's 3e list is Family, Gluttony, Good, Halfling, Law and Protection.
 - **Symbol:** Cornucopia on a shield (SCAG, 2014). The PHB, 2014, gives a shield, and MTF gives a cornucopia.

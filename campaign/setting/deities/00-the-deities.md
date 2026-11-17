@@ -54,7 +54,7 @@ Rows are sorted by the first domain listed, then by name. A power with no 5etool
 | **Lliira** | God of Joy | Life |
 | **Sune** | God of Love and Beauty | Life, Light |
 | **Yondalla** | God of fertility and protection | Life, Twilight |
-| **Eilistraee** | God of Song and Moonlight | Light, Nature (MTF, 2014, adds Life) |
+| **Eilistraee** | God of Song and Moonlight | Life, Light, Nature (MTF, 2018; SCAG lists Light and Nature) |
 | **Kossuth** | God of Fire | Light |
 | **Milil** | God of Poetry and Song | Light |
 | **Auril** | God of Winter | Nature, Tempest |
@@ -71,13 +71,13 @@ Rows are sorted by the first domain listed, then by name. A power with no 5etool
 | **Cyric** | God of Lies | Trickery |
 | **Garl Glittergold** | God of Trickery and Gems | Trickery |
 | **Leira** | God of Illusion | Trickery |
-| **Lolth** | God of spiders | Trickery (MTF, 2014, adds War) |
+| **Lolth** | God of spiders | Trickery (MTF, 2018, adds War) |
 | **Mask** | God of Thieves | Trickery |
 | **Tharizdun** | The Chained God | Trickery (PHB, 2014) |
 | **Tiamat** | Dragon goddess of evil | Trickery (PHB, 2014) |
 | **Tymora** | God of Good Fortune | Trickery |
 | **Bane** | God of Tyranny | War, Order |
-| **Ghaunadaur** | That Which Lurks | War (MTF, 2014 rules) |
+| **Ghaunadaur** | That Which Lurks | War (MTF, 2018) |
 | **Hoar** | God of revenge and retribution | War |
 | **Maglubiyet** | Goblinoid god of war | War, Order (PHB, 2014) |
 | **The Red Knight** | God of Strategy | War |
@@ -166,7 +166,7 @@ Alignments are SCAG, 2014 unless a cell names another source. Rows are sorted fr
 | **Beshaba** | Chaotic Evil | Faerûnian god |
 | **Cyric** | Chaotic Evil | Faerûnian god |
 | **Demogorgon** | Chaotic Evil (wiki, 5e) | Patron |
-| **Ghaunadaur** | Chaotic Evil (MTF, 2014 rules) | Patron |
+| **Ghaunadaur** | Chaotic Evil (MTF, 2018) | Patron |
 | **Graz'zt** | Chaotic Evil (wiki, 3e and 5e) | Patron |
 | **Gruumsh** | Chaotic Evil | Power of other peoples |
 | **Lolth** | Chaotic Evil | Faerûnian god (drow pantheon in SCAG) |
