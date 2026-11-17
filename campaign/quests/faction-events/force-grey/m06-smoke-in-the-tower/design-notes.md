@@ -6,7 +6,7 @@ The source gave a door attendant who arrives in person, forty-three names, three
 
 ## What Changed
 
-The mission is two events. **The Wrong Shelf** is the investigation and marks nothing. **The Breach** marks everything. It now runs at 7th level after **Kolat Towers**, so the strike team is the Splinter's survivors and the captured agent no longer names Kolat Towers as news. Who sent them follows the **Manshoon operational?** result, as the Doom Raiders and Harper sixth missions do.
+The mission is two events. **The Wrong Shelf** is the investigation and marks nothing. **The Breach** marks everything. It now runs at 7th level after **Kolat Towers**, so the strike team is the Splinter's survivors and the captured agent no longer names Kolat Towers as news. Who sent them follows the Manshoon Event Outcome from **Kolat Towers**, as the Doom Raiders and Harper sixth missions do.
 
 The six-agent roster had Power 224, which is impossible at every party size. The raid is now the Harper roster with a new Mage. Vira is a Mage Apprentice who runs, and she signals by sending stone and never by *Message*. The Tower's wards are a hard rule with a ten-round and a fifteen-round clock, and a staff-loss track in place of "Vajra handles the defences".
 

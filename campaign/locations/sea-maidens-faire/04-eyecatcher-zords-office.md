@@ -22,7 +22,7 @@ If the party asks about the nimblewright: Zord excuses himself briefly, steps th
 
 *Provisional — subject to revision at Sea Maidens Faire decomposition.*
 
-During Sea Maidens Faire, J29 is Jarlaxle's command post — he manages the heist's moving parts from here, not from J30 or J31 (training area). The Zardoz Zord persona may or may not be in effect depending on the party's prior relationship with him (see Sea Maidens Faire: Jarlaxle's Disposition table per BD relationship state).
+During Sea Maidens Faire, J29 is Jarlaxle's command post — he manages the heist's moving parts from here, not from J30 or J31 (training area). The Zardoz Zord persona holds for any character who is not marked **Jarlaxle Unmasked** and drops for any who is. How he receives the party follows its standing with Bregan D'aerthe (**Bregan D'aerthe Joined**, **BD Contact Severed** or neither), as set out in the Jarlaxle's Disposition table at **Sea Maidens Faire**.
 
 The complete ledger is no longer here — it was secured to the Scarlet Marpenoth (U4, Jarlaxle's stateroom) after Fireball. The jade chess set remains. The nimblewright guard is active at combat readiness.
 

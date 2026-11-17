@@ -8,7 +8,7 @@ No source describes this mission. Appendix C stops at the fifth mission, and the
 
 The mission now runs after **Kolat Towers**, at Renown 13 and 7th level, because 7th level requires all four heists. That removes any dependence on Eye counts. The raiders are survivors of the Splinter's Waterdeep cell, and the Mage has no *Contingency* because the 2024 Mage has none. Nobody escapes to Kolat Towers, and the Mage flies to a cellar and waits for a courier, which gives the party a clock and a place to fight her.
 
-The prior version had Mirt fight beside the party. Here he leaves at 01:00 to fetch his coach, and the raiders move once he has gone. That keeps his statistics out of the audit and explains why the raid fires whatever the party decides. The sending stone replies in a voice no member can place until **Manshoon Named** is marked, and the **Manshoon operational?** result from **Kolat Towers** changes only who is on the other end.
+The prior version had Mirt fight beside the party. Here he leaves at 01:00 to fetch his coach, and the raiders move once he has gone. That keeps his statistics out of the audit and explains why the raid fires whatever the party decides. The sending stone replies in a voice no member can place until **Manshoon Named** is marked, and the Manshoon Event Outcome from **Kolat Towers** changes only who is on the other end.
 
 ## Jalester and the Study
 

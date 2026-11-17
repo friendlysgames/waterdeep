@@ -15,11 +15,11 @@
 >
 > The kill team is what remains of Manshoon's Splinter field force after **Kolat Towers**, and it answers to Ondra Kell (Lawful Evil, Human, she/her), a Splinter field officer who commanded one of the tower's outer patrols and survived the night the party raided it. While the Splinter swept the tower's outbuildings afterward, its agents found a rooftop hide overlooking the upper walls of the force field, with a half-orc's boot prints and black-fletched arrows in it. Ondra decided that whoever watched the gaps in the field had helped the party through it, and she took five others to kill him. She found Trollskull Alley through Skeemo Weirdbottle. If **Skeemo at Kolat Towers** was marked in **Silencing Skeemo**, Skeemo told her himself that Ziraj keeps a room near Corellon's Crown. Otherwise the Splinter's old files on the Doom Raiders, which Skeemo fed it for two months, put Ziraj somewhere in Trollskull Alley without saying where.
 >
-> Who sent the team depends on the **Manshoon operational?** result that **Kolat Towers** Scene 6 records:
+> Who sent the team depends on which Manshoon Event Outcome the party marked in **Kolat Towers** Scene 6:
 >
-> - **Destroyed.** The Splinter cell collapsed within a tenday of the raid. If Vevette Blackwater is alive and free, she is holding the survivors together and approved the hunt to keep them loyal. If she was captured or killed, nobody sent Ondra, and she acts for revenge with the agents who still follow her. Either way the Splinter has no plan for the vault.
-> - **Simulacrum Only.** The simulacrum sent her, following a standing order Manshoon left behind to remove anyone who watched the tower. The Splinter means to let others open the vault and take the gold from them on the road.
-> - **Alive.** Manshoon ordered the hunt himself from wherever he is hiding, and the vault plan is the same as the simulacrum's.
+> - **Manshoon Destroyed.** The Splinter cell collapsed within a tenday of the raid. If Vevette Blackwater is alive and free, she is holding the survivors together and approved the hunt to keep them loyal. If she was captured or killed, nobody sent Ondra, and she acts for revenge with the agents who still follow her. Either way the Splinter has no plan for the vault.
+> - **Manshoon Simulacrum Only.** The simulacrum sent her, following a standing order Manshoon left behind to remove anyone who watched the tower. The Splinter means to let others open the vault and take the gold from them on the road.
+> - **Manshoon Alive.** Manshoon ordered the hunt himself from wherever he is hiding, and the vault plan is the same as the simulacrum's.
 >
 > The team's size is set by the party's size in the roster below, and **Kolat Towers** decides only who sent it and what Ondra says. If the K18 rune was destroyed and the force field fell, the survivors are hunting in an open city with no fortress to return to, and Ondra says so. If the Doom Raiders' parallel operation cleared the towers, she blames the Doom Raiders as much as the party. If **Yellowspire Circle Destroyed** was marked in **The Yellowspire Job**, the team reached the city on foot. Otherwise it came through the Yellowspire circle.
 >
@@ -240,13 +240,13 @@ If the Doom Raiders' parallel operation cleared the towers, she adds:
 >
 > Ondra glances at the rooftop before she answers, and the answer depends on the state of Manshoon after **Kolat Towers**.
 
-If Manshoon is Destroyed, read or paraphrase the following:
+If the party marked **Manshoon Destroyed**, read or paraphrase the following:
 
 > [!readaloud]
 >
 > > "There isn't any plan, since nobody is left who could make one. The ones who lived have scattered across the city, and most of them will be gone by the end of the tenday."
 
-If Manshoon is Simulacrum Only or Alive, read or paraphrase the following:
+If the party marked **Manshoon Simulacrum Only** or **Manshoon Alive**, read or paraphrase the following:
 
 > [!readaloud]
 >
@@ -326,7 +326,7 @@ If Ziraj has died, read or paraphrase the following:
 >
 > > "Sit, please. Yagra has told me how it went, and I would like to hear the rest of it from you, yes?"
 
-What Davil says first depends on the **Manshoon operational?** result from **Kolat Towers**. If it is Destroyed, he says the Splinter looks finished and that he would like to believe it. If it is Simulacrum Only, he says that what remains is a copy acting on orders and that copies make mistakes. If it is Alive, he says that nobody is safe until that man is found, and he asks the party to keep the Doom Raiders informed of anything they hear. If Vevette Blackwater was captured, he adds that Tashlyn will want to question her about this hunt.
+What Davil says first depends on the Manshoon Event Outcome from **Kolat Towers**. If the party marked **Manshoon Destroyed**, he says the Splinter looks finished and that he would like to believe it. If the party marked **Manshoon Simulacrum Only**, he says that what remains is a copy acting on orders and that copies make mistakes. If the party marked **Manshoon Alive**, he says that nobody is safe until that man is found, and he asks the party to keep the Doom Raiders informed of anything they hear. If Vevette Blackwater was captured, he adds that Tashlyn will want to question her about this hunt.
 
 If the party learned the Splinter's intentions from Ondra, Davil listens to all of it, nods slowly, and says he will pass it to Tashlyn. If it was the wagon plan, he says he will tell the locksmith and the wagon teams when the time comes. If Ondra said there is no plan, he asks whether the party believed her.
 
@@ -357,9 +357,9 @@ The Event concludes when the participating members have reported to Davil. Recor
 >
 > - **Ziraj Survived** — mark when Ziraj is alive at the end of the Event, including by *Revivify*. Read by **Ardragon**, where Davil offers Ziraj's favor and mentions the rescue, and by **Vault of Dragons** Scene 1, where Davil's Doom Raiders contact reports that Ziraj is watching the approach to the City of the Dead from the rooftops.
 > - **Ziraj Fell** — mark when Ziraj dies and is not restored. Read by **Ardragon**, where Davil announces that the favor is gone and offers **Yagra's Grab**, a capture-only substitute of Yagra and two Toughs; by **Dread Lord**, where Tashlyn's remark about the empty chair changes; and by **Vault of Dragons** Scene 1, where Yagra stands in for Ziraj and Davil does not mention him.
-> - **Splinter Kill Team Broken** — mark when every agent on the kill team is dead or captured and none has escaped. Read by **Vault of Dragons** Scene 5, where, if Manshoon is Alive or Simulacrum Only, the Splinter force at the vault has no survivors of this team and Manshoon learns nothing of the Doom Raiders' arrangements.
-> - **Splinter Survivor Escaped** — mark when any agent flees the scene alive or the party releases Ondra. Read by **Vault of Dragons** Scene 5, where, if Manshoon is Alive or Simulacrum Only, he opens the confrontation knowing which Doom Raiders will be at the vault.
-> - **Splinter Remnant Plan Learned** — mark when Ondra is taken alive and tells the party what the Splinter intends. Read by **Vault of Dragons** Scene 6, where, if Manshoon is Alive or Simulacrum Only, the party knows the Splinter will attack the gold wagons on the road.
+> - **Splinter Kill Team Broken** — mark when every agent on the kill team is dead or captured and none has escaped. Read by **Vault of Dragons** Scene 5, where, if the party marked **Manshoon Alive** or **Manshoon Simulacrum Only**, the Splinter force at the vault has no survivors of this team and Manshoon learns nothing of the Doom Raiders' arrangements.
+> - **Splinter Survivor Escaped** — mark when any agent flees the scene alive or the party releases Ondra. Read by **Vault of Dragons** Scene 5, where, if the party marked **Manshoon Alive** or **Manshoon Simulacrum Only**, he opens the confrontation knowing which Doom Raiders will be at the vault.
+> - **Splinter Remnant Plan Learned** — mark when Ondra is taken alive and tells the party what the Splinter intends. Read by **Vault of Dragons** Scene 6, where, if the party marked **Manshoon Alive** or **Manshoon Simulacrum Only**, the party knows the Splinter will attack the gold wagons on the road.
 
 > [!gamemaster]**Next Steps**
 >

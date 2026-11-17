@@ -17,9 +17,9 @@
 > - Tavor Aldeth (Neutral Evil, Human, he/him) is a Splinter Mage who waits in the Castle Ward with his raiders, and he does not move without Vira's message.
 > - The raiders are survivors of the Splinter's Waterdeep cell after **Kolat Towers**, and their objective is Vajra in her study on the top floor.
 > - **Kolat Towers** decides who sent them, and the branch below sets what Tavor and Vira say.
->   - **Destroyed:** nobody sent Tavor. The cell has collapsed, and he means to finish a plan that was already paid for. If Vevette Blackwater is alive and free, she approved it.
->   - **Simulacrum Only:** the simulacrum sent him, on a standing order to kill the Blackstaff before the vault opens.
->   - **Alive:** Manshoon ordered the raid himself from wherever he hides.
+>   - **Manshoon Destroyed:** nobody sent Tavor. The cell has collapsed, and he means to finish a plan that was already paid for. If Vevette Blackwater is alive and free, she approved it.
+>   - **Manshoon Simulacrum Only:** the simulacrum sent him, on a standing order to kill the Blackstaff before the vault opens.
+>   - **Manshoon Alive:** Manshoon ordered the raid himself from wherever he hides.
 > - Nobody says Manshoon's name, or calls Kolat Towers his home, unless **Manshoon Named** is marked for the member being addressed. Until then the raiders say "the Splinter" and "the other cell".
 > - The ward rules, the raid rosters and the staff track are all in this Event, and the wards hold or fail by the rules below, not by Vajra's choice.
 
@@ -127,15 +127,15 @@ The party can take Tavor, a Spy, the Tough Boss, a Tough or Vira. The statement 
 
 > [!qna]**Who sent you?**
 >
-> If the **Kolat Towers** result was Destroyed, Tavor answers:
+> If the party marked **Manshoon Destroyed** in **Kolat Towers**, Tavor answers:
 >
 > > "Nobody sent me. The cell is a few people in cellars, we paid for this plan before the tower fell, and I decided to finish it."
 >
-> If the result was Simulacrum Only or Alive, Tavor answers:
+> If the party marked **Manshoon Simulacrum Only** or **Manshoon Alive**, Tavor answers:
 >
 > > "The one who pays me. His orders came by a stone, in a voice I never put a face to, and I was to kill the Blackstaff."
 
-If the result was Simulacrum Only or Alive and **Manshoon Named** is marked, read this instead:
+If the party marked **Manshoon Simulacrum Only** or **Manshoon Alive** and **Manshoon Named** is marked, read this instead:
 
 > [!readaloud]
 >

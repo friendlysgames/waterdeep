@@ -18,7 +18,7 @@ Yagra Stonefist reaches Trollskull Manor at 02:10, armor on and breathing evenly
 
 ## Background
 
-After **Kolat Towers**, the Splinter's survivors swept the tower's outbuildings and found a rooftop hide overlooking the pass-amulet handoffs. Skeemo Weirdbottle's files, or Skeemo himself if **Skeemo at Kolat Towers** was marked, place Ziraj in Trollskull Alley. Ondra Kell, a field officer who survived the raid, took five agents to kill the man she thinks helped the party through the force field. Who sent her depends on the **Manshoon operational?** result from **Kolat Towers**: Destroyed (Vevette Blackwater, if free, or no one), Simulacrum Only, or Alive. Urstul Floxin plays no part, and nothing in the event assumes he lives.
+After **Kolat Towers**, the Splinter's survivors swept the tower's outbuildings and found a rooftop hide overlooking the pass-amulet handoffs. Skeemo Weirdbottle's files, or Skeemo himself if **Skeemo at Kolat Towers** was marked, place Ziraj in Trollskull Alley. Ondra Kell, a field officer who survived the raid, took five agents to kill the man she thinks helped the party through the force field. Who sent her depends on the Manshoon Event Outcome the party marked in **Kolat Towers**: **Manshoon Destroyed** (Vevette Blackwater, if free, or no one), **Manshoon Simulacrum Only** or **Manshoon Alive**. Urstul Floxin plays no part, and nothing in the event assumes he lives.
 
 Ziraj killed three or four of them on a warehouse roof off Sail Street before two crossbow bolts brought him down. He has been working toward Corellon's Crown ever since, marking the eaves with a code he taught Yagra years ago.
 
