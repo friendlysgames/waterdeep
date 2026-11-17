@@ -10,7 +10,7 @@ Trigger A is now per member and fixed in time and place: Renown 3, 3rd level, on
 
 ## Timeline and Voice
 
-The cult tenure is three years and Savra left in 1491 DR, about a year ago, matching the First Meeting. Her statement to the Halls of Justice leads to the arrests, and two arrested members are released within the month, which joins her story to Mirt's intel without her knowing the cause. She swears once, at her own failure, in line with her voice profile. She gives no nod until The Ask, where the table fixes her reply to each kind of answer and the nod goes only to answers that say what the member will do.
+The cult tenure is three years and Savra left in 1491 DR, about a year ago, matching the First Meeting. The cult is defeated in the north, as *Princes of the Apocalypse* has it, and the Order's chapter in Waterdeep arrests the remaining agents within a tenday. Two arrested members are released within the month, which joins her story to Mirt's intel without her knowing the cause. She swears once, at her own failure, in line with her voice profile. She gives no nod until The Ask, where the table fixes her reply to each kind of answer and the nod goes only to answers that say what the member will do.
 
 ## Departures from the Source
 
@@ -18,7 +18,7 @@ No Renown is awarded, as before. The two outcomes keep their names but are marke
 
 ## Invented Names and Open Items
 
-- Invented: the chapel in the east annex, the storm-night timing of the arrests, Saeth's steward in the household coat, and the claim that Savra's statement caused the arrests.
+- Invented: the chapel in the east annex, the tenday of arrests that follows the cult's defeat in the north, and Saeth's steward in the household coat.
 - Unverified: the Howling Hatred rank names (Initiate, Windwalker, Windcaller); no *Princes of the Apocalypse* file exists in `sources/`.
 - Open: no page decides who paid for the cult, so the Event leaves it a suspicion.
 - Resolved: Saeth's Notable Figures page now says "Halls of Justice" as the Order pages do, and lists this event.

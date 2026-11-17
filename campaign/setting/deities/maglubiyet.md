@@ -141,5 +141,5 @@ Maglubiyet is the lawful evil god of war and the ruler of the goblinoid gods. Go
 > - **Left out:** The wiki's avatar powers, tactics and possessions, the Baldur's Gate III worshipers and quotes, the wiki's other notable worshipers (Magalvahg, the Malauthar and Skaran Bendbone), the sons he disposed of, the goddesses Luthic and Kikanuti, the kobold god Kurtulmak, the norkers and banderhobbs, the bladelings, the class tables, and the note on the Turkish meaning of his name. None has a Waterdeep or campaign use.
 > - **No Never reveal bullet:** No secret attaches to him. The Vault of Dragons fresco is the only guarded item and sits in the GM Notes.
 > - **Hub:** No row in the hub's temples table. His hub rows are War and Order (PHB, 2014), Lawful Evil and War Domain (derived), and one row in "The powers of other peoples".
-> - **Checks for other pages:** `bane.md:119`, `zariel.md:93` and `moradin.md:107` mark Maglubiyet "(Deities, page planned)"; drop the note when this page lands.
+> - **Checks for other pages:** Settled: `bane.md:119`, `zariel.md:94` and `moradin.md:107` now read "(Deities)", so their cross-references point to this live page.
 > - **Not run:** `voicecheck.py` was not run, since this drafting agent has no shell. The main session runs it.
