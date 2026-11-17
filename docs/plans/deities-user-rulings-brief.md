@@ -22,3 +22,12 @@ Standing rule: canon lore is canon unless the campaign changed it for a stated d
 18. **Korgstrod.** Cut the fake Stone from 10-korgstrod-uxgulm.md lines 16, 22, 26; the Gralhund Villa journal governs the Stone. Settle the Conflicts note in lore/stone-of-golorr-and-the-eyes.md.
 19. **Iggwilv.** Keep the archfey account; settle the note.
 20. **Yorn the Terror.** Dragon Heist prints him as a half-orc thug, neutral evil (adventure-wdh.json:28339-28348). The page says "Human enforcer". No design reason: make him a half-orc in 14-yorn-the-terror.md, arc-i-kolat-towers.md, 09-manshoons-zhentarim.md, and the mielikki.md and gruumsh.md mentions if they say otherwise. Keep the Gladiator stat block unless the file already explains it.
+
+## Session 48 decision batch (user rulings, Session 51)
+S1. **The "something vast and dreaming" seed** (arc-f-xanathars-lair.md:382) stays unresolved until the Undermountain part of the campaign is worked on. Settle the Draft Note on ilsensine.md (line ~108) as "deferred to the Undermountain pass"; change no campaign text.
+S3. **The blessed of Corellon gift** stays available to everyone: any elf character, any class, as a way for players to run a character who transitions in play. Drow still call it a curse. Remove the "androgynous elf cleric only" restriction in corellon-larethian.md and anywhere else it is repeated.
+S4. **Subclass fits are judged by theme**, not by what the book text lists for the deity. Keep a fit when the deity's portfolio and the subclass's theme match.
+S5. **Lolth is a demon as well as a goddess** (Queen of the Demonweb Pits; FRHoF puts her home in the Abyss; the Mad Mage calls her a demon goddess and demon queen). The Fiend Patron is a strong thematic fit; drop the "moderate" and "no source ties a warlock to her" hedging.
+S6. **Iggwilv.** The campaign (1492 DR) takes place before The Wild Beyond the Witchlight, and no source gives the year of the freezing. Decision: in 1492 DR she is free and rules Prismeer as Zybilna; the Hourglass Coven's betrayal and the freezing come later, so the page does not say she is frozen.
+S7. **Nine pages Heroes of Faerûn dropped** (Akadi, Grumbar, Gwaeron Windstrom, Hoar, Istishia, Jergal, Kossuth, Savras, Valkur): add a note to the hub and a one-line note to each page: "Heroes of Faerûn has no entry for this god; the page rests on SCAG (2015) and the wiki."
+S9. **Zelifarn** is a young bronze dragon in Deepwater Harbor, not stationed aboard the Scarlet Marpenoth: fix organizations/07-bregan-daerthe.md:39 and anything else that places him aboard.
