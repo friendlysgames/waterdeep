@@ -18,7 +18,7 @@
 > - Illuun listens through Jalester Silvermane, the Lords' Alliance agent who spends his evenings beside the Yawning Portal's well. He doesn't know, and he is still loyal to Laeral. The contact is always Jalester and never Renaer.
 > - A Splinter watcher on a roof across the alley has watched Trollskull Manor since the Stone woke. He is a street watcher, so **Harper Leak Closed** makes no difference to the raid.
 > - The raiders are survivors of the Splinter's Waterdeep cell, led by the Mage Ysolde Marne. They wait for Mirt's coach to leave because they will not face him.
-> - **Kolat Towers** decides who stands behind them. If its **Manshoon operational?** result is Alive or Simulacrum Only, Ysolde carries Manshoon's last orders: take the Stone, hold it in a cellar and hand it to a courier at 06:00. If the result is Destroyed, nobody gave an order. The survivors mean to take the Stone for themselves, because whoever holds it can sell it or buy a way out of the city.
+> - **Kolat Towers** decides who stands behind them. If the party marked **Manshoon Alive** or **Manshoon Simulacrum Only** there, Ysolde carries Manshoon's last orders: take the Stone, hold it in a cellar and hand it to a courier at 06:00. If the party marked **Manshoon Destroyed**, nobody gave an order. The survivors mean to take the Stone for themselves, because whoever holds it can sell it or buy a way out of the city.
 > - Nobody in this Event says Manshoon's name or calls Kolat Towers his home unless **Manshoon Named** is marked for that member, and Mirt says "the Splinter" until then.
 
 ### The Brief
@@ -173,19 +173,19 @@ If the party takes Ysolde alive, she is bruised, short of breath and thoroughly 
 >
 > Ysolde's answer depends on what **Kolat Towers** left of Manshoon.
 
-If the result is Destroyed, read or paraphrase the following:
+If the party marked **Manshoon Destroyed**, read or paraphrase the following:
 
 > [!readaloud]
 >
 > > "Nobody sent me, and the cell is a few people in cellars and one stone. We agreed to take the Stone ourselves, because whoever holds it can sell it."
 
-If the result is Alive or Simulacrum Only, read or paraphrase the following:
+If the party marked **Manshoon Alive** or **Manshoon Simulacrum Only**, read or paraphrase the following:
 
 > [!readaloud]
 >
 > > "The one who pays me. Orders come by the stone, in a voice I've never put a face to, and I was to hold the Stone until a courier collected it."
 
-If the result is Alive or Simulacrum Only and **Manshoon Named** is marked, read this instead:
+If the party marked **Manshoon Alive** or **Manshoon Simulacrum Only** and **Manshoon Named** is marked, read this instead:
 
 > [!readaloud]
 >
@@ -211,9 +211,9 @@ Ysolde carries one stone of a matched pair. It is a smooth grey stone that fits 
 > - **"Failed":** "Understood, so break the stone and go to ground."
 > - **No message sent:** the stone is silent. At the next dawn a member can send up to 25 words, and the reply is: "Who is this? Say what you want, or put the stone down."
 >
-> If the result is Alive or Simulacrum Only, the voice is dry and level, and no member can place it unless **Manshoon Named** is marked. If the result is Destroyed, the voice belongs to a surviving Splinter officer whom nobody in the party knows.
+> If the party marked **Manshoon Alive** or **Manshoon Simulacrum Only**, the voice is dry and level, and no member can place it unless **Manshoon Named** is marked. If the party marked **Manshoon Destroyed**, the voice belongs to a surviving Splinter officer whom nobody in the party knows.
 
-If the voice belongs to an Alive or Simulacrum Only Manshoon and **Manshoon Named** is not marked, read or paraphrase the following:
+If the party marked **Manshoon Alive** or **Manshoon Simulacrum Only** and **Manshoon Named** is not marked, read or paraphrase the following:
 
 > [!readaloud]
 >
@@ -221,7 +221,7 @@ If the voice belongs to an Alive or Simulacrum Only Manshoon and **Manshoon Name
 >
 > > "I don't know that voice. Whoever it is, they're used to being obeyed."
 
-If the voice belongs to an Alive or Simulacrum Only Manshoon and **Manshoon Named** is marked, read this instead:
+If the party marked **Manshoon Alive** or **Manshoon Simulacrum Only** and **Manshoon Named** is marked, read this instead:
 
 > [!readaloud]
 >
@@ -229,7 +229,7 @@ If the voice belongs to an Alive or Simulacrum Only Manshoon and **Manshoon Name
 >
 > > "That's Manshoon, or something that talks for him. I'd know it anywhere, and I wish I didn't."
 
-If the result is Destroyed, read or paraphrase the following whether or not **Manshoon Named** is marked:
+If the party marked **Manshoon Destroyed**, read or paraphrase the following whether or not **Manshoon Named** is marked:
 
 > [!readaloud]
 >

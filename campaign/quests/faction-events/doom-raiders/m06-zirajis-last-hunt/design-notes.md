@@ -16,7 +16,7 @@
 
 ## Kolat Towers Readers
 
-This event reads the **Kolat Towers** results by the names `arc-i-kolat-towers.md` uses, and the Kolat Towers conversion must write each one as an Event Outcome: **Manshoon operational?** (Destroyed, Simulacrum Only or Alive, from Scene 6); whether Vevette Blackwater was captured, killed or escaped; whether the K18 rune was destroyed so the force field fell; and the result of the Doom Raiders' parallel operation (whether they cleared the towers). The event also reads **Skeemo at Kolat Towers** from **Silencing Skeemo**, **Yellowspire Circle Destroyed** from **The Yellowspire Job** and **Floxin Status** (Alive, Dead or Captured) from **Gralhund Villa**. The kill team's size never changes with these results; only who sent it, what Ondra says and what Davil says do.
+This event reads the **Kolat Towers** results by the names `arc-i-kolat-towers.md` uses, and the Kolat Towers conversion must write each one as an Event Outcome: the Manshoon Event Outcome (**Manshoon Destroyed**, **Manshoon Simulacrum Only** or **Manshoon Alive**, from Scene 6); whether Vevette Blackwater was captured, killed or escaped; whether the K18 rune was destroyed so the force field fell; and the result of the Doom Raiders' parallel operation (whether they cleared the towers). The event also reads **Skeemo at Kolat Towers** from **Silencing Skeemo**, **Yellowspire Circle Destroyed** from **The Yellowspire Job** and **Floxin Status** (Alive, Dead or Captured) from **Gralhund Villa**. The kill team's size never changes with these results; only who sent it, what Ondra says and what Davil says do.
 
 ## Out-of-Scope Notes
 

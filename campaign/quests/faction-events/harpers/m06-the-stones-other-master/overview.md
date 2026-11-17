@@ -20,7 +20,7 @@ Mirt comes to Trollskull Manor at 00:15 and asks the Harper members for three da
 
 The Stone holds Golorr, an aboleth. When it woke, another aboleth answered from Undermountain Level 4. Mirt's seer, Ivara Dunn, felt the answer, and she can trace it during the study to a living person: Jalester Silvermane, the Lords' Alliance agent who spends his evenings beside the Yawning Portal's well. Jalester doesn't know, and he is still loyal to the Open Lord. Members who heard the Emerald Enclave's reports in **The Water Table Stirs** recognise the description.
 
-The Splinter has watched the manor since the Stone woke. Its survivors wait for Mirt's coach to leave and raid the manor at 01:30. If **Kolat Towers** left Manshoon operational, they carry his last orders. If it left him Destroyed, they act for themselves.
+The Splinter has watched the manor since the Stone woke. Its survivors wait for Mirt's coach to leave and raid the manor at 01:30. If the party marked **Manshoon Alive** or **Manshoon Simulacrum Only** in **Kolat Towers**, they carry his last orders. If it marked **Manshoon Destroyed**, they act for themselves.
 
 ## The Brief
 

@@ -20,7 +20,7 @@ At 07:30 a Tower attendant named Orla Venn reaches Trollskull Manor on foot with
 
 Six weeks ago the Splinter placed Vira Solkan in Blackstaff Tower as a junior arcanist on forged Neverwinter Academy credentials. She hid a resonance disruptor in a hollowed book on the east workroom shelf, and it will drop the Tower's upper wards for four hours when she speaks its word. She carries one of a pair of sending stones, and a Splinter Mage named Tavor Aldeth carries the other.
 
-After **Kolat Towers**, the Splinter's survivors decide to finish what Vira began. Who sent them depends on the **Manshoon operational?** result: nobody (Destroyed), a standing order from the simulacrum (Simulacrum Only) or Manshoon himself (Alive). Nobody in the mission says Manshoon's name unless **Manshoon Named** is marked for the member.
+After **Kolat Towers**, the Splinter's survivors decide to finish what Vira began. Who sent them depends on the Manshoon Event Outcome from **Kolat Towers**: nobody (**Manshoon Destroyed**), a standing order from the simulacrum (**Manshoon Simulacrum Only**) or Manshoon himself (**Manshoon Alive**). Nobody in the mission says Manshoon's name unless **Manshoon Named** is marked for the member.
 
 > [!gamemaster]**What Is Actually True**
 >

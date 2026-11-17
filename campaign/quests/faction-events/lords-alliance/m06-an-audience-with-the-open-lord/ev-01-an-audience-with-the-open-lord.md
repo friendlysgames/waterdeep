@@ -255,8 +255,8 @@ If **Esloon Question Delivered** is marked, Laeral answers Esloon's question in 
 >
 > The offer is the same in every case, and its value changes with the state of **Kolat Towers**. Laeral says what it is worth if the party asks.
 >
-> - **Manshoon operational? Alive or Simulacrum Only:** the offer is live, and the leverage is real.
-> - **Manshoon operational? Destroyed:** the offer comes from the Splinter's survivors, who can still delay the Watch but hold no list worth exposing.
+> - **Manshoon Alive** or **Manshoon Simulacrum Only:** the offer is live, and the leverage is real.
+> - **Manshoon Destroyed:** the offer comes from the Splinter's survivors, who can still delay the Watch but hold no list worth exposing.
 > - **Blackmail Ledger delivered to Laeral:** she already holds five names, and the argument below is easier by 2.
 > - **The Vault of Dragons has already run:** the offer is a fifth of the gold the treasury has yet to enter in its books, and everything else stands.
 
@@ -294,7 +294,7 @@ If Laeral accepts the offer, read or paraphrase the following, and mark **Splint
 > [!gamemaster]**What the Offer Changes**
 >
 > - **Splinter Offer Declined:** the Splinter has no leverage at **Vault of Dragons**, and it cannot delay the Watch or threaten an exposure through Laeral.
-> - **Splinter Offer Taken:** at the Vault the Splinter can delay Watch cooperation by up to two hours. It can also threaten to expose one Masked Lord, but only if the Blackmail Ledger was not delivered. **Manshoon operational?** must also be Alive or Simulacrum Only.
+> - **Splinter Offer Taken:** at the Vault the Splinter can delay Watch cooperation by up to two hours. It can also threaten to expose one Masked Lord, but only if the Blackmail Ledger was not delivered. The party must also have marked **Manshoon Alive** or **Manshoon Simulacrum Only**.
 > - **After the Vault:** a declined offer sends the whole gold to the treasury, and an accepted offer sends a fifth of what remains to the Splinter's agents instead.
 
 ### The Writ

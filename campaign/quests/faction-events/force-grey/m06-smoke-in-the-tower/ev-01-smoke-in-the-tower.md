@@ -251,7 +251,7 @@ Read the following when the party confronts her with two or more findings:
 >
 > After the message, neither stone works until the next dawn. If a member takes an unused stone and touches it, the member can send up to 25 words, and Tavor answers: "Who is this? Vira does not answer this way. Say the word we agreed now, or put the stone down and leave this city tonight." (25 words.)
 >
-> The voice that answers is dry and level, and no member can place it. If the **Kolat Towers** result was Destroyed, it belongs to a Splinter officer nobody has met. If **Manshoon Named** is marked and the result was Alive or Simulacrum Only, Vajra says it sounds like "Manshoon, or something that talks for him", and she says it only then.
+> The voice that answers is dry and level, and no member can place it. If the party marked **Manshoon Destroyed** in **Kolat Towers**, it belongs to a Splinter officer nobody has met. If **Manshoon Named** is marked and the party marked **Manshoon Alive** or **Manshoon Simulacrum Only**, Vajra says it sounds like "Manshoon, or something that talks for him", and she says it only then.
 
 > [!exploration]**Where the Stone Is**
 >
