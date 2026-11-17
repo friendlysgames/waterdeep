@@ -60,7 +60,7 @@
 >   - The Shrines of Nature in the Sea Ward belong to **Mielikki** and **Silvanus**. No file connects them to Gwaeron, although he serves her. [research]
 >   - No trail-marker shrine in or near Waterdeep appears in any file, and no festival is tied to him. [research]
 > - **A cleric PC:** The domains are Knowledge and Nature (SCAG, 2014). Nature Domain (derived; Player's Handbook, 2014) is the fit, since he is a woodland tracker whom rangers treat as one of their own. Knowledge Domain (derived; Forgotten Realms: Heroes of Faerûn) is the alternative for a cleric who reads woodland signs more than she fights. The Divine Order that fits is Protector (derived), because he hunts trolls and orcs, and a Knowledge cleric would take Thaumaturge instead (derived). The sources describe no hierarchy of clergy for him, only rangers who pray to him, so a cleric of his is the rare case. A ranger is the natural follower.
-> - **A paladin PC:** Oath of Vengeance (derived; Player's Handbook, 2024), because it suits a paladin who pursues one hated foe, such as trolls or the servants of Malar, as Gwaeron pursued Malar. *Hunter's Mark* is among its oath spells, which suits a tracker's god. Oath of the Ancients (derived; Player's Handbook, 2024) is the alternative for a paladin who guards the wild and fights needless harm to forests and creatures. No source lists paladins among his followers, so both fits rest on his portfolio.
+> - **A paladin PC:** Oath of Vengeance (derived; Player's Handbook, 2024), because it suits a paladin who pursues one hated foe, such as trolls or the servants of Malar, as Gwaeron pursued Malar. *Hunter's Mark* is among its oath spells, which suits a tracker's god. Oath of the Ancients (derived; Player's Handbook, 2024) is the alternative for a paladin who guards the wild and fights needless harm to forests and creatures.
 > - **A warlock PC:** No warlock connection in the sources.
 > - **Campaign ties:** No campaign file uses this power.
 
@@ -91,6 +91,7 @@ Gwaeron Windstrom is the god of tracking, a ranger who was once mortal and was r
 > **[GM]**
 >
 > #### Draft Notes
+> - **No FRHoF entry:** Heroes of Faerûn has no entry for this god; the page rests on SCAG (2014) and the wiki.
 > - **Conflict, domains:** SCAG gives Knowledge and Nature (bundle `5etools.md:5`). The wiki's 5e row adds Forge (`wiki.txt:61`), citing the Player's Handbook, *Xanathar's Guide to Everything* and an Ed Greenwood post. The page follows SCAG and leaves Forge out.
 > - **Conflict, temples:** SCAG says he has no temples (`5etools.md:10`). The wiki infobox says "church = yes" (`wiki.txt:142`) and links a Church of Gwaeron Windstrom page, but the page carries no temple text. The page follows SCAG.
 > - **Conflict, worshipers:** SCAG says rangers of the North (`5etools.md:8`). The wiki's 2e row says "Fisherfolk, sailors, sea merchants" (`wiki.txt:117`), which matches no other worshiper text on its own page. The page leaves the 2e row out and uses the wiki's 3e row.

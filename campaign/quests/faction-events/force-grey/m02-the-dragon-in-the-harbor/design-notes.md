@@ -18,6 +18,6 @@ The restored draft used four 30-minute vials as a timer, but the 2024 *potion of
 
 - Invented: the offerings (fourteen cups, three casks, six candle jars and a bell, about 400 gp), the cave under the wreck's bow, Zelifarn's three tendays in the harbor, and his rowboat measures for the vessel. The 80-foot, 20-foot size comes from the Sea Maidens Faire location notes.
 - Meritide Blackfin has no Notable Figures page or voice profile, so his voice, alignment (Chaotic Evil) and pronouns (he/him) are assumed from the event text.
-- The Notable Figures page for Zelifarn says Sea Dragon Wyrmling and says he reports to Jarlaxle, and the Bregan D'aerthe organization page puts him aboard the *Scarlet Marpenoth*. Both contradict this Event.
+- The Notable Figures page for Zelifarn and the Bregan D'aerthe organization page now agree with this Event: he is a young bronze dragon in Deepwater Harbor who does not report to Jarlaxle and is not stationed aboard the *Scarlet Marpenoth* (Session 51 ruling).
 - The Twin Parades text says the fleet docks on Ches 21, but the Field of Triumph text says it is already docked, so this Event runs from whenever the fleet docks until Tarsakh 20.
 - **Sea Maidens Faire** (arc-h:392-398) states a backstory for Zelifarn that this Event does not touch, and it is left unedited.

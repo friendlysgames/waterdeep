@@ -59,7 +59,7 @@
 >   - The SCAG says his priests are welcome in the temples of Kelemvor, Deneir and Myrkul. The campaign files place none of those temples in Waterdeep, so a priest of Jergal in the city has no temple to work from. Kelemvor is honored in the City of the Dead, and no file says who keeps its graves.
 >   - The wiki has no Waterdeep text for him. Its one temple, abandoned for a century, lies on the Sword Coast.
 > - **A cleric PC:** Knowledge Domain (derived; Heroes of Faerûn). Knowledge is one of his two domains (SCAG, 2014), and he is the god of the records of the dead. Grave Domain (derived; Ravenloft: The Horrors Within) is the alternative for a cleric who tends tombs and burial more than the book. The Divine Order that fits is Thaumaturge (derived), because his clergy are record keepers and gravekeepers who rely on learning.
-> - **A paladin PC:** Oath of Devotion (derived; Player's Handbook, 2024), a loose fit. The wiki's 3e row lists paladins among his worshipers, and Devotion suits a knight sworn to duty, order and honest record against anyone who would hide or falsify a death. The SCAG describes him as uncaring, so the oath would draw more from his loyalty to the office than from any warmth.
+> - **A paladin PC:** Oath of Devotion (derived; Player's Handbook, 2024). The wiki's 3e row lists paladins among his worshipers, and Devotion suits a knight sworn to duty, order and honest record against anyone who would hide or falsify a death. The SCAG describes him as uncaring, so the oath would draw more from his loyalty to the office than from any warmth.
 > - **A warlock PC:** No warlock connection in the sources.
 > - **Campaign ties:** No campaign file uses this power.
 
@@ -87,6 +87,7 @@ Jergal is the Final Scribe, the lawful neutral god who keeps the records of the 
 > **[GM]**
 >
 > #### Draft Notes
+> - **No FRHoF entry:** Heroes of Faerûn has no entry for this god; the page rests on SCAG (2014) and the wiki.
 > - **SCAG-only path:** FRHoF has no Jergal entry, so Title, Other Names, Domains, Symbol and Alignment come from the SCAG (2014), and Plane and Typical Followers come from the wiki, tagged by edition. The SCAG prose for the typical followers is the undertaker line. The wiki adds monks, necromancers and paladins (3e).
 > - **Brief versus the sources:** The brief describes the merge of Jergal, Myrkul and Bane into the "Dead Three" and then into Kelemvor's portfolio. The SCAG and the wiki say something else. Jergal's portfolio of death, murder and strife was split among Bane, Bhaal and Myrkul, whom the wiki calls the Dark Three, and Jergal stayed on as a scribe and seneschal. Kelemvor follows as the later god of the dead, and no source merges Jergal into his portfolio. The wiki's Baldur's Gate III passage uses "Dead Three" for the same trio. This page follows the sources.
 > - **Conflict, alignment:** The SCAG and the wiki's 5e, 3e and 2e rows say Lawful Neutral. The wiki's 2e row adds Lawful Evil as his former alignment, and the 4e row says Unaligned (`sources/research/pass2-bundles/jergal/wiki.txt:15`, `:44`, `:59` and `:29`). The page follows the SCAG.
