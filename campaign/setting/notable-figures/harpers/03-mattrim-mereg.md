@@ -3,7 +3,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - *Human bard (Harper spy), lawful good*. Stat block: **Bard**.
+> - *Human bard (Harper spy), lawful good*. Stat block: **Performer**.
 > - **Affiliation:** Harpers
 > - **Featured in:** **Finding Floon**, **Trollskull Alley**, **The Doppelganger Auditions**
 
@@ -21,7 +21,7 @@
 
 **Persona.** To the world, Mattrim Mereg is a middling bard who plays three strings because he broke the others and has not gotten around to replacing them. He plays the Yawning Portal most evenings, drinks moderately, and is well-liked in the way that unremarkable people are well-liked. To those he trusts, he is a Harper operative who has spent two years building rapport with Bonnie's gang and knows their secret. Deep down, he has done his job too well — he likes them, and he knows what an honest report will probably recommend.
 
-**Morale.** In a fight, Threestrings supports allies with Bardic Inspiration and stays out of melee range. He does not break cover for a fight he can avoid.
+**Morale.** In a fight, Threestrings stays at the edge of it and draws his shortsword only to cover a retreat. He does not break cover for a fight he can avoid.
 
 **Relationships.** Threestrings is a Harper agent embedded at the Yawning Portal, the only person in Waterdeep who knows Bonnie's true nature, the subject of Harper mission three (an assessment of the doppelgangers), and a Trollskull Manor house bard candidate whose daytime audition is both genuine and convenient.
 

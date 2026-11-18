@@ -3,7 +3,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - *Human bard, chaotic good*. Stat block: **Bard**.
+> - *Human bard, chaotic good*. Stat block: **Performer Maestro**.
 > - **Affiliation:** Bregan D'aerthe (Jarlaxle's companion, not his employee)
 > - **Featured in:** **Sea Maidens Faire**
 
@@ -21,7 +21,7 @@
 
 **Persona.** To the world, Margo Verida is a performer traveling with Zardoz Zord's carnival — excellent, clearly at home on a ship, someone you assume is in Jarlaxle's company for professional reasons. To those who deal with her directly, she is one of the few people Jarlaxle treats as a peer rather than an asset, and she notices when the treatment shifts. Deep down, she flattery-tested Jarlaxle once, early in the acquaintance, to confirm his compliments were genuine rather than operational; they were, which is why she is still here.
 
-**Morale.** In a fight, Margo uses bardic magic for control and positioning before engaging directly. She is not suicidal and is not Jarlaxle's shield; she fights for reasons she has chosen, not on assignment. A DC 13 Persuasion check built on specific flattery about her music opens a social window before any fight becomes unavoidable. She will not betray Jarlaxle under any circumstances.
+**Morale.** In a fight, Margo uses Beguiling Song and Tasha's Hideous Laughter for control before engaging directly with her rapier. She is not suicidal and is not Jarlaxle's shield; she fights for reasons she has chosen, not on assignment. A DC 13 Persuasion check built on specific flattery about her music opens a social window before any fight becomes unavoidable. She will not betray Jarlaxle under any circumstances.
 
 **Relationships.** Margo is Jarlaxle's companion aboard the Eyecatcher — not his employee, his friend — paired with Khafeyta Murzan in J29, a BD-associated operative whose affiliation derives from freely chosen loyalty rather than organizational membership, and a combatant significantly more capable than a performer's cabin assignment implies.
 

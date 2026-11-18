@@ -1,8 +1,6 @@
 ﻿# Kalain's Tower
 
-> **[GM]**
->
-> #### Gamemaster's Summary
+> [!gamemaster]**Gamemaster's Summary**
 >
 > This Optional Exploration/Social Event covers the visit to Kalain's tower near the harbor. In this Event:
 >
@@ -26,7 +24,7 @@ Her paintings are alive in two senses. The smaller, older paintings — sleeping
 
 **DC 14 Charisma (Persuasion) on arrival:** Kalain accepts that the party is not Dagult's agents. She settles slightly — still fragmented, but no longer at the edge. Conversation is possible.
 
-**On a failure:** Kalain uses Art Imitates Life once in this fight, on one of the monster paintings, to defend herself. The creature is a Medium animated figure. The stand-in is an Animated Armor with a custom 40 hit points (the published monster has 33) and no Antimagic Susceptibility, and this fight rates Bloody at level 3 and Bruising at level 4 for a party of four, so a level 3 party can talk her down or retreat. Kalain uses the Bard stat block on her Notable Figures page, with faerie fire in place of Sleep, and casts her spells from behind the creature. At the start of each of her turns, one character can try a DC 12 Charisma (Persuasion) check by arguing about Dalakhar, who is dead and is the reason the party came. On a success the creature vanishes, the painting stays blank, and Kalain apologizes in a disconnected way.
+**On a failure:** Kalain uses Art Imitates Life once in this fight, on one of the monster paintings, to defend herself. The creature is a Medium animated figure. The stand-in is an Animated Armor with a custom 40 hit points (the published monster has 33) and no Antimagic Susceptibility, and this fight rates Bruising at level 3 and Mild at level 4 for a party of four. Kalain uses the Performer stat block on her Notable Figures page and stays behind the creature, striking with her shortsword at anyone who reaches her. She casts no spells. At the start of each of her turns, one character can try a DC 12 Charisma (Persuasion) check by arguing about Dalakhar, who is dead and is the reason the party came. On a success the creature vanishes, the painting stays blank, and Kalain apologizes in a disconnected way.
 
 ### Conversation with Kalain
 
@@ -40,9 +38,7 @@ What she knows — and will eventually share, in pieces, without prompting:
 
 **Victoro Cassalanter's visit.** She will not volunteer this. If the party asks whether anyone else has come asking about Neverember's projects, she confirms: a man named Victoro Cassalanter visited a few weeks ago. He was asking many of the same questions Dalakhar had asked years before — the vault, Neverember's last projects, whether she kept his papers. He was polite. She found his politeness the most unsettling thing about the visit.
 
-> **[GM]**
->
-> #### The Cassalanter Link
+> [!gamemaster]**The Cassalanter Link**
 >
 > This is the first concrete in-campaign evidence that Victoro has been actively investigating the vault independently — not just in response to the fireball but for weeks prior. It confirms the dinner conversation's implication and explains why his intelligence is unusually specific. Cross-ref Cassalanter Villa: Victoro's research dossier.
 >

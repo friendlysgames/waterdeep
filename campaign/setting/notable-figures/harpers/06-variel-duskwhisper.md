@@ -3,7 +3,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - *Wood elf bard (Harper courier), neutral good*. Stat block: **Bard**.
+> - *Wood elf bard (Harper courier), neutral good*. Stat block: **Performer**.
 > - **Affiliation:** Harpers
 > - **Featured in:** Background figure; no scripted appearance.
 
@@ -21,7 +21,7 @@
 
 **Persona.** To the world, Variel Duskwhisper is a wandering elf bard who plays folk ballads at the same establishments on a slow circuit and drinks his one drink slowly. To those who know where to listen, he tells one story per set that is also an intelligence report, delivered in the structure of the tale and audible only to someone who knows what they are hearing. Deep down, he has been doing this for eight years and finds the work sufficient.
 
-**Morale.** In a fight, Variel uses bardic magic to protect himself and exits. He does not put the courier network at risk for a fight.
+**Morale.** In a fight, Variel relies on Uncanny Dodge to protect himself and exits. He does not put the courier network at risk for a fight.
 
 **Relationships.** Variel is a Harper courier operating under touring musician cover, a Trollskull Manor bard candidate whose audition is genuine, a member of the Harper intelligence relay who passes one piece of network intelligence per tenday, and a man who has watched the same taverns long enough to notice when something changes.
 
