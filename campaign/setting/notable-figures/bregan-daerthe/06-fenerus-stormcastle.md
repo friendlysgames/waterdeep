@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Tethyrian human spy (retired brigand), neutral, he/him*. Stat block: **Spy**.
+> - *Tethyrian human bandit captain (retired brigand), neutral, he/him*. Stat block: **Bandit Captain**.
 > - **Affiliation:** Bregan D'aerthe (cut-out who spies for Luskan and has worked out where the messages go)
 > - **Featured in:** **Gralhund Villa**, **Faction Outposts**, **Sea Maidens Faire**
 
