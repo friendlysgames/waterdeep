@@ -63,7 +63,7 @@ A member who knows of the Order's expectation can pay at any time on days one an
 
 > [!social]**Brother Hallin Ostrel**
 >
-> Brother Hallin Ostrel (Lawful Good, Human, he/him) :: the Order of the Gauntlet's clerk at the Halls of Justice, a thin, ink-stained man in his fifties who keeps the Order's accounts and the door-warden's message shelf.
+> Brother Hallin Ostrel (Lawful Good, Illuskan Human, he/him) :: the Order of the Gauntlet's clerk at the Halls of Justice, a thin, ink-stained man in his fifties who keeps the Order's accounts and the door-warden's message shelf.
 >
 > Hallin is patient with people who have never given money away in an organized fashion. He writes everything down twice, speaks in short practical sentences, and does not moralize. He gives each member a receipt naming the cause, the sum and the date. The Order's runner takes the coin across the city the same day.
 >
@@ -111,7 +111,7 @@ At dusk on day two, Savra goes to the manor and knocks once. She speaks to each 
 
 > [!social]**Savra Belabranta**
 >
-> Savra Belabranta (Neutral Good, Human, she/her) :: a late-twenties knight of the Order with her dark hair worn back, a strong jaw, a dark riding coat and a silver gauntlet pin at her collar.
+> Savra Belabranta (Neutral Good, Tethyrian Human, she/her) :: a late-twenties knight of the Order with her dark hair worn back, a strong jaw, a dark riding coat and a silver gauntlet pin at her collar.
 >
 > Savra does not sit and does not accept tea, because she has one piece of Order business and wants to be done with it. She speaks plainly and states the hard part first. She gives a single measured nod only to answers she believes are honest.
 >

@@ -102,7 +102,7 @@ The Dock Ward has dozens of working dray horses, but every inquiry below ends at
 
 > [!social]**The Boy on the Wall**
 >
-> Orvel (Unaligned, Human, he/him) :: a Dock Ward urchin who has talked with Maxeene before and sells what he knows.
+> Orvel (Unaligned, Illuskan Human, he/him) :: a Dock Ward urchin who has talked with Maxeene before and sells what he knows.
 >
 > Orvel will tell the party where she stands for 1 sp and one of the apples. No check is needed. He knows nothing about Vell or the Splinter and does not care to learn.
 
@@ -224,7 +224,7 @@ The party has four ways to handle her.
 
 > [!social]**The Woman in the Coach**
 >
-> Vell (Neutral Evil, Human, she/her) :: a Spy of the Splinter, patient and hard to rattle, who wants to return with a name and without being held.
+> Vell (Neutral Evil, Tethyrian Human, she/her) :: a Spy of the Splinter, patient and hard to rattle, who wants to return with a name and without being held.
 >
 > Vell keeps the curtain across her lap and her hands where they can be seen. She never speaks first. She answers questions with questions and gives nothing away until she is held or is bargaining for her release. She has worked for the Splinter for a year and does not know who leads it.
 >
@@ -330,7 +330,7 @@ Hessa Dorn keeps a stable on Brondar's Way, between two bakeries in the North Wa
 
 > [!social]**The Stablekeeper**
 >
-> Hessa Dorn (Lawful Neutral, Human, she/her) :: a brusque stablekeeper who keeps Harper horses and asks no questions about their riders.
+> Hessa Dorn (Lawful Neutral, Illuskan Human, she/her) :: a brusque stablekeeper who keeps Harper horses and asks no questions about their riders.
 >
 > Hessa is gruff with people and gentle with animals. She notices anyone who has followed a customer to her gate. She wants Maxeene out of the street in under a minute.
 

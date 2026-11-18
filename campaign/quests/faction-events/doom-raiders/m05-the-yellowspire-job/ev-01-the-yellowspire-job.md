@@ -156,7 +156,7 @@ The party can spend a day watching Yellowspire from the lane, from a rented uppe
 
 > [!gamemaster]**Agorn Fuoco**
 >
-> Agorn Fuoco (Neutral Evil, Human, he/him) is in the tower only if the party enters during working hours after dusk, when he sits by the ground-level fire and tunes a lute. He visits on those evenings to see Amath. He never fights and has no stat block, and he flees the moment a fight starts. If the party catches him, or he is present when they enter peacefully, he offers his pass-amulet and Amath's schedule for his life before anyone asks. If he escapes, he does not use the circle, but the Splinter learns of the raid within a day.
+> Agorn Fuoco (Neutral Evil, Turami Human, he/him) is in the tower only if the party enters during working hours after dusk, when he sits by the ground-level fire and tunes a lute. He visits on those evenings to see Amath. He never fights and has no stat block, and he flees the moment a fight starts. If the party catches him, or he is present when they enter peacefully, he offers his pass-amulet and Amath's schedule for his life before anyone asks. If he escapes, he does not use the circle, but the Splinter learns of the raid within a day.
 
 ### The Tower
 

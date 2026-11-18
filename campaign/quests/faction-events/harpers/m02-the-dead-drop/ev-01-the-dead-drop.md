@@ -201,7 +201,7 @@ The Seven Scales Counting House is at 18 Sorn Street. It closes at 18:00, and Te
 
 > [!social]**The Clerk Who Took the Money**
 >
-> Tessalar Maeridge (Neutral, Human, he/him) :: a 23-year-old records clerk, thin and ink-stained, who took 50 gp from a stranger and has not slept properly since.
+> Tessalar Maeridge (Neutral, Tethyrian Human, he/him) :: a 23-year-old records clerk, thin and ink-stained, who took 50 gp from a stranger and has not slept properly since.
 >
 > Tessalar is frightened and eager to talk. He asks for the stairwell if other clerks are near, and he answers every question in full once he is out of earshot. He has no loyalty to the man who paid him. He has never heard the word Harper and does not know who the circle really is.
 >

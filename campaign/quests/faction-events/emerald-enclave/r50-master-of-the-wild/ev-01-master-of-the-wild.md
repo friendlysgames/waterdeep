@@ -188,7 +188,7 @@ Read the following aloud as the six step forward:
 
 > [!social]**The Warden of the Parks**
 >
-> Sorrel Hartwick (Neutral Good, Human, she/her) :: a druid in her fifties who leads the six. She has tended Waterdeep's parks and the margins of the City of the Dead for twenty years.
+> Sorrel Hartwick (Neutral Good, Chondathan Human, she/her) :: a druid in her fifties who leads the six. She has tended Waterdeep's parks and the margins of the City of the Dead for twenty years.
 >
 > Sorrel is Friendly and practical. She speaks in plain sentences with contractions, and she swears once in a while when something annoys her. She treats the member as the one in command and says so before anyone asks.
 >
@@ -233,7 +233,7 @@ Read the following aloud as the six step forward:
 
 > [!gamemaster]**The Six as Allies**
 >
-> Sorrel Hartwick, Ealdra Hollin and Tavish Merrow use the 2024 **Druid** block, as printed for Melannor and without his traits. Rolan Dace, Hob Lathen and Naerith Evenmoor use the **Scout** block. Sorrel, Tavish, Rolan and Hob are human, Ealdra is a half-elf and Naerith is a wood elf.
+> Sorrel Hartwick, Ealdra Hollin and Tavish Merrow use the 2024 **Druid** block, as printed for Melannor and without his traits. Rolan Dace, Hob Lathen and Naerith Evenmoor use the **Scout** block. Sorrel (Chondathan), Tavish (Illuskan), Rolan (Tethyrian) and Hob (Chondathan) are human, Ealdra is a half-elf and Naerith is a wood elf.
 >
 > Ally Power counts in full for the allies who fight, and the first-turn knockout bonus does not apply to them. For a party at 8th level, add the totals below to Party Power before recalculating the difficulty and the day cost:
 >

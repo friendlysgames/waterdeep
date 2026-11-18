@@ -26,11 +26,11 @@ Its agenda in the Grand Game is territorial. Xanathar held the Stone of Golorr u
 - **Ott Steeltoes** — Dwarf cult fanatic (Zuggtmoy), neutral evil. Guild field agent, currently held prisoner in the Zhentarim Interrogation House. Wears a leather skullcap stitched with fake beholder eyestalks. If rescued and cultivated, he can lead the PCs toward Xanathar's Lair. See the **Ott Steeltoes** page in Notable Figures.
 - **Thorvin Twinbeard** — Dwarf engineer (secret Harper), neutral good. See the **Thorvin Twinbeard** page in Notable Figures.
 - **Keln Trigos** — Tiefling priest (Xanathar's Guild), neutral evil. Stationed at the Terasse Estate. Provides healing for the Guild's agents and manages the gladiatorial audience transports to the Lair. See the **Keln Trigos** page in Notable Figures.
-- **Grinda Garloth** — Human mage (black market armorer), neutral. Black market armorer based at Mistshore. Allied with Xanathar; equips the Guild's agents and rents equipment to third parties, including (per the documents) Bregan D'aerthe. See the **Grinda Garloth** page in Notable Figures.
+- **Grinda Garloth** — Illuskan human mage (black market armorer), neutral. Black market armorer based at Mistshore. Allied with Xanathar; equips the Guild's agents and rents equipment to third parties, including (per the documents) Bregan D'aerthe. See the **Grinda Garloth** page in Notable Figures.
 - **Korgstrod Uxgulm** — Duergar (second response team leader), lawful evil. Duergar leader of the sewer hideout beneath Orb Confectioners. Leads the second response team. See the **Korgstrod Uxgulm** page in Notable Figures.
 - **Gorath** — Duergar (first response team leader), lawful evil. See the **Gorath** page in Notable Figures.
 - **Grevik Nass** — Half-orc cook, neutral evil. See the **Grevik Nass** page in Notable Figures.
-- **Tobrin Ashvale** — Human bartender, neutral evil. See the **Tobrin Ashvale** page in Notable Figures.
+- **Tobrin Ashvale** — Chondathan human bartender, neutral evil. See the **Tobrin Ashvale** page in Notable Figures.
 
 ## Cross-References
 

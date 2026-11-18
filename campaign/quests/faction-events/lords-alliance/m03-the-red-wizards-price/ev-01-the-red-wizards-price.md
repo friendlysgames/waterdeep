@@ -129,7 +129,7 @@ If a character asks Rovan Skell or any regular about Holvar, read or paraphrase 
 
 > [!social]**The Landlord Who Knows Nothing**
 >
-> Rovan Skell (Neutral, Human, he/him) :: the Splinter's tenant at the Skewered Dragon, a heavy man who wipes the same mug while he refuses to help.
+> Rovan Skell (Neutral, Illuskan Human, he/him) :: the Splinter's tenant at the Skewered Dragon, a heavy man who wipes the same mug while he refuses to help.
 >
 > Rovan gives strangers nothing and gives questions about Holvar less. He answers with the same flat refusal however he is asked, and a coin on the bar changes nothing. Cutter leaves his stool within a minute of the first question.
 >
@@ -306,7 +306,7 @@ Sarvos is a broker who avoids a fight, and he surrenders when two armed people s
 
 > [!social]**The Broker**
 >
-> Sarvos Miln (Neutral, Human, he/him) :: the Splinter's broker, a thin man with ink-stained fingers who prefers to be agreeable and never names his principal.
+> Sarvos Miln (Neutral, Calishite Human, he/him) :: the Splinter's broker, a thin man with ink-stained fingers who prefers to be agreeable and never names his principal.
 >
 > Sarvos is polite while he is useful and brisk when he is not. He bargains with whoever holds him, offers a small thing to avoid giving a large one, and swears once or twice when he is caught, but he will not name his principal.
 >

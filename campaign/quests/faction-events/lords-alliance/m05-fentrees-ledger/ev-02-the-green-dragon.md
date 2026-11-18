@@ -65,7 +65,7 @@ When a character opens her door, read or paraphrase the following:
 
 > [!social]**The Broker in Room 3**
 >
-> Rezka (Chaotic Neutral, Human, she/her) :: a red-haired freelance broker in her thirties who sells paper to anyone with coin and has overplayed her hand.
+> Rezka (Chaotic Neutral, Calishite Human, she/her) :: a red-haired freelance broker in her thirties who sells paper to anyone with coin and has overplayed her hand.
 >
 > Rezka is Unfriendly and frightened, though she hides it behind a hard, practical manner. She has read the ledger twice and knows it is worth more than she can safely sell. She swears plainly and often, and she wants a road out of Waterdeep more than she wants the money.
 >
@@ -117,7 +117,7 @@ A character who speaks to Ossery or Emira in the taproom before their meetings c
 
 > [!social]**The Guild's Negotiator**
 >
-> Ossery Klenn (Lawful Evil, Human, he/him) :: a plump, affable negotiator for Xanathar's Guild who buys information the way other men buy fish. He keeps a rapier he would rather not draw.
+> Ossery Klenn (Lawful Evil, Tethyrian Human, he/him) :: a plump, affable negotiator for Xanathar's Guild who buys information the way other men buy fish. He keeps a rapier he would rather not draw.
 >
 > Ossery is Indifferent and genial. He haggles for pleasure, swears cheerfully to put people at ease and says his employer's name without lowering his voice. He will not pay for a ledger whose seller has been caught, and he surrenders at the first blood.
 >
@@ -195,7 +195,7 @@ If the ledger was sold to Emira and the party does not stop her, her escort walk
 
 > [!social]**The Hired Agent**
 >
-> Emira Volstren (Neutral, Human, she/her) :: a composed woman of about forty in a plain grey cloak. A family hired her to buy paper, and she is paid to give nothing away.
+> Emira Volstren (Neutral, Illuskan Human, she/her) :: a composed woman of about forty in a plain grey cloak. A family hired her to buy paper, and she is paid to give nothing away.
 >
 > Emira is Indifferent and courteous. She speaks in complete sentences, never raises her voice and does not give her name unless it is asked of the register. She wears a signet ring turned inward on her left hand, and she will not discuss her principals.
 >

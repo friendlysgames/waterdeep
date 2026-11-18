@@ -154,7 +154,7 @@ Vajra's staff will talk, but they will not volunteer a name they are not sure of
 
 > [!social]**Three Who Notice**
 >
-> Orla Venn (Neutral, Human, she/her) :: the Tower attendant, who runs errands to every floor and sees everyone twice a day.
+> Orla Venn (Neutral, Illuskan Human, she/her) :: the Tower attendant, who runs errands to every floor and sees everyone twice a day.
 >
 > Orla chats and does not guess. Ysmay Halvane, a Tower staff mage, speaks in careful sentences, and Merris, the quartermaster, licks his thumb and says as little as he can. None of the three swears, and each answers plainly.
 >
@@ -201,7 +201,7 @@ Two findings out of three are enough to confront Vira with confidence, and all t
 
 > [!social]**The Quiet Junior**
 >
-> Vira Solkan (Neutral Evil, Human, she/her) :: a junior arcanist of twenty-six who has spent six weeks being forgotten.
+> Vira Solkan (Neutral Evil, Damaran Human, she/her) :: a junior arcanist of twenty-six who has spent six weeks being forgotten.
 >
 > In cover, Vira is soft-spoken and deferential and apologises for being in the way. Exposed, her voice turns cold and businesslike, and she plans her exit in every sentence. She swears once, coldly, when she is exposed, and never again.
 >

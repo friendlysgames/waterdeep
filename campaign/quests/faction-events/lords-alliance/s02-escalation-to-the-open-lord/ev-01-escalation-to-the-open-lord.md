@@ -49,7 +49,7 @@ If **Laeral Told of Jalester** is marked, Sevel Dastar takes Jalester's place at
 
 > [!gamemaster]**If Sevel Is the Handler**
 >
-> Sevel Dastar (Neutral, Human, he/him, **Spy**) is plain and dry, and he may swear lightly. He takes the account at a table under the stairs, and he asks the three questions in the same order. He signs everything "S.D." and reads Laeral's answer the next evening in the same place.
+> Sevel Dastar (Neutral, Chondathan Human, he/him, **Spy**) is plain and dry, and he may swear lightly. He takes the account at a table under the stairs, and he asks the three questions in the same order. He signs everything "S.D." and reads Laeral's answer the next evening in the same place.
 >
 > Because the table is not beside the well, the line in **Beside the Well** does not apply to him.
 >

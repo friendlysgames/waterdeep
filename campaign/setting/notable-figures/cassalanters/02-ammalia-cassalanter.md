@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Human wizard and secret Asmodeus worshipper, lawful evil*. Stat block: **Mage (with modifications)**.
+> - *Tethyrian human wizard and secret Asmodeus worshipper, lawful evil*. Stat block: **Mage (with modifications)**.
 > - **Affiliation:** The Cassalanters (cult leadership)
 > - **Villain profile:** see **The Cassalanters** in Villains
 > - **Featured in:** Trollskull Alley, Fireball!, Cassalanter Villa, Vault of Dragons, The Theater's Back Room, Cassalanter Villa (location)

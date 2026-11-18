@@ -28,7 +28,7 @@ One foot of sewage covers the floor of Q01 and the entry approach tunnel. Q02 th
 
 **Base inhabitants during Finding Floon:**
 - Q02a, Q02b: two goblins (one per alcove; asleep in unaware state, awake and watching Q01 in alert state)
-- Q05: Zemk (duergar); Krentz (human, if he survived ev-01)
+- Q05: Zemk (duergar); Krentz (Damaran human, if he survived ev-01)
 - Q06: one gray ooze
 - Q07: Grum'shar (CE half-orc wizard); Nihiloor (mind flayer); one intellect devourer; Floon Blagmaar (1 hp, prisoner)
 

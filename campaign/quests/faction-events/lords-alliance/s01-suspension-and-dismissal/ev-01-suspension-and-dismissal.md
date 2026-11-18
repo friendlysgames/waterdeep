@@ -153,7 +153,7 @@ Mark **LA Suspended** with the member's name. Jalester writes down the answer to
 
 > [!gamemaster]**If Sevel Is the Handler**
 >
-> Sevel Dastar (Neutral, Human, he/him, **Spy**) is plain and dry, and he may swear lightly. He gives the verdict in the same order and signs everything "S.D."
+> Sevel Dastar (Neutral, Chondathan Human, he/him, **Spy**) is plain and dry, and he may swear lightly. He gives the verdict in the same order and signs everything "S.D."
 >
 > > "Silvermane's elsewhere, so this lands on me, and you're suspended from Alliance work until you're cleared. Your Renown stays as it is, and I'll tell you the three ways back."
 

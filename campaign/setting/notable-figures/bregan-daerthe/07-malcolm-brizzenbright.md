@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Human ghost, neutral*. Stat block: **Ghost**.
+> - *Chondathan human ghost, neutral*. Stat block: **Ghost**.
 > - **Affiliation:** Bregan D'aerthe (unknowing asset; ghost of the Seven Masks Theater)
 > - **Featured in:** **Faction Outposts**, **Sea Maidens Faire**
 

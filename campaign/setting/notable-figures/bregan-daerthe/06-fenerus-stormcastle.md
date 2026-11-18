@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Human spy (retired brigand), neutral evil*. Stat block: **Spy**.
+> - *Tethyrian human spy (retired brigand), neutral evil*. Stat block: **Spy**.
 > - **Affiliation:** Bregan D'aerthe (cut-out who spies for Luskan and has worked out where the messages go)
 > - **Featured in:** **Gralhund Villa**, **Faction Outposts**, **Sea Maidens Faire**
 

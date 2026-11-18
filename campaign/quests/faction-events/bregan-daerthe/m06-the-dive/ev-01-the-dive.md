@@ -181,7 +181,7 @@ The old Faire pier at Smugglers' Dock is a long stone-and-timber quay with a cus
 
 > [!social]**The Lookout in the Launch**
 >
-> Nell Corvane (Neutral, Human, she/her) :: a Guild lookout with a shuttered lantern and a long habit of being paid on time.
+> Nell Corvane (Neutral, Tethyrian Human, she/her) :: a Guild lookout with a shuttered lantern and a long habit of being paid on time.
 >
 > Nell has watched harbors for the Guild for six years. She is calm and professional, she doesn't want to die for the dive leader's bonus, and she flashes the lantern the moment she sees anyone who isn't the dive team. She can be bought if the price is right and the threat is credible, because she knows how Ahmaergo's clerks treat anyone who brings back a failure. She keeps a hand crossbow under her cloak and uses it only to buy time for the signal.
 >
@@ -293,7 +293,7 @@ The dive team is working at the clamp when the party arrives. The charge is a sq
 
 > [!social]**The Salvage Diver**
 >
-> Orlo Stannick (Neutral, Human, he/him) :: the Guild's dive leader, a weathered man with scarred hands who has pulled wrecks off Waterdeep's harbor floor for the Guild for years.
+> Orlo Stannick (Neutral, Illuskan Human, he/him) :: the Guild's dive leader, a weathered man with scarred hands who has pulled wrecks off Waterdeep's harbor floor for the Guild for years.
 >
 > Orlo is practical and unemotional, and he doesn't enjoy this job. He has no love for the Guild's clerks, who pay a day late and count the dead from the other column. He takes a fair offer if it comes before the fighting turns against him, and he won't go back to the Guild afterward, because he knows what Ahmaergo does with a diver who comes home empty. He talks in short flat sentences and swears plainly when he is frightened.
 >

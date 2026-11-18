@@ -109,7 +109,7 @@ Meloon's table has two empty chairs that regulars used to fill without being ask
 
 > [!social]**The Man Behind the Bar**
 >
-> Durnan (Neutral, Human, he/him) :: the Yawning Portal's owner, who has noticed Meloon's change and talks about it only to a quiet question.
+> Durnan (Neutral, Illuskan Human, he/him) :: the Yawning Portal's owner, who has noticed Meloon's change and talks about it only to a quiet question.
 >
 > Durnan polishes the same mug through the whole exchange and answers in as few words as he can. He doesn't know what is wrong with Meloon, and he won't say a word of it where anyone can overhear. A character who asks at the far end of the bar gets the answers below. A character who asks aloud gets "Drink or the well."
 >

@@ -109,7 +109,7 @@ The Sea Ward is Waterdeep's wealthiest ward, a district of walled villas, grand 
 > #### GM Notes
 > - Victoro is a secret priest of Asmodeus. Ammalia makes the family's final calls, and he has stopped questioning that.
 
-**Ammalia Cassalanter (Lawful Evil, Human, she/her)**
+**Ammalia Cassalanter (Lawful Evil, Tethyrian Human, she/her)**
 - A wizard known for driving a hard bargain, and keeper of the most beautiful butterfly garden in Waterdeep, where she can often be found supervising her youngest children at play. She runs a charity booth for the Cassalanter Foundation's orphan fund during the festival in **The Twin Parades**.
 - Hook: in **Summerstrider** the Emerald Enclave's Sea Ward report describes a butterfly garden at the back of one villa that keeps tropical species alive in Waterdeep's climate. The report names no owner.
 
@@ -118,7 +118,7 @@ The Sea Ward is Waterdeep's wealthiest ward, a district of walled villas, grand 
 > #### GM Notes
 > - Ammalia plans the Founders' Day feast and reads to her eldest son, Osvaldo, each week in the villa attic, from a chair outside his shielding circle. Osvaldo is a chain devil now, and the twins are told he is at school.
 
-**The Black Viper (Chaotic Neutral, Human, she/her)**
+**The Black Viper (Chaotic Neutral, Tethyrian Human, she/her)**
 - A masked cat burglar who robs the estates of Waterdeep's nobility, slipping past guards and wards with a skill that has made the name a byword in the Sea Ward. No one has caught her, and no one agrees on who she is.
 - Hook: in **The Poisoned Delivery** she collects a coffer of vials meant to loosen the tongue of a Sea Ward merchant she means to rob. The vials are poison.
 

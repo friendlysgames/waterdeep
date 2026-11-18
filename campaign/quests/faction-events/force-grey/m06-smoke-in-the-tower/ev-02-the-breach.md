@@ -14,7 +14,7 @@
 
 > [!gamemaster]**What Is Actually True**
 >
-> - Tavor Aldeth (Neutral Evil, Human, he/him) is a Splinter Mage who waits in the Castle Ward with his raiders, and he does not move without Vira's message.
+> - Tavor Aldeth (Neutral Evil, Tethyrian Human, he/him) is a Splinter Mage who waits in the Castle Ward with his raiders, and he does not move without Vira's message.
 > - The raiders are survivors of the Splinter's Waterdeep cell after **Kolat Towers**, and their objective is Vajra in her study on the top floor.
 > - **Kolat Towers** decides who sent them, and the branch below sets what Tavor and Vira say.
 >   - **Manshoon Destroyed:** nobody sent Tavor. The cell has collapsed, and he means to finish a plan that was already paid for. If Vevette Blackwater is alive and free, she approved it.
@@ -113,7 +113,7 @@ The party can take Tavor, a Spy, the Tough Boss, a Tough or Vira. The statement 
 
 > [!social]**The Prisoner in the Chair**
 >
-> Tavor Aldeth (Neutral Evil, Human, he/him) :: a Splinter Mage who has run out of orders and is bargaining for a way out.
+> Tavor Aldeth (Neutral Evil, Tethyrian Human, he/him) :: a Splinter Mage who has run out of orders and is bargaining for a way out.
 >
 > Tavor talks in complete, careful sentences and does not plead. He swears once and without heat, at nobody in particular, and he trades what he knows for his life. A Spy or Tough in the chair says less and swears more, and Vira says nothing without a promise of the clerks' hearing.
 >

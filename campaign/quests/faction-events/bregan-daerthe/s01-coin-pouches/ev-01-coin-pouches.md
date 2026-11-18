@@ -56,7 +56,7 @@ The member learns two things about Bregan D'aerthe. Whoever sent the gold wanted
 
 ### The Man Who Stopped Coming Around
 
-Dunstan Rook is a human bouncer in his thirties who works the door at Frewn's Brews. Emmek Frewn pays him 2 gp a night to scare the party's staff. Since the Grand Opening he has stood across the alley from Trollskull Manor every evening. He has told the Beat 1 recipient twice that someone will lose fingers if the party's tavern keeps stealing Frewn's customers.
+Dunstan Rook is a Chondathan human bouncer in his thirties who works the door at Frewn's Brews. Emmek Frewn pays him 2 gp a night to scare the party's staff. Since the Grand Opening he has stood across the alley from Trollskull Manor every evening. He has told the Beat 1 recipient twice that someone will lose fingers if the party's tavern keeps stealing Frewn's customers.
 
 > [!gamemaster]**What Is Actually True**
 >

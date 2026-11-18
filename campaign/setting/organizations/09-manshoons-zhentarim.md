@@ -20,17 +20,17 @@ He keeps a simulacrum in Kolat Towers as his contingency against assassination, 
 
 ## Key Members
 
-- **Manshoon** — Human wizard (clone), lawful evil. See the **Manshoon** page in Notable Figures.
+- **Manshoon** — Vaasan human wizard (clone), lawful evil. See the **Manshoon** page in Notable Figures.
 - **Sidra Romeir** — Calishite human veteran, lawful evil. Manshoon's most trusted lieutenant, stationed at Kolat Towers. Holds the teleport rings when lieutenants leave the Towers. If captured lieutenants are killed, Sidra gives their rings to Kaevja. See the **Sidra Romeir** page in Notable Figures.
-- **Vevette Blackwater** (DH p. 216) — Human swashbuckler, lawful evil. A swashbuckler with fiery red hair streaked platinum that can glow in the dark on her command. Charming in public, cruel in private. Carries *Seffia Naelryke's Visiting Card*: Seffia approached Vevette to open a Cassalanter–Zhentarim communication channel, but Vevette rebuffed her, suspecting a trap. See the **Vevette Blackwater** page in Notable Figures.
-- **Agorn Fuoco** (DH p. 195) — Human bard (Manshoon lieutenant), neutral evil. A bard and hollow coward who sends his thugs into danger while hanging back. Will barter his pass-amulet to Kolat Towers for his own life without hesitation. Carries a *Report to Agorn Fuoco*: intelligence confirming that Korgstrod's duergar operate out of Orb Confectioners on Rising Ride. See the **Agorn Fuoco** page in Notable Figures.
+- **Vevette Blackwater** (DH p. 216) — Tethyrian human swashbuckler, lawful evil. A swashbuckler with fiery red hair streaked platinum that can glow in the dark on her command. Charming in public, cruel in private. Carries *Seffia Naelryke's Visiting Card*: Seffia approached Vevette to open a Cassalanter–Zhentarim communication channel, but Vevette rebuffed her, suspecting a trap. See the **Vevette Blackwater** page in Notable Figures.
+- **Agorn Fuoco** (DH p. 195) — Turami human bard (Manshoon lieutenant), neutral evil. A bard and hollow coward who sends his thugs into danger while hanging back. Will barter his pass-amulet to Kolat Towers for his own life without hesitation. Carries a *Report to Agorn Fuoco*: intelligence confirming that Korgstrod's duergar operate out of Orb Confectioners on Rising Ride. See the **Agorn Fuoco** page in Notable Figures.
 - **Urstul Floxin** — Illuskan human assassin, lawful evil. Thuggish leader who ran both the Dalakhar capture attempt and the Gralhund Villa operation. If he survives the Villa, he leads a response team later in the campaign. Carries the *Directive to Urstul Floxin*: prisoners from other factions are to be delivered to Avareen in Brindul Alley. See the **Urstul Floxin** page in Notable Figures.
-- **Avareen Windrivver** — Human spy (Zhentarim interrogator), lawful evil. Spy maintaining the Interrogation House alongside Zorbog. Carries a pass-amulet to Kolat Towers. See the **Avareen Windrivver** page in Notable Figures.
-- **Zorbog Jyarkoth** — Human thug (Zhentarim), neutral evil. Thug, Avareen's partner at the Interrogation House. See the **Zorbog Jyarkoth** page in Notable Figures.
+- **Avareen Windrivver** — Illuskan human spy (Zhentarim interrogator), lawful evil. Spy maintaining the Interrogation House alongside Zorbog. Carries a pass-amulet to Kolat Towers. See the **Avareen Windrivver** page in Notable Figures.
+- **Zorbog Jyarkoth** — Turami human thug (Zhentarim), neutral evil. Thug, Avareen's partner at the Interrogation House. See the **Zorbog Jyarkoth** page in Notable Figures.
 - **Amath Sercent** — Mulan human priest of Bane, lawful evil. Banite priestess occupying Yellowspire, allied with Manshoon. Friends with Agorn Fuoco, who visits when he wants company. See the **Amath Sercent** page in Notable Figures.
-- **Vira Solkan** — Human mage (Manshoon plant), neutral evil. See the **Vira Solkan** page in Notable Figures.
+- **Vira Solkan** — Damaran human mage (Manshoon plant), neutral evil. See the **Vira Solkan** page in Notable Figures.
 - **Manafret Cherryport** — Lightfoot halfling mage (Kolat Towers cook), neutral evil. See the **Manafret Cherryport** page in Notable Figures.
-- **Kaevja Cynavern** — Human mage, lawful neutral. See the **Kaevja Cynavern** page in Notable Figures.
+- **Kaevja Cynavern** — Mulan human mage, lawful neutral. See the **Kaevja Cynavern** page in Notable Figures.
 - **Havia Quickknife** — Lightfoot halfling adept, lawful evil. See the **Havia Quickknife** page in Notable Figures.
 - **Mookie Plush** — Lightfoot halfling adept, lawful evil. See the **Mookie Plush** page in Notable Figures.
 - **Yorn the Terror** — Half-orc enforcer, neutral evil. See the **Yorn the Terror** page in Notable Figures.

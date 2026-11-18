@@ -4,13 +4,13 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Human cult fanatic (Asmodeus), lawful evil*. Stat block: **Cultist Fanatic**.
+> - *Tethyrian human cult fanatic (Asmodeus), lawful evil*. Stat block: **Cultist Fanatic**.
 > - **Affiliation:** The Cassalanters (cult)
 > - **Featured in:** Faction Outposts, Cassalanter Villa, Cassalanter Villa (location)
 
 **Purpose:** Lets the GM play Seffia as the Cassalanters' field operative: where she lives, how she behaves when the party reaches her, whom she answers to and what she is hiding from them. The Overview gives the public face that can be shared with players.
 
-Seffia Naelryke (Lawful Evil, Human, she/her)
+Seffia Naelryke (Lawful Evil, Tethyrian Human, she/her)
 
 ## Personality
 
@@ -37,7 +37,7 @@ Seffia Naelryke (Lawful Evil, Human, she/her)
 
 ## Overview
 
-Seffia Naelryke is a Human woman who maintains a decrepit windmill in the Southern Ward and sleeps in one of its upper rooms. She shares the building with Arn Xalrondar, who defers to her judgment on anything that involves planning, and she does not receive visitors.
+Seffia Naelryke is a Tethyrian human woman who maintains a decrepit windmill in the Southern Ward and sleeps in one of its upper rooms. She shares the building with Arn Xalrondar, who defers to her judgment on anything that involves planning, and she does not receive visitors.
 
 ---
 

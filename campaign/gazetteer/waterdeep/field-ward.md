@@ -72,7 +72,7 @@ The Field Ward is Waterdeep's slum, an unofficial ward of mud, tanneries and sla
 > - The summoner is Gysheer Omfreys, a Tethyrian woman in her forties and a hired agent of Victoro Cassalanter. A chalk sigil at the alley mouth holds the devils to the court, and wiping it sends them back. Her note carries the initials "V.C.", and her day-book names the Aveen Street cellar. She has no Notable Figures page.
 
 **Orros's Chandlery** — Shop, Aveen Street
-- A chandlery on the Field Ward side of Aveen Street, open from the second bell to dusk, with bunches of candles in the window and a bell over the door. Orros (Neutral, Human, he/him), a stooped, tallow-stained man of about sixty, owns the building and has never asked a tenant a question.
+- A chandlery on the Field Ward side of Aveen Street, open from the second bell to dusk, with bunches of candles in the window and a bell over the door. Orros (Neutral, Illuskan Human, he/him), a stooped, tallow-stained man of about sixty, owns the building and has never asked a tenant a question.
 - Hook: in **The Shrine on Aveen Street** the party reaches the cellar by Orros's key, by joining a Halls of Justice fire inspection, or by knocking three times at the yard door.
 
 > **[GM]**
@@ -133,7 +133,7 @@ The Field Ward is Waterdeep's slum, an unofficial ward of mud, tanneries and sla
 > #### GM Notes
 > - Jarlaxle gave Meg a ring of *true sight* as a retainer and gets harbor intelligence in return, and the Cassalanters have paid her for Field Ward surveillance twice. If her Field Ward people are threatened she does not fight, and she sells the name of whoever is responsible to someone who will act.
 
-**Savra Belabranta (Neutral Good, Human, she/her)**
+**Savra Belabranta (Neutral Good, Tethyrian Human, she/her)**
 - Head of the Order of the Gauntlet's Waterdeep chapter, who sends the party into the Field Ward because a knight in the Order's coat turns a quarrel into a message. She fights beside the party in Twelvedog Court, and she cannot walk through the Aveen Street door herself. See the **Castle Ward** page for her office and her history.
 
 ## Life in the Ward

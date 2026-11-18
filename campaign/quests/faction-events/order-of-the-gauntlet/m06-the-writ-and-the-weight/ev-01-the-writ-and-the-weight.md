@@ -50,7 +50,7 @@ The notice is a document that the players can read, and you write each character
 
 > [!social]**The Knight Before the Hearing**
 >
-> Savra Belabranta (Neutral Good, Human, she/her) :: the Order's knight in Waterdeep, in her late twenties, with dark hair worn back and a strong jaw.
+> Savra Belabranta (Neutral Good, Tethyrian Human, she/her) :: the Order's knight in Waterdeep, in her late twenties, with dark hair worn back and a strong jaw.
 >
 > Savra has not slept, and she keeps her voice low and level. She pauses before every serious answer and gives her single nod only to an honest one. She swears rarely, in short bursts, and only at wrongdoing.
 >
@@ -121,7 +121,7 @@ The members and their companions have from 19:30 until the hearing opens to prep
 
 > [!social]**The Two Priests of Tyr**
 >
-> Father Corwen Thale (Lawful Good, Human, he/him) :: a gray-haired priest of Tyr with a calm, gravelly voice and a missing left hand, who calls the god "the Just God".
+> Father Corwen Thale (Lawful Good, Illuskan Human, he/him) :: a gray-haired priest of Tyr with a calm, gravelly voice and a missing left hand, who calls the god "the Just God".
 >
 > Father Corwen is patient and curses mildly, if at all. Sister Merrin Oakhollow, a broad-shouldered priest in her forties, stands beside him and answers in as few words as she can, and both priests stand where the party puts them.
 >
@@ -178,7 +178,7 @@ The hearing opens at 20:00 and closes at 23:00. The Lords' court is a formality 
 
 > [!social]**The Presiding Magistrate**
 >
-> Odrane Belcast (Lawful Neutral, Human, she/her) :: the Lords' magistrate, a heavy woman in grey robes who has heard petitions at the Halls for thirty years.
+> Odrane Belcast (Lawful Neutral, Tethyrian Human, she/her) :: the Lords' magistrate, a heavy woman in grey robes who has heard petitions at the Halls for thirty years.
 >
 > Belcast is courteous and exact, and she asks a witness each question once and writes the answer herself. She does not hint at her opinion of the family or the Order.
 >

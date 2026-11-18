@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Human twins, chaotic neutral*. Stat block: **Commoners**.
+> - *Illuskan human twins, chaotic neutral*. Stat block: **Commoners**.
 > - **Affiliation:** Harpers (Corvin, covertly; Nessa unaffiliated)
 > - **Featured in:** Background figure; no scripted appearance.
 

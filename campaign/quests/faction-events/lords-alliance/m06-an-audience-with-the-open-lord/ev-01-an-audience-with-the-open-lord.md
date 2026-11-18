@@ -39,7 +39,7 @@ Two Watch officers reach Trollskull Manor at 09:00. Sergeant Maelis Venning carr
 
 > [!social]**The Officers at the Door**
 >
-> Maelis Venning (Lawful Neutral, Human, she/her) :: a Castle Ward Watch sergeant in dress uniform, with a Watchman beside her.
+> Maelis Venning (Lawful Neutral, Tethyrian Human, she/her) :: a Castle Ward Watch sergeant in dress uniform, with a Watchman beside her.
 >
 > Venning is courteous and exact, and she does not know why the summons was sent. She answers in as few words as the question allows and does not discuss the Open Lord's affairs. Jorin Larkin says nothing unless spoken to.
 >
@@ -383,7 +383,7 @@ If **Laeral Told of Jalester** is marked, read the following aloud instead:
 
 > [!gamemaster]**If Sevel Is the Handler**
 >
-> Sevel Dastar (Neutral, Human, he/him, **Spy**) is plain and dry, and he may swear lightly. Sevel gives every fact below in his own plain words and signs any note "S.D." He asks no closing question, and nothing said at his table reaches the well.
+> Sevel Dastar (Neutral, Chondathan Human, he/him, **Spy**) is plain and dry, and he may swear lightly. Sevel gives every fact below in his own plain words and signs any note "S.D." He asks no closing question, and nothing said at his table reaches the well.
 
 If **Splinter Offer Declined** is marked, Jalester or Sevel says the following:
 

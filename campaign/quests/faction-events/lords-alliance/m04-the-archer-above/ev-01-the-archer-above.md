@@ -144,7 +144,7 @@ A member for whom **Stingblade Reached** is marked can instead read the Watch's 
 
 > [!social]**The Man Behind the Counter**
 >
-> Yander Coirn (Neutral, Human, he/him) :: the nervy proprietor of Yander's Feed Store, who rents his top room to a man called Belvor.
+> Yander Coirn (Neutral, Turami Human, he/him) :: the nervy proprietor of Yander's Feed Store, who rents his top room to a man called Belvor.
 >
 > Yander is Indifferent and sweats when pressed. He rented the room a week ago for a tenday in silver, and he has not asked what is in the canvas roll. He is not afraid of Belvor, but he is afraid of the Watch closing his shop. He answers quickly once someone tells him no one will be hurt in his building.
 >
@@ -186,7 +186,7 @@ Read the following aloud when the party reaches Vhaspar at his table, by the sta
 
 > [!social]**The Man at the Table**
 >
-> Vhaspar Coldwater (Neutral, Human, he/him) :: a retired Watch sharpshooter of fifty-seven, grey-haired and tired, who sells his skill and does not pretend to be sorry.
+> Vhaspar Coldwater (Neutral, Illuskan Human, he/him) :: a retired Watch sharpshooter of fifty-seven, grey-haired and tired, who sells his skill and does not pretend to be sorry.
 >
 > Vhaspar is Indifferent and practical, and he talks in short plain sentences. He is not confessing but offering a trade, and he wants a guarantee that the Watch will keep him alive. He swears once at most, and only about the client.
 >

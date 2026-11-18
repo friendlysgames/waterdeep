@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Human cult fanatic, neutral evil*. Stat block: **Cult Fanatic**.
+> - *Illuskan human cult fanatic, neutral evil*. Stat block: **Cult Fanatic**.
 > - **Affiliation:** House Gralhund (Cassalanter cult)
 > - **Featured in:** **Gralhund Villa**
 

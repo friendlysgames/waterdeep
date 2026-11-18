@@ -189,7 +189,7 @@ The Dock Ward is the part of Waterdeep that works for a living, a steep ward of 
 > #### GM Notes
 > - Meg belongs to no faction, which is what makes her valuable. Jarlaxle gave her a ring of true sight as a retainer and gets harbor intelligence in return, and the Cassalanters have paid her for Field Ward surveillance twice. Her network of homeless residents in the Field Ward is her main source.
 
-**Grinda Garloth (Neutral, Human, she/her)**
+**Grinda Garloth (Neutral, Illuskan Human, she/her)**
 - A wizard who lives over a closed dock in Mistshore and rents out her apparatus of Kwalish to clients whose business is underwater. She also sells black-market arms and armor at rates she considers entirely reasonable.
 - Hook: in **Faction Outposts**, her shop is the street-level entry to the Xanathar chain. She negotiates if the party offers her more than the Guild does, and she reports the visit afterward.
 

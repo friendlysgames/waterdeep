@@ -39,18 +39,18 @@ How the family responds to a party that helps or hinders them is in the **Cassal
 ## Key Members
 
 - **Victoro Cassalanter** — Half-elf banker and secret priest of Asmodeus, lawful evil. See the **Victoro Cassalanter** page in Notable Figures.
-- **Ammalia Cassalanter** — Human wizard and secret Asmodeus worshipper, lawful evil. See the **Ammalia Cassalanter** page in Notable Figures.
+- **Ammalia Cassalanter** — Tethyrian human wizard and secret Asmodeus worshipper, lawful evil. See the **Ammalia Cassalanter** page in Notable Figures.
 - **Willifort Crowelle** — Doppelganger butler, neutral. The Cassalanters' doppelganger valet. Presents as an elderly tiefling. Their most trusted operative and most dangerous weapon. Uses disguise to burn bridges, gather intelligence, and when necessary, solve problems permanently. See the **Willifort Crowelle** page in Notable Figures.
-- **Osvaldo Cassalanter** — Human (chain devil), lawful evil. The Cassalanters' eldest son, now a **chain devil**, chained in the soundproofed attic of the Villa (room C24). The pact's first cost. Victoro and Ammalia have told no one. See the **Osvaldo Cassalanter** page in Notable Figures.
-- **Terenzio Cassalanter** — Human child, lawful good. See the **Terenzio Cassalanter** page in Notable Figures.
-- **Elzerina Cassalanter** — Human child, lawful good. See the **Elzerina Cassalanter** page in Notable Figures.
+- **Osvaldo Cassalanter** — Tethyrian human (chain devil), lawful evil. The Cassalanters' eldest son, now a **chain devil**, chained in the soundproofed attic of the Villa (room C24). The pact's first cost. Victoro and Ammalia have told no one. See the **Osvaldo Cassalanter** page in Notable Figures.
+- **Terenzio Cassalanter** — Tethyrian human child, lawful good. See the **Terenzio Cassalanter** page in Notable Figures.
+- **Elzerina Cassalanter** — Tethyrian human child, lawful good. See the **Elzerina Cassalanter** page in Notable Figures.
 - **Tissina Khyret** — Tiefling cult fanatic (Asmodeus), lawful evil. See the **Tissina Khyret** page in Notable Figures.
 - **Laiba "Nana" Rosse** — Tiefling cult fanatic (Asmodeus), neutral evil. See the **Laiba "Nana" Rosse** page in Notable Figures.
 - **Jandar Chergoba** — Tiefling cult fanatic (Asmodeus), lawful evil. See the **Jandar Chergoba** page in Notable Figures.
-- **Seffia Naelryke** — Human cult fanatic (Asmodeus), lawful evil. Cult fanatic, loyal to Asmodeus, stationed at the Converted Windmill with Arn Xalrondar. Carries a letter from Lord Cassalanter confirming that her ritual identified the Eye in the Brandath Crypts. She keeps it as a prized possession; taking it provokes fury. See the **Seffia Naelryke** page in Notable Figures.
-- **Arn Xalrondar** — Human cult fanatic (Asmodeus), lawful evil. Cult fanatic, Seffia's partner at the Windmill. His *Book of Worship* links him directly to the Windmill's address on Coachlamp Lane. See the **Arn Xalrondar** page in Notable Figures.
-- **Rella Asp** — Human poisoner (Cassalanter operative), lawful evil. See the **Rella Asp** page in Notable Figures.
-- **Ivrala Sorn** — Human spy (Cassalanter operative), neutral evil. See the **Ivrala Sorn** page in Notable Figures.
+- **Seffia Naelryke** — Tethyrian human cult fanatic (Asmodeus), lawful evil. Cult fanatic, loyal to Asmodeus, stationed at the Converted Windmill with Arn Xalrondar. Carries a letter from Lord Cassalanter confirming that her ritual identified the Eye in the Brandath Crypts. She keeps it as a prized possession; taking it provokes fury. See the **Seffia Naelryke** page in Notable Figures.
+- **Arn Xalrondar** — Tethyrian human cult fanatic (Asmodeus), lawful evil. Cult fanatic, Seffia's partner at the Windmill. His *Book of Worship* links him directly to the Windmill's address on Coachlamp Lane. See the **Arn Xalrondar** page in Notable Figures.
+- **Rella Asp** — Tethyrian human poisoner (Cassalanter operative), lawful evil. See the **Rella Asp** page in Notable Figures.
+- **Ivrala Sorn** — Chondathan human spy (Cassalanter operative), neutral evil. See the **Ivrala Sorn** page in Notable Figures.
 - **Caladorn Cassalanter** — Ghost of a Cassalanter noble, lawful good. See the **Caladorn Cassalanter** page in Notable Figures.
 
 ## Overview

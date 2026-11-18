@@ -133,7 +133,7 @@ Bartlethorpe is the only man near the statue who smells of bergamot, so any char
 
 > [!social]**The Dutiful Clerk**
 >
-> Maester Roderick Bartlethorpe (Lawful Neutral, Human, he/him) :: a self-satisfied Castle Ward clerk who treats attendance at public events as a civic obligation.
+> Maester Roderick Bartlethorpe (Lawful Neutral, Tethyrian Human, he/him) :: a self-satisfied Castle Ward clerk who treats attendance at public events as a civic obligation.
 >
 > Bartlethorpe likes explaining things and likes being asked even more. He talks readily about the parade and warms to anyone who praises the Castle Ward's offices. He reacts badly to rudeness, and since he is a **Noble** with the Watch standing a few yards away, he is the most dangerous person in the crowd to offend.
 >

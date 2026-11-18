@@ -35,7 +35,7 @@ Savra comes to Trollskull Manor at the third bell on the morning after a member 
 
 > [!social]**The Knight on the Step**
 >
-> Savra Belabranta (Neutral Good, Human, she/her) :: the Order's knight in Waterdeep, a woman in her late twenties with dark hair worn back and a strong jaw.
+> Savra Belabranta (Neutral Good, Tethyrian Human, she/her) :: the Order's knight in Waterdeep, a woman in her late twenties with dark hair worn back and a strong jaw.
 >
 > Savra pauses before every serious answer and says exactly what she knows. She swears rarely, and only at wrongdoing. She nods once at an honest answer and does not nod at anything else. She has no wish to praise the party before it has done the work.
 >
@@ -143,7 +143,7 @@ Three approaches end the standoff, and they can be combined. The party can make 
 
 > [!social]**The Dealer at the Grain Stall**
 >
-> Pell (Neutral Evil, Human, he/him) :: a Xanathar's Guild dealer in his mid-thirties, thin and well dressed, who looks as though he has not eaten today.
+> Pell (Neutral Evil, Turami Human, he/him) :: a Xanathar's Guild dealer in his mid-thirties, thin and well dressed, who looks as though he has not eaten today.
 >
 > Pell is frightened and hides it behind sarcasm. He swears freely, he does not thank anyone, and he does not say that he owes a debt. He keeps his hands low and away from his belt, because Marn and Ketta have told him to. He wants to leave the square on his own feet, with the ward still believing he can.
 >

@@ -99,7 +99,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 
 ## Characters of Interest
 
-**Durnan (Neutral, Human, he/him)**
+**Durnan (Neutral, Illuskan Human, he/him)**
 - Retired adventurer who owns and tends the Yawning Portal, and the one who deals with trouble in the taproom. He ejects troublemakers with a single word, "Out."
 - He went down the Well with Mirt in the old days and built the tavern over it. He will not discuss what he saw there.
 
@@ -142,7 +142,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 - Retired City Watch sergeant. He sits in the Halls of Justice sergeants' room in the afternoons, and a visitor who buys him a drink finds him easy to talk to.
 - He helps Barnibus Blastwind with unusual crimes by translating between the investigator and the common folk.
 
-**Savra Belabranta (Neutral Good, Human, she/her)**
+**Savra Belabranta (Neutral Good, Tethyrian Human, she/her)**
 - Head of the Order of the Gauntlet's Waterdeep chapter, from a clerk's office in the Halls of Justice, with about a dozen Knights and Priests under her. She comes from the noble Belabranta family, who breed griffons for the Cavalry.
 - She is blunt, has a hunter's eye for infernal work, and holds no patience for people who manage her.
 

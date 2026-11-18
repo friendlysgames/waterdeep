@@ -55,7 +55,7 @@
 
 > [!social]**The Fussy Tailor**
 >
-> Seldo Wynd (Neutral Good, Human, he/him) :: a kindly tailor in his sixties who judges people by how they stand and talks the whole time he works.
+> Seldo Wynd (Neutral Good, Turami Human, he/him) :: a kindly tailor in his sixties who judges people by how they stand and talks the whole time he works.
 >
 > Seldo hums while he measures and counts half-inches under his breath. He asks questions with his hands busy, so he answers about the opera the way he answers about hems, at length and with pins in his mouth. He ends many remarks with "yes?" and tells people to hold still. He never swears, and his strongest oath is "Oh, buttons."
 >

@@ -141,7 +141,7 @@ Savra tells this standing, and she gives no nod while she tells it. Read the fol
 
 > [!social]**The Woman at the Lamp**
 >
-> Savra Belabranta (Neutral Good, Human, she/her) :: a knight of the Order in her late twenties, with dark hair worn back and a strong jaw, standing in the chapel.
+> Savra Belabranta (Neutral Good, Tethyrian Human, she/her) :: a knight of the Order in her late twenties, with dark hair worn back and a strong jaw, standing in the chapel.
 >
 > Savra is Friendly toward the member she has brought, and she tells the account without ornament. She pauses before each serious answer and says "I'll tell you plainly" before the hard parts. She calls Tyr "the Maimed God" and the party by name. She swears rarely, and only at wrongdoing, her own included.
 >

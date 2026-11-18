@@ -157,7 +157,7 @@ If the party takes Ysolde alive, she is bruised, short of breath and thoroughly 
 
 > [!social]**Ysolde Marne**
 >
-> Ysolde Marne (Lawful Evil, Human, she/her) :: a Splinter mage in a grey traveling cloak, furious at losing and careful about what she says.
+> Ysolde Marne (Lawful Evil, Tethyrian Human, she/her) :: a Splinter mage in a grey traveling cloak, furious at losing and careful about what she says.
 >
 > Ysolde speaks in complete, clipped sentences and does not plead. She swears sharply and rarely, mostly at the Harpers. She trades what she knows for her life and nothing else.
 >

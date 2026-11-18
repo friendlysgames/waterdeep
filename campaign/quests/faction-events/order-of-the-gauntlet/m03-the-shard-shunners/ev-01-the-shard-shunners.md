@@ -42,7 +42,7 @@ Savra knocks once at dusk on the first evening after a member reaches Renown 5 a
 
 > [!social]**The Knight at the Table**
 >
-> Savra Belabranta (Neutral Good, Human, she/her) :: the Order's contact in Waterdeep, who has put a drawn route and a deadline on the table.
+> Savra Belabranta (Neutral Good, Tethyrian Human, she/her) :: the Order's contact in Waterdeep, who has put a drawn route and a deadline on the table.
 >
 > Savra is Friendly and formal. She pauses before each serious answer and says "I'll tell you plainly" before she gives it. She does not know why the gang chose the Endshift, and she says so. She swears rarely and only at wrongdoing.
 >
