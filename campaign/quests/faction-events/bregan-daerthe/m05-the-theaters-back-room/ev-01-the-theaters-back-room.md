@@ -21,7 +21,7 @@
 >
 > Florette Cressyn is a household investigator on Ammalia Cassalanter's retainer, not a servant, and she reports to Ammalia directly. She has followed Brimel for ten days. She has no evidence and does not know what the windmill is for. She wants a reason to pull him in before he hands anything over, and she will report any pass she sees.
 >
-> The plan is a single folded sheet in Brimel's neat hand. It shows the ground-floor sail room, the shared stair, the middle floors let to ordinary tenants, the apartment at the top of the stair, and a back room off that apartment marked with a small cross and the word "locked." On the back he has pencilled that he once saw a map of the City of the Dead on the desk in that room, with one mausoleum ringed in red ink and "Brandath" written beside it. That is the Brandath Crypt, the approach to the vault. Brimel does not know what it means.
+> The plan is a single folded sheet in Brimel's neat hand. It shows the ground-floor sail room, the shared stair, the middle floors let to ordinary tenants, the apartment at the top of the stair, and a back room off that apartment marked with a small cross and the word "locked." On the back he has pencilled that he once saw a map of the City of the Dead on the desk in that room, with one mausoleum ringed in red ink and "Brandath" written beside it. That is the Brandath Crypts, the approach to the vault. Brimel does not know what it means.
 >
 > The windmill is occupied by Seffia Naelryke and Arn Xalrondar, who are cult operatives. The party does not meet them in this Event, and no speaker tells the member what they are.
 >
@@ -408,12 +408,12 @@ If **Jarlaxle Unmasked** is marked for the member, Krebbyg adds in a low voice:
 >
 > Any character who studies the plan and makes a successful DC 12 Intelligence (Investigation) check reads Brimel's steward's notation, which lists the sail room, the shared stair, the apartment and the back room marked with a cross. The pencilled note on the back is visible to anyone who turns the sheet over, with no check.
 >
-> - **Auto:** the pencilled note on the back shows a map of the City of the Dead on a desk in the back room, with the Brandath Crypt ringed in red.
+> - **Auto:** the pencilled note on the back shows a map of the City of the Dead on a desk in the back room, with the Brandath Crypts ringed in red.
 > - **Result of 17 or higher:** the character notes that the sail room is the only way into the apartment, and that the stair has three landings, with the second landing as far as a servant goes.
 >
 > Mark **Brandath Lead from Brimel** for each member who sees the plan or hears Brimel's account of the back room.
 
-Krebbyg keeps the plan in the dressing room and gives the member a copy in his own hand. The party now knows where the Brandath Crypt is and has an independent source for it. The windmill itself is a Cassalanter outpost that **Faction Outposts** treats as a mini-heist.
+Krebbyg keeps the plan in the dressing room and gives the member a copy in his own hand. The party now knows where the Brandath Crypts are and has an independent source for it. The windmill itself is a Cassalanter outpost that **Faction Outposts** treats as a mini-heist.
 
 ### Figuring It Out
 
@@ -515,4 +515,4 @@ A nervous Cassalanter steward has a floor plan of a windmill his employers keep 
 
 ## Summary
 
-We met Krebbyg at the Seven Masks and took a seat beside a frightened Cassalanter steward named Brimel Crestfall during the Faire's showcase. While Zardoz Zord watched from his box without saying a word, we kept the family's watcher off Brimel and took a folded plan of a windmill in the Southern Ward. A note on its back described a map of the City of the Dead with the Brandath Crypt ringed in red, and we now have the key to the dressing room at the end of the stage-left corridor. What does the family keep in that windmill?
+We met Krebbyg at the Seven Masks and took a seat beside a frightened Cassalanter steward named Brimel Crestfall during the Faire's showcase. While Zardoz Zord watched from his box without saying a word, we kept the family's watcher off Brimel and took a folded plan of a windmill in the Southern Ward. A note on its back described a map of the City of the Dead with the Brandath Crypts ringed in red, and we now have the key to the dressing room at the end of the stage-left corridor. What does the family keep in that windmill?

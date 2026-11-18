@@ -22,7 +22,7 @@
 
 ### The Tenth Dawn
 
-Ambrose is waiting at the central gate path when the party arrives. He asks how the night went and listens without interrupting. He does not mention the Brandath crypt until it comes up.
+Ambrose is waiting at the central gate path when the party arrives. He asks how the night went and listens without interrupting. He does not mention the Brandath Crypts until it comes up.
 
 > [!readaloud]
 >
@@ -52,7 +52,7 @@ If **Pattern Documented** is marked and no character has asked about the crypt, 
 
 If **Pattern Documented** is not marked and a character asks about the crypt, Ambrose first asks why. Any reason the party saw on the patrol is enough, and then he answers as above.
 
-> [!qna]**What do you know of the Brandath crypt?**
+> [!qna]**What do you know of the Brandath Crypts?**
 >
 > Ambrose turns to the speaker and waits until a reason is given.
 >
@@ -126,7 +126,7 @@ If **Pattern Documented** is marked, Melannor adds that Jeryth wished him to say
 >
 > - **+1 Renown:** the pattern was documented and reported to Melannor and Ambrose before the tenth night, and **Pattern Documented** is marked.
 > - **+1 Renown:** all ten nights were held with no bones taken, and **Bones Kept Safe** is marked.
-> - **+1 Renown:** a character asked Ambrose about the Brandath crypt and gave a reason before he spoke of it.
+> - **+1 Renown:** a character asked Ambrose about the Brandath Crypts and gave a reason before he spoke of it.
 
 ### Aftermath
 

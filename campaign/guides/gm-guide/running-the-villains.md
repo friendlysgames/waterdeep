@@ -37,7 +37,7 @@ The campaign's central plot runs through a chain of objects, each one gatekeepin
 |---|---|---|---|
 | Xanathar's Guild | Dalakhar was moving the Stone; Stone is now in circulation; does not know the Eyes' significance or the vault's location | Eye #1 (in Sylgar's bowl; Xanathar does not know what it is) | The Stone; the Eyes' significance |
 | Manshoon's Zhentarim | The Stone exists and unlocks great wealth; Urstul Floxin's team was tracking Dalakhar; does not yet know the Stone reached the Gralhunds | Nothing | Stone + all three Eyes |
-| The Cassalanters | The Stone leads to the gold, but they do not know where the vault lies; does not yet know the Stone is in play or in circulation | Eye #2 | Stone + Eyes #1 and #3 |
+| The Cassalanters | The Stone leads to the gold, and the vault's entrance lies in the Brandath family crypts; does not yet know the Stone is in play or in circulation | Eye #2 | Stone + Eyes #1 and #3 |
 | Bregan D'aerthe | Most complete picture via Nar'l Xibrindas; knows the Stone, the Eyes, and the vault; waiting to see which party proves most useful | Eye #3 | Stone + Eyes #1 and #2 |
 
 ## Faction Escalation
