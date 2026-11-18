@@ -50,7 +50,7 @@ How the family responds to a party that helps or hinders them is in the **Cassal
 - **Arn Xalrondar** — Tethyrian human cult fanatic (Asmodeus), lawful evil. Cult fanatic, Seffia's partner at the Windmill. His *Book of Worship* links him directly to the Windmill's address on Coachlamp Lane. See the **Arn Xalrondar** page in Notable Figures.
 - **Rella Asp** — Tethyrian human poisoner (Cassalanter operative), lawful evil. See the **Rella Asp** page in Notable Figures.
 - **Ivrala Sorn** — Chondathan human spy (Cassalanter operative), neutral evil. See the **Ivrala Sorn** page in Notable Figures.
-- **Caladorn Cassalanter** — Ghost of a Cassalanter noble, lawful good. See the **Caladorn Cassalanter** page in Notable Figures.
+- **Caladorn Cassalanter** — Tethyrian human ghost of a Cassalanter noble, lawful good. See the **Caladorn Cassalanter** page in Notable Figures.
 
 ## Overview
 
