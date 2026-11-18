@@ -47,7 +47,7 @@
 ## Dangers & Enemies
 
 - **Xanathar's death-mark team** (Scene 6 optional): intelligence probe at the Inn of the Dripping Dagger; probes what the party knows; does not fight unless cornered
-- **Nim's animated paintings** (Kalain's Tower, optional): creatures animated from Kalain's monster paintings; hostile if she accuses the party of working for Neverember; the smaller paintings (cats, fruit bowls, quiet landscapes) animate as cooperative fetch-helpers
+- **Nim's animated paintings** (Kalain's Tower, optional): creatures Kalain animates from her monster paintings with Art Imitates Life, with Kalain casting Bard spells behind them; hostile if she accuses the party of working for Neverember; the smaller paintings (cats, fruit bowls, quiet landscapes) animate as cooperative fetch-helpers
 - **Faction response team observers**: all four villain factions watch the investigation from the first day; none engage directly during Fireball unless the party takes aggressive action at the Faire
 
 ## Overview
