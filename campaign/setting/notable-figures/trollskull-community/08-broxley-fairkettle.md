@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Strongheart halfling innkeeper, lawful good*. Stat block: **Commoner**.
+> - *Strongheart halfling innkeeper, lawful good, he/him*. Stat block: **Commoner**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** **Trollskull Alley**
 

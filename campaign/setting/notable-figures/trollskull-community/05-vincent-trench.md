@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Rakshasa (disguised as human detective), lawful evil*. Stat block: **Rakshasa (as Valantajar)**.
+> - *Rakshasa (disguised as human detective), lawful evil, he/him*. Stat block: **Rakshasa (as Valantajar)**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** **Trollskull Alley**, **Fireball!**
 

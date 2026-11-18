@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Halfling spy (compromised), neutral good*. Stat block: **Spy**.
+> - *Halfling spy (compromised), neutral good, she/her*. Stat block: **Spy**.
 > - **Affiliation:** Harpers
 > - **Featured in:** **The Sleeping Asset**, **A Friend's House**
 

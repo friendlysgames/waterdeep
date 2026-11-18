@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Vaasan human wizard (clone), lawful evil*. Stat block: **Mage (with modifications)**.
+> - *Vaasan human wizard (clone), lawful evil, he/him*. Stat block: **Mage (with modifications)**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Villain profile:** see **Manshoon** in Villains
 > - **Featured in:** **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**; **The Talking Mare**, **The Dead Drop**, **The Doppelganger Auditions**, **A Friend's House**, **The Stone's Other Master**, **The Poisoned Delivery**, **Silencing Skeemo**, **The Yellowspire Job**, **Ziraj's Last Hunt**, **The Exile's Return**, **The Red Wizard's Price**, **An Audience with the Open Lord**, **Consulting Hlam**, **Smoke in the Tower**, **The Undercliff Scarecrows**, **The Doppelganger Problem**, **The Fouled Channel**, **Breaking Up the Brawl**

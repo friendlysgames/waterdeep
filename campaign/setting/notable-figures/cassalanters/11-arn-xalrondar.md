@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Tethyrian human cult fanatic (Asmodeus), lawful evil*. Stat block: **Cult Fanatic**.
+> - *Tethyrian human cult fanatic (Asmodeus), lawful evil, he/him*. Stat block: **Cult Fanatic**.
 > - **Affiliation:** The Cassalanters (cult)
 > - **Featured in:** Faction Outposts, Cassalanter Villa
 

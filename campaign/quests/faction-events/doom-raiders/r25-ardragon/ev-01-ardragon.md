@@ -233,7 +233,7 @@ If the Intelligence check fails, Davil gives the member the consequence:
 
 > [!gamemaster]**Ziraj and the Favour**
 >
-> Ziraj the Hunter kills only when a friend asks. He owes nobody anything, and the favour is his gift to a friend: Davil is his friend, and he extends the same courtesy to anyone Davil vouches for. Once in the whole campaign, Ziraj will take one named person for the member, alive or dead, without being told why. This is the member's own favour, tracked by name, and a second Ardragon member has a favour of their own.
+> Ziraj the Hunter kills only when a friend asks. He owes nobody anything, and the favour is his gift to a friend: Davil is his friend, and he extends the same courtesy to anyone Davil vouches for. Once in the whole campaign, Ziraj will take one named person for the member, alive or dead, without being told why. This is the member's own favour, tracked by name. A second Ardragon member has a favour of their own, and one member's use never spends another's.
 >
 > If **Ziraj Survived** is marked, use the first reading. If **Ziraj's Last Hunt** has not played, use the second, and tell the table that Ziraj is alive and on the roofs. If **Ziraj Fell** is marked, use the third.
 
@@ -315,7 +315,7 @@ The Event concludes when the member knows how to call a crew and send an informa
 
 > [!gamemaster]**Next Steps**
 >
-> Crews need three days' notice, informant questions are once per quest, and the favour is once in the campaign. **Dread Lord** occurs when this member reaches Renown 50, usually during **Dungeon of the Mad Mage**. This Event awards no Milestone Points.
+> Crews need three days' notice, informant questions are once per quest, and each member has the favour once in the campaign. **Dread Lord** occurs when this member reaches Renown 50, usually during **Dungeon of the Mad Mage**. This Event awards no Milestone Points.
 
 ## Overview
 

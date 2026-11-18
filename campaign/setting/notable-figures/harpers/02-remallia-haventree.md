@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Sun elf noblewoman, chaotic good*. Stat block: **Mage (with modifications)**.
+> - *Sun elf noblewoman, chaotic good, she/her*. Stat block: **Mage (with modifications)**.
 > - **Affiliation:** Harpers
 > - **Featured in:** **Trollskull Alley**, **Fireball!**, **A Friend's House**
 

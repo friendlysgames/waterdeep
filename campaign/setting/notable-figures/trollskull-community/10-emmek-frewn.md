@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Illuskan human tavern owner, neutral evil*. Stat block: **Commoner**.
+> - *Illuskan human tavern owner, neutral evil, he/him*. Stat block: **Commoner**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** **Trollskull Alley**
 

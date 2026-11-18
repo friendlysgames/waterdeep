@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Illuskan human Watchful Order investigator, lawful good*. Stat block: **Mage**.
+> - *Illuskan human Watchful Order investigator, lawful good, he/him*. Stat block: **Mage**.
 > - **Affiliation:** City of Waterdeep (Watchful Order of Magists and Protectors)
 > - **Featured in:** **Fireball!**, **Gralhund Villa**, **A Friend's House**
 

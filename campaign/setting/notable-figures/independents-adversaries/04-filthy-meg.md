@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Merfolk, neutral*. Stat block: **Spy (information broker)**.
+> - *Merfolk, neutral, she/her*. Stat block: **Spy (information broker)**.
 > - **Affiliation:** Independent (adversary)
 > - **Featured in:** **Trollskull Alley**
 
