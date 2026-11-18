@@ -88,7 +88,7 @@ Malar, the Beastlord, is the god of the hunt and of the cruel side of nature, an
 - `campaign/quests/faction-events/emerald-enclave/r50-master-of-the-wild/ev-01-master-of-the-wild.md`: Wyllow and Wyllowwood among the Mad Mage seeds (line 377).
 - `campaign/setting/history/09-timekeeping-and-the-festival-calendar.md`: the festival days (line 33) and the Nightal row (line 51).
 - `campaign/setting/deities/chauntea.md`, `deneir.md`, `helm.md` and `ilmater.md`: the pages that name him, kept consistent with this one.
-- Forgotten Realms Wiki, Malar (editions and books tagged on the page): rank, the Gods of Fury, organization, the Hunts, holy days, relations and the history from the Spellplague to the Second Sundering. The wiki is paraphrased, never quoted. The Talos and Auril wiki pages (via their research notes) supply the Gods of Fury members and the Auril rivalry; the Umberlee and Auril notes supply the late fifteenth-century episode.
+- Forgotten Realms Wiki, Malar (editions and books tagged on the page): rank, the Gods of Fury, organization, the Hunts, holy days, relations and the history from the Spellplague to the Second Sundering. The wiki is paraphrased, never quoted. The Talos and Auril wiki pages (via their research notes) supply the Gods of Fury members and the Auril rivalry; the Umberlee and Auril notes supply the late 1480s episode.
 
 ## Cross-References
 
