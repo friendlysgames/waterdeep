@@ -411,8 +411,8 @@ This journal gathers the powers that a character in Waterdeep might follow or ba
 - `sources/adventure-wdh.json`: the Major Temples of Waterdeep table (caption at line 30910, rows at lines 30921 to 30996); Marpenoth 15: Gods' Day (lines 31531 to 31535).
 - Every page in `campaign/setting/deities/` (all 73 powers): Title, Domains, Alignment, the Pantheon field, and the cleric, paladin and warlock lines of each Using box. The derived fits in the third table are copied from those lines.
 - `docs/plans/setting-compendium-pass2-subclass-reference.md` and `docs/plans/setting-compendium-pass2-repass-instructions.md`: the 34 available options with their sources, and the rules of the subclass re-pass that the fit tables follow.
-- the retired Waterdeep outline (line 36): Tymora and Selûne as the Sea Ward's major temples; the Halls of Justice and the House of Inspired Hands.
-- `campaign/gazetteer/waterdeep/castle-ward.md` (lines 164 to 166): the Castle Ward temples, the Tower of Luck and Temple of Helm placement notes, and the missing hooks.
+- the retired Waterdeep outline: Tymora and Selûne as the Sea Ward's major temples; the Halls of Justice and the House of Inspired Hands.
+- `campaign/gazetteer/waterdeep/castle-ward.md` (lines 155 and 262): the Castle Ward temples, the Tower of Luck placement and the Temple of Helm conflict note.
 - `campaign/quests/faction-events/order-of-the-gauntlet/r03-marcheon/ev-01-marcheon.md` (lines 201 and 222), `r10-whitehawk/ev-01-whitehawk.md` (line 150) and `00-first-meeting/ev-01-first-meeting.md` (line 192): the Temple of Helm in the Southern Ward and the Chapel of the Steadfast Shield in the Dock Ward.
 - `campaign/quests/faction-events/doom-raiders/m03-the-missing-snobeedle/ev-01-the-missing-snobeedle.md` (lines 128 and 166): the Yondalla shrine on Larkhaven Street.
 - `campaign/quests/faction-events/force-grey/m02-the-dragon-in-the-harbor/overview.md` (lines 17 and 23): the Queenspire and Meritide Blackfin.
@@ -454,4 +454,3 @@ This journal gathers the powers that a character in Waterdeep might follow or ba
 > - **Iggwilv:** She is listed under Archfey with Fiend as the alternative, as her page says.
 > - **Derived on this page:** The sort orders, the Kind column, the By subclass grouping (read from the first fit on each page's cleric, paladin and warlock lines; 34 options, of which four have no page: the Oath of the Watchers, the Undying, the Genie and the Hexblade; all 14 domains are used), the counts (73 powers: 52 gods, 8 powers of other peoples, 13 patrons) and the opening's claim that the larger temples stand mostly in the Castle and Sea Wards, which counts the table rows.
 > - **Names with no page:** Meritide Blackfin has no Notable Figures page, so he is plain text. The Order of the Gauntlet temples' priests and door-wardens are named on the Tyr page only.
-> - **Not run:** `voicecheck.py` was not run on this file. The drafting agent had no shell. The main session runs it.
