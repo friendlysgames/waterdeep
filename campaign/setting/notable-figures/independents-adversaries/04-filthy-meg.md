@@ -23,7 +23,7 @@
 
 **Morale.** If cornered, Meg drops into the harbor. If her Field Ward people are threatened, she doesn't fight — she remembers, and she sells the information about who was responsible to someone who will handle it for her.
 
-**Relationships.** Filthy Meg is an independent merfolk information broker operating out of Mistshore — she is not on Xanathar's payroll and not a BD asset, which is precisely what makes her valuable. She has existing relationships with both Jarlaxle (who gave her a ring of true sight as a retainer payment and gets harbor intelligence in return) and the Cassalanters (who have paid for Field Ward surveillance twice). Her network of homeless residents in the Field Ward is her primary collection mechanism: they notice who passes through, where people sleep, and what disappears. She resurfaces in **Sea Maidens Faire** as the best independent source on the Sea Maidens Faire's crew movements and in **Vault of Dragons** on Brandath Crypt foot traffic.
+**Relationships.** Filthy Meg is an independent merfolk information broker operating out of Mistshore — she is not on Xanathar's payroll and not a BD asset, which is precisely what makes her valuable. She has existing relationships with both Jarlaxle (who gave her a ring of true sight as a retainer payment and gets harbor intelligence in return) and the Cassalanters (who have paid for Field Ward surveillance twice). Her network of homeless residents in the Field Ward is her primary collection mechanism: they notice who passes through, where people sleep, and what disappears. She resurfaces in **Sea Maidens Faire** as the best independent source on the Sea Maidens Faire's crew movements and in **Vault of Dragons** on Brandath Crypts foot traffic.
 
 ## Overview
 

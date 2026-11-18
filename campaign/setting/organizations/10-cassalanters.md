@@ -47,7 +47,7 @@ How the family responds to a party that helps or hinders them is in the **Cassal
 - **Tissina Khyret** — Tiefling cult fanatic (Asmodeus), lawful evil. See the **Tissina Khyret** page in Notable Figures.
 - **Laiba "Nana" Rosse** — Tiefling cult fanatic (Asmodeus), neutral evil. See the **Laiba "Nana" Rosse** page in Notable Figures.
 - **Jandar Chergoba** — Tiefling cult fanatic (Asmodeus), lawful evil. See the **Jandar Chergoba** page in Notable Figures.
-- **Seffia Naelryke** — Human cult fanatic (Asmodeus), lawful evil. Cult fanatic, loyal to Asmodeus, stationed at the Converted Windmill with Arn Xalrondar. Carries a letter from Lord Cassalanter confirming that her ritual identified the Eye in the Brandath Crypt. She keeps it as a prized possession; taking it provokes fury. See the **Seffia Naelryke** page in Notable Figures.
+- **Seffia Naelryke** — Human cult fanatic (Asmodeus), lawful evil. Cult fanatic, loyal to Asmodeus, stationed at the Converted Windmill with Arn Xalrondar. Carries a letter from Lord Cassalanter confirming that her ritual identified the Eye in the Brandath Crypts. She keeps it as a prized possession; taking it provokes fury. See the **Seffia Naelryke** page in Notable Figures.
 - **Arn Xalrondar** — Human cult fanatic (Asmodeus), lawful evil. Cult fanatic, Seffia's partner at the Windmill. His *Book of Worship* links him directly to the Windmill's address on Coachlamp Lane. See the **Arn Xalrondar** page in Notable Figures.
 - **Rella Asp** — Human poisoner (Cassalanter operative), lawful evil. See the **Rella Asp** page in Notable Figures.
 - **Ivrala Sorn** — Human spy (Cassalanter operative), neutral evil. See the **Ivrala Sorn** page in Notable Figures.

@@ -17,7 +17,7 @@
 >
 > - Bones went missing from the Halleth, Corlan and Tessenden mausoleums in the northern section over the past tenday. All three stand on a line between the northeast wall and the Brandath grove.
 > - The Vault of Dragons lies under the Brandath grove, and the skeletons walk toward it, pause at the edge of the treant's ground and turn back. Nobody in this Event knows what is below.
-> - Ambrose has felt the north go wrong for months, but he offers nothing about the Brandath crypt unless he is asked and given a reason.
+> - Ambrose has felt the north go wrong for months, but he offers nothing about the Brandath Crypts unless he is asked and given a reason.
 > - Ambrose takes the south and the party takes the north, which reverses Dragon Heist, and the design notes record the change.
 > - Jeryth does not know what the pressure is, so her reply is a request to hear if anything answers it.
 > - Nobody in this Event names the Splinter, the Cassalanters or Illuun.
@@ -199,7 +199,7 @@ On night 4 the party sees the path for the first time. On night 6, a character w
 
 ### The Pattern
 
-Three independent routes show that the skeletons are going to the Brandath crypt, and any one of them is enough to document the pattern.
+Three independent routes show that the skeletons are going to the Brandath Crypts, and any one of them is enough to document the pattern.
 
 > [!exploration]**Three Routes to the Pattern**
 >
@@ -237,7 +237,7 @@ The tenth night closes at dawn with the party at the central gate path. Nothing 
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Pattern Documented** — mark when the party has put the skeletons' path, Ambrose's account or the Watch ledger before both Ambrose and Melannor before the tenth night begins. Read by **The Final Dawn**, where Ambrose names the Brandath crypt unasked.
+> - **Pattern Documented** — mark when the party has put the skeletons' path, Ambrose's account or the Watch ledger before both Ambrose and Melannor before the tenth night begins. Read by **The Final Dawn**, where Ambrose names the Brandath Crypts unasked.
 > - **Bones Kept Safe** — mark when every skeleton that walked in was destroyed inside the grounds, so that none left with its bones. This covers nights 4, 6 and 8, and **The Final Dawn** reads it for Melannor's debrief and the Renown bonus.
 > - **Jeryth's Message Received** — mark for each member who hears Melannor relay her reply; read by **The Dreamer's Reach** and **Vault of Dragons** (unconverted).
 

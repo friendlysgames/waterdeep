@@ -55,7 +55,7 @@ Brimel meets the member in a shuttered sailmaker's doorway two blocks from the t
 
 ## The Plan in Krebbyg's Hands
 
-Krebbyg reads the plan in the booking office after the show. The sketch shows the windmill's stair and top-floor apartment and the lease name. A pencilled note on the back describes a map in the back room that marks the Brandath Crypt in the City of the Dead. A member who tells him in their own words that the Cassalanters are bound to a devil, or who shows proof, hears the company admit that it has known for some time, and **Cassalanter Pact Shared with BD** is marked.
+Krebbyg reads the plan in the booking office after the show. The sketch shows the windmill's stair and top-floor apartment and the lease name. A pencilled note on the back describes a map in the back room that marks the Brandath Crypts in the City of the Dead. A member who tells him in their own words that the Cassalanters are bound to a devil, or who shows proof, hears the company admit that it has known for some time, and **Cassalanter Pact Shared with BD** is marked.
 
 ## The Key
 

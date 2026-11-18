@@ -54,7 +54,7 @@ Each participating Emerald Enclave member gains 2 base Renown for reporting to M
 
 - **+1 Renown:** the party documented the pattern and reported it to Melannor and Ambrose before the tenth night, and **Pattern Documented** is marked.
 - **+1 Renown:** all ten nights were held and **Bones Kept Safe** is marked.
-- **+1 Renown:** a character asked Ambrose about the Brandath crypt and gave a reason before he spoke of it.
+- **+1 Renown:** a character asked Ambrose about the Brandath Crypts and gave a reason before he spoke of it.
 
 Companions who are not Emerald Enclave members gain no Renown, and each bonus can be earned only once.
 

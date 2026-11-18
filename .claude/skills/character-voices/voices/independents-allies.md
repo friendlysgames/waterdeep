@@ -322,13 +322,13 @@ He writes the way a travel-guide author talks when he believes he is a great sty
 - **Sentence shape:** Formal, complete sentences, with no contractions (a deliberate break from `ember-voice` speech). He asks the living to justify themselves.
 - **Word choice:** Funerary and knightly: the rest, the honoured dead, "these grounds". Kelemvor invoked as "the Judge".
 - **Swearing:** *Stingy · Plain · Clipped.* Never on the grounds of the dead. Elsewhere, perhaps once in a campaign, and it would be devastating.
-- **Personality in speech:** Measured calm and professional grief. His irritation at disrespect is quiet and exact. His knowledge of the Brandath Crypt is withheld until someone explains why they need it.
+- **Personality in speech:** Measured calm and professional grief. His irritation at disrespect is quiet and exact. His knowledge of the Brandath Crypts is withheld until someone explains why they need it.
 - **Quirks:** He removes his gauntlet to touch a headstone as he passes. He names the family of every plot he walks by.
 - **Signature phrases:** "The dead are owed their rest." / "Why do you need to know?" / "Walk softly here."
 - **Never:** He never jokes about the dead, never disturbs a grave, and never offers crypt knowledge unasked.
 - **Sample lines:**
   - *Greeting:* "Good evening. You are on the grounds of the dead. Walk softly here."
-  - *Business:* "I know the Brandath Crypt. I will tell you of it when you have told me why you want it."
+  - *Business:* "I know the Brandath Crypts. I will tell you of them when you have told me why you want it."
   - *Under pressure:* "Stand aside. These ones do not rest, and I will see to it that they do."
 
 ---

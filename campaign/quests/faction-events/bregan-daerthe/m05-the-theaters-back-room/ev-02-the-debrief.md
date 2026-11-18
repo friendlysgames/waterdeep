@@ -14,7 +14,7 @@
 >
 > Two **Faction Outposts** outcomes decide what the member brings. The **Faction Outposts** conversion must write them, together with **Windmill Raided**.
 >
-> - **Windmill Map Taken** — the party took or copied the map of the City of the Dead, with the Brandath Crypt ringed in red, from the desk in the back room.
+> - **Windmill Map Taken** — the party took or copied the map of the City of the Dead, with the Brandath Crypts ringed in red, from the desk in the back room.
 > - **Windmill Clean Exit** — the party left without the sentry imp escaping, without an alarm, and without Seffia Naelryke and Arn Xalrondar learning that anyone had been inside.
 >
 > Bregan D'aerthe has already collected Brimel's plan. Fel'rekt Lafeen took the folded sheet from Brimel at the Faire showcase two nights ago and shook off the Cassalanter watcher at the interval. Brimel has been aboard the *Heartbreaker* since. The company still wants the member's firsthand account, because a floor plan drawn from memory is not the same as a room somebody has stood in.
@@ -213,7 +213,7 @@ Zardoz pays out of a velvet purse at the end of the evening, and Krebbyg gives e
 
 ### Aftermath
 
-Krebbyg keeps the plan in the dressing room and copies the map in his own hand if the member brought it. Brimel sails with the Faire on Tarsakh 20 under a cook's mate's pass. Zardoz does not mention the windmill again unless the member does. The party has two independent sources for the Brandath Crypt: the windmill map from **Faction Outposts** and Brimel's note.
+Krebbyg keeps the plan in the dressing room and copies the map in his own hand if the member brought it. Brimel sails with the Faire on Tarsakh 20 under a cook's mate's pass. Zardoz does not mention the windmill again unless the member does. The party has two independent sources for the Brandath Crypts: the windmill map from **Faction Outposts** and Brimel's note.
 
 ### Concluding the Event
 
