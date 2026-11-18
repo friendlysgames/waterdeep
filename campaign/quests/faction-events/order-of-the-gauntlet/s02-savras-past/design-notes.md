@@ -22,5 +22,5 @@ No Renown is awarded, as before. The two outcomes keep their names but are marke
 - Unverified: the Howling Hatred rank names (Initiate, Windwalker, Windcaller); no *Princes of the Apocalypse* file exists in `sources/`.
 - Open: no page decides who paid for the cult, so the Event leaves it a suspicion.
 - Resolved: Saeth's Notable Figures page now says "Halls of Justice" as the Order pages do, and lists this event.
-- Open: Savra's Notable Figures page says neutral good and Tethyrian; the brief fixes Lawful Good, Human.
+- Resolved: Savra's Notable Figures page and the published adventure agree on neutral good and Tethyrian, and the event's cast line uses both.
 - Open: the Quietly Reassigned delay of one dusk and the holdover rule against the tithe visit are mine, not the brief's.

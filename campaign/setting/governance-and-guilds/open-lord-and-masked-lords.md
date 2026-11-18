@@ -47,7 +47,7 @@ The Open Lord and the Masked Lords are the ruling council of Waterdeep, made up 
 
 **Dagult Neverember** (Lawful Neutral, Illuskan Human, he/him) was Open Lord until the other Lords voted him out, and he is now Lord of Neverwinter. His history belongs to **The Open Lord's Fall**.
 
-**Caladorn Cassalanter** (Lawful Good, Ghost, he/him) was a Masked Lord and a hero of the North, and he is Victoro Cassalanter's father. His portrait hangs in the entrance hall of **Cassalanter Villa**, and a DC 14 Intelligence (History) check on it identifies him as a former Masked Lord.
+**Caladorn Cassalanter** (Lawful Good, Tethyrian Human Ghost, he/him) was a Masked Lord and a hero of the North, and he is Victoro Cassalanter's father. His portrait hangs in the entrance hall of **Cassalanter Villa**, and a DC 14 Intelligence (History) check on it identifies him as a former Masked Lord.
 
 Several more names have no Notable Figures page, so they stay as plain text. The published adventure names Corylus Thann, a lawful evil Tethyrian human noble of the Thann family of vintners, as a Masked Lord. It lists Thardouk Starbuckler and Dorgar Adarbrent as Masked Lords on a list in Manshoon's handwriting and gives them no other detail. The wiki names the earlier Open Lords as Ahghairon, Baeron Silmaeril, Lhestyn the Masked Lady and Piergeiron the Paladinson (wiki only), and the Palace still carries Piergeiron's name.
 

@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Ghost of a Cassalanter noble, lawful good*. Stat block: **Ghost**.
+> - *Tethyrian human ghost of a Cassalanter noble, lawful good*. Stat block: **Ghost**.
 > - **Affiliation:** The Cassalanters (deceased; ancestral ghost)
 > - **Featured in:** Cassalanter Villa, Cassalanter Villa (location)
 
