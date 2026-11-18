@@ -29,7 +29,7 @@ One doc per Notable Figures group, in `voices/`. Profiles are in the same order 
 | `voices/order-of-the-gauntlet.md` | Savra Belabranta, Sister Valdra |
 | `voices/force-grey.md` | Vajra Safahr |
 | `voices/doom-raiders.md` | Davil, Yagra, Istrid, Skeemo, Tashlyn, Ziraj, Senna Vael |
-| `voices/bregan-daerthe.md` | Zardoz Zord and Jarlaxle (two profiles), Soluun, Fel'rekt, Krebbyg, Zelifarn, Fenerus, Malcolm, Quilm, Ryvarra, Margo, Khafeyta, Vessa |
+| `voices/bregan-daerthe.md` | Zardoz Zord and Jarlaxle (two profiles), Soluun, Fel'rekt, Krebbyg, Zelifarn, Fenerus, Malkolm, Quilm, Ryvarra, Margo, Khafeyta, Vessa |
 | `voices/xanathars-guild.md` | The Xanathar, Ahmaergo, Nar'l, Nihiloor, Noska, Ott, Thorvin, Keln, Grinda, Korgstrod, Gorath, Grevik, Tobrin |
 | `voices/manshoons-zhentarim.md` | Manshoon, Floxin, Vevette, Sidra, Agorn, Avareen, Zorbog, Amath, Vira, Manafret, Kaevja, Havia, Mookie, Yorn |
 | `voices/cassalanters.md` | Victoro, Ammalia, Willifort, Osvaldo, the twins, Tissina, Nana Rosse, Jandar, Seffia, Arn, Rella, Ivrala, Caladorn |
