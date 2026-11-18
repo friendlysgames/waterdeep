@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Illuskan human mage (black market armorer), neutral, she/her*. Stat block: **Mage**.
+> - *Illuskan human mage (black market armorer), chaotic neutral, she/her*. Stat block: **Mage**.
 > - **Affiliation:** Independent (contractor to Xanathar's Guild and Bregan D'aerthe)
 > - **Featured in:** **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**
 

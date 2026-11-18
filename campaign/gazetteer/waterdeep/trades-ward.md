@@ -117,7 +117,7 @@ The Trades Ward is the city's shop floor, a ward of guildhalls, stalls and balco
 >
 > - Skeemo is a traitor who feeds intelligence to Manshoon's cell and House Gralhund and messages both sides by paper bird. If cornered he trades information for his life.
 
-**Fenerus Stormcastle (Neutral Evil, Tethyrian Human, he/him)**
+**Fenerus Stormcastle (Neutral, Tethyrian Human, he/him)**
 - A big, scar-faced lamplighter with gray hair, who lights lamps in the ward and minds his own business. He is a retired brigand who spies for Luskan.
 - He wants immunity and a quiet life, and he survives by saying little.
 
