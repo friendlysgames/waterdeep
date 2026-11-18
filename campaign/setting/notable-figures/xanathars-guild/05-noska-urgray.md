@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Shield dwarf enforcer, neutral evil*. Stat block: **Thug (with modifications)**.
+> - *Shield dwarf enforcer, neutral evil, he/him*. Stat block: **Thug (with modifications)**.
 > - **Affiliation:** Xanathar's Guild
 > - **Featured in:** **Xanathar's Lair**
 

@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Beholder crime lord, lawful evil*. Stat block: **Beholder**.
+> - *Beholder crime lord, lawful evil, it/its*. Stat block: **Beholder**.
 > - **Affiliation:** Xanathar's Guild
 > - **Villain profile:** see **Xanathar** in Villains
 > - **Featured in:** **Finding Floon**, **Faction Outposts**, **Xanathar's Lair**, **Vault of Dragons**; **Xanathar Sewer Hideout** (location)

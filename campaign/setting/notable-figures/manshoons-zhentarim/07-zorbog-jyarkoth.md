@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Turami human thug (Zhentarim), neutral evil*. Stat block: **Thug**.
+> - *Turami human thug (Zhentarim), neutral evil, he/him*. Stat block: **Thug**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Faction Outposts**
 

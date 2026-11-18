@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Illuskan human spy (Zhentarim interrogator), lawful evil*. Stat block: **Spy**.
+> - *Illuskan human spy (Zhentarim interrogator), lawful evil, she/her*. Stat block: **Spy**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Faction Outposts**
 

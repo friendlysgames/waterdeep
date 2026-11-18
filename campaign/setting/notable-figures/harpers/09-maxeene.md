@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Draft horse with a permanent enchantment that lets her understand and speak Common, unaligned*. Stat block: **Beast (Intelligence 10)**.
+> - *Draft horse with a permanent enchantment that lets her understand and speak Common, unaligned, she/her*. Stat block: **Beast (Intelligence 10)**.
 > - **Affiliation:** Harpers
 > - **Featured in:** **Trollskull Alley**, **The Talking Mare**
 

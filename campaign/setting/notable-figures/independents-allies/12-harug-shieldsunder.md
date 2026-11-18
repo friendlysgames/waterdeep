@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Shield dwarf fighter, lawful neutral*. Stat block: **Veteran**.
+> - *Shield dwarf fighter, lawful neutral, he/him*. Stat block: **Veteran**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** Background figure; no scripted appearance.
 

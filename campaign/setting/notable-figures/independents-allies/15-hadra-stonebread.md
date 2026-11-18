@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Illuskan human retired cook, lawful neutral*. Stat block: **Commoner**.
+> - *Illuskan human retired cook, lawful neutral, she/her*. Stat block: **Commoner**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** Background figure; no scripted appearance.
 

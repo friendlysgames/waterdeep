@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Half-elf poltergeist, unaligned*. Stat block: **Specter**.
+> - *Half-elf poltergeist, unaligned, he/him*. Stat block: **Specter**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** **Trollskull Alley**, **Trollskull Manor**
 

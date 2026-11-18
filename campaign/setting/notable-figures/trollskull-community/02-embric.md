@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Fire genasi weaponsmith, neutral good*. Stat block: **Bandit Captain**.
+> - *Fire genasi weaponsmith, neutral good, he/him*. Stat block: **Bandit Captain**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** **Trollskull Alley**, **Fireball!**, **Trollskull Manor**
 

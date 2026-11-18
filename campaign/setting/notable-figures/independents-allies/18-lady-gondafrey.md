@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Lawful good gargoyle (human soul), lawful good / chaotic evil (set by time of day)*. Stat block: **Gargoyle**.
+> - *Lawful good gargoyle (human soul), lawful good / chaotic evil (set by time of day), she/her*. Stat block: **Gargoyle**.
 > - **Affiliation:** Independent (ally); City Watch (formerly)
 > - **Featured in:** **Kolat Towers**
 

@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Calishite human hermit monk, lawful good*. Stat block: **Monk (with modifications)**.
+> - *Calishite human hermit monk, lawful good, he/him*. Stat block: **Monk (with modifications)**.
 > - **Affiliation:** Order of the Even-Handed; Order of the Gauntlet (ally)
 > - **Featured in:** **Trollskull Alley**, **Vault of Dragons**, **Consulting Hlam**
 

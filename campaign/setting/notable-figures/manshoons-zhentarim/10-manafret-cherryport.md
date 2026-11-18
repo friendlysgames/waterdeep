@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Lightfoot halfling mage (Kolat Towers cook), neutral evil*. Stat block: **Mage**.
+> - *Lightfoot halfling mage (Kolat Towers cook), neutral evil, he/him*. Stat block: **Mage**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Kolat Towers**
 

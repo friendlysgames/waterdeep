@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Half-orc cook, neutral evil*. Stat block: **Spy**.
+> - *Half-orc cook, neutral evil, he/him*. Stat block: **Spy**.
 > - **Affiliation:** Xanathar's Guild
 > - **Featured in:** Background figure; no scripted appearance.
 

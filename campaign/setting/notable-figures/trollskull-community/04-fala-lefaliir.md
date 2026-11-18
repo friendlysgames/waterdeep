@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Wood elf herbalist, chaotic good*. Stat block: **Druid**.
+> - *Wood elf herbalist, chaotic good, they/them*. Stat block: **Druid**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** **Trollskull Alley**, **Fireball!**, **Ziraj's Last Hunt**
 

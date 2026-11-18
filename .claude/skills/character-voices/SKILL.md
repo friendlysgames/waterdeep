@@ -1,8 +1,8 @@
 ---
 name: character-voices
 description: >
-  How every named character in the Waterdeep campaign speaks: a voice profile for each of the 122
-  Notable Figures (123 profiles: Jarlaxle and his Zardoz Zord cover are separate) (sound, sentence shape, word choice, how personality shows in speech, quirks,
+  How every named character in the Waterdeep campaign speaks: a voice profile for each of the 123
+  Notable Figures (124 profiles: Jarlaxle and his Zardoz Zord cover are separate) (sound, sentence shape, word choice, how personality shows in speech, quirks,
   signature phrases, what they never say, sample lines), one doc per faction group. Load it
   whenever writing or revising NPC dialogue, qna answers, readaloud speech, or social blocks, and
   whenever a GM needs to perform a character at the table. Works with ember-voice, which sets the
@@ -23,7 +23,7 @@ One doc per Notable Figures group, in `voices/`. Profiles are in the same order 
 | `voices/independents-allies.md` | Volo, Renaer, Durnan, Floon, Meloon, Dalakhar, Valetta, the Black Tears (Elra, Osco, Torlyn, Eiruk, Harug, Parlek), Hlam, Hadra, Esloon, Sir Ambrose, Lady Gondafrey, Aurinax, Kalain, Myl |
 | `voices/independents-adversaries.md` | Dagult Neverember, the Black Viper, Kelso Fiddlewick, Filthy Meg |
 | `voices/city-officials.md` | Laeral Silverhand, Barnibus Blastwind, Saeth Cromley, Jelenn Urmbrusk |
-| `voices/harpers.md` | Mirt, Remi, Threestrings, Bonnie, Corene, Variel, the Vayle twins, Maxeene |
+| `voices/harpers.md` | Mirt, Remi, Threestrings, Bonnie, Corene, Variel, Corvin Vayle, Nessa Vayle, Maxeene |
 | `voices/lords-alliance.md` | Jalester Silvermane |
 | `voices/emerald-enclave.md` | Melannor Fellbranch, Jeryth Phaulkon |
 | `voices/order-of-the-gauntlet.md` | Savra Belabranta, Sister Valdra |
