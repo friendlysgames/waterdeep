@@ -1,8 +1,7 @@
 ﻿# The Death Mark
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Optional Exploration Event covers the investigation of Dalakhar's last lodging at the Inn of the Dripping Dagger. In this Event:
 >
@@ -53,9 +52,8 @@ The team consists of two Guild members in civilian clothes. They probe what the 
 | 1+ days | Briefed on Dalakhar's death; knows Floxin was following him | Inadvertently confirms Floxin as a pursuer; can mention Floxin staying at the Yellowspire safe house (Castle Ward) → leads to Gralhund Villa if the party hasn't found it yet |
 | 3+ days | Team has been pulled | Room empty; no contact |
 
-> **[GM]**
+> [!gamemaster]**Using the Xanathar Team as a Clue Path**
 >
-> #### Using the Xanathar Team as a Clue Path
 >
 > If the party reached this event without having confirmed the Gralhund address through ev-03/04, the Xanathar team is a fourth path to the address: follow Floxin → Yellowspire safe house → Gralhund Villa. The team does not know they're providing this; they're trying to assess the party's intelligence.
 >

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Oghma, god of knowledge, and the reference for the Font of Knowledge, the temple and public library in the Castle Ward.
 > - **Where it is used:** Oghma never appears in person. His faith reaches the campaign through Eiruk Weskur, a priest in Renaer Neverember's Black Tears, and through the Font of Knowledge, whose archivist appears in a Harper mission.
 > - **Featured in:** **A Friend's House** (Harpers Mission 4), where the Font's archivist offers a record that mentions the Vault of Dragons, and **Tavern Time** in the Trollskull Manor guide, where Eiruk can arrive as one of Renaer's friends.
@@ -55,9 +54,8 @@
   - After the Time of Troubles the wiki quotes him as saying that knowledge must be free to travel where it is desired (*Prince of Lies*, novel). In its 4e account he could no longer stand the suppression of any original thought after the Spellplague, and Milil became his exarch (*Forgotten Realms Campaign Guide*, 4e).
 - **In the campaign:** Oghma is alive and present in 1492 DR. The Font of Knowledge is a working temple, and no file treats him as dead or absent. The wiki's accounts of the Time of Troubles and the Spellplague are history and carry no weight in play.
 
-> **[GM]**
+> [!gamemaster]**Using Oghma as a Deity**
 >
-> #### Using Oghma as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the god of everything written down. A sage, a priest or a regular at the bar says Oghma is the Lord of Knowledge, the god of ideas, invention and learning, shown by a blank scroll, and that scribes, sages, mapmakers and bards pray to him. They add that you ask him for help when a fact won't come back to you and curse him when it still won't, and that his priests at the Font of Knowledge teach reading to anyone for nothing. The Dragon Heist city text claims "no city in the world is as literate as Waterdeep," and a Waterdhavian can repeat that. No source records how Waterdhavians in particular talk about him, so this voicing draws on the FRHoF, SCAG and the Dragon Heist text. [research]
 > - **Waterdeep:** Oghma has one temple in the city, the Font of Knowledge in the Castle Ward, and it is also the city's largest public library.
 >   - The Dragon Heist Major Temples table lists "Oghma, Font of Knowledge, Castle Ward" (`sources/adventure-wdh.json:30962-30966`). The Castle Ward text says "The Font of Knowledge is a temple to Oghma, yes, but also the city's largest public library," and adds that visitors read titles from every age under the watchful eyes of the temple's priests (`sources/adventure-wdh.json:31015`).
@@ -76,9 +74,8 @@
 
 Oghma is the Lord of Knowledge, a neutral god of ideas, invention and learning whose symbol is a blank scroll. His followers include sages, scribes, cartographers, bards and archivists, and most of his temples double as public libraries. His Waterdeep temple, the Font of Knowledge in the Castle Ward, is also the city's largest public library. Its priests teach reading to anyone who asks, free of charge.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Eiruk Weskur:** A Chondathan human priest of Oghma, neutral good, and a member of Renaer Neverember's Black Tears. His page lists him as a background figure with no scripted appearance, and the Renaer's Friends table in **Tavern Time** (entry 15) can bring him to the tavern. His page says he wants "to serve Oghma by gathering and sharing knowledge" and believes "knowledge shared is knowledge doubled." In a fight he would "heal first, fight second", and his page adds that his faith "teaches that knowledge includes knowing when to swing a mace."
 > - **Zalara Moonwhisper and the Font's archive:** In **A Friend's House** (Harpers Mission 4), Zalara (Lawful Neutral, Elf, she/her), an archivist at the Font of Knowledge, is one of the twelve guests at Remallia Haventree's salon. She carries a folded copy of a 1244 DR entry that "names the vault as an extraordinary reserve under the Lords' disposition" and describes a ceremonial lock, and she asks the party to read the whole entry in the Font's archive at ten the next morning.
 > - **The archive visit is unwritten:** No event runs the visit. The mission's design notes say the 1244 DR record "has no anchor in the Vault of Dragons structure doc" (`campaign/quests/faction-events/harpers/m04-a-friends-house/design-notes.md:23`), so this page adds nothing about what the full entry says. Zalara has no faction in her file, and the file does not say whether she worships Oghma. The record is a seed for **Vault of Dragons**, and the Font is where the GM would stage it.
@@ -111,9 +108,8 @@ Oghma is the Lord of Knowledge, a neutral god of ideas, invention and learning w
 - **A Friend's House** (Harpers Mission 4), **Vault of Dragons** (quest): where the Font's archive comes into play.
 - **Tavern Time** (Trollskull Manor guide): the Renaer's Friends table.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Derived:** The one-line edict is written from the SCAG sentence on spreading knowledge and literacy, because no source gives one. Areas of Concern are derived from the portfolio and the library temples. Knowledge Domain, the rejection of Trickery, the Thaumaturge order and Oath of Devotion are derived. The warlock line keeps the fallback, because no available patron matches the sources.
 > - **Research:** Omens (none sourced). The 5e holy days (the wiki row is blank, and the page uses the 3e line). How Waterdhavians talk about him. Everything about the Font beyond its name, ward and function: size, staff, high priest, hours, the Covenant, and its place in the faith's networks. Zalara's faith and faction.
 > - **Epithet:** The line leads with the Lord of Knowledge because FRHoF, SCAG and the wiki all carry it. Eiruk's voice profile has him call Oghma "the Binder" (`.claude/skills/character-voices/voices/independents-allies.md:215`), and no campaign file shows which name the city uses.

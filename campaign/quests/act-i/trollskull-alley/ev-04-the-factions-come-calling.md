@@ -1,8 +1,7 @@
 ﻿# The Factions Come Calling
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Event covers faction recruitment, which runs parallel to the renovation period. In this Event:
 >

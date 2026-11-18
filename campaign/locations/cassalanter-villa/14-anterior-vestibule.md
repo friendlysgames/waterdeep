@@ -1,6 +1,6 @@
 ﻿# A3 — Anterior Vestibule
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
 > This room is **Heist-only**. See A1 — Hall of the Damned for temple access notes.
 

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Mystra, god of magic, and the reference for the faith practiced at the House of Wonder in the Sea Ward.
 > - **Where it is used:** Mystra never appears in person. The campaign reaches her through the House of Wonder, through her daughter Laeral Silverhand, and through Manshoon's plan to supplant her.
 > - **Featured in:** **Fireball!** (the House of Wonder on the nimblewright sweep). Through Laeral Silverhand she also touches **Sea Maidens Faire**, **Kolat Towers** and **Vault of Dragons**, and through Manshoon's plan she touches **Gralhund Villa** and **Kolat Towers**.
@@ -59,9 +58,8 @@
   - In 1385 DR the Spellplague gripped the world. *Dragon Heist* says it has since been divined that Cyric's hatred for her boiled over into her murder, and that parts of Toril switched places with parts of another world. FRHoF says Cyric killed her aided by Shar, and the Lathander page gives the same account.
 - **In the campaign:** Mystra is present in 1492 DR. The House of Wonder is a working temple with a high priest, and no file treats her as dead or absent. *Dragon Heist* says her death, rebirth and withdrawal from the world weakened Laeral, and the page treats those events as history (see Draft Notes).
 
-> **[GM]**
+> [!gamemaster]**Using Mystra as a Deity**
 >
-> #### Using Mystra as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as the patron of every spellcaster in the city. A sage, a priest or a regular at the bar says she is the Lady of Mysteries, the god of magic and of the Weave that every spell is drawn from, and that wizards, sages and alchemists favor her. They add that her priests look out for children with a spark and find them a teacher, and that the House of Wonder in the Sea Ward is the finest temple to the gods of magic in the world. Older Waterdhavians tell that she was once the mortal Midnight, raised to godhood on the slopes of Mount Waterdeep at the end of the Time of Troubles, and a sage adds that Cyric is blamed for murdering her in the Spellplague. Anyone who follows city politics knows that the Open Lord, Laeral Silverhand, is one of her daughters. Nobody in this conversation mentions Manshoon.
 > - **Waterdeep:** Mystra has one temple in the city, the House of Wonder in the Sea Ward.
 >   - The Dragon Heist Major Temples table lists "Mystra, House of Wonder, Sea Ward". The Sea Ward text calls it "surely the most splendid temple dedicated to the gods of magic" with Mystra foremost among them, and it points visitors to the ornate towers, brilliant mosaics and magical displays. Humble violets grow among the ostentation, planted in memory of Ahghairon, whose favorite flower they were. The temple stands near the crossing of Diamond Street and Delzorin Street.
@@ -81,9 +79,8 @@
 
 Mystra is the god of magic and of the Weave, the force from which every spell is drawn. Waterdhavians call her the Lady of Mysteries, and her House of Wonder in the Sea Ward is held to be the most splendid temple to the gods of magic in the world. Her followers are wizards, sages, alchemists and anyone else who works with magic, and they hold that magic should be preserved and shared with those who have the gift. Sages tell that she was once the mortal Midnight, made a goddess on the slopes of Mount Waterdeep, and the Open Lord, Laeral Silverhand, is one of her daughters.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Laeral Silverhand:** The Dragon Heist text makes her the fifth of Mystra's seven daughters, born in 765 DR. The campaign calls her one of the Seven Sisters and a Chosen of Mystra. *Dragon Heist* says she resurfaced after the Spellplague and the Sundering, weakened by Mystra's death, rebirth and withdrawal from the world. The extent of her decline is a secret kept on her own page, and this page does not touch it. The wiki adds that Mystra herself asked Laeral to become Open Lord (wiki only, see **A City Watching Itself**).
 > - **Khelben and the Blackstaff:** The campaign calls Khelben Arunsun the original Blackstaff and Laeral's late husband. His soul is in the staff that Vajra Safahr carries. No campaign file says that Mystra chose him or links the office of Blackstaff to her. The link is the wiki's alone, from the Nameless Chosen of 464 DR.
 > - **Manshoon's plan:** Manshoon wants the Stone of Golorr for the ancient Weave knowledge encoded in its aboleth memory. He means to use it to absorb the Weave and supplant Mystra, and the vault's gold pays for the preparations. The plan links to **Gralhund Villa** and **Kolat Towers**. In **Gralhund Villa** the party does not learn his name, his goals or the Weave motive, so no priest of Mystra can speak of it before the party's evidence supports it.
@@ -122,9 +119,8 @@ Mystra is the god of magic and of the Weave, the force from which every spell is
 - **Ahghairon's Gifts**, **A City Watching Itself**, **Timekeeping and the Festival Calendar** (History): Ahghairon's violets, Laeral's rise, and Gods' Day and Ahghairon's Day.
 - **Fireball!**, **Gralhund Villa**, **Kolat Towers** (quests): where the temple and the plan come into play.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, the temple on the lore page:** the retired Waterdeep outline, line 36 lists the Sea Ward's major temples as Tymora and Selûne only. The Dragon Heist table (`sources/adventure-wdh.json:30957-30961`), the Sea Ward text (`:30880`) and the Fireball! sweep (`campaign/quests/act-ii/fireball/ev-03-the-nimblewright-hunt.md:31`) all put the House of Wonder there, so this page follows them. The hub's temples table should show it in the Sea Ward.
 > - **Settled, title:** FRHoF titles her "God of magic" (`sources/research/pass2-bundles/mystra/5etools.md:3`) and calls her "a god" (`:7`). SCAG and the PHB say "Goddess of magic" (`:27`, `:18`), the wiki says feminine, and `sources/adventure-wdh.json:32201` says "the goddess Mystra". FRHoF outranks SCAG because it is newer (`CLAUDE.md`, Sundering canon and 5e source precedence), so the Title bullet uses FRHoF's wording and names the older printings. The prose uses "goddess" and "she", which a separate decision covers.
 > - **Conflict, alignment:** SCAG gives Neutral Good (`5etools.md:28`) and the wiki's 1e and 2e rows give Lawful neutral (`wiki.txt:68`, `:82`). The page follows SCAG. The wiki's appendix says the clergy alignments are derived and can be altered (`wiki.txt:172`).

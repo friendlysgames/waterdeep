@@ -10,7 +10,7 @@ The attic door is not locked from the corridor side.
 
 ### Heist — Cassalanter Villa Only
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
 > This room has no Normal section. It is inaccessible during Fireball — the attic is sealed and forbidden to all household staff. The exterior door's lock (DC 19) is beyond any non-plot access path in Fireball. Access occurs only during the Cassalanter Villa operation.
 

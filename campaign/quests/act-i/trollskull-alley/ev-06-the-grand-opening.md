@@ -1,8 +1,7 @@
 ﻿# The Grand Opening
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Event marks the end of the renovation period and the opening of Trollskull Manor as a functioning tavern. In this Event:
 >

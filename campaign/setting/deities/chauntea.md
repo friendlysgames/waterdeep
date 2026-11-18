@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Chauntea, the Great Mother and god of agriculture, for players who want a cleric, paladin or devout character who tends the land.
 > - **Where it is used:** Chauntea never appears in person, and no campaign file names her. The page backs a character who follows her, and it states what the sources place in the city so that no later page invents more.
 > - **Featured in:** No quest. Her name appears only on other Deities pages, as a lover of **Lathander**, a friendly rival of **Gond**, and a child of the war between **Selûne** and **Shar**.
@@ -47,9 +46,8 @@
   - In the late fifteenth century DR, after Malar's apparent death in the Spellplague, she blessed Argon Bael's effort to bring the Beastlord back. She said her reasons lay beyond mortal ideas of good and evil (*The Rose of Sarifal*, novel).
 - **In the campaign:** Chauntea is alive and present in 1492 DR. No file treats her as absent.
 
-> **[GM]**
+> [!gamemaster]**Using Chauntea as a Deity**
 >
-> #### Using Chauntea as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as the goddess behind the table. A sage, a priest or a regular at the bar says she is the Great Mother, god of farms and harvests and of the hearth, and that Waterdeep's bread and grain come from the fields outside its walls. They say a family thanks her over a meal and at a birth, and that farmers and kitchen gardeners pray to her more than townspeople do. They add that she is a quiet goddess who wants small acts of devotion and not grand shows. How the city feels about her beyond that is unsourced. [research]
 > - **Waterdeep:** Chauntea has no temple or shrine in the sources.
 >   - The Dragon Heist Major Temples table has no Chauntea row. Its "All deities" row, Holyhands House in the North Ward, covers her by its own wording (`sources/adventure-wdh.json:30923-30925`).
@@ -85,9 +83,8 @@ Chauntea, the Great Mother, is the god of farming and the harvest. Farmers and g
 - **Talona**, **Talos**, **Malar**, **Bane** (Deities): the powers she opposes.
 - **Timekeeping and the Festival Calendar** (History): Greengrass and Highharvestide.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled, title:** FRHoF prints "God of agriculture" (`sources/research/pass2-bundles/chauntea/5etools.md:3`), and SCAG and the PHB print "Goddess of agriculture" (`:19`, `:28`). The wiki's gender row reads Feminine (`wiki.txt:16`). FRHoF outranks SCAG because it is newer (`CLAUDE.md`, Sundering canon and 5e source precedence), so the Title field uses FRHoF and names the older printings. The prose writes "she", which a separate decision covers.
 > - **Conflict, alignment:** SCAG and the wiki's 5e, 3e and 2e rows give Neutral Good (`5etools.md:29`; `wiki.txt:40`, `:69`, `:85`). The wiki's 4e row gives Lawful Good (`wiki.txt:54`). The page follows SCAG.
 > - **Conflict, realm:** The wiki's 2e row gives Great Mother's Garden (`wiki.txt:88`) and its 4e row gives Green Fields (`wiki.txt:57`). FRHoF gives Elysium (Eronia) only, so the page lists both realms by edition and uses FRHoF for the Plane field.

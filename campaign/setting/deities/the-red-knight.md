@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for the Red Knight, the Lady of Strategy, and the reference for what a Waterdhavian can say about her.
 > - **Where it is used:** Nowhere in the campaign. No quest, faction, Notable Figure or published adventure line names her, and the Dragon Heist Major Temples table gives her no temple. The page exists for character building, so a player can pick her as a cleric's or paladin's patron.
 > - **Featured in:** No quest. Her only link to the campaign files is the **Torm** page, which lists her as an ally.
@@ -52,9 +51,8 @@
   - In the wiki's 4e account she is an exarch of Tempus with a dominion in Warrior's Rest (*Forgotten Realms Campaign Guide*). The same account makes Valkur an exarch of Tempus too. Both clauses are 4e history, not used here.
 - **In the campaign:** The Red Knight is alive and present in 1492 DR as a god of the Faerûnian pantheon, as FRHoF has her. The 4e exarchy is wiki history that this page does not use as her present rank (see Draft Notes).
 
-> **[GM]**
+> [!gamemaster]**Using the Red Knight as a Deity**
 >
-> #### Using the Red Knight as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as a soldier's goddess who is rarely prayed to in a city at peace. A sage, a priest or a regular at the bar says she is the Lady of Strategy, a patient planner whom the old stories call a daughter-like helper to Tempus, and that her sign is a red knight from a lanceboard set with stars for eyes. They add that commanders, quartermasters and instructors in the colleges of war are the people who revere her, and that her name is seldom heard away from a battle except over a game of lanceboard. Nobody in the city can point to a temple of hers.
 > - **Waterdeep:** The sources place no temple, shrine, priest or festival of the Red Knight in the city.
 >   - The Dragon Heist Major Temples table has no Red Knight row. Its only generic row is "All deities", which names Holyhands House in the North Ward and no power (`sources/adventure-wdh.json:30922-30926`).
@@ -93,9 +91,8 @@ The Red Knight is the Lady of Strategy, a lawful neutral god of planning and tac
 - **Lathander** (Deities): the god Janol Famisso favored over her in Ankhapur in 1366 DR.
 - **Timekeeping and the Festival Calendar** (History): Tarsakh 1 as Caravance and Midwinter between Hammer and Alturiak.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, edition:** The wiki makes the Red Knight an exarch of Tempus in 4e (`wiki.txt:69`, `:136`), and a demigod or demipower in 3e and 2e (`wiki.txt:84`, `:99`). FRHoF calls her a god of the Faerûnian pantheon (`5etools.md:3`). The page keeps her an independent god in 1492 DR and gives the exarchy as history. It takes no side on whether she still serves Tempus. The Tempus page, drafted at the same time, may state her status differently and should be checked against this one.
 > - **Conflict, plane:** FRHoF gives Arcadia (Buxenus) (`5etools.md:5`). The wiki's 3e line gives Warrior's Rest (`wiki.txt:87`), and its 2e line gives the Prime Material Plane (`wiki.txt:102`). This page uses FRHoF.
 > - **Conflict, alignment:** SCAG gives Lawful Neutral (`5etools.md:16`) and the wiki's 5e row agrees (`wiki.txt:55`). The wiki's 4e row gives Lawful Good (`wiki.txt:70`). This page uses SCAG.

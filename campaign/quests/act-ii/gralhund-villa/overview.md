@@ -1,8 +1,7 @@
 # Gralhund Villa: The Stone of Golorr
 
-> **[GM]**
+> [!gamemaster]**Quest Requirements**
 >
-> #### Quest Requirements
 >
 > Fireball complete. The party marked the **Gralhund Villa Named** Event Outcome in **Fireball!** and has confirmed that Gralhund Villa on Saerdoun Street, North Ward, is where the Stone of Golorr now rests. The party has at least one active faction contact. The Ches 24th deadline is established and understood.
 >

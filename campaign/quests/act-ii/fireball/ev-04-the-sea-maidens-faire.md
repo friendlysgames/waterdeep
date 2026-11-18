@@ -1,8 +1,7 @@
 ﻿# The Sea Maidens Faire
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Social/Exploration Event occurs when the party investigates the Sea Maidens Faire before proceeding to Gralhund Villa. In this Event:
 >
@@ -97,9 +96,8 @@ The *Scarlet Marpenoth* — whose brass model stands in the House of Inspired Ha
 
 **Notable entry:** NW-03, V. Cassalanter, Cassalanter Villa, Sea Ward — VOID. Notation: "Buyer withdrew — unspecified concerns re: detection." Victoro Cassalanter suspected the nimblewrights might contain surveillance devices. He was correct. The clairvoyance crystal reference numbers in the ledger are the key: each purchased nimblewright has a corresponding crystal recording what it witnesses. Victoro pulled his order when he worked this out. The Crystal Ball at the *Marpenoth* proves the point. This pays off in Cassalanter Villa.
 
-> **[GM]**
+> [!gamemaster]**The Voided Cassalanter Entry**
 >
-> #### The Voided Cassalanter Entry
 >
 > Do not call attention to NW-03 unless the party reads the full ledger. If they do, Victoro's name appears without explanation. A DC 14 Intelligence (History) check identifies Victoro Cassalanter as a Sea Ward patrician and prominent Waterdavian noble. The VOID notation is cryptic — the entry was canceled before delivery. The reason ("unspecified concerns re: detection") implies Victoro ran his own intelligence assessment. He was more cautious than the Gralhunds.
 

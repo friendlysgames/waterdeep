@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the institution entry for Waterdeep's police force, and the third of the four governance pages. It covers how the Watch is organized, where it is based, who is named in it, how fast it answers noise, and which faction benefits name it. It also holds short entries for the City Guard with the Griffon Cavalry, the City Navy and the Watchful Order of Magists and Protectors, because players and sources keep confusing them with the Watch.
 > - **Where it is used:** read it before any scene in which the party meets a patrol, reports a crime, is arrested or makes noise near a walled villa. Read it before you voice Saeth Cromley or Barnibus Blastwind, and before you resolve a faction benefit that names the Watch.
 > - **Featured in:** **Finding Floon** (**Dock Ward Investigation**), **Fireball!** (**The Fireball** and **The House of Inspired Hands**), **Gralhund Villa** (**Saerdoun Street**, **The Zhentarim Raid** and **Aftermath**), **Cassalanter Villa** and **Kolat Towers** (Jalester Silvermane's briefings in their structure documents), and **Vault of Dragons** (which reads the Trades Ward's reduced Watch cooperation).
@@ -75,9 +74,8 @@ Several more officers have no Notable Figures page, so they stay as plain text. 
 
 The City Watch is Waterdeep's police force, and its officers wear green-and-goldenrod doublets and tall steel helmets. Squads of four to twelve patrol from watch posts marked by a green-and-gold lantern that burns day and night. The Commander of the Watch reports to the Open Lord. Locals tell the Watch from the Guard by the saying that the Guard guards the walls while the Watch watches all.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **How the Watch fits the Grand Game:** The Watch is trying to do its job, and it knows that some cases are politically untouchable. Most officers are not corrupt by rule and can be pressed from above. The Watch has informants in every ward, and every faction has informants in the Watch. Laeral's information comes largely from the Watch and from Jalester, and it is about three moves behind (see **A City Watching Itself**).
 > - **How fast the Watch answers:** Any audible commotion outside the walls of Gralhund Villa brings one mage and six veterans, one of them a sergeant, within 5 to 10 minutes. The Watch does not answer sounds from inside the villa during the raid unless outside noise draws it. A party that watches Saerdoun Street for 30 minutes sees a Watch patrol pass about every 20 minutes, and Jalester or Cromley will say so without the wait. In **The Extraction**, a call from Brenna brings a patrol of two guards in 10 minutes. After the fireball, six City Guard soldiers seal Trollskull Alley within 5 minutes, and Barnibus and Cromley arrive with twenty constables after 20.
 > - **Who can be bought:** Corylus Thann, a Masked Lord whom Manshoon's cell blackmails, keeps eight crooked Watch veterans who crack down on anyone who annoys him, and he clears any charge against them. If **Cultists Escaped** is marked in **The Fouled Channel**, the Splinter pays Watch sergeants to ignore reports about the Trades Ward cisterns, and **Vault of Dragons** reads this as reduced Watch cooperation in that ward. In the **Kolat Towers** structure document, Mirt says someone with civic influence has reduced Watch patrol coverage around the towers over eighteen months. Jalester calls the coverage informally diminished and suspects Masked Lord influence that he cannot prove without evidence.
@@ -119,9 +117,8 @@ The City Watch is Waterdeep's police force, and its officers wear green-and-gold
 - **The Lords' Alliance**, **The Harpers**, **Force Grey**, **The Order of the Gauntlet** and **Manshoon's Zhentarim** (Organizations): the factions that deal with the Watch.
 - **Laeral Silverhand**, **Saeth Cromley**, **Barnibus Blastwind**, **Vajra Safahr**, **Jalester Silvermane**, **Lady Gondafrey**, **Tashlyn Yafeera**, **Savra Belabranta**, **Mirt** and **Ulkoria Stonemarrow** (Notable Figures): the people named here.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled by the user (Session 51):** The Watch's main base is the Palace of Waterdeep, as the wiki gives it (City of Splendors: Waterdeep, pages 35-37, 3e). Canon lore stands unless the campaign changes it for a recorded design reason, and the campaign has none here. The published adventure names no separate headquarters (`adventure-wdh.json` lines 31853-31897), so no Watch headquarters building is placed in the Castle Ward and the old outline's line (the retired Waterdeep outline line 14) is not used.
 > - **Settled by the user (Session 51):** The 1479 DR fold of the Guard into the Watch (Forgotten Realms Campaign Guide, 4e) is not used. It is a 4e-era change, and Dragon Heist keeps two services in 1492 DR (`adventure-wdh.json` lines 30545 and 31817), so the City Guard and the City Watch stay separate.
 > - **Conflicts, the 1,200 figure:** the retired Waterdeep outline line 28 gives the Watch "1,200 guards across three shifts". No source gives the Watch a total (`adventure-wdh.json` lines 30548 and 31867 give patrol sizes only). The wiki's City Guard page (`wiki.txt` lines 170 and 189) gives the Guard "1200 (1372 DR)", a size known only to the Lords, which looks like the origin of the outline's number. That figure also sits oddly beside the 1,400 garrison at Castle Waterdeep (`undermountain-and-skullport/wiki.txt` line 1316). The page names no Watch total and leaves the Guard's size `[research]`. "Across three shifts" and "understaffed, overworked" have no source. The only shift-like source is the Guard's tax on the last day of each month (`adventure-wdh.json` line 30643).

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - This is the villain profile for Xanathar, the beholder crime lord of **Xanathar's Guild**. It sets out its three personality phases, its relationships, its goals and the one design note that makes it playable.
 > - Use it when you run any scene where Xanathar or the Guild acts or reacts. Phase 1 covers Acts I and II, Phase 2 covers Act III, and Phase 3 begins when the party enters its lair.
 > - Xanathar appears in **Finding Floon**, **Faction Outposts**, **Xanathar's Lair** and **Vault of Dragons**. The **Xanathar Sewer Hideout** is the location journal for its sewer base.
@@ -97,9 +96,8 @@ Xanathar's Guild is the largest criminal organization in Waterdeep, and the only
 - **Xanathar's Guild** (Factions Guide): response teams, outposts, escalation, revelation list
 - **Xanathar's Guild** (Organizations): who the Guild is
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled by the user (Session 51):** The title. The wiki says it was held by the second and later leaders of Xanathar's Thieves' Guild and derives from the personal name of its founder, "Xanathar (original)", listed under 1357 DR, and the page now follows it. The old campaign line that the title predates any individual beholder had no source.
 > - **Settled by the user (Session 47):** The current Xanathar believes it is the original. "Yes. Remix overtakes original campaign." The remix line wins over the published area X33 (`adventure-wdh.json` line 18027, Xanathar "gazing somberly" at past Xanathars), the published entry (line 32756) and `arc-f` line 167. See `02-the-long-shadow.md`, Draft Notes.
 > - **Settled:** Zushaxx and Kirukesai were supplied by the user and the Forgotten Realms Wiki confirms both (Xanathar and Xanathar's Thieves' Guild pages): Zushaxx for 1492 DR, Kirukeskai for 1372 DR. The wiki's spelling of the second is Kirukeskai, which the campaign does not use. The page uses "it" throughout, per the user's ruling.

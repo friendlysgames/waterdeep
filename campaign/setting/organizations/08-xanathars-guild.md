@@ -1,8 +1,7 @@
 # Xanathar's Guild
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **Campaign role:** Villain faction; the Grand Game's most territorially entrenched competitor, holding Eye #1.
 > - **Contacts:** **Ahmaergo**, **Keln Trigos**, **Grinda Garloth** (outpost keepers); **Gorath**, **Korgstrod Uxgulm**, **Noska Ur'gray** (response team leaders)
 > - **Villain profile:** see **Xanathar** in Villains

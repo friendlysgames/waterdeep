@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this is:** The Era page for the months before the campaign opens, the eighth and last of the eight eras. It follows **A City Watching Itself** and ends on the evening of Ches 1, 1492 DR, when the party reaches the Yawning Portal.
 > - **Where it is used:** The GM reads it before the first session to see what each faction has already done and how long ago. It answers "how long has this faction been here?" at the table and keeps the arrivals separate, because no source has the factions move at once.
 > - **Featured in:** **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Sea Maidens Faire**, **Kolat Towers**.
@@ -18,9 +17,8 @@
 
 **Other Names:** None sourced. `[research]`
 
-> **[GM]**
+> [!gamemaster]**Lore Summary**
 >
-> #### Lore Summary
 > - The villains did not arrive together. The Doom Raiders reached Waterdeep in 1489 DR, Manshoon's clone built the Splinter cell over about two years, Jarlaxle's nimblewright sales begin on Marpenoth 3, 1491 DR, and Nar'l Xibrindas was placed in the Xanathar's Guild one year ago, in 1491 DR.
 > - Three Eyes of the Stone of Golorr are already held when the campaign opens. Xanathar has Eye #1, the Cassalanters have Eye #2 and Jarlaxle has Eye #3. Eye #1 reached Xanathar about three months before the fireball (`arc-f-xanathars-lair.md` line 9), and the sources do not date Eye #2. Eye #3 reached Jarlaxle on the night before Ches 1 (see The Night Before Ches 1).
 > - Dalakhar, the agent of Dagult Neverember, has the Stone and is carrying it toward Trollskull Manor. Urstul Floxin's Zhentarim cell is tracking him.
@@ -74,9 +72,8 @@
 
 Waterdeep enters the spring of 1492 DR as a prosperous city with a restless underworld. Brawls between the Xanathar's Guild and the Zhentarim have become common in the Dock Ward, and the City Watch is called to them often. Several noble households have taken delivery of mechanical servants bought from a foreign dealer, and the city is preparing for Fleetswake, the maritime festival that fills the harbor at the end of Ches.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Timeline.** Dates marked "sourced" appear in a file. Dates marked "derived" are arithmetic from a relative phrase and are stated by no source.
 > - 1489 DR (sourced): the Doom Raiders arrive in Waterdeep and the *Scarlet Marpenoth* is launched.
 > - 1489 DR (derived): the Cassalanters sign their bargain. The published adventure says only "three years ago", and the wiki restates it as 1489 DR (see **A Debt in Blood**).
@@ -121,9 +118,8 @@ Waterdeep enters the spring of 1492 DR as a prosperous city with a restless unde
 - **Nar'l Xibrindas**, **Dalakhar**, **Urstul Floxin**, **Davil Starsong**, **Ryvarra**, **Dagult Neverember**, **Renaer Neverember**, **Floon Blagmaar**, **Kalain**, **Yalah Gralhund**, **Orond Gralhund**, **Volothamp "Volo" Geddarm**: the people named here.
 - **Finding Floon**, **Trollskull Alley**, **Fireball!** and **Gralhund Villa**: the quests that carry these threads forward.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Research:** The Span (Marpenoth 1491 DR to Ches 1, 1492 DR) is derived, as is every date marked "derived" in GM Notes. The ledger gives Marpenoth days without a year.
 > - **Research:** Three claims in the old outline (`history.md` lines 64 and 66) have no source and were not carried over: "all four factions move on Waterdeep in the same window", "the Cassalanters accelerating their timeline", and "the Xanathar Guild responding to new pressure from competitors it hasn't yet fully identified". The sources give separate arrivals across about three years. They give no acceleration for the Cassalanters. They say Xanathar suspects a mole and hunts in the wrong direction (`running-the-villains.md` lines 71 and 73).
 > - **Research:** The Doom Raiders' 1489 DR arrival and Nar'l's 1491 DR placement come from the Forgotten Realms Wiki, which cites the published adventure. The Skullport detail is wiki only.

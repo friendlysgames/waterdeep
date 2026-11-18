@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - This is the villain profile for the Cassalanters, the noble family of **Cassalanter Villa** and the cult beneath it. It sets out their three personality phases, their relationships, their goals and the one design note that makes them playable.
 > - Use it when you run any scene where Victoro, Ammalia or their household acts or reacts. Phase 1 covers Acts I and II, Phase 2 covers Acts II and III, and Phase 3 applies in **Cassalanter Villa** once Founders' Day (Flamerule 1) is within three sessions.
 > - The Cassalanters appear in **Trollskull Alley**, **Fireball!**, **Faction Outposts**, **Cassalanter Villa** and **Vault of Dragons**. They also appear in the faction missions **The Wazoo Affair**, **The Theater's Back Room**, **Spined Devils in Twelvedog Court**, **The Shrine on Aveen Street** and **The Writ and the Weight**. **Cassalanter Villa** (location) is the location journal for the villa and the temple beneath it.
@@ -112,9 +111,8 @@ The Cassalanters are one of Waterdeep's old noble houses, and their name is now 
 - **The Cassalanters** (Factions Guide): response teams, outposts, escalation, revelation list
 - **The Cassalanters** (Organizations): who the family is
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled by ruling:** Brief calls 2, 4, 10 and 11 are applied. Call 2 governs the starting-knowledge row on **What Each Faction Knows at Start**. Here, Goal 2 keeps its Eye #2 and Stone wording, which agrees with the GM Guide table at `running-the-villains.md` line 40. Phase 3 is renamed from "The Sacrificers" to "The Hosts of Founders' Day" so that it does not read as the family sacrificing its children, and its trigger names the date. Both dates are stated: Founders' Day (Flamerule 1) is the feast, and the twins' ninth birthday (Flamerule 11) is when the contract falls due. `adventure-wdh.json` lines 18294 and 22888 give "ten days after Founders' Day", and `structural-rules.md` line 52 gives Flamerule 11.
 > - **Unsourced, kept and tagged:** "Lords' Alliance contacts" as the method for Goal 2. No source says the Alliance gives the family vault intelligence. It appears only in the old page and in the retired Grand Game outline line 34, and it is removed from the starting-knowledge row. `campaign/guides/factions/03-lords-alliance.md` line 13 and `r10-stingblade/ev-01-stingblade.md` line 39 say the Alliance and the Watch suspect nothing.
 > - **Unsourced, kept and tagged:** The "within three sessions" measure in the Phase 2 to 3 trigger. No source gives it. The old page's trigger ("three sessions away or less") is kept as a pacing measure, and ruling 4 asks for the date.

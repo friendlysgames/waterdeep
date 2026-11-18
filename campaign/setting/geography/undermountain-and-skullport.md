@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** The geography entry for Undermountain, the dungeon beneath Waterdeep, and for Skullport, the undercity connected to its third level.
 > - **Where it is used:** The GM reads it before answering how deep the dungeon goes, how the party gets down, who holds Skullport, or which Dragon Heist faction has a foothold below. It is a setting page, and the descent through Dungeon of the Mad Mage is future work.
 > - **Quests and events:** **Finding Floon** opens in the Yawning Portal, where a Bregan D'aerthe observer watches the well (**The Yawning Portal**). **Trollskull Alley** plants three Undermountain seeds in **The Grand Opening**. **Xanathar's Lair** runs a tunnel to Skullport, and **Vault of Dragons** ends in the Undermountain handoff. The faction events that reach into the dungeon are **The Grells in the Dock Ward**, **Autumnreaver** and **The Dreamer's Reach** (Emerald Enclave), **The Stone's Other Master** (Harpers), **Lioncrown** (Lords' Alliance), **Houseless Noble** (Bregan D'aerthe) and **Force Grey Commander** (Force Grey).
@@ -98,9 +97,8 @@ The table lists the levels that a Dragon Heist thread reaches. The other levels 
 
 Undermountain is the largest and deepest dungeon in the world, said to plunge as many as twenty levels beneath Waterdeep. Its best-known entrance is the Yawning Portal's well, and the mad wizard Halaster is believed to dwell below. Skullport, a grim smugglers' town in a vast cavern on the River Sargauth, connects to the dungeon's third level. Xanathar's Guild is said to rule it, outside the reach of the city's laws.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Answering a player who asks how deep it goes:** Say twenty levels, because that is the figure Waterdhavians repeat. The dungeon has twenty-three, and the GM can say so once a character has descended past the first few.
 > - **Answering a player who asks who rules Skullport:** The Guild does, through its fortress on Skull Island. The thirteen flameskulls still consider themselves the true rulers, and the campaign puts the town outside the city's jurisdiction.
 > - **The knot in the Weave (published):** Dungeon of the Mad Mage says Aelinthaldaar, the elven capital that stood where Waterdeep stands, was erased by a spell that left "a permanent knot in the Weave" deep underground. It breeds an obsession with the dungeon in anyone who lives near it too long. "Halaster and several of his apprentices fell prey to this obsession, as did many Melairkyn dwarves and Durnan, the proprietor of the Yawning Portal." No campaign page mentions the knot yet.
@@ -145,9 +143,8 @@ Undermountain is the largest and deepest dungeon in the world, said to plunge as
 - **The Yawning Portal**, **The Grand Opening**, **The Grells in the Dock Ward**, **Autumnreaver**, **The Dreamer's Reach**, **The Stone's Other Master**, **Lioncrown**, **Houseless Noble**, **Warduke** and **Force Grey Commander**: the events and ranks named above.
 - **Trollskull Manor**: the tavern where Halaster's stranger sits.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflicts:** Skullport's depth. The old outline says "three levels down" (the retired Waterdeep outline, line 21). The published adventures say it is "connected to Undermountain's third level" (`sources/adventure-wdh.json:32758`) and "connected to level 3 of Undermountain by the underground River Sargauth and by five meandering subterranean passageways" (`sources/adventure-wdmm.json:62160`). Counting Level 1 as the first level down gives the same place, so this page says "connected to Level 3". `campaign/setting/villains/xanathar.md:26` says Skullport lies "within Undermountain Level 3", which overstates the adventure's "connected to". `campaign/setting/deities/eilistraee.md:67` and `cyric.md:68` say "three levels below the Yawning Portal", which could be read as Level 4, and `sources/SOURCE_GUIDE.md:76` places it "between Level 3 and Level 4". None of those files is edited here.
 > - **Conflicts:** The dungeon's depth. Dragon Heist says "as many as twenty levels deep" (`adventure-wdh.json:31137`) and Dungeon of the Mad Mage has twenty-three level headers (lines 755 to 59845). The page gives both and has the GM say twenty first, which is the page's own call.
 > - **Conflicts:** Halaster alive or dead. The wiki's infobox gives "death = 1375" (`wiki.txt:811`) and says that by 1371 DR he was rumor (`wiki.txt:158`). Dragon Heist says he is "believed to dwell in the dungeons to this day" (`adventure-wdh.json:31137`), and Dungeon of the Mad Mage writes him in the present tense (`adventure-wdmm.json:605`). The page follows the published adventures.

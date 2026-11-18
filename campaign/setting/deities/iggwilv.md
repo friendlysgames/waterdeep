@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the patron entry for Iggwilv, the witch-queen and archfey who wrote the *Demonomicon*, and an Archfey patron for warlock characters, with a Fiend alternative through Graz'zt. She is not a god of the Faerûnian pantheon and has no domains, so this page replaces the cleric and paladin guidance of a deity page with warlock guidance. She comes from the world of Oerth in the Greyhawk setting, outside the Realms.
 > - **Where it is used:** Iggwilv never appears in the campaign. She is a choice for a player building a warlock, and two other Deities pages name her in passing: Graz'zt (as his lover and enemy) and Orcus (as an ally in a scheme against Demogorgon).
 > - **Featured in:** no quest. Her name reaches the campaign's sources only through the spell *Tasha's hideous laughter*, which appears in the Rooftop Chase table of *Dragon Heist* and in two spellbooks in *Dungeon of the Mad Mage*.
@@ -50,9 +49,8 @@
 - **What became of her:** The Hourglass Coven and its allies in the League of Malevolence betray her later, after the campaign window. They use the magic of her own cauldron to freeze the Witch Queen and many of her palace's inhabitants in time (*The Wild Beyond the Witchlight* 5e). The wiki gives no year for the freezing and no later fate, and this page gives neither.
 - **Her status in 1492 DR:** She is free and rules Prismeer as Zybilna. The campaign takes place before *The Wild Beyond the Witchlight*, and the freezing is the wiki's last entry for her. No source dates it, so nothing on this page treats her as frozen in 1492 DR.
 
-> **[GM]**
+> [!gamemaster]**Using Iggwilv as a Patron**
 >
-> #### Using Iggwilv as a Patron
 > - **The ordinary Waterdhavian's view:** Almost none. A sage can repeat the Overview. Her name reaches the city through the spell *Tasha's hideous laughter*, which a wizard would know by name (derived), but no source says anyone in Waterdeep connects the spell to a person. A Waterdhavian who hears "the Witch-Queen" thinks first of Laeral Silverhand, the Open Lord, who once held the title Witch-Queen of the North (`campaign/setting/history/07-a-city-watching-itself.md:32`). No source records a Waterdhavian opinion of Iggwilv. [research]
 > - **Waterdeep:** None. The Major Temples of Waterdeep table in *Dragon Heist* lists no temple of Iggwilv, and no campaign file or wiki entry places a shrine, cult or festival of hers in the city. The wiki's one Waterdeep line credits her with *Tasha's hideous laughter*, "used circa the late 15th century DR in Waterdeep as a security measure against burglars," and cites *Dragon Heist* p. 72. The book's text, in Encounter 5: Rooftop Chase (p. 72), reads "You trigger a *glyph of warding* spell placed on the roof to discourage burglars," and on a failed save "you are targeted by a *Tasha's hideous laughter* spell" (`sources/adventure-wdh.json:8475`). It is one row of a chase table and does not name Iggwilv.
 > - **A warlock PC:** Archfey Patron (derived; 2024 *Player's Handbook*) fits her best. The wiki files her under Archfey patrons, the 5e account makes her an archfey who rules her own Domain of Delight, and as Zybilna she sponsored warlocks. Fiend Patron (derived; 2024 *Player's Handbook*) is the alternative. Her demonology, her years in the Abyss and her long bond with Graz'zt all point that way. The wiki also says she turned from demonology after she became fey and was an enemy of the Nine Hells, so a PC who wants a Fiend pact is better served by the **Graz'zt** page. No source gives Iggwilv-specific features or a cost for a pact. [research] What the wiki shows she valued in servants is loyalty kept over centuries and spying on rival courts (derived from Kalimanzaros and Raezil Uthemar). In 1492 DR she is free and rules Prismeer, so a patron is there to answer a pact. Her adoptive sisters freeze her in time later, after the campaign window.
@@ -87,9 +85,8 @@ Iggwilv is the Witch Queen, a sorceress from the distant world of Oerth who wrot
 - **Laeral Silverhand** (Notable Figures): the Open Lord of Waterdeep, whom Waterdhavians know as the Witch-Queen of the North and who is a different person.
 - **Gralhund Villa** (quest): the Rooftop Chase event, which does not use the glyph row.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled, status in 1492 DR:** The user ruled (Session 51) that the campaign takes place before *The Wild Beyond the Witchlight*, so in 1492 DR she is free and rules Prismeer as Zybilna. The wiki's last event for her is the freezing by the Hourglass Coven and the League of Malevolence (*The Wild Beyond the Witchlight* 5e, wiki line 123). No source gives its year or her later fate, so the page marks the freezing as a later event after the campaign window and dates it no closer.
 > - **Brief premise, a Waterdeep tie:** The wiki's one Waterdeep line is the spell row, and it cites *Dragon Heist* p. 72. The adventure text at `sources/adventure-wdh.json:8475` does not name Iggwilv, so the page does not say she placed the glyph or has any presence in the city. The Alexandrian file `sources/Act_III_Arc_E.md:812` carries the same row and does not name her either.
 > - **Brief premise, a Mad Mage tie:** Neither adventure JSON names Iggwilv, Graz'zt, Zagig or Greyhawk. The Level 2 altar to Juiblex (`sources/adventure-wdmm.json:6332`) and the Level 9 arcanaloth (area 15b) match two things the wiki attaches to her (a book on Juiblex and arcanaloth apprentices), but no adventure line ties either to her, so the page does not.

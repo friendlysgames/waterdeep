@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this is:** The Era page for the Zhentarim, from Manshoon's founding of the Black Network to the two rival cells that now share its name in Waterdeep. It is the fourth of eight eras, after **Bregan D'aerthe's Long Road** and before **A Debt in Blood**.
 > - **Where it is used:** The GM reads it before voicing Davil Starsong, Tashlyn Yafeera or any Zhentarim NPC, and before answering a contact's question about which Zhentarim the party has met. Every scene with a "Zhentarim" NPC needs a decision about which cell is present.
 > - **Featured in:** **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**.
@@ -18,9 +17,8 @@
 
 **Other Names:** The Black Network; the Splinter (the name the factions use for Manshoon's cell); the Two Zhentarims (a GM name from the guides). "The Founding of Chains" is the old era title, and no in-world name for the era is sourced. `[research]`
 
-> **[GM]**
+> [!gamemaster]**Lore Summary**
 >
-> #### Lore Summary
 > - Manshoon, a wizard-lord of Zhentil Keep, founded the Zhentarim in 1261 DR as a mercantile network and spread it from the Moonsea to the Sword Coast. The Black Network outlived his death in 1370 DR and lost its capital in the century after.
 > - Manshoon survived that death through the stasis clone spell and fought his own clones in the Manshoon Wars. The man in Kolat Towers is a clone of a clone who claims to be the true Manshoon, and he keeps a simulacrum in reserve against assassination.
 > - The Doom Raiders, five retired adventurers, were sent to Waterdeep in 1489 DR to found the Black Network's foothold. They regard themselves as the true Zhentarim of Waterdeep.
@@ -89,9 +87,8 @@
 
 The Zhentarim, also called the Black Network, is a mercenary and trading company founded in Zhentil Keep in 1261 DR, a city that has since fallen to ruin. In Waterdeep it is known mainly through the Doom Raiders, a band of retired adventurers who came to the city in 1489 DR and describe themselves as the Zhentarim of Waterdeep. They sell mercenary work and lend money through their businesses, and they welcome adventurers who are looking for contracts. The Black Network has long wanted a place in the city's politics, and the strength of the Masked Lords, the nobility and the guilds has kept it out.
 
-> **[GM]**
+> [!gamemaster]**Secret**
 >
-> #### Secret
 > - Waterdeep holds two Zhentarim organizations, and the Doom Raiders are only one of them. Nobody speaks Manshoon's name to a player until **Manshoon Named** is marked for that listener.
 > - The Harpers do not know that the Splinter is Manshoon's cell or that it answers to Kolat Towers. No Harper contact names him.
 > - The man in Kolat Towers is a clone who believes he is the true Manshoon, and he keeps a simulacrum in reserve. The old outline asked whether he was the original or a simulacrum, and he is a third thing.
@@ -134,9 +131,8 @@ The Zhentarim, also called the Black Network, is a mercenary and trading company
 - **The Grand Game**: where both cells sit among the factions.
 - **Kolat Towers**: the quest.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Timeline.** 1229 DR: Manshoon is born in Zhentil Keep. 1261 DR: he founds the Zhentarim. 1263 DR: Fzoul Chembryl joins. 1370 DR: Fzoul and Orgauth kill Manshoon and meet his clones, and the Manshoon Wars begin. All four dates are from the wiki.
 > - 1379 DR: Lady Gondafrey is imprisoned in Kolat Towers. 1383 DR: the Shadovar raze Zhentil Keep (wiki). 1385 DR: Alcedor Kolat dies in the towers, and Duhlark follows nine years later, about 1394 DR.
 > - 1485 DR, about: the Kolat Towers simulacrum is made. This is derived from "seven years ago" in the Kolat Towers structure document and is stated by no other source.
@@ -144,9 +140,8 @@ The Zhentarim, also called the Black Network, is a mercenary and trading company
 > - 1490 DR, about: Manshoon's clone settles in Kolat Towers and begins building the Splinter. This is derived from "two years" in the Kolat Towers structure document.
 > - Ches 1, 1492 DR: the campaign opens. The Doom Raiders hold the Yawning Portal room, and the Splinter holds Kolat Towers.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Research:** Other Names. "The Splinter" is the in-world name used by the guides and the Kolat Towers structure document. "The Two Zhentarims" is a GM name. No name for the era is sourced.
 > - **Research:** Who sent the Doom Raiders in 1489 DR. No source names a sender: the wiki says they "were sent" (Doom Raiders) and were "directed" (Davil Starsong), both citing Waterdeep: Dragon Heist pp. 198-199, 5e.
 > - **Research:** The Splinter's arrival year (about 1490 DR), the simulacrum's creation year (about 1485 DR) and Duhlark's death year (about 1394 DR) are arithmetic from the Kolat Towers structure document.

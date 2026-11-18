@@ -1,8 +1,7 @@
 ﻿# The Nimblewright Hunt
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Exploration Event covers the city-wide elimination sweep with the nimblewright detector. In this Event:
 >
@@ -34,9 +33,8 @@ Play this as a montage. Most visits resolve in two or three exchanges — the de
 | 8 | **Gralhund Estate, Saerdoun Street** | **North Ward** | **Strongest signal outside the Faire** | Guards at the gate refuse visitors without appointment. Signal unmistakable. |
 | 9 | Faction member's nimblewright | Any ward | Brief response | Incidentally surfaces that Jarlaxle sold nimblewrights across the city; cleared quickly |
 
-> **[GM]**
+> [!gamemaster]**Running the Montage**
 >
-> #### Running the Montage
 >
 > The montage is a city-tour that teaches investigative habits — not just what the detector says but how to use it. The visits that merit full scenes:
 >
@@ -64,9 +62,8 @@ After the sweep, two locations produce strong unresolved readings:
 
 **Option B — Direct to Gralhund Villa:** The party skips the Faire and goes directly to Gralhund Villa. This is a valid choice. Transition to Gralhund Villa immediately — the party knows the address, knows the Stone is there, and moves. Jarlaxle does not pre-position BD agents at the estate because the party never gave him reason to.
 
-> **[GM]**
+> [!gamemaster]**Consequence of Bypassing the Faire**
 >
-> #### Consequence of Bypassing the Faire
 >
 > A party that goes directly to Gralhund Villa skips Scene 4's intelligence entirely. They do not learn Jarlaxle's identity, do not see the ledger, and do not know about the Cassalanter entry. Jarlaxle remains a background presence — aware, watching, not deployed. This is not a penalty. It is a realistic consequence of investigative depth: the party turned over fewer stones and Jarlaxle had less surface to react to.
 

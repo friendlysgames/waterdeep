@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Milil, the god of poetry and song, and the reference for the one campaign mention of his faith, the Temple of Milil in a Trollskull Manor staff candidate's history.
 > - **Where it is used:** Milil never appears in person. His only trace in the campaign is a line in the house bard table of the Trollskull Manor guide, where Lysa of the White Lute says she has played at the Temple of Milil.
 > - **Featured in:** The Staff and Hiring page of the Trollskull Manor guide, through Lysa of the White Lute. No quest or event names him.
@@ -54,9 +53,8 @@
   - The wiki says that soon after the mocking ballad he was ejected from the pantheon and banished to the Fugue Plane, and that musical prayers went out of fashion among bards as a result. A being called Withers later pulled him out, and as payment Milil must "honor the worthy" whenever Withers asks (*Faiths & Pantheons*, 3e; *Baldur's Gate III*, video game).
 - **In the campaign:** Milil is alive and present in 1492 DR. The exarch rank, the banishment and the rescue are the wiki's history and carry no weight in play.
 
-> **[GM]**
+> [!gamemaster]**Using Milil as a Deity**
 >
-> #### Using Milil as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the god of the song well sung. A sage, a priest or a regular at the bar says Milil is the Lord of Song, the god of poetry, eloquence and music, shown by a harp strung with leaves. They add that bards and troubadours pray to him, that a speaker about to face a crowd offers him a short prayer for luck, and that songbirds are his heralds. A guild musician might add that his priests teach music and put on a revel that mocks the powerful. No source records how Waterdhavians in particular talk about him, so this voicing draws on FRHoF and SCAG. [research]
 > - **Waterdeep:** The sources imply one temple of Milil in the city and give it no address.
 >   - The Dragon Heist Major Temples table (`sources/adventure-wdh.json`, caption at line 30910) has no row for Milil. The same table lists Holyhands House in the North Ward as a temple for all deities, which includes him.
@@ -72,9 +70,8 @@
 
 Milil is the Lord of Song, a neutral good god of poetry, eloquence and song whose symbol is a five-stringed harp made of leaves. Bards, troubadours and public speakers pray to him for a good performance, and anyone looking for inspiration may do the same. His priests perform and teach in concert halls and music schools, where the room has to sound right. Songbirds are called his heralds, and he is said to appear to mortals as a beautiful voice echoing through open spaces.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Lysa of the White Lute:** A neutral good half-elf and the second House Bard candidate in the Trollskull Manor staff table. She carries her lute case like something fragile and says, "I haven't performed professionally. I want to be transparent about that." She has played twelve years at guild functions and the Temple of Milil, and she wants to find out whether she is good in front of people who do not already like her. She asks 6 gp a tenday, rising to 8 gp if she succeeds, and her father's Carpenters' Guild connections are occasionally useful.
 > - **How she plays in the tavern:** In her first tenday she makes a DC 13 Performance check. On a success she adds +1 Fame and +2 Revenue, and on a failure she costs -1 Fame and needs encouragement (DC 12 Persuasion or sincere support) to return. From her second tenday she adds +1 Fame and +3 Revenue. The Fame track gives +1 for passing her first performance and +1 a tenday from the second tenday onward (`campaign/guides/trollskull-manor/04-fame.md:65`).
 > - **What the temple is:** The file says only that she has played there. It does not make her a priest or a worshiper of Milil, and it gives the temple no location, so a scene should add nothing about the building.
@@ -104,9 +101,8 @@ Milil is the Lord of Song, a neutral good god of poetry, eloquence and song whos
 - **Timekeeping and the Festival Calendar** (History): Midsummer and the campaign window.
 - **Staff and Hiring**, **Fame** (Trollskull Manor guide): Lysa of the White Lute and her effect on the tavern's Fame.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, the left hand:** The Oghma page says the SCAG text in the bundle does not contain the Scribe of Oghma and left hand titles (`campaign/setting/deities/oghma.md:122`) and credits the wiki for them (`oghma.md:47`). For Milil that is not so. The SCAG bundle entry has the alternate name "The One True Hand of All-Wise Oghma" (`5etools.md:22`) and the sentence "Milil is the god's left hand, also referred to as the One True Hand" (`5etools.md:31`). The FRHoF entry has "he is sometimes thought of as Oghma's left hand" (`5etools.md:8`) and the name "The Bard of Oghma" (`5etools.md:2`). "Scribe of Oghma" is Deneir's title, not Milil's. This page tags the left hand to FRHoF and SCAG directly. The Oghma page should be corrected for Milil.
 > - **Conflict, the Grand Revel:** FRHoF gives Milil's priests a Grand Revel at Midsummer (`sources/5etools/deities.json:9357`). *Dragon Heist* names the Alturiak 14 Grand Revel as "Led by the clergy of Sune, Sharess, and Lliira" (`sources/adventure-wdh.json:31367`). This page keeps the two apart: Midsummer is Milil's holy day, and the Alturiak 14 festival belongs in the Sune, Sharess and Lliira entries (`campaign/setting/deities/lliira.md:115`, `sune.md:109`). No source says they are one event or that Milil's priests share the Alturiak revel. The hub lists no Grand Revel for Milil.
 > - **Conflict, worshipers:** FRHoF lists bards, orators, poets and singers (`5etools.md:4`), while the wiki's 5e row lists bards, troubadours and entertainers (`wiki.txt:38`). The page uses FRHoF in the metadata and the SCAG text for troubadours and entertainers.

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Silvanus, the Oak Father and god of wild nature, and the reference for the shrines he shares with Mielikki in the Sea Ward.
 > - **Where it is used:** Silvanus never appears in person, and no quest, faction event or location file names him. His only tie to the city is the Shrines of Nature, a walled garden in the Sea Ward that *Dragon Heist* dedicates to him and Mielikki.
 > - **Featured in:** No quest. The Emerald Enclave uses Mielikki through Jeryth Phaulkon and never names him.
@@ -60,9 +59,8 @@
 - **Realm:** FRHoF gives the Outlands as his plane. The wiki's 3e row puts his home in the House of Nature, its 1e row in the Concordant Opposition, and its 4e row makes the Deep Wilds his dominion.
 - **In the campaign:** Silvanus is alive and present in 1492 DR. The wiki records no death, abdication or merger for him, and its 4e rows (unaligned, the Deep Wilds, Life, Storm and Wilderness domains) belong to another edition's frame and are not used here.
 
-> **[GM]**
+> [!gamemaster]**Using Silvanus as a Deity**
 >
-> #### Using Silvanus as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the stern father of the wild places, far from the city. A sage, a priest or a regular at the bar says he is the Oak Father, the god of wild nature, whom druids, rangers and country folk honor with an oak leaf. They add that he is no gentle god, since the wilderness he rules hands out flood and drought and life and death with an even hand. They know the Sea Ward keeps gardens for him and Mielikki behind an iron fence, where only the ward's own residents may walk. No source says how Waterdhavians feel about him beyond that. [research]
 > - **Waterdeep:** Silvanus has one shrine site in the city, the Shrines of Nature in the Sea Ward, which he shares with **Mielikki**.
 >   - The Dragon Heist Major Temples table lists "Mielikki, Silvanus, Shrines of Nature, Sea Ward" (`sources/adventure-wdh.json:30953-30955`). The Sea Ward text calls them "resplendent gardens dedicated to nature gods like Mielikki and Silvanus", a block from the Tower of Luck (`:30884`). The park is closed to all except residents of the Sea Ward, and passers-by can glimpse the shrines, statues and fountains through the iron fence that surrounds it.
@@ -103,9 +101,8 @@ Silvanus, the Oak Father, is the god of wild nature. Druids, rangers and wood el
 - **Jeryth Phaulkon** (Notable Figures): Chosen of Mielikki and patron of Phaulkonmere.
 - **Timekeeping and the Festival Calendar** (History): the calendar, with Greengrass.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, Shrines of Nature wording:** The Major Temples table says "Shrines of Nature" (`sources/adventure-wdh.json:30954`) and the Sea Ward text says "Shrines to Nature" (`:30884`). The page uses the table's name "Shrines of Nature", as `campaign/setting/deities/mielikki.md:59` does, and the Waterdeep sub-bullet and Overview sentence match the Mielikki page (`:58`, `:75`). The hub shows the same name (`campaign/setting/deities/00-the-deities.md:314`).
 > - **Conflict, the Tower of Luck:** The table places the Tower of Luck in the Castle Ward (`sources/adventure-wdh.json:30983-30985`), and the Sea Ward text places it in the Sea Ward, a block from the Shrines (`:30882`, `:30884`). The table and the text both put the Shrines in the Sea Ward, so this page is not affected. The Tymora page records the conflict for the hub.
 > - **Conflict, edition tags in the research note:** The note tags *Forgotten Realms Campaign Setting* p.251 as 1e (`docs/plans/setting-compendium-research-notes/pass2/batch-d-mielikki-silvanus-chauntea-eldath-malar.md:359`), but the wiki cites it as the 3rd edition book (`sources/research/pass2-bundles/silvanus/wiki.txt:144`). The page uses 3e. The *Cyclopedia of the Realms* (p.14 to 18) is the 1e source.

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - This is the villain profile for Manshoon, the clone-wizard who leads the Zhentarim splinter cell known as the Splinter from Kolat Towers in the Southern Ward. It sets out his three personality phases, his relationships, his goals and the one design note that times the simulacrum reveal.
 > - Use it when you run any scene where Manshoon or his operatives act or react. Phase 1 covers Acts I and II, Phase 2 covers Acts II and III, and Phase 3 begins when the party enters **Kolat Towers**.
 > - Manshoon appears in **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers** and **Vault of Dragons**. In the first four quests the party meets only his operatives and hears hints of a master. The party gets his name at the Interrogation House in **Faction Outposts**, which is where the **Manshoon Named** Event Outcome is marked.
@@ -15,9 +14,8 @@
 
 *This page contains significant spoilers for the campaign. We recommend reading it so that you understand the primary villains and their motivations. Some Gamemasters, however, may prefer not to have this full knowledge, so proceed only if you wish to have all the available information up-front instead of learning things as you play.*
 
-> **[GM]**
+> [!gamemaster]**The Two Zhentarims**
 >
-> #### The Two Zhentarims
 > Manshoon's splinter cell and Davil Starsong's Doom Raiders are entirely separate organizations. They share a name and a history and nothing else. Never conflate them in NPC dialogue. See also **Structural Rules** and **Session Zero** in the GM Guide, and **Manshoon's Zhentarim** and **The Zhentarim (Doom Raiders)** in Organizations.
 
 Manshoon is a centuries-old wizard, a clone of a clone of one of the Zhentarim's founders, who claims as every surviving clone does to be the one true Manshoon. He runs the Splinter, a cell of his own, from the warded towers of Kolat Towers in the Southern Ward. His core motive is to take the Stone of Golorr for the Weave knowledge inside it, absorb the Weave and supplant Mystra, with the vault's gold paying for the preparations.
@@ -122,9 +120,8 @@ Zhentarim crews with flying snake tattoos work the back streets of Waterdeep. Th
 - **Manshoon's Zhentarim** (Factions Guide): response teams, outposts, escalation, revelation list
 - **Manshoon's Zhentarim** and **The Zhentarim (Doom Raiders)** (Organizations): who each Zhentarim cell is
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled by the user:** Phase 3 stays as designed. The simulacrum is Manshoon's tactical decoy and his contingency against assassination (`arc-i-kolat-towers.md` lines 17 and 99-104), and the stasis clone spell (Background) is his separate insurance against dying. The page no longer calls the simulacrum "the clone's insurance" or "the clone's primary survival strategy". The earlier text of this page, line 19, said "the simulacrum fights while the real Manshoon exits", and line 42 said "defeating Manshoon in combat may defeat only his copy". Both implied an original Manshoon elsewhere. Phase 3 now reads "while Manshoon escapes", and Goal 3 says the simulacrum "fights while he escapes" (the old "is not a backup" clause is dropped), with the published "If his simulacrum is destroyed, Manshoon creates another" (`adventure-wdh.json` line 32227). Still stale: `organizations/09-manshoons-zhentarim.md` line 19 ("while Manshoon watches from safer ground"), `arc-i-kolat-towers.md` lines 259-260 ("the original Manshoon"), and `sources/SOURCE_GUIDE.md` line 363 ("triggers the real Manshoon").
 > - **Call applied (brief call 12):** Manshoon holds no Eye, following `running-the-villains.md` line 30, `arc-e-faction-outposts.md` line 65 and `arc-i-kolat-towers.md` line 57. The Alexandrian Kolat Towers PDF disagrees. Page 96, read from the PDF: "He already has one. He once had another that was stolen by Xanathar." Page 94 puts "the Eye" in the astral vault, page 92 has the Zhentarim seize the locket Eye, and `8. The Eyes of the Stone.pdf` p. 62 says "the Eyes are currently held by the Cassalanters, Manshoon, and Xanathar." Stale in the campaign: `arc-a-finding-floon.md` lines 204 and 235 (the locket Eye went to Kolat Towers) and `SOURCE_GUIDE.md` line 287.
 > - **Call applied (brief call 12):** The arm is cut "at the elbow" (`adventure-wdh.json` line 32217; `adventure-wdmm.json` line 26129). `arc-i-kolat-towers.md` line 13 said "at the shoulder" and now says "at the elbow" (fixed in Session 51). The campaign's "staff of power he had smuggled in" and Halaster's "professional curiosity" come only from that line.

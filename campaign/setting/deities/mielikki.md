@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Mielikki, the Lady of the Forest and god of forests and rangers, and the reference for the Shrines of Nature in the Sea Ward and for her Chosen at Phaulkonmere.
 > - **Where it is used:** Mielikki never appears in person. Her reach in the campaign is Jeryth Phaulkon, her Chosen, who speaks from the gardens of Phaulkonmere and is the Emerald Enclave's highest authority in Waterdeep.
 > - **Featured in:** the Emerald Enclave faction events whose files name her through Jeryth, which are **Emerald Enclave First Meeting**, **A Seat at Phaulkonmere**, **The Water Table Stirs**, **The Grells in the Dock Ward**, **Summerstrider**, **Autumnreaver**, **Winterstalker** and **Master of the Wild**. Jeryth also appears in the main quests listed on her own page.
@@ -50,9 +49,8 @@
   - That realm was the Grove of the Unicorns in Krigala, the top layer of the Beastlands (2e). In the 4e books she lives with Silvanus in his domain in the Deep Wilds (*Forgotten Realms Campaign Guide*, 4e).
 - **In the campaign:** Mielikki is alive and present in 1492 DR. Her Chosen speaks in Waterdeep, and no file has Mielikki herself appear, speak or act in a scene.
 
-> **[GM]**
+> [!gamemaster]**Using Mielikki as a Deity**
 >
-> #### Using Mielikki as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as a forest goddess whom the city seldom thinks about. A sage, a priest or a regular at the bar says she is the Lady of the Forest, the god of forests and rangers, and that her symbol is a unicorn's head. They add that people ask her to watch over children lost in the woods, and that rangers tend to pray to Gwaeron Windstrom instead of to her. The place they name is the Shrines of Nature in the Sea Ward, a fenced park that only the ward's residents may enter. Anyone invited into Phaulkonmere has heard a woman's voice in the leaves, and Jeryth Phaulkon calls the goddess "the Lady of the Forest" in every Enclave scene.
 > - **Waterdeep:** Mielikki has one shrine site in the city, the Shrines of Nature in the Sea Ward, which she shares with **Silvanus**. Her Chosen lives at Phaulkonmere in the Southern Ward.
 >   - The Dragon Heist Major Temples table lists "Mielikki, Silvanus, Shrines of Nature, Sea Ward". The Sea Ward text calls the Shrines "resplendent gardens dedicated to nature gods like Mielikki and Silvanus", a block from the Tower of Luck. The park is closed to all except residents of the Sea Ward, and passers-by can glimpse the shrines, statues and fountains through the iron fence that surrounds it.
@@ -74,9 +72,8 @@
 
 Mielikki is the Lady of the Forest, a neutral good god of woodlands, their creatures and the rangers who guard them. People seldom speak of her outside quiet woods, and her followers keep glades and carved tree-trunk shrines rather than great temples. In Waterdeep she shares the Sea Ward's Shrines of Nature with Silvanus, and only the ward's residents may enter. The Emerald Enclave is based at Phaulkonmere in the Southern Ward, where her Chosen, Jeryth Phaulkon, speaks from the leaves.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Jeryth as Mielikki's voice:** Jeryth speaks one or two short sentences at a time and never repeats herself. She never swears and takes no side in mortal politics. She calls Mielikki "the Lady of the Forest". Her approval shows in the garden, where flowers open along the path, the grass lies flat where a friendly visitor walks and the leaves move when she speaks. The Jeryth page treats her direct interventions as backed by divine mandate.
 > - **What Mielikki does in play:** She acts only through her Chosen. Mielikki never appears in an event, and Jeryth is the whole of her reach. When asked about the vault gold, Jeryth answers once with "That question is for the Lords to settle", and the Enclave takes no side.
 > - **Messengers:** The Enclave's animals carry only Melannor Fellbranch's words, because Jeryth sends no one on missions. No scene uses the dryads, hawks or unicorns that FRHoF gives Mielikki as messengers.
@@ -116,9 +113,8 @@ Mielikki is the Lady of the Forest, a neutral good god of woodlands, their creat
 - **Finding Floon** (quest): where the Lurue necklace turns up.
 - **Emerald Enclave First Meeting**, **A Seat at Phaulkonmere**, **The Water Table Stirs**, **The Grells in the Dock Ward**, **Summerstrider**, **Autumnreaver**, **Winterstalker**, **Master of the Wild** (faction events): where Jeryth speaks for Mielikki.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Premise not in the files:** The brief calls Mielikki the Emerald Enclave's patron. No campaign file says this. The Enclave files call Jeryth "patron of Phaulkonmere" (`campaign/setting/organizations/03-emerald-enclave.md:29`), and only the wiki ties the Enclave to Mielikki (`mielikki/wiki.txt:221`, citing *Forgotten Realms Campaign Setting*, 3e, p.273). The page says so in the Campaign ties bullet. The Enclave page could carry one line naming Mielikki as the goddess most members follow if the main session wants the premise settled in a campaign file.
 > - **Settled by precedence, title:** FRHoF prints "God of forests" (`mielikki/5etools.md:3`), and SCAG and the PHB print "Goddess of forests" (`mielikki/5etools.md:15`, `:24`). FRHoF is newer and wins, so the title field uses FRHoF and keeps the SCAG and PHB wording as the older printing. The page uses "she" because the FRHoF text does. A separate decision covers the pronoun and the word "goddess" in prose.
 > - **Conflict, Silvanus:** FRHoF says "allied with Silvanus" (`sources/5etools/deities.json:9277`), and SCAG says he is "sometimes thought of as her father" (`sources/5etools/deities.json:9326`). The wiki says she was his servant (`mielikki/wiki.txt:190`), and its note says the daughter claim was a mortal misunderstanding in 2e and stated outright in 3e (`mielikki/wiki.txt:192`). The cross-reference follows FRHoF and SCAG. The wiki's "servant" ranks lowest and stays in the Relations bullet as the wiki's account.

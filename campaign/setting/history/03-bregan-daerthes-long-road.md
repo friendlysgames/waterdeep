@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this is:** The Era page for how Jarlaxle Baenre and Bregan D'aerthe came from Menzoberranzan to Luskan and then to Waterdeep. It is the third of eight eras, after **The Long Shadow** and before **The Founding of Chains**.
 > - **Where it is used:** The GM reads it before voicing Jarlaxle, Soluun, Krebbyg or Nar'l, before the Bregan D'aerthe recruitment visit in **Trollskull Alley**, and before any player asks where the company comes from or why a carnival captain is interested in Waterdeep.
 > - **Featured in:** **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Sea Maidens Faire**, **Vault of Dragons**.
@@ -18,9 +17,8 @@
 
 **Other Names:** Jarlaxle's other names are GM names: Jarlaxle Baenre, Jarlaxle D'aerthe (a wiki alias), Captain Zardoz Zord (the carnival master), J.B. Nevercott (the haberdasher who visits Trollskull Manor, the party's headquarters; `adventure-wdh.json` line 3601) and Rongquan Mystere (a disguise at the Shipwright's Ball; `adventure-wdh.json` lines 281 and 9066-9075). The old block translates the company's name as "those of the broken house". No source gives a translation. `[research]`
 
-> **[GM]**
+> [!gamemaster]**Lore Summary**
 >
-> #### Lore Summary
 > - Jarlaxle was born to Matron Mother Yvonnel Baenre of House Baenre, the first house of Menzoberranzan. He survived his sacrifice to Lolth and later rejected her. Bregan D'aerthe rejects her too, and its members speak of her with contempt.
 > - He left his house and name and founded the company from rogue males of destroyed and disgraced houses. House Baenre became its main client.
 > - The company grew as a mercenary band and an information broker. It began putting down roots on the surface in 1366 DR and had a major presence in Luskan by 1377 DR.
@@ -77,9 +75,8 @@
 
 Bregan D'aerthe is a drow mercenary company that began in the Underdark city of Menzoberranzan, made up mostly of men from houses that were destroyed or disgraced. It hires out soldiers, scouts and go-betweens, and its agents are said to deal in information with anyone who can pay. On the surface it is said to have a foothold in Luskan, a free port on the northern Sword Coast that five High Captains rule and that Waterdeep regards as a pirate state. This spring the Sea Maidens Faire, a traveling carnival out of Luskan, brings three ships and Captain Zardoz Zord to Deepwater Harbor for Fleetswake.
 
-> **[GM]**
+> [!gamemaster]**Secret**
 >
-> #### Secret
 > - Captain Zardoz Zord is Jarlaxle Baenre, and he is the secret lord of Luskan. Nothing in the Overview links him to the company, and the party learns the link in **Sea Maidens Faire**.
 > - Jarlaxle holds Eye #3 of the Stone of Golorr aboard the *Scarlet Marpenoth*, and he is the only outsider who knows what the Cassalanters have done (see **A Debt in Blood**). He does not tell Bregan D'aerthe members unless they work it out themselves.
 > - Nar'l Xibrindas reports to Jarlaxle by *Sending*, and Xanathar does not know it.
@@ -121,9 +118,8 @@ Bregan D'aerthe is a drow mercenary company that began in the Underdark city of 
 - **Timekeeping and the Festival Calendar**: Fleetswake and the Faire's departure date.
 - **Sea Maidens Faire**: the quest and the location journal.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Timeline.** Dates other than the last four are wiki-only, and none is a campaign decision.
 >   - 10th century DR: Jarlaxle founds Bregan D'aerthe.
 >   - 1018 DR: the Zaknafein raid.
@@ -137,9 +133,8 @@ Bregan D'aerthe is a drow mercenary company that began in the Underdark city of 
 >   - Tarsakh 20, 1492 DR: the Faire departs at dawn.
 > - **The nimblewrights.** The campaign has Jarlaxle selling nimblewrights to wealthy households as an intelligence network (`arc-h` line 13), and the published adventure has him buying them from a Lantanese wizard (`adventure-wdh.json` line 4746). The network itself is run in **Sea Maidens Faire**, and Draft Notes logs the disagreement over their origin.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Research:** The Span. The 10th century DR and 1018 DR come from the wiki (`Bregan_D_aerthe.txt` lines 67-71). The 968 DR figure is derived from "15 decades" by 1118 DR (line 77). The wiki's dates are not consistent with each other, and none is a campaign decision.
 > - **Research:** Other Names. "Those of the broken house" has no source. No in-world name for the era is sourced.
 > - **Research:** "The third son" is from the Jarlaxle NPC Guide docx (lines 51 and 62). The wiki calls Doquaio the second-oldest son (`Jarlaxle_Baenre.txt` line 96) and has Jarlaxle slated for sacrifice by birth order, which implies at least the third. The page keeps "third".

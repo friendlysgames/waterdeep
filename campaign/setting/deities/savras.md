@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Savras, the god of divination and fate, for players who want to build a diviner, a judge or any seeker of truth around him, and for the GM who needs to know what the sources say.
 > - **Where it is used:** Savras never appears in person, and no quest, faction or Notable Figure uses him. No file places a temple or a shrine of his in Waterdeep. He is named only in the Azuth, Mystra and Deneir deity pages, as part of the history of the gods of magic.
 > - **Featured in:** No quest.
@@ -51,9 +50,8 @@
   - He returned to godhood by the 1480s DR (*Sword Coast Adventurer's Guide*, 5e; *Player's Handbook*, 5e).
 - **In the campaign:** Savras is alive in 1492 DR and holds his place among the gods of magic. No file shows him as dead or absent, so the page treats the 4e death as history.
 
-> **[GM]**
+> [!gamemaster]**Using Savras as a Deity**
 >
-> #### Using Savras as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the god of the mirror and the library corner. A sage, a priest or a regular at the bar says he is the All-Seeing, the god of divination and fate, shown as a crystal ball full of eyes. They add that few people worship him but many call on his name in small rituals of foresight, and that investigators, diviners and judges carry decorated staffs in his honor. A sage may tell the old legend that Azuth trapped him in a staff for ages and let him go only when he swore fealty, and may add that some wonder whether he foresaw his own defeat. Nobody in this conversation knows of a temple of his in the city.
 > - **Waterdeep:** The sources place no temple or shrine of Savras in the city.
 >   - The Dragon Heist Major Temples table (`sources/adventure-wdh.json`, caption at line 30910) has no Savras row. It lists Holyhands House in the North Ward as the temple of "All deities" (line 30924), which includes him by its own wording.
@@ -90,9 +88,8 @@ Savras is the god of divination and fate, a lawful neutral power whom the faithf
 - **Cyric** (Deities): the god he prepared for in the vision of the Benign Order of the Third Eye, and the murderer of Mystra in the 1385 DR account.
 - **Shar** (Deities): the goddess whose aid let Cyric enter Dweomerheart in the 1385 DR account.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **No FRHoF entry:** Heroes of Faerûn has no entry for this god; the page rests on SCAG (2014) and the wiki.
 > - **Settled, temples:** SCAG says Savras "has no currently active temples in Faerûn" (research bundle `savras/5etools.md:17`). The wiki says priests worshiped him in temples across Chult in 1490 DR (`savras/wiki.txt:161`, citing *Tomb of Annihilation* p.20). The user ruled that SCAG's line is about the Sword Coast and the north of Faerûn, and that Chult is not on the Sword Coast. The page now says he has no active temples on the Sword Coast and that priests keep temples to him in Chult.
 > - **Conflict, domains:** The PHB p.294 entry lists Knowledge only (`savras/5etools.md:4`). SCAG lists Arcana and Knowledge (`savras/5etools.md:13`), and the wiki's 5e column agrees with SCAG (`savras/wiki.txt:46`). The page follows SCAG.

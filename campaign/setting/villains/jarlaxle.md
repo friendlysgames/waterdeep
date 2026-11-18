@@ -2,18 +2,16 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - This is the villain profile for Jarlaxle Baenre, the secret lord of Luskan and the leader of **Bregan D'aerthe**, who walks Waterdeep as J.B. Nevercott and Zardoz Zord. It sets out his three personality tracks, his relationships, his goals and the one design note that makes him playable.
 > - Use it when you run any scene where Jarlaxle or his company acts or reacts. Phase 1 covers Acts I and II. Phases 2 and 3 split into an adversary track and an ally track at **Sea Maidens Faire** in Act III, and the ally track's debt comes due in **Vault of Dragons** in Act IV.
 > - A character can learn that Zord is Jarlaxle Baenre in **Fireball!**, from the Eyecatcher ledger or, for a Bregan D'aerthe member, in his private cabin. Mark each such character with the **Jarlaxle Unmasked** Event Outcome. The full reveal conversation takes place at **Sea Maidens Faire**.
 > - Jarlaxle appears in **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers** and **Vault of Dragons**. The **Sea Maidens Faire** location journal maps his fleet, and the **Xanathar Sewer Hideout** location journal holds the strongbox where his agents lifted Eye #3.
 > - The company's response teams, outposts, escalation row and revelation list live in the **Bregan D'aerthe** page of the Factions Guide. Who the company is lives in the **Bregan D'aerthe** page of Organizations.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Entry and Activation.** Two separate mechanics govern Bregan D'aerthe in this campaign. Membership and villain activation run on different tracks, and the personality phases below key off the villain track.
 > - **Membership.** Membership runs during **Trollskull Alley**, like any other faction. Three drow lieutenants shadow the party for several days. J.B. Nevercott, who is Jarlaxle in a *hat of disguise* posing as a haberdasher, then visits Trollskull Manor and offers enrollment to any interested PC.
 > - **BD Contact Severed.** This Event Outcome is marked per character, like membership. A character is marked by giving Sergeant Marek Dunmere their name in the **Bregan D'aerthe First Meeting**, by attacking Nevercott, or by exposing a Bregan D'aerthe drow in **Kreb Drops the Cover**.
@@ -163,9 +161,8 @@ Captain Zardoz Zord is the flamboyant Illuskan master of the Sea Maidens Faire, 
 - **Bregan D'aerthe** (Factions Guide): response teams, outposts, escalation, revelation list
 - **Bregan D'aerthe** (Organizations): who the company is
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflicts:** The date of the reveal. The earlier text of this page said his identity stays hidden "until **Sea Maidens Faire**", and `07-bregan-daerthe.md` line 11 says he "remains Zardoz Zord until **Sea Maidens Faire**, where the party meets the real Jarlaxle Baenre". `history/03-bregan-daerthes-long-road.md` line 86 says the party "learns the link in **Sea Maidens Faire**". The page follows `fireball/ev-04-the-sea-maidens-faire.md` lines 108-113, where a character can learn the name from the ledger or the cabin, per the brief's ruling 7.
 > - **Conflicts:** The scope of **BD Contact Severed**. `s04-contact-severed/ev-01-contact-severed.md` line 16 says severance is individual. The earlier text of this page, `player-factions-overview.md` lines 173 and 180 ("closes BD membership for the entire campaign"), `factions/08-bregan-daerthe.md` line 37 ("contact ends permanently"), `trollskull-alley/ev-04-the-factions-come-calling.md` lines 45 and 121-122, `trollskull-alley/flowchart.md` lines 54 and 83 and `guides/trollskull-manor/09-response-teams-at-the-tavern.md` line 96 ("never fires for a party with") all treat it as party-wide. The page follows the newer event. Settled by the user (Session 50), "3. A": severance is per character, closes the company for the rest of Acts I through III, and the watchers still leave Trollskull Alley for the whole party. The GM Guide, the Factions Guide, the Trollskull ev-04 and flowchart text and the Trollskull Manor response-team page were reworded to match.
 > - **Conflicts:** Whether Jarlaxle competes for the Stone. `factions/08-bregan-daerthe.md` line 9 says he is "content to let the other factions exhaust themselves". Goal 2 (kept verbatim) says he moves on the other Eyes, and `arc-f-xanathars-lair.md` lines 17 and 214 have him run a simultaneous heist.

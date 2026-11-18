@@ -1,8 +1,7 @@
 # Manshoon's Zhentarim
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **Campaign role:** Villain faction; pursues the Stone of Golorr for the Weave knowledge encoded in its aboleth memory.
 > - **Contacts:** **Avareen Windrivver**, **Agorn Fuoco**, **Vevette Blackwater** (field operatives); **Sidra Romeir** (Kolat Towers)
 > - **Villain profile:** see **Manshoon** in Villains

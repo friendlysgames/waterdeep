@@ -1,8 +1,7 @@
 ﻿# Welcome to Trollskull Alley
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Event occurs when the party arrives at Trollskull Manor with the deed from Volo. In this Event:
 >

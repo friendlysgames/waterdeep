@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the patron entry for Mephistopheles, the archdevil who rules Cania and a Fiend patron for warlock characters. He is not a god of the Faerûnian pantheon and the sources give him no 5etools domains, so this page replaces the cleric and paladin guidance of a deity page with warlock guidance.
 > - **Where it is used:** Mephistopheles never appears in the campaign. He is a choice for a player building a warlock, and three other Deities pages name him in passing: Asmodeus (as ally and rival), Zariel (as an archdevil who fears her) and Mask (in the wiki's account of Mask's divinity).
 > - **Featured in:** no quest. No campaign file and neither adventure source names him.
@@ -58,9 +57,8 @@
   - In the novel, Asmodeus had meanwhile absorbed Azuth, which left Mephistopheles second-rate and afraid of punishment (*The Godborn*). That absorption was undone in 1487 DR, when Azuth separated from Asmodeus (see the **Azuth** page), so it is tagged history.
   - In 1484 DR he hunted Vasen Cale, Erevis's son, in the hope of opening the cairn. Vasen, a servant of Amaunator, and his father stripped the remains of Mask's divinity from every holder, and Riven took it and effectively became the reincarnated Mask. Mephistopheles fled with no divine spark (*The Godborn*, novel).
 
-> **[GM]**
+> [!gamemaster]**Using Mephistopheles as a Patron**
 >
-> #### Using Mephistopheles as a Patron
 > - **The ordinary Waterdhavian's view:** Almost none. A sage can repeat the Overview, and the people likeliest to know his name are those who deal in magic, since he courts wizards and sages (derived from his followers). A priest or a bar regular who says "the devil" usually means Asmodeus, because the wiki says many mortals mistake the two (*Fiendish Codex II* 3e). No source records a Waterdhavian opinion of him or a Waterdhavian rumor about him. [research]
 > - **Waterdeep:** None. The Major Temples of Waterdeep table in *Dragon Heist* lists no temple of Mephistopheles, and no campaign file or wiki entry places a shrine, cult or festival of his in the city. The wiki's one non-game Waterdeep item is the rumor that an aspect of him is trapped in Undermountain. Its other Waterdeep items come from a video game and are not used (see Draft Notes).
 > - **A warlock PC:** The Fiend patron in the 2024 *Player's Handbook* fits him (derived). The wiki calls him a patron of magic and the source of many warlock pacts, and his hellfire suits the Fiend's fire spells (derived). No source gives Mephistopheles-specific features. What he wants is a skilled and ambitious caster, flattered by an offer of power that looks like a sign of greatness. What a pact costs is the soul. His charm lasts until the signature, the afterlife is decades of tedium and isolation, the contract has clauses that let him destroy the signer with a word, and hellfire spends the user's own vitality.
@@ -94,9 +92,8 @@ Mephistopheles is the archdevil of Cania, the frozen eighth layer of the Nine He
 - **Amaunator** (Deities): the god served by Vasen Cale, who ended Mephistopheles's hold on Mask's divinity.
 - **Mammon** (Deities): the archdevil who sold out Mephistopheles at the end of the Reckoning.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Brief premise not found:** The brief says Level 22 and later of *Dungeon of the Mad Mage* tie to Mephistopheles through Halaster and devils. Neither JSON supports it. `adventure-wdmm.json` has no line naming Mephistopheles, Cania or Mephisto. Level 22 (Shadowdusk Hold) has no devils. The only devils are the ones listed in Campaign ties (Levels 9, 15 and 23), and none is tied to an archdevil in the text. Add a tie only if the GM Guide invents one.
 > - **Conflict, when Mask's divinity went to him:** The wiki's Mephistopheles page puts the bargain "during the Spellplague" (1385 DR) and the end of it in 1484 DR (*Shadowstorm*; *The Godborn*). `mask.md:57` dates Mask's death and the split of his divinity to 1374 DR (*Shadowrealm*, 4e). No 5e source dates the bargain, and the three dates come only from 4e books and novels, so the page leaves the bargain undated and tags the 1484 DR end of it to the novel. The campaign treats Mask and every other power as present in 1492 DR, so all of this is history.
 > - **Conflict, wording only:** `asmodeus.md:51` calls him "his greatest ally and chief rival." The wiki calls him the Prince of Evil's "most dangerous enemy and most capable ally." The substance agrees and the page quotes the Asmodeus page.

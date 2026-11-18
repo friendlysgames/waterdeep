@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Gruumsh, the One-Eyed God and head of the orc pantheon, for players who want an orc, a half-orc or a war-minded cleric, and for a GM who needs a power behind an orc raid, a shaman or a half-orc's family faith.
 > - **Where it is used:** Gruumsh never appears in person, and no campaign file or published adventure names him. The page records the half-orcs who do appear in the files, so that no later page ties them to him.
 > - **Featured in:** No quest. His name appears only on other Deities pages, among them **Corellon Larethian**, **Lolth**, **Moradin**, **Grumbar**, **Talos** and **Auril**.
@@ -59,9 +58,8 @@
   - The Second Sundering ended in 1487 DR and undid the merger by ruling, so he lost his Talos aspect and the two are separate gods again. Maglubiyet also broke free of Bane, so the eternal war in Acheron began again (*Baldur's Gate: Descent into Avernus*, 5e; *Volo's Guide to Monsters*, 5e). His hold on his own pantheon weakened when Luthic's secret romance with **Grumbar** came out (*The Sentinel*, novel).
 - **In the campaign:** Gruumsh is alive and present in 1492 DR, as every power is. He and Talos are separate gods by ruling, and the page keeps the 4e Talos merger as history. Draft Notes records the overlap in their printed titles.
 
-> **[GM]**
+> [!gamemaster]**Using Gruumsh as a Deity**
 >
-> #### Using Gruumsh as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the god that orcs follow and everyone else fears them for. A sage, a priest or a regular at the bar says he is the One-Eyed God of the orcs, a god of war and conquest whose symbol is an unblinking eye, and that he watches every orc and judges what it is worth. They add that orcs believe the other gods cheated them out of a place in the world and mean to take one by force, that his chosen priests cut out one of their own eyes for him, and that an orc who dies well goes to Acheron to fight the goblinoid gods' armies forever. A sage would cite *Volo's Guide to Monsters*, which covers the Eyes, Nishrek and the war with the goblinoids. How Waterdhavians feel about orcs and half-orcs, and which of his names the city uses, is unsourced. [research]
 > - **Waterdeep:** Gruumsh has no temple, shrine, priest or festival in the city in any source.
 >   - The Dragon Heist Major Temples table has no orc row (`sources/adventure-wdh.json:30921-30996`). Its "All deities" row, Holyhands House in the North Ward (`:30923-30925`), is the only listing that could cover him, and no source says his faithful use it.
@@ -115,9 +113,8 @@ Gruumsh, the One-Eyed God, is the chaotic evil god of war and conquest and the r
 - **Castle Ward** (Gazetteer): the city's population shares.
 - **Finding Floon**, **Kolat Towers** (quests): where Grum'shar and the published Yorn appear.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Edition followed for the title:** The page follows the 2014 (5e) printings. 5etools prints SCAG's title as "God of storms and war" and the PHB's as "Orc god of storms and war" (`sources/research/pass2-bundles/gruumsh/5etools.md:25` and `:33`), and `talos.md:17` records that the same books print Talos as "God of storms". The two titles overlap, and the Tempest domain appears on both pages. No source explains why a 5e book that keeps the gods separate prints "storms" for Gruumsh. [research] The page keeps the printed title and offers Tempest Domain as the alternative in the cleric advice.
 > - **Talos merger, settled by ruling:** The wiki notes that Talos was an aspect of Gruumsh in the 4e era and that the two are separate again in 5e (`wiki.txt:14`, `:263`, `:418`, `:420`). By ruling, the Second Sundering ended in 1487 DR and every Spellplague-era merger is undone, so Talos and Gruumsh are separate gods in 1492 DR. The SCAG text says nothing about a separation, so the page does not cite SCAG for it. `talos.md:65` and `:122` give the 4e account from Talos's side, with the Stormstar Requiem (*Dragon* 367) and *Dragon* 378, as tagged history. This page does the same. The two wikis differ in wording only: this one says Gruumsh "lost his Talos aspect" in the Second Sundering, and `talos.md:67` says Talos "returned to the pantheon". The page gives both. The Requiem is not on the Gruumsh wiki page. It comes from `talos.md:65`.
 > - **Conflict, Luthic and Grumbar:** The Gruumsh wiki says Gruumsh discovered the tryst (`wiki.txt:202`) and that it was uncovered around the Second Sundering (`wiki.txt:420`). `grumbar.md:47` says the romance was one that Gruumsh did not know of. The page says only that it "came out" and cites *The Sentinel* (novel). The Grumbar page may need a recheck.

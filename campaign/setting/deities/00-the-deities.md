@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the hub of the Deities journal. It holds four choosing tables for all 73 powers (by domain, by alignment, by character fit and by subclass), the list of Waterdeep's temples, and sections for the powers of other peoples and for warlock patrons.
 > - **Where it is used:** a player opens it to pick a deity or patron for a cleric, paladin, warlock or any religious character. The GM opens it to see who is worshiped where in Waterdeep.
 > - **Featured in:** no single quest. The power pages tie into **Fireball!**, **Vault of Dragons**, and the Order of the Gauntlet, Force Grey, Doom Raiders and Bregan D'aerthe missions. GM Notes below names the powers.
@@ -386,9 +385,8 @@ No patron page is Celestial, but the Celestial patron is available. **Lathander*
 
 This journal gathers the powers that a character in Waterdeep might follow or bargain with. It covers the gods of Faerûn, Waterdeep's own Siamorphe, eight powers who lead the faiths of other peoples, and thirteen patrons: archdevils, demon lords, archfey, a witch-queen and beings from the Far Realm. The larger temples stand mostly in the Castle Ward and the Sea Ward, and Holyhands House in the North Ward is listed as a temple for all deities. A character whose god has no temple in the city can keep a private shrine.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Running a choice:** When a player settles on a power, open that power's page and read its Using box first. The tables on this page only point the player to it.
 > - **Reading the fit table:** Every domain, order, oath and patron in the third table is a fit derived on the power's own page, except the Oath of Devotion for Torm and Ilmater, which Heroes of Faerûn names. The campaign allows fourteen cleric domains, ten paladin oaths and ten warlock patrons, and the fourth table shows which of them the pages use. Fits are judged by theme. A word in brackets is the page's own rating of a fit it still calls weak. If a player wants a different fit, the page's Using box names its alternatives.
 > - **Bregan D'aerthe and Lolth:** Bregan D'aerthe has rejected Lolth as its goddess. No member worships her, keeps a shrine to her or invokes the Spider Queen with devotion, and members speak of her with contempt. Do not give any company member a shrine, a prayer or a kind word for her. Lolth's page quotes the campaign lines.
@@ -431,9 +429,8 @@ This journal gathers the powers that a character in Waterdeep might follow or ba
 - **Fireball!** and **Vault of Dragons** (quests): the quests that use Gond, Mystra, Bahamut and Moradin.
 - Every power named in bold above (Deities): one page each.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, Tymora's ward:** The Dragon Heist table puts the Tower of Luck in the Castle Ward (`sources/adventure-wdh.json:30983-30985`). The Sea Ward text describes it among that ward's temples, a block from the Shrines (`:30882`, `:30884`), and so does the retired Waterdeep outline, line 36. The published adventure wins on temples (ruling 1), so the table above follows the Major Temples table and the Castle Ward, and the Sea Ward text is the other side of the split. `campaign/gazetteer/waterdeep/castle-ward.md:165` now follows the table too.
 > - **Settled by ruling 1, Helm's temple:** The Dragon Heist table lists "Helm, Helm's Hall, Southern Ward" (`sources/adventure-wdh.json:30938-30940`), and the Order of the Gauntlet files now say Southern Ward (`campaign/quests/faction-events/order-of-the-gauntlet/r03-marcheon/ev-01-marcheon.md:201`; `r10-whitehawk/ev-01-whitehawk.md:150`). The table above follows the Major Temples table. No file says Helm's Hall is the same building as the Temple of Helm, though the Helm page treats it as the published name. The Castle Ward gazetteer (`castle-ward.md:165`) says it is not a Castle Ward temple.
 > - **Settled by the user (Session 51), Selûne's temple name:** The Dragon Heist table says "Tower of the Moon" (`sources/adventure-wdh.json:30969`). The Sea Ward text (`:30881`), the Selûne's Hallowing entry (`:31558`) and the Mad Mage text (`sources/adventure-wdmm.json:48631`, `:50537`) say "House of the Moon". The hub, the Selûne page, the Shar page and the Sea Ward gazetteer all use House of the Moon, and the table's row is the only place that prints the other name.

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** The geography entry for Waterdeep's walled cemetery park, its gates, keepers and public landmarks, and the Brandath Mausoleum that stands among its trees.
 > - **Where it is used:** The GM reads it before the party enters the grounds by day or night, meets Sir Ambrose Everdawn, or walks toward the Brandath doors.
 > - **Quests and events:** **Ten Nights in the City of the Dead** (Emerald Enclave Mission 2) sends the party to patrol the northern half for ten nights. **Vault of Dragons** (still an unconverted structure doc) makes the Brandath Crypts its Scene 2 and ends at the main gate. **Gralhund Villa** closes with Istrid Horn's meeting at Ahghairon's Statue. **Davil's Arrest** and **Wolf** (Doom Raiders) put Tashlyn Yafeera on the Poplar Walk bench. **Dread Lord** (Doom Raiders) parks four wagons at the gate, **Whitehawk** (Order of the Gauntlet) puts Savra Belabranta at the main gate, and **Senior Griffon** (Force Grey) buys a written permit to enter at night. **The Theater's Back Room** (Bregan D'aerthe) and **Faction Outposts** supply maps that point here.
@@ -84,16 +83,14 @@ The campaign uses it in two ways. By day it is a public place where contacts mee
 
 The City of the Dead is Waterdeep's cemetery, a walled park of grassy hills, flower beds and gravel paths. Waterdhavians entomb their dead in mausoleums, and the major ones open onto extradimensional spaces where the dead are laid to rest. The gates close at dusk, when hundreds of driftglobes drift in for reasons no one knows. Sir Ambrose Everdawn, a knight of Kelemvor, patrols the grounds until sunrise and escorts out anyone he finds.
 
-> **[GM]**
+> [!gamemaster]**Secret**
 >
-> #### Secret
 > - **What lies below:** The Vault of Dragons lies beneath the Brandath family mausoleum, and the Stone of Golorr names it when the party attunes to the Stone. Neverember found the vault while preparing his wife Alethea's interment and used it to hide his embezzled gold. See **The Vault of Dragons and Neverember's Embezzlement**.
 > - **The Eye:** Neverember hid one of the Stone's three Eyes in a crypt near Alethea's tomb. The Cassalanters found it there through their infernal divination and took it before the campaign opens. It is Eye #2, and they hold it.
 > - **The walking dead:** No necromancer is raising the skeletons in **Ten Nights in the City of the Dead**. The vault presses against its wards, and the dead nearest the Brandath grove walk toward it. Ambrose feels the wrongness and does not know its cause.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **The two names:** The page uses **Brandath Mausoleum** for the family's building, with the name over its door, and **Brandath Crypts** for the approach, meaning the complex of mausoleums, Lady Alethea's Tomb and the Old Crypts beneath them down to the vault door. Dragon Heist keys one mausoleum with a ground level and an underground crypt and never writes "Brandath Crypts". The Alexandrian builds the complex as mausoleums A to F around a Grand Crypt, titles its map "The Brandath Crypts", and carves BR_N__TH CRY_TS in Dethek letters above the First Crypt. The campaign's Scene 2 is titled The Brandath Crypts.
 > - **Doors:** The stone doors of the mausoleums are locked unless an encounter says otherwise. A character picks a lock with a successful DC 15 Dexterity check using thieves' tools, or forces a door with a successful DC 25 Strength (Athletics) check.
 > - **The approach:** The route runs through the complex to Lady Alethea's Tomb, where a successful DC 15 Wisdom (Perception) check finds a false south wall hiding a stair to the Old Crypts. At the end of the old passage an illusion hides an intact archway, and beyond it a ten-foot-wide passage slopes down to the vault doors. The keyed areas and the vault door belong to **Vault of Dragons**.
@@ -135,9 +132,8 @@ The City of the Dead is Waterdeep's cemetery, a walled park of grassy hills, flo
 - **Ten Nights in the City of the Dead**, **Davil's Arrest**, **Wolf**, **Dread Lord**, **Whitehawk**, **Senior Griffon**, **Ziraj's Last Hunt** and **The Theater's Back Room**: the faction events set here or pointing here.
 - **Vault of Dragons**, **Gralhund Villa**, **Faction Outposts**, **Cassalanter Villa**, **Kolat Towers** and **Fireball!**: the quests that send the party here or supply the way in.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflicts:** The ward. Dragon Heist gives the City of the Dead its own entry beside the ward entries (`sources/adventure-wdh.json:31070`, after the Dock Ward at `:31057`) and names no ward. The wiki calls it "a large cemetery and ward" (`wiki.txt:34`) and places it north and east of the Trades Ward and south of the North Ward (`wiki.txt:44`). the retired Waterdeep outline, line 20 and `campaign/setting/deities/kelemvor.md:67` call it a walled necropolis apart from the wards. The page follows the campaign and the adventure.
 > - **Conflicts:** The two Brandath names. The campaign's pattern is Mausoleum for the building and Crypts for the approach (the retired Waterdeep outline, line 20). `running-the-villains.md:9`, `:32` and `:40` now say Mausoleum for the vault. The naming fix pass wrote "Brandath Crypts" in place of the singular in `campaign/setting/notable-figures/cassalanters/10-seffia-naelryke.md`, `campaign/setting/faction-operations/10-cassalanters.md:72` and `campaign/guides/factions/11-cassalanters.md:60`, capitalized Mausoleum in `campaign/setting/deities/moradin.md:67`, and capitalized Crypts in Sir Ambrose's page. Still blurred: `campaign/setting/history/06-the-open-lords-fall.md:88` puts an Eye in "a crypt of the Brandath Mausoleum", and the Emerald Enclave mission writes lower-case "Brandath crypt". The Alexandrian itself says both "beneath the Brandath family crypts" (PDF 19 p.130) and "beneath the Brandath mausoleum" (p.130), and the published text keys only "the Brandath family mausoleum" (`adventure-wdh.json:8358`). This page states the rule in GM Notes.
 > - **Conflicts:** The treant's reach. Dragon Heist says the treant and its allies "are too big to enter the mausoleum" (`adventure-wdh.json:8367`). The Alexandrian says they are too big to enter "all but the main chambers of Mausoleum C" (PDF 19 p.131), and `arc-j-vault-of-dragons.md:85` follows the Alexandrian. The page gives the treant's behavior and leaves the interior limit to **Vault of Dragons**.

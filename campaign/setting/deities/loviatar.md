@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Loviatar, the Maiden of Pain, and the reference for what the sources say about her faith of torturers and secret cells.
 > - **Where it is used:** Loviatar never appears in the campaign. No quest, faction or Notable Figure names her, and the only published mention is a torture prison in Undermountain.
 > - **Featured in:** no quest. The Tower of the Seven Woes in **Dungeon of the Mad Mage** (future work) is the one place the published adventures name her worshipers.
@@ -50,9 +49,8 @@
 - **Origin and rise:** Wiki-sourced. The wiki gives her parents as Tuonetar and Tuoni (*Manual of the Planes*, 1e) and names no founding event for her faith. Before the Time of Troubles she served Bhaal (*Faiths & Avatars*, 2e). The wiki has no Spellplague or Second Sundering text for her.
 - **In the campaign:** Loviatar is alive and present in 1492 DR. The wiki writes of her in the past tense throughout but records no death, and no campaign file treats her as dead or absent.
 
-> **[GM]**
+> [!gamemaster]**Using Loviatar as a Deity**
 >
-> #### Using Loviatar as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as a goddess people prefer not to discuss. A sage, a priest or a regular at the bar says she is the Maiden of Pain, the god of agony, whose symbol is a barbed scourge with nine tails. They say torturers and the cruel favor her, that her temples are rare, and that her followers meet in secret cells that sometimes keep prisoners. Priests of Ilmater and Lliira add that their faiths oppose hers (*Faiths & Pantheons*, 3e). How Waterdhavians feel about her beyond this, and which of her names they use, is unsourced. [research]
 > - **Waterdeep:** Loviatar has no temple or shrine in the city in the campaign sources.
 >   - The Dragon Heist Major Temples table has no Loviatar row. Its "All deities" row, Holyhands House in the North Ward, covers her by its own wording (`sources/adventure-wdh.json:30922-30926`).
@@ -88,9 +86,8 @@ Loviatar is the god of pain, called the Maiden of Pain, and her symbol is a barb
 - **Ilmater**, **Eldath**, **Lliira** (Deities): the powers she opposes. Ilmater's followers shelter her victims, and Eldath and Lliira offer rewards without suffering.
 - **Dungeon of the Mad Mage** (published adventure): the Tower of the Seven Woes.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, the Dragon Heist line:** The brief says the notes show one Dragon Heist line. The line is in *Dungeon of the Mad Mage*, not Dragon Heist (`sources/adventure-wdmm.json:62705`, quoted in the Using box). `sources/adventure-wdh.json` has no Loviatar line, and `adventure-hits.txt` for this power holds only the Mad Mage line. The page uses the Mad Mage source.
 > - **Conflict, open worship:** FRHoF says her followers "never" worship openly (`sources/research/pass2-bundles/loviatar/5etools.md:11`). SCAG says open worship and temples are "rarely seen" except where slavery is accepted (`5etools.md:32`). The page gives both and follows FRHoF as the current canon.
 > - **Settled, title:** FRHoF prints "God of pain" (`5etools.md:3`), and the PHB and SCAG print "Goddess of pain" (`5etools.md:15`, `:24`). The wiki's gender row reads Feminine (`wiki.txt:34`). FRHoF outranks SCAG because it is newer (`CLAUDE.md`, Sundering canon and 5e source precedence), so the Title field uses FRHoF and names the older printings. The prose uses "she", which a separate decision covers.

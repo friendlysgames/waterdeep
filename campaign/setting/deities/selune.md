@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Selûne, the Moonmaiden and god of the moon, and the reference for the faith practiced at the House of the Moon.
 > - **Where it is used:** Selûne never appears in person, and no campaign file names her beyond a line in the Sea Ward temple list. The page backs a player who wants a cleric, paladin or devout character who follows her, and it holds the one published seed that reaches her temple.
 > - **Featured in:** No quest. The published *Dungeon of the Mad Mage* ties her temple to Vanrakdoom, and Undermountain is future work.
@@ -56,9 +55,8 @@
   - By 1489 DR some tiefling followers claimed visions of her as a pale horned god of the moon. Mainstream churches found this disturbing, and the tieflings argued that the gods care more for the heart than for the appearance (SCAG, 5e).
 - **In the campaign:** Selûne is alive and present in 1492 DR. The House of the Moon is a working temple, and no file treats her as absent.
 
-> **[GM]**
+> [!gamemaster]**Using Selûne as a Deity**
 >
-> #### Using Selûne as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as the lady of the harbor night. A sage, a priest or a regular at the bar says she is the Moonmaiden, god of the moon and of everyone who steers by it, and that the faithful set out a bowl of milk for her on full-moon nights. They add that her priestesses collect droplets from her holy mace, which they call her tears, and make potions from them that heal and cure lycanthropy. They also say she is the twin sister of Shar, the god of the night, and that the two have fought since before the other gods. Her temple is the one with the tallest tower in the Sea Ward. The campaign's temple list calls it "widely attended", and no source says more about how the city feels about her. [research]
 > - **Waterdeep:** Selûne has one named temple in the city, the House of the Moon in the Sea Ward.
 >   - The Dragon Heist Major Temples table lists "Selûne, Tower of the Moon, Sea Ward". The retired Waterdeep outline lists her among the Sea Ward's major temples as "widely attended", and the Castle Ward gazetteer repeats that her temple is in the Sea Ward. This page uses the name House of the Moon.
@@ -78,9 +76,8 @@
 
 Selûne, the Moonmaiden, is the god of the moon, navigation and motherhood, and sailors, travelers and night workers pray to her. She is the twin and oldest rival of Shar, the god of the night. Her temple in Waterdeep is the House of the Moon in the Sea Ward, and its tower is the tallest of any temple in the city. On the fullest night of Uktar her faithful parade to the harbor, where the high priestess blesses every navigator with the Wand of the Four Moons.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Vanrakdoom and the Shar cult:** In *Dungeon of the Mad Mage*, the vampire cleric Keresta Delvingstone leads Shar's cult in Vanrakdoom and plans to send the group to destroy the Spires of the Morning, which her map marks together with Selûne's temple. She also means to destroy the House of the Moon, which she blames for the destruction of Vanrak Moonstar. A map of Waterdeep in her chamber has daggers in both temples and the names of clerics and paladins of Lathander and Selûne whom she plans to assassinate. Undermountain is future work, so treat all of it as a seed. See the **Lathander** page, which words the Spires of the Morning half of the plan.
 > - **Vanrak Moonstar:** Lord Vanrak broke with Selûne's temple after his father's death in the 1100s DR and turned to Shar. In 1182 DR his followers burned a temple of Selûne called the High House of Stars, killing most of its occupants. In 1436 DR he renounced Shar and begged Selûne's forgiveness before destroying his own undead form. A moonlight that flickers across the dragon in one Vanrakdoom scene is a blessing from Selûne that the characters cannot confirm.
 > - **No Chosen, no intervention:** No file has Selûne appear or speak, and none names a Chosen of hers. The wiki's account of Luna and the Time of Troubles stays out of play.
@@ -110,9 +107,8 @@ Selûne, the Moonmaiden, is the god of the moon, navigation and motherhood, and 
 - **Timekeeping and the Festival Calendar** (History): the calendar, with the Feast of the Moon.
 - **Dungeon of the Mad Mage** (published adventure, Undermountain future work): Vanrakdoom and the Shar cult.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled by the user (Session 51), temple name:** The Dragon Heist Major Temples table row calls the temple the "Tower of the Moon" (`sources/adventure-wdh.json:30969`). The Sea Ward text (`sources/adventure-wdh.json:30881`), the Hallowing entry (`:31558`) and *Dungeon of the Mad Mage* (`sources/adventure-wdmm.json:48631` and `:50537`) call it the "House of the Moon", and so does the wiki (`sources/research/pass2-bundles/selune/wiki.txt:266`). Only the table prints the other name. The page uses House of the Moon and gives the table's name in the Using box.
 > - **Placement, no conflict:** Every source that places the temple names the Sea Ward (`sources/adventure-wdh.json:30881` and `:30970`, `sources/adventure-wdmm.json:50537`, the retired Waterdeep outline, line 36, `campaign/gazetteer/waterdeep/castle-ward.md:165` and `:271`). The hub's temples table shows Sea Ward with the name "House of the Moon".
 > - **Conflict, the Wand:** *Dragon Heist* says the Wand of the Four Moons "miraculously appeared in Waterdeep after the Godswar" (`sources/adventure-wdh.json:31558`). The wiki's comic account has it already at the House of the Moon during the Time of Troubles (`sources/research/pass2-bundles/selune/wiki.txt:266` and `:274`). The page gives the *Dragon Heist* line in the Using box and the comic as wiki history.

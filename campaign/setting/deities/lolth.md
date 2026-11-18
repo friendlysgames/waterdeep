@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Lolth, the Spider Queen and god of the drow, and the record of the one rule the campaign sets for her: Bregan D'aerthe has rejected her.
 > - **Where it is used:** Lolth never appears in person, and no source places a temple or cult of hers in Waterdeep. She reaches play through Bregan D'aerthe's contempt for her, which Soluun Xibrindas, the company's black coin and its first-meeting answers all state, and through the drow priestesses of the published *Dungeon of the Mad Mage*.
 > - **Featured in:** The Bregan D'aerthe faction events **Bregan D'aerthe First Meeting**, **Houseless Noble**, **Kreb Drops the Cover**, **The Killer's Fate** and **The Compromised Eye**, and the Doom Raiders mission **The Dockside Killer**. Soluun also appears in **Sea Maidens Faire**, where the published shrine to Lolth in his stateroom is dropped.
@@ -61,9 +60,8 @@
   - After the Second Sundering the dead members of the Dark Seldarine were revived, so she is no longer unrivaled although she still dominates (SCAG, 5e). Zinzerena escaped her and took back assassination, and chaos passed to Malyk, the drow god of rebellion and wild magic (MTF).
 - **In the campaign:** Lolth is alive and present in 1492 DR, as every power is. The Silence, the War of the Spider Queen and the Demon Weave are history, and the post-Sundering state, with the Dark Seldarine revived, is the one in force. Bregan D'aerthe rejects her, as the Using box sets out.
 
-> **[GM]**
+> [!gamemaster]**Using Lolth as a Deity**
 >
-> #### Using Lolth as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as the god of a distant and hostile people. A sage, a priest or a regular at the bar says she is the Spider Queen, the chaotic evil god of the drow, shown as a giant spider or as a drow woman with a spider's body. They add that her priestesses rule the drow houses of the Underdark, that her worshipers offer blood sacrifice and are taught to kill anyone outside the faith, and that spiders are her omens. A well-read speaker mentions FRHoF's report of aboveground cults drawn by trails of spiders, with no cult placed in Waterdeep. The only line on the city's attitude to drow is that Fel'rekt Lafeen knows what happens to drow the Watch catches (`campaign/quests/faction-events/bregan-daerthe/s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:136`). Which of her names the city uses is unsourced. [research]
 > - **Waterdeep:** No source places a temple, shrine, priest, holy day or cult of Lolth in the city.
 >   - The Dragon Heist Major Temples table has no Lolth row (`sources/adventure-wdh.json:30910-30997`). The two rows that could cover her are "All deities" at Holyhands House in the North Ward and "All elven deities" at the Temple of the Seldarine in the Castle Ward. No source says her faithful use either, and the wiki lists the Seldarine as a pantheon she left.
@@ -84,9 +82,8 @@
 
 Lolth is the chaotic evil god of spiders and the drow, called the Spider Queen and the Queen of the Demonweb Pits. Her priestesses rule the great drow houses of the Underdark, and her worshipers practice blood sacrifice. Spiders are her omens, especially below ground, and she sends demons called yochlols as messengers or spies. No temple of hers stands in Waterdeep.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **The company's line, in the campaign's words:** The Bregan D'aerthe history page says "Jarlaxle rejected Lolth, Bregan D'aerthe rejects her, and its members speak of her as the goddess they walked away from" (`campaign/setting/history/03-bregan-daerthes-long-road.md:36`). Soluun's Emotions entry adds that the band "like every member of Bregan D'aerthe, rejects Lolth" (`campaign/setting/notable-figures/bregan-daerthe/02-soluun-xibrindas.md:14`).
 > - **The Dockside Killer:** "If a character has Soluun in hand and asks him about the god of his people, he answers with open contempt for Lolth, since Bregan D'aerthe rejects her" (`campaign/quests/faction-events/doom-raiders/m01-the-dockside-killer/ev-01-the-dockside-killer.md:343`). The design notes add that he never speaks of her with devotion (`design-notes.md:13`).
 > - **The Killer's Fate and Kreb Drops the Cover:** Soluun never says her name "with anything but disgust" (`campaign/quests/faction-events/bregan-daerthe/s05-the-killers-fate/ev-01-the-killers-fate.md:242`). Fel'rekt Lafeen "never mentions Lolth" (`s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:136`).
@@ -135,9 +132,8 @@ Lolth is the chaotic evil god of spiders and the drow, called the Spider Queen a
 - **Castle Ward** (Gazetteer): the ward of the Temple of the Seldarine.
 - **Bregan D'aerthe First Meeting**, **Houseless Noble**, **Kreb Drops the Cover**, **The Killer's Fate**, **The Compromised Eye**, **The Dockside Killer**, **Sea Maidens Faire** (quests): where the rule comes into play.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, published adventure against the campaign rule:** The published text has Soluun worshiping at a shrine of Lolth (`sources/adventure-wdh.json:26345`, `:26350`), Jarlaxle saying "for Lolth's sake" (`:3633`) and a magic mouth in his cabin shouting "By Lolth's teeth, have you no manners?" (`:25498`). The campaign rule ranks higher. The campaign already cuts the mission line (`m04-the-compromised-eye/design-notes.md:13`) and has no shrine in U3 (`05-scarlet-marpenoth.md:40`). No campaign file handles the J29 magic mouth, so the Eyecatcher cabin entry needs a different oath when it is written.
 > - **Conflict, House Auvryndar's rank:** FRHoF calls House Auvryndar "one of Menzoberranzan's ruling noble houses" (`sources/research/pass2-bundles/lolth/5etools.md:36`). The Houseless Noble leaf calls it "low in rank" (`ev-01-houseless-noble.md:286`) and the Undermountain seed says "low-ranking" (`:312`). The page gives its name only and takes no side.
 > - **Conflict, domains:** SCAG gives Trickery (`5etools.md:64`) and MTF gives Trickery and War (`5etools.md:42`). The wiki's 4e row gives Darkness, Poison and Strife and its 3e row a long list (`wiki.txt:78`, `:93`). The page lists SCAG's (2014) and MTF's (2018) entries and leaves the wiki lists out.

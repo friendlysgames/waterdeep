@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - The Trades Ward is Waterdeep's main shopping district and the home of many guildhalls. No location journal maps any part of it, so the campaign's business here is small and set in shops, houses, inns and plazas.
 > - **Trollskull Alley** offers the Lords' Alliance mission **The Long Watch**, a tenday guarding a Dungsweepers' Guild sweeping crew on its Trades Ward circuit, and has Floon lose money at a dice game in the ward.
 > - **Fireball!** tracks Dalakhar to the Inn of the Dripping Dagger on Snail Street in **The Death Mark**, and lists Mother Tamra's, a Trades Ward business with a nimblewright porter and night watchman, among the nine nimblewright owners in **The Nimblewright Hunt**.
@@ -33,9 +32,8 @@ The Trades Ward is the city's shop floor, a ward of guildhalls, stalls and balco
 - **Economy:** Retail, the guild trades, livestock at the Court of the White Bull, hired swords at Virgin's Square, moneychanging, and a black market that the Dragon Heist text says is easy to find if the buyer keeps quiet. Guild law applies as everywhere in the city.
 - **Organizations:** Guilds with halls here (see **The Guilds**), the City Watch, the district magistracy, the Dungsweepers' Guild (street crews), Doom Raiders (Weirdbottle's Concoctions), Bregan D'aerthe (Fenerus Stormcastle's house and a calligraphy shop), Harpers (a bookshop drop and a bench), Lords' Alliance (a safe house), and Manshoon's Zhentarim (safe houses).
 
-> **[GM]**
+> [!gamemaster]**Secret**
 >
-> #### Secret
 > - Fenerus Stormcastle's house on Quill Alley is a Bregan D'aerthe message drop. Fenerus gathers messages from dead drops across the ward and stores them at the house, and Krebbyg Masq'il'yr collects them every two days. The messages are coded in Drow, and they point the party to the **Sea Maidens Faire**.
 > - Fenerus spies for Luskan. He followed Krebbyg once and knows where the messages go, but he has not worked out that the cloaked drow belong to Bregan D'aerthe.
 > - Manshoon has marked Fenerus as a soft target. A directive in Zhentarim hands orders his kidnapping, and the **Faction Outposts** quest holds the timing and the three states the house can be in when the party arrives.
@@ -56,9 +54,8 @@ The Trades Ward is the city's shop floor, a ward of guildhalls, stalls and balco
 - A cramped little shop on a side street, run by Skeemo Weirdbottle. Most of its potions and elixirs are nonmagical, and Dragon Heist says adventurers can buy discounted potions and poisons there.
 - Hook: **The Poisoned Delivery** sends Doom Raiders members here to collect a coffer, and Skeemo knows each of them by name. In **Silencing Skeemo** he bolts from the shop with a satchel and a hired dray waiting.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Skeemo has sold the Doom Raiders to Manshoon's Zhentarim since before the party arrived, for rare components and protection from Watch inspections. The coffer in **The Poisoned Delivery** holds poison under a layer of mint.
 
 **Fenerus Stormcastle's House** — Small house and message drop, Quill Alley
@@ -75,18 +72,16 @@ The Trades Ward is the city's shop floor, a ward of guildhalls, stalls and balco
 - A narrow three-story shop on Sorn Street between a glassblower and a cartographer. Uza, an old bookseller, waits at Felzoun's Folly, the tavern on the corner of Sorn Street and Salabar Street, and gives the party her keys.
 - Hook: **The Dead Drop** sends Harpers in to rescue her cat from a gazer in the attic. Behind shelf seven the party finds a hand-copied cipher.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - The shop has hidden a Harper dead drop behind shelf seven for ten years, and Uza does not know it. A clerk named Tessalar Maeridge loads the drop, and he sold a copy of one packet to the Splinter. Skeemo Weirdbottle bought three volumes on noble scandals from Uza last month.
 
 **The Trades Ward Plaza** — Public square with a well
 - A plaza with a public well and benches, where the ward's water-carriers fill their barrels. A halfling woman called Halla sits on the west bench by the well every day from 16:00 to 16:30.
 - Hook: three leads in **The Sleeping Asset** end at that bench. In **The Fouled Channel** a member who asks the Summerstrider network hears that a film lies on the water in the plaza well each morning and that horses refuse it.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Halla is Corene Wyldath, a Harper Spy carrying one of Nihiloor's devourers. The film comes from the Splinter's thrall-conditioning waste, which cultists pour into a Castle Ward cistern, and it has crept along a buried watercourse into the ward's wells.
 
 **Virgin's Square** — Mercenary hiring square
@@ -99,9 +94,8 @@ The Trades Ward is the city's shop floor, a ward of guildhalls, stalls and balco
 - Orvyn lives in a second-floor flat on Tallow Court. He leaves at 07:30 and comes home at 18:00, and a widow named Brenna Tull lives in the flat below.
 - Hook: in **The Legate's Eyes** Vajra sends Force Grey here after three reversed rulings. She cannot act on the magistracy herself, because any move by the Blackstaff against the Watch opens a formal review.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - A devourer from Nihiloor's brood has ridden Orvyn for seven tendays. It steers which appeals reach which magistrate, and Orvyn is aware and cannot act or speak. If he dies, if Brenna calls the Watch or if a patrol sees the extraction, the Watch reviews the magistracy for 14 days.
 
 **The Splinter's Safe Houses** — Houses, Shesstra Street and Nethpranter Street
@@ -109,9 +103,8 @@ The Trades Ward is the city's shop floor, a ward of guildhalls, stalls and balco
 - The Nethpranter Street house, also three floors, stands across from a cargo yard. It has a guardroom on the ground floor, bunks above and a records room on top.
 - Hook: **The Talking Mare** sends Harpers to watch the Shesstra Street house, and **The Doppelganger Auditions** leads them to the Nethpranter Street house.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Both are houses of the Splinter, Manshoon's cell. The Nethpranter Street house holds two resident Spies and the papers that name the cell's handler, Beldan Rusk. No file says the two houses are one house, so the page keeps them as two addresses.
 
 ## Characters of Interest
@@ -120,9 +113,8 @@ The Trades Ward is the city's shop floor, a ward of guildhalls, stalls and balco
 - The Doom Raiders' Master of Magic, a tidy alchemist who runs Weirdbottle's Concoctions. His politeness is exact and has no warmth in it.
 - He keeps an index of the city's criminal and semi-criminal business and files every sale in it under the buyer's name. A character whose Debt of the City names him as Holder has already been entered in it.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Skeemo is a traitor who feeds intelligence to Manshoon's cell and House Gralhund and messages both sides by paper bird. If cornered he trades information for his life.
 
 **Fenerus Stormcastle (Neutral Evil, Tethyrian Human, he/him)**
@@ -137,18 +129,16 @@ The Trades Ward is the city's shop floor, a ward of guildhalls, stalls and balco
 - A Harper Spy who has worked inside Xanathar's Guild's Dock Ward operation for four months under the name Halla Ironstave. She is composed, precise with her attention and sparing with words.
 - Her reports are still accurate, but she has started asking questions about the Harpers.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - One of Nihiloor's custom Occupying Devourers has ridden Corene for three weeks. It keeps her mind alive, so she is aware and cannot act, and she can be saved if the devourer is forced out. She counts as one of three Harpers Nihiloor has taken.
 
 **Krebbyg Masq'il'yr (Chaotic Neutral, Drow, he/him)**
 - A young drow gunslinger who runs the bookings of the Seven Masks Theater in the Dock Ward as a human called Kreb Sorrush. He is rash and cheerful, and he leaves the thinking to Fel'rekt Lafeen.
 - His Trades Ward errand is the message pickup at Fenerus's house, every two days.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Krebbyg works for Bregan D'aerthe, and the messages he collects go to Jarlaxle. A party that follows him from the house reaches the **Sea Maidens Faire**.
 
 ## Life in the Ward
@@ -247,9 +237,8 @@ Sensory anchors for the GM to build the passage from (not written out):
 - **Trollskull Alley**: **The Long Watch** and Floon's dice game.
 - **Kolat Towers**: the quest, whose tower belongs to the Southern Ward page.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled by ruling 1:** Kolat Towers' ward. The page treats it as a Southern Ward tower and does not list it as a landmark. The published Trades Ward reading is `sources/adventure-wdh.json:560` ("Manshoon lurks in Kolat Towers, a pair of wizards' towers in the Trades Ward"). The Southern Ward readings are `sources/adventure-wdh.json:32215` ("in the city's Southern Ward") and `:32218` ("a crumbling residence in the Southern Ward"). The wiki bundle for the Trades Ward does not mention Kolat Towers, so it neither agrees nor disagrees.
 > - **Settled by ruling 1:** Campaign files for Kolat Towers' ward. These now say Southern Ward: `campaign/structure/arc-i-kolat-towers.md` (lines 9, 62, 233, 269, 316, 324-326), `campaign/guides/factions/10-manshoons-zhentarim.md:73`, `campaign/guides/trollskull-manor/08-notable-patrons.md:57`, and the Lords' Alliance **Redknife** notes (`r03-redknife/design-notes.md:24`). the retired Waterdeep outline is deleted.
 > - **Settled by the user (Session 51):** Kolat Towers is in the Southern Ward. The Doom Raiders and Emerald Enclave events that said Trades Ward for it now say Southern Ward, and the Summerstrider towers report is retargeted too. This page does not list any of them as set in the Trades Ward.

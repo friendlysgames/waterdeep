@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Moradin, the All-Father and head of the dwarven pantheon, for players who want a dwarf cleric, a paladin or a devout smith, and for a GM who needs a power behind a forge, a stone hall or a dwarven oath.
 > - **Where it is used:** Moradin never appears in person. His name is carried by rooms: the Hall of Moradin in the Vault of Dragons, and two sets of statues in Undermountain that the campaign treats as seeds.
 > - **Featured in:** **Vault of Dragons** (the Hall of Moradin and the statuette of a dwarf priest of Moradin).
@@ -51,9 +50,8 @@
   - His avatar appeared when the Ironstar clan fled orcs at the Stone Bridge, after Daurvos Frostbeard made a desperate appeal that was his last act. It helped them defeat the orcs and reach Ironford, and so the Fallen Kingdom was founded (*Dwarves Deep*, 2e).
 - **In the campaign:** Moradin is alive and present in 1492 DR, as every power is. MTF describes him in the present tense, and the wiki's past tense is edition history.
 
-> **[GM]**
+> [!gamemaster]**Using Moradin as a Deity**
 >
-> #### Using Moradin as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the maker of the dwarves. A sage, a priest or a regular at the bar says he is the All-Father, the dwarven god of creation, whose symbol is a hammer and anvil. They add that he forged the first dwarves from metal and gems and breathed souls into them as the metal cooled, that smiths, miners and stone-workers honor him, and that his priests rate a craftsman's work and decide what a young dwarf should become. Dwarves, they say, take his judgment without argument. His priests serve dwarven strongholds, and Waterdeep has no temple of his. Which of his names the city uses, and how much a Waterdhavian knows of him, is unsourced. [research]
 > - **Waterdeep:** Moradin has no temple, shrine, priest or festival in the city in any source.
 >   - The Dragon Heist Major Temples table has no dwarven row (`sources/adventure-wdh.json:30921-30996`). Its "All deities" row, Holyhands House in the North Ward (`:30923-30925`), is the only listing that could cover him, and no source says his faithful use it.
@@ -70,9 +68,8 @@
 
 Moradin is the lawful good god of creation and the All-Father of the dwarves, and he heads their pantheon, the Mordinsamman. Dwarven tales say he forged the first dwarves from metal and gems and gave them souls with his breath as the metal cooled. Smiths, miners and artisans honor him, and his symbol is a hammer and anvil. Waterdeep has no temple of his.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **The vault in outline:** Scene 4 of **Vault of Dragons** (`campaign/structure/arc-j-vault-of-dragons.md:134-156`, an active structure doc; no quest journal exists yet). The vault's stone "changes to unmistakably dwarven work" fifteen feet down the sloping hallway, and a small cartouche with the runes "HN" marks the work of Harlsnod Darkshine, the vault's original architect, whose "secret offerings" to Dumathoin are scattered through it (`:140`). The party reaches the vault after attuning the Stone of Golorr (`sources/adventure-wdh.json:9778`).
 > - **The Hall of Moradin (V4):** The campaign text reads: "Three hammer-shaped pillars run the length of this hall. A cracked mosaic depicting a dwarf smith crafting figures from black metal and diamond conceals a secret door — DC 17 Wisdom (Perception) to find, opening automatically for a dwarf or on a DC 17 Strength (Athletics) check for anyone else. A black pudding lurks in a break in the wall roughly halfway down the hall and attacks anyone who investigates the damage." (`campaign/structure/arc-j-vault-of-dragons.md:148`)
 > - **What the published room adds:** The pillars are "carved to resemble warhammers, with their square heads pressed against the floor", and the hall is 20 feet high (`sources/adventure-wdh.json:14586-14597`). Three archways in the east wall lead to crumbling bridges over the entrance foyer, and the bridges end at adamantine doors to the rooms beyond. The secret door in the south end of the west wall opens at a dwarf's touch, including a creature transformed into a dwarf by *alter self* (`:14614`).
@@ -110,9 +107,8 @@ Moradin is the lawful good god of creation and the All-Father of the dwarves, an
 - **Istrid Horn** (Notable Figures): a shield dwarf moneylender who worships Vergadain.
 - **Vault of Dragons** (quest): the Hall of Moradin, the Secrets Room and Dumathoin's Secret.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, pantheon spelling:** MTF (2018) prints "The Mordinsamman" (`sources/5etools/deities.json:9837`), and SCAG (2014) and the wiki print "Morndinsamman" (`sources/5etools/book/book-scag.json:5636`; `wiki.txt:17`). MTF is newer and wins. The page and the Vault of Dragons structure doc (`campaign/structure/arc-j-vault-of-dragons.md:154`) use "Mordinsamman", and the Pantheon field notes SCAG's spelling.
 > - **Conflict, campaign against the published room:** The structure doc empties the urns of the Secrets Room and renames the room (`campaign/structure/arc-j-vault-of-dragons.md:150`), while the published V5 holds treasure in them (`sources/adventure-wdh.json:14632`). The structure doc also drops the published secret-door clause about creatures transformed into dwarves (`:14614`). The campaign file wins, and the page gives the published detail beside it.
 > - **Settled, plane:** The wiki gives Solania and Erackinor for 2e (`wiki.txt:74-75`) and Dwarfhome for 3e and 4e (`wiki.txt:58` and `:43`). EGW puts Erackinor on Celestia (`5etools.md:17`). The user ruled that EGW is Exandria and has nothing to do with Faerûn, so it stays excluded. SCAG, the PHB and MTF give no plane, so the field carries the wiki's two answers.

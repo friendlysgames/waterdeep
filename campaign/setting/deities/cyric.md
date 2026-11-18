@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Cyric, the god of lies, for players who want to build a character around him or against him, and for the GM who needs to know what the sources say.
 > - **Where it is used:** Cyric appears in no quest, faction page or Notable Figure. The campaign names him once, in the history of Zhentil Keep, and the published *Dragon Heist* names him in the story of Mount Waterdeep and in the Gods' Day bonfire.
 > - **Featured in:** No quest. The Cassalanters, the Zhentarim and the Doom Raiders have no tie to him in any file.
@@ -54,9 +53,8 @@
   - In the 4e account, Lathander, Tyr and Sune trapped him in the Supreme Throne for a thousand years in retaliation. His power waned over the next century, and the worship of Bane flourished in its place (*The Grand History of the Realms*; *The Crystal Mountain*; *Forgotten Realms Campaign Guide*, 4e). Even there he sent a skull-faced manifestation to order his chosen Malik in 1486 DR, during the Second Sundering (*The Sentinel*, novel). The campaign does not keep this imprisonment, and Cyric is free in 1492 DR.
 - **In the campaign:** Cyric is present and active in 1492 DR, as every power is. FRHoF, the current canon, has him whispering to his followers in their dreams and says many of the gods he slew have returned and taken back their portfolios. The wiki's imprisonment of 1385 DR is a 4e account that does not hold in the campaign, so Cyric is free and the page keeps it as tagged history. The page uses neither the imprisonment nor the murder of Mystra in play (see Draft Notes).
 
-> **[GM]**
+> [!gamemaster]**Using Cyric as a Deity**
 >
-> #### Using Cyric as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as a god nobody names lightly. A sage, a priest or a regular at the bar says he is the Prince of Lies, a god of deceit and strife who was once a mortal adventurer, and that he became a god on the slopes of Mount Waterdeep at the end of the Time of Troubles. They add that he is blamed for the murder of Mystra and the Spellplague, that his worship is banned in most lands and flourishes in Amn, and that a good person who means to lie to someone calls on Leira instead of him. Faerûnians use "the Dark Sun" as a warning that intrigue and infighting have gotten out of hand in a household (SCAG, 2014), but whether Waterdhavians do is [research]. Nothing in this conversation ties him to a faction in the city.
 > - **Waterdeep:** Cyric has no temple, shrine or priest in the city in any source.
 >   - The Dragon Heist Major Temples table has no Cyric row. It lists Holyhands House in the North Ward as a temple for all deities, and no source says his faithful use it.
@@ -107,9 +105,8 @@ Cyric is the god of lies, called the Prince of Lies and the Dark Sun, and he is 
 - **Manshoon's Zhentarim** (Organizations): the Network that began in Zhentil Keep, the city the history line concerns. No file ties it to Cyric.
 - **Castle Ward** (Gazetteer): the ward that holds Mount Waterdeep and the Gods' Day bonfire.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled, the imprisonment:** The wiki has Lathander, Tyr and Sune imprison Cyric in the Supreme Throne for a thousand years in 1385 DR (`sources/research/pass2-bundles/cyric/wiki.txt:371`). That is a 4e account and it does not hold in the campaign, where Cyric is free and active in 1492 DR, as every power is. The Tyr page (`campaign/setting/deities/tyr.md:51`), the Lathander page (`campaign/setting/deities/lathander.md:52` and `:146`) and the Sune page give the imprisonment as tagged history, and this page agrees. FRHoF describes him in the present tense (`sources/research/pass2-bundles/cyric/5etools.md:8`), and the wiki itself has him ordering a chosen servant from inside the prison in 1486 DR (`wiki.txt:373`).
 > - **Settled by ruling, the murder of Mystra:** FRHoF says Cyric, aided by Shar, killed Mystra (`5etools.md:8`). The wiki's 4e account has the same (`wiki.txt:369`). *Dragon Heist* says only that it was divined that his hatred led to her murder (`sources/adventure-wdh.json:30485`), and SCAG calls it a legend (`5etools.md:28`). By ruling the Second Sundering ended in 1487 DR with Mystra and the Weave restored, and the Mystra page treats her as present in 1492 DR (`campaign/setting/deities/mystra.md:60`), so this page gives the death as history, worded as on the Lathander and Shar pages.
 > - **Settled, Helm's death:** The wiki's Rumors section calls Cyric's part in Helm's death confirmed (`wiki.txt:382`; *Dragon* 381). This page now says he is "suspected" of arranging it (line 52) and gives *Dragon* 381 as the source that states he did, the same wording as the Helm page (`campaign/setting/deities/helm.md:50`) and the Tyr page (`tyr.md:50`).

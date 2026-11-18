@@ -1,8 +1,7 @@
 # The Zhentarim Raid
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Combat Event covers Floxin's assault on Gralhund Villa — the backbone event of the night-path arc. In this Event:
 >

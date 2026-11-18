@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Gond, the god of craft and invention, and the reference for the faith practiced at the House of Inspired Hands in the Sea Ward.
 > - **Where it is used:** Gond never appears in person. His faith runs through the House of Inspired Hands, its senior cleric Valetta and the temple's nimblewright, Nim.
 > - **Featured in:** **Fireball!** (the House of Inspired Hands event), **Sea Maidens Faire** (the brass model in the House's main hall) and the Lords' Alliance rank event **Stingblade**. The Day of Wonders, his festival, falls after the campaign window.
@@ -54,9 +53,8 @@
   - Gnomes know him as Nebelun the Meddler. A few gnome groups hold that Nebelun is a separate god, and the wiki says they are right, since Nebelun is active only on other crystal spheres (*Demihuman Deities*; *Monster Mythology*).
 - **In the campaign:** Gond is alive and present in 1492 DR. His temple is a working temple and no file treats him as absent.
 
-> **[GM]**
+> [!gamemaster]**Using Gond as a Deity**
 >
-> #### Using Gond as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the patron of tinkers and showmen. A sage, a priest or a regular at the bar says he is the Wonderbringer, the god of craft and invention, and that smiths, engineers and inventors pray to him to guide their work. They add that the House of Inspired Hands in the Sea Ward is more workshop than temple, that its priests will tell a visitor that worship is work, and that inventions too risky for the building get tried out in the alley by the south door while the neighbors watch. The favorite story about the Day of Wonders is the flying chair of Marchell, which rose beautifully and could not come down until the Griffon Cavalry rescued its rider. A skeptic adds that the faith is a haven for crackpot inventors.
 > - **Waterdeep:** Gond has one temple in the city, the House of Inspired Hands in the Sea Ward, on the corner of Seawatch Street and Shark Street.
 >   - The Dragon Heist Major Temples table lists "Gond, House of Inspired Hands, Sea Ward", and the campaign files agree. A Lantanese engineering text in **Fireball!** names it "Waterdeep's only active temple of Gond" and the foremost authority on Lantanese mechanical constructs in the city. The Players' Guide tells gnome characters that it doubles as a guild of inventors and tinkerers.
@@ -75,9 +73,8 @@
 
 Gond is the Wonderbringer, the neutral god of craft and invention, and smiths, engineers and inventors pray to him for guidance. His temple in Waterdeep is the House of Inspired Hands in the Sea Ward, as much workshop as place of prayer. Each year on Marpenoth 3 the Gondar show their newest inventions in the Day of Wonders parade, and a few of them break down in the street. Folk say Gond smiles most brightly on new inventions that others find useful.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Fireball!:** The event **The House of Inspired Hands** sends the party to the temple once they know a nimblewright set off the blast. Three paths lead there. Rishaal's Lantanese engineering text names the House, any faction contact can identify a nimblewright from witness descriptions, and Barnibus Blastwind's Watchful Order contacts can identify the construct within 48 hours of the blast. The Harpers are fastest, since Remallia Haventree knows the high priest personally. A note from Vajra Safahr to a Force Grey member the next morning says the blast left a signature the Watchful Order describes as a nimblewright detonation, "registered Lantanese manufacture, auditable through the House of Inspired Hands".
 > - **At the House:** Valetta meets the party at the entrance and takes them to Nim, who built the runaway nimblewright about three months before the fireball to ease its loneliness. The runaway fled about a month before, with its behavioral lattice incomplete. Nim hands over a detector it built to find the runaway. Valetta offers 500 gp for proof that the runaway is destroyed, plus one invention from the temple's collection. The location journal **House of Inspired Hands** holds the rooms, the sparrow trap and the attic, and this page repeats none of it.
 > - **Valetta:** A bronze dragonborn priest of Gond (neutral), and the temple's senior cleric. She wants to keep the House a center of innovation, to destroy the rogue nimblewright that threatens Gond's reputation, and to build constructs that serve rather than harm. She treats the bounty as a civic duty and a theological obligation, and she values constructs as Gond's children.
@@ -121,9 +118,8 @@ Gond is the Wonderbringer, the neutral god of craft and invention, and smiths, e
 - **Fireball!**, **Sea Maidens Faire** (quests): where the temple and the model come into play.
 - **Timekeeping and the Festival Calendar** (History): the Day of Wonders.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, size and leadership of the House:** The Fireball! text calls it "Waterdeep's only active temple of Gond" (`campaign/quests/act-ii/fireball/ev-01-the-fireball.md:162`), and the wiki calls it "one of the largest temples in Waterdeep led by High Seeker Jhoadil Zulthind" (*City of Splendors: Waterdeep*, 3e; research bundle `gond/wiki.txt:194`). The page follows the campaign file and leaves out the High Seeker. Valetta is the "senior cleric" (`ev-02-the-house-of-inspired-hands.md:33`; `campaign/quests/act-ii/fireball/overview.md:36`), while the same event says Remallia "knows the high priest personally" (`ev-02-the-house-of-inspired-hands.md:96`). No file names a high priest. [research] on who that is, and on whether Valetta holds the title.
 > - **Conflict, museum:** The Dragon Heist Sea Ward text says not to expect a museum of marvels (`sources/adventure-wdh.json:30881`), while the main hall file lines its walls with prize-winning inventions on pedestals (`campaign/locations/house-of-inspired-hands/01-main-hall.md:3`). The page gives both and treats the display as a small exhibit, not a museum.
 > - **Conflict, opening hours:** The book closes the temple from sunset to sunrise (`sources/adventure-wdh.json:4584`), while the area overview gives the closing hours as the 8th bell of the evening to the 2nd bell of the morning (`campaign/locations/house-of-inspired-hands/area-overview.md:18`). The page uses the book.

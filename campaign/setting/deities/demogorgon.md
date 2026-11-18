@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the patron entry for Demogorgon, the two-headed demon lord who calls himself the Prince of Demons and a Fiend patron for warlock characters. He is not a god of the Faerûnian pantheon and the 5etools deity list has no entry for him, so this page replaces the cleric and paladin guidance of a deity page with warlock guidance and takes every field from the wiki, tagged.
 > - **Where it is used:** Demogorgon never appears in the campaign. He is a choice for a player building a warlock, and no quest, faction or Notable Figure names him.
 > - **Featured in:** no quest. Neither *Dragon Heist* nor *Dungeon of the Mad Mage* names him. The nearest published material is Halaster's demon-binding on Undermountain Level 20 and the kuo-toa of Level 4, and neither mentions him (see Campaign ties).
@@ -55,9 +54,8 @@
   - The succubi Shami-Amourae and Malcanthet were his lovers, and both manipulated him for their own ends (*Dungeon* 148; *Dragon* 357). The wiki names the demon lord Mandrillagon as his brother (*Dance of Demons*).
   - Some followers of Helm call him the Imprisoned One (*Baldur's Gate II: Throne of Bhaal*, video game). The wiki lists no relation between him and any other power on this page's roster.
 
-> **[GM]**
+> [!gamemaster]**Using Demogorgon as a Patron**
 >
-> #### Using Demogorgon as a Patron
 > - **The ordinary Waterdhavian's view:** Almost none. A sage can repeat the Overview, and the likeliest listener to have heard him named is someone who has dealt with the Underdark, where kuo-toa and troglodytes carry his names (derived from his followers). No source records any Waterdhavian opinion of him, a Waterdhavian rumor, or whether news of Menzoberranzan in 1486 DR reaches the city. [research]
 > - **Waterdeep:** None. The Major Temples of Waterdeep table in *Dragon Heist* lists no temple of Demogorgon, and no campaign file or wiki entry places a shrine or cult in the city. The wiki has no Waterdeep text for him.
 > - **A warlock PC:** The Fiend patron in the 2024 *Player's Handbook* fits him (derived), and the wiki files him under Fiend patrons and says he can offer patronage pacts. Great Old One Patron (derived; 2024 *Player's Handbook*) is the alternative for a table that wants his madness over his demonhood, since its spell list includes *dissonant whispers* and *confusion*. No source gives Demogorgon-specific features. The wiki offers three details a table can use: warlocks usually keep a quasit as a familiar, the devout receive resistance to mind-affecting effects, and their signature spells are *charm person*, *enlarge/reduce* and *vampiric touch*. What his cults want is chaos and destruction, so a patron relationship with him is likely to ask for the same (derived from the cult description). The wiki gives no price for a pact. [research]
@@ -91,9 +89,8 @@ Demogorgon is the two-headed demon lord who calls himself the Prince of Demons, 
 - **Lolth** (Deities): the goddess whose plan the wiki credits for the 1486 DR summoning in Menzoberranzan.
 - **Dungeon of the Mad Mage** (published adventure): the Level 20 demon-binding line and the Level 4 kuo-toa.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Brief's expectation, not found:** The brief says the lower levels of *Dungeon of the Mad Mage* include Demogorgon-linked material. A search of `sources/adventure-wdmm.json` and `sources/adventure-wdh.json` for Demogorgon, Aameul, Hethradiah and Prince of Demons returns nothing. The nearest items are the Level 20 demon-binding line and the Level 4 kuo-toa, quoted in the Using box, and the page claims no tie between them and him. The kuo-toa and aboleth of Level 4 would suit a GM who wants one, but that would be new design and the page does not make it. The Level 4 aboleth, Illuun, holds the Grotto of Madness, and the wiki puts aboleths among Demogorgon's worshipers in the Abyss (*Stormwrack* 3e), which is a second unused hook.
 > - **Conflict, origin:** The wiki gives two accounts (*Dragon* 357 and *Demonomicon* 4e) and opens the section with "There were conflicting legends about the origin of Demogorgon." The page gives both and picks neither.
 > - **Conflict, rank:** The wiki rates him a lesser deity in 2e, a primordial in 4e, and a demon lord in 3e and 5e. The page calls him a demon lord and notes the others in Pantheon.

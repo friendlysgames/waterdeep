@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this is:** The reference page for how Waterdeep counts days and which dates the campaign runs on. It holds the Calendar of Harptos basics, the campaign calendar from Ches 1 to Flamerule 11, the festival table with its campaign functions, and the festival customs the GM can use as cover.
 > - **Where it is used:** The GM opens it at session zero to fix the start date, and again whenever the party asks what day it is, what is being celebrated, or how long remains before a deadline. It is the single home of Founders' Day.
 > - **Featured in:** **Finding Floon** (Ches 1), **Trollskull Alley** (Ches 20 and 21), **Fireball!** (Ches 22), **Gralhund Villa** (Ches 24), **Faction Outposts**, **Cassalanter Villa**, **Sea Maidens Faire** (Tarsakh 20), **Vault of Dragons**.
@@ -18,9 +17,8 @@
 
 **Other Names:** Harptos Reckoning; the Faerûnian calendar (the name the published adventure uses). The campaign year is 1492 DR.
 
-> **[GM]**
+> [!gamemaster]**Lore Summary**
 >
-> #### Lore Summary
 > - The year has twelve months of thirty days, each in three tendays, and five festival days that belong to no month, which makes 365 days. A leap day, Shieldmeet, follows Midsummer every fourth year.
 > - The campaign opens on Ches 1, 1492 DR and runs to Flamerule 11, about four and a half months. Four dates inside it are structure, not flavor: Fleetswake, Waukeentide, the Tarsakh 20 sailing and Founders' Day.
 > - Founders' Day, Flamerule 1, is the party's real deadline. The twins' ninth birthday, Flamerule 11, is the date the contract falls due.
@@ -150,9 +148,8 @@ Waterdeep keeps the Calendar of Harptos, in which twelve months of thirty days, 
 - **The Cassalanters** (Organizations): the family's public lore.
 - **Ammalia Cassalanter**, **Victoro Cassalanter**, **Jarlaxle Baenre**: the people tied to the Founders' Day and Tarsakh 20 deadlines.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Research:** The Forgotten Realms Wiki names 1492 DR the "Year of Three Ships Sailing" (Skullport, citing Waterdeep: Dungeon of the Mad Mage, 5e; Waterdeep: Dragon Heist, where the name is "assumed" because the adventure sets no year). The published adventure names no year, so the name is not used. The file `Year_of_the_Ageless_One.txt` in the wiki folder is the 1479 DR page and is unrelated.
 > - **Research:** The Midsummer wiki page, and pages for Twin Parades, Selûne Sashelas and Fey Day, are not in the wiki folder. Midsummer is housed from the Calendar of Harptos, Shieldmeet and published-adventure entries only. Fey Day uses the published adventure.
 > - **Research:** The wiki confirms the table. Fleetswake gives no docking fee and asks captains for at least 1 gp a day (Fleetswake; Waterdeep: Dragon Heist, 5e, and City of Splendors boxed set, 2e). Waukeentide and Day of Wonders match the table's dates and customs (Waukeentide; Day of Wonders; Waterdeep: Dragon Heist, 5e). The Founders' Day veil of Castle Waterdeep runs from midday to sunset (Founders' Day; Waterdeep: Dragon Heist, 5e).

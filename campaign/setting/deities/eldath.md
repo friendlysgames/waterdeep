@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Eldath, the god of peace, and the reference for Avi's faith at Steam and Steel.
 > - **Where it is used:** Eldath never appears in person and has no temple or shrine in the sources. Her only tie to the campaign is Avi, the water genasi armorsmith who worships her.
 > - **Featured in:** **Trollskull Alley** and **Fireball!**, through Avi. Neither quest names Eldath as a power.
@@ -52,9 +51,8 @@
   - The wiki page has no Spellplague or Second Sundering text for her, and its 4e rows are blank.
 - **In the campaign:** Eldath is alive and present in 1492 DR. No file treats her as dead or absent.
 
-> **[GM]**
+> [!gamemaster]**Using Eldath as a Deity**
 >
-> #### Using Eldath as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as the god of quiet water. A sage, a priest or a regular at the bar says she is the Quiet One, the god of waterfalls, springs, pools and still glades, and that water she has blessed heals the sick and comforts the dying. They add that villages outside the city keep a pond or a glade for her, where people leave broken weapons and the remains of old arguments, and that it is taboo to strike one of her priests. How the city feels about her, and which of her names Waterdhavians use, is unsourced. [research]
 > - **Waterdeep:** Eldath has no temple or shrine in the sources.
 >   - The Dragon Heist Major Temples table has no Eldath row. Its "All deities" row, Holyhands House in the North Ward, covers her by its own wording (`sources/adventure-wdh.json:30923-30925`).
@@ -74,9 +72,8 @@
 
 Eldath is the god of peace and quiet water, and her followers call her the Quiet One. Waterfalls, springs, pools and still glades are her places, and water she has blessed is said to heal the sick and comfort the dying. Her priests wander between village ponds and woodland shrines, and it is taboo to strike one. No temple of hers is known in Waterdeep, and her one known worshiper in the city is Avi, the armorer at Steam and Steel in Trollskull Alley.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Who Avi is:** A water genasi armorsmith, neutral good, who uses the **Priest** stat block (`03-avi.md:6`). He runs Steam and Steel with his husband Embric, the fire genasi weaponsmith, and the forge's back gate opens onto the same courtyard as Trollskull Manor (`campaign/quests/act-i/trollskull-alley/ev-01-welcome-to-trollskull-alley.md:24`). He quenches hot steel with his water magic (`sources/adventure-wdh.json:3406`).
 > - **How the faith shows at the table:** On his page Avi stands between an attacker and anyone unarmed and will not strike first (`03-avi.md:24`). His voice profile has him bless armor as he hands it over, say "Eldath keep you", and refuse to sell armor to anyone who is shopping for a fight (`.claude/skills/character-voices/voices/trollskull-community.md:51-53`).
 > - **When the party shops:** His pacifism puts him at odds with adventuring customers (`03-avi.md:26`). Play that as a sale he makes after a plain question about what the armor is for. He turns away only a buyer who says they are shopping for a fight.
@@ -107,9 +104,8 @@ Eldath is the god of peace and quiet water, and her followers call her the Quiet
 - **The Emerald Enclave** (Organizations): the novel line links Eldath to the Enclave's druids, but the campaign Enclave names Mielikki as its patron through Jeryth Phaulkon and mentions Eldath nowhere.
 - **Timekeeping and the Festival Calendar** (History): Greengrass.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Campaign ties, checked:** All three campaign lines are Avi's Notable Figures page (`03-avi.md:12`, `:16`, `:26`), so the tie is a character and not a Trollskull patron or a shop. The one Dragon Heist line (`sources/adventure-wdh.json:3406`) is Avi's entry in the Steam and Steel description. The Trollskull Manor guide lists Embric and Avi among the notable patrons (`campaign/guides/trollskull-manor/08-notable-patrons.md:20`), and that entry has no Eldath content.
 > - **Settled, Avi's pronouns:** The Dragon Heist entry writes Avi as "he", "his" and "him" (`sources/adventure-wdh.json:3406` and `:3411`), and no design reason exists for "she". The campaign now writes Avi as "he" and as Embric's husband (`03-avi.md:12`, `:16`, `:22`, `:24`, `:26`, `:30`; `02-embric.md:30`; `guilds.md:51`), and this page does the same.
 > - **Settled, Avi's guild membership:** `03-avi.md:26` now lists both orders correctly: Embric and Avi belong to the Most Careful Order of Skilled Smiths and Metalforgers, and Avi, "as an armorer", also belongs to the Splendid Order of Armorers, Locksmiths, and Finesmiths. This matches the Dragon Heist text (`sources/adventure-wdh.json:3397`) and `02-embric.md:26`.

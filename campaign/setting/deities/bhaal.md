@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Bhaal, the god of murder, for players who want to build a character around him or against him, and for the GM who needs to know what the sources say.
 > - **Where it is used:** Bhaal appears in no quest, faction page or Notable Figure. The published *Dragon Heist* names him once, in its history of the Time of Troubles.
 > - **Featured in:** No quest. No campaign file ties an assassin, a cult or a faction to him.
@@ -51,9 +50,8 @@
   - After the last Bhaalspawn died, his essence was freed. He was revived and took back the murder domain from Cyric (*Sword Coast Adventurer's Guide*, 5e). The wiki adds that he returned as a quasi-deity, like Bane and Myrkul, and that in 1492 DR cultists of the Dead Three murdered people in Baldur's Gate (*Baldur's Gate: Descent into Avernus*, 5e).
 - **In the campaign:** Bhaal is alive and present in 1492 DR, as every power is. FRHoF describes him in the present tense and says many of the gods Cyric slew have returned. His death and the Bhaalspawn are history on this page (see Draft Notes).
 
-> **[GM]**
+> [!gamemaster]**Using Bhaal as a Deity**
 >
-> #### Using Bhaal as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as a god nobody admits to praying to. A sage, a priest or a regular at the bar says he is the Lord of Murder, the god of assassins and killers, and one of the vile gods who, with Bane and Myrkul, stole the Tablets of Fate and brought the Time of Troubles down on the Realms. They add that decent folk never pray to him, that murder cults have risen now and then under self-styled priests, and that a skull ringed with blood drops is the sign of his killers. A well-read priest says his worshipers are said to keep a great temple under Baldur's Gate. Nobody in this conversation points to a cult in Waterdeep, because no source places one there.
 > - **Waterdeep:** Bhaal has no temple, shrine or priest in the city in any source.
 >   - The Dragon Heist Major Temples table has no Bhaal row. It lists Holyhands House in the North Ward as a temple for all deities, and no source says his faithful use it.
@@ -93,9 +91,8 @@ Bhaal is the Lord of Murder, the god of assassins and killers, and one of the De
 - **Talona**, **Loviatar** (Deities): the goddesses who served him in the wiki account.
 - **Timekeeping and the Festival Calendar** (History): the Feast of the Moon and Gods' Day.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled, edition:** FRHoF calls him a god in the present tense (research `5etools.md:7`). The wiki's 5e row calls him a quasi-deity and "effectively a mortal" (research `wiki.txt:178`, citing *Descent into Avernus* p.231) and also marks him a former deity (`wiki.txt:43`, citing SCAG pp.21, 23, 27), though the SCAG entry in 5etools states no status. The wiki also has him slain by Cyric in 1358 DR (`wiki.txt:170`). The campaign treats every power as present in 1492 DR and the Tyr, Cyric and Jergal pages keep their gods alive, so this page keeps him a god and gives the death and the quasi-divine status as wiki history.
 > - **Settled, portfolio:** The wiki says Bhaal chose "death" in the knucklebones game (`wiki.txt:163`). SCAG says Bhaal assumed the portfolio of murder (`sources/5etools/book/book-scag.json:2321`), and the Jergal page agrees (`campaign/setting/deities/jergal.md:46`). SCAG outranks the 2e wiki account, so the page gives murder as his portfolio and keeps the knucklebones game as the wiki's older telling.
 > - **Settled, symbol:** The PHB reads "a ring of blood droplets" and the SCAG reads "ring of bloody droplets" (research `5etools.md:17` and `:26`). It is the same symbol, and the page uses the SCAG wording.

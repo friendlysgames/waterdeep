@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Siamorphe, the demigod of nobility and Waterdeep's own power, and the second Deities page to follow the Asmodeus template.
 > - **Where it is used:** Siamorphe never appears in person. Her old temple, her holy symbol and her consecrated mace are the tools the party uses against the Cassalanters, so this page backs every scene in which the party finds her signs in the villa.
 > - **Featured in:** **Cassalanter Villa**, **The Shrine on Aveen Street** (Order of the Gauntlet mission), **Whitehawk** (Order of the Gauntlet rank event), **Sea Maidens Faire** (the Stone's vision shows her sun symbol without naming her).
@@ -40,9 +39,8 @@
 - **The quarrel with Tyr (1384 DR, 4e):** Shortly before the Spellplague, Tyr and Siamorphe, both then living in the House of the Triad, quarreled over a battle between Tethyrian and Calishite forces. She left to make her realm with Sune in Brightwater. Tyr sent Helm to Sune to explain his position, and Sune tried to make peace by proposing a marriage between Tyr and Tymora. Tyr agreed and began courting Tymora (*The Grand History of the Realms* p.159, 4e).
 - **Origin, the line of mortal Siamorphes (2e):** The Divine Right is a semi-divine power that passes to a successor at the successor's dying moment, so that the current Siamorphe is always the latest in a lineage. The new holder is preferably a direct descendant of the last one, though anyone of noble blood will do. In the 13th and 14th centuries the holder was the Lady Siamorphe of Waterdeep, chosen when a riot killed her in 1256 DR. She took the role from a nobleman of Baldur's Gate.
 
-> **[GM]**
+> [!gamemaster]**Using Siamorphe as a Deity**
 >
-> #### Using Siamorphe as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as the patron of the nobility. A sage, a priest or a regular at the bar says she is a demigod who gave nobles the right to rule on the condition that they rule well and for the good of those beneath them. They add that noble houses keep her shrines at home, that her Scions advise the great families and run their ceremonies, and that the Cassalanters are known for their ancestral devotion to her. How commoners judge the nobles' claim is unsourced. [research]
 > - **Waterdeep:** The Major Temples of Waterdeep table in *Dragon Heist*, printed with the North Ward, has no Siamorphe row. No campaign file mentions the wiki's Chapel and Chalice of the Divine Right, the Assumbar family or the Street of the Singing Dolphin. The wiki sets her holy day, the Divine Pageantry, in the Sea Ward and North Ward, and gives the chapel no ward, so the chapel's ward is [research]. Whether the Pageantry is still kept in 1492 DR is also [research]. The one house the sources name as hers is the Cassalanters' villa in the Sea Ward, and what the villa holds of hers is under Secret and GM Notes.
 > - **A cleric PC:** The wiki lists the domains Knowledge, Law, Nobility, Planning and Pride (3e). 5etools has no entry. Order Domain `(derived; Tasha's Cauldron of Everything)` is the best fit, because Law and Nobility point to rule and command, and its Voice of Authority and Order's Demand features suit a noble charged with ruling well. Knowledge Domain `(derived; Heroes of Faerûn)` is the alternative, since Knowledge is one of her listed domains. The Divine Order that fits is Protector `(derived)`, since her teaching charges the powerful with the good of those beneath them. Her 3e favored weapon is Noble Might, a scepter or light mace. The sources place no Scion in play and no temple a PC could join.
@@ -55,9 +53,8 @@
 
 Siamorphe is the demigod of nobility, and her worship is strongest among the noble families of Waterdeep and their counselors. Her faith teaches that the privileges and leisure of rank exist so that a noble can be educated to rule well, for the good of those beneath them, even when duty cuts against personal wishes. Her priests, the Scions of Siamorphe, advise noble houses and conduct their ceremonies, and most of her temples are small shrines kept inside noble homes. The Cassalanters, one of the city's most prominent families, are known for their ancestral devotion to her.
 
-> **[GM]**
+> [!gamemaster]**Secret**
 >
-> #### Secret
 > - **The temple was hers:** The temple beneath Cassalanter Villa was a temple of Siamorphe until Victoro and Ammalia's devil-worship desecrated it, and its great chapel is now dedicated to Asmodeus (*Dragon Heist*).
 > - **The statue:** The thirty-foot statue of Asmodeus in the ceremonial hall was carved from a Siamorphe figure. *Dragon Heist* says the family recast it with stone shape. The original posture was open-armed and welcoming, and the new one has its arms extended in command, with seams at the shoulders and neck where the stone was reworked.
 > - **The devotion above is cover:** The family's public devotion to her sits over the temple (see **Asmodeus**). The villa above still shows her signs, and the ballroom mosaic is unchanged.
@@ -66,9 +63,8 @@ Siamorphe is the demigod of nobility, and her worship is strongest among the nob
 > - **The holy symbol:** A Siamorphe holy symbol, worn or presented, halts the specters and calms the ghost. Caladorn then becomes lucid and hands over his +1 plate armor and the mace. A party without one must fight the specters, which cannot follow into his chamber.
 > - **Who knows (secrecy rule):** Nobody outside the household and the cult knows the family worships Asmodeus before the party finds out. Chaplain Ysolt Brannock of the Order of the Gauntlet consecrates the symbol, says she does not know what it will do, and refuses to discuss what the family worships. Savra Belabranta chose the symbol because Siamorphe was the Cassalanters' ancestral patron, and she suspects that anything of the old faith left in the house will answer it, though she has only suspicion to go on.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Where the party gets the symbol:** At the end of **The Shrine on Aveen Street**, Chaplain Ysolt Brannock gives one consecrated symbol to the party, and the members choose who carries it. It is a brass sun with eight spokes on a leather cord. **Cassalanter Villa** reads it from the party's possessions.
 > - **The fallback:** If that mission has not run, a Whitehawk member gets one from Savra Belabranta once the party holds evidence from **Faction Outposts** or has marked **Cassalanter Register Filed**. A party that took nothing from the Aveen Street cellar gets no symbol from the mission, and Whitehawk is its other source.
 > - **Identifying her:** A DC 12 Intelligence (Religion) check identifies the ballroom floor's sun symbol as Siamorphe's, and the same check identifies the carved symbol in the wine cellar as hers, the god of nobility. A DC 14 Intelligence (History) check on Caladorn's portrait in the entrance hall identifies him as a former Masked Lord and Siamorphe devotee. The detail registers without a check if the party already holds the symbol.
@@ -111,9 +107,8 @@ Siamorphe is the demigod of nobility, and her worship is strongest among the nob
 - **Lathander** (Deities): Victoro's public cover.
 - **Waukeen** (Deities): Waukeentide, the tenday honoring her, is when the Cassalanters hold their public galas.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Chapel against temple:** The wiki's Chapel and Chalice of the Divine Right, in the Assumbar villa on the Street of the Singing Dolphin, is her "only true remaining temple" (2e). *Dragon Heist* puts a temple of hers beneath Cassalanter Villa (`sources/adventure-wdh.json:18563`). No source links the two, and the wiki does not date the chapel's closure. The campaign and the adventure outrank the wiki for the present day. No campaign file mentions the Assumbar family, the chapel or the street, and the Major Temples table (`sources/adventure-wdh.json:30910`) has no Siamorphe row.
 > - **The 1384 quarrel:** The account comes from the wiki's Tyr page. The Tyr page, once drafted, must tell the same story. The wiki also gives her two homes: the House of the Triad (3e) and, after the quarrel, Brightwater with Sune (4e). The Plane field uses 3e.
 > - **Goddess against demigod:** The campaign calls her a goddess (`campaign/structure/arc-g-cassalanter-villa.md:17`; `campaign/locations/cassalanter-villa/11-wine-cellar.md:13`). *Dragon Heist* and the wiki's 5e row call her a demigod (`sources/adventure-wdh.json:18405` and `:20349`). This page uses demigod.

@@ -1,8 +1,7 @@
 # The Gralhund Confrontation — Night
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Social/Combat Event handles the confrontation with Lady Yalah Gralhund during the night path. In this Event:
 >

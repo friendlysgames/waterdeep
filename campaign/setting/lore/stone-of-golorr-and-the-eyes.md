@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** The lore entry for the Stone of Golorr, the aboleth artifact that holds the location of the Vault of Dragons, and for the three Eyes that Dagult Neverember removed to blind it.
 > - **Where it is used:** The GM reads it before a character attunes to the Stone, before the party seats an Eye, and before answering any contact who asks what the Stone needs or who holds an Eye.
 > - **Quests and events:** **Finding Floon** (the locket Eye is pried out of its case), **Fireball!** (Dalakhar carries the Stone, and the party can find the Eyes Letter), **Gralhund Villa** (the party takes the Stone from Yalah Gralhund or from the rooftop chase), **Faction Outposts** (Scene 1, the Stone's first impressions), **Xanathar's Lair**, **Cassalanter Villa** and **Sea Maidens Faire** (one Eye each, and one awakening scene each), **Kolat Towers** (holds no Eye) and **Vault of Dragons** (the Full Awakening and the opening). Faction events: **The Stone's Other Master** (Harpers Mission 6), **The Full Picture** (Force Grey), and **The Water Table Stirs** and **The Dreamer's Reach** (Emerald Enclave).
@@ -122,9 +121,8 @@ The Stone's behavior depends on how many Eyes the party has restored, never on w
 
 The Stone of Golorr is an artifact that an aboleth is said to have forged.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Answering a player who asks what the Stone of Golorr is:** Give the Overview. The party's own evidence, from the Stone itself and from faction debriefs, is the only thing that adds to it.
 > - **Answering a player who asks what an Eye does:** If the party has not attuned to the Stone, no contact can say. After the first attunement, the Stone says that three Eyes were removed and that all three must be seated.
 > - **Counting Eyes:** Count the Eyes restored and ignore the order of the heists. When two are restored, read the sub-case for the Eye that remains. When three are restored, run the Full Awakening in whichever quest delivered the third.
@@ -169,9 +167,8 @@ The Stone of Golorr is an artifact that an aboleth is said to have forged.
 - **The Stone's Other Master**, **The Full Picture**, **The Water Table Stirs** and **The Dreamer's Reach**: the faction events that touch the Stone.
 - **Zhentarim Warehouse**, **Xanathar Sewer Hideout**, **Trollskull Manor**, **Gralhund Villa**, **Cassalanter Villa** and **Sea Maidens Faire** (locations): the sites on the Eyes' trail.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled by the user (Session 51):** The command phrase. The Stone reveals it when the third Eye is seated, in the Full Awakening, as `running-the-villains.md:32`, `arc-f-xanathars-lair.md:276` and `arc-g-cassalanter-villa.md:339` say. `arc-h-sea-maidens-faire.md:408` and `arc-j-vault-of-dragons.md:61` now match. The published adventure opens the vault with three keys and has no phrase (`adventure-wdh.json:14521-14522`), so the phrase is a campaign addition.
 > - **Conflicts:** Where the Eyes were placed. `history/06-the-open-lords-fall.md:88` gives Neverwinter, Renaer's locket and a Brandath crypt, and this page follows it. `arc-j-vault-of-dragons.md:13` says he "scattered" all three Eyes and hid one in a crypt. `arc-e-faction-outposts.md:33` says he "distributed all three Eyes" to a drow arms dealer, agents backed by infernal patrons and the criminal networks below the city, and that he was removed "eleven years ago". That passage matches no other file and is wrong against the campaign. The Alexandrian (`sources/13. Clues and Timelines.pdf` p.98, as `history/06:155` quotes it) agrees with the three placements.
 > - **Conflicts:** Eye #3's route. `arc-a-finding-floon.md:27` sends the locket Eye to Kolat Towers. The quest journal (`finding-floon/ev-03-zhentarim-warehouse.md:83`) and `history/06:156` send it to Xanathar's Guild and then Jarlaxle, and the page follows them. The Alexandrian has Manshoon's cell keep it (`sources/8. The Eyes of the Stone.pdf` p.62 says the Eyes are held by "the Cassalanters, Manshoon, and Xanathar").

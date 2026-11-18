@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the patron entry for Ghaunadaur, called That Which Lurks, an Underdark power touched by the Far Realm and a Great Old One patron for warlock characters. The sources also give it a cult, a cleric domain and a seat in the Dark Seldarine, so the Using box keeps a line each for clerics and paladins. Because it is not a god of the Faerûnian pantheon, the page puts warlock guidance first.
 > - **Where it is used:** Ghaunadaur never appears in the campaign files. It is a choice for a player building a warlock, and the published *Dungeon of the Mad Mage* gives it a statue and a temple on Level 10 and a worshiper cult on Level 19.
 > - **Featured in:** no quest. Undermountain is future work, so the Level 10 and Level 19 material sits in the GM Notes as seeds.
@@ -52,9 +51,8 @@
   - In 1379 DR, tired of Lolth, it left the Demonweb Pits and made a new realm in the Deep Caverns (*The Grand History of the Realms* 4e). The wiki says it broke from the Dark Seldarine after the War of the Spider Queen (*Forgotten Realms Campaign Guide* 4e) and rejoined after the Second Sundering (MTF).
 - **In the campaign:** Ghaunadaur is alive and present in 1492 DR, as every power is. The wiki's account of the break and the return is history, and the Dark Seldarine membership in MTF is the state in force.
 
-> **[GM]**
+> [!gamemaster]**Using Ghaunadaur as a Patron**
 >
-> #### Using Ghaunadaur as a Patron
 > - **The ordinary Waterdhavian's view:** Almost none. A sage can repeat the Overview, and the people likeliest to have heard the name are those who know the tales of Undermountain, where the published adventure places its statue and temples (derived). A speaker who knows the name is more likely to use the epithet than the name, since MTF says uttering the true name risks attracting its attention (derived). No source records a Waterdhavian opinion of it or a rumor about it. [research]
 > - **Waterdeep:** None. The Major Temples of Waterdeep table in *Dragon Heist* lists no temple of Ghaunadaur, and no campaign file or wiki entry on its own page places a shrine or cult in the city. The one Waterdeep line is on the wiki's Eilistraee page, which says she trapped its avatar to protect the city. It describes no cult, and no campaign file uses it. Beneath the city, the published Undermountain has its statue and temples (see GM Notes).
 > - **A warlock PC:** The Great Old One patron (derived; 2024 *Player's Handbook*) fits, and the fit is close. MTF says some stories name it one of the Great Old Ones, the wiki calls it touched by the Far Realm, and the wiki files it under Great Old One patrons. No source gives Ghaunadaur-specific features. It speaks by telepathy in blunt, simple messages, which suits a Great Old One's mind-touching magic (derived). What it wants is sacrifice, above all from victims who offer themselves willingly. What a pact costs is certainty. A reward and a curse are equally likely, a faithful priestess may be eaten while a whisperer finds treasure, and it does not mind if its clerics murder one another to rise.
@@ -68,9 +66,8 @@
 
 Ghaunadaur, called That Which Lurks, is the chaotic evil power of oozes, slimes and outcasts, and its worship is widespread in the Underdark. Its true name is rarely spoken, because uttering it is said to draw its attention, and no temple of it stands in Waterdeep. It may reward a worshiper with power or wealth, and it is equally likely to curse the same worshiper with torments and afflictions. Some tales call it one of the Great Old Ones, and the faithful of Lolth drive its cults into hiding.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Undermountain seeds (published, future work):** The lines below are from `sources/adventure-wdmm.json`. None of them ties Ghaunadaur to a Dragon Heist or campaign character.
 >   - **Level 10, Muiral's Gauntlet, area 9a, The Elder Eye:** The area sits in the God-Watched Gates, rooms that "house shrines dedicated to gods of the drow pantheon" (`:29968`). A 20-foot-diameter hemisphere of magical darkness hides a 12-foot statue that reshapes itself every minute, from a pillar of ooze with eyeless faces to a wave of slime covered with fang-filled mouths (`:29975-29976`). A creature that beholds it must succeed on a DC 14 Wisdom saving throw or gain short-term madness, and a DC 15 Intelligence (Religion) check identifies the statue as Ghaunadaur, "god of oozes, slimes, and all things subterranean" (`:29976-29977`). The locked double door to the south opens for a creature suffering any madness (`:29984`).
 >   - **Level 10, area 17a, Temple of Ghaunadaur:** The text calls Ghaunadaur "a god of subterranean horrors" who "is respected and feared by many Underdark races, including drow" (`:30408`). Green slime covers the walls and hides a secret door, and the altar is a hollow glass block with three psychic gray oozes sealed inside (`:30413-30419`). The temple is one of several in area 17 that are "dedicated to the Dark Seldarine, a pantheon of drow gods under Lolth" (`:30401`).
@@ -101,9 +98,8 @@ Ghaunadaur, called That Which Lurks, is the chaotic evil power of oozes, slimes 
 - **Malar** (Deities): the surface god of the hunt that the wiki lists among its foes.
 - **Bregan D'aerthe** (Organizations): the drow company that rejects Lolth and has no tie to Ghaunadaur.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, domains:** MTF gives War (`sources/research/pass2-bundles/ghaunadaur/5etools.md:3`) and the wiki's 5e row agrees (`wiki.txt:29`). The wiki's 4e row gives Destruction, Earth and Madness (`wiki.txt:43`) and its 3e row gives Cavern, Chaos, Drow, Evil, Hatred and Slime (`wiki.txt:58`). The page lists MTF's War and names the others. The hub row is War (MTF, 2018), Chaotic Evil, War Domain (derived).
 > - **Conflict, plane:** The wiki's 5e row is blank (`wiki.txt:24`), 4e says the Dismal Caverns (`wiki.txt:38`), 3e says the Demonweb Pits (`wiki.txt:53`) and 2e says the Paraelemental Plane of Ooze (`wiki.txt:68`). The text says it left the Demonweb Pits in 1379 DR for the Deep Caverns (`wiki.txt:144`). The page gives [research] for the current edition and lists the older rows. The wiki's category list also places it among the inhabitants of the Swamp of Oblivion (`wiki.txt:176`). The Mad Mage names the Swamp of Oblivion as the source of the Level 19 ooze (`sources/adventure-wdmm.json:51862`) and says the Weeping Eye is not truly part of Ghaunadaur (`:50910`), so the page makes no link.
 > - **Conflict, rank:** The wiki lead calls it a greater god (`wiki.txt:100`), the 4e row says greater, the 2e and 3e rows say lesser (`wiki.txt:50` and `:65`), and the 5e row is blank (`wiki.txt:21`). The page gives the rows and picks none.

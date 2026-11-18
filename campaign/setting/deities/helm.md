@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Helm, god of watchfulness, and the reference for the faith practiced at the Temple of Helm in the Southern Ward.
 > - **Where it is used:** Helm never appears in person. His temple is one of the three temples the Order of the Gauntlet treats as friendly, and it supplies healing, a hospice and briefings to Order members.
 > - **Featured in:** **Trollskull Alley** (the Order's recruitment table) and the Order of the Gauntlet events: **Order of the Gauntlet First Meeting**, **Spined Devils in Twelvedog Court**, **The Tithe**, **Marcheon**, **Whitehawk** and **Righteous Hand**.
@@ -51,9 +50,8 @@
   - His worship never faded. His followers believed the Watcher could not be vanquished, and his return after the Second Sundering proved them right (FRHoF). The wiki dates his reappearance to Nightal 1486 DR, before his Chosen Kleef Kenric (*The Sentinel*, novel). That date falls inside the Sundering, which ended in 1487 DR, and FRHoF's "after the Second Sundering" outranks the wiki, so this page does not adopt the wiki date. Helm is present in 1492 DR.
 - **In the campaign:** Helm is alive and present in 1492 DR. His temple is a working temple, his healers treat the poor, and no file treats him as dead or absent. The duel is history (see Draft Notes).
 
-> **[GM]**
+> [!gamemaster]**Using Helm as a Deity**
 >
-> #### Using Helm as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the god of the guard post. A sage, a priest or a regular at the bar says he is the Watcher, a giant in full plate with his face hidden behind a visor, whose eyes never close. They add that the City Watch, bodyguards and vault guards favor him, that his faithful keep their word to the letter, and that they are hard people who will not bend. The old story they tell is that he held the stairway to the heavens when the gods walked the world and would not let them past. A Watch veteran adds that the Temple of Helm sees to the Watch's poor and their old soldiers. Nobody in this conversation says anything about the Everwatch Knights or a Chosen.
 > - **Waterdeep:** Helm has one temple in the campaign, the Temple of Helm in the Southern Ward.
 >   - The Dragon Heist Major Temples table lists "Helm, Helm's Hall, Southern Ward", and the published adventure wins on temples, so this page follows the table. The Order of the Gauntlet files once put the Temple of Helm in the Castle Ward. The page treats "Helm's Hall" as the published name for the same temple, though no file says so (see Draft Notes).
@@ -70,9 +68,8 @@
 
 Helm is the lawful neutral god of watchfulness and protection. Guards, bodyguards and the City Watch favor him, and Waterdhavians picture him as a towering figure in full plate with his face hidden behind a visor. His priests teach patience, careful planning and keeping one's word, and many people find the faithful inflexible and merciless. The Temple of Helm in the Southern Ward treats the Watch's poor for free.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Recruitment:** Savra Belabranta speaks first to a candidate with a Cleric or Paladin class or an Acolyte, Guard or Soldier background. If none qualifies, she speaks first to a worshiper of Helm, Torm or Tyr, and after that she picks the candidate with the highest Wisdom score. Nobody is tested for class, alignment or faith at the door.
 > - **Chevall benefit:** Savra vouches for a sworn member at any temple of Tyr, Helm or Torm in Waterdeep. Each temple casts *Cure Wounds* on the member once a day and gives a bed for up to three nights in a row. A member can walk between the three temples and take three castings in one day. The healing and the bed are free, and any stronger casting costs the usual temple rate.
 > - **Marcheon briefings:** At Renown 3 the member can ask the door-warden of the Temple of Helm for a briefing, and a priest sees the member the same day. A temple gives one pattern a tenday, and a priest gives patterns and never names. The Temple of Helm's four patterns are watchers standing at doors the Watch never posted, two Field Ward watch-houses shuttered after dark for a tenday, a Trades Ward doorway that someone pays a beggar to watch, and guards hired by the night, in coin, for a warehouse that never needed them. None of the lists names the Cassalanters.
@@ -112,9 +109,8 @@ Helm is the lawful neutral god of watchfulness and protection. Guards, bodyguard
 - **Southern Ward** (Gazetteer): the ward of the Temple of Helm, which Dragon Heist prints as Helm's Hall.
 - **Trollskull Alley** (quest): where the Order's recruitment table names worshipers of Helm.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled by ruling 1, temple ward:** The Dragon Heist table (`sources/adventure-wdh.json:30938-30940`) puts "Helm's Hall" in the Southern Ward. The Order of the Gauntlet files once placed the Temple of Helm in the Castle Ward (`campaign/quests/faction-events/order-of-the-gauntlet/r03-marcheon/ev-01-marcheon.md:201` and `:222`; `00-first-meeting/ev-01-first-meeting.md:192`; `r10-whitehawk/ev-01-whitehawk.md:150`; `s01-the-tithe/ev-01-the-tithe.md:97`; `campaign/guides/gm-guide/player-factions-overview.md:99`). The published adventure wins on temples (ruling 1), so this page uses the Southern Ward. All of those lines, including `00-first-meeting/ev-01-first-meeting.md:192`, now say Southern Ward (rechecked in Session 51). The hub shows the table's ward. The wiki's history notes that the Southern Ward was once called the Temple Ward (`campaign/setting/history/01-ahghairons-gifts.md:59`), which may explain the table, but no source says so.
 > - **Settled, the gazetteer:** The Castle Ward gazetteer does not place a Temple of Helm in the Castle Ward. `campaign/gazetteer/waterdeep/castle-ward.md:165` says it is not a Castle Ward temple, and `:272` records the conflict. The Castle Ward religion list at `:31` names the Temple of the Seldarine, the Spires of the Morning, the Font of Knowledge and the Halls of Justice, with no Helm entry. The gazetteer and this page now agree, and the Southern Ward gazetteer (`southern-ward.md:29` and `:81`) lists Helm's Hall.
 > - **Assumption:** "Helm's Hall" and the "Temple of Helm" are treated as one temple, since the table and the Order files each give Waterdeep a single temple of Helm. No file states that they are the same building.

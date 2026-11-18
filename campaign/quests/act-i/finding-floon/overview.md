@@ -1,8 +1,7 @@
 ﻿# Finding Floon: Finding Floon
 
-> **[GM]**
+> [!gamemaster]**Quest Requirements**
 >
-> #### Quest Requirements
 >
 > This is the campaign's first quest. No prior quests or Event Outcomes required. The party should have completed session zero (character creation, Trollskull Alley as destination established). The quest begins the evening the party arrives in Waterdeep to meet their contact at the Yawning Portal.
 >

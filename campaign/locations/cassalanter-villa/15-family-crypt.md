@@ -1,6 +1,6 @@
 ﻿# A4 / A4a — Family Crypt / Caladorn's Crypt
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
 > This room is **Heist-only**. See A1 — Hall of the Damned for temple access notes.
 

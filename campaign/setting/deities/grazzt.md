@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the patron entry for Graz'zt, the demon prince of pleasure who rules Azzagrat in the Abyss, and a Fiend patron for warlock characters. He is not a god of the Faerûnian pantheon and the sources give him no 5etools domains, so this page replaces the cleric and paladin guidance of a deity page with warlock guidance.
 > - **Where it is used:** Graz'zt never appears in the campaign. He is a choice for a player building a warlock, and one other Deities page names him, the Waukeen page, as the demon who held her prisoner.
 > - **Featured in:** no quest. No campaign file and neither adventure source names him.
@@ -53,9 +52,8 @@
   - On 15 Nightal 1486 DR a failed ritual by Gromph Baenre, meant to summon and bind **Demogorgon**, instead summoned several demon lords in the Underdark. Graz'zt appeared below the Earthfast Mountains near the Master's Library and beat a force of Zhentarim there (*Hero* and *Ashes of the Tyrant*, novels).
   - Elsewhere he was trapped for a time on the world of Oerth by Iggwilv, who used his insight to raise her own power. She fell for his charms, and a son, Iuz, was born of them (*Fiendish Codex I* 3e).
 
-> **[GM]**
+> [!gamemaster]**Using Graz'zt as a Patron**
 >
-> #### Using Graz'zt as a Patron
 > - **The ordinary Waterdhavian's view:** Almost none. A sage can repeat the Overview. A priest of Waukeen would know the imprisonment as part of the goddess's own history, and the heresy about a debt to him is a schism's claim and not common knowledge (derived from the Waukeen page). No source records a Waterdhavian opinion of him or a Waterdhavian rumor about him. [research]
 > - **Waterdeep:** None. The Major Temples of Waterdeep table in *Dragon Heist* lists no temple of Graz'zt, and no campaign file or wiki entry places a shrine, cult or festival of his in the city. The wiki has no line that mentions Waterdeep.
 > - **A warlock PC:** Fiend Patron (derived; 2024 *Player's Handbook*) fits him, and he fits it well because the wiki shows him granting magic to witches and sorcerers in return for his favors. No source gives Graz'zt-specific features. What he wants is a mortal who will serve his schemes on the Material Plane, where his spies already watch (derived from the wiki's accounts of his spies and his bargains). What a pact costs is a service demanded later, after he has traded favors, aid or information first. He can also trap the soul of any being he wishes in a gem, so the signer's afterlife is at his mercy (derived from the wiki's account of his spell).
@@ -87,9 +85,8 @@ Graz'zt is the demon prince of pleasure and excess, called the Dark Prince, and 
 - **Demogorgon** (Deities): the demon prince whose failed summoning in 1486 DR brought Graz'zt to the Underdark.
 - **Ott Steeltoes** (Notable Figures): the one campaign NPC who worships a demon power, Zuggtmoy, and not Graz'zt.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Brief premise checked, no Mad Mage tie:** `adventure-wdmm.json` has no line that names Graz'zt or his realm of Azzagrat, and none names Iggwilv. The three demon-lord lines (Levels 2, 12 and 20) are quoted in Campaign ties and tie to no named prince but Baphomet and Juiblex. The page states no tie to Undermountain. Add one only if the GM Guide invents it.
 > - **Conflict, origin:** The wiki gives an archdevil-turned-demon origin (*Manual of the Planes* 4e; *Mordenkainen's Tome of Foes* 5e) and a Pale Night origin (*Dragon* 360) at lines 186 and 188 of its text, and calls them "competing, often contradictory theories." The page gives each its tag and picks none.
 > - **Conflict, challenge rating:** 24 in 5e against 32 in the wiki's 3e field, with 22 (*Fiendish Codex I*) and 24 (*Book of Vile Darkness*) in the wiki's note. The page lists the 5e figure, since the campaign uses 2024 rules, and records the others.

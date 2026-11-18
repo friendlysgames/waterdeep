@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - This is the in-world frame for the Grand Game, the campaign's name for the competition among Waterdeep's power blocs. It covers what the Game is, how information moves between its players and how the City Watch behaves as a character in it.
 > - Use it when you explain how a faction learned something, when a contact trades gossip and when the party deals with the Watch. The Game is already running when the campaign opens, so the frame applies in every act.
 > - The channels appear wherever the party meets one: Durnan in **Finding Floon** and **Trollskull Alley**, Istrid Horn in **Trollskull Alley** and **Gralhund Villa**, and Barnibus Blastwind in **Fireball!** and **Gralhund Villa**. The Cassalanters' social events appear in **Fireball!** and **Cassalanter Villa**, and the Faire's ships appear in **Sea Maidens Faire**. **The City Watch** lists the Watch's own scenes.
@@ -76,9 +75,8 @@ Waterdhavians use "the Grand Game" as a name for the way the great houses and th
 - **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Cassalanter Villa** and **Sea Maidens Faire**: the quests where the channels appear.
 - **Sea Maidens Faire** (locations): the journal for the ships that front for Bregan D'aerthe.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Unsourced, kept and tagged (brief ruling 13):** The published adventure never uses the term "Grand Game" (searches of `adventure-wdh.json` and `adventure-wdmm.json` found none), so the whole frame is campaign material. These claims keep the old wording with `[research]`: the term's use in "the city's criminal and political underground", "no governing body", "everyone who plays it understands they are playing it", Manshoon's Trades Ward importing company, the Cassalanters' charitable hospital, the Watch's informants in every ward, every faction's informants in the Watch, Jarlaxle's informants in every other faction, dinner parties as intelligence operations, galas as recruitment screens, and Durnan having heard everything, sharing selectively and being cultivated by every faction.
 > - **Partly supported, still tagged:** "Genuinely trying, most of the time" and "politically untouchable" have no source. The trust and code of conduct in `adventure-wdh.json` lines 30514 and 30549 support "trusted" only. Jalester's briefing says the Watch cannot touch the Cassalanters without evidence (`arc-g-cassalanter-villa.md` line 37), which supports "politically untouchable" for that one family. "Susceptible to pressure from above" has the same cases behind it, which `city-watch.md` lines 83-84 list. "More useful than any other Watch contact" has no source.
 > - **Settled by the user (Session 51):** Skeemo. The old line said he compiles all the information. The page now gives the sourced fact instead (`adventure-wdh.json` line 31945), which his Notable Figure page already states (`04-skeemo-weirdbottle.md` lines 22 and 26) and which the Doom Raiders act on in **Silencing Skeemo**.

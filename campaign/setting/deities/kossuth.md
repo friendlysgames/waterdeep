@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Kossuth, the Firelord and god of elemental fire, for players who want a Light cleric, a fire-priest or a devout character with an elemental power, and for a GM who needs a name behind a forge's heat, a cremation or a Thayan wizard's faith.
 > - **Where it is used:** Kossuth never appears in person, and no campaign file or published adventure names him. The page records that Waterdeep gives him no temple, and that the nearest ties are the Red Wizards of Thay in the campaign files and a handful of fire-themed seeds in Undermountain.
 > - **Featured in:** No quest. His name appears only on other Deities pages, as the fire power beside **Akadi**, **Grumbar** and **Istishia** and as the enemy of Istishia. The Red Wizards whom the wiki ties to his worship appear in **The Red Wizard's Price** and **Kolat Towers**.
@@ -55,9 +54,8 @@
   - The 4e *Forgotten Realms Campaign Guide* presents him as a primordial, a being whose power rivaled that of a true deity, and SCAG (5e) lists him as a god again.
 - **In the campaign:** Kossuth is alive and present in 1492 DR, as every power is. SCAG still lists him as a god, and the wiki's 4e account of a primordial is history. Draft Notes records the conflict.
 
-> **[GM]**
+> [!gamemaster]**Using Kossuth as a Deity**
 >
-> #### Using Kossuth as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as a distant power that most people never think about. A sage, a priest or a regular at the bar says he is the Firelord, the god of fire, shown by a flame, and that he is one of the four elemental powers. They add that his church is a stiff hierarchy that cares more for land, power and wealth than for its worshipers, that many of his followers are Red Wizards of Thay, and that his dead are burned. Priests of other gods say he and Istishia are bitter enemies. How Waterdeep feels about his worship, and which of his names the city uses, is unsourced. [research]
 > - **Waterdeep:** Kossuth has no temple, shrine, priest or festival in the city in any source.
 >   - The Dragon Heist Major Temples table has no Kossuth row (`sources/adventure-wdh.json:30921-30996`). The "All deities" row, Holyhands House in the North Ward (`:30923-30925`), is the only listing that could cover him, and no source says his faithful use it.
@@ -97,9 +95,8 @@ Kossuth, the Firelord, is the neutral god of fire and of purification through fi
 - **Esloon Bezant**, **Kaevja Cynavern** (Notable Figures): the two Red Wizards in the campaign files.
 - **The Red Wizard's Price**, **Kolat Towers** (quests): where the two Red Wizards come into play.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **No FRHoF entry:** Heroes of Faerûn has no entry for this god; the page rests on SCAG (2014) and the wiki.
 > - **Conflict, god or primordial:** SCAG prints his title as "God of fire" (bundle `5etools.md:2`) and the wiki's 5e and 3e rows say deity and greater deity (`wiki.txt:18`, `:48`). The wiki's introduction says he was "not considered a true god in the late 15th century DR" but an elemental primordial (`wiki.txt:100`, citing *Forgotten Realms Campaign Guide*, 4e), and its 4e row says primordial (`wiki.txt:33`). The page follows SCAG, gives the primordial account as 4e history and keeps him present in 1492 DR.
 > - **Conflict, domains by edition:** SCAG gives Light only (`5etools.md:4`). The wiki's 3e row gives Destruction, Fire, Renewal, Suffering and Wrath (`wiki.txt:56`). The page gives both and builds the cleric advice on SCAG.

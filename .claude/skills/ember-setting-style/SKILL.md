@@ -129,8 +129,8 @@ Ember separates hidden truth in three strengths. Use the lightest one that fits:
 
 | Strength | Mechanism | Holds |
 |---|---|---|
-| Light | **GM Notes**, a `> **[GM]**` callout headed `#### GM Notes`, after the player-safe prose | Origins, deeper history, how the thing actually works |
-| Strong | A `> **[GM]**` callout headed `#### Secret` | A consequential hidden fact that changes play: a faction's internal fracture, a species' vulnerability. Reserve it: only a handful of pages in the whole setting should have one. |
+| Light | **GM Notes**, a `> [!gamemaster]**GM Notes**` callout, after the player-safe prose | Origins, deeper history, how the thing actually works |
+| Strong | A `> [!gamemaster]**Secret**` callout | A consequential hidden fact that changes play: a faction's internal fracture, a species' vulnerability. Reserve it: only a handful of pages in the whole setting should have one. |
 | Page-level | A spoiler warning at the top (see Section 7) | Pages that are plot-critical throughout: the villains page, the adventure summary |
 
 Phrasing:
@@ -170,7 +170,7 @@ Ember's GM Guide talks to the GM as a colleague.
 
 Ward, district, and settlement entries follow a fixed shape:
 
-1. **GM Summary** (`> **[GM]**`): where it is, which quests and events feature it, which Location Journal maps it. Terse and functional.
+1. **GM Summary** (`> [!gamemaster]**Gamemaster's Summary**`): where it is, which quests and events feature it, which Location Journal maps it. Terse and functional.
 2. **Hook paragraph**: the place's single defining visual or conceptual idea, stated first. *"Brevin is one of the first of a new type of settlement known as 'seed settlements.'"*
 3. **At a Glance**: key-value fragments, fixed order: Type, Size (population range), Primary Peoples, Languages, Religion, Governance, Architecture, Economy, Organizations. No sentences.
 4. **Secret**, if any (Section 6).

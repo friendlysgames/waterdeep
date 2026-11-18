@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Bane, the god of tyranny, and the reference for the one Banite site in the campaign, the tower called Yellowspire in the Castle Ward.
 > - **Where it is used:** Bane never appears in person. His faith in play is Amath Sercent and her four acolytes, who keep Yellowspire as a temple and a relay point for Manshoon's cell of the Zhentarim.
 > - **Featured in:** **Faction Outposts** (Yellowspire), **Kolat Towers** (the Yellowspire teleportation circle), and the Doom Raiders missions **Silencing Skeemo** and **The Yellowspire Job**.
@@ -57,9 +56,8 @@
   - After the Second Sundering the wiki says he remained as a quasi-deity with Myrkul and Bhaal. He could still influence events across Faerûn but was essentially trapped in a mortal form (*Baldur's Gate: Descent into Avernus*, 5e).
 - **In the campaign:** Bane is a living power in 1492 DR. Amath Sercent serves him as a priest, and no file treats him as dead, absent or bound to a mortal body. The Sundering note is history and a conflict that this page does not use (see Draft Notes). The 4e god named Bane is a different god of war from the Nentir Vale (see Draft Notes).
 
-> **[GM]**
+> [!gamemaster]**Using Bane as a Deity**
 >
-> #### Using Bane as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the tyrant god of the Moonsea. A sage, a priest or a regular at the bar says he is the god of tyranny, and that he and Myrkul stole the Tablets of Fate and brought on the Time of Troubles. They add that his priests wear a black gauntlet on one fist, that his church is strongest around the Moonsea, and that his faithful have been hailed as saviors in one land and cursed as tyrants in the next. A Gods' Day regular points out that the bonfire on Mount Waterdeep honors Myrkul, Cyric, Kelemvor, Mystra, Helm and Ao, and leaves him out. Nobody in this conversation links him to a tower in the Castle Ward.
 > - **Waterdeep:** Bane has no public temple, no festival and no city shrine. The one site the campaign ties to him is Yellowspire, and it belongs to Manshoon's cell.
 >   - The Dragon Heist Major Temples table has no row for Bane, the Castle Ward religion list in the gazetteer names none, and the wiki's list of his temples has no Waterdeep entry.
@@ -78,9 +76,8 @@
 
 Bane, the Black Hand, is the lawful evil god of tyranny. Waterdhavians remember him as one of the gods who stole the Tablets of Fate and brought on the Time of Troubles. His faith holds that the strong must rule the weak, and his priests wear a black gauntlet on one fist. Waterdeep has no public temple of Bane, and the Gods' Day bonfire does not name him.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Yellowspire and the Zhentarim split:** Amath is allied with Manshoon's cell, the splinter that peeled off the Doom Raiders' network. The Doom Raiders are the other Zhentarim cell and are at war with it. In **The Yellowspire Job** Davil Starsong sends a Doom Raiders member into the tower to steal a ledger of pass-amulet carriers. Davil tells the member that nobody above him has asked for the job and nobody above him will hear of it.
 > - **What the tower is for:** Tashlyn Yafeera tells the Doom Raiders member that the Banites keep the place as a temple and a post office. For Manshoon's cell it is also a fallback position, and the cellar circle gives a route into Kolat Towers that skips the pass-amulet requirement. A pressure plate in the circle chamber alerts Kolat Towers. **Faction Outposts** runs the tower as a mini-heist, **Silencing Skeemo** ends at its door, and **Kolat Towers** can be entered through its circle.
 > - **Amath Sercent (Lawful Evil, Mulan Human, she/her):** She is a priest of Bane in common clothes, composed and correct. She speaks in courteous, complete sentences, never raises her voice, and treats weakness with controlled contempt. She receives guests as though she were hosting a tea, and the handprints are the only thing in the tower she mentions with warmth. She treats her faith as a settled alignment with Bane, and it predates and outlasts any arrangement with the Zhentarim. If asked, she calls the tower the House of Tyranny and says the neighbors think it a private home, which she prefers.
@@ -125,9 +122,8 @@ Bane, the Black Hand, is the lawful evil god of tyranny. Waterdhavians remember 
 - **Faction Outposts**, **Kolat Towers** (quests): the heist on the tower and the entry through its circle.
 - **The Yellowspire Job**, **Silencing Skeemo** (Doom Raiders missions): the events that visit the tower.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled, Amath's surname:** The published adventure spells it "Sercent" (`sources/adventure-wdh.json:61-62`, `:7635`, `:9133`, `:9741`, `:9748`), and its pronunciation table gives "AH-math SER-sent". The campaign now uses "Sercent" everywhere, including `campaign/setting/notable-figures/manshoons-zhentarim/08-amath-sercent.md`, `castle-ward.md:79` and `09-manshoons-zhentarim.md:30`. This page uses "Sercent".
 > - **Settled, Amath's race:** The published adventure makes her a Mulan human (`sources/adventure-wdh.json:9133`, `:9748`). The campaign now keeps the ethnicity explicit, as "Mulan human" on her Notable Figures page and `09-manshoons-zhentarim.md:30` and "Mulan Human" in the stat lines of `castle-ward.md:79` and `ev-01-the-yellowspire-job.md:219`. This page follows them.
 > - **Conflict, sleeping arrangements:** The published adventure says Amath and her followers "sleep elsewhere" (`sources/adventure-wdh.json:9749`). The campaign has them sleep on cots upstairs (`ev-01-the-yellowspire-job.md:153`). The campaign file wins, so the GM Notes follow it.

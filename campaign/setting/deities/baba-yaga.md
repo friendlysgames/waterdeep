@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the patron entry for Baba Yaga, an archfey and arch-hag, and an Archfey patron for warlock characters. She is not a god of the Faerûnian pantheon and has no domains, so this page replaces the cleric and paladin guidance of a deity page with warlock guidance.
 > - **Where it is used:** Baba Yaga never appears in the campaign. She is a choice for a player building a warlock. No other Deities page written so far names her. The Iggwilv patron page, drafted in the same pass, covers her adoptive daughter.
 > - **Featured in:** no quest. No campaign file and neither adventure source names her or her Dancing Hut.
@@ -53,9 +52,8 @@
 - **Holy days, omens, messengers, temples:** None in the wiki or the campaign. [research]
 - **Origin or rise:** The wiki gives no origin story. Its history section holds only the prophecy and the Rashemen report above.
 
-> **[GM]**
+> [!gamemaster]**Using Baba Yaga as a Patron**
 >
-> #### Using Baba Yaga as a Patron
 > - **The ordinary Waterdhavian's view:** Almost none. A sage can repeat the Overview. A Waterdhavian who has read Volo can add that her hut was once reported near Rashemen, since the wiki credits that report to Volo and Elminster (derived). A bar regular who has heard of her at all knows the folk tales: some say fire cannot kill her, she rides a mortar and pestle, and she will answer a question for a price (derived from the wiki's legends). No source records a Waterdhavian opinion, rumor or festival tied to her. [research]
 > - **Waterdeep:** None. The Major Temples of Waterdeep table in *Dragon Heist* lists no temple of Baba Yaga (`sources/adventure-wdh.json`, caption at line 30910), and no campaign file or wiki entry places a shrine, cult or festival of hers in the city. Fey Day, Ches 19, falls inside the campaign, but the published text names the guises celebrants wear as "Queen Titania, Oberon, and Hyrsam, the Prince of Fools" and does not name her (`sources/adventure-wdh.json:31385`).
 > - **A warlock PC:** Archfey Patron (derived; 2024 *Player's Handbook*) fits her. The wiki names her an archfey twice and files her under its Archfey category, but it has no category of patrons for her and gives no features, pact terms or boons. The pact suits a bargainer whose deals are worded more dangerously than any fey's (derived). What she wants is a secret for a secret, and the wiki's only warning about the price is that she is as likely to eat a follower as to help one. A warlock who wants a sourced patron-sponsor in the same family can use **Iggwilv** (Deities), her adoptive daughter, whom the wiki shows sponsoring warlocks.
@@ -91,9 +89,8 @@ Baba Yaga is the Mother of All Witches, an archfey and arch-hag whose Dancing Hu
 - **Ulkoria Stonemarrow** (Notable Figures): tells the story of the hag at Trollskull Manor.
 - **Volothamp Geddarm** (Notable Figures): the author the wiki credits, with Elminster, for the Rashemen report.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, classification:** The wiki calls her both an archfey and an arch-hag (`baba-yaga/wiki.txt:71` and `:22`) and does not reconcile them. The brief files her as an archfey patron, so the page leads with archfey and keeps arch-hag as the second title.
 > - **Conflict, alignment across editions:** Neutral Evil in 1e and 2e against Evil in 4e (`wiki.txt:49`, `:52`, `:63`), with the 5e field empty (`:66`). The page gives each with its edition.
 > - **Conflict, whether Iggwilv is her "adoptive" or "mortal" daughter:** This wiki page lists Tasha as adoptive (`wiki.txt:42`) and the Iggwilv wiki page says she was adopted by Baba Yaga. The Orcus wiki page, as quoted in `docs/plans/setting-compendium-research-notes/pass2/batch-l-mephistopheles-mammon-orcus-demogorgon-grazzt.md:464`, calls Iggwilv "the mortal daughter of Baba Yaga". `campaign/setting/deities/orcus.md:46` names Iggwilv without a parent. This page uses "adoptive". The Iggwilv page should do the same.

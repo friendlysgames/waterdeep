@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Umberlee, the sea god, and the reference for the faith practiced at the Queenspire, her temple on the Waterdeep waterfront.
 > - **Where it is used:** Umberlee never appears in person. Her temple and its Dread High Priest, Meritide Blackfin, set the deadline in the Force Grey mission **The Dragon in the Harbor**, and her festival fills the last tenday of Ches.
 > - **Featured in:** **The Dragon in the Harbor** (Force Grey Mission 2), the **Junior Griffon** rank event (Meritide's grudge), and the Fleetswake and Fair Seas Festival entries in the festival calendar. Fleetswake is also the window for **Sea Maidens Faire** reconnaissance, but no quest file names Umberlee there.
@@ -60,9 +59,8 @@
   - In the 1490s DR she empowered Gar Shatterkeel as her Chosen and gave him the trident called the Wave, with which he opened a rift to the Elemental Plane of Water off Turmish (*Locathah Rising*). No campaign file mentions it.
 - **In the campaign:** Umberlee is alive and present in 1492 DR, as every power is. FRHoF describes her in the present tense, and the Queenspire is a working temple. The 3e, 2e and 4e homes and the Spellplague account are history, and Draft Notes records the difference.
 
-> **[GM]**
+> [!gamemaster]**Using Umberlee as a Deity**
 >
-> #### Using Umberlee as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as a queen who has to be paid. A sage, a priest or a regular at the bar says Umberlee is the Queen of the Depths and the Wavemother, the god of the sea, whose symbol is a wave curling left and right. They say sailors fear her more than they love her, that crews throw gems and coin overboard to calm a storm, and that she can be generous to anyone who honors her. In Waterdeep they point to the Queenspire on the beach by the east entrance to the Great Harbor, and to the Fair Seas Festival at the end of Fleetswake, when guards go from tavern to tavern collecting offerings and the coin is dumped in the harbor at sunset. A regular tells the story of the thieves who stole from the collection and tried to leave the city by ship. A squall rose as soon as their ship cleared the harbor, and a huge wave shaped like a hand swept them overboard and spared the ship and its crew. Some sailors call her the Bitch Queen, which SCAG gives as her most common name, but whether Waterdhavians say it in front of her priests is unsourced. [research]
 > - **Waterdeep:** Umberlee has one temple in the city, the Queenspire, and the Dragon Heist text places it on the beach and names no ward.
 >   - The Major Temples of Waterdeep table lists "Umberlee, The Queenspire, Beach" (`sources/adventure-wdh.json:30993-30995`). The Fleetswake entry calls it "her temple on the beach by the east entrance to the Great Harbor" (`sources/adventure-wdh.json:31394`). The wiki describes a temple complex fronting the harbor, largely staffed by seafarers' widows (*City of Splendors: Waterdeep*; SCAG, 2014).
@@ -81,9 +79,8 @@
 
 Umberlee is the chaotic evil god of the sea, called the Queen of the Depths and the Wavemother. Sailors and coastal folk worship her out of fear, and crews throw gems and coin overboard to calm a storm. In Waterdeep her temple is the Queenspire, on the beach by the east entrance to the harbor. Fleetswake ends with the Fair Seas Festival, when the city sinks its collected offerings in the deepest part of the harbor.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **The mission:** **The Dragon in the Harbor** becomes available when a Force Grey member reaches Renown 3 and 3rd level (`campaign/quests/faction-events/force-grey/m02-the-dragon-in-the-harbor/overview.md:5`). On Ches 21 to 30 a locathah messenger brings the party to the Queenspire, where Meritide Blackfin gives them 48 hours to find whoever is stealing Umberlee's offerings. On any other date Vajra Safahr's *Sending* opens the mission, and Meritide meets the party at the harbor quay (`overview.md:17`).
 > - **Meritide Blackfin:** A Chaotic Evil Darfellan, he/him, and the Dread High Priest of the Queenspire. He is formal, cold and tired, speaks slowly because he dislikes repeating himself, and does not threaten the party. He wants the offerings back and the thief named, in that order, and he refuses to discuss the goddess's moods, the Queenspire's rites or the temple's wealth (`ev-01-the-dragon-in-the-harbor.md:43-53`). His warning about the deadline is "The Queen of the Depths calls a wave into the harbor, and I will not stand between her and the docks. Find the thief before then, and I may not have to." (`ev-01-the-dragon-in-the-harbor.md:65`)
 > - **What was taken:** Captains and churches leave silver cups, casks of boat-race coin and sealed candles at the deep moorings. Zelifarn, a young bronze dragon, found them unguarded and carried them to his cave under an elvish wreck forty feet down, believing they had been abandoned. The cave holds fourteen silver cups, three split casks of boat-race coin, six jars of sealed candles and a ship's bell, worth about 400 gp in coin and silver (`ev-01-the-dragon-in-the-harbor.md:280`).> - **Umberlee does not act:** Umberlee does nothing on screen in the mission, and the only risk is Meritide's grudge (`ev-01-the-dragon-in-the-harbor.md:21`). No wave comes into the harbor.
@@ -119,9 +116,8 @@ Umberlee is the chaotic evil god of the sea, called the Queen of the Depths and 
 - **Timekeeping and the Festival Calendar** (History): Fleetswake and the Fair Seas Festival.
 - **The Dragon in the Harbor**, **Junior Griffon**, **Sea Maidens Faire** (quests): where the Queenspire and the festival come into play.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, title and gender:** FRHoF prints "God of the sea" and "the furious sea god" (`sources/research/pass2-bundles/umberlee/5etools.md:3` and `:7`), SCAG prints "Goddess of the sea" (`5etools.md:23` and `:28`), and the wiki gender field is Feminine (`wiki.txt:34`). The page uses FRHoF's title and the pronoun "she", which both FRHoF's text and the wiki use. Other Deities pages that call her "goddess" (`selune.md:42`, `sune.md:53`) need no change.
 > - **Conflict, name of the group:** FRHoF's Talos entry writes "the gods of fury" (`sources/research/pass2-bundles/talos/5etools.md:8`) and the page uses "Gods of Fury", as `talos.md` and `malar.md:32` do. The wiki's Umberlee page uses both forms: the infobox and caption read "Gods of Fury" (`wiki.txt:15`), and the body heading and text read "Deities of Fury" (`wiki.txt:173-175`). The brief and the Auril and Umberlee research note use "Deities of Fury".
 > - **Settled by the user (Session 51), Auril's retreat:** The wiki's Auril page says Umberlee, Talos and Malar forced Auril to retreat to the Sea of Moving Ice (`docs/plans/setting-compendium-research-notes/pass2/batch-e-umberlee-auril-akadi-grumbar-istishia-kossuth.md:341`, citing *Icewind Dale: Rime of the Frostmaiden* p.274). The wiki's Talos page says Talos and Umberlee forced her to retreat to Icewind Dale in the late 1480s DR (`campaign/setting/deities/talos.md:67`, citing p.275). Both are one event, so the page says she was forced back to the Sea of Moving Ice, beside Icewind Dale, in the late 1480s DR. The Umberlee wiki page does not tell the episode.

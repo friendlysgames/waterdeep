@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Jergal, the Final Scribe, who keeps the records of the dead, and the reference for a character who wants to serve him.
 > - **Where it is used:** Jergal never appears in person, and no campaign file names him. He matters to the Deities journal because he is the old god of death who now serves Kelemvor, and because a gravekeeper or a record-minded cleric may choose him.
 > - **Featured in:** No quest, event or Notable Figure uses this power. Kelemvor's page mentions him as the keeper of the records of the dead.
@@ -50,9 +49,8 @@
   - The video game *Baldur's Gate III*, set in 1492 DR, has his avatar Withers wake in a temple on the Sword Coast that had lain abandoned for over a century. He aids a party of adventurers for a small fee, and afterward he dismisses Bane, Bhaal and Myrkul as vermin who would trouble the Realms no more. This is a video-game event and not a campaign event. It does not change the status of Bane, Bhaal or Myrkul in this campaign, where all three are present in 1492 DR.
 - **In the campaign:** Jergal is present in 1492 DR as a scribe of the dead who serves Kelemvor. The wiki's Withers account places his avatar on the Sword Coast, not in Waterdeep, and no campaign file uses it. It is history here, as the Draft Notes say.
 
-> **[GM]**
+> [!gamemaster]**Using Jergal as a Deity**
 >
-> #### Using Jergal as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as a half-forgotten clerk of death. A sage or a priest says he is the old god of the dead who now only writes down who has died, that Kelemvor judges while Jergal keeps the book, and that he is cold about the work. A regular at the bar has most likely never heard of him. Undertakers and gravekeepers know him best, and some of them name him at a funeral. Whether Waterdeep's own burial trade follows the parchment custom is unsourced. [research]
 > - **Waterdeep:** Jergal has no temple and no shrine in the campaign files or the published adventure.
 >   - The Dragon Heist Major Temples table (`sources/adventure-wdh.json:30910-30997`) has no Jergal row, and a search of the adventure text for his name finds nothing. The word "Seneschal" at line 31832 is a city office, Seneschal of Castle Waterdeep, and has no link to him.
@@ -84,9 +82,8 @@ Jergal is the Final Scribe, the lawful neutral god who keeps the records of the 
 - **Malar** (Deities): the Beastlord who arrives late in the Legend of Knucklebones.
 - **Deneir** (Deities): the god of records whose temples welcome his priests.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **No FRHoF entry:** Heroes of Faerûn has no entry for this god; the page rests on SCAG (2014) and the wiki.
 > - **SCAG-only path:** FRHoF has no Jergal entry, so Title, Other Names, Domains, Symbol and Alignment come from the SCAG (2014), and Plane and Typical Followers come from the wiki, tagged by edition. The SCAG prose for the typical followers is the undertaker line. The wiki adds monks, necromancers and paladins (3e).
 > - **Brief versus the sources:** The brief describes the merge of Jergal, Myrkul and Bane into the "Dead Three" and then into Kelemvor's portfolio. The SCAG and the wiki say something else. Jergal's portfolio of death, murder and strife was split among Bane, Bhaal and Myrkul, whom the wiki calls the Dark Three, and Jergal stayed on as a scribe and seneschal. Kelemvor follows as the later god of the dead, and no source merges Jergal into his portfolio. The wiki's Baldur's Gate III passage uses "Dead Three" for the same trio. This page follows the sources.

@@ -1,8 +1,7 @@
 # The Front Door
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Social Event covers the front-door approach to Gralhund Villa during the day. In this Event:
 >

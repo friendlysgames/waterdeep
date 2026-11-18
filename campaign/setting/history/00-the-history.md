@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this is:** The hub of the History journal. It lists the eight Era pages and the calendar page in order, with the span each page states and what it sets up for play.
 > - **Where it is used:** The GM opens it to find the page that answers a history question, such as where a faction came from, who held the city before Laeral Silverhand, or what date it is.
 > - **Featured in:** Every quest, through the pages it lists. **Finding Floon** starts where **The Players Arrive** ends, on the evening of Ches 1.
@@ -12,9 +11,8 @@
 
 **Purpose:** Lets the GM find the right history page quickly and shows how each era leads into the next, so that every villain's present position can be traced to something that happened earlier.
 
-> **[GM]**
+> [!gamemaster]**Lore Summary**
 >
-> #### Lore Summary
 > - The journal has eight Era pages and one calendar page. The eras are told by theme and overlap in time, so each page gives its own span in Dale Reckoning years.
 > - It begins with Ahghairon's government in 1032 DR and ends on the evening of Ches 1, 1492 DR, when the party reaches the Yawning Portal.
 > - Three of the four villain factions came to Waterdeep from elsewhere. Xanathar's Guild rose from Skullport, Bregan D'aerthe came by way of Menzoberranzan and Luskan, and the Zhentarim came from Zhentil Keep.
