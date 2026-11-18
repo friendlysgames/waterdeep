@@ -1,3 +1,5 @@
+> **ABANDONED (Session 51):** the user ruled that the setting journal holds lore only and that mechanics stay in the guides, so the move to `setting/faction-operations/` was reverted. Do not execute this brief.
+
 # Factions Guide move: binding brief (Session 51)
 
 Read docs/plans/factions-move-spec.md first (research, comparison with the pilot, per-page section maps, inbound references). The move was decided in Session 47 (docs/plans/setting-compendium-pilot-findings.md:20). The finished pilot campaign/setting/faction-operations/10-cassalanters.md is the model for every page.
@@ -20,3 +22,7 @@ Ember voice; GM text is plain and procedural. Run python3 .claude/skills/ember-v
 
 ## Do not
 Do not delete or edit any guide page; the main session deletes them after verifying. Do not edit quest journals, structure docs, or other pages' links; another pass retargets inbound references.
+
+## Retargeting rules (step 2)
+The ten faction pages and the hub now live in campaign/setting/faction-operations/ (00-faction-operations, 01-harpers, 02-lords-alliance, 03-emerald-enclave, 04-order-of-the-gauntlet, 05-force-grey, 06-doom-raiders, 07-bregan-daerthe, 08-xanathars-guild, 09-manshoons-zhentarim, 10-cassalanters). The Factions Guide pages (campaign/guides/factions/01-overview.md to 11-cassalanters.md) are about to be deleted. Mapping: guide 01-overview -> 00-faction-operations; 02-harpers -> 01-harpers; 03 -> 02; 04 -> 03; 05 -> 04; 06 -> 05; 07 -> 06; 08 -> 07; 09 -> 08; 10 -> 09; 11 -> 10.
+Rules: (1) A path or file citation `campaign/guides/factions/NN-x.md` becomes `campaign/setting/faction-operations/MM-x.md`. (2) A citation with a line number (`:55`) must be re-pointed to the same text in the new page: open the new page, find the quoted or described text, and use its new line (the body is offset by 11 lines on most pages, 13 on Bregan D'aerthe; check, do not assume). (3) The words "Factions Guide", "Factions guide", "faction guide", "Factions guide overview" or "the **Factions** guide" in prose become "Faction Operations" (bold when the surrounding text bolds page names), e.g. "the Harpers page in the Factions Guide" becomes "the Harpers page in Faction Operations"; "the Factions Guide overview" becomes the **Faction Operations** hub. (4) Leave quoted historical text in research notes, handoffs and docs/ alone; edit only live campaign pages. (5) Do not edit campaign/guides/factions/ or campaign/setting/faction-operations/. (6) Minimal edits; where a sentence says the page "will move" or "is in the Factions Guide", rewrite it so it is true after the move.

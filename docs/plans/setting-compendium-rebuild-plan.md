@@ -31,7 +31,7 @@ The user wants the whole compendium rebuilt on the **Ember Setting Compendium mo
 | `setting/the-grand-game/` | The Grand Game (in-world frame, information flow, the Watch); What Each Faction Knows at Start |
 | `setting/villains/` | the 4 existing files, reshaped in place |
 | `setting/organizations/` | 10 Ember-style lore pages, one per faction |
-| `setting/faction-operations/` | 10 GM-only companion pages: renown & ranks, missions, outposts, response teams, escalation, revelation list |
+| ~~`setting/faction-operations/`~~ | Superseded in Session 51: the setting journal holds lore only, and faction mechanics stay in the Factions Guide (`campaign/guides/factions/`). |
 | `setting/notable-figures/` | 122 two-part pages in the existing 15 group folders |
 
 Folder names carry no numeric prefix. The existing folders are unprefixed and CLAUDE.md, the skills and the viewer reference them. Wards live in a separate gazetteer because Ember keeps region pages light and puts district detail in its own journal. Faction operations get their own journal so Foundry can gate it at journal level instead of page by page.

@@ -1,3 +1,5 @@
+> **ABANDONED (Session 51):** the move this spec plans was reverted; the Factions Guide stays at `campaign/guides/factions/` and the setting journal is lore only.
+
 # Factions Guide move: research report for the move spec
 
 Repo root: /home/user/waterdeep. Paths below are relative to it (absolute form = `/home/user/waterdeep/` + path).
