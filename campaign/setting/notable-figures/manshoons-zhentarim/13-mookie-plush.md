@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Lightfoot halfling adept, lawful evil*. Stat block: **Adept**.
+> - *Lightfoot halfling adept, lawful evil, he/him*. Stat block: **Adept**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Kolat Towers**
 

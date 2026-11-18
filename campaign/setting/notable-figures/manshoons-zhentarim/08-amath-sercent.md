@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Mulan human priest of Bane, lawful evil*. Stat block: **Priest**.
+> - *Mulan human priest of Bane, lawful evil, she/her*. Stat block: **Priest**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Faction Outposts**; **The Yellowspire Job**
 

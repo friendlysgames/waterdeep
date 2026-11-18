@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Chondathan human priest of Oghma, neutral good*. Stat block: **Priest**.
+> - *Chondathan human priest of Oghma, neutral good, he/him*. Stat block: **Priest**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** Background figure; no scripted appearance.
 

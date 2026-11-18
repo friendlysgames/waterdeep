@@ -58,7 +58,7 @@ Only six pages carried pronouns before this pass. The rest keep their summary li
 | `xanathars-guild/01-xanathar.md` | "it" throughout (lines 12-30) | A beholder written as "it" on purpose. One "her" at line 26 is Laeral. A grep of `campaign/` finds "Xanathar" within a sentence of he/his/him in 71 lines across 53 files. Most are other speakers, and I did not audit them. |
 | `xanathars-guild/04-nihiloor.md` | "it/its" throughout, one "he" at line 23 | Mixed. Line 23 reads "In **Destroy the Intellect Factory** he always escapes". Change to "it" or settle he/him. |
 | `trollskull-community/04-fala-lefaliir.md` | they/them stated at line 25 | The summary line has no pronouns. One "he" at line 21 is another character. Add "they/them" to the summary on the next pass. |
-| `harpers/07-corvin-nessa-vayle.md` | Corvin he/him, Nessa she/her | Two people on one page, so a single summary pronoun does not fit. Line 21 uses "his answer" for Corvin and "she" for Nessa. |
+| `harpers/07-corvin-vayle.md`, `harpers/08-nessa-vayle.md` | Corvin he/him, Nessa she/her | The twins have one page each since the split, and each summary line carries its own pronouns. |
 | `bregan-daerthe/12-vessa.md` | she/her, with "it" and "they" at lines 11 and 23 | Likely the doppelganger's changed forms. Check before adding she/her. |
 
 Pages that look mixed in a raw count but are not: Margo Verida, Elzerina and Ammalia Cassalanter, Senna Vael, Tashlyn Yafeera, Vajra Safahr, Bonnie, Laraelra Elra Harsard, Kalain, Gondafrey and the Orond/Hrabbaz pair. Their opposite pronouns refer to a second person (Jarlaxle, Victoro, Davil, Yalah and the like). `trollskull-community/11-lif.md` is he/him with "it" for the poltergeist, and its "her" is the portrait's subject.

@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Duergar (first response team leader), lawful evil*. Stat block: **Duergar**.
+> - *Duergar (first response team leader), lawful evil, he/him*. Stat block: **Duergar**.
 > - **Affiliation:** Xanathar's Guild
 > - **Featured in:** **Faction Outposts**, **Xanathar's Lair**
 

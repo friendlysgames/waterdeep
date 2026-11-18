@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Tiefling priest (Xanathar's Guild), neutral evil*. Stat block: **Priest**.
+> - *Tiefling priest (Xanathar's Guild), neutral evil, he/him*. Stat block: **Priest**.
 > - **Affiliation:** Xanathar's Guild
 > - **Featured in:** **Faction Outposts**, **Xanathar's Lair**
 

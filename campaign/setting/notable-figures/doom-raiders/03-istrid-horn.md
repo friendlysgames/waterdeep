@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Shield dwarf moneylender, lawful evil*. Stat block: **Veteran**.
+> - *Shield dwarf moneylender, lawful evil, she/her*. Stat block: **Veteran**.
 > - **Affiliation:** Zhentarim (Doom Raiders)
 > - **Featured in:** **Trollskull Alley**, **Gralhund Villa**
 

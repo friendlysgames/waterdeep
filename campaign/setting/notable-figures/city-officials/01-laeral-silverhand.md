@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Moon elf archmage, chaotic good*. Stat block: **Archmage**.
+> - *Moon elf archmage, chaotic good, she/her*. Stat block: **Archmage**.
 > - **Affiliation:** City of Waterdeep
 > - **Featured in:** **Fireball!**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**, **The Red Wizard's Price**, **Fentree's Ledger**, **An Audience with the Open Lord**, **Escalation to the Open Lord**, **Warduke**, **Lioncrown**, **Force Grey Mission 2 — The Dragon in the Harbor**, **Force Grey Mission 6 — Smoke in the Tower**
 

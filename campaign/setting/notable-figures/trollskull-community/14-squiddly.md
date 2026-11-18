@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Tiefling street urchin, neutral good*. Stat block: **Commoner**.
+> - *Tiefling street urchin, neutral good, he/him*. Stat block: **Commoner**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** Background figure; no scripted appearance.
 

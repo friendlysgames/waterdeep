@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Chondathan human rogue, true neutral*. Stat block: **Spy**.
+> - *Chondathan human rogue, true neutral, he/him*. Stat block: **Spy**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** Background figure; no scripted appearance.
 

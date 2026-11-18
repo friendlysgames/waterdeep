@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Calishite human veteran, lawful evil*. Stat block: **Veteran**.
+> - *Calishite human veteran, lawful evil, she/her*. Stat block: **Veteran**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Faction Outposts**, **Kolat Towers**
 

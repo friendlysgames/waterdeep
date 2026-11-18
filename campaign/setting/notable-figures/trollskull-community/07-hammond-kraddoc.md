@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Illuskan human guild representative, neutral*. Stat block: **Commoner**.
+> - *Illuskan human guild representative, neutral, he/him*. Stat block: **Commoner**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** **Trollskull Alley**, **Fireball!**, **Trollskull Manor**
 

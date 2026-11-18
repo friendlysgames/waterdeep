@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Water genasi armorsmith, neutral good*. Stat block: **Priest**.
+> - *Water genasi armorsmith, neutral good, he/him*. Stat block: **Priest**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** **Trollskull Alley**, **Fireball!**
 

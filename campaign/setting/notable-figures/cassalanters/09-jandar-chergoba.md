@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Tiefling cult fanatic (Asmodeus), lawful evil*. Stat block: **Cult Fanatic**.
+> - *Tiefling cult fanatic (Asmodeus), lawful evil, he/him*. Stat block: **Cult Fanatic**.
 > - **Affiliation:** The Cassalanters (cult)
 > - **Featured in:** Cassalanter Villa, Cassalanter Villa (location)
 

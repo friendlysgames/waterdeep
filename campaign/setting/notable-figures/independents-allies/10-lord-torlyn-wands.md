@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Illuskan human wizard, chaotic good*. Stat block: **Mage**.
+> - *Illuskan human wizard, chaotic good, he/him*. Stat block: **Mage**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** Background figure; no scripted appearance.
 

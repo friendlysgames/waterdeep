@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Drow spy (Bregan D'aerthe field observer), neutral*. Stat block: **Spy**.
+> - *Drow spy (Bregan D'aerthe field observer), neutral, she/her*. Stat block: **Spy**.
 > - **Affiliation:** Bregan D'aerthe
 > - **Featured in:** **Finding Floon**, **Trollskull Alley**
 

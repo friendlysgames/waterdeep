@@ -131,7 +131,7 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 
 ---
 
-### Malcolm Brizzenbright
+### Malkolm Brizzenbright
 *The Seven Masks' fussy founding ghost, outraged about everything and desperate to be heard.*
 
 - **Sound:** A reedy, theatrical, hollow voice with an actor-manager's diction, and a hiss when someone projects poorly.

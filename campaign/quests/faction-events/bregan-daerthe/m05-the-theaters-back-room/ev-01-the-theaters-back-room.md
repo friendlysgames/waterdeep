@@ -139,7 +139,7 @@ The showcase opens its doors at eight bells, and the lobby fills with Faire fans
 >
 > > "Finally, someone who greets the house like a person! You'll want to know about the woman in the grey hat, my darling. She bought a ticket and hasn't looked at the stage once, which is the rudest thing a patron can do. She stood by the doors for ten minutes counting the exits. She's got a book she hasn't opened. I've seen her type before, and they're never here for the music."
 >
-> Malcolm does not know who she works for or what she wants. He says "my stage" at least once, complains about the new management by his second sentence, and tells anyone who asks that "Rongquan Mystere" is not who he claims. If asked about the Faire, he says the new management talks about nothing else and he knows nothing more.
+> Malkolm does not know who she works for or what she wants. He says "my stage" at least once, complains about the new management by his second sentence, and tells anyone who asks that "Rongquan Mystere" is not who he claims. If asked about the Faire, he says the new management talks about nothing else and he knows nothing more.
 
 ### Four Ways to Keep Her Off Brimel
 

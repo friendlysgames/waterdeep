@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Bronze dragonborn priest of Gond, neutral*. Stat block: **Priest**.
+> - *Bronze dragonborn priest of Gond, neutral, she/her*. Stat block: **Priest**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** **Fireball!**, **House of Inspired Hands**
 

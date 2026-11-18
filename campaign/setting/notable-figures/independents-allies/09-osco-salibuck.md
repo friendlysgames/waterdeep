@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Lightfoot halfling rogue, chaotic good*. Stat block: **Rogue**.
+> - *Lightfoot halfling rogue, chaotic good, he/him*. Stat block: **Rogue**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** Background figure; no scripted appearance.
 

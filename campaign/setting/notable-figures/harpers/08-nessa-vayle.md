@@ -1,16 +1,16 @@
-# Corvin & Nessa Vayle
+# Nessa Vayle
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Illuskan human twins, chaotic neutral*. Stat block: **Commoners**.
-> - **Affiliation:** Harpers (Corvin, covertly; Nessa unaffiliated)
+> - *Illuskan human twin, chaotic neutral, she/her*. Stat block: **Commoner**.
+> - **Affiliation:** Unaffiliated
 > - **Featured in:** Background figure; no scripted appearance.
 
 ## Roleplaying Information
 
-**Resonance.** The Vayles should inspire amusement with their sibling dynamic (they bicker constantly but function as a single efficient unit); and useful surprise when Corvin's courier role makes the tavern a minor Harper waypoint.
+**Resonance.** The Vayles should inspire amusement with their sibling dynamic (they bicker constantly but function as a single efficient unit).
 
-**Emotions.** The Vayles most often feel competitive affection for each other, casual professionalism, Corvin's private focus when a message needs to pass, and Nessa's practiced incuriosity about what Corvin sometimes does.
+**Emotions.** The Vayles most often feel competitive affection for each other, casual professionalism, and Nessa's practiced incuriosity about what Corvin sometimes does.
 
 **Motivations.** The Vayles want to work somewhere interesting enough to stay at, maintain the arrangement that lets them operate as a unit, and pass whatever Corvin needs to pass without Nessa having to know about it.
 
@@ -22,7 +22,7 @@
 
 **Morale.** In a fight, the Vayles grab each other and run. They are not paid enough for that.
 
-**Relationships.** Corvin and Nessa Vayle are a package hire for the tavern staff, a minor Harper waypoint through Corvin's courier role, and Trollskull Manor server candidates detailed in the **Trollskull Manor** guide.
+**Relationships.** Corvin and Nessa Vayle are a package hire for the tavern staff, a minor Harper waypoint through Corvin's courier role, and Trollskull Manor server candidates detailed in the **Trollskull Manor** guide. Her twin brother is **Corvin Vayle**.
 
 ## Overview
 

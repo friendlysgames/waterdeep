@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Dwarf engineer (secret Harper), neutral good*. Stat block: **Spy**.
+> - *Dwarf engineer (secret Harper), neutral good, he/him*. Stat block: **Spy**.
 > - **Affiliation:** Xanathar's Guild (secretly Harpers)
 > - **Featured in:** **Faction Outposts**, **Xanathar's Lair**
 

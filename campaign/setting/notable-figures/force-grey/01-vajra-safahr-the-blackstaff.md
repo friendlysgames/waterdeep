@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Tethyrian human archmage, lawful neutral*. Stat block: **Archmage**.
+> - *Tethyrian human archmage, lawful neutral, she/her*. Stat block: **Archmage**.
 > - **Affiliation:** Force Grey (Blackstaff of Waterdeep)
 > - **Featured in:** **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**, **Consulting Hlam**, **The Dragon in the Harbor**, **The Trouble with Meloon**, **Destroy the Intellect Factory**, **The Legate's Eyes**, **Smoke in the Tower**, **The Sleeping Asset**
 

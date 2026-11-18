@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Illuskan human street urchin, neutral good*. Stat block: **Commoner**.
+> - *Illuskan human street urchin, neutral good, she/her*. Stat block: **Commoner**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** Background figure; no scripted appearance.
 

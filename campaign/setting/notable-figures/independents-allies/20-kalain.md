@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Half-elf painter, chaotic neutral*. Stat block: **Performer (with modifications)**: Advantage on saving throws against the Charmed condition, magic can't put her to sleep, Darkvision 60 ft., Common and Elvish, and the Art Imitates Life action.
+> - *Half-elf painter, chaotic neutral, she/her*. Stat block: **Performer (with modifications)**: Advantage on saving throws against the Charmed condition, magic can't put her to sleep, Darkvision 60 ft., Common and Elvish, and the Art Imitates Life action.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** **Fireball!**, **Vault of Dragons**
 >

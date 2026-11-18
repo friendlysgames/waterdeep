@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Half-elf mage, neutral good*. Stat block: **Mage**.
+> - *Half-elf mage, neutral good, she/her*. Stat block: **Mage**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** Background figure; no scripted appearance.
 

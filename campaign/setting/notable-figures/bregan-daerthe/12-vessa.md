@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Doppelganger, neutral*. Stat block: **Doppelganger**.
+> - *Doppelganger, neutral, she/her*. Stat block: **Doppelganger**.
 > - **Affiliation:** Bregan D'aerthe
 > - **Featured in:** **Cassalanter Villa**, **Sea Maidens Faire**
 

@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Illuskan human retired sergeant, lawful good*. Stat block: **Warrior Veteran**.
+> - *Illuskan human retired sergeant, lawful good, he/him*. Stat block: **Warrior Veteran**.
 > - **Affiliation:** City of Waterdeep
 > - **Featured in:** **Fireball!**, **Gralhund Villa**, **A Friend's House**, **The Archer Above**, **Stingblade**, **Savra's Past**
 >

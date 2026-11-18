@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Tethyrian human (chain devil), lawful evil*. Stat block: **Chain Devil**.
+> - *Tethyrian human (chain devil), lawful evil, he/him*. Stat block: **Chain Devil**.
 > - **Affiliation:** The Cassalanters
 > - **Featured in:** Cassalanter Villa, Cassalanter Villa (location)
 

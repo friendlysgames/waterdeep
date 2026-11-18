@@ -79,7 +79,7 @@ Full mission write-ups are in the **Faction Events** quest journals.
 - **Harpers** organization page (lore): who the Harpers are, operations, key members, Grand Game agenda
 - [Harpers Faction Events](../../quests/faction-events/harpers/) — six missions (The Talking Mare through The Stone's Other Master), first meeting, standalone events, rank-up events
 - **Factions** guide overview: all player factions, renown system, conflicting loyalties
-- Notable Figures: **Mirt**, **Remallia "Remi" Haventree**, **Mattrim "Threestrings" Mereg**, **Bonnie**, **Corene Wyldath**, **Variel Duskwhisper**, **Corvin & Nessa Vayle**, **Maxeene**
+- Notable Figures: **Mirt**, **Remallia "Remi" Haventree**, **Mattrim "Threestrings" Mereg**, **Bonnie**, **Corene Wyldath**, **Variel Duskwhisper**, **Corvin Vayle**, **Nessa Vayle**, **Maxeene**
 - First Meeting: [Harpers First Meeting](../../quests/faction-events/harpers/00-first-meeting/ev-01-first-meeting.md)
 - Standalone events: [The Cell Is Compromised](../../quests/faction-events/harpers/s01-the-cell-is-compromised/ev-01-the-cell-is-compromised.md)
 - Rank events: [Harpshadow](../../quests/faction-events/harpers/r03-harpshadow/ev-01-harpshadow.md) (Renown 3), [Brightcandle](../../quests/faction-events/harpers/r10-brightcandle/ev-01-brightcandle.md) (Renown 10), [Wise Owl](../../quests/faction-events/harpers/r25-wise-owl/ev-01-wise-owl.md) (Renown 25), [High Harper](../../quests/faction-events/harpers/r50-high-harper/ev-01-high-harper.md) (Renown 50)

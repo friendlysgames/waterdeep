@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Tethyrian human noble, neutral*. Stat block: **Noble**.
+> - *Tethyrian human noble, neutral, she/her*. Stat block: **Noble**.
 > - **Affiliation:** City of Waterdeep (Masked Lord)
 > - **Featured in:** **Kolat Towers**, **A Friend's House**
 

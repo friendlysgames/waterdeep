@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Shield dwarf majordomo, lawful evil*. Stat block: **Thug (with modifications)**.
+> - *Shield dwarf majordomo, lawful evil, he/him*. Stat block: **Thug (with modifications)**.
 > - **Affiliation:** Xanathar's Guild
 > - **Featured in:** **Faction Outposts**, **Xanathar's Lair**, **Vault of Dragons**, **The Compromised Eye**, **The Dive**, **Force Grey Mission 4 — Destroy the Intellect Factory**
 

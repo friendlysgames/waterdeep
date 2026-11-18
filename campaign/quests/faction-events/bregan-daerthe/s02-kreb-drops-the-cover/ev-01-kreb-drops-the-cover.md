@@ -127,7 +127,7 @@ Fel'rekt keeps the crossbow pointed at the floor until the weapon is lowered, th
 
 > [!qna]**What about the ghost?**
 >
-> > That's Malcolm, the founder. He's dead and furious, and he's moved the prop table four times since breakfast. He knows exactly what I am and calls the lot of us the new management, like it's an insult. If you ever talk to him, be polite, because he tells people things when they're polite.
+> > That's Malkolm, the founder. He's dead and furious, and he's moved the prop table four times since breakfast. He knows exactly what I am and calls the lot of us the new management, like it's an insult. If you ever talk to him, be polite, because he tells people things when they're polite.
 
 > [!social]**The Lieutenant Who Plans**
 >

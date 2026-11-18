@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Wood elf bard (Harper courier), neutral good*. Stat block: **Performer**.
+> - *Wood elf bard (Harper courier), neutral good, he/him*. Stat block: **Performer**.
 > - **Affiliation:** Harpers
 > - **Featured in:** Background figure; no scripted appearance.
 

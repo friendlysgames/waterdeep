@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Mind flayer, lawful evil*. Stat block: **Mind Flayer**.
+> - *Mind flayer, lawful evil, it/its*. Stat block: **Mind Flayer**.
 > - **Affiliation:** Xanathar's Guild
 > - **Featured in:** **Finding Floon**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **The Trouble with Meloon**, **Destroy the Intellect Factory**
 
@@ -20,7 +20,7 @@
 
 **Persona.** To the world, Nihiloor is Xanathar's mind flayer operative. To Xanathar, it is a trusted mind flayer operative with a status no other Guild member holds. Deep down, Nihiloor has psionically dominated Xanathar for the last four months, and Xanathar does not know. It breeds intellect devourers, sets them loose in the sewers, and uses them to occupy Waterdavians, who walk the city with their own brains intact and a devourer steering them. Its methods leave little behind for PCs to question. Meloon Wardragon and Watch clerk Orvyn Dall are among its current hosts.
 
-**Morale.** In a fight, Nihiloor would use Dominate Monster on the most dangerous combatant, command its intellect devourers to attack, and retreat when threatened. In **Destroy the Intellect Factory** he always escapes toward the rest of the lair and is never killed there. It caresses an intellect devourer like a pet as it glides away.
+**Morale.** In a fight, Nihiloor would use Dominate Monster on the most dangerous combatant, command its intellect devourers to attack, and retreat when threatened. In **Destroy the Intellect Factory** it always escapes toward the rest of the lair and is never killed there. It caresses an intellect devourer like a pet as it glides away.
 
 **Relationships.** Nihiloor is the intelligence and infiltration specialist of Xanathar's Guild, the creator of the intellect devourer that occupies Meloon Wardragon, and a mind flayer that has dominated Xanathar's mind for the last four months in a Guild where even a hint of that would get anyone else disintegrated.
 

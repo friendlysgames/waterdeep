@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Tethyrian human child, lawful good*. Stat block: **Commoner (child)**.
+> - *Tethyrian human child, lawful good, he/him*. Stat block: **Commoner (child)**.
 > - **Affiliation:** The Cassalanters (non-cultist)
 > - **Featured in:** Trollskull Alley, Cassalanter Villa, Cassalanter Villa (location)
 

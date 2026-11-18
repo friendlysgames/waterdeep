@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Tiefling spy (Doom Raiders plant), neutral*. Stat block: **Spy**.
+> - *Tiefling spy (Doom Raiders plant), neutral, she/her*. Stat block: **Spy**.
 > - **Affiliation:** Zhentarim (Doom Raiders)
 > - **Featured in:** Background figure; no scripted appearance.
 
