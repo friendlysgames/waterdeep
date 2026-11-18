@@ -1,0 +1,106 @@
+# The Harpers
+
+> Structuring draft.
+
+> [!gamemaster]**Gamemaster's Summary**
+>
+> - **Page type:** GM-only operations page for a player faction. It holds the faction's Grand Game stance, quest hooks, First Meeting summary, renown and ranks, and missions. The faction's lore lives on the **Harpers** organization page.
+> - **Campaign role:** Player faction; the Harpers distrust any single hand holding the vault gold, ask for the Stone of Golorr and leak intelligence to the Splinter without knowing it.
+> - **Used in play:** When a character joins the Harpers, earns Renown, takes a rank or receives a mission. Between sessions, when the GM checks what the Harpers share and what they ask for.
+> - **Featured in:** **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Vault of Dragons**, **Harpers Faction Events**
+
+**Purpose:** Lets the GM run the Harpers as a faction the party joins: what they share, what they ask for, how a member earns Renown and what each mission and rank delivers.
+
+For who the Harpers are, see the **Harpers** organization page.
+
+## Grand Game Stance
+
+The Harpers have watched the Cassalanters for years and found nothing — which is itself suspicious. No noble family is this clean, this charitable, this free of political enemies. Mirt has been building a dossier for two years and has not broken the surface. Their overriding concern is the concentration of power in any single hand — including the Lords' Alliance, Force Grey, or the party itself. They want the vault gold dispersed too broadly for any faction to consolidate, the Stone of Golorr delivered to Harper custody for study, and whatever is dreaming below the city left undisturbed.
+
+**What the Harpers share proactively:**
+- Mirt's accumulated suspicions about the Cassalanters: years of surveillance, a charity whose recipients don't survive scrutiny, a household that has never had a scandal (after Mission 3, if the party seems likely to encounter them)
+- That the Waterdeep Harper network has been infiltrated by double-agents working for the other half of the Black Network (after Mission 4, if the party has met Davil)
+- Advance warning when a villain faction names a Harper member a priority target (Wise Owl, Renown 25)
+
+**What the Harpers ask for:**
+- Regular intelligence updates on what the villain factions are doing
+- The Stone of Golorr, or at minimum three days' access to study it (Mission 6)
+- That the vault gold not be given to any one faction or individual
+
+The Splinter's infiltration of the Waterdeep cell creates complications organically. The Harpers know only that the Black Network has split and that the Splinter acts on Harper information. Anything the party shares with Harper contacts can reach the Splinter, which rewards paranoid operational security.
+
+> [!warning]**Infiltration Risk**
+> The Splinter has planted at least one double-agent in the Waterdeep Harper cell, exposed during **The Sleeping Asset**. Intelligence the party discloses to Harper contacts before that mission may reach the Splinter. Track what has been shared and when, because foreknowledge of Harper-held information is among the Splinter's most effective advantages. The Harpers do not know that the Splinter is Manshoon's cell and answers to Kolat Towers. That is GM knowledge, and no Harper contact names him.
+
+## Quest Hooks
+
+| Quest | Harper Hook |
+|-----|-------------|
+| **Fireball!** | Mirt quietly tells a Harper character that he suspects Cassalanter money stood behind the Howling Hatred cult about a year ago, and that he wants proof. Their sudden interest in the Grand Game worries him. |
+| **Gralhund Villa** | A Harper agent was in the crowd near Gralhund Villa. If the party doesn't report in, Mirt asks directly what they were doing there. |
+| **Faction Outposts** | Harper informants can be activated against Xanathar and Splinter outposts (Wise Owl, Renown 25). One informant inside the Sea Maidens Faire reports Jarlaxle has been asking about the party. |
+| **Xanathar's Lair** | Mirt wants Nihiloor dead — the mind flayer's intellect devourers have touched three Harper assets. He offers tactical support for the Xanathar lair heist if the party commits to eliminating Nihiloor. Nihiloor always escapes, so the support rests on a real attempt, not a kill. |
+| **Cassalanter Villa** | Mirt has assembled years of anomalies: charity whose recipients cannot be verified, Watch inquiries that closed without findings, finances that do not add up. He shares the dossier if the party agrees to bring him whatever physical evidence they find below the villa — original documents, anything that answers his question. The question he cannot let go. |
+| **Vault of Dragons** | Mission 6 triggers here. The Stone has woken something, and Mirt wants three days with it before it opens the vault. |
+
+## First Meeting
+
+A paper bird delivers one theater ticket to each invited candidate for Lightsinger Theater, a request to meet in Private Box C at intermission, and a direction to a Delzorin Street tailor who has already been told to expect them. Mirt watches the first act before introducing himself, assessing who speaks first and who watches the exits. At intermission, he explains the Harpers plainly and presses a silver harp-and-crescent pin into the hand of each candidate who accepts, before they have finished answering. His parting words — *"I am almost never home"* — are warm and immediately final.
+
+The full scene is the **Harpers First Meeting** event.
+
+## Renown & Ranks
+
+### Earning Renown
+
+Harper Renown reflects how much Mirt trusts each member with the Harpers' real work, measured in the quality of intelligence delivered, in moral clarity when it costs something, and ultimately in what happens to the Stone of Golorr.
+
+- **Feed credible intelligence to Mirt (+1).** Report actionable information about a Grand Game faction's current position, assets, or plans. One award per faction per act; vague tips don't qualify.
+- **Expose a Splinter double-agent (+1).** Identify and confirm the identity of a Splinter agent embedded in the Harpers or an allied organization. Reporting a name Mirt can act on is sufficient.
+- **Protect a civilian from faction crossfire (+1).** Directly intervene to prevent a non-combatant from being harmed as collateral damage during Grand Game operations. Applies once per significant incident.
+- **Identify the Cassalanters as diabolists and report it (+2).** A character who independently uncovers this and reports it to Mirt demonstrates exactly the field intelligence work the Harpers prize.
+- **Recover or deliver the Stone of Golorr to the Harpers (+3).** The single highest-value act a Harper operative can perform short of ending the Grand Game.
+- **Refuse to act against civilians on faction orders (+1).** A character who declines a mission that would require harming innocents — and explains why — earns quiet respect. The Harpers value moral clarity alongside operational effectiveness.
+
+### Harper Ranks & Benefits
+
+| Renown | Rank | Benefits |
+|--------|------|----------|
+| 1 | **Watcher** | Recognized Harper. Other members are Friendly by default. Silver harp-and-crescent pin. Access to the Harper safe house in the North Ward, kept by an intermediary. |
+| 3 | **Harpshadow** | Mirt answers one direct question per tenday about faction activity or Waterdeep politics, drawing on the Harper intelligence network. Safe house contacts in the Dock Ward, Trades Ward, and Castle Ward share street-level intelligence on any faction you ask about — known agents, movement patterns, recent activity. Each contact refreshes once per tenday. |
+| 10 | **Brightcandle** | Requisition one *potion of healing* or *spell scroll* (cantrip or 1st-level spell) per mission from Harper stores. Call in one Harper field agent (use **Spy** stat block) as backup once per quest. A Harper mentor teaches one *persona*: a false identity with a cover name, documentation, appropriate clothes, and two Harper contacts who will vouch for the story in person. |
+| 25 | **Wise Owl** | Mirt arranges a private audience with Laeral Silverhand if the matter is urgent. Harpers provide cover for one sensitive operation per quest: forged documents, coordinated distractions, or witnesses who saw nothing. Harper informants embedded in Xanathar's Guild, Sea Maidens Faire, and the Splinter can be activated for one specific intelligence request each per quest (DC 13 Charisma check; failure means the informant is unavailable for two tendays). A second *persona* is learned. When any villain faction designates a character as a priority target, Mirt's network detects it and passes warning within 24 hours. |
+| 50 | **High Harper** | Full access to Harper intelligence archives for the North. May request a team of three Harper agents for one operation. Mirt personally accompanies the party on one mission of their choosing. Mirt reveals that he is a Masked Lord of Waterdeep — if the party has not already worked it out — and can be asked to act in that capacity once (one request, one use). May request a covert Harper extraction from anywhere in the city, or ask the High Harpers to formally expose one villain faction's activities to the Open Lord. A third *persona* is learned. |
+
+## Missions
+
+| Level | Mission | Summary | Renown |
+|-------|---------|---------|--------|
+| 2nd | **The Talking Mare** | Find Maxeene, a talking draft mare on a Dock Ward hire stand, and learn what she overheard. A Splinter watcher is trailing her too. | +2 |
+| 3rd | **The Dead Drop** | Rescue bookseller Uza Solizeph's shop and her cat Fillipa from a stray gazer that followed the cat inside. Behind her shelves the members uncover a compromised Harper dead drop. | +2 |
+| 4th | **The Doppelganger Auditions** | Harper agent Mattrim Mereg wants to recruit a crew of five doppelgangers. Interview them and report which you would trust. One of them is selling the Harpers out, and only their leader Bonnie is recruited. | +3 |
+| 5th | **A Friend's House** | Attend a society party at House Ulbrinter and identify the drow spy who has infiltrated the guest list. The suspect turns out to be someone remarkable. | +3 |
+| 6th | **The Sleeping Asset** | Find and rescue Harper informant Corene Wyldath, missing three weeks from her post inside Xanathar's Dock Ward operation. An intellect devourer rides her. The members also expose the mole in the Harper records. | +4 |
+| 7th | **The Stone's Other Master** | After Kolat Towers and before the Vault opens, Mirt requests three days with the Stone of Golorr; a Harper seer detected an abolethic resonance waking below the city when the Stone was activated. A Splinter squad attacks during the handover. | +4 |
+
+Full mission write-ups are in the **Faction Events** quest journals.
+
+**Tone:** Procedural and exact, with numbers and triggers stated plainly. No lore on this page and no player-facing text.
+
+---
+
+## Source References
+
+- the retired Factions Guide page `02-harpers.md` (moved here verbatim): every section below the lead-in sentence, with the relative links converted to bold names and the "Factions guide overview" cross-reference retargeted to **Faction Operations**
+- `campaign/setting/organizations/01-harpers.md`: the "Featured in" line and the lore the summary points to
+- `campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md`, `campaign/quests/faction-events/harpers/`: the quest journals checked for the "Featured in" line; the quests after Gralhund Villa are listed from the Quest Hooks table, as they have no journals yet
+
+## Cross-References
+
+- **Harpers** organization page (lore): who the Harpers are, operations, key members, Grand Game agenda
+- **Harpers Faction Events** — six missions (The Talking Mare through The Stone's Other Master), first meeting, standalone events, rank-up events
+- **Faction Operations**: all player factions, renown system, conflicting loyalties
+- Notable Figures: **Mirt**, **Remallia "Remi" Haventree**, **Mattrim "Threestrings" Mereg**, **Bonnie**, **Corene Wyldath**, **Variel Duskwhisper**, **Corvin & Nessa Vayle**, **Maxeene**
+- First Meeting: **Harpers First Meeting**
+- Standalone events: **The Cell Is Compromised**
+- Rank events: **Harpshadow** (Renown 3), **Brightcandle** (Renown 10), **Wise Owl** (Renown 25), **High Harper** (Renown 50)
