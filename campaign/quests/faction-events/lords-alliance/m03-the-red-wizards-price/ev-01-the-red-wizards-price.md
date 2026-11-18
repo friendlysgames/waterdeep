@@ -36,7 +36,7 @@ For a member who has **Manshoon Named** marked, Jalester says "Manshoon's cell" 
 
 > [!social]**The Man Who Will Not Sit**
 >
-> Jalester Silvermane (Lawful Good, Cormyrean Human, he/him) :: the Alliance's field agent, here in person at midday and short of time.
+> Jalester Silvermane (Lawful Good, Chondathan Human, he/him) :: the Alliance's field agent, here in person at midday and short of time.
 >
 > Jalester stands inside the door with his notebook open and does not take the chair he is offered. He is courteous and brisk, and he writes down every answer the members give him. Each time the talk eases he asks one question more specific than it needs, such as which door the party means to use. He says "Understood." when he accepts an answer.
 >

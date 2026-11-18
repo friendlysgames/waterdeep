@@ -63,7 +63,7 @@ The wiki gives Castle Waterdeep a garrison of 1,400 City Guard in 1372 DR (wiki;
 
 **Vajra Safahr** (Neutral, Tethyrian Human, she/her) is the Blackstaff and, by the published adventure, the head of the Watchful Order. She commands **Force Grey**, which takes on the threats that the Watch and the Guard cannot or should not touch. Only the Open Lord can strip her of her title.
 
-**Jalester Silvermane** (Lawful Good, Cormyrean Human, he/him) is a Lords' Alliance field agent who reports to Laeral and carries a badge of the Watch. He reads the Watch's file ledger each tenday, and his briefings in the **Cassalanter Villa** and **Kolat Towers** structure documents cover Watch patrol schedules and Watch coverage.
+**Jalester Silvermane** (Lawful Good, Chondathan Human, he/him) is a Lords' Alliance field agent who reports to Laeral and carries a badge of the Watch. He reads the Watch's file ledger each tenday, and his briefings in the **Cassalanter Villa** and **Kolat Towers** structure documents cover Watch patrol schedules and Watch coverage.
 
 **Lady Gondafrey** (Lawful Good, Gargoyle, she/her) served in the City Watch before Duhlark Kolat captured her in 1379 DR and fused her form with a gargoyle's. Her Notable Figures page makes her a captain, and she keeps fragments of her memories and her sense of duty. Kolat Towers holds her prisoner.
 

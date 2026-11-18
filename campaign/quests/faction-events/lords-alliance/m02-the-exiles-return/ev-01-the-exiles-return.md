@@ -46,7 +46,7 @@ The glover's shop is closed, its lower door is unlocked and a narrow stair leads
 
 > [!social]**The Agent in the Upper Room**
 >
-> Jalester Silvermane (Lawful Good, Cormyrean Human, he/him) :: A lean Lords' Alliance field agent who has chosen a room with shutters for an order he does not enjoy giving.
+> Jalester Silvermane (Lawful Good, Chondathan Human, he/him) :: A lean Lords' Alliance field agent who has chosen a room with shutters for an order he does not enjoy giving.
 >
 > Jalester is courteous and tenser than usual, and he does not sit. He gives the order exactly as it was given to him, explains his reasons once and writes down each answer in the notebook. He thanks the members formally and says "Understood." when he accepts an answer, and he swears at nobody tonight.
 >

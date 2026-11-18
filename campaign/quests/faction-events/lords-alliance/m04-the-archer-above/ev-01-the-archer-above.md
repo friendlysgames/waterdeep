@@ -45,7 +45,7 @@ Jalester waits at the corner table beside the well at dusk on the first evening 
 
 > [!social]**The Agent at the Well**
 >
-> Jalester Silvermane (Lawful Good, Cormyrean Human, he/him) :: the Alliance's field agent, here at his table by the well with a map and a deadline.
+> Jalester Silvermane (Lawful Good, Chondathan Human, he/him) :: the Alliance's field agent, here at his table by the well with a map and a deadline.
 >
 > Jalester is Friendly and a little tired, and he writes down every answer in his notebook. He asks one question more specific than the talk needs, such as which roofs a member has climbed. He says "Understood." when he accepts an answer, and he thanks each member formally for coming.
 >

@@ -231,7 +231,7 @@ Vajra tells the members that Jalester Silvermane will want the two Guild names, 
 
 > [!social]**The Alliance Agent**
 >
-> Jalester Silvermane (Lawful Good, Cormyrean Human, he/him) :: a lean, thinning-haired field agent in a dark doublet who asks one question more specific than the conversation needs.
+> Jalester Silvermane (Lawful Good, Chondathan Human, he/him) :: a lean, thinning-haired field agent in a dark doublet who asks one question more specific than the conversation needs.
 >
 > Jalester thanks the members for the names and writes both down, and he will have two Alliance watchers follow the pair. He will not discuss the Open Lord's business.
 

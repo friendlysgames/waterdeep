@@ -64,9 +64,6 @@
 - Lords' Alliance membership is the latest of Jarlaxle's schemes in the published adventure, and Luskan's unsavory reputation has thwarted every earlier attempt. The Alliance's current leaders have voiced their opposition, and a few have declared that Luskan will never be welcome. He aims to persuade Laeral to champion the city, even if it costs the Alliance other members. The campaign makes this his main aim in Waterdeep (see **Jarlaxle Baenre** in Villains).
 - He also wants to oust Neverwinter and its lord, Dagult Neverember, from the Alliance. The published adventure calls Neverember his fiercest political opponent.
 
-> *I rate the long supper I took on the south bank three tankards, and the walk to the gate afterward four daggers, on account of the two very polite sailors who accompanied me. Luskan's captains dislike being called pirates in front of their own crews, and they dislike it a good deal more when the word comes from a guest at their table (I had taken it for a compliment, heaven help me). Say "captain," dear reader, and keep every other opinion for the road home.*
-> *~Volo*
-
 ### The Road to Waterdeep
 
 - The Sea Maidens Faire already exists as one of Jarlaxle's legitimate business enterprises. It is a traveling carnival based in Luskan that tours the Sword Coast in three ships, the *Eyecatcher*, the *Heartbreaker* and the *Hellraiser*, under Captain Zardoz Zord. Zord is Jarlaxle in the magical guise of an Illuskan human.
@@ -147,7 +144,6 @@ Bregan D'aerthe is a drow mercenary company that began in the Underdark city of 
 > - **Research:** Other Names. "Those of the broken house" has no source. No in-world name for the era is sourced.
 > - **Research:** "The third son" is from the Jarlaxle NPC Guide docx (lines 51 and 62). The wiki calls Doquaio the second-oldest son (`Jarlaxle_Baenre.txt` line 96) and has Jarlaxle slated for sacrifice by birth order, which implies at least the third. The page keeps "third".
 > - **Research:** "Most reliable intelligence network", and Jarlaxle turning disposability into leverage as a founding act. The wiki's Personality section supports only the sense.
-> - **Research:** Volo's aside (the optional `~Volo` quote in Luskan). Keep it or cut it at the prose pass. It holds no secret. Confirm that Volo may have visited Luskan. The wiki cites his guide to the North for the city.
 > - **Research:** Yvonnel, Doquaio and Gromph Baenre, Arathis Hune, Beniago and Kimmuriel Oblodra are wiki names with no campaign page. The wiki lists Kimmuriel as co-leader and by 1463 DR as the band's widely understood leader. The campaign has Jarlaxle as sole leader, so the body leaves Kimmuriel out.
 > - **Default kept:** Kimmuriel Oblodra stays omitted from the body (`Bregan_D_aerthe.txt` lines 9, 109 and 119 make him co-leader and the "widely understood leader" by 1463 DR). Adding him would contradict the campaign's single-leader company, and no campaign page uses him.
 > - **Research:** Zaknafein's raid and the Calimport base have no campaign use and are kept only because the old block asked for the company's early rise.

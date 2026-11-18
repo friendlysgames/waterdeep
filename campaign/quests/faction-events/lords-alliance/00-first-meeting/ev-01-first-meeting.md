@@ -103,7 +103,7 @@ Jalester writes down whatever answer he gets, says "Understood." and goes on, be
 
 > [!social]**The Agent**
 >
-> Jalester Silvermane (Lawful Good, Cormyrean Human, he/him) :: A lean, courteous Lords' Alliance field agent in a dark doublet, who writes in a small notebook while he listens and seems always a little on duty.
+> Jalester Silvermane (Lawful Good, Chondathan Human, he/him) :: A lean, courteous Lords' Alliance field agent in a dark doublet, who writes in a small notebook while he listens and seems always a little on duty.
 >
 > Jalester is Friendly and a little tired. He asks short, specific questions, gives concise answers and thanks people formally for small favors. Each time the talk eases he asks one question more specific than the conversation needs, such as which door or what hour. He says "Understood." when he accepts an answer and "One more detail, if you don't mind." when he wants another. He swears rarely, and only at himself.
 >

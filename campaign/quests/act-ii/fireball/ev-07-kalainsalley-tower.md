@@ -8,7 +8,7 @@
 >
 > - Kalain is paranoid and fragmented — she believes every visitor is Neverember's assassin.
 > - Two Persuasion checks gate the conversation's depth; a failed first check animates hostile paintings.
-> - Kalain's small paintings animate as fetch-helpers; her monster paintings animate against intruders.
+> - Kalain's small paintings animate as fetch-helpers; she uses Art Imitates Life on her monster paintings against intruders.
 > - She reveals Victoro Cassalanter's recent visit — the first concrete Cassalanter-to-vault link.
 > - Lord Dagult's lockbox contains four items that together constitute some of the most valuable intelligence in the campaign.
 >
@@ -22,11 +22,11 @@ A dilapidated tower near the harbor — once notable, now overlooked. Kalain is 
 
 **Roleplaying Kalain:** She believes everyone who visits is secretly Dagult's assassin. She loses conversational threads mid-sentence and resurfaces on something different. She rubs her cheek with increasing agitation as she grows distressed. She is not dangerous by default — only if the party handles her badly.
 
-Her paintings are alive in two senses. The smaller, older paintings — sleeping cats, bowls of fruit, quiet landscapes — animate figures as fetch-helpers for minor errands. She calls them into service without comment, as if this is simply what paintings are for. The newer paintings, stacked against the walls and turned mostly face-inward, are all monsters. They all wear the same face.
+Her paintings are alive in two senses. The smaller, older paintings — sleeping cats, bowls of fruit, quiet landscapes — animate figures as fetch-helpers for minor errands. She calls them into service without comment, as if this is simply what paintings are for. The fetch-helpers are separate from Art Imitates Life and do not use its daily uses. The newer paintings, stacked against the walls and turned mostly face-inward, are all monsters. They all wear the same face.
 
 **DC 14 Charisma (Persuasion) on arrival:** Kalain accepts that the party is not Dagult's agents. She settles slightly — still fragmented, but no longer at the edge. Conversation is possible.
 
-**On a failure:** She calls one of the monster paintings to defend her. Medium animated figure; use Animated Armor stat block with 40 hit points and no Antimagic Susceptibility. She can be talked down from the combat with DC 12 Charisma (Persuasion) at the start of each of her turns; success causes the painting to become still and Kalain to apologize in a disconnected way.
+**On a failure:** She uses Art Imitates Life on one of the monster paintings to defend her. The creature is a Medium animated figure; use the Animated Armor stat block with 40 hit points and no Antimagic Susceptibility. Kalain uses the Bard stat block on her Notable Figures page and casts her spells from behind the creature. She can be talked down from the combat with DC 12 Charisma (Persuasion) at the start of each of her turns; success causes the creature to vanish, the painting to stay blank, and Kalain to apologize in a disconnected way.
 
 ### Conversation with Kalain
 

@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Cormyrean human spy, lawful good*. Stat block: **Spy**.
+> - *Chondathan human spy, lawful good*. Stat block: **Spy**.
 > - **Affiliation:** Lords' Alliance
 > - **Featured in:** **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**, **Lords' Alliance First Meeting**, **The Long Watch**, **The Exile's Return**, **The Red Wizard's Price**, **The Archer Above**, **Fentree's Ledger**, **An Audience with the Open Lord**, **Suspension and Dismissal**, **Escalation to the Open Lord**, **Redknife**, **Stingblade**, **Warduke**, **Lioncrown**, **The Sleeping Asset**, **The Stone's Other Master**, **The Doppelganger Problem**, **Force Grey Mission 5 — The Legate's Eyes**
 
@@ -18,7 +18,7 @@
 
 ## Character Information
 
-**Persona.** To the world, Jalester is a lean, thinning-haired field agent in a dark doublet who asks questions more specific than casual conversation warrants. To those he trusts, he is direct, disciplined, and quietly grieving a lover named Faerrel Dunblade who died exposing a plot against the government. Deep down, he is lonely and looking for love, but he does not know how to stop working long enough to find it.
+**Persona.** To the world, Jalester is a lean, thinning-haired Cormyte field agent in a dark doublet who asks questions more specific than casual conversation warrants. To those he trusts, he is direct, disciplined, and quietly grieving a lover named Faerrel Dunblade who died exposing a plot against the government. Deep down, he is lonely and looking for love, but he does not know how to stop working long enough to find it.
 
 **Morale.** In a fight, Jalester would fight with spy's precision: controlled, efficient, no wasted movement. He notes competence gaps privately and does not discipline anyone informally. A member who fails him is dealt with through **Suspension and Dismissal**.
 
