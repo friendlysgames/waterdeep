@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Deneir, god of writing, and the reference for what the sources say about his faith in Waterdeep.
 > - **Where it is used:** Deneir never appears in person, and no quest, faction or Notable Figure uses him. He is here for character building and for the scribes, sages and teachers the party meets in the city.
 > - **Featured in:** No quest. The Castle Ward gazetteer names him once, in a list of faiths the wiki gives for the city.
@@ -50,9 +49,8 @@
   - By 1489 DR he had been revived and was worshiped by many (*Sword Coast Adventurer's Guide*, 5e). The 1489 DR date is the SCAG's and is kept as a sourced date. The Sundering itself ended in 1487 DR.
 - **In the campaign:** Deneir is alive and present in 1492 DR, and no file treats him as dead or absent. The Spellplague account is history, settled by the Sundering canon (see Draft Notes).
 
-> **[GM]**
+> [!gamemaster]**Using Deneir as a Deity**
 >
-> #### Using Deneir as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the god of everyone who writes things down. A sage, a priest or a regular at the bar says Deneir is the First Scribe, the god of writing and of pictures that tell the truth, shown by a lit candle above an open eye. They say a clerk or a letter-writer murmurs a prayer to him to avoid mistakes, and that a painter does the same before starting an illuminated manuscript. They add that his priests will teach you to read for nothing and will write your letter if you ask, and that the stories about him make him sound forgetful and a little out of date. The Dragon Heist city text says "no city in the world is as literate as Waterdeep" and credits Oghma's priests with the free reading lessons, so a Waterdhavian is more likely to name Oghma than Deneir when talking about learning to read. No source records how Waterdhavians talk about Deneir, so this voicing draws on the FRHoF, SCAG and the Dragon Heist text. [research]
 > - **Waterdeep:** Deneir has no temple or shrine in the campaign files, and none in the published adventure.
 >   - The Dragon Heist Major Temples table has no row for him (`sources/adventure-wdh.json:30910`), and a search of the adventure text for his name finds nothing.
@@ -95,9 +93,8 @@ Deneir is the god of writing, known as the First Scribe, a neutral good power wh
 - **The Harpers** (Organizations): listed among his worshipers in the wiki's 2e row; no campaign file ties them to him.
 - **Castle Ward** (Gazetteer): the ward of the Font of Knowledge and the Castle Ward religion line that names him.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled by ruling, Deneir's fate:** The wiki says he wrote himself into the Weave during the Spellplague and passed out of known existence (`wiki.txt:162`, citing *The Ghost King*), and also that he was revived and worshiped by many by 1489 DR (`wiki.txt:166`, citing SCAG). The Second Sundering ended in 1487 DR with Mystra and the Weave restored, and every Spellplague-era loss is undone by 1492 DR. Deneir is alive and present in 1492 DR. The page keeps the Spellplague account as tagged history and keeps 1489 DR as the SCAG's date, not the end of the Sundering.
 > - **Conflict, plane:** The FRHoF gives Elysium (Amoria) (`5etools.md:5`). The wiki's 2e row gives the Beastlands and Brux (`wiki.txt:76`), its 3e row the House of Knowledge (`wiki.txt:60`), and its 5e home plane is blank (`wiki.txt:31`). The page follows the FRHoF.
 > - **Conflict, rank:** The wiki's 5e row calls him a lesser deity (`wiki.txt:28`) and its 1e row a demigod (`wiki.txt:87`). The page gives both.

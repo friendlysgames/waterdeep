@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Lliira, the god of joy, and the reference for Lliira's Night.
 > - **Where it is used:** Lliira never appears in person, and no campaign NPC worships her. She comes up through the festival calendar, above all Lliira's Night on Flamerule 7, which falls in the ten days between Founders' Day and the Cassalanter twins' ninth birthday.
 > - **Featured in:** The festival calendar only, in the ten days between Founders' Day and Flamerule 11 that close **Cassalanter Villa**. No quest or event names her.
@@ -59,9 +58,8 @@
   - After the Spellplague she became an exarch of Sune and moved to the Gates of the Moon with her (*Forgotten Realms Campaign Guide*, 4e).
 - **In the campaign:** Lliira is alive and present in 1492 DR. The regency and the exarch rank are history, and no file treats her as subordinate to Sune or as absent.
 
-> **[GM]**
+> [!gamemaster]**Using Lliira as a Deity**
 >
-> #### Using Lliira as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as the lady of the dance floor. A sage, a priest or a regular at the bar says she is the god of joy, dance and festivals, that her priests, the joybringers, dress like guests at a ball and throw excellent parties, and that her faithful wear something bright. They add that she turns away from any feast where a blade is drawn. Every Flamerule 7 the city keeps her night with dances, balls, pink drinks and fireworks until dawn, and Waterdhavians say the custom began here before it spread along the Sword Coast. How they feel about her clergy outside the festivals is unsourced. [research]
 > - **Waterdeep:** Lliira has no temple or shrine of her own in the city in any source, and she has two festivals.
 >   - The Dragon Heist Major Temples table has no Lliira row. The same table lists Holyhands House in the North Ward as a temple for all deities, which includes her.
@@ -78,9 +76,8 @@
 
 Lliira, Our Lady of Joy, is the god of joy, dance and festivals, and people honor her at any celebration. Her priests, the joybringers, wear festival clothes and throw parties, and they are among the most beloved clergy in Faerûn. Her faithful wear at least one bright, cheerful color, and she turns her favor away from any revel where fighting breaks out or weapons are drawn. Waterdeep keeps her night on Flamerule 7 with dances and balls across the city and smokepowder fireworks until dawn.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Lliira's Night and the ten days:** The festival falls on Flamerule 7, six days after Founders' Day and four days before the twins' ninth birthday on Flamerule 11 (derived). The festival calendar lists it and Sornyn as the two festivals inside the ten days between the feast and the birthday. Its hook is cover. Envoys and strangers are expected in the city and fireworks boom until dawn, so unfamiliar faces and loud noises draw no notice.
 > - **Presence in the story:** No file has Lliira appear or speak, and none names a Chosen or a worshiper of hers. Her reach in the story is the festival date, and no scene is written for it.
 
@@ -105,9 +102,8 @@ Lliira, Our Lady of Joy, is the god of joy, dance and festivals, and people hono
 - **Timekeeping and the Festival Calendar** (History): the date of Lliira's Night and the ten days between Founders' Day and the birthday.
 - **Cassalanter Villa** (quest): the quest whose Founders' Day deadline opens the ten days that hold Lliira's Night.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled, title:** FRHoF titles her "God of joy" (bundle `5etools.md:3`), while SCAG and the 2014 PHB say "Goddess of joy" (`5etools.md:14` and `:23`). FRHoF outranks SCAG because it is newer (`CLAUDE.md`, Sundering canon and 5e source precedence), so the Title field uses FRHoF and names the older printings. The prose keeps feminine pronouns, as the Waukeen page does, and a separate decision covers them.
 > - **Conflict, rank by edition:** FRHoF gives no rank, the wiki's 2e and 3e rows say lesser deity, its 1e row says demigoddess, and its 4e row says exarch of Sune (`wiki.txt:19, 49, 64, 79 and 93`, Grep numbering). The page keeps her an independent deity in 1492 DR and gives the exarch rank as history.
 > - **Conflict inside the wiki:** The wiki says Waukeen was missing "ten years later" and gives the regency as 1365 DR (`wiki.txt:166` and `:168`, Grep numbering). The Time of Troubles was 1358 DR, which is seven years before 1365 DR. The page gives the year and does not count the years.

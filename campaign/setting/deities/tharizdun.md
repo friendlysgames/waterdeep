@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the patron entry for Tharizdun, the imprisoned Chained God and a Great Old One patron for warlock characters. He is not a god of the Faerûnian pantheon, so this page replaces the cleric and paladin guidance of a deity page with warlock guidance and one line on cleric use.
 > - **Where it is used:** Tharizdun never appears in the campaign. He is a choice for a player building a warlock, and no other Deities page names him.
 > - **Featured in:** no quest. Neither adventure source names him. The nearest material is the *Dungeon of the Mad Mage* shrines of Ghaunadaur, whose title the Elder Eye resembles his own title, the Elder Elemental Eye.
@@ -47,9 +46,8 @@
   - During the Dawn War he returned, killed the gate's guardian and opened it, which released Far Realm energy into the multiverse. He took a seed of chaos from a dead universe, the obyriths' Shard of Pure Evil, and it corrupted him into madness (*Player's Handbook 3* and *Demonomicon*, 4e).
   - The obyriths wanted the seed planted in the Astral Sea. He planted it instead in the Elemental Chaos, where it grew into the Abyss, and the other gods put aside their quarrels long enough to imprison him (*Demonomicon* and *Monster Manual*, 4e).
 
-> **[GM]**
+> [!gamemaster]**Using Tharizdun as a Patron**
 >
-> #### Using Tharizdun as a Patron
 > - **The ordinary Waterdhavian's view:** Almost none. A sage can repeat the Overview, and a priest of Mystra may repeat the claim that she kept him off Toril (derived from the wiki's credit to her). No source records a Waterdhavian opinion of him, a Waterdhavian rumor, or whether news of the cults in Chessenta, Akanûl or the Dessarin Valley reaches the city. [research]
 > - **Waterdeep:** None. The Major Temples of Waterdeep table in *Dragon Heist* lists no temple of Tharizdun, and no campaign file or wiki entry places a shrine or cult in the city. The wiki's cults are in Chessenta, Akanûl and the Dessarin Valley.
 > - **A warlock PC:** The Great Old One patron (derived; 2024 *Player's Handbook*) fits him, and the wiki files him under Great Old One patrons and elder evils. The Far Realm link in the 4e account supports the fit, since he looked through the Living Gate and brought a seed of chaos back from a dead universe. No source gives Tharizdun-specific features. What his cults want is power channeled to him, his lost relics and shrines found, and the world ended. A patron who answers only in babble suits the Great Old One's inscrutable voice (derived). What a pact costs is not sourced. [research] **Ilsensine** (Deities) is the other Great Old One patron on this journal's roster.
@@ -84,9 +82,8 @@ Tharizdun is the Chained God, a power of darkness and madness that the other god
 - **Ilsensine** (Deities): the other Great Old One patron on the roster.
 - **Lolth** (Deities): the head of the Dark Seldarine, whose pantheon the Mad Mage hall shows with Ghaunadaur.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Brief premise not found:** The brief says some sources have him imprisoned "as in the Dark Heart of Faerûn and the Temple of Elemental Evil." Neither name appears in the wiki page, the 5etools entries or the bundle. The page says only what the sources give: the Abyss (4e), a demiplane (revised 5e) and a prison plane (3e). [research]
 > - **Search results:** A search of `campaign/` and both adventure JSONs for Tharizdun, the Chained God, the Elder Elemental Eye, Eater of Worlds, Chained Oblivion, Elemental Evil, Cult of the Black Earth, Dark Heart, Ghaunadaur and the Dark Seldarine found no Tharizdun line. It found Ghaunadaur and Dark Seldarine lines only in `adventure-wdmm.json`, quoted in the Using box, and on the Corellon Larethian, Lolth, Eilistraee and Talos pages. `corellon-larethian.md:74` states the Level 10 Dark Seldarine hall and the eight statues, and the Using box agrees with it. The Cult of the Black Earth is a *Princes of the Apocalypse* group, and the bundle does not mention it.
 > - **Conflict, where he is imprisoned:** The wiki gives the Abyss (4e, *Dungeon Master's Guide* 4e p.163 via the wiki), a demiplane (revised 5e, XDMG p.148) and "None (sealed in a prison plane)" (3e). The Plane bullet gives all three. The 4e account also says he created the Abyss, which the page reports and does not reconcile with the demiplane.

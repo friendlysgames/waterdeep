@@ -31,9 +31,8 @@ Any character with Common Sign Language communicates with Nim directly. The sign
 
 The device is 1 foot long, copper, with an umbrella-like metallic protrusion that rotates when active. It sits on the workbench beside Nim's corner. Nim hands it over when asked — no persuasion required.
 
-> **[GM]**
+> [!gamemaster]**The Detector's Limitation**
 >
-> #### The Detector's Limitation
 >
 > The detector responds to any nimblewright other than Nim. At the Sea Maidens Faire, multiple units overwhelm it — the Gralhund unit (NW-02) cannot be isolated from the fleet's legitimate valets. In the North Ward, with only the Gralhund unit in range, the signal is unambiguous. This is by design. The Faire visit is the stall; Saerdoun Street is the answer.
 

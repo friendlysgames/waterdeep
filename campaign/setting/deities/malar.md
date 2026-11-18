@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Malar, the Beastlord and god of the hunt, for players who want a hunter, a barbarian-minded cleric or a devout character with a dark patron, and for a GM who needs to explain Howldown.
 > - **Where it is used:** Malar never appears in person, and no campaign file names him. The page states what the published *Dragon Heist* text places in the city and what *Dungeon of the Mad Mage* places beneath it, so that no later page invents more.
 > - **Featured in:** No quest. His name appears only on other Deities pages, as a power that **Chauntea**, **Deneir**, **Helm** and **Ilmater** oppose.
@@ -55,9 +54,8 @@
   - After the Second Sundering he is once again a full deity and one of the gods of the First Circle (*Sword Coast Adventurer's Guide*, 5e, as the wiki cites it).
 - **In the campaign:** Malar is alive and present in 1492 DR. No file treats him as dead or absent. The Spellplague death and the 4e exarch role are history, and Draft Notes records them.
 
-> **[GM]**
+> [!gamemaster]**Using Malar as a Deity**
 >
-> #### Using Malar as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as a god to be left alone. A sage, a priest or a regular at the bar says he is the Beastlord, the god of the hunt and of the cruel side of nature, shown as a great clawed cat. They say nobody prays to him for mercy because he gives none, that hunters and barbarians and the odd werecreature worship him, and that his cult is not welcome inside cities. They know Howldown as the day the City Guard goes out in his honor. The High Hunt stays out of the ordinary view, because FRHoF says his priests keep it secret. How the city feels about the god himself, beyond Howldown, is unsourced. [research]
 > - **Waterdeep:** Malar has no temple or shrine in the city. The one thing Waterdeep does in his name is Howldown.
 >   - The Dragon Heist Major Temples table has no Malar row (`sources/adventure-wdh.json:30922-30996`), and FRHoF says he has no temples in Faerûn's major cities. The table's "All deities" row, Holyhands House in the North Ward (`:30923-30925`), is the only listing that could cover him, and no source says a Malarite is welcome there.
@@ -102,9 +100,8 @@ Malar, the Beastlord, is the god of the hunt and of the cruel side of nature, an
 - **Timekeeping and the Festival Calendar** (History): Highharvestide, and the Nightal row, which lists no Howldown.
 - **Master of the Wild** (Emerald Enclave quest event): the rank event that seeds Wyllow and Wyllowwood.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, festival days:** FRHoF puts the Feast of the Stags at Highharvestide (`sources/research/pass2-bundles/malar/5etools.md:10`). The Dragon Heist festival list puts Howldown on Nightal 11 (`sources/adventure-wdh.json:31573`). They are two different days, so the page gives both. The campaign calendar lists Howldown nowhere (`campaign/setting/history/09-timekeeping-and-the-festival-calendar.md:33`, `:51`), which makes it a Dragon Heist festival that the remix calendar omits. It falls outside the campaign's window either way.
 > - **Conflict, patron and rank:** The wiki's 5e row says Malar serves Talos (`sources/research/pass2-bundles/malar/wiki.txt:23`), while its 4e row makes him an exarch and the Silvanus page lists "Malar (exarch)" (`sources/research/pass2-bundles/silvanus/wiki.txt:65`). The page gives each with its edition and keeps him a full god in 1492 DR. The wiki also says he was believed dead after the Spellplague (`wiki.txt:182`) and revived in the late 1470s DR, so the death is history and does not touch the present tense.
 > - **Settled, Loviatar tie:** Loviatar's wiki page says she was affiliated with Malar only before the Time of Troubles (`campaign/setting/deities/loviatar.md:47` and `:98`). The Relations bullet tags the tie as that period's and no longer lists her as a current ally.

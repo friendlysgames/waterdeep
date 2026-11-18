@@ -1,8 +1,7 @@
 ﻿# Zhentarim Warehouse
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Exploration/Combat Event occurs when the party arrives at the Candle Lane warehouse. In this Event:
 >

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Lathander, the Morninglord and god of dawn and renewal, and the reference for the faith practiced at the Spires of the Morning.
 > - **Where it is used:** Lathander never appears in person. His name matters in Waterdeep because Victoro Cassalanter is publicly a worshiper, and because his holiday, Rhyestertide, falls on the day the campaign opens.
 > - **Featured in:** **Finding Floon** (Rhyestertide on Ches 1), **The Theater's Back Room** (a Bregan D'aerthe mission), and every public scene with Victoro Cassalanter.
@@ -60,9 +59,8 @@
   - The wiki says he returned in the Second Sundering, in 1486 DR, through the efforts of his Chosen and prophet Stedd Whitehorn (*The Reaver*).
 - **In the campaign:** Lathander is alive and present in 1492 DR. The Spires of the Morning is a working temple, and no file treats him as absent. The wiki's accounts of his absence and return are history and carry no weight in play.
 
-> **[GM]**
+> [!gamemaster]**Using Lathander as a Deity**
 >
-> #### Using Lathander as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the god of fresh starts. A sage, a priest or a regular at the bar says he is the Morninglord, the god of dawn, birth and renewal, and that you pray to him before a journey, a wedding or a new business. They add that his priests dress in rose, orange and gold, that his temples are rich and a little gaudy, and that his faithful have no use for undead. The temple they name is the Spires of the Morning in the Castle Ward. On Rhyestertide, the first of Ches, they say the faithful cover one eye until the next dawn, and a newcomer who catches a celebrant's eye should wink. Most Waterdhavians know Victoro Cassalanter, the banker and philanthropist, as a worshiper of his.
 > - **Waterdeep:** Lathander has one named temple in the city, the Spires of the Morning in the Castle Ward.
 >   - The Dragon Heist Major Temples table lists "Lathander, Spires of the Morning, Castle Ward". The text of the ward calls it "one of Waterdeep's most beautiful temples", and the Castle Ward gazetteer repeats that line.
@@ -86,17 +84,15 @@
 
 Lathander, the Morninglord, is the god of dawn, birth and renewal. People across Faerûn pray to him before journeys, weddings and new ventures. His temple in Waterdeep is the Spires of the Morning in the Castle Ward, one of the city's most beautiful. His priests dress in the rose, orange and gold of sunrise. On Rhyestertide, the first of Ches, the faithful wear the same colors and cover one eye until the next dawn. Most Waterdhavians know the banker and philanthropist Victoro Cassalanter as one of his worshipers.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Rhyestertide and the opening:** The campaign opens on Ches 1, the day of Rhyestertide, so celebrants in sunrise colors with one eye covered are ordinary street dressing when the party arrives (derived from the festival entry). The festival gives **Finding Floon** a background detail and no scene.
 > - **Sornyn and the ten days:** Sornyn, on Flamerule 3 to 5, falls in the ten days after Founders' Day. The festival calendar uses it as cover for envoys and strangers, and no file ties Lathander's faith to any scene on those days.
 > - **No Chosen, no intervention:** No file has Lathander appear or speak, and none names a Chosen of his. The wiki's accounts of the Dawn Cataclysm and the Second Sundering stay out of play.
 > - **Zariel:** The only link the sources give between Lathander and an archdevil is that she once served him as a solar. No campaign file uses it, and the Zariel page is a patron option for a warlock.
 
-> **[GM]**
+> [!gamemaster]**Secret**
 >
-> #### Secret
 > - **What the cover hides:** Victoro is a priest of Asmodeus, and his devotion to the Lord of the Nine Hells is a secret known only to his wife and his closest friends (*Dragon Heist*). Most Waterdhavians know him as a banker, philanthropist and worshiper of Lathander. The pact behind it is set out on the **Asmodeus** page.
 > - **The cover is deliberate:** The campaign gives Victoro Lathander and the house Siamorphe as public cover, which matches *Dragon Heist*. The philanthropist's reputation is a working part of the plan, and the family's charity is real. See **Siamorphe** for the other half of the cover.
 > - **Lathander takes no part:** No file shows a priest of the Spires, a Dawnbringer or the god himself noticing the cover. Whether Victoro attends the Spires, gives to it or knows its priests is [research].
@@ -136,9 +132,8 @@ Lathander, the Morninglord, is the god of dawn, birth and renewal. People across
 - **Finding Floon** (quest): the campaign opens on Rhyestertide.
 - **The Theater's Back Room** (Bregan D'aerthe mission): Brimel's oath.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, plane:** FRHoF puts Lathander on Elysium (Eronia) (bundle `5etools.md:5`), and the wiki's 3e row gives the House of Nature and his realm Morninglory. The Zariel page says she was a solar under Lathander "in the Seven Heavens of Mount Celestia" (`campaign/setting/deities/zariel.md:44`). The page follows FRHoF and takes no side on where his solars serve.
 > - **Conflict, title:** FRHoF and SCAG give "God of dawn and renewal", the 2014 PHB gives "God of birth and renewal" (bundle `5etools.md:20`), and *Dungeon of the Mad Mage* repeats the PHB title (`sources/adventure-wdmm.json:48631`). The page uses FRHoF and notes the PHB title.
 > - **Conflict, Dawnbringers:** FRHoF makes the Dawnbringers an order devoted to helping survivors start anew. The wiki's 2e source makes "Dawnbringer" the title of every cleric. The page gives both and picks neither.

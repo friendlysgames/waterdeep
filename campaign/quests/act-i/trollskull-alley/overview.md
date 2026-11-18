@@ -1,8 +1,7 @@
 ﻿# Trollskull Alley: Trollskull Alley
 
-> **[GM]**
+> [!gamemaster]**Quest Requirements**
 >
-> #### Quest Requirements
 >
 > Finding Floon complete. The party holds the deed to Trollskull Manor, received from Volo Geddarm as payment for Floon Blagmaar's rescue. They arrive in the North Ward as 2nd-level characters with no established community and not enough gold.
 >

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the patron entry for Zariel, the archdevil who rules Avernus and a Fiend patron for warlock characters. She is not a god of the Faerûnian pantheon and has no domains, so this page leads with warlock guidance and derives its cleric and paladin lines from her portfolio.
 > - **Where it is used:** Zariel never appears in the campaign. She is a choice for a player building a warlock, and she is named once, in the Asmodeus page's history of the archdevils.
 > - **Featured in:** no quest. The Nine Hells mural in the Asmodean Shrine (**Faction Outposts**) depicts her layer, Avernus, without naming her.
@@ -57,9 +56,8 @@
   - Tiamat is a hostile relationship. Zariel resents the Dragon Queen, has sent agents to steal from her hoards, and tried to help her escape the Hells only because she could not kill her (*The Rise of Tiamat* 5e; *Descent into Avernus* 5e).
   - Lathander commanded her when she was a solar. The wiki lists him as her former patron deity.
 
-> **[GM]**
+> [!gamemaster]**Using Zariel as a Patron**
 >
-> #### Using Zariel as a Patron
 > - **The ordinary Waterdhavian's view:** Almost none. A sage can repeat the Overview, and a soldier or a mercenary is the likeliest to have heard her named as the devil who wants fighters' souls (derived from her followers). No source records any Waterdhavian opinion of her, a Waterdhavian rumor, or whether news of Elturel reaches the city before Flamerule 11. [research]
 > - **Waterdeep:** None. The Major Temples of Waterdeep table in *Dragon Heist* lists no temple of Zariel, and no campaign file or wiki entry places a shrine or cult in the city. The wiki's one Waterdeep item is a Founders' Day summoning on the Field of Triumph, drawn from a video game and in conflict with the campaign's Founders' Day. Do not use it (see Draft Notes).
 > - **A warlock PC:** The Fiend patron in the 2024 *Player's Handbook* fits her (derived), and the wiki files her under Fiend patrons. No source gives Zariel-specific features. What her cults want is fighters who will go to war, and a patron who wants the souls of the greatest warriors in her ranks after death. What a pact costs is service for all time: her bargains are eternal and indissoluble, they read like ultimatums, and she demands loyalty. The wiki's worked example is Thavius Kreeg, who swore to submit to her in all matters for all time, and whose city was pulled into Avernus in 1492 DR.
@@ -95,9 +93,8 @@ Zariel is the archdevil who rules Avernus, the first layer of the Nine Hells, an
 - **Torm** (Deities): the god of the priest Thavius Kreeg, who bargained with her.
 - **Faction Outposts** (quest): the Asmodean Shrine, whose Nine Hells mural shows Avernus.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, when she fell:** The wiki's own note says the timeline of her falls and rises was retconned from past editions. It places her in the ancient Reckoning in *Guide to Hell* (3e) and as an archdevil from the founding of the Hells in *Dungeon* #197 and *Dragon* #223 (editions not given), and says her imprisonment by Tiamat in *The Rise of Tiamat* (5e) stays constant. The wiki also names Bel as her jailer (3e). The page gives each account its tag and picks none. The campaign's dated sentence, "By 1492 DR he had demoted Bel and re-elevated Zariel as archdevil of Avernus" (Asmodeus page, line 47), governs, and this page agrees with it.
 > - **Conflict, dates between 1354 and 1492 DR:** *Descent into Avernus* (5e) gives 1444 DR for the Kreeg bargain and 1492 DR for Elturel's fall into Avernus (`zariel.md:50`, `:51`), and the page uses both. The wiki alone dates the Ride to late 1354 DR and has Bel imprison her for "several centuries" and reinstate her only afterward, by the late 15th century. The page tags the 1354 DR Ride and the imprisonment as wiki only, and gives no sequence beyond the 5e dates. [research]
 > - **The Ride's story varies by edition:** The wiki notes that the 1st and 2nd edition setting books mention only a small rescue mission, while *Sword Coast Adventurer's Guide* and *Descent into Avernus* make it a major campaign two years before that account. The page follows the 5e account the wiki cites.

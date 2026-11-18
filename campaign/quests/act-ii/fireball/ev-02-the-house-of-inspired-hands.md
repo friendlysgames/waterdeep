@@ -1,8 +1,7 @@
 ﻿# The House of Inspired Hands
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Exploration/Social Event occurs when the party travels to the temple of Gond in the Sea Ward to investigate the nimblewright connection. In this Event:
 >
@@ -49,9 +48,8 @@ Nim understands Common but cannot speak. It communicates in **Common Sign Langua
 
 **Standard communication:** Valetta translates. She misses nuance and has to ask Nim to repeat. The translation is accurate in content, compressed in emotion. Through Valetta, Nim conveys: it built a second nimblewright three months ago to ease its loneliness. The creation had an incomplete behavioral lattice — it panicked and fled the temple grounds approximately one month ago. Nim has a detector device it built to find it and never had the opportunity to use.
 
-> **[GM]**
+> [!gamemaster]**Common Sign Language — Player Moment**
 >
-> #### Common Sign Language — Player Moment
 >
 > Any character who selected Common Sign Language at character creation communicates with Nim directly, without Valetta's intermediary. Nim responds with visible relief: it signs faster, more precisely. It shares emotional texture that it would not bother conveying through partial translation — the loneliness that drove it to build a companion, the guilt about the behavioral lattice it knew was incomplete, the pride in the detector's design that it cannot quite suppress even now. Give the player a moment. Nim has been waiting a long time to have a real conversation.
 >
@@ -80,9 +78,8 @@ Nim hands it over. It does not require persuasion; the party is already the best
 | Barking box | Detects vibrations within 15 feet; activates for 8 hours per winding |
 | Matchless pipe | Produces its own flame; lights itself with a command word; decorative |
 
-> **[GM]**
+> [!gamemaster]**Nim's Preference**
 >
-> #### Nim's Preference
 >
 > If the party is willing to return the runaway intact rather than destroy it, Valetta cannot negotiate the reward on Nim's behalf — she does not have temple authority to offer an alternative. But Nim watches the party's response to the reward offer closely. If they ask whether destruction is necessary, or express reluctance to destroy something that didn't choose to run, Nim signs to Valetta: *the reward still stands, but tell them it would rather see it returned.*
 >

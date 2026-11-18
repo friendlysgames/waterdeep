@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Yondalla, the Protector and Provider and head of the halfling pantheon, for players who want a halfling cleric, a paladin or a devout homebody, and for a GM who needs a power behind a halfling shrine, a harvest supper or a hidden burrow home.
 > - **Where it is used:** Yondalla never appears in person. The campaign gives her one shrine, on Larkhaven Street in the Southern Ward, and uses it as a research stop in a Doom Raiders mission.
 > - **Featured in:** The Doom Raiders mission **The Missing Snobeedle**. No quest uses her as a god, and neither published adventure names her.
@@ -50,9 +49,8 @@
   - Over time she raised the most capable of them to godhood, and those legendary halflings make up the rest of the pantheon.
 - **In the campaign:** Yondalla is alive and present in 1492 DR, as every power is. No file shows her acting.
 
-> **[GM]**
+> [!gamemaster]**Using Yondalla as a Deity**
 >
-> #### Using Yondalla as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as the halflings' mother. A sage, a priest or a regular at the bar says she is the halfling god of fertility and protection, shown by a cornucopia on a shield. They add that she gathered the first halflings, taught them to build, plant and harvest, and hid their villages from brigands and monsters. Halflings thank her for good luck, such as a pumpkin that grew to a huge size or a nugget of gold found at the bottom of a tumble down a hill, and her temples are rare. In the Southern Ward, halflings gather at her shrine on Larkhaven Street for the evening blessing. Which of her names the city uses, how much a Waterdhavian outside the halfling community knows of her, and how the city feels about her faith is unsourced. [research]
 > - **Waterdeep:** Yondalla has one shrine in the campaign files, on Larkhaven Street in the Southern Ward. The published adventure places none.
 >   - The Dragon Heist Major Temples table has no halfling row (`sources/adventure-wdh.json:30921-30996`). Its "All deities" row, Holyhands House in the North Ward (`:30923-30925`), is the only listing that could cover her, and no source says halflings use it. No line of either adventure file names Yondalla.
@@ -71,9 +69,8 @@
 
 Yondalla is the lawful good halfling god of fertility and protection, shown by a cornucopia on a shield, and she heads the halfling pantheon. Halfling tales say she gathered the first halflings, taught them to build, plant and harvest, and hid their villages from brigands and monsters. Halflings credit her with good luck, from a giant pumpkin to a nugget of gold found in a fall. Her temples are rare, and in Waterdeep the halflings of the Southern Ward gather at a shrine of hers on Larkhaven Street.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **The Missing Snobeedle:** In this mission (Doom Raiders mission 3), Tashlyn Yafeera sends the members to find Dasher Snobeedle, the youngest son of a rich halfling family. She names the Yondalla shrine as one of the places where his mother Blossom posted notices (`m03-the-missing-snobeedle/ev-01-the-missing-snobeedle.md:57` and `overview.md:25`). The party then spends three days among the Southern Ward's halflings, and the shrine is one of three leads, with the market by the Waymoot and the rented rooms above a cooperage (`overview.md:37`).
 > - **The shrine lead:** A gray-haired halfling in a plain robe is setting fresh candles when the party enters (`ev-01:166`). The Keeper of the Hearth block that follows names Tolliver Greenbottle (Unaligned, Halfling, he/him) as the shrine's caretaker. He answers at his own pace, and he answers best when the party has paid respect first (`:168-172`).
 > - **The Trust mark:** A visitor who leaves an offering of at least 5 gp in the hearth box and stays for the whole blessing earns a Trust mark. Tolliver does not care for coin pushed across the offering plate to buy an answer (`:172`). The marks set the difficulty of the check that arranges the meeting with Dasher (`:132-138`).
@@ -110,9 +107,8 @@ Yondalla is the lawful good halfling god of fertility and protection, shown by a
 - **The Missing Snobeedle** (Doom Raiders mission): the one scene set at the shrine.
 - **Fireball!** (quest): the death of Sarlo.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, symbol:** The five entries give a cornucopia on a shield, a shield alone or a cornucopia alone. SCAG gives a cornucopia on a shield (`sources/research/pass2-bundles/yondalla/5etools.md:22`), the PHB gives a shield (`:14`) and MTF gives a cornucopia (`:4`). The wiki's 5e row repeats SCAG (`wiki.txt:24`) and its 2e row reads shield with cornucopia (`wiki.txt:71`). The page takes SCAG and shows the other two.
 > - **Conflict, creator or adopter:** The wiki's opening calls her the creator of the halfling race (`wiki.txt:105`, citing *Faiths & Pantheons*, 3e). MTF has her adopt halflings who already existed (`5etools.md:6`). The Rank bullet says "built" the pantheon, and Origin and rise follows MTF.
 > - **Conflict, plane:** The wiki's 3e row gives Green Fields as her home plane (`wiki.txt:56`). Its 2e row gives Mount Celestia and Venya as the plane and Green Fields as the realm (`wiki.txt:72-73`). The page shows both.

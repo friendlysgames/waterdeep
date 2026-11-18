@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the institution entry for Waterdeep's written law and the black-robed judges who apply it, and the second of the four governance pages. It covers what the Code Legal is, how an arrest becomes a sentence, which penalties the published adventure gives, who the named magisters are, and which rules the campaign has added.
 > - **Where it is used:** read it before you run an arrest, a hearing or a plea for leniency, before a player asks what the law says about a weapon, a duel or a spell, and before any NPC cites an article of the Code Legal.
 > - **Featured in:** **Fireball!**, **Gralhund Villa** (Barnibus Blastwind and the arrest of anyone who killed a noble) and **A Friend's House** (Barnibus). The courthouse encounters in the published adventure are not yet converted to a quest journal.
@@ -53,9 +52,8 @@ Four magisters have no Notable Figures page, so they stay as plain text. Hester 
 
 Waterdeep's laws rest on the Code Legal, a body of custom and precedent that anyone can read at the Palace in several languages. Black-robed magisters judge the people whom the City Watch arrests, and a magister may pass sentence without a trial. The Code Legal outlines only typical sentences, so each magister has wide discretion in how to apply it. Any Masked Lord can overturn a magister's ruling, though there is rarely one nearby when a petitioner needs it.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Campaign-only rules:** The Code Legal of the campaign carries three rules that the published adventure does not state. Order of the Gauntlet agents may not enter a place of worship without a magistrate's warrant, which is what stops Savra in **The Shrine on Aveen Street**, and the design notes for that event call the rule invented. The Watch opens a review of a magistracy, in **The Legate's Eyes**, when a Force Grey extraction goes wrong, and for 14 days it logs every Tower request to the Watch. A prisoner may ask for the article that entitles her to counsel, as **Vira Solkan** does when she surrenders in **Smoke in the Tower**. Voice these as ordinary law, and do not attribute them to the published Code Legal handout.
 > - **The temple offense:** In the campaign, an illegal temple to Asmodeus lies beneath **Cassalanter Villa**, and discovering it is a capital offense under the Code Legal once a magistrate has ruled it unlawful. The Code Legal protects every place of worship from entry without a magistrate's warrant, and the warrant is how a temple becomes unlawful: a magistrate rules it so on evidence. Worship alone is not outlawed, so the capital charge rests on the temple and on what is done in it. This is campaign-only, and no published source names a temple or worship offense. Nobody outside the household and the cult knows about the temple, so no NPC cites this offense against the Cassalanters until the party has found the temple. See **The Cassalanters**.
 > - **Hester Barch's secret:** Barch has an innate psionic ability to cast *detect thoughts* without somatic or material components, and only her closest aides know it. After one casting she must finish a short or long rest before she can cast it again. She uses it on a character who is disguised as a noble or an official, and on a prisoner whose surface thoughts she wants to read.
@@ -91,9 +89,8 @@ Waterdeep's laws rest on the Code Legal, a body of custom and precedent that any
 - **The Lords' Alliance**, **Force Grey**, **The Order of the Gauntlet** and **The Cassalanters** (Organizations): the factions whose events and plans touch the law.
 - **Barnibus Blastwind**, **Saeth Cromley**, **Vajra Safahr**, **Tashlyn Yafeera**, **Vira Solkan** and **Laeral Silverhand** (Notable Figures): the people named here.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflicts, Barnibus's office:** `adventure-wdh.json` line 31774 says he works for the Watchful Order investigating crimes that involve magic, with no magistrate's title. His Notable Figures page (`02-barnibus-blastwind.md` lines 6, 22 and 26), the **Stingblade** event (`ev-01-stingblade.md` line 122) and the retired Waterdeep outline line 27 call him a magistrate. Ruling 4 governs, so this page calls him an investigator and tags the title campaign-only. The Notable Figures page and the event need retargeting. His Notable Figures page also gives no pronouns, and the pronouns here come from line 31774.
 > - **Conflicts, "posted publicly":** the retired Waterdeep outline line 26 says the Code Legal is "posted publicly". `adventure-wdh.json` line 30516 says it is "available" at the Palace and "provided on request" by the gate and harbor magisters. This page follows the adventure.
 > - **Conflicts, "most guild business":** the retired Waterdeep outline line 26 says the Code Legal leaves out most guild business. Line 30829 says only that Guild Law is not technically in the legal code, so the page says that and no more.

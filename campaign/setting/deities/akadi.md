@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Akadi, the Lady of Air and god of elemental air, for players who want a wandering priest of the wind, a traveler's patron or a devout character with an elemental power, and for a GM who needs a name behind a gust, a good flying current or a mild rain.
 > - **Where it is used:** Akadi never appears in person, and no campaign file or published adventure names her. The page records that Waterdeep gives her no temple, and that the one elemental air cult in the files, the Howling Hatred, served Yan-C-Bin and not her.
 > - **Featured in:** No quest. Her name appears only on other Deities pages, as the goddess whose limits mark the edge of **Talos**'s storms and as an ally of **Shaundakul**. The nearby Howling Hatred appears in the Order of the Gauntlet's **Order of the Gauntlet First Meeting** and **Savra's Past**.
@@ -54,9 +53,8 @@
   - During the Second Sundering she left Toril for Abeir (*The Sentinel*, a 2014 novel). She still seems to have a presence in Faerûn (*Sword Coast Adventurer's Guide*, 5e).
 - **In the campaign:** Akadi is alive and present in 1492 DR, as every power is. SCAG still lists her as a goddess, and the wiki's 4e primordial and Abeir accounts are history. Draft Notes records the conflicts.
 
-> **[GM]**
+> [!gamemaster]**Using Akadi as a Deity**
 >
-> #### Using Akadi as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as a distant power that most people never think about. A sage, a priest or a regular at the bar says she is the Lady of Air, the god of the wind and of flying creatures, and that she is one of the four elemental powers, with a cloud for a symbol. Sages describe her as a giant blue woman with feathery wings that fade into the clouds, and add that she cares little for mortals unless the offering is large. Priests of other gods say she can be asked for a good wind or a gentle rain, and that real storms belong to Talos, or to Umberlee at sea. How Waterdeep feels about her, and which of her names the city uses, is unsourced. [research]
 > - **Waterdeep:** Akadi has no temple, shrine, priest or festival in the city in any source.
 >   - The Dragon Heist Major Temples table has no Akadi row (`sources/adventure-wdh.json:30921-30996`). The "All deities" row, Holyhands House in the North Ward (`:30923-30925`), is the only listing that could cover her, and no source says her faithful use it.
@@ -72,9 +70,8 @@
 
 Akadi is the neutral god of air, wind and flying creatures, and Waterdhavians who know her call her the Lady of Air. Sages count her among the four elemental powers and picture her as a giant blue woman with feathery wings that fade into the clouds. She is thought to care little for mortals unless the offering is large, and her few followers travel from place to place spreading her word. She can be asked for a good wind or a gentle rain but not for a storm, and Waterdeep has no temple of hers.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **The Howling Hatred:** It was an elemental air cult that worked in Waterdeep until 1491 DR, about a year ago. It served Yan-C-Bin, the Prince of Evil Air, and preached that walls, contracts and gold kept the world from his wind. It broke in a single tenday of arrests, and it is not active during the campaign (`campaign/quests/faction-events/order-of-the-gauntlet/s02-savras-past/ev-01-savras-past.md:112-116`). *Dragon Heist* calls it "an evil elemental cult" (`sources/adventure-wdh.json:3950`).
 > - **Why it is not Akadi's cult:** Neither Dragon Heist nor the campaign files tie the cult to Akadi. The wiki names Yan-C-Bin as an archomental who wanted to challenge her power, so the cult serves a rival of hers. Voice a surviving cultist or an arrested follower as someone who worshiped the Prince of Evil Air, and keep Akadi's own priests out of it.
 > - **Savra Belabranta:** A Human knight of the Order of the Gauntlet, she spent three years in the Howling Hatred and left it in 1491 DR, about a year ago. She says so to anyone who asks sincerely, and she tells what she did in it only to a member she has come to trust (`campaign/setting/notable-figures/order-of-the-gauntlet/01-savra-belabranta.md:22`).
@@ -106,9 +103,8 @@ Akadi is the neutral god of air, wind and flying creatures, and Waterdhavians wh
 - **Order of the Gauntlet First Meeting**, **Savra's Past** (quests): where the Howling Hatred comes into play.
 - **Timekeeping and the Festival Calendar** (History): the place of Midsummer in the year.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **No FRHoF entry:** Heroes of Faerûn has no entry for this god; the page rests on SCAG (2014) and the wiki.
 > - **Settled, deity or primordial:** SCAG prints her title as "Goddess of air" (`sources/5etools/deities.json:94-96`, bundle `5etools.md:2`). The wiki's status field says deity (`wiki.txt:13`), its 4e row says primordial (`wiki.txt:52`, `:184`), and its history says she was reported to be a primordial after the Spellplague (`wiki.txt:167`). The page follows SCAG, gives the primordial account as 4e history and keeps her present in 1492 DR.
 > - **Settled, Second Sundering:** The wiki says she left Toril for Abeir during the Second Sundering and still seems to have a presence in Faerûn (`wiki.txt:169`). The departure rests on a novel, and SCAG, the higher source, still lists her as a goddess of Faerûn. The page keeps her present and gives the departure as history.

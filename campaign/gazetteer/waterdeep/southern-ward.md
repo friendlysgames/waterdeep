@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - The Southern Ward is Waterdeep's caravan ward, a district of stables, inn yards and guildhalls on the city's southeast side. It holds Phaulkonmere, the Emerald Enclave's estate, and Kolat Towers, Manshoon's fortress, which stand one block apart.
 > - **Trollskull Alley** sends Emerald Enclave candidates to Phaulkonmere on a cat's invitation. **Gralhund Villa** has an aftermath branch in which Istrid Horn leaves a note naming a Zhentarim courier cache in the "South Ward", which this page reads as the Southern Ward.
 > - **Faction Outposts** (a structure doc, not yet a quest journal) sends the party to the Converted Windmill on Coachlamp Lane (Cassalanters) and to Orb Confectioners on Rising Ride (Xanathar's Guild). It also has Jeryth report a wound in the ley lines near Coachlamp Lane. The papers at Orb Confectioners lead toward **Xanathar's Lair**, and the windmill's papers point to the Asmodean Shrine on Aveen Street and the Brandath Crypts. **Kolat Towers** is the quest set at the towers.
@@ -32,9 +31,8 @@ The Southern Ward is the caravan district of Waterdeep, a ward of stables, inn y
 - **Economy:** The caravan trade, with its merchants, teamsters, guards, stables and counting houses, and the guildhalls' crafts. Guild law applies as everywhere in the city.
 - **Organizations:** The Emerald Enclave (Phaulkonmere), Manshoon's Zhentarim (Kolat Towers), the Cassalanters (the Converted Windmill), Xanathar's Guild (Orb Confectioners), the Doom Raiders (a boarding house and the ward's halfling informants), the Shard Shunners (a halfling wererat gang) and the guilds above.
 
-> **[GM]**
+> [!gamemaster]**Secret**
 >
-> #### Secret
 > - The Converted Windmill on Coachlamp Lane is an Asmodean shrine and a fallback site for the Cassalanters' cult. Seffia Naelryke and Arn Xalrondar keep it, the family pays the rent on the upper floor under a false name, and a ritual room holds a map with the Brandath Crypts circled. It is a separate site from the Asmodean Shrine on Aveen Street and from the temple beneath **Cassalanter Villa**.
 > - Nobody outside the household and the cult knows the family worships Asmodeus. The one exception is Jarlaxle, whose spy **Vessa** moves in the family's social circle and who tells Bregan D'aerthe members nothing unless they work it out. The footmen's rumor in **The Wazoo Affair** names the windmill only as a place where lanterns burn on moonless nights, and the Enclave has felt a wound in the ley lines near Coachlamp Lane without finding a cause.
 
@@ -45,9 +43,8 @@ The Southern Ward is the caravan district of Waterdeep, a ward of stables, inn y
 - The Tarm and Phaulkon families own it and spend most of the year abroad. **Melannor Fellbranch** keeps the grounds, and **Jeryth Phaulkon** speaks from the leaves as a disembodied voice. The gate stands open before an invited visitor arrives, and response teams may watch the street but never enter.
 - Hook: a cat's invitation brings candidates here in **Emerald Enclave First Meeting**, and nearly every later Enclave event starts or ends at the gate. The walk from Trollskull Alley takes about two hours.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Phaulkonmere stands one block south of Kolat Towers (Dragon Heist). Until **Manshoon Named** is marked for a member, Enclave speakers say "the Splinter" and never point toward the towers.
 
 **Kolat Towers** — Wizards' towers
@@ -55,9 +52,8 @@ The Southern Ward is the caravan district of Waterdeep, a ward of stables, inn y
 - The campaign names the builders as the brothers Duhlark and Alcedor Kolat, who raised the towers in the late 14th century. Alcedor died there in 1385 DR, and Duhlark was found dead in his study nine years later.
 - Hook: **Kolat Towers** is the quest set here. The ward is the one the published adventure gives in its character appendix, and the Draft Notes record that the Trades Ward line was settled for the Southern Ward.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Manshoon's clone lives here and runs the Splinter cell from the towers. He posts no visible guards, because he wants the site believed abandoned, and he is never seen entering or leaving, because he moves by teleportation circle.
 > - A magical barrier with the properties of a wall of force surrounds the towers. Splinter agents carry pass-amulets that bypass it. Teleportation circles link the towers to Yellowspire in the Castle Ward and to the Interrogation House in the North Ward.
 > - Lady Gondafrey, a City Watch captain taken in 1379 DR, is a prisoner inside. The rooms, the sanctum and the escalation rules are in **Kolat Towers**.
@@ -67,9 +63,8 @@ The Southern Ward is the caravan district of Waterdeep, a ward of stables, inn y
 - A Cassalanter steward, Brimel Crestfall, has carried baskets of candles, salt, black wax and wine to the second landing of its stair for years. The family keeps the windmill off its calendar and its house books.
 - Hook: **The Wazoo Affair** hides a rumor of it among the footmen's gossip, **The Theater's Back Room** lets the party buy a floor plan from Brimel, and **Faction Outposts** treats it as a mini-heist.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Ammalia Cassalanter visits twice a month, alone, in a hired cab with the curtains drawn. The family pays the upper floor's rent in the name of Marra Selby.
 > - A note under the bed in the secure apartment (Area W7) reads "Meeting Ches 17th, the shrine on Aveen Street". The ritual room (Area W8) holds a blood-painted pentagram and a desk with a map of Waterdeep, and a charcoal circle on the map marks the Brandath Crypts. The roster is Seffia, Arn and one invisible Imp on watch.
 
@@ -113,45 +108,40 @@ The Southern Ward is the caravan district of Waterdeep, a ward of stables, inn y
 - The friendly but humorless groundskeeper of Phaulkonmere, who sends the Enclave's missions by *Animal Messenger* in messages of no more than twenty-five words. He never uses contractions, never jokes and never swears, and he answers a joke literally.
 - He is the brother of **Tally Fellbranch**, whom he calls Talisolvanar, and he asks after him at the First Meeting.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Melannor senses something wrong in the earth beneath the Castle Ward and cannot say what it is. The Castle Ward Secret holds the answer.
 
 **Jeryth Phaulkon (Neutral Good, Disembodied Presence, she/her)**
 - A noblewoman who became a Chosen of Mielikki and now lives in the gardens of Phaulkonmere as a voice. She speaks one or two short sentences at a time, and the branches move when she speaks.
 - She sends no missions, and Melannor's animals carry her requests. Asked about the vault gold, she answers once, "That question is for the Lords to settle."
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Jeryth's Southern Ward report in **Summerstrider** is that she has felt a wound in the ley lines near Coachlamp Lane for a tenday and a half, and she senses infernal influence there. It is not healing, and the Enclave has no lead on the cause. The windmill in the Secret is the cause, and Jeryth does not know it.
 
 **Seffia Naelryke (Lawful Evil, Tethyrian Human, she/her)**
 - A cult fanatic of Asmodeus who leads the Cassalanter response team from the Converted Windmill. The team is Seffia, two Spies, one Veteran and one invisible Imp, and it gathers intelligence, watches targets and supports combat.
 - She talks in operational terms such as "loose ends" and "clean", in a low, even, clipped voice. Her report on the Cassalanters' outposts sits in a hidden compartment of Victoro's desk in **Cassalanter Villa**.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Victoro Cassalanter gave her two missions, to retrieve an Eye of the Stone of Golorr from the Brandath Crypts and to silence three cult members who knew too much. She and Arn killed two, and Vaelle Lurval survived. Victoro does not know, and Seffia means to repair the failure without telling him.
 
 **Arn Xalrondar (Lawful Evil, Tethyrian Human, he/him)**
 - A cult fanatic who shares the windmill with Seffia, defers to her on all planning and does not draw attention to himself. She speaks to him in half-sentences that he completes.
 - Hook: his Book of Worship, found in the Asmodean Shrine on Aveen Street, names him and gives the windmill as the place of assembly. The handprints in the apartment match those at **Cassalanter Villa**.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Arn acts on his own when Seffia is out of the room. He sent the Eye away with a spined devil rather than let the party take it, and he believes the decision was correct.
 
 **Manshoon (Lawful Evil, Vaasan Human, he/him)**
 - A clone of one of the Zhentarim's founders, a wizard who lost his left arm to Halaster Blackcloak and wears a crafted replacement. The Zhentarim operatives on the city's streets answer to him, and none of them will say so. He leads the Splinter cell, which is **Manshoon's Zhentarim** and not the Doom Raiders.
 - Hook: the party has no name for him until **Manshoon Named** is marked for a member.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Manshoon lives in Kolat Towers and lets his simulacrum take the opening volley in a fight. He prefers to capture rather than kill. His location in the towers depends on the escalation tier, and **Kolat Towers** sets it.
 
 ## Life in the Ward
@@ -247,9 +237,8 @@ Sensory anchors for the GM to build the passage from (not written out):
 - **Cassalanter Villa**: the villa and temple that the windmill's papers lead to.
 - **Xanathar Sewer Hideout**: the location journal that names no Southern Ward entrance.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled by ruling 1:** Kolat Towers' ward. The published adventure says Southern Ward in the Kolat Towers chapter (`sources/adventure-wdh.json:26797`, "stands tall in the Southern Ward") and in the character appendix (`:32215` and `:32218`), and says Trades Ward in its Manshoon summary (`:560`). The campaign now says Southern Ward in `campaign/structure/arc-i-kolat-towers.md` (lines 9, 33, 62, 233, 269, 316, 324-326), `campaign/guides/factions/10-manshoons-zhentarim.md:73` and `campaign/guides/trollskull-manor/08-notable-patrons.md:57`, and the retired Waterdeep outline is deleted. This page treats the towers as the Southern Ward's. The wiki bundles do not mention Kolat Towers, so the wiki neither agrees nor disagrees, and the Southern Ward bundle has no Kolat line.
 > - **Settled by ruling 1:** `campaign/setting/history/04-the-founding-of-chains.md:162` and `08-the-players-arrive.md:139` now record the Southern Ward as settled.
 > - **Settled by the user (Session 51):** Kolat Towers is in the Southern Ward in every campaign file, as the wiki's Kolat Towers page and the published adventure's character appendix give it. The Doom Raiders lines that said Trades Ward for it (`m05-the-yellowspire-job` ev-01, ev-02 and overview; `s02-davils-return` ev-01 and design-notes), Emerald Enclave **Winterstalker** (`ev-01-winterstalker.md:319`) and `campaign/setting/deities/bane.md:75` now say Southern Ward. The Emerald Enclave **Summerstrider** towers report (`ev-01-summerstrider.md:190`) is retargeted and its bullet reads "Southern Ward, the towers". The Lords' Alliance **Redknife** notes already said Southern Ward (`r03-redknife/design-notes.md:24`).

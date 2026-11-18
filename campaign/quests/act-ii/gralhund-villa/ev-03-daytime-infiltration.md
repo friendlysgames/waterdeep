@@ -1,8 +1,7 @@
 # Daytime Infiltration
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Social/Exploration Event covers the day-path entry into Gralhund Villa. In this Event:
 >
@@ -68,9 +67,8 @@ Under DC 10 Charisma (Persuasion; Disadvantage if Yalah has already been alerted
 
 If the party takes Orond into custody and brings him upstairs to G16, Yalah will surrender the Stone without a Charisma check. Hrabbaz will stand down if Yalah looks at him first.
 
-> **[GM]**
+> [!gamemaster]**The Chirada Letter (G12 — Day and Night)**
 >
-> #### The Chirada Letter (G12 — Day and Night)
 >
 > Separately from Orond and the locked tome: a folded letter sits on the reading stand in G12 at all times. This is always-present — not a day-only feature.
 >
@@ -82,9 +80,8 @@ If the party takes Orond into custody and brings him upstairs to G16, Yalah will
 
 If Yalah judges that the confrontation has turned against her and the Stone is about to be taken, she may order the nimblewright in G11 to take the Stone and flee rather than surrender it. The construct is dormant there, triggered by either the Alarm network or her command word spoken from G16. She does not do this reflexively; she reads the situation first. If the nimblewright escapes with the Stone, proceed to ev-08: The Rooftop Chase.
 
-> **[GM]**
+> [!gamemaster]**Optional Daytime Escalation**
 >
-> #### Optional Daytime Escalation
 >
 > The daytime state provides no rival factions to absorb combat attrition — Zhents and guards fight each other at night, thinning the opposition before the party reaches G16. During the day, the party generates all of it. If a fully-equipped level 4 party appears likely to roll through the standard household, any of the following optional elements may be added. **Choose one; do not stack.**
 >

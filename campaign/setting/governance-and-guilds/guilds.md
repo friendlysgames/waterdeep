@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the institution entry for Waterdeep's guilds, and the last of the four governance and guilds pages. It covers what the guilds are, what Guild Law is and is not, how membership and dues work, and which guild functions the campaign has added to the published adventure.
 > - **Where it is used:** read it before you answer a player who asks whether the party must join a guild, before you run the permit events for **Trollskull Manor**, and before you voice any guild representative.
 > - **Featured in:** **Trollskull Alley** (The Guild Gauntlet), **Fireball!** (Kalain's Tower, where Neverember's letters to Hammond Kraddoc are found), **Cassalanter Villa** (the loan contracts in Victoro's office), and **Kolat Towers** (Jelenn Urmbrusk's votes in the Council of Guildmasters, which only the structure document carries).
@@ -60,9 +59,8 @@ Several more names have no Notable Figures page, so they stay as plain text. The
 
 Waterdeep has more than forty guilds, and nearly every trade has one. Most citizens belong to a guild or work for someone who does. Guild Law is separate from the Code Legal, though the Watch and the magisters respect it. Each guild keeps its own customs and punishments. Nobody has to join, but an independent trader soon finds that guild members refuse to deal with them.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Campaign-only guild functions:** The functions below are the campaign's own and are not in the published adventure. Each is tied to a scene or a document, and none of them is common knowledge.
 > - **Cassalanter loans:** Victoro's office holds thirteen loan contracts, "the Cassalanter banking leverage over Waterdeep's guilds". A character who makes a DC 12 Intelligence (History) check on them learns they amount to control of the Chandlers', Coopers' and Carpenters' guilds, among others (campaign-only). This replaces the retired claim that the Carpenters' maintain the villa, for which no file gives a source.
 > - **Neverember and the Vintners':** In Kalain's Tower the party finds letters to Hammond Kraddoc that confirm large bribes paid to cover a contaminated-liquor scandal in the Dock Ward. They are Neverember's private leverage over the Vintners', Distillers', and Brewers' Guild (campaign-only).
@@ -105,9 +103,8 @@ Waterdeep has more than forty guilds, and nearly every trade has one. Most citiz
 - **The Lords' Alliance**, **The Harpers**, **The Emerald Enclave**, **The Order of the Gauntlet**, **The Zhentarim (Doom Raiders)**, **Manshoon's Zhentarim**, **Bregan D'aerthe**, **Xanathar's Guild** and **The Cassalanters** (Organizations): the factions tied to individual guilds.
 - **Broxley Fairkettle**, **Hammond Kraddoc**, **Vajra Safahr**, **Rishaal the Page-Turner**, **Ulkoria Stonemarrow**, **Embric**, **Avi**, **Fala Lefaliir**, **Emmek Frewn**, **Fenerus Stormcastle**, **Jelenn Urmbrusk**, **Mirt**, **Jalester Silvermane**, **Savra Belabranta** and **Davil Starsong** (Notable Figures): the people named here.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflicts, guild count:** the retired Waterdeep outline line 31 says "18 recognized guilds". `adventure-wdh.json` line 30829 says "more than forty guilds", the list at lines 1115-1158 has forty-four entries, and `wiki.txt` line 3 says "over forty guilds". The adventure wins, and this page states no figure of eighteen. The "18" has no source in any file searched. `[research]`
 > - **Conflicts, fines and Watch attention:** the retired Waterdeep outline line 31 says operating without membership "invites fines and Watch attention". `adventure-wdh.json` line 30842 and `wiki.txt` line 13 say a guild has no lawful recourse against a non-member. The page follows the adventure. The Watch and the magisters do enforce a guild's traditions against someone who flouts them (line 30830), which is the nearest published support.
 > - **Conflicts, control of every trade:** the retired Waterdeep outline line 31 says the guilds "control every significant trade". The adventure says guild members include virtually everyone who sells the necessities of life (line 30842), and the wiki says 80% or more of the economic activity in a guild's sphere (`wiki.txt` line 8, Power of Faerûn, 3e). The page uses the adventure and leaves out the 80% figure, which is a different edition's number. `[research]`

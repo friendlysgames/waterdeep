@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Leira, the Lady of the Mists and the power of illusion and deception.
 > - **Where it is used:** Leira never appears in person, and no quest, faction or NPC in the campaign names her. The page serves a player who wants an illusionist, a rogue or a cleric devoted to her, and it covers the two Waterdeep festivals that name her, Leiruin and Liar's Night.
 > - **Featured in:** No campaign quest. The published *Dragon Heist* names her in the Leiruin and Liar's Night entries, and the campaign's festival calendar repeats both. Leiruin falls inside the campaign window on Tarsakh 10. Liar's Night falls after it.
@@ -52,9 +51,8 @@
   - By the late fifteenth century DR it became known that she was alive and delighted in the confusion that the rumors of her death and return had caused (SCAG, 2014). FRHoF says she reclaimed most of her portfolio on her return, but not all of it.
 - **In the campaign:** Leira is alive and present in 1492 DR, as every power is. FRHoF and SCAG (2014) both have her living, and the wiki notes that the 5e *Player's Handbook* lists her. The murder at Blackfeather Bridge is history on this page. The *Dragon Heist* festival tale below is a second account of her being punished, and no source says how the two fit together.
 
-> **[GM]**
+> [!gamemaster]**Using Leira as a Deity**
 >
-> #### Using Leira as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as a goddess people keep on good terms with and do not look at too closely. A sage, a priest or a regular at the bar says she is the Lady of the Mists, the god of illusion and deception and the patron of illusionists and liars, and that she is a quiet figure and no trickster. They say folk pray to her to keep a secret, or before a choice where they fear being cheated, and that a swirl of the finger behind the back is how you ask her to cover a lie. A sage adds that she has been reported dead more than once, and that some tales give Cyric the killing. On Tarsakh 10 they tell the Leiruin story, in which Waukeen caught Leira trying to cheat her in a deal and buried her under a mountain of molten gold. Nobody can name a temple of hers in the city.
 > - **Waterdeep:** The sources place no temple, shrine or priest of Leira in Waterdeep, and name two festivals.
 >   - The Dragon Heist Major Temples table (`sources/adventure-wdh.json:30910`) has no Leira row. Its only generic row is Holyhands House in the North Ward, "All deities," and no source says that Leira's followers use it.
@@ -93,9 +91,8 @@ Leira is the Lady of the Mists, a chaotic neutral power of illusion and deceptio
 - **Oghma** (Deities): the god who opposed her because her lies hindered knowledge.
 - **Timekeeping and the Festival Calendar** (History): Leiruin and Liar's Night.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, status:** The wiki says Cyric killed her and calls her a dead power in its 3e source and presumed dead in 2e, while FRHoF says she returned and SCAG (2014) says she is alive. The page keeps her alive and gives the death as history, as the Cyric and Mask pages do.
 > - **Conflict, death story:** The wiki puts her death at Blackfeather Bridge, months after the Time of Troubles, at Cyric's hand (wiki, `Leira` History). *Dragon Heist* says that in times long past Waukeen buried her under a mountain of molten gold (`sources/adventure-wdh.json:31405`). The page reports both, says no source reconciles them, and calls the second festival lore. The **Waukeen** page tells the same *Dragon Heist* tale.
 > - **Conflict, date:** The wiki infobox gives her death as 1358 DR "(apparently)", and its History text says "months after" the Time of Troubles. The page uses the History wording.

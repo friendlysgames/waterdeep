@@ -1,8 +1,7 @@
 ﻿# The Neighbors
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Event covers the six neighbor first-contact moments during the renovation period. Each arrival is separate: days apart, not a single day of introductions. In this Event:
 >

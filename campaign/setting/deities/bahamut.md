@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Bahamut, the Platinum Dragon and god of the good dragons, for a GM who needs a power behind a gold or bronze dragon, a dragonborn character or a paladin, and for a player who wants to build a follower of his.
 > - **Where it is used:** Bahamut never appears in person. The campaign names him in one scene rule, a bonus on the Persuasion check against Aurinax, and in one seed, a wall hanging in Undermountain.
 > - **Featured in:** **Vault of Dragons** (the check against Aurinax). No other quest uses him. The Force Grey mission **The Dragon in the Harbor** concerns a bronze dragon and names no god.
@@ -58,9 +57,8 @@
   - After Tiamat's failed escape from Avernus in the late 1480s DR, he sent the copper dragon Balarystul to Avernus to watch her followers (*Baldur's Gate: Descent into Avernus*, 5e).
 - **In the campaign:** Bahamut is alive and present in 1492 DR, as every power is. The wiki's date of death (-1071 DR, "allegedly") belongs to his Untheric alias, and his place in the Triad and his stand-in role as god of justice ended when Tyr returned, so all three are history. In 1492 DR Tyr holds the justice portfolio and the Triad seat. The Halls of Justice is a working temple of Tyr (see **Tyr**), and no file shows Bahamut acting in Waterdeep.
 
-> **[GM]**
+> [!gamemaster]**Using Bahamut as a Deity**
 >
-> #### Using Bahamut as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the distant platinum dragon of the old tales. A sage, a priest or a regular at the bar says Bahamut is the lawful good god of the good dragons, whose symbol is a dragon's head in profile. They add that the gold, silver and brass dragons honor him, that he stands against his sister Tiamat, and that he judges people by what they do, so he has few temples anywhere. Bards tell of an old man in peasant robes with seven canaries who helps travelers on the road, and his faithful say the old man is the god himself. Nobody in this conversation mentions Aurinax or the vault. Which of his names the city uses, and how much a Waterdhavian really knows of him, is unsourced. [research]
 > - **Waterdeep:** Bahamut has no temple, shrine, priest or festival in the city in any source.
 >   - The Dragon Heist Major Temples table has no Bahamut row (`sources/adventure-wdh.json:30921-30996`). Its "All deities" row, Holyhands House in the North Ward (`:30923-30925`), is the only listing that could cover him, and no source says his faithful use it.
@@ -77,9 +75,8 @@
 
 Bahamut is the Platinum Dragon, the lawful good god of the good dragons, and his symbol is a dragon's head in profile. Gold, silver and brass dragons honor him, and so do many dragonborn, paladins and knights who hold to justice tempered with mercy. His faithful oppose his sister Tiamat, queen of the chromatic dragons, and they shelter the weak wherever they find them. Tales say he travels as an old man in peasant robes with seven canaries, and Waterdeep has no temple of his.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **The Persuasion check in Vault of Dragons:** The campaign version reads "A DC 18 Charisma (Persuasion) check, made with advantage if the party brought a prominent city official (Vajra, if she's present per Scene 1) or a professed worshiper of Bahamut, convinces him that the gold's rightful place is with the people of Waterdeep rather than a single absent lord." (`campaign/structure/arc-j-vault-of-dragons.md:168`, an active structure doc). The GM Guide repeats it as "with advantage if Vajra or a Bahamut worshiper is present" (`campaign/guides/gm-guide/design-notes-running-the-campaign.md:107`).
 > - **Who qualifies:** A character who says at the vault that they follow Bahamut gets the advantage. No file asks for a holy symbol, a prayer or a class, so a cleric, a paladin or a dragonborn qualifies by saying so. The published text also gives advantage when Hlam is present, because he and Aurinax met long ago and are on fair speaking terms (`sources/adventure-wdh.json:14846`; `campaign/setting/notable-figures/independents-allies/14-hlam.md:26`). Hlam serves Tyr, not Bahamut.
 > - **What the files do not say:** Aurinax is an adult gold dragon disguised as "Barok Clanghammer" (`campaign/setting/notable-figures/independents-allies/19-aurinax.md:6`). His page gives him an oath to Dagult Neverember and the dragonstaff of Ahghairon as payment, and it names no god. The wiki says gold, silver and brass dragons hold Bahamut in particular regard (*Races of the Dragon*), which suits the check but does not tie Aurinax to him. The sources give the advantage and no reason for it, and this page supplies none.
@@ -118,9 +115,8 @@ Bahamut is the Platinum Dragon, the lawful good god of the good dragons, and his
 - **Timekeeping and the Festival Calendar** (History): Dragondown.
 - **Vault of Dragons**, **Sea Maidens Faire** (quests) and **The Dragon in the Harbor** (Force Grey mission): where the campaign's dragons appear.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, pantheon:** The PHB files him under Nonhuman (`sources/research/pass2-bundles/bahamut/5etools.md:24`), while the wiki lists the Faerûnian, Draconic and Untheric pantheons (`wiki.txt:11`). The page shows both. The hub row should read Nonhuman (PHB, 2014).
 > - **Conflict, domains:** The PHB and the wiki's 5e row agree on Life and War (`5etools.md:27`; `wiki.txt:81`). The wiki's 3e and 4e rows are wider (`wiki.txt:51` and `:66`), and the EGW entry adds Order for Exandria (`5etools.md:12`). The page takes the PHB and lists the wiki rows. The hub row should read Life, War (PHB, 2014), with Life Domain and War Domain (derived).
 > - **Conflict, symbol:** The PHB, the wiki's 4e row and its 5e row give a dragon's head in profile (`5etools.md:28`; `wiki.txt:60` and `:75`), while the 2e and 3e rows give a star and nebula symbol (`wiki.txt:31` and `:45`). The page shows both.

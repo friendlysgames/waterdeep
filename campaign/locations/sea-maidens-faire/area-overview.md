@@ -1,8 +1,7 @@
 ﻿# Sea Maidens Faire — Area Overview
 
-> **[GM]**
+> [!gamemaster]**Area Map Context**
 >
-> #### Area Map Context
 >
 > The Sea Maidens Faire fleet occupies a private pier in the Dock Ward (Smugglers' Dock area) and the adjacent anchorage quarter-mile out in Deepwater Harbor.
 >

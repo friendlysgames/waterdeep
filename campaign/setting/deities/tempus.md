@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Tempus, the god of war, and the reference for the House of Heroes in the Sea Ward.
 > - **Where it is used:** Tempus never appears in person, and no quest, faction or Notable Figure names him. The page backs a cleric or paladin PC who worships him, and it records the Field of Triumph, which the Dragon Heist text sets across the street from his temple.
 > - **Featured in:** **Trollskull Alley** (the Field of Triumph Event, by location only) and the city festivals that fill the Field, which are the Plowing and Running, Waukeentide and Founders' Day.
@@ -60,9 +59,8 @@
   - In 1345 DR his worshipers, with those of **Lathander**, Selûne and Shar, took part in religious unrest in Waterdeep that ended in the Night of Temple Fires (*City of Splendors: Waterdeep*, 2e, as recorded on the Lathander page).
 - **In the campaign:** Tempus is alive and present in 1492 DR. The House of Heroes is a working temple, and no file treats him as dead, absent or changed. Every Spellplague-era merger, the Gruumsh merger among them, is undone by ruling, so Tempus is separate and unchanged in 1492 DR. His relations with the Triad are not part of the sources behind this page (see Draft Notes).
 
-> **[GM]**
+> [!gamemaster]**Using Tempus as a Deity**
 >
-> #### Using Tempus as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the god of the fighting man and of the champion. A sage, a priest or a regular at the bar says Tempus is the Lord of Battles, the Foehammer, shown as an upright flaming sword, and that soldiers and mercenaries carry his name in their hearts. They add that he favors no side, so a white mare ridden before a battle means victory and a black stallion means defeat. His priests keep a code that tells a fighter to arm anyone who needs a weapon, to insult no foe and to leave the innocent out of the war. In Waterdeep they point to the House of Heroes across from the Field of Triumph, where the winners of the ward competitions are paraded after their victories.
 > - **Waterdeep:** Tempus has one temple in the city, the House of Heroes in the Sea Ward, and the Dragon Heist text calls it the largest in Waterdeep.
 >   - The Sea Ward text reads: "Must-see locations in the Sea Ward begin, of course, with the Field of Triumph, but just across the street is the no less remarkable House of Heroes-the largest temple in the city. Dedicated to Tempus, its many grand halls celebrate the city's champions of both battle and sport. The winners of ward competitions are paraded here after their victories, often carried on shoulders or passed from hand to hand over the heads of a crowd." (`sources/adventure-wdh.json:30879`)
@@ -80,9 +78,8 @@
 
 Tempus is the god of war, called the Lord of Battles and the Foehammer, and his symbol is an upright flaming sword. He favors no side, so an army may count him an ally one day and an enemy the next. His priests teach a code of fair conduct called Tempus's Honor, and soldiers and mercenaries are his most common worshipers. In Waterdeep his temple is the House of Heroes in the Sea Ward, the largest in the city, across the street from the Field of Triumph.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **The Field of Triumph:** Dragon Heist calls it "the city's great coliseum" (`sources/adventure-wdh.json:30692`), and the campaign places it in the Sea Ward (the retired Waterdeep outline, line 15). No campaign file connects it to Tempus or to the House of Heroes, and the Twin Parades Event has no line about either.
 > - **Trollskull Alley:** The Field of Triumph Event is the one scene set there. Zardoz Zord, the Faire's captain, has reserved gladiatorial slots. The format is "a free-for-all qualification round, then a four-team bracket. Nonlethal rules throughout; participants yield, they do not die." (`campaign/quests/act-i/trollskull-alley/ev-05-the-field-of-triumph.md:23`) The arena "holds three thousand people when it's full" (`ev-05-the-field-of-triumph.md:115`), and the final round is against Meloon Wardragon's Force Grey team (`campaign/quests/act-i/trollskull-alley/overview.md:56`).
 > - **No temple scene:** The Event never mentions Tempus or the House of Heroes, and no file sends a party to the temple after the tournament. The published invitation to win "a place in the House of Heroes" is for the Plowing and Running, which belongs to the wards and not to Zord's slots.
@@ -117,9 +114,8 @@ Tempus is the god of war, called the Lord of Battles and the Foehammer, and his 
 - **Meloon Wardragon** (Notable Figures) and **Force Grey** (Organizations): the leader and team of the final round at the Field of Triumph.
 - **Trollskull Alley**, **Fireball!** (quests): where the Field of Triumph comes into play.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled by ruling, the Spellplague and Gruumsh:** The brief names the Spellplague, a Gruumsh merge and a relation to the Triad. The Tempus wiki text in the bundle has none of them, and the Triad appears there only once, as the gods Uthgar would have fought (`wiki.txt:139`). By ruling, the Second Sundering ended in 1487 DR and every Spellplague-era merger or absorption is undone, so no Gruumsh merger stands and Tempus is separate and unchanged in 1492 DR. The page leaves the Spellplague and Gruumsh accounts out. The Triad relation is not in the sources and stays out. The Beshaba page cites a 4e line that she belonged to Tempus's pantheon during the Spellplague (`campaign/setting/deities/beshaba.md:31`). That is 4e history and the page does not use it.
 > - **Conflict, the Red Knight:** The brief calls her his lieutenant-rival. The bundle calls her his protégé and daughter figure (`wiki.txt:137`), lists her as his servant in the 2e and 4e rows (`wiki.txt:87` and `:55`), and says only that some sages thought he raised her as a counterbalance to Garagos (`wiki.txt:146`). No source calls her a rival, so the page follows the sources. Her own page should settle the relation.
 > - **Conflict, the Castle Ward note:** The gazetteer says the wiki's city-wide faiths include Tempus (`campaign/gazetteer/waterdeep/castle-ward.md:31`), but the Tempus wiki text has no Waterdeep line. Its source is [research]. This page puts his only temple in the Sea Ward, where Dragon Heist places it (`sources/adventure-wdh.json:30879` and `:30977-30981`).

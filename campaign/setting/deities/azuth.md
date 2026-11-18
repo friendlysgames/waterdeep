@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Azuth, the god of wizardry, and the reference for the faith that wizards follow across the Realms.
 > - **Where it is used:** Azuth never appears in person, and no campaign file places a priest or a shrine of his in Waterdeep. The page backs two small pieces of lore: the Court of the White Bull in the Trades Ward, and the Asmodeus page's account of his fall.
 > - **Featured in:** no quest. The Court of the White Bull appears in the published *Dragon Heist* ward text, and the Asmodeus and Mystra deity pages mention him.
@@ -63,9 +62,8 @@
   - After the Second Sundering Azuth returned to the Faerûnian pantheon (*Sword Coast Adventurer's Guide*, 5e; *Player's Handbook*, 2014).
 - **In the campaign:** Azuth is alive and separate from Asmodeus in 1492 DR, as the separation of 1487 DR left him. No file shows him as dead, absent or sharing a body with another god, so the page treats the 1385 DR death and the fusion as history.
 
-> **[GM]**
+> [!gamemaster]**Using Azuth as a Deity**
 >
-> #### Using Azuth as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the patron of the study room. A sage, a priest or a regular at the bar says he is the High One, the god of wizards, shown as a hooded, bearded figure with a raised left hand. They add that wizards point a finger at the sky when they scribe a scroll or begin a spell, and that Azuth is Mystra's right hand. A Waterdhavian who knows the Trades Ward tells how a spell battle once tore the Weave in the Court of the White Bull, and how Azuth had to appear and stitch it together. Laypeople find his priests fussy, and a sage may add the old story that the archdevil Asmodeus devoured him in the Spellplague and that he came back after the Sundering (wiki; *Forgotten Realms Campaign Guide*, 4e; *Sword Coast Adventurer's Guide*, 5e). Nobody in this conversation knows of any priest or shrine of his in the city.
 > - **Waterdeep:** The sources place no temple or shrine of Azuth in the city.
 >   - The Dragon Heist Major Temples table has no Azuth row. It lists Holyhands House in the North Ward as the temple of "All deities", which includes him by its own wording. No campaign file mentions a shrine of Azuth anywhere in Waterdeep.
@@ -86,9 +84,8 @@
 
 Azuth is the god of wizardry, a lawful neutral power whom the faithful call the High One and who is held to be the right hand of Mystra. Wizards invoke him when they scribe scrolls and cast spells, and many point a finger at the sky as they do. Few temples are dedicated to him, though every temple of Mystra is said to hold a shrine or chapel in his name. Waterdhavians tell that he once appeared in the Court of the White Bull in the Trades Ward to mend the Weave after a spell battle, and a wrinkle in it remains.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **The Court of the White Bull:** The published text calls the plaza a grazing area that became the site of the White Bull Tavern. The tavern vanished in the battle between Thongalar and Shile Rauretilar, and Shile and his apprentices died. The campaign adds nothing to this, so the plaza is a place of lore where magic is forbidden and sometimes goes awry. The text says Azuth "is said to have" stitched the Weave together, so no source confirms he was ever there.
 > - **The Asmodeus link:** The fusion is wiki history, and the separation in 1487 DR is settled by ruling. The Asmodeus page records the same dates. Nothing in the campaign has Azuth speak, appear or take part in any scene. The link gives Azuth no part in the Cassalanters' pact, and no file ties him to the family, so do not use it to hint at the infernalism the family hides.
 
@@ -112,9 +109,8 @@ Azuth is the god of wizardry, a lawful neutral power whom the faithful call the 
 - **Savras** (Deities): the demigod he imprisoned in the Scepter and later freed.
 - **Trades Ward** (Waterdeep lore): the ward of the Court of the White Bull.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, title:** FRHoF and SCAG give "God of wizardry" (`sources/research/pass2-bundles/azuth/5etools.md:3` and `:22`). The 2014 PHB p.294 gives "God of wizards" (`:13`), and `sources/adventure-wdh.json:31038` writes "Azuth, god of wizards". The Title bullet follows FRHoF and SCAG. The Overview says "god of wizardry".
 > - **Conflict, Asmodeus page and wiki:** `campaign/setting/deities/asmodeus.md:46` says Asmodeus "consumed the god Azuth after the Spellplague of 1385 DR and became a god" (4e). The wiki calls this a common belief and says Asmodeus in fact fused with Azuth (`wiki.txt:200`, *Ashes of the Tyrant*). This page gives both, tagged. The wiki also says Asmodeus's own godhood after the separation came from Nanna-Sin's divine spark (`wiki.txt:209`, *The Devil You Know*). The Asmodeus page does not record this, and a one-line addition at `asmodeus.md:47` would reconcile the two accounts. I did not edit that file.
 > - **Settled by ruling, edition:** The wiki infobox marks the 4e power as a dead power and the death as 1385 DR (allegedly), with a return after the Second Sundering (`wiki.txt:19`, `:67`). By ruling, the Second Sundering ended in 1487 DR and every Spellplague-era merger or absorption is undone, so Azuth and Asmodeus separated on Hammer 10, 1487 DR and Azuth is alive and separate in 1492 DR. The page gives the death and the fusion as tagged history.

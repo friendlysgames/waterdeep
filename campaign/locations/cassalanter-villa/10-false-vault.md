@@ -8,7 +8,7 @@ On the other side: a stone room, empty. Stone shelves on three walls, stone floo
 
 ### Heist — Cassalanter Villa Only
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
 > This room exists solely as a misdirection and a trap. Do not soften its function.
 

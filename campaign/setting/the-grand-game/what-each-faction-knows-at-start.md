@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - This is the starting-knowledge reference for the four villain factions and, as a fifth row, the Doom Raiders. For each one it gives what the faction knows about the Stone of Golorr, which Eye it holds and what it still needs, and it adds one line on how the row changes in play.
 > - Use it when you prepare a faction scene, when a contact asks what a faction could know, and when you check how far a rival has got. The table holds on the morning of Ches 22, when **Fireball!** opens, because the Xanathar and Manshoon cells assume Dalakhar has already taken the Stone from Xanathar's lair. The rows change from Ches 23 in Act II to the lair quests in Act III.
 > - The rows are read in **Fireball!**, **Gralhund Villa**, **Xanathar's Lair** and **Sea Maidens Faire**, and **Vault of Dragons** reads the faction state those quests leave behind. The Eyes sit in the location journals for **Cassalanter Villa** (Eye #2) and **Sea Maidens Faire** (Eye #3). Eye #1 sits in Xanathar's lair, which has no location journal yet.
@@ -28,9 +27,8 @@ The cells follow the GM Guide's table in **Running the Villains**. The fifth row
 | Bregan D'aerthe | Most complete picture via Nar'l Xibrindas; knows the Stone, the Eyes, and the vault; waiting to see which party proves most useful | Eye #3 | Stone + Eyes #1 and #2 |
 | Doom Raiders (the player-joinable Zhentarim; not a villain faction) | Aware of the Grand Game at a high level `[research]`; not primary competitors for the vault | Nothing | No part of the Stone's chain; the vault gold only if a party hands it over, for a seat on the reforming Zhentarim Council |
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Two Zhentarims:** Manshoon's Zhentarim and the Doom Raiders are separate cells at war with each other. Answer a question about one from its own row and never from the other's.
 > - **Cassalanter money:** The Cassalanters' outposts gather gold and ritual components, and the Vault's 500,000 gp covers what the family cannot raise itself.
 > - **Reading "What They Need":** The column lists what the faction still lacks. The vault opens only when the complete Stone, with all three Eyes restored, is presented (see **The Stone of Golorr and the Eyes**).
@@ -78,9 +76,8 @@ Waterdhavians who follow the gossip say a great prize is up for grabs and rival 
 - **Fireball!**, **Gralhund Villa**, **Xanathar's Lair**, **Sea Maidens Faire** and **Vault of Dragons**: the quests that read or change the rows.
 - **Cassalanter Villa** and **Sea Maidens Faire** (locations): the journals where Eye #2 and Eye #3 are kept.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Changed cell, Xanathar's Guild, What They Know:** The old cell "Stone was with Dalakhar (now Gralhund/PCs); Dalakhar worked for Neverember" (`grand-game.md:32`) is replaced by the GM Guide's "Dalakhar was moving the Stone; Stone is now in circulation; does not know the Eyes' significance or the vault's location" (`running-the-villains.md:38`). "Now Gralhund/PCs" says the Guild knows where the Stone went, which no source gives. "Dalakhar worked for Neverember" appears only in a briefing written for the Eye heists (`21. Faction Reports of the Grand Game.pdf` p.152, as transcribed in the research notes `docs/plans/setting-compendium-research-notes/pass4/grand-game.md:472`, cited below as `pass4/grand-game.md`) and in Dalakhar's own answers under *speak with dead* (`fireball/ev-01-the-fireball.md:94`), so it is not start knowledge. The Eyes-and-vault gap agrees with `lore/stone-of-golorr-and-the-eyes.md:101` and `villains/xanathar.md:62`.
 > - **Changed cell, Xanathar's Guild, What They Have:** "Eye #1" (`grand-game.md:32`) becomes "Eye #1 (in Sylgar's bowl; Xanathar does not know what it is)" (`running-the-villains.md:38`). The added detail matches `arc-f-xanathars-lair.md:368` and `running-the-villains.md:28`.
 > - **Changed column, Xanathar's Guild:** "What they're doing" ("Pursuing the Stone; hunting Dalakhar's trail", `grand-game.md:32`) becomes "What They Need" ("The Stone; the Eyes' significance", `running-the-villains.md:38`). The setting table's last column was an activity column and the GM Guide's is a need column. "Hunting Dalakhar's trail" has no source beyond the table itself, and Dalakhar is dead by Ches 22 (`fireball/ev-01-the-fireball.md:9`).

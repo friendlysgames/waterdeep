@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** The city overview and the hub of the gazetteer, geography and governance pages. It summarises them, gives the city-wide facts that no ward owns, and says which page holds each of the old outline's bullets.
 > - **Where it is used:** The GM reads it before session zero to place the city, and again when a player asks which ward holds a site, how the city is run, or where a festival, a temple or a guild fits.
 > - **Quests and events:** Every quest is set in Waterdeep. The table under **The Campaign's Main Sites by Quest** says where each one plays, and the ward pages list the faction events.
@@ -109,9 +108,8 @@ Waterdeep has six official wards, and a visitor changes ward by crossing a stree
 
 Waterdeep, the City of Splendors, is the grandest and most civilized city on the Sword Coast. Open Lord Laeral Silverhand rules in public beside the secret Masked Lords, and the City Watch polices the streets. Six wards fill the city, with the City of the Dead and the Field Ward beside them and Undermountain below. Ahghairon's dragonward keeps dragons out, and festivals such as Fleetswake and Founders' Day fill the calendar.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Where the secrets sit:** The Castle, Sea, North, Trades, Southern, Dock and Field Ward pages and **City of the Dead** each carry a Secret callout. Read it before you run a scene in that ward. This page repeats none of them.
 > - **The hidden temple:** The old outline's note about a hidden temple is not a ward fact. **Cassalanter Villa**, **The Cassalanters** and **Asmodeus** hold it, and **The Code Legal and the Magisters** holds the offense.
 > - **What a player may learn:** The Overview is what an ordinary Waterdhavian knows. The Masked Lords' names, the factions' hidden sites and the reason for the Founders' Day deadline are not part of it.
@@ -144,9 +142,8 @@ Waterdeep, the City of Splendors, is the grandest and most civilized city on the
 - **Trollskull Manor**, **Gralhund Villa**, **Cassalanter Villa**, **House of Inspired Hands**, **Zhentarim Warehouse**, **Xanathar Sewer Hideout** and **Sea Maidens Faire**: the location journals.
 - **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers** and **Vault of Dragons**: the quests in the table.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled by ruling 1:** Kolat Towers' ward. The page lists it as a Southern Ward site. The Dragon Heist character appendix says Southern Ward (`sources/adventure-wdh.json:32215` and `:32218`) and so does its Kolat Towers chapter (`:26797`, "stands tall in the Southern Ward"), and its Manshoon summary says Trades Ward (`:560`). The wiki bundle does not mention Kolat Towers. `arc-i-kolat-towers.md`, `10-manshoons-zhentarim.md` and `08-notable-patrons.md` now say Southern Ward. Still open: Doom Raiders and Emerald Enclave events that say Trades Ward, listed in `southern-ward.md` (Draft Notes) and `trades-ward.md` (Draft Notes); the user decides whether each is an in-fiction intel error.
 > - **Settled by ruling 1:** Tymora's Tower of Luck. The Major Temples table puts it in the Castle Ward (`sources/adventure-wdh.json:30982-30986`), and `00-the-deities.md:320`, `castle-ward.md:165` and `:271` now follow it. The Sea Ward text still describes it among the Sea Ward temples (`:30882`). This page states the table.
 > - **Settled by ruling 1:** Helm's Hall. The table puts it in the Southern Ward (`:30938-30940`), and `00-the-deities.md:311`, `player-factions-overview.md:99` and the Order of the Gauntlet events now say Southern Ward too. This page states the table and does not say whether the Temple of Helm and Helm's Hall are one building. `southern-ward.md` treats them as one (derived).

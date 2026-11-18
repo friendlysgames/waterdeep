@@ -1,8 +1,7 @@
 # The Rooftop Chase
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Chase Event is the contingency for the quest's design mandate — it fires only if the Stone escaped the villa. In this Event:
 >

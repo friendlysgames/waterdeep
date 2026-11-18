@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the institution entry for Waterdeep's ruling council, and the first of the four governance pages. It covers how the Open Lord and the Masked Lords share power, where petitioners meet them, who is known to sit among them, and what the campaign has added to the published adventure.
 > - **Where it is used:** read it before you voice Laeral Silverhand, before you answer a player who asks who the Masked Lords are, and before you run any rank event or mission in which a party member asks a Masked Lord for a favor.
 > - **Featured in:** **Trollskull Alley** (Ulkoria Stonemarrow in **The Neighbors**), **Gralhund Villa** (Yalah Gralhund's bid for a seat), **Cassalanter Villa** (Caladorn Cassalanter's portrait), **Kolat Towers** (the list of Masked Lords in Manshoon's drawer), and **Vault of Dragons** (Laeral's one legal intervention and the Masked Lord's Writ).
@@ -56,9 +55,8 @@ Several more names have no Notable Figures page, so they stay as plain text. The
 
 Waterdeep is governed by the Open Lord, who rules in public, and by a council of secret Masked Lords. Ahghairon founded the system in 1032 DR and kept the Masked Lords anonymous so that nobody could bribe or threaten them. Laeral Silverhand is the Open Lord today, and invited petitioners meet the Lords in the Palace audience chamber. Any Masked Lord can overturn a magister's ruling, though one is rarely at hand when a petitioner needs it.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Campaign-only facts:** Durnan as a secret Masked Lord and the founder of the Red Sashes, Ulkoria as a Masked Lord and Laeral as a moon elf come from the campaign, and the published adventure names only Mirt among the Lords. Durnan does not surface in **Finding Floon** and appears in no player-facing text. Ulkoria's office is stated in **The Neighbors**, and the party does not learn it in that quest.
 > - **Mirt's reveal:** The published adventure says Mirt is the least concerned of the Lords with hiding his identity. The campaign overrides that on purpose. He mentions neither office at the **Harpers First Meeting**, and at the **High Harper** rank he tells the member that he is a Masked Lord and can be asked to act in that capacity once. Laeral knows it.
 > - **Hidden from each other:** The published adventure says the Lords' identities are hidden even from each other, and it wins over the wiki, which says they were known to each other. Laeral tells a Lioncrown "I know them, and I will not name one", and the campaign reads this as one of the Open Lord's reserved powers, which is a ruling for the user to confirm. `[research]`
@@ -98,9 +96,8 @@ Waterdeep is governed by the Open Lord, who rules in public, and by a council of
 - **The Lords' Alliance**, **The Harpers**, **Force Grey** and **Manshoon's Zhentarim** (Organizations): the factions tied to individual Lords.
 - **Laeral Silverhand**, **Jelenn Urmbrusk**, **Mirt**, **Durnan**, **Ulkoria Stonemarrow**, **Dagult Neverember**, **Caladorn Cassalanter**, **Vajra Safahr** and **Yalah Gralhund** (Notable Figures): the people named here.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflicts, Masked Lords' seat:** the retired Waterdeep outline line 14 says the Castle Ward holds the "seat of the Masked Lords". Ruling 1 and `adventure-wdh.json` line 31009 say petitioners meet them in the Palace audience chamber, and no source names a seat. This page gives no seat. `castle-ward.md` line 273 still calls the seat unsourced, which now matches the ruling.
 > - **Settled:** Dragonward (ruling 2). the retired Waterdeep outline line 50 said the dragonward bars dragons "without the Open Lord's permission". Ruling 2 and `adventure-wdh.json` lines 494-495 say dragons are physically unable to enter unless touched by the dragonstaff, and the Open Lord's permission plays no part. This page follows the ruling, and the files that carried the old wording now agree: `history/01-ahghairons-gifts.md` lines 67 and 144, `castle-ward.md` lines 191 and 274, the Force Grey event `m02-the-dragon-in-the-harbor/ev-01-the-dragon-in-the-harbor.md` line 122, and `arc-j-vault-of-dragons.md` line 218. the retired Waterdeep outline is deleted.
 > - **Conflicts, hidden from each other:** `adventure-wdh.json` line 30477 against `wiki.txt` line 752 in the bundle (known to each other). The adventure wins. Mirt's ensemble (line 32302) is worn at meetings with other Masked Lords, and Durnan is "a silent ally of Mirt" on his Notable Figures page. No source says whether either knows the other's office. `[research]`

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this is:** The Era page for the Waterdeep of the campaign's opening, the political situation the four villain factions are exploiting. It is the seventh of eight eras, after **The Open Lord's Fall** and before **The Players Arrive**.
 > - **Where it is used:** The GM reads it before voicing Laeral Silverhand or Jalester Silvermane, and before answering any question about why the Open Lord has not stopped the Grand Game or what she knows about the vault.
 > - **Featured in:** **Fireball!**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons** (Laeral's offer for the gold), and the Lords' Alliance events **An Audience with the Open Lord**, **Fentree's Ledger**, **Escalation to the Open Lord**, **Warduke** and **Lioncrown**.
@@ -18,9 +17,8 @@
 
 **Other Names:** Laeral's Waterdeep. This is the old outline's heading and a GM name. No in-world name is sourced. `[research]`
 
-> **[GM]**
+> [!gamemaster]**Lore Summary**
 >
-> #### Lore Summary
 > - Laeral Silverhand became Open Lord about three years before the campaign, after the other Lords voted Dagult Neverember out and asked her to take his place. She accepted reluctantly, was overwhelmed at first, and has since settled into the work.
 > - She governs with deputies and uses her own magic sparingly, because it waned with Mystra's death and the Spellplague. It has come back since the Weave returned in 1487, though not fully. Only Elminster knows how far, and she admits it to one Lioncrown of the Lords' Alliance.
 > - At campaign start she believes the vault lies in Neverwinter. She does not know the Stone of Golorr has resurfaced, and she does not know four villain factions are moving on the city.
@@ -77,9 +75,8 @@
 
 Laeral Silverhand is the Open Lord of Waterdeep, and she has held the office since about 1489 DR. In that year the Masked Lords voted Dagult Neverember out and asked her to take his place. She is the fifth of the goddess Mystra's seven daughters, an archmage of great age and renown who was once the Witch-Queen of the North and the wife of the wizard Khelben Arunsun. She governs from the Palace with the help of trusted deputies and advisors, among them Mirt, and the city has been quiet under her.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Timeline.** 765 DR: Laeral is born, in the published adventure. 1467 DR: the Alexandrian files have Neverember in office as Open Lord and proclaiming himself ruler of Neverwinter. The wiki says he took office about 1468 DR, and the adventure shows him in office in 1475 DR. About 1489 DR: the Lords vote him out and Laeral takes the seat, which ends roughly twenty-one years of his tenure. The 1489 DR year is derived.
 > - 1491 DR: the Lord Murders, in the Alexandrian files and the wiki. Nightal 1491 DR: the Gralhund journals call Neverember "former Open Lord."
 > - Ches 1, 1492 DR: the campaign opens.
@@ -116,9 +113,8 @@ Laeral Silverhand is the Open Lord of Waterdeep, and she has held the office sin
 - **Laeral Silverhand**, **Dagult Neverember**, **Jalester Silvermane**, **Vajra Safahr, the Blackstaff**, **Mirt**, **Yalah Gralhund**, **Manshoon**, **Jelenn Urmbrusk**: the people named here.
 - **Fireball!**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**: the quests that feature her.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Research:** Span start. 1489 DR is derived from the Alexandrian files and the wiki, and the published adventure gives only "a few years ago."
 > - **Research:** Other Names (Laeral's Waterdeep) is the old outline's heading. No in-world name is sourced.
 > - **Research:** The old outline's "reformist," "the kind of leader Ahghairon designed the system to produce," the vault story damaging the Lords' credibility, "watching and choosing not to intervene," and "has contingencies" have no source. The first two are dropped or tagged, and the last three are replaced by the newer pages.

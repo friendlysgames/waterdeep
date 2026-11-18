@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Kelemvor, the god of the dead, who judges souls on the Fugue Plane, and the reference for the faith practiced in the City of the Dead.
 > - **Where it is used:** Kelemvor never appears in person. His faith reaches the campaign through Sir Ambrose Everdawn, the knight who patrols the City of the Dead after dark and guards the way to the Brandath crypts.
 > - **Featured in:** **Ten Nights in the City of the Dead** (an Emerald Enclave mission) and **Vault of Dragons** (the approach through the cemetery, still an unconverted structure doc). The Fugue Plane judgment is also the power that the priests of Asmodeus pitch against.
@@ -58,9 +57,8 @@
   - Wiki (*Crucible*, novel): after his rise he set aside his human look for a darkly robed figure with silver hair and a silver death mask, and he re-evaluated every soul in the City of the Dead under new criteria.
 - **In the campaign:** Kelemvor is present in 1492 DR. The wiki gives no death or abdication for him, and no file treats him as dead or absent.
 
-> **[GM]**
+> [!gamemaster]**Using Kelemvor as a Deity**
 >
-> #### Using Kelemvor as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the gentle judge at the end of every road. A sage, a priest or a regular at the bar says he is the Lord of the Dead and the Judge of the Damned, a god who takes each soul by the hand and leads it to the afterlife it has earned. They add that his priests do not want anyone to fear death, that his faithful will bury a pauper and say the rites for those who cannot pay, and that they hunt the undead and destroy books on raising them. A sage will tell you the city's own account, that Ao made him a god on the slopes of Mount Waterdeep at the end of the Time of Troubles, and that pilgrims still pay homage to him in the City of the Dead. Sir Ambrose Everdawn calls him "the Judge".
 > - **Waterdeep:** Kelemvor has no temple and no shrine in the campaign files. The City of the Dead is where the city honors him.
 >   - The Dragon Heist Major Temples table (`sources/adventure-wdh.json:30910-30997`) has no Kelemvor row. The Waterdeep text says that Waterdeep "has since attracted a steady stream of pilgrims who worship Midnight at Mystra's temple and pay homage to Kelemvor in the City of the Dead" (`sources/adventure-wdh.json:30484`).
@@ -77,9 +75,8 @@
 
 Kelemvor is the lawful neutral god of the dead, and Waterdhavians call him the Judge of the Damned. He takes each soul by the hand and leads it to its proper afterlife. His priests teach that death is a natural part of life and nothing to fear, and his followers bury the dying with care, fight untimely deaths and destroy the undead. Waterdeep has no temple of his, but pilgrims pay homage to him in the City of the Dead, where one of his knights patrols after dark.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Sir Ambrose Everdawn:** A Tethyrian Human knight of Kelemvor, about sixty, who has walked the City of the Dead for fifteen years. He uses the Knight stat block, is Lawful Good in the campaign files and in *Dragon Heist*, never uses a contraction and does not swear on the grounds of the dead. He knows every family plot and the burial customs of the noble houses, and he does not offer what he knows of the Brandath crypts unasked. He draws his blade only in defense of the dead or the living, in that order.
 > - **Ten Nights in the City of the Dead:** An Emerald Enclave mission for a member at Renown 3 and 3rd level, which awards no Milestone Points. Ambrose asks the Enclave for help because he can watch only half the grounds. He takes the south while the party walks the north for ten nights, and skeletons walk in on nights 4, 6 and 8. He stays out of those fights unless the party calls him. At the tenth dawn he names the Brandath crypts, unasked if the party reported the pattern and otherwise when asked and given a reason.
 > - **What is actually true:** No necromancer is raising the dead. The Vault of Dragons lies under the Brandath grove and something in it presses against its wards, so the dead nearest the grove walk toward it. Ambrose knows only that the wrongness centers there, and nothing in the mission opens the Brandath doors.
@@ -117,9 +114,8 @@ Kelemvor is the lawful neutral god of the dead, and Waterdhavians call him the J
 - **Ten Nights in the City of the Dead** (Emerald Enclave mission), **Vault of Dragons** (quest): where the faith comes into play.
 - **Timekeeping and the Festival Calendar** (History): Gods' Day, Shieldmeet and the Feast of the Moon.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled by precedence, how he became a god:** *Dragon Heist* says Ao "granted godhood to the human heroes Kelemvor, Midnight (who became Mystra), and Cyric" on the slopes of Mount Waterdeep (`sources/adventure-wdh.json:30483`). The wiki gives no Ao grant for Kelemvor. It says the dead of the City of the Dead acclaimed him after he defeated Cyric (`sources/research/pass2-bundles/kelemvor/wiki.txt:99` and `:177`) and dates his apotheosis to 1368 DR (`wiki.txt:18`), ten years after the Time of Troubles. A published adventure outranks the wiki for Waterdeep, so the page follows *Dragon Heist* and tags the wiki's account and its 1368 DR date as the wiki's only.
 > - **Settled, Ambrose's alignment:** *Dragon Heist* says "LG" (`sources/adventure-wdh.json:7767`), and his Notable Figures page now says Lawful Good (`campaign/setting/notable-figures/independents-allies/17-sir-ambrose-everdawn.md:5`). The Ten Nights files were corrected to match (`campaign/quests/faction-events/emerald-enclave/m02-ten-nights-in-the-city-of-the-dead/ev-01-the-ten-nights.md:86` and `:96`). The GM Notes say Lawful Good.
 > - **Conflict, the brief and the files:** The brief calls the mission "the Order of the Gauntlet's Ten Nights mission (the Black Viper investigation)". The files say otherwise. **Ten Nights in the City of the Dead** is Emerald Enclave mission 2 (`campaign/quests/faction-events/emerald-enclave/m02-ten-nights-in-the-city-of-the-dead/overview.md:5`). The Order's mission 2 is **The Black Viper Investigation** (`campaign/quests/faction-events/order-of-the-gauntlet/m02-the-black-viper-investigation/`), and no file in `campaign/` that names Kelemvor belongs to it. The page follows the files.

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - The Field Ward is the slum between Waterdeep's two northernmost walls. Dragon Heist files it under "Outside the City Proper", and it has no Watch patrols, no sewers, no lamplighters and no tax.
 > - **Trollskull Alley** lists the Order of the Gauntlet's **Breaking Up the Brawl** in **The Factions Come Calling**, set in a Field Ward market square. Kelso Fiddlewick, who leads the Shard Shunners from this ward, is Emmek Frewn's contractor against the party's tavern, and his crew shows in the alley in **The Neighbors** and **The Twin Parades**.
 > - The Trollskull Manor guide adds Handler Sabeen, who runs child pickpockets from the ward, and a staff applicant whose Field Ward reference proves to be a Xanathar's Guild front.
@@ -34,9 +33,8 @@ The Field Ward is Waterdeep's slum, an unofficial ward of mud, tanneries and sla
 - **Economy:** The Guild of Butchers' slaughterhouses, smokehouses and leather works, which the city pushed out of its proper wards. Fences and black-market middlemen such as Kelso Fiddlewick. Day labor, and a few small yards and kitchens.
 - **Organizations:** The Guild of Butchers, the Shard Shunners, the City Guard (on the walls and gates), a Watch house, the Order of the Gauntlet (missions and a gate knight), the Cassalanters (a charity and a cellar), Manshoon's Zhentarim (the Splinter, paying gang leaders), Xanathar's Guild (dealers and a front), the Harpers (Three Lanterns House), the Emerald Enclave (watchers), Doom Raiders (a feed yard) and Bregan D'aerthe (a spy).
 
-> **[GM]**
+> [!gamemaster]**Secret**
 >
-> #### Secret
 > - The Cassalanters use the Field Ward as a source of victims and a cover for their cult. Ammalia's charity picks the one hundred poor guests for the Founders' Day feast on Flamerule 1, where ninety-nine cups of wine carry midnight tears, and the guests die within 24 hours, scattered across the city.
 > - Victoro Cassalanter has told a hired agent, Gysheer Omfreys, to keep the Field Ward frightened and the Watch busy elsewhere. She called the spined devils in Twelvedog Court for that purpose, and she has spent a tenday readying a cellar on Aveen Street for a larger working. The chandler's cellar on the Field Ward side opens into the Asmodean shrine on the North Ward side (see the **North Ward** Secret).
 > - Nobody in the ward knows. Savra Belabranta suspects the family and cannot prove it, and she names no household until a document or a sworn answer does.
@@ -47,9 +45,8 @@ The Field Ward is Waterdeep's slum, an unofficial ward of mud, tanneries and sla
 - A market square with grain stalls and a water trough, where locals gather in a ring to watch a quarrel rather than walk away. The Watch does not go in for a street fight.
 - Hook: in **Breaking Up the Brawl** four hired men corner a Xanathar's Guild dealer named Pell here at noon. About fifteen locals watch, and the party scatters the mob with Intimidation or by defeating four Thugs.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - A lean, limping man in a brown coat paid the four 5 gp each two days earlier. He works for the Splinter, Manshoon's cell, which has also paid three Field Ward gang leaders to look away when Guild men are hurt. Pell has noticed and knows which leaders took the money. This Pell is a Guild dealer who drinks at the Rusted Anchor in the **Dock Ward**, not the Harper clerk Pell Tormar.
 
 **The Endshift Tavern** — Tavern
@@ -66,27 +63,24 @@ The Field Ward is Waterdeep's slum, an unofficial ward of mud, tanneries and sla
 - A small cobbled court two streets east of the soup house, with six buildings facing inward and every shutter barred. A baker's shop, a cooper's yard, two empty houses and the old kennel-master's house fill its sides, and a narrow alley runs off the northeast corner.
 - Hook: in **Spined Devils in Twelvedog Court** Savra fights beside the party against spined devils on the rooflines, while three residents hide behind an overturned market cart. When the last devil falls, the summoner comes out of the alley with a knife.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - The summoner is Gysheer Omfreys, a Tethyrian woman in her forties and a hired agent of Victoro Cassalanter. A chalk sigil at the alley mouth holds the devils to the court, and wiping it sends them back. Her note carries the initials "V.C.", and her day-book names the Aveen Street cellar. She has no Notable Figures page.
 
 **Orros's Chandlery** — Shop, Aveen Street
 - A chandlery on the Field Ward side of Aveen Street, open from the second bell to dusk, with bunches of candles in the window and a bell over the door. Orros (Neutral, Illuskan Human, he/him), a stooped, tallow-stained man of about sixty, owns the building and has never asked a tenant a question.
 - Hook: in **The Shrine on Aveen Street** the party reaches the cellar by Orros's key, by joining a Halls of Justice fire inspection, or by knocking three times at the yard door.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - The cellar is a back way into the Cassalanters' Asmodean shrine on the North Ward side. A charity with no members, the Aveen Street Almsgivers' Society, has leased the cellar and a service passage under the street for six years, and a courier brings the rent each quarter. Orros charges it 3 gp a month and knows nothing about its people.
 
 **Three Lanterns House** — Lodging house, 7 Windborne Way
 - A house kept by Sella Brant (Lawful Neutral, Chondathan Human, she/her), a practical landlady who dislikes surprises and is home all day.
 - Hook: in **The Sleeping Asset** Sella says a halfling lodger called Halla prepaid three months' rent last week, has slept at the house most nights since and asked to be found at the plaza well at four o'clock.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Halla is Corene Wyldath, the Harper Spy whom a devourer from Nihiloor's brood is riding. See **Trades Ward** for the bench and the well.
 
 **Field Ward Soup Houses** — Charity kitchens
@@ -107,9 +101,8 @@ The Field Ward is Waterdeep's slum, an unofficial ward of mud, tanneries and sla
 - Dragon Heist describes an old, fire-scorched windmill that the dragonborn Thrakkus has converted into a butcher's shop. He belongs to the Guild of Butchers, and squatters live in his house. Those who do menial chores are spared and fed scraps, and the rest "end up on the chopping block".
 - No campaign file uses Thrakkus or this windmill, and the campaign's Converted Windmill is a different building in the Southern Ward (see Draft Notes).
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Dragon Heist has Zhents loyal to Manshoon pay Thrakkus to chop up the people they kill, and he sells the meat on the sly. The published text has Sidra Romeir deliver the bodies at night in a covered cart. This is the published Winter chain, and no campaign file adopts it.
 
 ## Characters of Interest
@@ -118,9 +111,8 @@ The Field Ward is Waterdeep's slum, an unofficial ward of mud, tanneries and sla
 - A compact halfling with a scar along his jaw and the manners of a cheerful undertaker, who leads the Shard Shunners, a small wererat gang. He is the most reliable black-market middleman in the ward and keeps every bargain.
 - Emmek Frewn hired him to sabotage Trollskull Manor. In **The Twin Parades** a cracked cask at Frewn's Brews shows the Shunners hit the wrong building.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Kelso is not a Splinter agent. He sells what people pay for, and the Splinter is one of his customers. A Shunners runner carries Edric Tanner's paper to Beldan Rusk's house on Nethpranter Street in **The Doppelganger Problem**, and no player learns who bought the names.
 > - He will not discuss his customers or the Shunners' other business, and eight wererats of his gang stay out of sight when he meets strangers.
 
@@ -128,9 +120,8 @@ The Field Ward is Waterdeep's slum, an unofficial ward of mud, tanneries and sla
 - A heavily tattooed merfolk information broker who works out of Mistshore in the **Dock Ward**. She is independent of every faction, which is what makes her valuable.
 - Her homeless network in the Field Ward is her main way of collecting news. They notice who passes through, where people sleep and what disappears, and she keeps them fed and overlooked.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Jarlaxle gave Meg a ring of *true sight* as a retainer and gets harbor intelligence in return, and the Cassalanters have paid her for Field Ward surveillance twice. If her Field Ward people are threatened she does not fight, and she sells the name of whoever is responsible to someone who will act.
 
 **Savra Belabranta (Neutral Good, Tethyrian Human, she/her)**
@@ -176,9 +167,8 @@ The Field Ward is Waterdeep's slum, an unofficial ward of mud, tanneries and sla
 - Dragon Heist calls the neighboring Undercliff, east of the city, a rural community of farms and inns that caters to travelers. It holds a large Guard training camp and a Watch prison farm called Amendsfarm, where those convicted of minor offenses work off their debt to the city. The Field Ward has no equivalent.
 - Aveen Street marks the line between the Field Ward and the North Ward. The tanneries and tenements flank it, and the Cassalanters' shrine lies on the far side.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - The Emerald Enclave's fixed report for "Field Ward and Undercliff" reads: "The Undercliff animals will not cross the north fields at dusk." If **Splinter Site Reported** is marked, it adds: "The chalk circle in the north fields is cold and empty. Nobody has come back to it." No source says whether the north fields lie inside the Field Ward or in Undercliff.
 > - The Temple of Helm's Marcheon list records two Field Ward watch-houses shuttered after dark for a tenday. None of the Temple's lists names the Cassalanters.
 
@@ -236,9 +226,8 @@ Sensory anchors for the GM to build the passage from (not written out):
 - **Bregan D'aerthe**: the grain factor's tallyman.
 - **Trollskull Alley**, **Trollskull Manor**, **Cassalanter Villa**, **Sea Maidens Faire**, **Faction Outposts**: the quests and journals that touch the ward.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflicts:** The Watch in the ward. Dragon Heist says "The Watch doesn't patrol this area" (`sources/adventure-wdh.json:31104`). The campaign has "the Field Ward watch house will put a dozen Guards in the taproom" (`ev-01-the-shard-shunners.md:23`), "The Watch's Field Ward post sends two Guards an hour later to rope off the court" (`ev-01-twelvedog-court.md:187`) and "Two watch-houses in the Field Ward that were shuttered after dark for a tenday" (`r03-marcheon/ev-01-marcheon.md:225`). The page keeps Dragon Heist's no-patrol rule and treats the house as a post that answers reports. This is derived. The singular house, the post and the two watch-houses are not reconciled.
 > - **Conflicts:** Ward status. The wiki infobox says City Ward (`field-ward/wiki.txt:9`), the wiki text says unofficial ward (`:93`), and Dragon Heist says it is not an official ward (`:31104`). The page follows Dragon Heist. The task brief says "outside the walls", but Dragon Heist places it between the two northernmost walls and files it outside the city proper (`:31092`, `:31103`), so the page uses those.
 > - **Settled by the user (Session 51):** "Most dangerous." The Field Ward holds the title (`adventure-wdh.json:31061`), taken from the Dock Ward. The Dock Ward and Waterdeep pages follow it. The old outline that gave it to the Dock Ward is retired.

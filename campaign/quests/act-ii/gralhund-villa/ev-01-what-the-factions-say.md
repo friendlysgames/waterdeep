@@ -1,8 +1,7 @@
 # What the Factions Say
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Social Event opens Gralhund Villa and covers the consultation round before the party commits to entry. In this Event:
 >
@@ -56,9 +55,8 @@ He does not mention Fel'rekt Lafeen's team in the house across the street. This 
 
 His generosity is genuine in content. It is calculated in purpose.
 
-> **[GM]**
+> [!gamemaster]**Jarlaxle's Test**
 >
-> #### Jarlaxle's Test
 >
 > The party will find Fel'rekt's team in Artheyn Manor during ev-02 if they scout carefully (DC 14 Perception). How they respond to that discovery — whether they raise it with Jarlaxle, blame him for the omission, or simply note it and proceed — is the test. A party that mentions it gets a smile and a redirect. A party that doesn't mention it gets a warmer reception the next time they meet. Never both. Cross-ref **Gralhund Villa** Design Notes.
 

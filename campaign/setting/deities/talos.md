@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Talos, the Storm Lord and god of storms and destruction, for players who want a raider, a storm-minded cleric or a devout character with a feared patron, and for a GM who needs a power to stand behind bad weather, brigands or a wandering doomsayer.
 > - **Where it is used:** Talos never appears in person, and no campaign file names him. The published *Dragon Heist* does not name him either. The page records the one *Dungeon of the Mad Mage* line that names his Underdark alias, so that no later page invents more.
 > - **Featured in:** No quest. His name appears only on other Deities pages, as the leader of the Gods of Fury with **Malar**, and as a power that **Chauntea**, **Deneir**, **Gond**, **Helm**, **Ilmater**, **Lathander**, **Mielikki**, **Oghma**, **Silvanus** and **Tyr** oppose.
@@ -68,9 +67,8 @@
   - After the Battle of Leilon in the late fifteenth century DR he was furious with Fheralai Stormsworn for failing him, and his avatar appeared to punish her Cult of Talos (*Divine Contention*, organized play).
 - **In the campaign:** Talos is alive and present in 1492 DR, as every power is. FRHoF describes him in the present tense as the ruler of the Gods of Fury. He and Gruumsh are separate gods. The Spellplague weakening, the Stormstar Requiem and the Gruumsh identity are history, and Draft Notes records them.
 
-> **[GM]**
+> [!gamemaster]**Using Talos as a Deity**
 >
-> #### Using Talos as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as a god people fear more than they worship. A sage, a priest or a regular at the bar says he is the Storm Lord, the god of storms, forest fires and earthquakes, shown as a bearded man with an eye patch and a holy symbol of three lightning bolts. They say people speak his name out of fear, that desperate folk leave offerings to be spared in a disaster, and that his priests wander the roads as doomsayers and take charity in exchange for a blessing of protection. They add that many of his followers wear a black eyepatch even with both eyes sound, and that Auril, Malar and Umberlee answer to him. Worship of him is outlawed in most of Faerûn, but how Waterdeep treats it is unsourced. [research]
 > - **Waterdeep:** Talos has no temple, shrine or priest in the city in any source.
 >   - The Dragon Heist Major Temples table has no Talos row (`sources/adventure-wdh.json:30921-30996`). The "All deities" row, Holyhands House in the North Ward (`:30923-30925`), is the only listing that could cover him, and no source says his faithful use it. FRHoF says his priests have few temples and travel instead.
@@ -116,9 +114,8 @@ Talos, the Storm Lord, is the chaotic evil god of storms, forest fires, earthqua
 - **Cyric** (Deities): the new god whom Talos's clergy challenged over violent death after the Time of Troubles.
 - **Timekeeping and the Festival Calendar** (History): the Fair Seas Festival, the one Gods of Fury custom in the campaign window.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled by ruling, Gruumsh:** The wiki says many believed after the Spellplague that Talos was an aspect of Gruumsh (*Dragon* 378, 4e era) and that he revealed himself as Gruumsh in the Stormstar Requiem (*Dragon* 367, 4e era), and that the two seemed distinct again after the Second Sundering (`sources/research/pass2-bundles/talos/wiki.txt:112`, `:179`). The Gruumsh research note records the same split (`docs/plans/setting-compendium-research-notes/pass2/batch-k2-gruumsh-tiamat-bahamut.md:165`). By ruling, the Second Sundering ended in 1487 DR and every Spellplague-era merger is undone, so Talos and Gruumsh are separate gods in 1492 DR. The SCAG text says nothing about a separation, so the page does not cite SCAG for it. The page gives the 4e merge as tagged history and does not use it as present fact. 5etools prints SCAG's Gruumsh title as "God of storms and war" (`B/gruumsh/5etools.md:33`), which overlaps Talos's title. The Gruumsh page follows the 2014 printings for that title.
 > - **Conflict, Gods of Fury membership:** The wiki says the Stormstar Requiem got him expelled from the Gods of Fury (4e era) (`wiki.txt:179`). FRHoF says he rules the Gods of Fury (`5etools.md:8`). The page follows FRHoF and keeps the expulsion as 4e history. The wiki's Umberlee page and the brief call the group the "Deities of Fury" (`batch-e-umberlee-auril-akadi-grumbar-istishia-kossuth.md:144`). The page uses "Gods of Fury", as FRHoF, the Talos wiki page and `malar.md:32` do.
 > - **Settled by the user (Session 51), Auril's retreat:** The Talos wiki page says Talos and Umberlee forced Auril to retreat to Icewind Dale in the late 1480s DR (`wiki.txt:181`, citing *Icewind Dale: Rime of the Frostmaiden* p.275). The Auril wiki page says Umberlee, Talos and Malar forced her back to the Sea of Moving Ice (`sources/research/pass2-bundles/auril/wiki.txt:211`, citing p.274). Both are canon and describe one event: she retreated to the Sea of Moving Ice, the frozen sea beside Icewind Dale, in the late 1480s DR, forced back by Umberlee, Talos and Malar. This page, `umberlee.md`, `auril.md` and `malar.md` now say so.

@@ -1,8 +1,7 @@
 ﻿# The Yawning Portal
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Social Event occurs when the party arrives at the Yawning Portal to meet their contact. In this Event:
 >
@@ -100,9 +99,8 @@ Volo pushes through the settling crowd, steered to the party's table by Threestr
 
 **DC 10 Wisdom (Insight):** Volo is honest but the 100 gp is a stretch; he is waiting on royalties from *Volo's Guide to Monsters* while his current project (*Volo's Guide to Spirits and Specters*) goes poorly. He does not know Renaer Neverember met Floon after Volo left the Skewered Dragon.
 
-> **[GM]**
+> [!gamemaster]**Faction Visibility in This Event**
 >
-> #### Faction Visibility in This Event
 >
 > Doom Raiders: Yagra, flying snake tattoo on her neck, Zhentarim pendant worn openly. Xanathar's Guild: Krentz and four thugs with eye-shaped tattoos shaved into scalps. Bregan D'aerthe: Ryvarra at the balcony table. Manshoon's Zhentarim: not present at the Yawning Portal. The Dock Ward killing Yagra referenced is their work.
 

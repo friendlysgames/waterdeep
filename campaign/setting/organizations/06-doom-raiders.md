@@ -1,8 +1,7 @@
 # The Zhentarim (Doom Raiders)
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **Campaign role:** Player faction — the legitimate Black Network cell in Waterdeep, here since 1489 DR and at active war with Manshoon's Zhentarim splinter.
 > - **Contacts:** **Davil Starsong** (primary, Yawning Portal); **Tashlyn Yafeera** (takes over after Mission 2, communicates by flying snake); **Yagra Stonefist** (street contact, Yawning Portal bar)
 > - **Mission delivery:** Flying snake.

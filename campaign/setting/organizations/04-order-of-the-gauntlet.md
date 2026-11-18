@@ -1,8 +1,7 @@
 # The Order of the Gauntlet
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **Campaign role:** Player faction — martial agents hunting diabolists and aberrant evil across the city; quietly suspicious of the Cassalanters.
 > - **Contacts:** **Savra Belabranta** (primary, delivers missions in person — no paper birds, no messengers, no flying snakes unless urgent)
 > - **Mission delivery:** Savra arrives in person. She is in her late twenties and looks older in the way that people who have been through something and come out the other side look older. Dark hair worn back. A strong jaw. The patient, measured manner of someone who has learned to think before speaking and found the habit worth keeping. She spent three years in the Howling Hatred elemental cult and left it in 1491 DR, about a year ago, before she was an Order knight. She will tell you this if asked. She will not tell you what she did while she was in it. She is making amends. This is the work she found that made that meaningful.

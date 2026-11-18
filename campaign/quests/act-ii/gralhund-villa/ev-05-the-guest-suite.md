@@ -1,8 +1,7 @@
 # The Guest Suite
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Social/Combat Event handles the G15 corridor on the night path — Floxin at the door, Orond behind it. In this Event:
 >
@@ -28,9 +27,8 @@ What he does next depends on the tactical read:
 
 **If the party is not immediately hostile:** He is watchful, hands visible, waiting to see which way this develops. He can be questioned here. He will not name his master under any pressure. He knows the word "Zhentarim" and will use it to construct a misleading story about a rival cell if he judges that story useful.
 
-> **[GM]**
+> [!gamemaster]**What Floxin Will Not Say**
 >
-> #### What Floxin Will Not Say
 >
 > Floxin will not name Manshoon. Not under Intimidation, not under magical compulsion, not with a blade at his throat. He does not know the name — he knows a code and a set of dead-drop locations. The party can verify this with DC 14 Insight: he genuinely does not know who employed him. He knows the shape of the operation and the chain of command stopped at a contact he never saw face to face. Manshoon stays invisible.
 

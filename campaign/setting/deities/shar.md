@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Shar, the god of darkness and loss, and the reference for her faith and her appearances in the published *Dungeon of the Mad Mage*.
 > - **Where it is used:** Shar appears in no campaign file and has no temple in Waterdeep. The page serves character building and the future Undermountain pass.
 > - **Featured in:** No quest. In the published *Dungeon of the Mad Mage* she is the power behind the cult of Vanrakdoom, which plots against the Waterdeep temples of Lathander and Selûne.
@@ -56,9 +55,8 @@
   - In 1486 and 1487 DR her Shadovar agents attacked Cormyr and drained the mythals of Candlekeep and Myth Drannor, in a bid to seize the Weave before the Tablets of Fate were renewed. Mystra manifested to stop her, and Shar lost Thultanthar, her hold on Sembia and most of the Tanthuls (*The Herald*, 2014; *Fire in the Blood*, 2015).
 - **In the campaign:** Shar is present in 1492 DR, as every power is. The wiki's accounts of the Spellplague and the Second Sundering are history and change nothing in play.
 
-> **[GM]**
+> [!gamemaster]**Using Shar as a Deity**
 >
-> #### Using Shar as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as a grief-goddess that people are wary of. A sage, a priest or a regular at the bar says she is the Lady of Loss, the god of night and forgetting and the dark twin of Selûne, whose moon temple the city knows. They add that she eases grief by numbing it and that the numbness has a price. Priests of Selûne, Mystra and Lathander warn the grieving away from her (wiki; *Faiths & Pantheons*, 3e). Miners and night workers may still murmur a prayer to her for protection. Older noble families remember Lord Vanrak Moonstar, who turned to her and fled into Undermountain (`sources/adventure-wdmm.json:472`). Whether anyone outside House Moonstar tells that story is [research].
 > - **Waterdeep:** The sources place no temple, shrine or festival of Shar in the city.
 >   - The Dragon Heist Major Temples table lists no temple of hers. It lists Holyhands House in the North Ward as a temple for all deities, and no source says her faithful use it.
@@ -104,9 +102,8 @@ Shar is the god of darkness and loss, also known as the Lady of Loss and the Mis
 - **Cyric**, **Amaunator**, **Chauntea**, **Myrkul**, **Talona**, **Mask** (Deities): the powers named in her relations and origin.
 - **Castle Ward** (Gazetteer): the ward of the Spires of the Morning.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, wording:** FRHoF says that, aided by Shar, Cyric killed Mystra (`sources/5etools/deities.json:2787`), and *Dragon Heist* names Cyric as the murderer (`sources/adventure-wdh.json:30485`). The two agree, so this page, the Lathander page (`campaign/setting/deities/lathander.md:52`) and the Mystra page (`campaign/setting/deities/mystra.md:59`) give Shar's aid as FRHoF's account. Only the Shadowfell details come from the wiki's 4e account. The campaign treats Mystra as present in 1492 DR (`mystra.md:60`), so the death is history.
 > - **Conflict, edition (symbol):** SCAG gives a purple border and the PHB, 2014 gives none. The page follows SCAG, as the wiki's 5e row does.
 > - **Conflict, edition (plane):** FRHoF gives Hades (Niflheim), the wiki's 2e row agrees, and its 3e row gives the Plane of Shadow. The page follows FRHoF. The wiki's 4e account has her making the Shadowfell after the Spellplague, and the page lists that under Origin and rise.

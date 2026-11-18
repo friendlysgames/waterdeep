@@ -1,8 +1,7 @@
 # Night Infiltration
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Exploration/Combat Event covers entry into Gralhund Villa on the night of Ches 24th, with the raid already in progress. In this Event:
 >
@@ -74,9 +73,8 @@ For the full scene with Orond and Floxin, proceed to **The Guest Suite** (ev-05)
 
 If Yalah judges the confrontation has turned against her and the Stone is about to be taken, she may order the nimblewright in G11 to take the Stone and flee rather than surrender it. The construct activates on her command word spoken from G16. If the nimblewright escapes with the Stone, proceed to **The Rooftop Chase** (ev-08).
 
-> **[GM]**
+> [!gamemaster]**Raid Beat on Arrival**
 >
-> #### Raid Beat on Arrival
 >
 > The raid started approximately twenty minutes before the party arrives (adjust if the party moves immediately after dark). The recommended default is **Beat 3–4**: the Zhents have cleared the ground floor and pushed upstairs; the battle in G13 is in progress; Floxin is at the G15b door. If the party acted quickly after the faction consultations, use Beat 2 — the Zhents are still in G8. If the party delayed, use Beat 5 or later — the upper floor fighting may be largely resolved.
 >

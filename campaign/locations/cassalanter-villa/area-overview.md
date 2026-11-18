@@ -1,8 +1,7 @@
 ﻿# Cassalanter Villa — Area Overview
 
-> **[GM]**
+> [!gamemaster]**Area Map Context**
 >
-> #### Area Map Context
 >
 > Cassalanter Villa sits in the Sea Ward, set back from the street behind an iron gate and a topiary garden maintained for two generations. The building is four stories above ground, with a basement (wine cellar and false vault) and a sub-basement (secret vault and stairway to the temple level below).
 >

@@ -1,6 +1,6 @@
 ﻿# A1 — Hall of the Damned
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
 > This room and all temple areas (A1–A9) are **Heist-only**. They are inaccessible during Fireball. The party reaches A1 either by descending from C29 (the secret vault staircase) or by emerging from A9 (the stream entrance from the Mud Flats).
 

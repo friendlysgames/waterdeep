@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the patron entry for Orcus, the demon lord of undeath and an Undead or Fiend patron for warlock characters. He is not a god of the Faerûnian pantheon and has no 5etools entry, so this page replaces the cleric and paladin guidance of a deity page with warlock guidance.
 > - **Where it is used:** Orcus never appears in the campaign. He is a choice for a player building a warlock, and no campaign file or published adventure text names him.
 > - **Featured in:** no quest. *Dungeon of the Mad Mage* names a book called *Tenebrous and the True Path to Lichdom* in Melissara's Study on Level 22, and the wiki lists Tenebrous as one of his names.
@@ -59,9 +58,8 @@
   - He grew indolent, and Kiaransalee killed him in his palace and ruled Thanatos in the mid-14th century DR (*Dead Gods*; *Faiths and Pantheons*). He returned as a burst of negative energy named Tenebrous, who killed several gods in a search for the lost wand. Adventurers destroyed Tenebrous with the Last Word, and Orcus' priest Quah-Nomag then resurrected him in a ritual on the Astral Plane (*Dead Gods*; *Manual of the Planes* 3e; *Fiendish Codex I* 3e).
   - In the late 15th century DR the demon lords were summoned to the Underdark, where Orcus used his necromancy to raise a dead elder brain named Cyrog. Demogorgon then cast him back to the Abyss, and the wand stayed behind in the Realms (*Out of the Abyss* 5e). Some years later, when the death curse struck Toril, he opened a portal in Chult so that his minions could take the Soulmonger (*Streams of Crimson*).
 
-> **[GM]**
+> [!gamemaster]**Using Orcus as a Patron**
 >
-> #### Using Orcus as a Patron
 > - **The ordinary Waterdhavian's view:** Almost none. A sage can repeat the Overview, and a priest of Kelemvor is the likeliest to have heard him named as the demon who commands the undead (derived from Kelemvor's duty to destroy undead). No source records any Waterdhavian opinion of him or a rumor of his cults in the city. [research]
 > - **Waterdeep:** None. The Major Temples of Waterdeep table in *Dragon Heist* lists no temple of Orcus, and no campaign file or wiki entry places a shrine or cult in the city. The wiki places his cults in Vaasa, Damara, the Bloodstone Lands and the Neverwinter Wood.
 >   - *Dungeon of the Mad Mage* does not name Orcus anywhere. The nearest hit is a bookcase in Level 22, Melissara's Study: "They are titled *Tenebrous and the True Path to Lichdom*, *Musings of a Planar Traveler*, and *Touched by the Far Realm: A Wizard's Lamentable Descent into Lunacy*" (`sources/adventure-wdmm.json:58833`). The text does not say that the title refers to the demon lord.
@@ -98,9 +96,8 @@ Orcus is the demon lord of undeath, called the Prince of the Undead and the Bloo
 - **Iggwilv** (Deities): the witch-queen who schemed with him against Demogorgon.
 - **Tiamat** (Deities): the goddess on whose altar the wiki has the Wand of Orcus destroyed in 1358 DR.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Brief claim not found:** The brief says Orcus appears in Undermountain's Level 23 and below, in the demon lord areas. He does not. `sources/adventure-wdmm.json` has no "Orcus" at all, and `sources/adventure-wdh.json` has none either (its one text hit is the gnome name "Horcusporcus", line 26489). The only related text is the book title at line 58833, on Level 22. The Level 23 section starts at line 59845 and was not found to name any demon lord.
 > - **Settled, origin:** The wiki gives a mortal origin (`sources/research/pass2-bundles/orcus/wiki.txt:243`, *Fiendish Codex I* 3e) and a primordial origin (`wiki.txt:245`, *Demonomicon*), and its introduction calls him a "purported primordial" (`wiki.txt:113`). The user ruled to keep both. The page gives both and says that in the world nobody knows which is true.
 > - **Conflict, divinity:** 5e calls him a demon lord and names him among the fiends that can forge a warlock pact (`sources/5etools/class/class-warlock.json:5041`). The wiki says he came close to obtaining divinity (`wiki.txt:113`), achieved some form of actual divinity (`wiki.txt:261`), and could not grant powers as a true deity (`wiki.txt:285`). The page follows 5e, calls him a demon lord and a patron, and gives the divinity claims as older-edition history with their books.

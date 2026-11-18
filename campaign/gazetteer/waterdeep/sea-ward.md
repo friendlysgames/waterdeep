@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - The Sea Ward is Waterdeep's wealthiest ward, the home of the noble villas, the Field of Triumph arena and six of the city's major temples. It is also the Cassalanters' home ward.
 > - **Fireball!** sends the party to the House of Inspired Hands in **The House of Inspired Hands**. In **The Nimblewright Hunt** the detector clicks at two more Sea Ward owners, Lord Adarbrent's bodyguard and the House of Wonder's temple guardian. **The Cassalanter Dinner** takes place at the villa, and Victoro Cassalanter's cancelled order for a nimblewright (NW-03) turns up in the ledger in **The Sea Maidens Faire**.
 > - **Trollskull Alley** runs a gladiator tournament at the Field of Triumph in **The Field of Triumph**. Renaer offers his Sea Ward townhouse in **The Neighbors**, the tavern's financing passes through the Cassalanter Counting House in **The Grand Opening**, and one procession in **The Twin Parades** comes from this ward.
@@ -33,9 +32,8 @@ The Sea Ward is Waterdeep's wealthiest ward, a district of walled villas, grand 
 - **Economy:** Rents that only the rich can pay. Banking through the Cassalanter Counting House, trading houses, vintners and gem merchants, and the arena's crowds. Guild law applies as everywhere in the city.
 - **Organizations:** The Cassalanters, House Rosznar, the Thann and Urmbrusk families, the Watchful Order (Barnibus Blastwind), the Harpers (Mirt's dinner house, Renaer Neverember), the Order of the Gauntlet (a family under suspicion), the Emerald Enclave (a butterfly garden at the back of one villa), the House of Inspired Hands.
 
-> **[GM]**
+> [!gamemaster]**Secret**
 >
-> #### Secret
 > - Cassalanter Villa hides an illegal temple to Asmodeus below its sub-basement. Victoro and Ammalia traded their three children's souls to Asmodeus about 1489 DR, and the contract falls due on Flamerule 11. They mean to poison ninety-nine guests at the Founders' Day feast on Flamerule 1 to buy out the twins' souls. The villa is mapped in **Cassalanter Villa**.
 > - Nobody in the ward knows. Every faction suspects the family because it is too nice to be this rich, and none knows about the pact. Savra Belabranta of the Order of the Gauntlet hunts for proof, and Jeryth Phaulkon feels an infernal influence in the Southern Ward that the Emerald Enclave cannot trace to a house. The one exception is Jarlaxle, who knows through **Vessa**, his doppelganger spy in the Cassalanter social circle, and tells Bregan D'aerthe members nothing unless they work it out.
 
@@ -71,18 +69,16 @@ The Sea Ward is Waterdeep's wealthiest ward, a district of walled villas, grand 
 - Victoro and Ammalia Cassalanter live here, and the family hosts public galas during Waukeentide (Tarsakh 1 to 10).
 - Hook: the family invites the party to dinner in **The Cassalanter Dinner**. A Watch box stands at the street corner outside the gate.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - In **Cassalanter Villa** the villa layer is a social infiltration with a four-stage exposure track (Accepted, Noticed, Suspected, Exposed), and the temple below the sub-basement stair is a dungeon.
 
 **Rosznar Villa** — Noble estate
 - On Thunderstaff Way between Copper Street and Shield Street, west of the High Road. House Rosznar is a Tethyrian house that was once banished from Waterdeep for smuggling, slavery and other crimes. It has returned and trades in wine-making and gem trading, under the motto "We fly high and stoop swift." No source names the head of the house. [research]
 - Hook: Cevin Rallygar, a Sea Ward merchant, is suing a trading house in which House Rosznar holds shares, as the party can learn in **The Poisoned Delivery**.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Lady Esvele Rosznar is the Black Viper, and the coach in **The Poisoned Delivery** takes her to her estate in the Sea Ward. The page treats that estate as this villa (derived). The published adventure says she keeps the double life secret from her house.
 
 **Neverember House** — Residence
@@ -104,27 +100,24 @@ The Sea Ward is Waterdeep's wealthiest ward, a district of walled villas, grand 
 - A devilishly handsome half-elf banker and philanthropist whose profits are said to fund charities across Waterdeep. He is publicly a worshipper of Lathander, and the family is known for its devotion to Siamorphe. His unreadable smile warms when he speaks of his younger children.
 - Hook: he hosts the dinner in **The Cassalanter Dinner**, and in **The Wazoo Affair** he sends two household agents, posing as solicitors, to find who gave the exposé to the publisher.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Victoro is a secret priest of Asmodeus. Ammalia makes the family's final calls, and he has stopped questioning that.
 
 **Ammalia Cassalanter (Lawful Evil, Tethyrian Human, she/her)**
 - A wizard known for driving a hard bargain, and keeper of the most beautiful butterfly garden in Waterdeep, where she can often be found supervising her youngest children at play. She runs a charity booth for the Cassalanter Foundation's orphan fund during the festival in **The Twin Parades**.
 - Hook: in **Summerstrider** the Emerald Enclave's Sea Ward report describes a butterfly garden at the back of one villa that keeps tropical species alive in Waterdeep's climate. The report names no owner.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Ammalia plans the Founders' Day feast and reads to her eldest son, Osvaldo, each week in the villa attic, from a chair outside his shielding circle. Osvaldo is a chain devil now, and the twins are told he is at school.
 
 **The Black Viper (Chaotic Neutral, Tethyrian Human, she/her)**
 - A masked cat burglar who robs the estates of Waterdeep's nobility, slipping past guards and wards with a skill that has made the name a byword in the Sea Ward. No one has caught her, and no one agrees on who she is.
 - Hook: in **The Poisoned Delivery** she collects a coffer of vials meant to loosen the tongue of a Sea Ward merchant she means to rob. The vials are poison.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - She is Lady Esvele Rosznar, the dutiful younger daughter of House Rosznar. A party can recruit her for **Cassalanter Villa** with a DC 14 Charisma (Persuasion or Intimidation) check. At the Cassalanter event she attends as a guest and slips away mid-dinner to rob her hosts.
 
 **Renaer Neverember (Chaotic Good, Illuskan Human, he/him)**
@@ -140,9 +133,8 @@ The Sea Ward is Waterdeep's wealthiest ward, a district of walled villas, grand 
 - A proud noblewoman in her fifties who never travels without sixteen guards and has no time for strangers. The Urmbrusk family keeps a walled estate in the Sea Ward.
 - Hook: a Bregan D'aerthe Commander in **Commander** can ask for an audience with her, and she receives the member in a closed carriage for a fifteen-minute drive through the Sea Ward.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Jelenn is a Masked Lord. Bad investments ruined her money-lending business, and she borrowed from Manshoon's Zhentarim to avoid gossip. They now blackmail her, and her name is in the Kolat Towers ledger. If the party frees her from them, she grants a special favor.
 
 ## Life in the Ward
@@ -240,9 +232,8 @@ Sensory anchors for the GM to build the passage from (not written out):
 - **The Deities**: the Major Temples table. **Gond**, **Mielikki**, **Silvanus**, **Mystra**, **Selûne**, **Sune**, **Tempus**, **Tymora**, **Siamorphe** and **Asmodeus**: the gods of the ward's temples and the Cassalanters' patron.
 - **Timekeeping and the Festival Calendar**: Plowing and Running, Guildsmeet and Founders' Day.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled by ruling 1:** Tower of Luck. The Major Temples table (`sources/adventure-wdh.json:30982-30986`) puts it in the Castle Ward, and `castle-ward.md` (lines 165 and 271), `tymora.md` (line 64) and `00-the-deities.md` (line 320) now say the same. The Sea Ward text (line 30882) still describes it among the ward's temples, and the same text (line 30884) places the Shrines of Nature a block away from it. This page follows the table and does not list it as a ward temple.
 > - **Settled by the user (Session 51):** Selûne's temple name. The table says Tower of the Moon (line 30969), and the Sea Ward text (line 30881), the Hallowing entry (31558), *Dungeon of the Mad Mage* and the wiki call it the House of the Moon. The page uses House of the Moon, gives the table's name once in the Landmarks entry and treats them as one building, as `selune.md` does. The wiki's High House of Stars, an older Selûne temple destroyed before the House of the Moon was built, is left out.
 > - **Conflicts:** Mirt's manor. Dragon Heist's Lightsinger text (line 3842) says his manor is in the Sea Ward, and its Castle Ward chapter (line 31013) puts his mansion near the Naval Harbor. The Harper events (`harpers/r03-harpshadow/ev-01-harpshadow.md:22`, `m01-the-talking-mare/ev-01-the-talking-mare.md:359`) and `01-harpers.md` (line 21) say Sea Ward. Brief ruling 5 sets the mansion in the Castle Ward and leaves the Harper events alone. The street "behind the Naval Harbor" is invented (`r03-harpshadow/design-notes.md`, line 17).

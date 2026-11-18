@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this is:** The Era page for the founding of Waterdeep's government, the oldest layer of the campaign's backstory. It is the first of eight eras, before **The Long Shadow**.
 > - **Where it is used:** The GM reads it before answering any question about why the city has an Open Lord and Masked Lords, what the dragonward is, who lies in the tower in the Palace courtyard, or why Ahghairon's name turns up in so many places.
 > - **Featured in:** **Gralhund Villa** (Istrid Horn's meeting at Ahghairon's Statue, and Yalah's bid for a Masked Lord's seat), **Kolat Towers** (the hold Manshoon's cell has over two Masked Lords), **Vault of Dragons** (the dragonstaff of Ahghairon), **An Audience with the Open Lord** and **Lioncrown** (Laeral on the Masked Lords).
@@ -18,9 +17,8 @@
 
 **Other Names:** The Lords' Rule Begins. This is the title of the Age Two chapter of *A History of Waterdeep*, the in-world book that the published adventure cites for the events of 1032 DR. "Ahghairon's Gifts" is the campaign's own name for the era. `[research]`
 
-> **[GM]**
+> [!gamemaster]**Lore Summary**
 >
-> #### Lore Summary
 > - Ahghairon was a wizard who rose to fame in the troll wars. In 1032 DR he defied Warlord Raurlor, who wanted a northern empire, and ended the warlord's rule.
 > - From Raurlor's throne he set up the system Waterdeep still uses. One lord sits in public as the Open Lord, and a council of near-equal lords rules beside him, hidden even from one another.
 > - He helped found the city's magisters, the Griffon Cavalry and the guilds, and the Forgotten Realms Wiki adds the wards, the Watch and the dragonward to that list.
@@ -82,9 +80,8 @@
 
 Ahghairon was the wizard who founded Waterdeep's government and served as its first Open Lord. In 1032 DR he defied the warlord Raurlor before the whole city, turned the warlord's own sword into a serpent that killed him, and took the warlord's throne, which the Open Lord still uses. He ruled openly beside a council of Masked Lords whose names were hidden even from one another, and he helped establish the city's magisters, its Griffon Cavalry and its guilds. Ahghairon ruled for more than two centuries and now lies in his tower in the Palace courtyard, behind an invisible barrier, and each year on Ahghairon's Day the people of Waterdeep leave violets around it.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - The Open Lord still sits on Raurlor's burned throne. The Masked Lords' anonymity protects them from bribes offered by strangers, and it gives no protection against blackmail by anyone who has learned their names.
 > - Manshoon's cell holds Masked Lords Jelenn Urmbrusk and Corylus Thann through blackmail. House Gralhund joined the Zhentarim in order to learn the identities and weaknesses of the Masked Lords, and Yalah Gralhund wants a seat for herself. See **Manshoon**, **Jelenn Urmbrusk** and **Yalah Gralhund**.
 > - The Masked Lords are hidden from each other, but the Open Lord is the one who vets and names them, so the Open Lord can know them all. That is how Laeral can say in **Lioncrown** that she knows them. The reserved powers are wiki-only, so this reading is a campaign ruling. `[research]`
@@ -122,17 +119,15 @@ Ahghairon was the wizard who founded Waterdeep's government and served as its fi
 - **Force Grey** and **The Lords' Alliance**: the Open Lord's agents.
 - **Laeral Silverhand**, **Dagult Neverember**, **Mirt**, **Manshoon**, **Jelenn Urmbrusk**, **Yalah Gralhund**, **Aurinax**, **Jarlaxle Baenre**: the people named here.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Timeline.** 920 DR: Ahghairon is born, according to the wiki. 1032 DR: Ahghairon defies Raurlor, takes the throne and founds the government. 1256 DR: Ahghairon dies, according to the wiki.
 > - Wiki-only dates inside the era: 1007 DR, Ahghairon's Tower is built and Halaster's Hold is sealed; 1035 DR, the wards begin; 1071 DR, the dragonward; 1235 DR, the siege that leads to the Griffon Cavalry; 1246 DR, the Masked Lord Kerrigan kills three of the other Lords, the only recorded betrayal; 1248 DR, the guilds are ordered.
 > - After the era, from the wiki: 1256 DR to 1262 DR, the Guildwars; 1262 DR to 1273 DR, the Lords Magister; 1273 DR, Baeron and Shilarn restore the Lords. 1479 DR: the Griffon statue wakes, according to the published adventure.
 > - Ches 1, 1492 DR: the campaign opens.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Research:** The Span end year, 1256 DR, and the dates inside the era come from the wiki alone. The 460-year gap to the campaign is arithmetic.
 > - **Research:** Other Names. "The Lords' Rule Begins" is an in-world book title that the adventure cites, and nothing says it names the era.
 > - **Research:** The closing idea ("built to survive bad rulers, and the campaign is the test") is campaign framing with no source. So is the old claim that the dragonward, the Code Legal and the City Watch were protections built against tyranny. The Open Lord "designed to be removed if they fail the city" has been dropped, since only the Neverember vote supports any removal.

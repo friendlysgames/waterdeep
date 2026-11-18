@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Talona, the Lady of Poison and god of disease, for players who want to build a character around her or against her, and for the GM who needs to know what the sources say.
 > - **Where it is used:** Talona appears in no quest, faction page or Notable Figure. The published *Dragon Heist* and *Dungeon of the Mad Mage* do not name her. Only other Deities pages mention her, as a power that Tyr, Chauntea, Kelemvor and others oppose.
 > - **Featured in:** No quest. No campaign file ties a poisoner, a cult or a plague to her.
@@ -53,9 +52,8 @@
   - In -33 DR a demipower named Kiputytto, the sister of Loviatar, challenged her for her portfolio. The fight spread plagues across the nation of Asram, and its people gave Talona devotional power in the hope that she would ease them. Talona won and soon afterward murdered Kiputytto, and later texts treated Kiputytto as an alias of Talona (*Faiths & Avatars*, 2e; *Netheril: Empire of Magic*).
 - **In the campaign:** Talona is alive and present in 1492 DR, as every power is. No file treats her as dead or absent, and the wiki records no death for her.
 
-> **[GM]**
+> [!gamemaster]**Using Talona as a Deity**
 >
-> #### Using Talona as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as a goddess people pray to out of fear. A sage, a priest or a regular at the bar says she is the Lady of Poison, the god of disease and poison, blamed for plague, bad wells and failing crops. They add that people beg her for mercy when sickness comes and forget her when it passes, that she is shown as a withered crone with a cup of every poison, and that three teardrops in a triangle mean her, whether painted on a sick man's door or on a flask of poison. How the city feels about someone who admits to following her is unsourced. [research]
 > - **Waterdeep:** Talona has no temple, shrine or priest in the city in any source.
 >   - The Dragon Heist Major Temples table has no Talona row (`sources/adventure-wdh.json:30922-30996`). Its "All deities" row, Holyhands House in the North Ward (`:30923-30925`), covers her by its own wording, and no source says her faithful use it.
@@ -91,9 +89,8 @@ Talona is the Lady of Poison, the god of disease and poison, whom the people of 
 - **Silvanus**, **Ilmater** (Deities): two more powers whose pages list her as a foe.
 - **Bane** (Deities): his page lists her among his working relations.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **No campaign tie, searched:** A search of `campaign/` for Talona, Talontar, the Lady of Poison, the Mistress of Disease, the Plague Crone, the Plague Rats, plague and teardrop returns only Deities pages that list her as a foe or an ally (`tyr.md:43`, `chauntea.md:44`, `kelemvor.md:49`, `bhaal.md:44`, `shar.md:51`, `silvanus.md:54`, `mielikki.md:44`, `ilmater.md:50`, `bane.md:44`). Neither Dragon Heist file names her.
 > - **Poisoners checked, none tied:** The campaign's poisoners are Rella Asp, a Cassalanter operative (`campaign/setting/notable-figures/cassalanters/12-rella-asp.md:6`; `campaign/setting/organizations/10-cassalanters.md:52`), the poisoning in Doom Raiders Mission 2 (`campaign/quests/faction-events/doom-raiders/m02-the-poisoned-delivery/ev-01-the-poisoned-delivery.md:285`), and Asmagh, the apothecary of the Castle Ward folk tradition (`campaign/gazetteer/waterdeep/castle-ward.md:161`). No file says any of them serves Talona, so the page draws no link. The Cassalanters' Founders' Day ritual stays out entirely: no file connects it to her, and the Cassalanter secrecy rule keeps the family's worship under Asmodeus and out of this page.
 > - **Lycanthropes:** The wiki gives wererats as her 2e worshipers and the Plague Rats as a wererat order. No file links her to Kelso Fiddlewick, the wererat leader of the Shard Shunners (`campaign/setting/notable-figures/independents-adversaries/03-kelso-fiddlewick.md`), so the page links none.

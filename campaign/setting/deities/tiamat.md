@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Tiamat, the Dragon Queen and head of the evil dragons, for a GM who needs a power behind a cult, a draconic villain or an evil cleric, and for a player who wants to build one.
 > - **Where it is used:** Tiamat never appears in person and no quest treats her as a living power. The campaign touches her in two places: the opera *The Fall of Tiamat* in the Harpers First Meeting, and a seed shrine to her on Level 16 of Undermountain.
 > - **Featured in:** the **Harpers** First Meeting (the opera). No quest uses her as a god, and no file ties her to Aurinax, Zelifarn, the Vault of Dragons or the Cult of the Dragon.
@@ -58,9 +57,8 @@
   - Angry at the betrayal, she told the Cult of the Dragon to assemble the Mask of the Dragon Queen so she could escape. Severin Silrajin used it to bring her temple from Avernus to the Well of Dragons, and he and his forces were defeated and she was banished back to the Nine Hells (*Hoard of the Dragon Queen*; *The Rise of Tiamat*, 5e; *Storm King's Thunder*). As of 1491 DR her chief aim was still to break free (Ed Greenwood's 2015 Candlekeep answer; *Hoard of the Dragon Queen*).
 - **In the campaign:** Tiamat is alive and present in 1492 DR, as every power is, and she is held in Avernus. The wiki's infobox date of death (-1071 DR, "allegedly") and the avatar slain in 1359 DR are history, and the wiki says each destroyed only an avatar or aspect (see Draft Notes).
 
-> **[GM]**
+> [!gamemaster]**Using Tiamat as a Deity**
 >
-> #### Using Tiamat as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as the villain of a famous opera. A sage, a priest or a regular at the bar says Tiamat is the five-headed Dragon Queen, the god of evil dragons and greed, whose symbol is a dragon's head with five claw marks. They add that the chromatic dragons answer to her, that her brother Bahamut rules the good metallic dragons, and that the two have fought since dragons began. They know her best from *The Fall of Tiamat*, the opera sung in Giant at the Lightsinger Theater, which has the dragon queen beaten at the Well of Dragons. No source names a Waterdhavian who worships her. How much a Waterdhavian knows of the Cult of the Dragon is unsourced. [research]
 > - **Waterdeep:** Tiamat has no temple, shrine, priest or festival in the city in any source.
 >   - The Dragon Heist Major Temples table has no dragon row (`sources/adventure-wdh.json:30921-30996`). Its "All deities" row, Holyhands House in the North Ward (`:30923-30925`), names no power, and no source says her faithful use it.
@@ -75,9 +73,8 @@
 
 Tiamat is the five-headed Dragon Queen, a lawful evil goddess who rules the evil dragons and prizes hoarded gold above everything. Chromatic dragons are her oldest worshipers, and some members of the Cult of the Dragon are said to serve her. Her brother and enemy is Bahamut, who rules the good metallic dragons. Waterdeep has no temple of hers, and most citizens know her from the opera *The Fall of Tiamat* at the Lightsinger Theater in the Castle Ward.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **The opera:** In the Harpers First Meeting, a paper bird invites the party to *The Fall of Tiamat* at the Lightsinger Theater, where Mirt meets them in Private Box C at intermission. The opera is sung in Giant and ends with the dragon queen beaten at the Well of Dragons (`campaign/quests/faction-events/harpers/00-first-meeting/ev-01-first-meeting.md:8` and `:89`; `sources/adventure-wdh.json:3834`).
 > - **The staging:** Tiamat's five heads are painted wood and silk on poles, worked by ten stagehands behind a black screen, and colored driftglobes light each head. Orsolya Venn, a contralto, sings Tiamat, and Tiamat sinks below the stage on a lift in the second act (`ev-01-first-meeting.md:146`, `:148` and `:328`).
 > - **No clue in it:** The event says "*The Fall of Tiamat* carries no clue, and nothing in it bears on the meeting. Use as much or as little as the table enjoys." (`ev-01-first-meeting.md:143`). The company's names are invented color (`campaign/quests/faction-events/harpers/00-first-meeting/design-notes.md:21`).
@@ -121,9 +118,8 @@ Tiamat is the five-headed Dragon Queen, a lawful evil goddess who rules the evil
 - **The Open Lord's Fall** (History): the Council of Waterdeep and the Cult of the Dragon.
 - **Vault of Dragons**, **Sea Maidens Faire** (quests) and **The Dragon in the Harbor** (Force Grey mission): where the campaign's dragons appear.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, pantheon:** The PHB entry files her under the Nonhuman pantheon (`sources/research/pass2-bundles/tiamat/5etools.md:24`), while the wiki lists the Faerûnian, Draconic and Untheric pantheons (`wiki.txt:12`). The page shows both in the Pantheon field. The hub row should read Nonhuman (PHB, 2014).
 > - **Conflict, alignment:** The PHB gives Lawful Evil (`5etools.md:26`). The wiki gives lawful evil in 1e to 3e, evil in 4e (`wiki.txt:37`) and lawful evil and chaotic evil in 5e (`wiki.txt:22`), and its opening line says chaotic evil and lawful evil (`wiki.txt:106`). The page takes the PHB as primary and shows the wiki beside it. The hub row should read Lawful Evil (PHB, 2014).
 > - **Conflict, domains:** The PHB gives Trickery (`5etools.md:27`). The wiki's 5e row gives Death and Trickery, with Death cited to *Baldur's Gate: Descent into Avernus* (`wiki.txt:29`). The page takes the PHB and shows the rest. The hub row should read Trickery (PHB, 2014) and Order Domain (derived).

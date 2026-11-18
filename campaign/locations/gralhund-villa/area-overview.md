@@ -1,8 +1,7 @@
 # Gralhund Villa — Area Overview
 
-> **[GM]**
+> [!gamemaster]**Area Map Context**
 >
-> #### Area Map Context
 >
 > Gralhund Villa occupies a full block on Saerdoun Street, North Ward. The location journal covers the perimeter (G1–G3), ground floor (G4–G10), upper floor (G11–G19), and exterior structure (balcony G17, yard G2).
 >

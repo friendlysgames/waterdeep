@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Eilistraee, the drow god of song and moonlight, and a reference for a player who wants a cleric, paladin or devout character who follows her.
 > - **Where it is used:** Eilistraee never appears in person, and no campaign file names her. The page states what the sources place in Waterdeep, and it holds the three Undermountain seeds that the published adventure gives her.
 > - **Featured in:** No quest. The published *Dungeon of the Mad Mage* puts her statue and temple on Level 10, and Undermountain is future work.
@@ -56,9 +55,8 @@
   - After her return she and Vhaeraun reached an understanding, though some of their followers still fight each other (Ed Greenwood, as the wiki cites him).
 - **In the campaign:** Eilistraee is alive and present in 1492 DR, as every power is. FRHoF describes her in the present tense, and the published Undermountain adventure gives her a temple. Her death and disappearance in 1379 DR are history, and Draft Notes records the difference.
 
-> **[GM]**
+> [!gamemaster]**Using Eilistraee as a Deity**
 >
-> #### Using Eilistraee as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as a goddess most people have only heard about. A sage, a priest or a regular at the bar says she is the Dark Maiden, a drow god of song and moonlight who is shown dancing with a sword before the full moon. They add that she is the daughter of the Spider Queen and turned against her mother, and that her few followers are drow who left the Underdark, along with elves and performers who dance beneath the full moon. Some people suspect her faithful of working for Lolth in disguise, and some elves are uneasy that a drow goddess exists at all (*Faiths & Pantheons*, 3e; *Demihuman Deities*, 2e). No source records what ordinary Waterdhavians actually think of her. [research]
 > - **Waterdeep:** Eilistraee has no temple, shrine or priest in the city in any campaign file or in the Dragon Heist text.
 >   - The Major Temples of Waterdeep table has no Eilistraee row (`sources/adventure-wdh.json`, caption at about line 30910). Two rows could cover her. Holyhands House in the North Ward is listed for all deities (`:30923-30925`), and the Temple of the Seldarine in the Castle Ward is listed for all elven deities (`:30928-30930`). No source says her faithful use either.
@@ -104,9 +102,8 @@ Eilistraee, the Dark Maiden, is the chaotic good god of song, dance and moonligh
 - **Laeral Silverhand** (Notable Figures): one of the Seven Sisters, whose nickname for Eilistraee the wiki records.
 - **Castle Ward** (Gazetteer): the ward of the Temple of the Seldarine.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled by precedence, domains:** SCAG (2014) gives Light and Nature (`sources/research/pass2-bundles/eilistraee/5etools.md:27`). MTF (2018) gives Life, Light and Nature (`5etools.md:15`), and the wiki's 5e row matches MTF (`wiki.txt:104`). MTF is newer than SCAG, so the page lists Life, Light and Nature and names SCAG's two as the older printing. The hub row carries all three.
 > - **Settled by precedence, title and gender:** FRHoF prints "God of song and moonlight" and "the drow god" (`5etools.md:3` and `:7`), SCAG prints "Goddess" (`5etools.md:25`), the published adventure writes "drow god" (`sources/adventure-wdmm.json:30017`), and the wiki gender field is Feminine (`wiki.txt:19`). FRHoF is newer and wins, so the title field uses FRHoF's title and keeps SCAG's as the older printing. The page uses the pronoun "she", which every source's text uses. A separate decision covers the pronoun and the word "goddess" in prose.
 > - **Settled by precedence, pantheon:** FRHoF files her under the Faerûnian pantheon (`5etools.md:1`), and SCAG and MTF file her under the Drow pantheon (`5etools.md:13` and `:24`). FRHoF is newer and wins, so the Pantheon field leads with Faerûnian and gives the Drow pantheon as the older printing. The wiki gives the Dark Seldarine, formerly the Seldarine (`wiki.txt:18`), which ranks below both.

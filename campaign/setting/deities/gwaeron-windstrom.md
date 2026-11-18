@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Gwaeron Windstrom, the demigod of tracking and the Mouth of Mielikki, written for players who want a ranger, cleric or paladin devoted to him.
 > - **Where it is used:** Gwaeron never appears in person, and no campaign file or published adventure names him. The page serves character building and gives the GM a clear answer when a player asks what Waterdeep knows of him.
 > - **Featured in:** No quest or event names him. The **Mielikki** page names him as the messenger who carries northern rangers' prayers to her.
@@ -49,9 +48,8 @@
   - In the Time of Troubles (1358 DR), Malar fled north after Nobanion beat him in Gulthmere Forest. Gwaeron hunted him across the region and could not be shaken from the trail, while Shiallia followed and undid the damage Malar caused (*Powers & Pantheons*; the wiki's Avatar Trilogy summary).
 - **In the campaign:** Gwaeron is alive and present in 1492 DR. No file has him appear, speak or act in a scene.
 
-> **[GM]**
+> [!gamemaster]**Using Gwaeron Windstrom as a Deity**
 >
-> #### Using Gwaeron Windstrom as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as a ranger's god whom the city seldom thinks about. A sage or a priest says he is the god of tracking, a ranger who rose to godhood, and that rangers of the North pray to him because Mielikki is too wild to ask directly. They add that his symbol is a paw print with a star in it, that he is pictured as a hale old man with a long white beard, and that he sleeps in a stand of trees near Triboar. A regular at the bar who has traveled north to that town may know its nickname, "The Town Where Only Gwaeron Sleeps" (wiki, citing *Volo's Guide to the North*). Nobody in the city can point to a temple of his, because he has none. How Waterdhavians feel about him is unsourced. [research]
 > - **Waterdeep:** The sources place no temple, shrine or priest of Gwaeron in the city.
 >   - SCAG (2014) says he has no temples anywhere, only trail-marker shrines in the wild. The Dragon Heist Major Temples table (caption at `sources/adventure-wdh.json:30910`) has no row for him.
@@ -88,9 +86,8 @@ Gwaeron Windstrom is the god of tracking, a ranger who was once mortal and was r
 - **Shaundakul** (Deities): an ally in the wiki's account.
 - Lurue, Shiallia, Nobanion and Vaprak: powers outside the roster, named as servants, an ally and an enemy.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **No FRHoF entry:** Heroes of Faerûn has no entry for this god; the page rests on SCAG (2014) and the wiki.
 > - **Conflict, domains:** SCAG gives Knowledge and Nature (bundle `5etools.md:5`). The wiki's 5e row adds Forge (`wiki.txt:61`), citing the Player's Handbook, *Xanathar's Guide to Everything* and an Ed Greenwood post. The page follows SCAG and leaves Forge out.
 > - **Conflict, temples:** SCAG says he has no temples (`5etools.md:10`). The wiki infobox says "church = yes" (`wiki.txt:142`) and links a Church of Gwaeron Windstrom page, but the page carries no temple text. The page follows SCAG.

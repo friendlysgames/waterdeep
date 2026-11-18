@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Tyr, the god of justice, and the reference for the faith practiced at the Halls of Justice.
 > - **Where it is used:** Tyr never appears in person. His faith runs through the Order of the Gauntlet, whose Waterdeep chapter works out of his temple, and through Hlam and Lady Gondafrey.
 > - **Featured in:** **Trollskull Alley**, **Kolat Towers** (Lady Gondafrey), **Vault of Dragons** (the Halls of Justice and Hlam), and the Order of the Gauntlet missions and rank events, including **Spined Devils in Twelvedog Court**, **The Writ and the Weight** and **Righteous Hand**. Force Grey's first mission, **Consulting Hlam**, also sends the party to a servant of Tyr.
@@ -52,9 +51,8 @@
   - He died between 1385 DR and 1479 DR fighting a demonic invasion of the upper realms (*Forgotten Realms Campaign Guide*, 4e). He returned to life in the Second Sundering, in the 1480s DR (*Sword Coast Adventurer's Guide*, 5e).
 - **In the campaign:** Tyr is alive and present in 1492 DR. His temple is a working temple, his priests act in his name, and no file treats him as dead or absent. The 4e abdication, his death and Bahamut's stand-in as god of justice are history that the Second Sundering undid. Tyr reigns, heads the Triad and holds the justice portfolio (see Draft Notes).
 
-> **[GM]**
+> [!gamemaster]**Using Tyr as a Deity**
 >
-> #### Using Tyr as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the god behind the city's law. A sage, a priest or a regular at the bar says he is the blind, one-handed god of justice, shown as scales balanced on a warhammer, and that Waterdeep is a city of laws molded by his spirit of justice. They add that a cause that is just will be heard fairly, and that a wrong takes time to weigh on his scales before his hammer falls with the whole city behind it. At the Halls of Justice, Father Corwen Thale calls him the Just God and Isaldric Veyne the Even-Handed, and Savra Belabranta of the Order of the Gauntlet calls him the Maimed God.
 > - **Waterdeep:** Tyr has one temple in the city, the Halls of Justice in the Castle Ward, west of the Market.
 >   - The Dragon Heist Major Temples table lists "Tyr, Halls of Justice, Castle Ward". The Castle Ward gazetteer describes it as the temple of Tyr and the courts, and a petitioner can hire an advocate there to file a petition for fifty gold.
@@ -72,9 +70,8 @@
 
 Tyr is the god of justice, a lawful good power whom Waterdhavians picture as a blind warrior with one hand missing and a pair of scales resting on a warhammer. The city holds that its laws are his, and the Halls of Justice in the Castle Ward serves as both his temple and a seat of the courts. Judges, lawyers and the knights who wear thin strips of cloth over their eyes are the people most likely to speak for him. Visitors are told that a just cause will be heard fairly in Waterdeep and a guilty one will be punished, and the locals credit Tyr for both.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **The Order of the Gauntlet:** Savra Belabranta heads the Waterdeep chapter from a clerk's office in the east annex of the Halls of Justice, with a rotation of about a dozen Knights and Priests. The priests of the Order's three temples help the Order without belonging to it. A member swears the oath at the Halls before Father Corwen Thale, a gray-haired priest of Tyr with a missing left hand, who has presided over the Order's oaths for twenty years and says "the Just God". At Renown 50, usually during **Dungeon of the Mad Mage**, Isaldric Veyne, who says "the Even-Handed", invests the member as Righteous Hand in the main hall.
 > - **The Order's use of the Halls:** Brother Haldric Wence, the door-warden, keeps messages and arranges *Speak with Dead* on bodies the Watch holds. At Renown 1 a member gets *Cure Wounds* once a day and a bed for up to three nights at any temple of Tyr, Helm or Torm. In **Spined Devils in Twelvedog Court**, Sister Ilvane Haste reads the *Zone of Truth* scroll at the Halls. In **The Writ and the Weight**, a devil comes to the Halls for the exhibit, and Father Corwen keys the hallowed vestry. In **Savra's Past**, Savra takes the party to the chapel with the statue of Tyr. In **Vault of Dragons**, a party that marked **Order Recognized** has been formally recognized by the Halls of Justice as Order associates. Saeth Cromley, a retired City Watch sergeant, drinks in the sergeants' room most afternoons.
 > - **Sister Valdra:** A half-orc cleric of Tyr and an unofficial Order operative whom Savra does not know. She has built a case against the Cassalanters on three months of her own time and a servant's story the Watch dismissed. She cannot say what the family hides, only that it is too generous and too perfect, so what she holds is suspicion and nothing more. No Order event uses her.
@@ -118,9 +115,8 @@ Tyr is the god of justice, a lawful good power whom Waterdhavians picture as a b
 - **Castle Ward** (Gazetteer): the ward of the Halls of Justice.
 - **Trollskull Alley**, **Kolat Towers**, **Vault of Dragons** (quests): where the faith comes into play.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, resolved:** The Sea Ward versus the Castle Ward. The Dragon Heist table (`sources/adventure-wdh.json:30987-30991`), the retired Waterdeep outline, line 37 and `campaign/gazetteer/waterdeep/castle-ward.md:66` all put the Halls of Justice in the Castle Ward, so this page uses the Castle Ward. The Order design notes (`campaign/quests/faction-events/order-of-the-gauntlet/00-first-meeting/design-notes.md:24` and `r10-whitehawk/design-notes.md:21`) still say the retired Waterdeep outline, line 36 lists Tyr in the Sea Ward. Line 36 now names only Tymora and Selûne, so those notes cite a stale line.
 > - **Settled by ruling, edition:** The wiki says Tyr abdicated his godhood to Torm, with Bahamut taking the justice portfolio, and then died between 1385 DR and 1479 DR (*Forgotten Realms Campaign Guide*, 4e). It says he returned in the 1480s DR (*Sword Coast Adventurer's Guide*, 5e). The Sundering ruling undid every Spellplague-era change by 1492 DR, so the abdication, the death and Bahamut's stand-in are 4e history. In 1492 DR Tyr is alive, reigns, heads the Triad and holds the justice portfolio, and the Halls of Justice is a working temple. The page keeps the 4e account in order as tagged history.
 > - **Handedness:** Tyr lost his right hand (FRHoF; `campaign/quests/faction-events/order-of-the-gauntlet/s02-savras-past/ev-01-savras-past.md:106` carves the statue's right hand away). Father Corwen Thale is missing his left (`campaign/quests/faction-events/order-of-the-gauntlet/00-first-meeting/ev-01-first-meeting.md:242`). No file explains the difference, so the page states both and does not link them.

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Valkur, the Captain of the Waves and the god of sailors, and the reference for what a Waterdhavian can say about him.
 > - **Where it is used:** Almost nowhere in the campaign. The festival calendar lists him third among the sea gods honored at Fleetswake, and no other campaign file, Notable Figure or published adventure line names him. The Dragon Heist Major Temples table gives him no temple. The page exists for character building, so a player can pick him as a sailor's, cleric's or paladin's patron.
 > - **Featured in:** No quest. **Sea Maidens Faire** shares his festival only by date, since its carnival fleet arrives in harbor on the first day of Fleetswake, and no file ties him to the Faire.
@@ -52,9 +51,8 @@
   - The wiki says his activity during the Time of Troubles is unclear. Afterward he worked on his unresponsiveness, which had led northern sailors to placate the Gods of Fury instead of trusting him. In the fifteenth century DR his focus has settled on the North, and he is counted a god of Northlander sailors (*Powers & Pantheons*, 2e; SCAG, 2014, via the wiki).
 - **In the campaign:** Valkur is alive and present in 1492 DR as a god of the Faerûnian pantheon. The 4e exarchy is wiki history that this page does not use as his present rank (see Draft Notes).
 
-> **[GM]**
+> [!gamemaster]**Using Valkur as a Deity**
 >
-> #### Using Valkur as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the sailors' friend, who is not always at home. A sage, a priest or a regular at the bar says he is the Captain of the Waves, the god of sailors, ships and fair winds, and that his sign is a cloud with three lightning bolts. They add that sailors ask him to see a voyage through from the first tide to the last, that he is a cheerful sort who bears no grudges, and that you cannot count on him to answer. Old hands say he comes to becalmed ships as a ghostly wind, and that a silver gull on the wind means he is pleased. Northlander sailors hold him above every other god, and an insult to him is a bad idea in their company. How the rest of Waterdeep feels about him is unsourced. [research]
 > - **Waterdeep:** The sources place no temple, shrine, priest or standing observance of Valkur in the city, and the campaign gives him one festival mention.
 >   - The Dragon Heist Major Temples table has no Valkur row. Its only generic row is "All deities", which names Holyhands House in the North Ward and no power (`sources/adventure-wdh.json:30922-30926`). The wiki has no text that mentions Waterdeep.
@@ -93,9 +91,8 @@ Valkur is the Captain of the Waves, a chaotic good god of sailors, ships and fav
 - **Timekeeping and the Festival Calendar** (History): Fleetswake, the one place the campaign names him.
 - **Sea Maidens Faire** (quest): its carnival fleet arrives on the first day of Fleetswake. No file ties Valkur to the quest.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **No FRHoF entry:** Heroes of Faerûn has no entry for this god; the page rests on SCAG (2014) and the wiki.
 > - **Settled by the user (Session 51), plane:** The wiki disagrees with itself. Its 2e line puts him in Ysgard (`wiki.txt:85`, `:151`), its 3e line in Warrior's Rest (`wiki.txt:70`), and its 4e line gives his dominion as Warrior's Rest (`wiki.txt:55`). Safe Harbor is his realm in 2e and 3e (`wiki.txt:71`, `:86`). FRHoF gives no plane for him. The page keeps both planes, tagged by edition. The 4e line also has him serving Tempus (`wiki.txt:57`), and that clause is history and not used.
 > - **Conflict, rank:** 2e demipower or lesser power (`wiki.txt:82`), 3e demigod (`wiki.txt:67`), 4e exarch (`wiki.txt:52`), 5e hero-god and lesser deity (`wiki.txt:38`). The page keeps him an independent god in 1492 DR and gives the exarchy as history, as the Red Knight and Tempus pages do. By the user's ruling on the plane (Session 51), the 4e "serving Tempus" clause is history, so he serves no one in 1492 DR.

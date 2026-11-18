@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Grumbar, the Earthlord and elemental god of earth, for players who want a druid, a stone-minded cleric or a devout character with a remote patron, and for a GM who needs a power behind a mountain shrine or a pledge sworn on stone.
 > - **Where it is used:** Grumbar never appears in person, and no campaign file or published adventure names him. The page records that Waterdeep gives him no temple, so that no later page invents a priest, a shrine or a worshiper.
 > - **Featured in:** No quest. The Vault of Dragons and Undermountain carry dwarven and Elemental Plane of Earth material that sits near him but never names him (see the Campaign ties bullet).
@@ -53,9 +52,8 @@
   - During the Second Sundering, in the late fifteenth century DR, Luthic gave him the Eye of Gruumsh to reaffirm her love after lies spread by **Shar**. In answer, his earth refilled the vast Underchasm (*The Sentinel*, novel).
 - **In the campaign:** Grumbar is alive and present in 1492 DR, as every power is. SCAG describes him in the present tense. The wiki's past tense and its 4e label of primordial are edition history, and Draft Notes records them.
 
-> **[GM]**
+> [!gamemaster]**Using Grumbar as a Deity**
 >
-> #### Using Grumbar as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as a remote power of stone that few people pray to. A sage, a priest or a regular at the bar says he is the Earthlord, the god of earth and one of the four elemental powers, shown as a mountain and pictured as an enormous elemental with eyes like rubies. They add that his temples stand in far mountain ranges, that druids of the First Circle see him in the hills and the soil, and that he keeps his word and gives no ground. How much a Waterdhavian actually knows of him, and which of his names the city uses, is unsourced. [research]
 > - **Waterdeep:** Grumbar has no temple, shrine, priest or festival in the city in any source.
 >   - The Dragon Heist Major Temples table has no Grumbar row (`sources/adventure-wdh.json:30921-30996`). The "All deities" row, Holyhands House in the North Ward (`:30923-30925`), is the only listing that could cover him, and no source says his faithful use it.
@@ -98,9 +96,8 @@ Grumbar, the Earthlord, is the neutral god of earth and one of the four elementa
 - **Silvanus**, **Chauntea**, **Mielikki**, **Eldath** (Deities): fellow nature powers of the First Circle.
 - **Vault of Dragons** (quest): the Hall of Moradin and Dumathoin's Secret, the nearest earth and dwarf material in the campaign.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **No FRHoF entry:** Heroes of Faerûn has no entry for this god; the page rests on SCAG (2014) and the wiki.
 > - **Conflict, rank:** The wiki calls him a deity in its 5e row and a primordial in its 4e row (`sources/research/pass2-bundles/grumbar/wiki.txt:14` and `:29`), and says he nonetheless kept worshipers and a god's power (`wiki.txt:95`). SCAG lists him in the Faerûnian pantheon with a title, domain and symbol. The page keeps him a god and gives the primordial label as edition history.
 > - **Conflict, gender:** SCAG calls him a god and the wiki infobox says masculine (`wiki.txt:13`), while the wiki's Hordelands text calls Etugen a goddess (`wiki.txt:128`). The page keeps "he" and gives Etugen as a regional form.

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** The geography entry for Ahghairon's dragonward, which keeps dragons out of Waterdeep, and for the eight walking statues that stand in the city's streets.
 > - **Where it is used:** The GM reads it before answering what the dragonward stops, who can pass it, or where a named statue stands and who lives in it.
 > - **Quests and events:** **The Poisoned Delivery** (Doom Raiders Mission 2) hands a coffer over beside the God Catcher, and **Silencing Skeemo** (Doom Raiders Mission 4) refers back to that meeting. **The Handkerchief and the Girl** (Bregan D'aerthe Mission 1) puts a Castle Ward clerk at the foot of the Great Drunkard's stair during the Ches 21 parade. **Vault of Dragons** turns on the dragonstaff of Ahghairon and the dragon who holds it. The **Castle Ward** gazetteer page lists six of the eight statues and the ward's source.
@@ -106,9 +105,8 @@ Both features lead back to the Castle Ward. The dragonward begins beneath Ahghai
 
 Waterdeep lies under Ahghairon's dragonward, a permanent magic that no spell can dispel and that keeps dragons from entering the city. It does not reach the harbor or the dungeons below. Eight giant walking statues stand about the city and serve as landmarks, six of them in the Castle Ward. They rampaged during the Spellplague, and only the Griffon has moved since, defending Ahghairon's Tower in 1479 DR.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Who holds the dragonstaff:** Aurinax, an adult gold dragon, holds the dragonstaff of Ahghairon and guards the hidden vault under the city. He can ignore the ward himself and lives in the city as the dwarf Barok Clanghammer. He stays in humanoid form until a fight starts, because he cannot easily carry the staff in dragon form.
 > - **How he came by it:** Maaril, the archmage who last wielded the staff, was his friend and invited him to stay in the city's Dragon Tower. Shortly before the Spellplague Maaril went mad, left Waterdeep and gave Aurinax the staff. Dagult Neverember then let Aurinax keep it as payment for guarding the vault. Dragon Heist places that bargain when Neverember became Open Lord, and the campaign places it after he found the vault (see **The Open Lord's Fall**).
 > - **What the staff is worth:** Whoever holds it decides which dragons the ward admits, one creature at a time. Jarlaxle wants it as leverage over Waterdeep. The structure notes for **Vault of Dragons** add that Manshoon would take it if he could and that Neverember still believes he has a claim to it.
@@ -154,9 +152,8 @@ Waterdeep lies under Ahghairon's dragonward, a permanent magic that no spell can
 - **The Vault of Dragons and Neverember's Embezzlement**: the lore page for the vault.
 - **Tempus**: the House of Heroes, which the Sahuagin Humbled faces.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflicts:** Dragonward mechanism. Dragon Heist says dragons are "physically unable to enter the city (or its sewers)" (`sources/adventure-wdh.json:494`). Four campaign lines still say the Open Lord's permission is needed: the retired Waterdeep outline, line 50, `campaign/setting/history/01-ahghairons-gifts.md:67` and its conflict note at `:144`, `campaign/gazetteer/waterdeep/castle-ward.md:191` and `:274`, and Vajra's answer "The Dragonward keeps dragons out of the city unless the Open Lord allows one in" in `campaign/quests/faction-events/force-grey/m02-the-dragon-in-the-harbor/ev-01-the-dragon-in-the-harbor.md:122`. Ruling 2 governs, and this page follows it. Those files are not edited here.
 > - **Conflicts:** Statue sizes. The old outline calls all eight statues 90 feet tall (the retired Waterdeep outline, line 51), and Dragon Heist gives 90 feet only for the original (`adventure-wdh.json:31192`). The research notes say no source contains "nine stories" for the Honorable Knight, but `adventure-wdh.json:30693` says "At nine stories tall, twice the height of any buildings nearby." `castle-ward.md:192` and `:275` are therefore right about the nine stories, and the notes are wrong. The page gives the figure in stories and does not convert it, since nine stories is close to 90 feet at ten feet a story and ruling 3 says only the original is 90 feet. The Alexandrian calls the God Catcher "a hundred-foot-tall stone humanoid" (`sources/Appendix_C_-_Player_Faction_Missions.md:1265`); the page does not use it, and the Doom Raiders design notes (`m02-the-poisoned-delivery/design-notes.md:27`) already follow the setting entry.
 > - **Conflicts:** The Honorable Knight's ward. Dragon Heist names no ward and says the statue stands "nigh the place where four wards meet" (`adventure-wdh.json:30693`). The wiki says "Settled in the Trades Ward" (`wiki.txt:75`). `castle-ward.md:265` says "Dragon Heist, confirmed by the wiki," but only the wiki gives the ward. The page uses the wiki's Trades Ward and says so in the entry.

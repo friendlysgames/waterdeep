@@ -1,8 +1,7 @@
 ﻿# The Twin Parades
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Event occurs on Ches 21, the opening day of Fleetswake (Ches 21–30). It is calendar-fixed; the quest does not accelerate it. In this Event:
 >
@@ -86,9 +85,8 @@ This is Emmek's Stage 4 misfiring. Kelso targeted the wrong building. Emmek know
 > - **Nimblewright Noticed** — mark when the Perception check on the mechanical figure passes. Read by **Fireball!**, which decides whether the party enters the investigation with a prior sighting corroborating Renaer's account, or cold. If it is not marked, the investigation opens cold.
 > - **Fireball Victim Designated** — mark with the chosen NPC's name when the GM designates the victim, and note the name in session notes. Read by **Fireball!** in its opening beat.
 
-> **[GM]**
+> [!gamemaster]**Transition to Fireball**
 >
-> #### Transition to Fireball
 >
 > Proceed to **Fireball: Fireball!** The explosion occurs the following morning, Ches 22nd. The Sea Maidens Faire fleet is now docked in Waterdeep Harbor. Fleetswake (Ches 21–30) is the primary Sea Maidens Faire reconnaissance window; see **Sea Maidens Faire Overview**.
 

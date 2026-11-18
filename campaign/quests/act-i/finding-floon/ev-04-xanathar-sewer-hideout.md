@@ -1,8 +1,7 @@
 ﻿# Xanathar Sewer Hideout
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Exploration/Combat Event occurs when the party enters the sewers to follow Floon's trail. In this Event:
 >
@@ -26,9 +25,8 @@ The party enters the sewers through the grate half a block east of the warehouse
 - **0 successes:** The party arrives at Q07 too late — interrogation over, Floon's body on the floor (arc failure state)
 - **2 or more failures:** The party takes enough wrong turns to be heard at Q01; the Q02 goblins wake up
 
-> **[GM]**
+> [!gamemaster]**Navigation Outcome Summary**
 >
-> #### Navigation Outcome Summary
 >
 > | Navigation Result | Outcome |
 > |---|---|
@@ -86,9 +84,8 @@ At Q11, it presses its 3-inch stone orb into the pillar's circular indentation. 
 
 After Nihiloor escapes, Q11's pillar is inert. DC 14 Intelligence (Arcana) identifies the indentation as a key socket. DC 16 Intelligence (History) identifies the guildsign as Xanathar's mark. See the **Q11 — Escape Portal** room entry in the **Xanathar Sewer Hideout** journal for full mechanic details.
 
-> **[GM]**
+> [!gamemaster]**Nihiloor — Restraint is the Point**
 >
-> #### Nihiloor — Restraint is the Point
 >
 > The party's encounter with Nihiloor is a sight-line. They see it rise, release the intellect devourer, and glide out of the room. This moment shows that Grum'shar was never the top of this structure. The goal is scale. Players should leave Q07 understanding that something they cannot yet face was running this cell. Its full scope surfaces across Trollskull Alley through Xanathar.s Lair.
 

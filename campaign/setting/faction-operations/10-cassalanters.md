@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **Page type:** GM-only operations page for a villain faction. It holds the faction's Grand Game stance, response teams, outposts, escalation behavior and revelation list. The faction's lore lives on the **Cassalanters** organization page.
 > - **Campaign role:** Villain faction; the Cassalanters shift between a passive and a hostile posture depending on whether the party agreed to help them.
 > - **Used in play:** Between sessions, when the GM checks how the family answers the party's actions. At the table, when the party hits the Asmodean Shrine or the Converted Windmill.

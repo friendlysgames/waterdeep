@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the patron entry for Titania, the Summer Queen of the Feywild and an Archfey patron for warlock characters. She is not a god of the Faerûnian pantheon, 5etools has no entry for her and the sources give her no domains, so this page replaces the cleric and paladin guidance of a deity page with warlock guidance.
 > - **Where it is used:** Titania never appears in the campaign, and no campaign file names her. She is a choice for a player building a warlock. *Dragon Heist* names her once, among the costumes worn on Fey Day (Ches 19), and the campaign calendar keeps that festival.
 > - **Featured in:** **Trollskull Alley**, through the Fey Day entry in the campaign calendar and nothing else. No quest uses her.
@@ -49,9 +48,8 @@
 - **Origin and rise:** The wiki gives none beyond her titles and her courts. [research]
 - **In the campaign:** Titania is alive and present in 1492 DR, as every power in this journal is. The wiki writes of her in the past tense, and no file shows her acting.
 
-> **[GM]**
+> [!gamemaster]**Using Titania as a Patron**
 >
-> #### Using Titania as a Patron
 > - **The ordinary Waterdhavian's view:** Voice her as a figure from a festival. Waterdhavians meet her name on Fey Day, when revelers dress as fey beings and as rulers of the Feywild, with Queen Titania among the three the book names. A sage can add that she is the Summer Queen who leads the Seelie Court. *Dragon Heist* calls these rulers the "supposed rulers of the Feywild", so the city treats them as figures of story more than objects of worship (derived). No source records any other Waterdhavian opinion of her, or a rumor about her. [research]
 > - **Waterdeep:** No temple, shrine or cult. The Major Temples of Waterdeep table in *Dragon Heist* lists none of Titania, and no campaign file or wiki entry places one in the city.
 >   - The table lists the Temple of the Seldarine in the Castle Ward for all elven deities and Holyhands House in the North Ward for all deities. The wiki says the Seldarine are on good terms with Titania (*On Hallowed Ground* 2e), but no file says either temple honors her. [research]
@@ -88,9 +86,8 @@ Titania is the Summer Queen of the Feywild, leader of the Seelie Court and possi
 - **Mielikki** (Deities): the goddess whose entry lists fey among her worshipers.
 - **Trollskull Alley** (quest): the Fey Day entry in the campaign calendar.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Search results:** No campaign file names Titania, Oberon, the Seelie Court, the Court of Stars or the Feywild apart from the Fey Day lines above and other Deities pages. Neither adventure JSON names Titania or the Court of Stars. The Court of Stars appears only as the wiki's other name for Senaliesse (*Manual of the Planes* 4e). The research notes call Fey Day the only Waterdeep mention, which is true of Titania herself. They missed the two faerie dragons (Wishes and Otto), which are added to Campaign ties.
 > - **Conflict, real or supposed:** *Dragon Heist* calls Titania, Oberon and Hyrsam the "supposed rulers of the Feywild" (`sources/adventure-wdh.json:31385`), while the wiki treats Titania as a real archfey on a real throne. The page follows the wiki for her nature and the adventure for what Waterdhavians believe. No file reconciles them.
 > - **Conflict, the Fey Day veil:** The adventure says the veil to the Feywild "is thought to be weak on this day", and the campaign calendar (`campaign/setting/history/09-timekeeping-and-the-festival-calendar.md:115`) uses Fey Day only as cover for masked guests. No file says anything crosses on that day, so the page does not.

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - The Dock Ward is Waterdeep's port ward, a district of piers, shipyards, warehouses and tenements that holds, with the Field Ward, most of the city's poor. Xanathar's Guild treats it as its main surface territory, and Manshoon's Zhentarim fight a low-level street war against it here.
 > - **Finding Floon** is set here from start to finish. Volo sends the party to the Skewered Dragon, the Dock Ward investigation leads to the Candle Lane warehouse, and the sewers below the ward lead to the Guild hideout where Floon is held.
 > - **Trollskull Alley** has the Doom Raiders assign **The Dockside Killer**, names Filthy Meg as a Mistshore source, hands out a Guild token for the Old Xoblob Shop after the Field of Triumph, and brings the Sea Maidens Faire fleet into the harbor on Ches 21.
@@ -34,9 +33,8 @@ The Dock Ward is the part of Waterdeep that works for a living, a steep ward of 
 - **Economy:** Docks, shipyards, warehouses and fish markets. Guild halls for the sea trades. Moneylending, fences, pawnbrokers and hired protection. Guild law applies as everywhere in the city.
 - **Organizations:** Xanathar's Guild, Manshoon's Zhentarim, the Doom Raiders (Istrid Horn's warehouse, a Black Network safe house), Bregan D'aerthe (the Seven Masks Theater and the Faire's pier), the Harpers (Corene Wyldath and a chandler contact), the Emerald Enclave (Pier 17), the Order of the Gauntlet (the Chapel), the Dungsweepers' Guild, the Watch and the guilds of the sea trades.
 
-> **[GM]**
+> [!gamemaster]**Secret**
 >
-> #### Secret
 > - The man killing elf and half-elf sailors off Ship Street is Soluun Xibrindas, a drow gunslinger of Bregan D'aerthe. Jarlaxle's public story is that he disowned Soluun for killing without orders, and the story is a cover. Jarlaxle knows about the murders and has not decided what to do, and Soluun carries a forged Bregan D'aerthe token so that the band can deny him. Nothing in **The Dockside Killer** lets the party learn this.
 > - The ward is the front line of a street war between Xanathar's Guild and Manshoon's Zhentarim. It began when Manshoon's envoys came to Skullport three months before the fireball and Xanathar killed them. Brawls between the two are common, and the Watch is called to them often.
 
@@ -46,9 +44,8 @@ The Dock Ward is the part of Waterdeep that works for a living, a steep ward of 
 - A dilapidated dive that faces an alley between Net Street and Fillet Lane, with both front windows smashed and a ship's anchor lodged in the roof. Haggard dockworkers drink from huge tankards inside, and they talk to strangers only for a bribe or a good argument (Dragon Heist; wiki).
 - Hook: in **Finding Floon**, Volo says Floon was last seen here. A regular remembers Floon leaving with Renaer Neverember around midnight, with five men following them out.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Manshoon's Splinter Zhentarim run the tavern as an informal ward headquarters, and Dragon Heist calls it Zhentarim-owned. The regulars are Splinter men on home ground, and they report to Kolat Towers, not to Davil Starsong.
 > - They know who grabbed Floon and Renaer, and they either do not know the way to Candle Lane or will not say. If the party stalls, two Splinter thugs approach it near the tavern, warn it off the Renaer kidnapping and give away both answers.
 
@@ -57,27 +54,24 @@ The Dock Ward is the part of Waterdeep that works for a living, a steep ward of 
 - Xoblob, a wizened deep gnome in plum robes, runs it and sells trinkets. He saw five men in black leather armor jump Floon and a well-dressed companion outside his door, and one of them had a winged snake tattoo on his neck.
 - Hook: in **Finding Floon**, a new purple item or a DC 13 Charisma (Intimidation or Persuasion) check loosens his tongue. In **Trollskull Alley**, a Guild scout hands the party a token for the shop after the Field of Triumph.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Xoblob is an informant for Xanathar's Guild. The stuffed beholder is a magical sensor, and Xanathar occasionally watches the street through it. The party cannot discover this at Finding Floon level, so plant it if the scene fits and do not press it.
 
 **Muleskull Tavern** — Tavern and Dungsweepers' guildhall
 - A tavern on Ship Street that doubles as the hall of the Dungsweepers' Guild (wiki). It opens before dawn for dock workers, and the guild leases the cart yard behind it. No proprietor is sourced. [research]
 - Hook: in **The Long Watch**, Lords' Alliance members meet a sweeping crew here at six bells every morning for a tenday and guard it on its rounds. In **The Dockside Killer**, the Doom Raiders watch the door from second bell to fourth for three nights, and a half-elf regular named Heldar is the next target.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - The campaign outline ties the Dungsweepers' Guild to the Dock Ward underworld, and no event says how. [research]
 
 **Seven Masks Theater** — Theater
 - A public theater for a lower-class audience, where ship captains and sailors get in free (Dragon Heist). Playbills name the owner as Rongquan Mystere, and a booking manager who calls himself Kreb Sorrush handles casting inquiries and schedules. The theater has a ghost that moves props during rehearsals.
 - Hook: after **Fireball!**, two theater tickets on Faire stationery reach the party. In the Bregan D'aerthe First Meeting, orders are left at its box office. In **Faction Outposts**, the theater is the street-level entry to the Bregan D'aerthe chain, and members at renown 3 or higher walk in without questions.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - The theater is a Bregan D'aerthe front. Rongquan Mystere is a disguise of Jarlaxle's, and Kreb Sorrush is Krebbyg. One dressing room is kept empty as a safe house, with two drow guards inside whenever it is in use.
 > - The ghost is Malkolm Brizzenbright, the theater's founder. He is not hostile, and he will tell a respectful visitor that "Rongquan" is a false identity and that drow come and go at irregular hours. Jarlaxle also uses the theater for neutral-ground meetings with other factions.
 > - Soluun Xibrindas picks his victims from the audience here. See the Secret.
@@ -91,9 +85,8 @@ The Dock Ward is the part of Waterdeep that works for a living, a steep ward of 
 - A warehouse at the back of a walled yard on Candle Lane, with painted-over windows and a black winged snake painted above the door handle. The gate is unlocked. The warehouse is mapped in **Zhentarim Warehouse**.
 - Hook: in **Finding Floon**, the party arrives to find twelve corpses, four kenku searching the wreckage and Renaer Neverember hidden in a back room.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - The Zhentarim cell that ran the warehouse died in a Xanathar's Guild raid. The kenku are the Guild's, left to kill any Zhentarim who return. A cellar trapdoor leads down to the sewer route to the Guild hideout.
 > - Chirada's letter in **Gralhund Villa** says the Zhentarim carried an Eye from a warehouse in the Dock Ward to Yellowspire, which is her mistake. See Draft Notes.
 
@@ -107,9 +100,8 @@ The Dock Ward is the part of Waterdeep that works for a living, a steep ward of 
 - The fleet sails into harbor on Ches 21, the opening day of Fleetswake, and leaves at dawn on Tarsakh 20. Captain Zardoz Zord keeps regular hours on the *Eyecatcher* and welcomes interesting visitors. The pier is mapped in **Sea Maidens Faire**.
 - Hook: in **Fireball!**, the nimblewright detector spins as the party comes within 500 feet of the pier, with too many overlapping signals to isolate one. In **The Dive**, Guild divers stage a charge against the fleet's hidden hull.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Zardoz Zord is Jarlaxle. The crew are drow in human form, under an illusion projected from the gilded drow figurehead on each ship's forecastle. The submersible *Scarlet Marpenoth* keel-docks beneath the *Eyecatcher* once the fleet arrives.
 
 **Xanathar Sewer Hideout** — Guild hideout beneath the ward
@@ -117,27 +109,24 @@ The Dock Ward is the part of Waterdeep that works for a living, a steep ward of 
 - Q09 is a private cellar under the home of the Peabodys, a halfling family who brew beer on Fishgut Alley and have survived the ward by minding their own affairs. It gives the party a second way in and out.
 - Hook: in **Finding Floon**, Floon is held in the boss chamber at 1 hit point, and Nihiloor leaves through a stone portal at the far end before the party can engage it.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Two Bregan D'aerthe agents are posing as Guild guards here, and they lifted the locket's Eye from the forced Q03 strongbox before dawn. The Guild does not know it is gone, and the party cannot recover it.
 > - One guard was pulled off the watch that night and reassigned to a Dock Ward street crew. A captured goblin or Zemk grumbles about it.
 
 **Spices Street Hostel** — Halfling-owned hostel
 - A halfling-owned hostel on Spices Street. A narrow passage links its cellar to the tunnel by the Xanathar Sewer Hideout, and Medium characters must squeeze to get through it (Dragon Heist).
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - The hostel is a base for the Shard Shunners, a gang of halfling wererats led by Kelso Fiddlewick, whose other hideout is in the Field Ward. They know about the Xanathar Guild hideout, and the two gangs are tenuous allies.
 
 **Pier 17 and the South Quay** — Pier and cargo quay
 - Pier 17 stands on the south quay, the stretch of waterfront that the alley from the Muleskull runs toward. Sarna, a boat owner who watches the harbor for the Emerald Enclave, keeps her boat at the quay and is aboard at dawn.
 - Hook: in **The Grells in the Dock Ward**, three people have vanished from Pier 17 on three nights, and the nest is a closed warehouse at the end of the quay. In **Winterstalker**, Sarna's notes report two flat barges that come in light to Pier 17 and leave riding low before each tide.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Xanathar's Guild has been cutting a cargo tunnel under the south quay for a season, and the barges carry the spoil out of it. A tenday ago the Guild broke into a passage from Undermountain, and two grells flew up through the breach from the Grell Hideout on Level 1.
 > - The Guild left the grells alone because they keep the Watch and the quay hands away from Pier 17. A Guild agent paid two dockhands, Garrit Moll and Tobiah Ashby, to leave the pier on the night a seamstress named Mirsa was taken.
 
@@ -147,27 +136,24 @@ The Dock Ward is the part of Waterdeep that works for a living, a steep ward of 
 - The Doom Raiders' Master of Trade and Coin, who lends from a guarded warehouse and makes every loan sound like a kindness. She calls borrowers "dear", taps her ledger when she names a figure and blesses each signed agreement with "Vergadain smile on it".
 - Hook: a new Doom Raiders member can borrow from her the morning after the First Meeting. If a payment is missed, two of her collectors call that evening, speak plainly and leave without hurting anyone, and her manner cools until the debt is paid.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Istrid likes having people in her debt and treats every loan as leverage. Emmek Frewn owes her 150 gp, and Zhentarim thugs collect it.
 
 **Krebbyg Masq'il'yr (Chaotic Neutral, Drow, he/him)**
 - A young drow gunslinger who runs the Seven Masks Theater's bookings as Kreb Sorrush. He is rash and cheerful, and he leaves the thinking to Fel'rekt Lafeen.
 - Hook: he sends the theater invitation after **Fireball!**, and he is the contact for many Bregan D'aerthe missions, including **The Theater's Back Room** and **Kreb Drops the Cover**.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Krebbyg works for Bregan D'aerthe and reports to Jarlaxle. His errand outside the ward is the message pickup at Fenerus Stormcastle's house in the Trades Ward.
 
 **Soluun Xibrindas (Neutral Evil, Drow, he/him)**
 - A drow gunslinger who has hunted the waterfront for some weeks. He picks an elf or half-elf sailor out of a Seven Masks audience, follows him home for two nights and strikes on the third with a hand crossbow bolt and a curved shortsword. He takes the head and the bolt.
 - Hook: the Doom Raiders hunt him in **The Dockside Killer**, and a bloodstained Seven Masks playbill is the clue that points to the theater.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Soluun hates surface elves and serves Jarlaxle with a zealot's devotion. He is the elder brother of Nar'l Xibrindas, whom he despises. See the Secret for the disownment.
 > - If the party captures him, he sits in a cell at the Ship Street watchhouse for a little over a tenday. Then a solicitor with papers signed "Rongquan Mystere" posts surety and the magistrate releases him. Gorra is furious. **The Killer's Fate** settles his expulsion from the band.
 
@@ -175,27 +161,24 @@ The Dock Ward is the part of Waterdeep that works for a living, a steep ward of 
 - A composed halfling who lives in the ward as Halla Ironstave, precise in her attention and sparing with her words. She missed her check-ins three weeks ago.
 - Hook: in **The Sleeping Asset**, Mirt wants her found before he decides what to ask of her.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Corene is a Harper deep-cover agent who has worked inside Xanathar's Guild's Dock Ward operation for four months. One of Nihiloor's custom Occupying Devourers rides her. She is aware and cannot act, and she can be freed if the devourer is forced out. The **Trades Ward** page has the bench where she sits.
 
 **Filthy Meg (Neutral, Merfolk, she/her)**
 - A heavily tattooed merfolk information broker who surfaces near Mistshore and knows things she has no business knowing. Most of Waterdeep treats her as a rumor the Dock Ward tells.
 - Hook: in **Trollskull Alley**, Remallia Haventree or Yagra Stonefist names her as a reliable Dock Ward source, and she resurfaces in **Sea Maidens Faire** as the best independent source on the Faire's crew movements.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Meg belongs to no faction, which is what makes her valuable. Jarlaxle gave her a ring of true sight as a retainer and gets harbor intelligence in return, and the Cassalanters have paid her for Field Ward surveillance twice. Her network of homeless residents in the Field Ward is her main source.
 
 **Grinda Garloth (Neutral, Illuskan Human, she/her)**
 - A wizard who lives over a closed dock in Mistshore and rents out her apparatus of Kwalish to clients whose business is underwater. She also sells black-market arms and armor at rates she considers entirely reasonable.
 - Hook: in **Faction Outposts**, her shop is the street-level entry to the Xanathar chain. She negotiates if the party offers her more than the Guild does, and she reports the visit afterward.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Grinda contracts to both Xanathar's Guild and Bregan D'aerthe and keeps her client list private. She does not care about the Grand Game. She wants the dragon turtle wreck at 47 fathoms in Deepwater Harbor.
 
 ## Life in the Ward
@@ -304,9 +287,8 @@ Sensory anchors for the GM to build the passage from (not written out):
 - **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**: the quests set or touched here.
 - **Kolat Towers**: the quest whose tower the Splinter reports to.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled by ruling 1:** Kolat Towers. The Splinter regulars at the Skewered Dragon report to Kolat Towers, and the page treats the tower as a Southern Ward tower. The published Trades Ward reading is `sources/adventure-wdh.json:560`, and the Southern Ward readings are `:32215` and `:32218`. The wiki bundles do not mention Kolat Towers. `emerald-enclave/r25-winterstalker/ev-01-winterstalker.md:319` (the Splinter's trader wagon) now says Southern Ward (settled by the user, Session 51).
 > - **Settled by ruling 1:** Helm's Hall. The Dragon Heist table places it in the Southern Ward (`sources/adventure-wdh.json:30938-30940`), and the Order of the Gauntlet events now agree (`order-of-the-gauntlet/00-first-meeting/ev-01-first-meeting.md:192`, `r03-marcheon/ev-01-marcheon.md:201, 222`). The page states the Southern Ward in Culture.
 > - **Conflicts:** The Chapel of the Steadfast Shield. The Dragon Heist table has no Torm row, and the chapel comes only from the Order's files (`deities/torm.md:66-67`). The page keeps it in the ward and does not make it a landmark, because no file gives it more than a name and a list of briefings.

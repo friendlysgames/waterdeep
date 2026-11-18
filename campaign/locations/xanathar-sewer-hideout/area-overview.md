@@ -1,8 +1,7 @@
 ﻿# Xanathar Sewer Hideout — Area Overview
 
-> **[GM]**
+> [!gamemaster]**Area Map Context**
 >
-> #### Area Map Context
 >
 > This location is used during the **Xanathar Sewer Hideout** Event (ev-04) of Finding Floon. The party approaches from the east through the sewer tunnels, following Xanathar guildsign. Q01 is the entry point. Q07 holds Floon Blagmaar. Q11 is Nihiloor's escape route.
 >
@@ -67,9 +66,8 @@ Grum'shar and Nihiloor are present with Floon when the party arrives (unless the
 
 Inert after Nihiloor escapes (orb gone). Active for 1 minute after the orb is removed from the indentation. In normal play, Nihiloor always reaches Q11 before the party does. The room entry covers both states.
 
-> **[GM]**
+> [!gamemaster]**GM Notes: The Missing Eye**
 >
-> #### GM Notes: The Missing Eye
 >
 > - The night before Ches 1, the Guild's raiders carried the contents of the warehouse back office to this hideout. That haul included the locket's Eye of the Stone of Golorr, which nobody in the Guild recognizes. It was dumped with the other loot in a strongbox in Q03.
 > - Two Bregan D'aerthe agents are posing as Guild guards here and report through Nar'l's circle. They lifted the Eye from the strongbox before dawn, and it reached Jarlaxle before the party arrives. The party cannot recover it here.

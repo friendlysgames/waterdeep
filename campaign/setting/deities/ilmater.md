@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Ilmater, the god of endurance, and the reference for his one temple in the city, the Hospice of St. Laupsenn in the North Ward.
 > - **Where it is used:** Ilmater never appears in person. The campaign ties him to a single hireable cook, Brother Aldric, and to nothing else. The Hospice is named only in the Dragon Heist text.
 > - **Featured in:** the **Trollskull Manor** guide (Brother Aldric, a cook who serves for thirty days) and the Order of the Gauntlet files, which name no Ilmater temple. No quest uses him. The Dragon Heist text puts a Hospice priest in Kalain's residence as her lodger, but the campaign's Kalain has no lodger, and the Using box under Waterdeep records the difference.
@@ -57,9 +56,8 @@
 - **Elsewhere in the Realms:** The people of Damara venerate him and his champion, St. Sollars (*Cyclopedia of the Realms*; *Forgotten Realms Campaign Setting*, 2e). In Calimshan he is one of the most worshiped gods, especially among the lower classes and slaves (*Empires of the Shining Sea*).
 - **In the campaign:** Ilmater is alive and present in 1492 DR. His Hospice is a working temple in the North Ward, and no file treats him as absent. The wiki's 3e and 4e homes for his realm are history, and the Plane field follows the FRHoF.
 
-> **[GM]**
+> [!gamemaster]**Using Ilmater as a Deity**
 >
-> #### Using Ilmater as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the god who sits with the dying and the poor. A sage, a priest or a regular at the bar says Ilmater is the Crying God, who takes pain onto himself so that others need not. They add that his priests wear hair shirts of coarse fur, feed the starving and nurse the sick, and that nobody harms a priest of Ilmater at work, not even a soldier in a battle. They say that his temples give away most of what they receive, and that a martyr is said to win rest in his afterlife. Waterdhavians know the Hospice of St. Laupsenn in the North Ward as his temple. No source records how Waterdhavians in particular talk about him, so this voicing draws on the FRHoF and SCAG descriptions. [research]
 > - **Waterdeep:** Ilmater has one temple in the city, the Hospice of St. Laupsenn in the North Ward.
 >   - The Dragon Heist Major Temples table lists "Ilmater, Hospice of St. Laupsenn, North Ward" (`sources/adventure-wdh.json:30943-30945`). The adventure text for Kalain's residence calls it "a temple of Ilmater, god of suffering" (`sources/adventure-wdh.json:13267`).
@@ -77,9 +75,8 @@
 
 Ilmater is the Crying God, a lawful good power of endurance, suffering and martyrdom who offers comfort to the sick, the poor and the unjustly treated. His priests take in the injured and the starving and wear hair shirts of coarse fur, and even warlike groups avoid attacking a peaceful priest who tends their fallen. His symbol is a pair of hands bound at the wrist with red cord. In Waterdeep his temple is the Hospice of St. Laupsenn in the North Ward.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Brother Aldric:** A Trollskull Manor cook candidate, neutral good and a Tethyrian human, who asks 8 gp a tenday and leaves after exactly 30 days whatever the party wants. He says "I cook for my brothers at the monastery. I am between postings and find cooking for strangers clarifying," and then offers healing prayers. He casts *Cure Wounds* (2d8+4) once a day and treats feeding people as an act of worship (`campaign/guides/trollskull-manor/03-staff-and-hiring.md:67`). The Alexandrian appendix adds that he has cooked at his monastery for eight years, wears the cord of Ilmater at his waist, and that Order of the Gauntlet characters find him respected across the devout orders (`sources/Appendix_D_-_Running_the_Tavern.md:371-376`). He is not a Broken One in any file, and he is not tied to the Hospice.
 > - **Vhaspar Holmdreg:** The Dragon Heist priest of the Hospice is a different man from Vhaspar Coldwater, the retired Watch sharpshooter in the Lords' Alliance mission **The Archer Above**. That mission's design notes changed the archer's surname because "Vhaspar Holmdreg is already a Dragon Heist name" (`campaign/quests/faction-events/lords-alliance/m04-the-archer-above/design-notes.md:9`), so keep the two men apart at the table.
 > - **The Triad and the Order's files:** The Order of the Gauntlet's temples are the Halls of Justice, the Temple of Helm (Helm's Hall) in the Southern Ward and the Chapel of the Steadfast Shield in the Dock Ward, and one rank event calls their spells "The Temples' Spells" (`campaign/quests/faction-events/order-of-the-gauntlet/r10-whitehawk/ev-01-whitehawk.md:148-150`). The Triad is Tyr, Torm and Ilmater, and Helm is not part of it. The Order's files never mention an Ilmater temple, so the Hospice gives a member no healing or spells under the Order's benefits.
@@ -112,9 +109,8 @@ Ilmater is the Crying God, a lawful good power of endurance, suffering and marty
 - **Kalain** (Notable Figures): the painter whose residence houses a Hospice priest in the Dragon Heist text, though not in the campaign.
 - **Trollskull Manor** (guide, Staff and Hiring): Brother Aldric's entry.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, name collision:** The Dragon Heist priest is Vhaspar Holmdreg (`sources/adventure-wdh.json:13267`). The campaign's Vhaspar is Vhaspar Coldwater (`campaign/quests/faction-events/lords-alliance/m04-the-archer-above/overview.md:21`), a retired Watch sharpshooter who is not a priest. The Lords' Alliance design notes record the same collision (`m04-the-archer-above/design-notes.md:9`). The page keeps Holmdreg in the Waterdeep bullet and separates the two in the GM Notes.
 > - **Conflict, Kalain's home:** The adventure gives Kalain an estate in the Sea Ward (`sources/adventure-wdh.json:13256`), and the campaign gives her a dilapidated tower near the harbor (`campaign/quests/act-ii/fireball/overview.md:40`; `campaign/setting/notable-figures/independents-allies/20-kalain.md:22`). The adventure puts Vhaspar in "the west wing of the residence", and neither Kalain file mentions a lodger. The page therefore makes no Fireball! claim and records the lodger as a Dragon Heist detail the campaign does not use.
 > - **Settled by ruling, the Triad:** The Order files had called the priests of Tyr, Helm and Torm "the Triad" (`campaign/quests/faction-events/order-of-the-gauntlet/r10-whitehawk/ev-01-whitehawk.md:10`, `:148`; `campaign/setting/organizations/04-order-of-the-gauntlet.md:19`; `campaign/guides/players-guide/faction-affiliations.md:95`). The Triad is Tyr, Torm and Ilmater (FRHoF, in the Torm entry, `sources/5etools/deities.json:15269`), so those lines now say "the Order's three temples". `r50-righteous-hand/ev-01-righteous-hand.md:312` says Torm "is one of the Triad the Order serves" and was left as it stands. This page uses the Triad and states the Order's actual temples.

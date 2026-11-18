@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Beshaba, the god of misfortune, and a reference for characters who ward off bad luck or serve her.
 > - **Where it is used:** Beshaba never appears in person. No campaign file names her and she has no temple in Waterdeep. The only place the city honors her is the Reign of Misrule, a festival in the published *Dragon Heist* calendar that falls on Marpenoth 10, after the campaign's main window.
 > - **Featured in:** no quest. The **Tymora** and **Lathander** pages in this journal mention her as Tyche's second half.
@@ -55,9 +54,8 @@
   - In Selûne's telling, Beshaba took everything Moander had tainted and came out as the god of ill fortune, lovely to see and spiteful at heart. Other gods pulled the sisters apart, and Beshaba fled to the dark planes (*Tymora's Luck*, novel).
 - **In the campaign:** Beshaba is present in 1492 DR, but no file shows her acting.
 
-> **[GM]**
+> [!gamemaster]**Using Beshaba as a Deity**
 >
-> #### Using Beshaba as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as the bad luck everyone talks around. A sage, a priest or a regular at the bar says she is Lady Doom, the sister of Tymora and the god of misfortune, and that you invoke her when a wagon wheel breaks and ask her to spare you when you cross a rickety bridge. They add that you welcome her at weddings so she does not take offense, that you never pray to both sisters, and that you fold your thumbs in and hold up your fingers like horns to turn her eye aside. A regular may swear "Beshaba's bad breath!" when things go wrong (wiki, *Pool of Radiance: Ruins of Myth Drannor*, a video game). Most people fear her and few admit to serving her.
 > - **Waterdeep:** Beshaba has no temple or shrine in the city. The only thing the sources place there is a festival.
 >   - The Dragon Heist Major Temples table has no Beshaba row. It lists Holyhands House in the North Ward as the temple of "All deities", which includes her by its own wording (`sources/adventure-wdh.json:30924`). No campaign file mentions a shrine, a priest or a worshiper of hers.
@@ -73,9 +71,8 @@
 
 Beshaba is the chaotic evil god of misfortune, whom Waterdhavians know as Lady Doom and as the sister and rival of Tymora. People call on her name when a wheel breaks or a bridge sways, and in cities they draw her black antlers on walls to mark unlucky places. Waterdeep has no temple of hers, but the Reign of Misrule on Marpenoth 10 honors her with a day of pranks and broken trust. Most folk fear her and few worship her, though it is thought wise to welcome her at weddings and other formal gatherings so that she takes no offense.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **The Reign of Misrule:** The published text lists what the city does. Nobles serve meals to their servants, children take control of schools, priests give worship to their god's foes, and anyone may take part in a guild's trade. Pranks are played by and on many people. Sundown ends the festival, and most folk spend the night cleaning and reordering things for the next day.
 > - **Those who refuse:** Many visitors decline to join in, but refusing often brings misfortune and does not avoid it. For fear of catching the cynics' bad luck, citizens avoid talking to or dealing with anyone known to have sat it out, until Gods' Day on Marpenoth 15 (`sources/adventure-wdh.json:31526`).
 > - **Use at the table:** The festival is outside the campaign's main window, which ends on Flamerule 11. Use it only if play runs into Marpenoth. No file gives it an event, an NPC or a consequence.
@@ -100,9 +97,8 @@ Beshaba is the chaotic evil god of misfortune, whom Waterdhavians know as Lady D
 - **Selûne**, **Tempus**, **Talos** (Deities): the friend who split Tyche, the god who was her lover, and the god she turned down.
 - **Timekeeping and the Festival Calendar** (History): the Reign of Misrule among the days after the window.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, edition (worshipers):** FRHoF lists "Gamblers, Red Wizards, Rogues" (`sources/research/pass2-bundles/beshaba/5etools.md:4`). The wiki's 5e row lists "Druids, Red Wizards of Thay" (`sources/research/pass2-bundles/beshaba/wiki.txt:63`). The page gives FRHoF in the metadata and both in Influence and Followers.
 > - **Conflict, edition (plane):** FRHoF gives the Abyss (`5etools.md:5`). The wiki's 3e field gives the Barrens of Doom and Despair (`wiki.txt:87`) and its 2e field the 13th layer of the Abyss (`wiki.txt:102`). The page follows FRHoF and leaves the realm names out.
 > - **Conflict, origin:** FRHoF says Tyche became corrupted and died and her essence split (`5etools.md:8`). The wiki says Moander's taint infected her and Selûne forced the split (`wiki.txt:173`). The page gives both. The Tymora page and the Lathander page (`campaign/setting/deities/lathander.md:57`) tell the wiki version.

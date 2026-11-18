@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Maglubiyet, the god of war who rules the goblinoid pantheon, for a GM who needs a power behind a goblin, hobgoblin or bugbear and for a player building a goblinoid cleric.
 > - **Where it is used:** Maglubiyet never appears in person, and no campaign file names him. Goblins and bugbears work for Xanathar's Guild, and the published *Dungeon of the Mad Mage* ties him to the hobgoblins and goblins of Undermountain.
 > - **Featured in:** no quest uses him as a god. The nearest goblinoid content is in **Finding Floon** (the goblins of the Xanathar Sewer Hideout) and in **Three Nights**, a Bregan D'aerthe mission with Guild bugbears.
@@ -60,9 +59,8 @@
   - His hold on his peoples may be loosening. Many bugbears have slipped away from his influence, and many goblins pursue their own destinies, though they remember little of the Feywild (*Mordenkainen Presents: Monsters of the Multiverse*, 5e).
 - **In the campaign:** Maglubiyet is alive and present in 1492 DR, as every power is. The 4e exarch period is history, and the page keeps him as the head of his own pantheon (see Draft Notes).
 
-> **[GM]**
+> [!gamemaster]**Using Maglubiyet as a Deity**
 >
-> #### Using Maglubiyet as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as a distant and brutal war god known by reputation. A sage, a priest or a regular at the bar says Maglubiyet is the goblinoid god of war, that his symbol is a bloody axe, and that goblins, hobgoblins and bugbears march in his name. They add that hobgoblins serve him with soldierly discipline and goblins out of fear. How much a Waterdhavian really knows of him, and which of his names the city uses, is unsourced. [research]
 > - **Waterdeep:** Maglubiyet has no temple, shrine, priest or festival in the city in any source.
 >   - The Dragon Heist Major Temples table has no goblinoid row (`sources/adventure-wdh.json:30921-30996`). Its "All deities" row, Holyhands House in the North Ward (`:30923-30925`), is the only listing that could cover him, and no source says goblinoids use it.
@@ -78,9 +76,8 @@
 
 Maglubiyet is the lawful evil god of war and the ruler of the goblinoid gods. Goblins, hobgoblins and bugbears follow him, and his symbol is a bloody axe. His followers are taught that every other god is false and must be conquered, and that a warrior who proves himself in battle will join the god's Army of Immortals after death. Hobgoblins revere him, goblins serve him out of fear, and bugbears honor him mostly through their own gods. Waterdeep has no temple of his.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **The Guild's goblinoids in Finding Floon:** Two goblins hold the watch posts of the Xanathar Sewer Hideout, Q02a and Q02b, one in each alcove beside the central hub. They sleep or wake depending on how the party handled the sewers, and they see in the dark (`campaign/quests/act-i/finding-floon/overview.md:45`; `campaign/locations/xanathar-sewer-hideout/q02-watch-posts.md:3-15`). The Q06 lavatory holds the bones of two more goblins that a gray ooze dissolved (`campaign/locations/xanathar-sewer-hideout/q06-lavatory.md:3`). No file says what they worship.
 > - **The response teams:** **Noska Ur'gray** leads the Guild's third response team, which is six bugbears and a gazer (`campaign/guides/factions/09-xanathars-guild.md:13`). Noska is a shield dwarf, not a goblinoid (`campaign/setting/notable-figures/xanathars-guild/05-noska-urgray.md:25`). In **Three Nights**, the Guild's bugbears come for Ott Steeltoes on the first night (`campaign/quests/faction-events/bregan-daerthe/m03-three-nights/overview.md:31`). The published adventure uses the same forces: Xanathar sends five goblins in Trolltide masks and a bugbear after a failed key search (`sources/adventure-wdh.json:13476`), and Noska arrives with six bugbears and a gazer in the finale (`:14780`).
 > - **The Guild's watch posts:** The Guild keeps watch posts on the upper levels of Undermountain, staffed by bugbears and goblins, to stop adventurers from reaching the lower levels (`campaign/setting/history/02-the-long-shadow.md:66`).
@@ -125,9 +122,8 @@ Maglubiyet is the lawful evil god of war and the ruler of the goblinoid gods. Go
 - **Finding Floon**, **Vault of Dragons** (quests), **Xanathar Sewer Hideout** (location journal), **Three Nights** (Bregan D'aerthe mission): where goblinoids and the dwarven fresco appear.
 - **Undermountain and Skullport** (Setting): the dungeon and the town below the city.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, alignment:** The PHB and the wiki's 5e and 2e rows give lawful evil (`sources/research/pass2-bundles/maglubiyet/5etools.md:3`; `wiki.txt:36` and `:80`). The wiki's 3e row gives neutral evil (`wiki.txt:65`). The page uses lawful evil.
 > - **Conflict, plane:** The wiki's 5e row gives Acheron (`wiki.txt:38`), the 2e and 3e rows add Avalas and Clangor (`:67-68`, `:82-83`), the 4e row gives Banehold (`:52`), and the 1e row gives the Nine Hells (`:96`). The page uses Acheron, Clangor and Avalas and shows the 1e answer beside them.
 > - **Conflict, domains and symbol:** The PHB gives War and Order and a bloody axe (`5etools.md:4-5`). The wiki's 3e row lists eight 3e domains and no Order (`wiki.txt:72`), and its 5e row adds "headsman's" to the symbol (`:37`). The page uses the PHB and leaves the 3e list out.

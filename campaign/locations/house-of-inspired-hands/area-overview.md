@@ -1,8 +1,7 @@
 # House of Inspired Hands — Area Overview
 
-> **[GM]**
+> [!gamemaster]**Area Map Context**
 >
-> #### Area Map Context
 >
 > The House of Inspired Hands occupies the corner of Seawatch Street and Shark Street in the Sea Ward. The building is five stories: main hall (ground), offices and workshops (second and third), spiral stair to the attic (fourth), and a rooftop parapet visible from the street below.
 >
@@ -39,8 +38,7 @@ The building's central vertical axis. Accessible from the main hall. Each landin
 
 Accessible via an exterior hatch on the 4th floor. The parapet walks the entire roofline of the building. Nim uses it regularly; Valetta uses it rarely. The mechanical sparrow's release mechanism is mounted on the east corner of the parapet wall.
 
-> **[GM]**
+> [!gamemaster]**Sparrow Trap Trigger**
 >
-> #### Sparrow Trap Trigger
 >
 > The sparrow trap activates when Nim releases it — manually, from the parapet — at the moment it perceives an unfamiliar group approaching within 60 feet. It is not an automated system; Nim must be on the parapet and watching. During ev-03, Nim is watching. On subsequent visits (post-ev-03), the sparrow has already been used and the mechanism is empty.

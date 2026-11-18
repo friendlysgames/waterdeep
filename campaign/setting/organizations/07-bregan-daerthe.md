@@ -1,8 +1,7 @@
 # Bregan D'aerthe
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **Campaign role:** Player faction and villain faction — drow mercenary company operating the Sea Maidens Faire carnival; holds Eye #3 and runs a city-wide intelligence network.
 > - **Contacts:** **Jarlaxle Baenre** / "Zardoz Zord" (primary, Sea Maidens Faire); **Krebbyg Masq'il'yr** / "Kreb Sorrush" (street contact, Seven Masks Theater)
 > - **Mission delivery:** Mission 1 by unsigned theater tickets that lead to Kreb Sorrush at the Seven Masks; Mission 2 by J.B. Nevercott in person at the Yawning Portal; Missions 3–6 in person through Krebbyg.

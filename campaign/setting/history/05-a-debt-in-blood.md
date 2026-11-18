@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this is:** The Era page for the Cassalanters' bargain with Asmodeus, the backstory of the villain faction that runs on a fixed deadline. It is the fifth of eight eras, after **The Founding of Chains** and before **The Open Lord's Fall**.
 > - **Where it is used:** The GM reads it before voicing Victoro or Ammalia on how the family got where it is, and before answering any question from a Harper, Lords' Alliance or Gauntlet contact about why the Cassalanters are so rich and so kind.
 > - **Featured in:** **Trollskull Alley** (the twins must be seen before the villa), **Fireball!** (Ammalia's invitation), **Faction Outposts**, **Cassalanter Villa**, **Vault of Dragons**.
@@ -18,9 +17,8 @@
 
 **Other Names:** The Cassalanter Bargain; the Soul Pact. These are GM names taken from the old era block and the guides. No in-world name is sourced. `[research]`
 
-> **[GM]**
+> [!gamemaster]**Lore Summary**
 >
-> #### Lore Summary
 > - Victoro and Ammalia Cassalanter, of a house with several generations in Waterdeep's noble registry, traded the souls of their three children to Asmodeus for wealth and political access. They read the terms before they signed.
 > - The contract claimed the children one at a time. Osvaldo, the eldest, was taken first and is now a chain devil. Terenzio and Elzerina are still claimed but not yet taken.
 > - In the years since, the Cassalanters built a charitable reputation and a web of political connections that are not faked. They became what they presented themselves as while they gathered what Asmodeus requires.
@@ -78,9 +76,8 @@
 
 The Cassalanters are one of Waterdeep's old noble houses, with several generations in the city's registry and a name now tied to open-handed charity. Lord Victoro, a half-elf banker, and Lady Ammalia, a Tethyrian human wizard, fund temples, orphanages and civic improvements across the city, and Victoro's banking underwrites half the guilds. Ammalia's butterfly garden is counted the most beautiful in Waterdeep, and their young twins play there under her eye. Their eldest son is said to be studying in a faraway city, and the family does not often speak of him.
 
-> **[GM]**
+> [!gamemaster]**Secret**
 >
-> #### Secret
 > - The bargain is with Asmodeus, and the villa hides a temple to him. The Code Legal offense for the temple alone is capital.
 > - No faction or NPC outside the household knows this. They suspect the Cassalanters because the family is too nice to be this rich and this purebred, and they know nothing.
 > - The one exception is Jarlaxle, who learned it through Vessa, his doppelganger spy in the Cassalanter social circle. He does not tell Bregan D'aerthe members unless they work it out themselves.
@@ -121,9 +118,8 @@ The Cassalanters are one of Waterdeep's old noble houses, with several generatio
 - **Founders' Day** (Timekeeping and the Festival Calendar): the feast date.
 - **Cassalanter Villa**: the quest and the location journal.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Timeline.** 1489 DR: Neverember is deposed, the family is on the verge of bankruptcy, the pact is signed and Osvaldo is taken. The contract claims each child at nine, and Osvaldo was already nine. The deposition year is sourced. The pact year is the arithmetic of "three years ago" (`adventure-wdh.json` line 18294), and the wiki restates that arithmetic as 1489 DR.
 > - 1480 DR: Osvaldo is born. This is derived from his ninth year in 1489 DR and is stated by no source.
 > - 1483 DR: Terenzio and Elzerina are born on Flamerule 11. This is derived from their ninth birthday on Flamerule 11, 1492 DR and is stated by no source.
@@ -131,9 +127,8 @@ The Cassalanters are one of Waterdeep's old noble houses, with several generatio
 > - Flamerule 1, 1492 DR: Founders' Day, the feast and Ammalia's operational window. The day is in the published adventure and the year is in the Alexandrian timeline.
 > - Flamerule 11, 1492 DR: the twins' ninth birthday and the contract's due date, "ten days after Founders' Day" in the published adventure.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Research:** Other Names (The Cassalanter Bargain, the Soul Pact) are GM names from the old era block and the guides. No in-world name is sourced.
 > - **Research:** The Timeline dates are partly derived. The pact year (1489 DR) is arithmetic from "three years ago", which the wiki's Cassalanter pages restate; the twins' birth year (1483 DR) is arithmetic from their ninth birthday, and Osvaldo's (1480 DR) is arithmetic from his ninth year in 1489 DR. No source gives any of them independently. The cult's founding, the temple's conversion and when each member joined are unsourced.
 > - **Research:** The Alexandrian author's Cassalanter backstory fixes only 1492 DR and "one tenday after Founders' Day" and gives no pact year. It gives Osvaldo's age at the taking as "already 9". The wiki's Cassalanter, Victoro, Ammalia and Osvaldo pages state 1489 DR (`wiki-Cassalanter.txt` line 43 and the matching lines on the other three), each derived from the adventure's "three years ago". The wiki's Cassalanter Villa page gives no date, and its Founders' Day page gives only 1492.

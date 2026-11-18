@@ -1,8 +1,7 @@
 ﻿# The Cassalanter Dinner
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Optional Social Event occurs when Ammalia Cassalanter's dinner invitation is accepted. The invitation arrives within one day of the fireball — the morning of Ches 23rd at the latest. In this Event:
 >

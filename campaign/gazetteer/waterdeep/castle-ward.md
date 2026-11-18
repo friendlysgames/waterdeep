@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - The Castle Ward is the government, courts, military and Market ward at the center of Waterdeep. It also holds the Yawning Portal, the well into Undermountain.
 > - **Finding Floon** opens in the Yawning Portal. **Trollskull Alley** uses the Portal for faction meetings and sends a festival procession out of the ward toward the Market.
 > - **Fireball!** reads Jeryth's report of a disturbance in the ward and puts two nimblewright suspects here (a Watchful Order household and the City Armory). Barnibus Blastwind and Saeth Cromley work out of the ward.
@@ -34,9 +33,8 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 - **Economy:** The Market, solicitors, publishers and business offices, courts, and the Palace coin exchange. Guild law applies as everywhere in the city.
 - **Organizations:** Open Lord's government, Masked Lords, City Guard, City Navy, Griffon Cavalry, City Watch, magisters, the Watchful Order, Force Grey (Blackstaff Tower), Order of the Gauntlet (Halls of Justice), Lords' Alliance (the Palace).
 
-> **[GM]**
+> [!gamemaster]**Secret**
 >
-> #### Secret
 > - A secret spiral stair in the Castle Ward sewers leads down to Xanathar's lair (area X1 in Dragon Heist). Mirt, Jalester Silvermane, Yagra Stonefist and Jeryth's awakened rats each lead a party to it, and four Bregan D'aerthe drow wait at its head in the Bregan D'aerthe faction event that uses it. The lair has no location journal yet; it belongs to **Xanathar's Lair** (Act III), and **Xanathar Sewer Hideout** maps a different site.
 > - Jeryth Phaulkon has felt a dreaming presence below the Castle Ward for months. It is Illuun, an aboleth on Undermountain Level 4, and the Stone of Golorr woke it. It stirs the ward's water table and the cisterns. Enclave speakers say only that something dreams below, and no one in the ward knows its name.
 
@@ -79,18 +77,16 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 - Amath Sercent (Lawful Evil, Mulan Human, she/her), a well-mannered woman in common clothes, keeps the tower with four followers, and visitors find them at ease with the handprints.
 - Hook: a teleportation circle in the basement links to Kolat Towers. **Faction Outposts** and the Doom Raiders heist both target it.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Amath is a priest of Bane allied with Manshoon's Zhentarim, and she keeps the teleportation circle to Kolat Towers. She is the partner of Agorn Fuoco.
 
 **Terasse Estate** — Rowhouse and healing clinic
 - A rowhouse clinic on Elsambul's Lane that asks no questions about injuries. Keln Trigos (Neutral Evil, Tiefling, he/him) runs it and asks no questions about how his patients were hurt.
 - Hook: a trapdoor under the kitchen rug leads to an underground dock and on to Skullport. Gladiators pass through on their way to Xanathar's lair.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Keln keeps the Terasse outpost for Xanathar's Guild. He holds two passphrases: one opens the clinic's gladiator transport route, and the other opens the route to the Lair.
 
 **Lightsinger Theater** — Opera house
@@ -103,9 +99,8 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 - Retired adventurer who owns and tends the Yawning Portal, and the one who deals with trouble in the taproom. He ejects troublemakers with a single word, "Out."
 - He went down the Well with Mirt in the old days and built the tavern over it. He will not discuss what he saw there.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Durnan is a secret Masked Lord of Waterdeep and the secret founder of the Red Sashes (campaign-only). Its fighters pose as regulars at the Portal and are magically sworn to his service.
 > - Neither fact can be found in normal play, and Durnan confirms neither under pressure. The party only notices that he often knows of a threat to the city before the Watch does.
 
@@ -115,27 +110,24 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 - His mansion was once a fortress-like, glowering tower near the Naval Harbor, softened by new architecture since he returned. The page treats it as a Castle Ward residence, as the wiki (*Waterdeep and the North* 2e) and the Dragon Heist ward chapter do. The campaign's Harper events host Mirt's dinners at a manor in the Sea Ward behind the Naval Harbor, and those events are left as they are.
 - Hook: Mirt and Durnan went down the Well together in the old days, and Mirt names Harper ranks over dinner at his house.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Mirt is a Masked Lord and a senior Harper. He is the least careful of the Masked Lords about hiding it.
 
 **Laeral Silverhand (Chaotic Good, Moon Elf, she/her)** (the moon elf reading is campaign-only)
 - The Open Lord of Waterdeep, fifth of the Seven Sisters and widow of Khelben Arunsun. She took the post when the Masked Lords asked, after Dagult Neverember was ousted.
 - She slips out of the Palace in disguise to clear her head and visit old friends.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Her power has declined since the Spellplague, and only Elminster knows how far. She considers Vajra an insecure child holding her husband's soul in the Blackstaff.
 
 **Vajra Safahr (Lawful Neutral, Tethyrian Human, she/her)**
 - The Blackstaff of Waterdeep, head of the Watchful Order, and the youngest Blackstaff ever, in the post since 1479 DR `[research]`. She sends orders by Sending, often in exactly 25 words.
 - She does not perform warmth she does not feel.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Vajra commands Force Grey. Her staff holds Khelben Arunsun's soul, and she says "the Splinter" until **Manshoon Named** is marked for the party member she is speaking to.
 
 **Saeth Cromley (Lawful Good, Illuskan Human, he/him)**
@@ -146,9 +138,8 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 - Head of the Order of the Gauntlet's Waterdeep chapter, from a clerk's office in the Halls of Justice, with about a dozen Knights and Priests under her. She comes from the noble Belabranta family, who breed griffons for the Cavalry.
 - She is blunt, has a hunter's eye for infernal work, and holds no patience for people who manage her.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - She spent three years in the Howling Hatred cult and left it in 1491 DR, about a year ago. She tells this to anyone who asks her sincerely, and what she did there only to a member she trusts.
 
 ## Life in the Ward
@@ -251,9 +242,8 @@ Sensory anchors for the GM to build the passage from (not written out):
 - **Emerald Enclave**: the water-table thread.
 - **The Dragonward and Walking Statues**: the dragonward and the statues in the ward.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Answered from the wiki:** No ward population figure exists (the wiki's Castle Ward field is blank); the page gives the city figures, labelled as such. Peoples are likewise city figures. The wiki's Languages and Lifestyle fields are blank, so those stay [research].
 > - **Research:** The ward's dominant faith is unsourced. The wiki lists five temples and no majority faith.
 > - **Answered from the wiki:** The Great Drunkard stands just south of the Market in the Castle Ward (Dragon Heist, confirmed by the wiki).

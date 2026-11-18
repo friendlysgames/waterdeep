@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Mask, the Lord of Shadows and god of thieves.
 > - **Where it is used:** Mask never appears in person, and no quest, faction or NPC in the campaign names him. The page serves a player who wants a cleric or devotee of the god of thieves, and it covers Liar's Night, the one Waterdeep holiday that names him.
 > - **Featured in:** No campaign quest. The published *Dragon Heist* names him in the Liar's Night entry, and the published *Dungeon of the Mad Mage* names him in Slitherswamp (Undermountain Level 8).
@@ -57,9 +56,8 @@
   - In 1374 DR he gave his divinity and his life to Shar to repay a debt that was millennia old. The wiki says she was also his "mother," and she named his true name as Lessinor just before his death. His divinity was split among mortals and the archdevil **Mephistopheles**, and it was later gathered back into Drasek Riven, his former Second of Five (*Shadowrealm*, 4e; *The Godborn*).
 - **In the campaign:** Mask is present in 1492 DR, as every power is, and FRHoF lists him as a current god. The wiki's death in 1374 DR and its 4e rank of dead power are history and change nothing in play (see Draft Notes).
 
-> **[GM]**
+> [!gamemaster]**Using Mask as a Deity**
 >
-> #### Using Mask as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as a god you deal with by staying out of his notice. A sage, a priest or a regular at the bar says Mask is the Lord of Shadows and the god of thieves, shown as a black mask, and that people whisper to him when they need to move unseen. Shopkeepers hope he looks away from their tills, and the careful wear a cheap coin pouch in plain sight as his share. Everyone knows that Waterdeep has no legal thieves' guild. A regular asked where Mask is worshiped in the city has no address to give, because no source places a temple there. On Liar's Night people put on masks and costumes to turn his notice, and Leira's, away from themselves.
 > - **Waterdeep:** The sources place no temple, shrine or priest of Mask in the city. One holiday names him, and one passage names Waterdeep's law on thieves' guilds.
 >   - The Dragon Heist Major Temples table (`sources/adventure-wdh.json:30910`) has no Mask row. Its only generic row is Holyhands House in the North Ward, "All deities," and no source says that Mask's followers use it.
@@ -104,9 +102,8 @@ Mask is the Lord of Shadows and the god of thieves, a chaotic neutral power whom
 - **Character Creation** (Players' Guide): the Shadowmasters Exile background.
 - **Timekeeping and the Festival Calendar** (History): Liar's Night on the Waterdeep calendar.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Criminal powers:** No campaign file links Mask to Xanathar's Guild, either Zhentarim, or Bregan D'aerthe, and the notes' search of `campaign/` found no such line. The page makes no link. The published *Dragon Heist* line that Waterdeep has no active thieves' guild (`sources/adventure-wdh.json:1102`) is stated on the page without drawing any conclusion about a Mask temple.
 > - **Vhaeraun:** The wiki's ally Vhaeraun is not on the roster, so he is plain text. No campaign file ties Vhaeraun to Bregan D'aerthe, and the page does not either.
 > - **Settled, the Shadowmasters:** FRHoF names the Shadowmasters of Telflamm as Mask's syndicate in Thesk (the research bundle's `5etools.md:11`). The user ruled that they are a Thesk syndicate with a cell in Waterdeep's black market. The Shadowmasters Exile row (`campaign/guides/players-guide/character-creation.md:62`) and the page now say so. The derived line that such a character is a natural devotee rests on FRHoF alone.

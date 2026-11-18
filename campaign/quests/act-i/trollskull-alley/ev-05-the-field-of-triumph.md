@@ -1,8 +1,7 @@
 ﻿# The Field of Triumph
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Event occurs during the renovation period, before the tavern opens. In this Event:
 >

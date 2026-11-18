@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this is:** The Era page for Dagult Neverember's years as Open Lord and the vote that ended them. It is the sixth of eight eras, after **A Debt in Blood** and before **A City Watching Itself**, and it is the origin of the Grand Game's prize.
 > - **Where it is used:** The GM reads it before voicing Renaer Neverember, Laeral Silverhand or Aurinax, and before answering any contact's question about who Neverember was and why every faction wants what he hid.
 > - **Featured in:** **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Cassalanter Villa**, **Vault of Dragons**.
@@ -18,9 +17,8 @@
 
 **Other Names:** Neverember's Enigma (the cryptic phrase the factions use for the missing gold and the secret behind it); the Ouster. "Neverember's Enigma" is in the Alexandrian timeline and in **Running the Villains**. "The Ouster" is a GM name. `[research]`
 
-> **[GM]**
+> [!gamemaster]**Lore Summary**
 >
-> #### Lore Summary
 > - Dagult Neverember was Open Lord of Waterdeep from about 1467 DR to about 1489 DR, some 21 to 22 years. His money and political skill helped the city recover, and he levied a monthly tax that is still collected. He spent growing amounts of time rebuilding Neverwinter.
 > - During his tenure he embezzled 500,000 gp from the city and hid it in a dwarf-built vault beneath the Brandath Mausoleum. The vault's location is locked inside the Stone of Golorr. He blinded the Stone by removing its three Eyes, and he bound the gold dragon Aurinax to guard the vault.
 > - In 1489 DR the Masked Lords voted him out while he was in Neverwinter, and Laeral Silverhand took the office at their request. His agents took the Stone from the palace and lost it on the way out of the city.
@@ -82,9 +80,8 @@
 
 Dagult Neverember, a wealthy noble who built his fortune in trade, was Open Lord of Waterdeep from about 1467 DR, and his money and political skill helped the city recover from years of neglect. His reign brought the monthly door-to-door tax that Waterdhavians still pay, and he spent much of his time rebuilding Neverwinter, where he is lord today. In 1489 DR the Masked Lords voted him out of office while he was in Neverwinter, and Laeral Silverhand, one of the Seven Sisters, took the seat at their request. His son Renaer lives in Waterdeep, estranged from him, and owns the properties his mother left him.
 
-> **[GM]**
+> [!gamemaster]**Secret**
 >
-> #### Secret
 > - Neverember placed the three Eyes in three places before the vote. He kept one with him in Neverwinter, he gave one to Renaer inside an ivory mourning locket in honor of his mother, and he hid one in the Brandath Crypts near Alethea's tomb. The Renaer and Brandath placements are in the Alexandrian account, and the Crypts and the tomb are in the Vault of Dragons quest opener.
 > - The Neverwinter Eye was later stolen from the Protector's Enclave by Manshoon's Zhentarim, who offered it to Xanathar. Xanathar killed the envoys about three months before the fireball and kept it, and it is Eye #1. The Cassalanters extracted the Brandath Eye through infernal divination, and it is Eye #2. Jarlaxle holds Eye #3, and Manshoon holds none.
 > - Manshoon's cell took Renaer's locket from him the night before the campaign opens, during **Finding Floon**, and pried it open at the Candle Lane warehouse. Xanathar's Guild raided the warehouse and carried off what it found in the back office, the Eye included, without knowing what the Eye was. Bregan D'aerthe agents already inside Xanathar's hideout lifted it the same night, and it reached Jarlaxle aboard the *Scarlet Marpenoth* before the party reached the hideout. Manshoon himself never held it.
@@ -126,9 +123,8 @@ Dagult Neverember, a wealthy noble who built his fortune in trade, was Open Lord
 - **The Grand Game**: where the prize sits among the factions.
 - **Finding Floon**, **Fireball!** and **Vault of Dragons**: the quests that play out the consequences.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Timeline.** About 1467 DR: Neverember is Open Lord, and the monthly tax is set in the first year. The date is in the Alexandrian timeline and the wiki, and the published adventure confirms the office only in 1475 DR.
 > - 1467 or 1468 DR: the New Neverwinter project begins. The Alexandrian timeline says 1467 DR and the wiki says 1468 DR.
 > - 1475 DR: Neverember commissions Kalain's portrait, and the affair begins (published adventure).
@@ -139,9 +135,8 @@ Dagult Neverember, a wealthy noble who built his fortune in trade, was Open Lord
 > - About Nightal 1491 DR (derived): the Neverwinter Eye passes from the Zhentarim to Xanathar when Xanathar kills Manshoon's envoys, three months before the fireball on Ches 22 (`arc-f-xanathars-lair.md` line 9; see **The Long Shadow**).
 > - Ches 1, 1492 DR: the campaign opens. Manshoon's cell took Renaer's locket the night before.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Research:** Other Names. "Neverember's Enigma" is sourced to the Alexandrian timeline and **Running the Villains**. "The Ouster" is a GM name.
 > - **Research:** The old outline's harbor expansion, Dock Ward rebuilding and Watch funding increases are unsupported. The wiki says only that Waterdeep began to thrive, that he sold titles and that he hired Tarnian ships. The page uses the wiki version.
 > - **Research:** The old outline's embezzlement arc (small diversions that grew into a reserve and then became personal), the Masked Lords' investigation and public-story management, "trusted contacts" and "the trust did not outlast his position" are unsupported. The page replaces the Eye line with the Alexandrian account in the Secret.

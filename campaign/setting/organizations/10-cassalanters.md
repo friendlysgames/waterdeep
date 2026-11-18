@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **Campaign role:** Villain faction; racing to acquire the vault's gold before the twins' ninth birthday, Flamerule 11, when their soul pact with Asmodeus comes due; Founders' Day (Flamerule 1) is the feast date and the party's true deadline.
 > - **Contacts:** **Victoro Cassalanter**, **Ammalia Cassalanter**, **Willifort Crowelle** (villa-facing); **Seffia Naelryke** (field operative)
 > - **Villain profile:** see **Cassalanters** in Villains
@@ -57,9 +56,8 @@ How the family responds to a party that helps or hinders them is in the **Cassal
 
 The Cassalanters are a noble family of Waterdeep and among the city's most prominent philanthropists. Victoro, a half-elf banker and worshipper of Lathander, and Ammalia, a wizard known for driving a hard bargain and for keeping the most beautiful butterfly garden in Waterdeep, fund temples, orphanages and civic improvements across the city. The family lives in a villa in the Sea Ward, is publicly known for its ancestral devotion to Siamorphe, and hosts public galas during Waukeentide, and the younger twins, Terenzio and Elzerina, are often seen at play in the gardens. Their eldest son is said to be at school in a faraway city, and more than one Waterdhavian has wondered aloud how a family can be so gracious, so prosperous and so fortunate all at once.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Origins:** The Cassalanter name has stood in Waterdeep's noble registry for several generations. The Lords of Waterdeep ennobled the house in 1248 DR, about 244 years before the campaign, when they granted titles to several merchant houses (Forgotten Realms Wiki, *City of Splendors: Waterdeep*, 3e). The wiki lists Waukeen, Siamorphe and Asmodeus as the house's favored deities. Financial ruin was the trigger for the bargain, which was made three years ago, about 1489 DR. The deal also bought power, good health and long life.
 > - **The public face is true:** The family built its charitable reputation, political connections and public warmth in the years since the bargain, and none of it is faked. They became what they presented themselves as while also accumulating what Asmodeus requires.
 > - **Social cover:** Sea Ward dinner parties are intelligence operations, and the Cassalanters' charitable galas are recruitment screens. A charitable hospital serves as the family's front business.
@@ -72,9 +70,8 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 > - **Caladorn Cassalanter:** Victoro's father. The wiki has him a Masked Lord and later Open Lord of Waterdeep, by 1399 DR (*Blackstaff Tower*, 2e and 3e). The family uses the portrait of the former Masked Lord and hero of the North as a symbol of civic virtue. His ghost waits below the villa and is the reason the way to break the contract lies beneath it.
 > - **The Eye:** The Cassalanters hold Eye #2 of the Stone of Golorr, which Seffia's infernal divination found in the Brandath Crypts. They still need the Stone and Eyes #1 and #3, so the family waits with a standing request to be told when the Stone is found, and moves on the vault the moment someone activates it.
 
-> **[GM]**
+> [!gamemaster]**Secret**
 >
-> #### Secret
 > - **The pact:** Victoro and Ammalia traded the souls of their children to Asmodeus for wealth compressed from three generations into one and for political access that normally takes a family centuries to build. They discussed it, understood what they were signing, and signed, three years ago. The pact covers three children: Osvaldo, already taken, and the twins.
 > - **Osvaldo:** The eldest son's soul was claimed first, when he was nine, the age at which the contract claims each child, and he is now twelve and a chain devil held in the soundproofed attic of the villa, room C24, never the basement or the temple. Ammalia visits weekly, sitting in the room outside the pentagram to read to him while he curses her and weeps. Victoro has not visited in months. Willifort knows. Two imps are always present. Terenzio and Elzerina have been told Osvaldo is at school. Had the contract run its course, the twins were to become lemures (Forgotten Realms Wiki, Victoro Cassalanter, from *Dragon Heist*, 5e).
 > - **The feast:** On Founders' Day, Flamerule 1, the family plans to poison 99 guests at a feast to collect the ninety-nine souls. Ammalia is the architect of the feast and Jandar Chergoba, the villa's head chef, is the person who sees that the poison is distributed correctly.
@@ -108,9 +105,8 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 - **Vessa** (Notable Figures): Jarlaxle's spy in the family's social circle
 - **Cassalanter Villa**, **Fireball!**, **Faction Outposts** (Quests): where the family appears
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Research:** Doctrine and Rites (Tenets). The cult's hierarchy below the family, its sacraments and its recruiting are unsourced in the campaign files. The FRHoF-based **Asmodeus** page holds candidate material (the Fugue Plane pitch, recruiting through greed and impatience), but a lore source on the Cassalanter cult would settle it.
 > - **Settled:** The pact covers three children (Osvaldo, taken, and the twins), per **A Debt in Blood**. The inline tag is dropped.
 > - **Settled by the user:** Gold held. The family holds just over half the gold, about 500,000 gp of the 999,999 gp, and the Vault's 500,000 gp covers the rest. *Dragon Heist* (5e) says only that the Cassalanters have most of the coin they need (`adventure-wdh.json` line 18296), and 500,000 of 999,999 is just over half.

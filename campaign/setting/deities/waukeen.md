@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Waukeen, the Coinmaiden and god of trade, and the reference for the Waukeentide and Sornyn festivals.
 > - **Where it is used:** Waukeen never appears in person, and no campaign NPC worships her. She comes up through the festival calendar, above all Waukeentide, the tenday in which the Cassalanters host the public galas that open the villa to the party.
 > - **Featured in:** **Cassalanter Villa** (the Waukeentide events), and the published *Dragon Heist* and *Dungeon of the Mad Mage* characters who carry her symbol, none of whom is a campaign NPC.
@@ -56,9 +55,8 @@
   - The church spent years recovering from its losses, a period the wiki calls the Interdeium of Waukeen. The Harlot's Coin Heresy, spread by the League of Six-Fingered Gentlemen inside the hierarchy, taught that she had sold much of her divinity to Graz'zt and was now a figurehead (*Dragon* 355).
 - **In the campaign:** Waukeen is alive and present in 1492 DR. The imprisonment, the regency and the heresy are history, and no file treats her as missing.
 
-> **[GM]**
+> [!gamemaster]**Using Waukeen as a Deity**
 >
-> #### Using Waukeen as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as the patron of the market. A sage, a priest or a regular at the bar says she is the Coinmaiden, the god of trade and wealth, and that shopkeepers, caravan guides, moneychangers and a good many smugglers pray to her. They add that she smiles on the hard-working and the free spender and frowns on misers, that her followers give a tenth of their profits to a struggling business instead of the temple plate, and that she once buried Leira under a mountain of molten gold for cheating her in a deal. Every Tarsakh the city keeps Waukeentide in her honor with gifts, all-night sales and guild galas. How Waterdhavians feel about her stand against monopolies, in a city whose eighteen guilds control every significant trade, is unsourced. [research]
 > - **Waterdeep:** Waukeen has no temple or shrine in the city in any source, and she has two festivals.
 >   - The Dragon Heist Major Temples table has no Waukeen row. The same table lists Holyhands House in the North Ward as a temple for all deities, which includes her.
@@ -80,9 +78,8 @@
 
 Waukeen, the Coinmaiden, is the god of trade and wealth, and merchants, caravan guides, moneychangers and smugglers all pray to her. Her faithful hold that open competition for wealth helps a society prosper, and they oppose guilds that form monopolies. Followers give a tenth of their profits to struggling businesses and new ventures instead of to a temple. Waterdeep honors her each Tarsakh with Waukeentide, a tenday of gift-giving, all-night sales and guild galas.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Waukeentide and Cassalanter Villa:** The Cassalanters host three events in the tenday, and the Cassalanter Villa structure document uses all three as windows. Caravance (Tarsakh 1) is the holiday on which the family gives most of its staff the night off. Goldenight (Tarsakh 5) is a gala for 40 to 60 guests. The Waukeentide Charity Ball (Tarsakh 7) is a fundraiser for Field Ward reconstruction and the main social entry point. The festival calendar lists the same three dates as the villa's entry points. Staffing, rosters and the checks are in **Cassalanter Villa**, not here.
 > - **Date overlap (derived):** The structure document calls the Tarsakh 7 event the Charity Ball, and *Dragon Heist* gives Tarsakh 7 to Guildsmeet. No file says the ball is the Guildsmeet gala, so treat them as two events on one night.
 > - **Cover:** Goldenight and Guildsmeet put crowds in the Cynosure and the Field of Triumph, and any surveillance of the villa during Waukeentide has cover (festival calendar).
@@ -123,9 +120,8 @@ Waukeen, the Coinmaiden, is the god of trade and wealth, and merchants, caravan 
 - **Timekeeping and the Festival Calendar** (History): the dates of Waukeentide and Sornyn.
 - **Cassalanter Villa** (quest and location): where the Waukeentide events are used.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Wiki claim, unused:** The wiki lists Waukeen, Siamorphe and Asmodeus as the Cassalanters' favored deities (`campaign/setting/organizations/10-cassalanters.md:63` and `:120`). This page does not repeat it. It would put a deity of the secret on a public-facing power, against the Cassalanter secrecy rule, and the campaign's public cover is Lathander for Victoro and Siamorphe for the house. The Cassalanters page already records the conflict, and `campaign/setting/deities/siamorphe.md:126` lists the same claim as not used.
 > - **Conflict, title and gender:** FRHoF titles her "God of trade" and uses "she" throughout (bundle `5etools.md:3` and `:7`). PHB and SCAG say "Goddess of trade" (bundle `5etools.md:14` and `:24`). The page uses the FRHoF title and feminine pronouns.
 > - **Conflict, plane:** FRHoF gives the Outlands. The wiki's 3e row gives Brightwater and its 4e row the Eternal Sun (bundle `wiki.txt:87` and `:72`). The page follows FRHoF and gives the others under Her realm.

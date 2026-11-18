@@ -1,8 +1,7 @@
 # The Gralhund Confrontation — Day
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Social/Combat Event handles the confrontation with Lady Yalah Gralhund during the day path. In this Event:
 >

@@ -1,8 +1,7 @@
 ﻿# Dock Ward Investigation
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Exploration Event occurs when the party enters the Dock Ward following Volo's lead. In this Event:
 >
@@ -32,9 +31,8 @@ These are **Manshoon's Splinter Zhentarim**. They report to Kolat Towers, not to
 
 He describes five men in black leather armor grabbing Floon and a well-dressed companion outside his door. One had a winged snake tattoo on his neck. One of the attackers grabbed the companion's silver necklace — pendant shaped like a horse, or possibly a unicorn.
 
-> **[GM]**
+> [!gamemaster]**Xoblob's Window**
 >
-> #### Xoblob's Window
 >
 > The stuffed beholder mounted in Xoblob's window is a magical sensor through which Xanathar occasionally views the street. This is not discoverable at Finding Floon level. Plant it if it fits the scene; don't press it.
 
@@ -76,9 +74,8 @@ Following the trail leads directly to the mouth of Candle Lane and ends at the w
 
 ### Proactive Failsafes
 
-> **[GM]**
+> [!gamemaster]**Failsafe Conditions**
 >
-> #### Failsafe Conditions
 >
 > If the party has reached the Dock Ward and exhausted every available path without learning the warehouse address, activate one of these. Use whichever fits the current scene geography.
 

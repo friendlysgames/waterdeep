@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Amaunator, the sun god and keeper of law and oaths, and the reference for the old Netherese faith that Lathander's and Siamorphe's pages touch.
 > - **Where it is used:** Amaunator never appears in person, and no campaign file or *Dragon Heist* line names him. This page exists so a cleric or paladin player can choose him, and so the GM can answer the question of how he relates to Lathander and Siamorphe.
 > - **Featured in:** No quest, faction or NPC. The **Lathander** and **Siamorphe** pages mention him as history.
@@ -57,9 +56,8 @@
   - **After the Second Sundering (settled by ruling):** The Second Sundering ended in 1487 DR and undid every Spellplague-era merger, so Lathander and Amaunator are separate gods again. The line in the *Sword Coast Adventurer's Guide* that the two were worshiped as separate beings by 1491 DR records that this had already happened. The wiki's note that it is unknown whether they were truly separate does not apply.
 - **In the campaign:** Amaunator is present in 1492 DR as a god in his own right, and he and Lathander are separate gods. This matches the **Lathander** page, which keeps the aspect story as 4e history, and the **Siamorphe** page, which keeps her as a demigod and gives her service to him as a 4e account. The wiki's deaths and returns, the 1385 DR revelation and the Eternal Sun are history and carry no weight in play.
 
-> **[GM]**
+> [!gamemaster]**Using Amaunator as a Deity**
 >
-> #### Using Amaunator as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the witness to every oath. A sage, a priest or a regular at the bar says he is the sun god and the god of law, that farmers and travelers pray to him for good weather, and that a promise sworn under the sun is a promise to him. They add that a merchant closing a deal will wait for a cloud to pass before signing, that his priests stamp contracts with a golden sun, and that he is stern and forgives little. A priest or sage adds that his faith is old, that the Netherese worshiped him, and that his priests teach he has died and risen many times. Some say the Morninglord is only another face of him, which the followers of both dispute. How often a Waterdhavian actually names him is unsourced. [research]
 > - **Waterdeep:** No source places a temple or shrine of Amaunator in the city, and no festival is tied to him.
 >   - The Dragon Heist Major Temples of Waterdeep table has no Amaunator row (`sources/adventure-wdh.json:30910`).
@@ -104,9 +102,8 @@ Amaunator is the god of the sun and of law, known as the Keeper of the Eternal S
 - **Mystra** (Deities): the successor to Mystryl, the god of magic whose sphere he left alone.
 - **The Long Shadow** (History): the fall of Netheril in -339 DR.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, plane:** FRHoF puts Amaunator on Mechanus (bundle `5etools.md:5`), and the wiki's 4e accounts put him on the astral dominion of the Eternal Sun (bundle `wiki.txt:166`). The page follows FRHoF for the Plane field and gives the Eternal Sun as 4e history.
 > - **Conflict, alignment:** SCAG and the wiki's 5e row give lawful neutral (bundle `5etools.md:17`, `wiki.txt:37`), and the wiki's 4e row gives lawful good (`wiki.txt:51`). The page uses lawful neutral.
 > - **Settled by ruling, edition:** The wiki's 4e accounts make Lathander an aspect of Amaunator after the Spellplague and have Siamorphe serve him as exarch (bundle `wiki.txt:118`, `:166`, `:178`, `:207`). By ruling, the Second Sundering ended in 1487 DR and every Spellplague-era merger is undone, so Lathander and Amaunator are separate gods in 1492 DR. SCAG's "separate by 1491 DR" (`wiki.txt:217`) records that this had already happened, and the wiki's note that it is unknown whether they were truly separate does not apply. The **Lathander** page (`campaign/setting/deities/lathander.md:54` and `:145`) and the **Siamorphe** page (`campaign/setting/deities/siamorphe.md:31`) keep them separate and give the aspect and exarch stories as history, and this page agrees with both. The followers' quarrel over whether Lathander is an aspect of Amaunator stays as an in-world belief. The wiki also has him dead or dormant from about 661 DR until the Spellplague; the page gives the decline as history, since the SCAG priests' own teaching is that he has died and been reborn.

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - The North Ward is the quiet residential ward in the northeast of Waterdeep. The party's tavern, Trollskull Manor, stands here, and so does the Gralhund family's villa on Saerdoun Street.
 > - **Finding Floon** ends with Volo's deed to Trollskull Manor. **Trollskull Alley** runs the renovation, the neighbors, the Grand Opening on Ches 20 and the Twin Parades from this ward.
 > - **Fireball!** sets off its blast in Trollskull Alley at first light on Ches 22 and sends the bodies to the ward's Watch station. Its nimblewright sweep clears Margaster House and points at Gralhund Villa.
@@ -34,9 +33,8 @@ The North Ward is the part of Waterdeep that goes home in the evening, a ward of
 - **Economy:** Taverns, shops and guildhalls serve residents who ride hire-coaches to work in other wards. Day servants arrive by dray each morning from the poorer parts of the city. Guild law applies as everywhere in the city.
 - **Organizations:** House Gralhund and the Black Network resources in its villa, the Harpers (Ulbrinter Villa), Manshoon's Zhentarim (the Interrogation House), the Fellowship of Innkeepers (represented by Broxley Fairkettle), the City Watch (the station and Endcliff Tower), the Watchful Order (Ulkoria Stonemarrow and Rishaal the Page-Turner in Trollskull Alley) and the Guild of Glassblowers, Glaziers and Spectacle-makers (the House of Crystal).
 
-> **[GM]**
+> [!gamemaster]**Secret**
 >
-> #### Secret
 > - Manshoon's Zhentarim keep a safe house and interrogation center on Brindul Alley. Avareen Windrivver and Zorbog Jyarkoth run it, three black flying snakes nest near the ceiling as couriers, and Ott Steeltoes, a captured Xanathar's Guild agent, is strapped to the rack in the back room. Avareen carries a pass-amulet to Kolat Towers, and the Kolat Towers structure doc describes the house as a field office connected to the towers by a teleportation circle.
 > - A party that searched Urstul Floxin's effects at Gralhund Villa holds documents that name the alley. Any other party can find the house by canvassing the ward for a day (DC 14 Investigation, no faction membership needed), and Zhentarim response teams carry orders to take their prisoners here.
 > - Samara, a prisoner in **Xanathar's Lair**, says Manshoon's organization is based in a tower in the North Ward. That is a misdirection from overheard talk. Kolat Towers stands in the Southern Ward, and the Interrogation House is the Zhentarim site that a North Ward search turns up.
@@ -70,9 +68,8 @@ The North Ward is the part of Waterdeep that goes home in the evening, a ward of
 - Lord **Orond Gralhund** and Lady **Yalah Gralhund** keep a household here with guards, cooks, maids and their two children. A visitor without an appointment is refused at the gate.
 - Hook: **Fireball!** ends with the detector's strongest signal outside the Faire pointing at this house, and the **Gralhund Villa** quest opens here. The **Gralhund Villa** location journal maps it.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Yalah holds the Stone of Golorr, which she took from Urstul Floxin at sword-point. She directs the Zhentarim's Black Network resources in the villa and does not know that Manshoon is their true master.
 > - Jarlaxle's ledger lists O. Gralhund of Saerdoun Street as the buyer of nimblewright NW-02, the runaway that the party's detector tracks to this house.
 
@@ -81,9 +78,8 @@ The North Ward is the part of Waterdeep that goes home in the evening, a ward of
 - A tailor at 8 Delzorin Street, Seldo Wynd, fits the Harper members for the salon, and Mirt has paid his bill. Seldo is a tailor and nothing else.
 - Hook: Mirt sends the Harper members to Remallia's salon to find a spy on the guest list in **A Friend's House**. A separate rented house at 12 Delzorin Street, with five bunks, is the Harpers' lodging.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - The villa is one of the Harpers' secret gathering places, and Remallia's Harper identity stays hidden from the party until she chooses to reveal it. The lodging at 12 Delzorin Street is kept by an intermediary and has no link to the villa.
 
 **Hospice of St. Laupsenn** — Temple of Ilmater
@@ -112,9 +108,8 @@ The North Ward is the part of Waterdeep that goes home in the evening, a ward of
 - The lady of House Ulbrinter and the widow of Lord Arthagast Ulbrinter. She is a gracious hostess who remembers details about everyone's life, and her villa is full of loyal servants and protective wards.
 - Hook: she hosts the salon in **A Friend's House**, where Mirt asks the party to find a spy among twelve guests.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Remi is the de facto Harper leader in Waterdeep and runs the faction's intelligence from the villa, sending messages to her spies by a silver raven figurine. Assassins killed her husband and destroyed his remains, and every precaution she takes comes from that loss.
 > - She decides whether a party can be trusted with real responsibility, and she reveals herself as a Harper only when she chooses to.
 
@@ -122,9 +117,8 @@ The North Ward is the part of Waterdeep that goes home in the evening, a ward of
 - The lady of House Gralhund, whose family motto is "We see both sides." She presents herself as a gracious, politically astute noblewoman with a keen mind and the wisdom to tell friend from foe.
 - Hook: she is the party's opponent at **Gralhund Villa**, and the day-path confrontation takes place in her bedroom.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Yalah is the true power in the house, and her husband Orond cowers behind her. She wants a seat as a Masked Lord and has been refused before, and the gold in the Vault is her last best chance.
 > - She runs the Zhentarim forces at her villa as her employees, and she does not know that Manshoon is their master.
 
@@ -136,9 +130,8 @@ The North Ward is the part of Waterdeep that goes home in the evening, a ward of
 - A salty northerner who opened Frewn's Brews a few doors down and talks loudly about how adventurers ruin neighborhoods. He wants his pub to be the most successful tavern in the North Ward and the party's to fail.
 - Hook: he calls on the party during the renovation of **Trollskull Alley** with a bottle of cheap wine, while his sabotage campaign is already running.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Emmek is a refugee from Neverwinter whose sisters bought him out of the family tanning business. He owes **Istrid Horn** a loan of 150 gp, enforced by Zhentarim thugs, and he pays the Shard Shunners, a halfling wererat gang, to sabotage the party.
 > - He knows his pub is worse than the party's, and that is why he keeps up the sabotage.
 
@@ -146,18 +139,16 @@ The North Ward is the part of Waterdeep that goes home in the evening, a ward of
 - Known as "the Gargoyle", an archmage of the Watchful Order whose face is frozen in a scowl that frightens adults and children alike. Nobody knows where she lives, and she is never seen without her shield guardian.
 - She once owned the tavern in Trollskull Alley, and she stops in for a drink whenever she passes through the ward while her shield guardian waits outside. She keeps her criticism to herself if she dislikes what the party has done with the place.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Ulkoria sold the tavern, watched every later owner fail and visits to see whether this party will do better. She is a senior member of the Watchful Order and, in the campaign only, a Masked Lord of Waterdeep, though she never confirms it in the party's presence.
 
 **Vincent Trench (Lawful Evil, Rakshasa disguised as a Human, he/him)**
 - A sharp-dressed, pipe-smoking private detective who runs the Tiger's Eye across the alley. He speaks concisely, charges fairly and calls on new neighbors with a rate card.
 - Hook: after the **Fireball!** blast he arrives at the scene and knows more than he says, and he is the party's best-connected neighbor for information.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - Vincent is Valantajar, a rakshasa who has lived in Waterdeep for years under a string of identities and has grown fond of the city. His interest in the party serves himself and is not hostile at first.
 > - Rishaal the Page-Turner has noticed that Vincent buys books on planar binding, and he shares his suspicion with a party that shows interest.
 
@@ -271,9 +262,8 @@ Sensory anchors for the GM to build the passage from (not written out):
 - **Kolat Towers**: the structure that the Interrogation House answers to.
 - **Faction Outposts**: the quest that visits both hidden sites.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Answered from the wiki:** No ward population figure exists (the infobox field is blank), so the page gives the Inhabitants text and the city figures, labelled as such. Primary peoples are likewise city figures. Lifestyle comes from the Inhabitants text and Dragon Heist (`north-ward/wiki.txt:192`; `sources/adventure-wdh.json:30905`).
 > - **Research:** Languages, the ward's dominant faith, any ward government or commander of the station, the North Ward patrol size, rents and prices, and who built or runs the Hospice and Holyhands House. The Cliffwatch, Endcliff Tower, Holyhands House, the Hospice and Thort's Findings carry no campaign hook. Holyhands House's hook line only repeats how the Deities pages cite it, and Thort's hook restates the adventure's description of his customers.
 > - **Conflicts:** Holyhands House and the House of Inspired Hands. Dragon Heist prints them as separate rows (`sources/adventure-wdh.json:30922-30926` and `:30932-30936`), and the deities hub lists both (`campaign/setting/deities/00-the-deities.md:308,310`). No source equates them, so the page treats them as two buildings.

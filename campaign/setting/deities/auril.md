@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Auril, the Frostmaiden and god of winter, for players who want a cold-climate cleric or a devout character with a feared patron, and for a GM who needs a power to stand behind a hard winter.
 > - **Where it is used:** Auril never appears in person, and no campaign file names her. The page records the one *Dungeon of the Mad Mage* line that names her, and the one Waterdeep holiday the wiki ties to her, so that no later page invents more.
 > - **Featured in:** No quest. Her name appears only on other Deities pages, as one of the Gods of Fury with **Talos**, **Malar** and **Umberlee**.
@@ -61,9 +60,8 @@
   - Sustaining the Rime weakened her to a mortal form. The wiki says she cannot be destroyed for good, because so long as she keeps earthly worshipers she can be reborn at the next winter solstice (*Icewind Dale: Rime of the Frostmaiden*, 5e).
 - **In the campaign:** Auril is alive and present in 1492 DR, as every power is. FRHoF describes her in the present tense as a god of the Faerûnian pantheon. The Spellplague accounts are history, and no file says what became of her after the Rime. Draft Notes records both.
 
-> **[GM]**
+> [!gamemaster]**Using Auril as a Deity**
 >
-> #### Using Auril as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as a power people bargain with and never love. Dragon Heist says Waterdhavian winters are harsh, with snow piled around the city, ice filling the harbor and the gates sealed (`sources/adventure-wdh.json:607`), so a sage, a priest or a regular at the bar knows what she is blamed for. They say she is the Frostmaiden, the god of winter, shown as a six-pointed snowflake. They add that few care for her except those who live by the winter or truly love it, that everyone else lays in stores against the cold and leaves her an offering, and that druids honor her among the nature powers. They know Luskan's Winter Palace and its ice-packed runners from the road north. Old-timers may mention Auril's Blesstide, the first day of new frost, when the city once sought a mild winter from her (wiki). How the city feels about her worship is unsourced. [research]
 > - **Waterdeep:** Auril has no temple, shrine or priest in the city in any source.
 >   - The Dragon Heist Major Temples table has no Auril row (`sources/adventure-wdh.json:30921-30996`). The "All deities" row, Holyhands House in the North Ward (`:30923-30925`), is the only listing that could cover her, and no source says her faithful use it.
@@ -107,9 +105,8 @@ Auril, the Frostmaiden, is the god of winter and cold, and Waterdhavians picture
 - **Queen of Air and Darkness** (Deities): the archfey whom some fey took for the Frost Sprite Queen.
 - **Timekeeping and the Festival Calendar** (History): Midwinter, the one holy night of hers that the campaign calendar lists.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled by the user (Session 51), Auril's retreat:** The Auril wiki page says Umberlee, Talos and Malar forced Auril back to the Sea of Moving Ice in the late fifteenth century DR, and that from the island of Solstice she raised the Everlasting Rime from 1487 DR, which reached Icewind Dale for two years (`sources/research/pass2-bundles/auril/wiki.txt:211`, citing *Icewind Dale: Rime of the Frostmaiden* pp. 274 and 5). The Talos wiki page says Talos and Umberlee forced her to retreat to Icewind Dale in the late 1480s DR (`sources/research/pass2-bundles/talos/wiki.txt:181`, citing p. 275). The two are one event. The user ruled that she retreated to the Sea of Moving Ice, the frozen sea beside Icewind Dale, in the late 1480s DR, forced back by Umberlee, Talos and Malar, and `talos.md:67`, `umberlee.md:49` and `malar.md:50` now say the same. This page keeps the Auril wiki's island and its Icewind Dale reach for the Rime. FRHoF agrees, since it says only that her worship is strongest in Icewind Dale during the Rime (`sources/research/pass2-bundles/auril/5etools.md:8`).
 > - **Settled, 1492 DR status:** The wiki's 5e account has the Rime beginning in 1487 DR and lasting two years, and it reduces her to a mortal form that can be reborn at the next winter solstice. FRHoF is newer and describes her in the present tense as a god (`sources/5etools/deities.json:1036`), so the page keeps her a god and records the mortal form and the rebirth as the wiki's claim.
 > - **Settled, patron:** FRHoF's Talos entry says Talos rules the gods of fury, Auril among them (`sources/5etools/deities.json:13800`), and the wiki's Spellplague line says she served Silvanus after the Stormstar Requiem (`wiki.txt:24`, citing *Dragon* 367). The page states FRHoF's account as the present one and gives the Silvanus line as 4e-era history. `talos.md` treats the Stormstar Requiem as history too.

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Shaundakul, the Rider of the Winds and god of travel, for players who want a wanderer, a ranger-priest or a devout character who follows the roads, and for a GM who needs a power behind a portal-shrine or a prayer before a long journey.
 > - **Where it is used:** Shaundakul never appears in person, and no campaign file or published adventure names him. The page records that Waterdeep gives him no temple, so that no later page invents a priest, a shrine or a worshiper.
 > - **Featured in:** No quest. His name appears only on other Deities pages, as an ally of **Selûne**, **Tymora**, **Waukeen** and **Mielikki**.
@@ -59,9 +58,8 @@
   - After the Spellplague settled he returned to Toril at the head of a crowd of people and creatures who had been lost on other worlds. He has since traveled in mortal disguise and reveals his identity only to his most devout followers and priests (Ed Greenwood, *Sage Advice*, 2020, as cited by the wiki).
 - **In the campaign:** Shaundakul is alive and present in 1492 DR. FRHoF describes him and his priests in the present tense, and the wiki's 1385 DR disappearance and his return are history. Draft Notes records the conflicts.
 
-> **[GM]**
+> [!gamemaster]**Using Shaundakul as a Deity**
 >
-> #### Using Shaundakul as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as a half-forgotten god of the road. A sage, a priest or a regular at the bar says he is the Rider of the Winds, the god of travel, who watches over explorers, guides and rangers, and that travelers pray to him before a long trek. They add that spellcasters call on his name when they cast *Teleport*, and that few people worship him otherwise since his great temple at Myth Drannor was lost. A well-read sage can describe his old stone shrines, which open a portal to a twin shrine somewhere else in Faerûn when a traveler speaks the right command word. How much a Waterdhavian actually knows of him, and which of his names the city uses, is unsourced. [research]
 > - **Waterdeep:** Shaundakul has no temple, shrine, priest or festival in the city in any source.
 >   - The Dragon Heist Major Temples table has no Shaundakul row (`sources/adventure-wdh.json:30921-30996`). The "All deities" row, Holyhands House in the North Ward (`:30923-30925`), is the only listing that could cover him, and no source says his faithful use it.
@@ -95,9 +93,8 @@ Shaundakul, the Rider of the Winds, is the god of travel, and guides, explorers 
 - **Helm**, **Shar**, **Beshaba** (Deities): the god his portfolio threatens, the goddess he opposes over secrets, and the goddess who slandered him.
 - **Akadi** (Deities): an ally of the Rider of the Winds.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, plane:** FRHoF puts his plane at Ysgard (bundle `5etools.md:5`). The wiki's 5e row agrees, and its 3e row gives the Gates of the Moon (`wiki.txt:17` and `:62`). The page follows FRHoF and gives the 3e plane in the divine realm bullet.
 > - **Conflict, remaining temple:** FRHoF says his only remaining temple is Shaundakul's Throne in Myth Drannor (`5etools.md:10`). The wiki says one temple outside Arabel kept receiving pilgrims for a century after 1385 DR (`wiki.txt:150`). The page follows FRHoF, gives the Arabel temple as history, and does not link it to the present.
 > - **Conflict, tense:** The wiki writes of him in the past tense and says he disappeared in 1385 DR and later returned (`wiki.txt:112`, `:148` and `:150`). FRHoF writes in the present tense. The page keeps him alive in 1492 DR, as the campaign does for every power.

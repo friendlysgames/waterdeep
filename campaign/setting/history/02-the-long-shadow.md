@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this is:** The Era page for the history of Xanathar's Guild and of Skullport, the undercity it rules from. It is the second of eight eras, after **Ahghairon's Gifts** and before **Bregan D'aerthe's Long Road**.
 > - **Where it is used:** The GM reads it before voicing Xanathar, Ahmaergo or Nar'l Xibrindas, before answering a contact's question about where the Guild comes from, and before running area X33 of **Xanathar's Lair**, the crypt of the previous Xanathars.
 > - **Featured in:** **Finding Floon**, **Faction Outposts**, **Xanathar's Lair**, **Vault of Dragons**, and the **Xanathar Sewer Hideout** location journal.
@@ -18,9 +17,8 @@
 
 **Other Names:** Xanathar's Guild is the campaign name. The published adventure drops the possessive and the wiki calls it Xanathar's Thieves' Guild. The wiki also gives the Agents of the Eye as the older Skullport name, used in 1372 DR. No in-world name for the era itself is sourced. `[research]`
 
-> **[GM]**
+> [!gamemaster]**Lore Summary**
 >
-> #### Lore Summary
 > - "Xanathar" is a title held by a succession of beholders. Each holder inherits the Guild's apparatus and its paranoia together. The current Xanathar is a beholder named Zushaxx, and its pronouns are "it". Kirukesai was one of the previous holders.
 > - The Guild keeps continuity by eliminating anyone who knows more than the current Xanathar. The campaign line is that Zushaxx believes it is the original. The crypt in the lair shows the title is a succession, and the user has ruled that the remix line wins over the published room.
 > - Skullport is the Guild's undercity base. Netherese wizards built it more than two thousand years before the campaign, many masters have held it since, and the Guild holds it in 1492 DR.
@@ -77,9 +75,8 @@
 
 Xanathar's Guild is the largest criminal organization in Waterdeep and, according to rumor, the only one led by a beholder. Its roots lie in Skullport, an outlaw port in the caverns below the city, reached through Undermountain and outside the Watch's jurisdiction, which Netherese wizards built long ago and which many masters have held since. Its informants work in every ward, and its main territory above ground is the Dock Ward. It is said that many of its own members have never seen their master.
 
-> **[GM]**
+> [!gamemaster]**Secret**
 >
-> #### Secret
 > - Nihiloor, the mind flayer, has been psionically dominating Xanathar for the last four months. The Xanathar that the party meets, including the one who killed Manshoon's envoys and sent response teams against the party's allies, has been Nihiloor's instrument. Xanathar does not know.
 > - Nar'l Xibrindas is a Bregan D'aerthe spy. Xanathar suspects a mole but does not know where Nar'l's reports go.
 > - The crypt of previous Xanathars (area X33 of **Xanathar's Lair**) shows that the title is claimed through murder. Of the Guild's own people, only Nar'l knows the room exists.
@@ -119,9 +116,8 @@ Xanathar's Guild is the largest criminal organization in Waterdeep and, accordin
 - **Finding Floon**, **Faction Outposts**, **Xanathar's Lair** and **Vault of Dragons**: the quests that feature the Guild.
 - **Xanathar Sewer Hideout**: the Guild's sewer base.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Area X33, the Crypt of Xanathars Past.** The published room holds four dead beholders preserved in embalming fluid in floor-to-ceiling crystal cylinders lit from within, and nine alcoves with a copper urn each, topped by ten eyestalks. Pouring out an urn's dust makes it coalesce into a floating beholder for a few seconds, growl and fall. A carved wall shows a scowling beholder flanked by two hooded wizards. If Xanathar is present, it gazes somberly at the tombs. The remix overrides this detail: Zushaxx believes it is the original, so it does not mourn the dead.
 > - **The campaign additions to X33.** A secret door from X6 (DC 17 Wisdom (Perception) check) leads to the room. It holds the remains and effects of every previous holder, evidence that the title is claimed through murder, the original charter signed by the first holder, and a locked coffer with the personal journals of the last three Xanathars. The journals record early dealings with Manshoon's predecessors.
 > - **What the party can learn.** The room proves that "Xanathar" is a title and that thirteen holders precede the current one. It implies that the current Xanathar can be replaced, and that someone may already be planning it. The wiki's story of a Zhentarim-hired first holder fits the journals. `[research: wiki only]`
@@ -141,9 +137,8 @@ Xanathar's Guild is the largest criminal organization in Waterdeep and, accordin
 >   - 1492 DR: Zushaxx holds Skullport, kills Nerozar, and negotiates with the Zhentarim. This much is in the published adventures.
 >   - Ches 1, 1492 DR: the campaign opens.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Research:** The Span. The Guild's founding year is unsourced. 1357 DR is the wiki's first date (`Xanathar_Guild.txt` line 125), and "a century" from the old block is replaced by about 135 years from it.
 > - **Research:** Other Names. No in-world name for the era is sourced.
 > - **Research:** Skullport "outside city jurisdiction". the retired Waterdeep outline line 21 and `xanathar.md` line 25 state it. Neither adventure does, and the wiki shows Waterdeep sentencing criminals there (`Skullport.txt` line 256). The old block's image of the Guild as the city's relationship to its sewers is invented flavor and was left out.

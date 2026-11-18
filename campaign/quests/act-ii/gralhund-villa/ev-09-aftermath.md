@@ -1,8 +1,7 @@
 # Aftermath
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Social Event opens with the Stone status check, then works through the political and personal consequences of the bloodbath. In this Event:
 >
@@ -18,9 +17,8 @@
 
 The first thing the party does, consciously or not, is establish where the Stone is. If the party holds it, Milestone 2 fires now.
 
-> **[GM]**
+> [!gamemaster]**Milestone: The Stone of Golorr — 1 Point**
 >
-> #### Milestone: The Stone of Golorr — 1 Point
 >
 > If the Stone of Golorr is in party hands at the opening of this event, award 1 Milestone Point. Cumulative total: 9. **The party reaches Level 4.**
 >
@@ -92,9 +90,8 @@ Inside: the Stone of Golorr. And a card, blank on one side, written on the other
 
 Nothing else. No instructions. No conditions stated.
 
-> **[GM]**
+> [!gamemaster]**Why Jarlaxle Returns It**
 >
-> #### Why Jarlaxle Returns It
 >
 > He had the Stone. He could have opened it himself and sent an operative into the vault. He chose not to. The message is everything the card doesn't say: he knew who they were before they knew him, he is more useful to them with the Stone in their hands than in his, and he expects them to remember this when the time comes.
 >

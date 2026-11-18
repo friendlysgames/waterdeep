@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Asmodeus, archdevil and god of indulgence, and the template page for the Deities journal.
 > - **Where it is used:** Asmodeus never appears in person. He is the creditor behind the Cassalanters' pact, so this page backs every scene in which the party learns what the family signed.
 > - **Featured in:** **Fireball!**, **Faction Outposts**, **Cassalanter Villa** (through the Cassalanters and their cult), **Vault of Dragons** (the Flamerule 11 deadline).
@@ -54,9 +53,8 @@
   - Shrines are rare and temples "practically unheard of" (*Sword Coast Adventurer's Guide* 5e). Followers ask him to hide sins or ease the wait on the Fugue Plane.
   - His priests are called mordai and prey on greed and impatience (*Forgotten Realms Campaign Guide* 4e).
   - The cult works as a mutual-aid society for merchants and nobles who raise one another in rank. Where lawful evil is unwelcome, its temples hide in subterranean complexes (*Fiendish Codex II* and *Book of Vile Darkness*, 3e). This fits the Cassalanters: a noble family and a hidden temple beneath their villa.
-> **[GM]**
+> [!gamemaster]**Using Asmodeus as a Deity**
 >
-> #### Using Asmodeus as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as a seller of comforts. A sage, a priest or a regular at the bar says he is the god of indulgence and the ruler of the Nine Hells, that he offers pleasure, power and a place among the devils after death, and that his bargains cost more than the buyer expects. They distrust anyone who admits to following him, and the only shrines they know of are private ones in homes. Priests of other gods add that he will hide a sin from its god and collect the price after death. Nobody in this conversation mentions the Cassalanters.
 > - **A cleric PC:** The domains are Knowledge, Trickery and Order (fallback SCAG 2014). Order Domain (derived; Tasha's Cauldron of Everything) is the best fit, since it is one of his own domains and his priests keep a strict rank under his Chosen. Trickery Domain (derived; Player's Handbook 2024) is the alternative for the tempter who offers to hide a sin. The Divine Order that fits is Thaumaturge (derived), because his priests trade in bargains and promises about the afterlife. Open worship is not outlawed and earns distrust, and a follower who keeps a hidden shrine in the home is doing what many followers do. The campaign writes no scene in which he contacts a PC, because he never appears, speaks or intervenes in any quest. The wiki has nothing specific to Waterdeep, so a public shrine or temple draws the general reaction: shrines are rare, temples are practically unheard of, and followers earn distrust.
 > - **A paladin PC:** Oathbreaker (derived; Dungeon Master's Guide 2014). The subclass is a paladin who breaks sacred oaths to serve an evil power, and Asmodeus is a lawful evil archdevil, so a fallen knight who takes his terms is a natural reading. Oath of Conquest (derived; Xanathar's Guide to Everything) is the alternative for a paladin who serves his rule by force.
@@ -69,9 +67,8 @@
 
 Asmodeus is the god of indulgence and the ruler of the Nine Hells, an archdevil whom the people of the North call the Lord of the Ninth. He is said to offer pleasure, power and a place among the devils after death to anyone who will pay, and his bargains are known to cost more than the buyer expects. Few cities forbid his worship outright, but anyone who admits to it earns distrust, and the shrines that exist are kept privately in homes.
 
-> **[GM]**
+> [!gamemaster]**Secret**
 >
-> #### Secret
 > - **Who is tied to him:** The Cassalanters. Victoro Cassalanter is a half-elf banker and secret priest of Asmodeus. Ammalia Cassalanter is a Tethyrian human wizard and secret worshipper. Tissina Khyret, Laiba "Nana" Rosse, Jandar Chergoba, Seffia Naelryke and Arn Xalrondar are cult fanatics. Willifort Crowelle, the doppelganger butler, is their trusted operative.
 > - **The pact:** Three years before the campaign, about 1489 DR, the family had held its noble name for several generations and was facing financial ruin. Victoro and Ammalia chose to trade their three children's souls to Asmodeus for wealth compressed from three generations into one and political access that normally takes centuries to build. The deal also bought power, good health and long life. They understood the terms and signed. Financial ruin was the trigger. (see **A Debt in Blood**)
 > - **What was already paid:** Osvaldo, the eldest, was taken at nine, the age at which the contract claims each child. He is now twelve and a chain devil. The twins, Terenzio and Elzerina, are eight and unaware of the bargain.
@@ -115,9 +112,8 @@ Asmodeus is the god of indulgence and the ruler of the Nine Hells, an archdevil 
 - **Kelemvor** (Deities): the judge of the Fugue Plane that the priests' pitch is aimed against.
 - **Lathander** (Deities): Victoro's public cover.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Answered from the wiki:** History of his rise, relations with the archdevils, and public worship and doctrine now sit in Influence and Followers. The wiki has no Waterdeep-specific worship text. Its listed Chosen (Farideh, Havilar, Bryseis Kakistos, Valraun) stay out, since the campaign has none.
 > - **Verified against the wiki:** Alignment lawful evil, domains Knowledge, Order and Trickery, the symbol of three inverted triangles in a long triangle, the Nine Hells (Nessus), portfolio indulgence, and the epithets Lord of the Ninth, The Cloven and Old Hoof and Horn. The page keeps the epithet line as it stands. "Roughly a century ago" for the Spellplague of 1385 DR is about 107 years in 1492 DR.
 > - **Research:** Areas of Concern are derived from the FRHoF and SCAG entries, which list none.

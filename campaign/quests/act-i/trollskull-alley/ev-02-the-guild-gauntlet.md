@@ -1,8 +1,7 @@
 ﻿# The Guild Gauntlet
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Event covers the permit acquisition sequence. It runs across the first week of the renovation period. In this Event:
 >

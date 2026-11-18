@@ -1,8 +1,7 @@
 ﻿# Zhentarim Warehouse — Area Overview
 
-> **[GM]**
+> [!gamemaster]**Area Map Context**
 >
-> #### Area Map Context
 >
 > This location is used during the **Zhentarim Warehouse** Event (ev-03) of Finding Floon. The party enters through the yard gate from Candle Lane. Renaer Neverember begins in Z02. The kenku alert state is determined by the party's entry approach — see the **Zhentarim Warehouse** Event for entry mechanic details.
 

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Hoar, the god of revenge and retribution, who is called Assuran around the Inner Sea. It serves players who want a vengeance-minded cleric or paladin, and the GM who needs to know what the sources say.
 > - **Where it is used:** Hoar never appears in person. No quest, faction or Notable Figure uses him, and no file places a temple, shrine or priest of his in Waterdeep.
 > - **Featured in:** No quest.
@@ -56,9 +55,8 @@
   - In the wiki's 4e account, Bane recruited him as an exarch after Tyr died, and he took on a crueler manner (*Forgotten Realms Campaign Guide*, 4e). After the Second Sundering he returned to his neutral outlook as a counterpoint to Tyr. Tyr arbitrates, and Hoar punishes those who break the law (wiki, citing SCAG).
 - **In the campaign:** Hoar is alive and present in 1492 DR. No file treats him as dead, absent or bound to Bane, so this page gives the exarchy as history. No file uses him in play (see Draft Notes).
 
-> **[GM]**
+> [!gamemaster]**Using Hoar as a Deity**
 >
-> #### Using Hoar as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the name people mutter when they cannot get even. A sage, a priest or a regular at the bar says Hoar is the Doombringer, the god of revenge, shown as a coin with a two-faced head, and that hardly anyone worships him on a regular basis. They add that folk call on him when they have been wronged and cannot strike back, and that when a murderer who escaped the courts is killed by accident, people say the hand of Hoar did it. A sage may mention that three rolls of thunder are taken as a sign that a vengeance has been done, and that many human lands ring a bell or gong three times at a sentence or an execution. A priest of another god adds that most people consider Tyr the judge of the law and Hoar the god who delivers the punishment, so a judge favors Tyr and a jailer or a headsman prays to Hoar. Nobody in this conversation knows of a temple of his in the city.
 > - **Waterdeep:** The sources place no temple, shrine, priest or festival of Hoar in the city.
 >   - The Dragon Heist Major Temples table (`sources/adventure-wdh.json`, caption at line 30910) has no Hoar row. It lists Holyhands House in the North Ward as the temple of "All deities" (lines 30923-30924), which includes him by its own wording.
@@ -96,9 +94,8 @@ Hoar is the god of revenge and retribution, called the Doombringer, and his symb
 - **Mystra** (Deities): the goddess whose influence in Unther was Ao's price for his rise in Faerûn.
 - **Timekeeping and the Festival Calendar** (History): the calendar that has none of his holy days, and the Reign of Misrule that honors his ally Beshaba.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **No FRHoF entry:** Heroes of Faerûn has no entry for this god; the page rests on SCAG (2014) and the wiki.
 > - **Conflict, temples:** SCAG says temples and shrines are almost nonexistent except for ancient sites in Chessenta and Unther (`sources/research/pass2-bundles/hoar/5etools.md:9`). The wiki says smaller shrines spread north by the late 15th century DR, with one in Baldur's Gate and one on Dragonisle (`sources/research/pass2-bundles/hoar/wiki.txt:179`). SCAG ranks higher, so the Using box follows it, and the wiki's places appear tagged in Influence and Followers. Neither source names Waterdeep.
 > - **Conflict, how he joined the pantheon:** SCAG says his worship spread beyond its first lands (`5etools.md:10`). The wiki says Ao let him gain power in Faerûn in exchange for Mystra's influence in Unther (`wiki.txt:190`). They describe different mechanisms and do not clearly contradict each other, so the page gives both.

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Sune, the god of love and beauty, and the reference for the Temple of Beauty and the Grand Revel.
 > - **Where it is used:** Sune never appears in person, and no campaign NPC worships her. She comes up through the Temple of Beauty in the Sea Ward and the Grand Revel on Alturiak 14, which falls before the campaign opens on Ches 1.
 > - **Featured in:** No quest or event names her. Her part in the wiki's 1384 DR account is told on the **Tyr**, **Siamorphe** and **Tymora** pages.
@@ -62,9 +61,8 @@
   - During the Spellplague her plane of Brightwater was destroyed, and Selûne invited her and her exarchs into the Gates of the Moon. The wiki's realm section says instead that Sune moved Brightwater to Selûne's realm (*Forgotten Realms Campaign Guide*, 4e). In the same period many lesser powers of love, Hanali Celanil among them, were revealed to be aspects of Sune. By ruling every Spellplague-era merger or absorption is undone, so those powers are separate again in 1492 DR.
 - **In the campaign:** Sune is alive and present in 1492 DR. Her Temple of Beauty is a working temple, and no file treats her as absent or as subordinate to another power. The 4e destruction of Brightwater and the absorptions are history. The imprisonment of Cyric does not hold, since Cyric is free in 1492 DR. No scene uses any of them (see Draft Notes).
 
-> **[GM]**
+> [!gamemaster]**Using Sune as a Deity**
 >
-> #### Using Sune as a Deity
 > - **The ordinary Waterdhavian's view:** Voice her as the lady of the mirror and the bath. A sage, a priest or a regular at the bar says she is the god of love and beauty, shown as a woman with long red hair, and that her temple in the Sea Ward lets anyone bathe and primp before a night out. They add that her followers are called hedonists but that her priests make art and back young talents, and that beauty runs deeper than skin. Every Alturiak 14 her clergy lead the Grand Revel, with ring dances in the streets and love feasts at dusk. How Waterdhavians feel about her clergy outside the festival is unsourced. [research]
 > - **Waterdeep:** Sune has one temple in the city, the Temple of Beauty in the Sea Ward, and one festival.
 >   - The Dragon Heist Major Temples table lists "Sune, Temple of Beauty, Sea Ward". The Sea Ward text calls it the place to refresh yourself on the road or to primp before an important meeting or a night out. Its marbled public baths and mirrored salons are open from before dawn to after dusk, and neither they nor the advice and aid of the temple's many pleasant attendants cost a fee, though donations are encouraged (`sources/adventure-wdh.json:30883`).
@@ -103,9 +101,8 @@ Sune, called Lady Firehair, is the god of love and beauty, and she is pictured a
 - **Milil**, **Amaunator** (Deities): an ally who is also named for a Grand Revel, and a god smitten with her.
 - **Talos**, **Tempus**, **Talona**, **Umberlee**, **Malar**, **Auril** (Deities): the powers she opposes or whom her myths pass over.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, the Grand Revel:** *Dragon Heist* gives the Grand Revel to Sune, Sharess and Lliira on Alturiak 14 (`sources/adventure-wdh.json:31363` and `:31367`). FRHoF says priests of Milil hold a holiday called the Grand Revel each year at Midsummer (`sources/5etools/deities.json:9357`). The page follows the published adventure for the Alturiak 14 festival and gives the Midsummer holiday no weight. The **Milil** page keeps the two apart and holds the Midsummer holiday for Milil alone, so the Alturiak 14 festival belongs to the Sune, Sharess and Lliira entries. `campaign/setting/deities/lliira.md:115` records the same split.
 > - **Settled, Tymora's destination in 1384 DR:** The user ruled that both accounts hold: Tymora went to Tyr first and Selûne took her in later (`campaign/setting/deities/tymora.md:122`). This page still says only that she left Brightwater. The pages agree that Siamorphe left for Brightwater, that Sune proposed the Tyr and Tymora match, that Helm died in a duel, that Ilmater joined Sune and that Cyric was imprisoned. They differ on other details this page does not settle. `campaign/setting/deities/tymora.md:56` has Selûne taking Tymora in at the Gates of the Moon, `campaign/setting/deities/tyr.md:50` has her leaving Brightwater to be with Tyr, and `campaign/setting/deities/tymora.md:122` notes the difference. This page says only that she left Brightwater. `campaign/setting/deities/siamorphe.md:40` has Tyr sending Helm to Sune to explain his position, `campaign/setting/deities/tyr.md:50` has him sent to Brightwater as Tyr's messenger, and `campaign/setting/deities/helm.md:50` has him carrying messages between Tyr and Tymora. This page follows the Tyr page.
 > - **Settled, the imprisonment of Cyric:** `campaign/setting/deities/tyr.md:51` and `lathander.md:52` have Tyr and Sune imprisoning him with Lathander's help, and `campaign/setting/deities/cyric.md:54` has Lathander, Tyr and Sune trapping him together. The Sune wiki page calls the three a triumvirate that declared he should be imprisoned (*Forgotten Realms Campaign Guide* p.74, 4e). This page names all three powers. The imprisonment is a 4e account and it does not hold in the campaign, where Cyric is free and active in 1492 DR. The page gives it as tagged history, as the Tyr, Lathander and Cyric pages do.

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Istishia, the Water Lord and elemental god of water, for players who want a cleric, a water genasi or a sailor with a distant, indifferent patron, and for a GM who needs to know what the sources say about him.
 > - **Where it is used:** Istishia never appears in person. No campaign file names him, and no file places a temple, shrine or priest of his in Waterdeep. The page records the one *Dungeon of the Mad Mage* marid who fits his temperament without being tied to him, so that no later page invents more.
 > - **Featured in:** No quest. His name appears only on other Deities pages, such as the one for **Valkur**.
@@ -50,9 +49,8 @@
 - **Origin and rise:** No source gives an in-world origin or a dated event. The wiki's history section is a stub. The only edition note is that he is a primordial from the Elemental Chaos in 4e (*Forgotten Realms Campaign Guide*).
 - **In the campaign:** Istishia is present in 1492 DR, as every power is. The 4e primordial status is another edition's account, and this page does not use it as his present rank (see Draft Notes).
 
-> **[GM]**
+> [!gamemaster]**Using Istishia as a Deity**
 >
-> #### Using Istishia as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as a power that is far away and does not care. A sage, a priest or a sailor at the bar says he is the Water Lord, the elemental god of water itself, and not of any sea or river, and that his sign is a wave. They add that sailors, pirates, water genasi and some sea elves honor him, that the temples people can name are in Calimshan, and that he gives what water gives without caring what is done with it. They also know that the harbor's festival offerings go to Umberlee and not to him. How Waterdeep feels about his worship is unsourced. [research]
 > - **Waterdeep:** The sources place no temple, shrine, priest or standing observance of Istishia in the city.
 >   - The Dragon Heist Major Temples table has no Istishia row. Its only generic row is "All deities", which names Holyhands House in the North Ward (`sources/adventure-wdh.json:30921-30996`, `:30923-30925`).
@@ -94,9 +92,8 @@ Istishia is the Water Lord, the elemental god of water itself and not of any par
 - **Timekeeping and the Festival Calendar** (History): Fleetswake and the Fair Seas Festival, which leave him out.
 - **Sea Maidens Faire** (quest): its carnival fleet arrives in harbor on the first day of Fleetswake. No file ties Istishia to the quest.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **No FRHoF entry:** Heroes of Faerûn has no entry for this god; the page rests on SCAG (2014) and the wiki.
 > - **Conflict, rank:** The wiki's 5e field says deity (`wiki.txt:14`), its 4e field says primordial (`wiki.txt:29`), and its intro calls him the "neutral primordial deity of elemental water and purification" (`wiki.txt:95`). Earlier editions rate him a lesser power (1e) and a greater deity (2e and 3e). The page keeps him an independent god in 1492 DR and gives the primordial status as another edition's account.
 > - **Conflict, domains:** SCAG gives Tempest (`5etools.md:4`). The wiki's 3e row gives Destruction, Ocean, Storm, Travel and Water (`wiki.txt:52`). Those are 3e domains, so the page follows SCAG and leaves the 3e list out.

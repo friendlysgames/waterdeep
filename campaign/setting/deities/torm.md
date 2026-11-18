@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Torm, the god of courage and self-sacrifice, and the reference for the Torm chapel that the Order of the Gauntlet uses in the Dock Ward.
 > - **Where it is used:** Torm never appears in person. His faith reaches the campaign through the Order of the Gauntlet, which treats worshipers of Helm, Torm and Tyr as its natural recruits, and through the Chapel of the Steadfast Shield, which heals Order members and gives them briefings.
 > - **Featured in:** **Trollskull Alley** (**The Factions Come Calling**), the Order of the Gauntlet's First Meeting, and the **Marcheon** and **Righteous Hand** rank events. *Dungeon of the Mad Mage* supplies Torm seeds for later.
@@ -59,9 +58,8 @@
   - Tyr returned to life in the Second Sundering, in the 1480s DR (*Sword Coast Adventurer's Guide*, 5e). The Sundering undid the abdication, so Torm is again Tyr's right hand and the god of courage and self-sacrifice.
 - **In the campaign:** Torm is alive and present in 1492 DR, with Tyr reigning as the head of the Triad and holding the justice portfolio. The Order of the Gauntlet's files treat the Halls of Justice, the Temple of Helm and the Torm chapel as three working temples. The 4e abdication of Tyr, his death and Bahamut's stand-in are history that the Sundering undid (see Draft Notes).
 
-> **[GM]**
+> [!gamemaster]**Using Torm as a Deity**
 >
-> #### Using Torm as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the god of sworn duty. A sage, a priest or a regular at the bar says Torm is the god of courage and self-sacrifice, the patron of paladins and knights, and the good right hand of Tyr. They know his sign as a white gauntlet raised with the palm forward, and they say his followers keep their duty whatever it costs and rise again after they fail. Priests add that he is kind to the weak and the faithful and stern with evil and injustice. Anyone who wants a priest of his is sent to the Chapel of the Steadfast Shield in the Dock Ward, because the city has nothing grander of his. At the Order's investiture the words are "Tyr, Helm and Torm are witness to it."
 > - **Waterdeep:** Torm has one chapel in the city, the Chapel of the Steadfast Shield in the Dock Ward.
 >   - The Dragon Heist Major Temples table has no Torm row. The Order of the Gauntlet files are the only source that places him in the city.
@@ -77,9 +75,8 @@
 
 Torm is the lawful good god of courage and self-sacrifice, and his symbol is a white gauntlet for the right hand. Paladins and knights revere him as the good right hand of Tyr, and his faithful keep their oaths, oppose unjust laws and stand on the front line against evil. His priests are friendly with those of Tyr and Ilmater, and the three gods are known together as the Triad. His temples are usually fortresses on high ground, so Waterdhavians who need a priest of his look to the Chapel of the Steadfast Shield in the Dock Ward.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **The Order's pull:** Savra Belabranta speaks first to a candidate with a Cleric or Paladin class or an Acolyte, Guard or Soldier background. If none qualifies she speaks first to a worshipper of Helm, Torm or Tyr. Faith decides nothing else about recruitment, and a Torm worshiper gets no other advantage and faces no test.
 > - **The chapel and the Chevall rank:** At Renown 1 the member may name Savra at the front desk of any temple of Tyr, Helm or Torm. A priest casts *Cure Wounds* on the member once a day and gives a bed for the night, up to three nights in a row, free of charge. A member can have three castings in one day by walking between the three temples. A priest casts nothing stronger without payment.
 > - **Marcheon briefings:** At Renown 3 a member may ask one of the three temples for a briefing each tenday. The priest sees the member the same day in a side room and speaks for about a quarter of an hour. The chapel's list has four patterns and no names. The first is sworn men who left a post without a word and have not been found. The second is vows that were paid for, with one man swearing an oath on another man's behalf. The third is a charity whose books do not close, which a Torm almoner asked about and was refused. The fourth is known fiendish signs in general, animals that will not enter a house and a sleeper who talks in a language he does not know. The priest gives the fourth only to a member who has been through **Spined Devils in Twelvedog Court**, and before then the chapel repeats the first three.
@@ -121,9 +118,8 @@ Torm is the lawful good god of courage and self-sacrifice, and his symbol is a w
 - **Savra Belabranta** (Notable Figures): the Order's contact and head of the Waterdeep chapter.
 - **Trollskull Alley**, **Spined Devils in Twelvedog Court** (quests and missions): where the Order's recruitment and the fiendish-signs briefing come into play.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled by ruling, edition:** The wiki has Tyr abdicate his godhood to Torm and die afterward, with Bahamut taking Tyr's role as god of justice and serving Torm, so that Torm leads a "new" Triad (`wiki.txt:180`, `:212` to `:216`, `:172`). The Sundering ruling undid every Spellplague-era change by 1492 DR, so all of that is 4e history. Tyr is back, reigns as the head of the Triad and holds the justice portfolio (`campaign/setting/deities/tyr.md:31`, `:52`, `:125`). Torm is in his old place as the third god and Tyr's right hand. The page keeps the abdication, Tyr's death and his return as history, tagged 4e and 5e.
 > - **Settled by ruling, wiki accounts of the abdication:** The Torm wiki page ties Tyr's abdication to Helm's death in 1384 DR, after Cyric manipulated Tyr into fighting Helm (`wiki.txt:212`). The Tyr page ties it to Tyr and Sune imprisoning Cyric (`campaign/setting/deities/tyr.md:51`). The abdication is undone, so this page gives no cause. The duel with Helm is recorded on the Helm and Tyr pages (`helm.md`, Origin and rise; `tyr.md:50`), and Helm returned after the Second Sundering, so the Order's files can keep using the Temple of Helm as a working temple (`r03-marcheon/ev-01-marcheon.md:222`). This page leaves the duel out because Torm has no part in it.
 > - **Conflict, plane:** FRHoF puts Torm on Mount Celestia (Mercuria) (`5etools.md:5`), and the wiki's 3e line gives the House of the Triad (`wiki.txt:90`). The Siamorphe page uses the House of the Triad (`campaign/setting/deities/siamorphe.md:24`). This page uses FRHoF.

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the patron entry for Mammon, the archdevil of greed who rules Minauros and a Fiend patron for warlock characters. He is not a god of the Faerûnian pantheon, so this page replaces the cleric and paladin guidance of a deity page with warlock guidance.
 > - **Where it is used:** Mammon never appears in the campaign. He is a choice for a player building a warlock, and two deity pages name him in passing, the Asmodeus page among the archdevils and the Tiamat page as the devil she resented.
 > - **Featured in:** no quest.
@@ -54,9 +53,8 @@
   - Tiamat despises him for luring away her dragon worshipers with an appeal to their greed (*Fiendish Codex II* 3e).
 - **In the campaign:** Mammon rules Minauros in 1492 DR, as every power in this journal is present in that year. The wiki writes of him in the past tense, and the Reckoning is history.
 
-> **[GM]**
+> [!gamemaster]**Using Mammon as a Patron**
 >
-> #### Using Mammon as a Patron
 > - **The ordinary Waterdhavian's view:** Almost none. A sage can repeat the Overview, and a merchant or a moneylender is the likeliest to have heard the name, as the devil who buys souls with gold (derived from his followers and his trade). No source records any Waterdhavian opinion of him or a rumor about him. [research]
 > - **Waterdeep:** None. The Major Temples of Waterdeep table in *Dragon Heist* lists no temple of Mammon, and no campaign file places a shrine or cult in the city. The wiki's one Waterdeep item is that his aspects lurk in the alleys of Waterdeep. No campaign scene uses it, and this page does not place an aspect anywhere (see Draft Notes).
 > - **A warlock PC:** The Fiend patron in the 2024 *Player's Handbook* fits him (derived), since he is an archdevil who trades in souls. The wiki gives no Mammon-specific features. [research] What he wants from a bargain is souls and gold, and he is the archdevil to approach for a deal paid in coin instead of a soul (*Mordenkainen's Tome of Foes* 5e). The price is steep either way. The wiki's quotation box says closing the deal without offering a soul takes the wealth of a dozen kingdoms. He is also duplicitous, and he seduces his victims with silver-tongued promises before he watches their faces as he betrays them (*Fiendish Codex II* 3e). The wiki gives no worked example of a warlock with a Mammon pact.
@@ -90,9 +88,8 @@ Mammon is the archdevil who rules Minauros, the third layer of the Nine Hells, a
 - **Waukeen** (Deities): the goddess of trade. Her followers hold that competition for wealth makes opportunity for all, while his followers deny wealth to others. The wiki gives no relation between them.
 - **Istrid Horn** (Notable Figures): a moneylender with no tie to him, listed so that a GM does not assume one.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, his form:** The wiki's description says his natural form was eventually changed into one resembling a yuan-ti halfblood, with a serpent's lower body (*Guide to Hell* 3e; *Fiendish Codex II Fiendish Aspects*). Its history says Asmodeus changed him into a form resembling Geryon (*A Paladin in Hell*, edition not given; *Book of Vile Darkness* 3e). The wiki does not choose between them (wiki lines 117 and 207). The template has no Appearance section, so this page gives the conflict here and the history bullet only says the sources disagree.
 > - **Conflict, his title:** The wiki's title row gives "Archduke of Minauros" (*Dungeon Master's Guide* 5e, p. 64) and "Viscount of Minauros" (*Dragon* 223). The body text calls him the archdevil viscount. The page leads with Archduke because it is the 5e source and keeps Viscount among the other names.
 > - **Conflict, citation for Tiamat:** The Mammon wiki page cites *Fiendish Codex II* (3e, p. 145) for Tiamat despising him. The Tiamat page (`campaign/setting/deities/tiamat.md:46`) cites *Dragon* 75 for her resenting him. The two agree in substance. This page uses the Mammon wiki's citation, and the Tiamat page may want a matching tag.

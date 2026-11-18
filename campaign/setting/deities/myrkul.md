@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Myrkul, the god of death and decay, and the reference for the one place he holds in Waterdeep, the city's memory of his invasion in the Time of Troubles.
 > - **Where it is used:** Myrkul never appears in person, and no quest, faction or Notable Figure uses him. The city keeps him alive through the Gods' Day bonfire and a statue in the City of the Dead.
 > - **Featured in:** No quest. The published *Dragon Heist* names him in its Waterdeep history, in the Warriors' Monument entry and in the Gods' Day entry.
@@ -56,9 +55,8 @@
   - A few minor shrines survived the Spellplague and the Second Sundering, and SCAG says his return came after the Second Sundering, when he was restored as one of the gods of death (*Sword Coast Adventurer's Guide*, 5e). SCAG puts it in his own words: "In time Myrkul returned, for can death itself truly ever die?"
 - **In the campaign:** Myrkul is present in 1492 DR, as FRHoF and SCAG present him, and the city dreads him and does not worship him. His death in 1358 DR is history. The wiki's "dead power" ranks and the *Dragon Heist* phrase "the fallen and the risen gods" do not make him absent in play (see Draft Notes).
 
-> **[GM]**
+> [!gamemaster]**Using Myrkul as a Deity**
 >
-> #### Using Myrkul as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the dread at the end of every road. A sage, a priest or a regular at the bar says he is the Lord of Bones, the god of death and decay, and that few people pray to him and many dread him. They blame him for aching bones and fading eyes. They tell how he and Bane stole the Tablets of Fate in the Time of Troubles, and how his invasion of Waterdeep set fire to the Southern, Dock and Castle Wards. A sage adds that he fell in that same crisis and that his followers now claim he has returned. Priests of Kelemvor say that necromancers favor him. Anyone who has walked the City of the Dead has seen his skull on the breastplate of a skeletal knight in the Warriors' Monument.
 > - **Waterdeep:** Myrkul has no temple, shrine or priest in the campaign files, and the city has no festival of his own. What it keeps is the memory of his invasion.
 >   - The Dragon Heist Major Temples table has no Myrkul row (`sources/adventure-wdh.json:30910-30997`).
@@ -106,9 +104,8 @@ Myrkul is the god of death and decay, called the Lord of Bones and the Reaper, a
 - **Castle Ward** (Gazetteer): the ward of Blackstaff Tower and Mount Waterdeep, and the Gods' Day bonfire.
 - **Timekeeping and the Festival Calendar** (History): Gods' Day and the Feast of the Moon.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict with the brief:** The brief says no campaign line names Myrkul. `campaign/gazetteer/waterdeep/castle-ward.md:195` does, in the Gods' Day entry. The Using box says "No quest, faction or Notable Figure file uses this power" instead of the fixed fallback line, and it quotes the gazetteer line.
 > - **Settled by ruling, status of a dead god:** The wiki infobox gives his death as 1358 DR "(later restored after the Second Sundering)" (`sources/research/pass2-bundles/myrkul/wiki.txt:24`), and its 2e and 3e rows rank him a dead power (`wiki.txt:87` and `:102`). FRHoF and SCAG present him as a current god (`sources/research/pass2-bundles/myrkul/5etools.md:7-10` and `:28`), and SCAG says his return came after the Second Sundering. The Sundering ended in 1487 DR, so he is present in 1492 DR. The wiki's 5e row calls him a quasi-deity (`wiki.txt:58`), and *Dragon Heist* lists him among "the fallen and the risen gods" (`sources/adventure-wdh.json:31536`). The page gives the death as history and uses the "dead power" ranks only as wiki history. The wiki's 1492 DR material on a Chosen and an avatar comes from a video game and is left out.
 > - **Conflict, plane and home:** FRHoF gives Hades (Oinos). The wiki's Realm section puts the Bone Castle in the Gray Waste and says it drifted onto the Astral Plane after the Time of Troubles (`wiki.txt:158`). The field follows FRHoF. The **Kelemvor** page says he rebuilt the Bone Castle as the Crystal Spire on the Fugue Plane (`campaign/setting/deities/kelemvor.md:35`), which agrees with the wiki's line that the home passed to Kelemvor.

@@ -1,8 +1,7 @@
 # The Harpers
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **Campaign role:** Player faction — intelligence-gathering operatives working against tyranny and the consolidation of the Black Network's ruthless half.
 > - **Contacts:** **Mirt** (primary); **Remallia "Remi" Haventree** (secondary — identity hidden from PCs until Mission 4)
 > - **Mission delivery:** Paper birds arrive at the tavern or wherever the PCs were last seen. Mirt is always somewhere between hard to find and deliberately unavailable.

@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Corellon Larethian, creator of the elves and head of the Seldarine, and the pattern page for the heads of other pantheons.
 > - **Where it is used:** Corellon never appears in person. The campaign touches him in two places, the Temple of the Seldarine in the Castle Ward and Fala Lefaliir's shop, Corellon's Crown, in Trollskull Alley.
 > - **Featured in:** **Trollskull Alley** and **Fireball!** (Fala as a possible victim), and the Doom Raiders missions **The Yellowspire Job** and **Ziraj's Last Hunt**, which both meet at the shop. No quest uses him as a god.
@@ -53,9 +52,8 @@
   - After the Spellplague of 1385 DR he stayed a greater deity while other Seldarine lost power (*Forgotten Realms Campaign Guide*, 4e).
 - **In the campaign:** Corellon is alive and present in 1492 DR, as every power is. No file shows him acting.
 
-> **[GM]**
+> [!gamemaster]**Using Corellon Larethian as a Deity**
 >
-> #### Using Corellon Larethian as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the elves' own god, generous and a little distant. A sage, a priest or a regular at the bar says Corellon Larethian is the elven god of art and magic, that he made the elves and leads their gods, the Seldarine, and that elves keep his faith loosely, with few rites and no rule against enjoying life. Elf wizards who carve his quarter moon or starburst on their books and towers are the people most likely to speak for him. Anyone who wants to see the faith is sent to the Temple of the Seldarine in the Castle Ward. A Trollskull Alley neighbor mentions Corellon's Crown, where the herbalist Fala Lefaliir is neither male nor female, as the god is said to be. How Waterdhavians feel about the elven gods is unsourced. [research]
 > - **Waterdeep:** Corellon has no temple of his own in the sources. The elven gods share one, the Temple of the Seldarine in the Castle Ward.
 >   - The Dragon Heist Major Temples table lists "All elven deities, Temple of the Seldarine, Castle Ward" (`sources/adventure-wdh.json:30928-30930`). The Castle Ward text calls the Spires of the Morning one of the city's most beautiful temples and says it is "rivaled in this ward by the Temple of the Seldarine, dedicated to all the elf gods" (`sources/adventure-wdh.json:31015`). The campaign gazetteer repeats the listing (`campaign/gazetteer/waterdeep/castle-ward.md:31` and `:164`).
@@ -77,9 +75,8 @@
 
 Corellon Larethian is the elven god of art and magic, who made the elves and leads the Seldarine, their pantheon. His faith asks little of the faithful, who may honor him in any way they like. Many elf wizards mark their spellbooks and towers with his quarter moon or starburst. In Waterdeep the Temple of the Seldarine in the Castle Ward honors him with the other elven gods.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **Corellon's Crown:** Fala Lefaliir's herbalism shop and greenhouse is area T4 in Trollskull Alley. The published text makes Fala a wood elf who is friends with Ziraj, a Zhentarim, and keeps a room for him on the second floor (`sources/adventure-wdh.json:3427` and `:3432`). The campaign agrees, labels Ziraj a Doom Raider, and gives Fala the Trollskull Alley community label (`campaign/setting/notable-figures/trollskull-community/04-fala-lefaliir.md:7`). No file says Fala worships Corellon or any god. The shop's name and Fala's pronouns are the only link.
 > - **Trollskull Alley and Fireball!:** The quest overview lists Fala as the herbalist at Corellon's Crown who knows Ziraj the Hunter and is a possible fireball victim (`campaign/quests/act-i/trollskull-alley/overview.md:34`).
 > - **The Yellowspire Job:** Ziraj and Fala hand Ziraj's notes on the Kolat Towers force field to Doom Raiders members at the back table of Corellon's Crown, in either version of the mission (`campaign/quests/faction-events/doom-raiders/m05-the-yellowspire-job/overview.md:56`; `ev-02-the-debrief.md:149`).
@@ -119,9 +116,8 @@ Corellon Larethian is the elven god of art and magic, who made the elves and lea
 - **Trollskull Alley**, **Fireball!** (quests) and **The Yellowspire Job**, **Ziraj's Last Hunt** (Doom Raiders missions): where Corellon's Crown comes into play.
 - **Timekeeping and the Festival Calendar** (History): Shieldmeet in 1492 DR.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled, domains:** MTF gives Arcana, Life, Light, War (`sources/5etools/deities.json:2640-2645`), the PHB gives Light, Arcana (`:2690-2693`) and SCAG gives Arcana, Light (`:2712-2715`). MTF (2018) is newer than SCAG, so the page and the hub row use Arcana, Life, Light, War, and SCAG's pair appears beside them as the older list.
 > - **Settled, symbol:** MTF and the PHB give a quarter moon or starburst (`sources/5etools/deities.json:2647`, `:2694`), and SCAG gives a crescent moon (`:2716`). The page uses MTF's quarter moon or starburst and names SCAG's crescent moon in the Symbol line. The crescent moon amulet in Form and pronouns stays as the wiki's description.
 > - **Settled, gender:** The Fala page calls Corellon's nature "genderless" (`campaign/setting/notable-figures/trollskull-community/04-fala-lefaliir.md:26`) and Dragon Heist says "neither male nor female" (`sources/adventure-wdh.json:3432`). The wiki says he has no biological sex but that every source uses male pronouns (`wiki.txt:17`). The user ruled to keep "he". The page uses "he" and states the difference in Form and pronouns.

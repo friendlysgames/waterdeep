@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the patron entry for the Queen of Air and Darkness, the archfey who rules the Unseelie Court and an Archfey patron for warlock characters. She is not a god of the Faerûnian pantheon and the 5etools deity list has no entry for her, so this page takes every field from the wiki, tagged, and replaces the cleric and paladin guidance of a deity page with warlock guidance.
 > - **Where it is used:** She never appears in the campaign. She is a choice for a player building a warlock, and two other Deities pages name her: Auril (a fey belief that the Frost Sprite Queen is the same power) and Maglubiyet (early goblins served in her court). Akadi's page carries a similar title, the Queen of Air, which belongs to a different power.
 > - **Featured in:** no quest. The only fey material in the published adventure is the Fey Day festival on Ches 19, which names Titania, Oberon and Hyrsam and does not name her.
@@ -48,9 +47,8 @@
   - One day she took the diamond and other magical treasures and left in a chariot of smoke and fire that was said to have come out of the sky. Some time later the mountain the dwarves had been mining exploded, killed the dwarves and covered the land in sickening smoke.
   - The wiki gives no later history for her, no 3e, 4e or 5e account of her rise, and no date for any of it.
 
-> **[GM]**
+> [!gamemaster]**Using the Queen of Air and Darkness as a Patron**
 >
-> #### Using the Queen of Air and Darkness as a Patron
 > - **The ordinary Waterdhavian's view:** Almost none. A sage can repeat the Overview, and the people likeliest to know her name are elves and others who deal with fey, since her worshipers are evil elves and fey (derived). A priest at the Temple of the Seldarine would call her the corruption that can grow even among the fey (derived from *Demihuman Deities* 2e). A bar regular who says "the Queen of Air" usually means Akadi, because the wiki gives Akadi that title (2e). No source records any Waterdhavian opinion of the Queen of Air and Darkness or a Waterdhavian rumor about her. [research]
 > - **Waterdeep:** None. The Major Temples of Waterdeep table in *Dragon Heist* lists no temple of hers, and no campaign file or wiki entry places a shrine or cult in the city. The one fey custom in the sources is Fey Day on Ches 19. The Dragon Heist text says the veil to the Feywild is thought to be weak that day, the wealthy host masked balls, and "All adopt the guises of fey beings and the supposed rulers of the Feywild, such as Queen Titania, Oberon, and Hyrsam, the Prince of Fools" (`sources/adventure-wdh.json:31385`). It does not name her, and the campaign calendar lists Fey Day as masked balls the day before the Grand Opening (`campaign/setting/history/09-timekeeping-and-the-festival-calendar.md:61`, `:102` and `:115`).
 > - **A warlock PC:** Archfey Patron (derived; 2024 *Player's Handbook*) fits her closely, and the wiki files her under Archfey patrons. Her illusion magic suits the Archfey's enchantment and illusion spells (derived). No source gives features specific to her. What she wants from a warlock is not sourced. What her portfolio of darkness, magic and murder points to is a patron who rewards concealment and killing (derived). The price of a pact is not sourced either. [research] Her origin gives a hook a table can use (derived): she was ruined by a gift she accepted, so a bargain with her can read as a gift that slowly changes the person who took it. A warlock who wants the Seelie side of the Feywild can take **Titania** (Deities), and **Baba Yaga** (Deities) is the other Archfey patron on this journal's roster.
@@ -86,9 +84,8 @@ The Queen of Air and Darkness is the archfey who rules the Unseelie Court, the d
 - **Akadi** (Deities): the goddess whose wiki title, the Queen of Air, is easy to confuse with hers.
 - **Baba Yaga** (Deities): the other Archfey patron on the roster.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, which plane:** The wiki gives two homes for the court in one sentence, Phlegethon in Pandemonium (*Monster Mythology* 2e; *Dragon* 359, 3e) and the Plane of Faerie (*Sword Coast Adventurer's Guide*, 5e). The page puts the Feywild first because the campaign uses 5e and the wiki's 5e rows give it, and it tags the Pandemonium account. The research notes record the same conflict (batch M, section 2f).
 > - **Conflict, sister or rumor:** The Queen's wiki page tells the sisterhood as fact (*Monster Mythology* 2e), and the Titania wiki page says "rumored to be the dark sister" with the same book cited. The Overview and the Relations bullet use "it is said" and "rumor" for the player-safe tier. The Titania page, drafted in parallel, should word it the same way.
 > - **Conflict, the Auril impersonation:** `campaign/setting/deities/auril.md:55` says that after the Sundering the Queen was seen to be only impersonating Auril to keep followers on Toril. The Queen's wiki note adds that Auril supported the impersonation, and only the Auril wiki page carries "after the Sundering". This page gives both. Nothing in `auril.md` contradicts it.

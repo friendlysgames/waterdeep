@@ -1,8 +1,7 @@
 # The Fireball
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 >
 > This Investigation Event opens Fireball and covers Ches 22nd — the blast itself and the full day of witness interviews that follow. In this Event:
 >
@@ -79,9 +78,8 @@ DC 15 Persuasion extracts any one conclusion per successful check. He does not s
 
 **Sergeant Cromley** directs the constable canvass. He has nothing useful to share and does not try.
 
-> **[GM]**
+> [!gamemaster]**Accessing Bodies After the Watch Seals the Scene**
 >
-> #### Accessing Bodies After the Watch Seals the Scene
 >
 > Three methods to access the bodies for *Speak with Dead* in the days following:
 >
@@ -121,9 +119,8 @@ No check needed; Fala is shaken and willing.
 
 **Important:** Fala saw Floxin, not the nimblewright. The nimblewright had already taken the Stone and fled before Floxin reached the body. This distinction matters when the party cross-references her account with Jezrynne's.
 
-> **[GM]**
+> [!gamemaster]**Fala Victim Fallback**
 >
-> #### Fala Victim Fallback
 >
 > If Fala was the Trollskull Alley victim, she is dead in the alley. Substitute **Tally Fellbranch** as this witness — he watched the blast from the Bent Nail's doorway and provides the same account of the burned man limping north. The information is identical; the NPC differs.
 
@@ -177,9 +174,8 @@ Renaer knows the *Stone of Golorr* is "the key to everything" but not about the 
 
 When the party mentions Fala's (or Tally's) account of the burned man fleeing north, Renaer reaches out to Harper contacts at once. Within one day (the morning of Ches 23rd at the latest), he returns: the burned man is **Urstul Floxin**, Manshoon's chief field agent in Waterdeep. A North Ward resident saw Floxin — visibly burned and limping — enter Gralhund Villa on Saerdoun Street within hours of the blast. The City Watch sent two constables who were told everything was fine. No warrant was issued.
 
-> **[GM]**
+> [!gamemaster]**Three Independent Clue Paths to Revelation #2 (The Stone of Golorr)**
 >
-> #### Three Independent Clue Paths to Revelation #2 (The Stone of Golorr)
 >
 > **Path A — Renaer's Paper Bird.** Dalakhar's letter states the Stone is in his hands and he was on his way to Trollskull Manor. This is the quest's proactive failsafe — it delivers the core revelation regardless of other investigation success. Renaer arrives within two hours.
 >

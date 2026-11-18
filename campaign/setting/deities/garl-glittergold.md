@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the deity entry for Garl Glittergold, the Joker and head of the gnomish pantheon, for players who want a gnome cleric, a trickster or a devout character from a gnomish family, and for a GM who needs a name behind a gnome's oath or prank.
 > - **Where it is used:** Garl never appears in person, and no campaign file or published adventure names him. The page records that Waterdeep gives him no temple, and it lists the gnomes in the files so that no later page gives one of them a god by accident.
 > - **Featured in:** No quest. The gnomes who come nearest are Dalakhar in **Fireball!**, the engineers aboard the *Scarlet Marpenoth* in **Sea Maidens Faire**, and Skeemo Weirdbottle in the Doom Raiders missions.
@@ -52,9 +51,8 @@
   - In a second legend he let Kurtulmak capture him, then escaped and brought the roof of Kurtulmak's cavern down on the kobold god's head (*Faiths & Pantheons*, 3e).
 - **In the campaign:** Garl is alive and present in 1492 DR, as every power is. MTF and SCAG write of him in the present tense, and the wiki's past tense is edition history.
 
-> **[GM]**
+> [!gamemaster]**Using Garl Glittergold as a Deity**
 >
-> #### Using Garl Glittergold as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as the gnomes' own joker, known in Waterdeep more by reputation than by prayer. A sage, a priest or a regular at the bar says he is the god of the gnomes, a lawful good trickster whose symbol is a gold nugget. They add that he plays pranks on the dwarf and orc gods, that he gathers heroes when a job needs many hands, and that gnomes would sooner trick their way out of a fight than swing a sword. A priest of another god may know that his followers hold a feast of jokes and stories on the 13th of the month. Gnomes are about three in a hundred Waterdhavians, so few people in the city pray to him (derived). Which of his names the city uses, and how much a bar regular really knows, is unsourced. [research]
 > - **Waterdeep:** Garl has no temple, shrine, priest or festival in the city in any source.
 >   - The Dragon Heist Major Temples table has no Garl row (`sources/adventure-wdh.json:30921-30996`). The "All deities" row, Holyhands House in the North Ward (`:30923-30925`), is the only listing that could cover him, and no source says gnomes use it. The wiki has no Waterdeep text for him.
@@ -106,9 +104,8 @@ Garl Glittergold is the lawful good god of the gnomes, a joker and prankster pic
 - **Fireball!**, **Sea Maidens Faire** (quests): where Dalakhar and the *Scarlet Marpenoth* crew appear.
 - **House of Inspired Hands** (location): the gnome characters' temple in the Sea Ward.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Conflict, pantheon label:** The three 5etools entries use three labels, Gnome for MTF, Nonhuman for the Player's Handbook and Gnomish for SCAG (research bundle `garl-glittergold/5etools.md:1`, `:11`, `:19`), and the wiki says Lords of the Golden Hills (`wiki.txt:16`). The page follows SCAG and gives the others.
 > - **Conflict, title:** The Player's Handbook says "Gnome god of trickery and wiles" (`5etools.md:12`) and SCAG says "God of trickery and gems" (`5etools.md:20`). The page follows SCAG, as the Realms book.
 > - **Conflict, domains:** 5etools gives Trickery only in all three entries (`5etools.md:3`, `:13`, `:21`), while the wiki's 3e and 4e rows are wider (`wiki.txt:63` and `:48`). The page gives both and builds the cleric advice on SCAG.

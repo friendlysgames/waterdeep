@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **What this page is:** the patron entry for Ilsensine, the god-brain that made the mind flayers, and a Great Old One patron for warlock characters. It is not a god of the Faerûnian pantheon and has no 5etools entry, so this page replaces the cleric and paladin guidance of a deity page with warlock guidance.
 > - **Where it is used:** Ilsensine never appears in the campaign. One Vault of Dragons structure document names it in a fresco, and the campaign and the published Undermountain both hold mind flayers, but no file gives any of them a god.
 > - **Featured in:** **Vault of Dragons** (the Broken Circle of Gods fresco). **Xanathar's Lair** and Undermountain Level 17 hold the nearest mind flayers, and the GM Notes say how far that goes.
@@ -50,9 +49,8 @@
   - In 1358 DR, during the Time of Troubles, it manifested in Oryndoll again and took the city's elder brain as its avatar (*Drizzt Do'Urden's Guide to the Underdark*).
   - The wiki then says it lost a shard of its consciousness without knowing how, and that the lost artifact was buried in caves on the Sembian coast. Mercenaries were hired to find it without being told what it was (Class Chronicles web articles, edition not given).
 
-> **[GM]**
+> [!gamemaster]**Using Ilsensine as a Patron**
 >
-> #### Using Ilsensine as a Patron
 > - **The ordinary Waterdhavian's view:** Almost none. The wiki says sages and scholars of most races know the name (*Monster Mythology* 2e), so a sage can repeat the Overview. A priest or a bar regular is unlikely to know it, and in the published adventure Durnan keeps his guess about an elder brain to himself so as not to alarm anyone "with rumors of mind flayers" (`sources/adventure-wdmm.json:491`). No source records a Waterdhavian opinion of Ilsensine. [research]
 > - **Waterdeep:** None. The Major Temples of Waterdeep table in *Dragon Heist* lists no temple of Ilsensine, and no campaign file or wiki entry places a shrine, a cult or a festival of it in the city. No source says whether the city would punish a cult of it.
 > - **A warlock PC:** The Great Old One patron (derived; 2024 *Player's Handbook*) fits it, and no other available patron comes near. The wiki never calls Ilsensine a patron, and the fit rests on its telepathic, psychic nature and the Far Realm as its former home in the wiki's 5e row (derived). No source gives Ilsensine-specific features. The wiki's evil psion cults are the nearest it comes to mortal servants (*Expanded Psionics Handbook* 3e). What it wants is a servant who helps the mind flayers conquer and gather knowledge. What it costs is part of the servant's mind, since favor likely requires surrendering memory or sanity (*Planescape Campaign Setting* 2e). Contact is remote because it stirs rarely, so a GM can use the wiki's proxies and agents as its voice, such as Lugribossk, eaters of knowledge, cranium rats and thought slayers (derived).
@@ -65,9 +63,8 @@
 
 Ilsensine is the god-brain of the mind flayers, a vast disembodied mind that the illithids say created them. Sages call it the Great Brain and the Tentacled Lord, and they say it wants the mind flayers to rule every other people. The illithids themselves are said to revere it as an ideal of the mind more than as a god they pray to. It is said to dwell in a realm of caverns beneath the Outlands, and Waterdeep has no temple of it.
 
-> **[GM]**
+> [!gamemaster]**GM Notes**
 >
-> #### GM Notes
 > - **The Broken Circle of Gods (Vault of Dragons):** The structure document puts frescoes in the vault, "the Entrance Foyer's niches most explicitly", that show "Dumathoin visiting the illithid god Ilsensine, manifest as a disembodied emerald brain, and bathing in its psionic light". Others show "Dumathoin, Ilsensine, and Laduguer, god of the duergar, with hands clasped in a circle of friendship that official dwarven doctrine insists never existed" (`campaign/structure/arc-j-vault-of-dragons.md:154`). The same line says the party can walk past them, and that a party who investigates finds a thread to "the deep, patient intelligences (illithid and aboleth alike) that the Undermountain campaign will eventually make explicit". The emerald brain matches the wiki's description of Ilsensine (*Lords of Madness* 3e).
 > - **Nihiloor:** The published adventure says "The illithid Nihiloor works for Xanathar, spending its days creating intellect devourers and setting them loose in the sewers of Waterdeep" (`sources/adventure-wdh.json:32353`). The campaign gives it a Notable Figures page (`campaign/setting/notable-figures/xanathars-guild/04-nihiloor.md:22`) and calls it a "plant for Mad Mage integration" (`campaign/setting/villains/xanathar.md:50`). Neither the adventure nor any campaign file gives Nihiloor a god, and the wiki says mind flayers cannot truly worship, so no shrine of Ilsensine belongs in the lair.
 > - **Nihiloor's escape to Level 17:** If Xanathar's lair is demolished, "Nihiloor was not in his domain at the time and escapes to Undermountain Level 17 with his three projects intact" (`campaign/structure/arc-f-xanathars-lair.md:111`; also `:284` and `:346`). This is the only campaign line that sends a mind flayer from the city to the colony below.
@@ -100,9 +97,8 @@ Ilsensine is the god-brain of the mind flayers, a vast disembodied mind that the
 - **Vault of Dragons** (quest): the Broken Circle of Gods.
 - **Xanathar's Lair** (quest): Nihiloor's domain and its escape to Undermountain Level 17.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Brief premise not found:** The brief expected ties between Ilsensine and Nihiloor, the elder brain and the Undermountain mind flayer levels. Neither JSON names Ilsensine, the Great Brain or Maanzecorian (searched `sources/*.json`), and no campaign file names it except `arc-j-vault-of-dragons.md:154`. The Nihiloor files name a mind flayer and the domination of Xanathar and say nothing of a god. Level 17 names an elder brain only as the origin of Extremiton's colony (`adventure-wdmm.json:46776`). The page gives the quoted lines and invents no link.
 > - **Conflict, Laduguer:** The Vault fresco has Dumathoin, Ilsensine and Laduguer in "a circle of friendship" (`arc-j-vault-of-dragons.md:154`). The wiki says Ilsensine "had also long sought vengeance against her superior Laduguer for some ancient slight" (wiki line 210, citing *Demihuman Deities*). The campaign line governs the Vault, and the fresco's text already says the friendship predates a falling-out the Mordinsamman never explained, which fits the wiki. The page gives both. The wiki calls the Dumathoin tie "obscure, non-hostile" and does not contradict a visit.
 > - **Settled, the dreaming seed:** `arc-f-xanathars-lair.md:382` does not say what "something vast and dreaming, far below" is. The wiki says Ilsensine spends its time in "brooding fantasies of tyrannical ascendance" (*Monster Mythology* 2e, wiki line 180), and Level 17 holds a colony led by an ulitharid that will become an elder brain. The user ruled (Session 51) that the seed stays unresolved and is deferred to the Undermountain pass. The page makes no choice and no campaign text changes.
