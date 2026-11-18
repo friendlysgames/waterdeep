@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Tethyrian human noble, neutral evil*. Stat block: **Noble (with modifications)**.
+> - *Tethyrian human noble, neutral evil, she/her*. Stat block: **Noble (with modifications)**.
 > - **Affiliation:** House Gralhund (Zhentarim-aligned)
 > - **Featured in:** **Gralhund Villa**, **Faction Outposts**, **Cassalanter Villa**
 

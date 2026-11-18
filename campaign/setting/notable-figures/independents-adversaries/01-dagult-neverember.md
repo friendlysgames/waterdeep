@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Illuskan human noble, lawful neutral*. Stat block: **Noble**.
+> - *Illuskan human noble, lawful neutral, he/him*. Stat block: **Noble**.
 > - **Affiliation:** Independent (adversary)
 > - **Featured in:** **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Cassalanter Villa**, **Vault of Dragons**, **The Stone's Other Master**, **Gralhund Villa (location)**, **Zhentarim Warehouse**, **Cassalanter Villa (location)**
 
