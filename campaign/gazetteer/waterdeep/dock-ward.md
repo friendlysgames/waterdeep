@@ -19,7 +19,7 @@ The Dock Ward is the part of Waterdeep that works for a living, a steep ward of 
 ## At a Glance
 
 - **District Type:** Port and working waterfront. Docks, shipbuilding yards, warehouses, poorhouses and tenements, with taverns, inns and festhalls for sailors (wiki, 2e-era lists; Dragon Heist).
-- **Boundaries:** No source gives a full boundary, and the wiki's Dock Ward page has no boundary paragraph. The ward lies on the Great Harbor. The wiki's Southern Ward page puts the Dock Ward on the Southern Ward's west and south side, across the Way of the Dragon, and its South Gate page says the South Gate stood where the two wards met. Dragon Heist's orientation rule for the Honorable Knight puts a visitor in the Dock Ward when the statue stands to the north and east.
+- **Boundaries:** No source gives a full boundary, and the wiki's Dock Ward page has no boundary paragraph. The ward lies on Deepwater Harbor. The wiki's Southern Ward page puts the Dock Ward on the Southern Ward's west and south side, across the Way of the Dragon, and its South Gate page says the South Gate stood where the two wards met. Dragon Heist's orientation rule for the Honorable Knight puts a visitor in the Dock Ward when the statue stands to the north and east.
 - **Founded:** 1035 DR by Ahghairon, as one of the four original wards with the Castle, Trades and Southern (Temple) Wards (wiki, 2e).
 - **Population:** No source gives a ward figure, and the wiki leaves the field blank. Dragon Heist says that, aside from the Field Ward, this is where most of Waterdeep's poor live. For scale, the city figures are 1,347,680 across Waterdeep and the farmland it commands (*Forgotten Realms Campaign Setting* 3e, 1372 DR), 132,661 counted as the metropolis, and about 200,000 in the city proper by the wiki's own estimate.
 - **Lifestyle:** Poor. Dragon Heist says the residents often work the hardest while living under the harshest conditions, and that far too many inns charge by the hour.
@@ -227,7 +227,7 @@ The Dock Ward is the part of Waterdeep that works for a living, a steep ward of 
 
 ## Overview
 
-The Dock Ward is Waterdeep's waterfront, a steep ward of piers, shipyards, warehouses and tenements on the Great Harbor. Along with the Field Ward, it is where most of the city's poor live. Streetlamps are stolen or smashed as fast as they are replaced, so locals carry their own light after dark. The ward has an old reputation for brawls, and it flies burgundy and orange with a green swordfish for a mascot.
+The Dock Ward is Waterdeep's waterfront, a steep ward of piers, shipyards, warehouses and tenements on Deepwater Harbor. Along with the Field Ward, it is where most of the city's poor live. Streetlamps are stolen or smashed as fast as they are replaced, so locals carry their own light after dark. The ward has an old reputation for brawls, and it flies burgundy and orange with a green swordfish for a mascot.
 
 ## Read Aloud
 

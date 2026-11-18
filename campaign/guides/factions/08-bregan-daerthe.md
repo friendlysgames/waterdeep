@@ -94,7 +94,7 @@ Use the description from DH p. 63. Fenerus collects messages from dead drops thr
 
 *Following Krebbyg.* If the party stakes out the house and waits, they can trail Krebbyg back to the Sea Maidens Faire.
 
-**Roster:** Fenerus Stormcastle (**Commoner**) with no permanent guards.
+**Roster:** Fenerus Stormcastle (**Bandit Captain**) with no permanent guards.
 
 **Escalation:** Bregan D'aerthe moves to Suspicious if the party searches the house without BD renown; no tier change if they visit openly with Jarlaxle's introduction. If Fenerus has already been kidnapped before the party arrives, no escalation triggers — the kidnapping isn't traceable to the party from Bregan D'aerthe's perspective. **Founders' Day Clock: 1–3 days (longer if staking out for Krebbyg).**
 
