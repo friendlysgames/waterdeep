@@ -90,9 +90,9 @@ If Sevel Dastar is receiving the member, read the following aloud instead:
 >
 > > "The Alliance writes its ranks against names, and I have written yours. Your companions are welcome at the bar, and I'm grateful for their patience. The introductions, the solicitor and the files answer to you alone."
 
-> [!qna]**What happens if my Renown falls?**
+> [!qna]**What if I refuse an assignment?**
 >
-> > "The rank stays with you, because you earned it. The benefits wait until your Renown is back at ten, and I'll tell you when that happens."
+> > "Then I'll have to suspend you, and the benefits wait until you're reinstated. The rank stays with you, because you earned it, and so does your Renown. If you try and fail, that costs you nothing."
 
 ### Introductions
 
@@ -113,7 +113,7 @@ Jalester starts with the introductions, and the table is still the well table, s
 > - **What it never buys:** a secret, a favor against the Alliance, or an act against the Watch. Jalester gives his reason for a refusal before the use is spent, and a refusal spends nothing.
 > - **Who else:** the member only. A request made in the member's name by a companion is ignored.
 > - **Loss rule:** a member who lies to the person met, or who uses the meeting to threaten them, loses the benefit for a tenday. Jalester hears of it within a day.
-> - **Renown loss:** a member whose Renown falls below 10 keeps the rank, and the introductions are suspended until the Renown is restored.
+> - **Suspension:** a member marked **LA Suspended** keeps the rank, and the introductions are paused until **LA Reinstated** is marked.
 
 > [!exploration]**The List of Eight**
 >
@@ -163,7 +163,7 @@ Jalester gives the second benefit without being asked, and the table is still th
 > - **Limit:** one incident per member in each quest, counted against the quest the party is in when the solicitor is called. An incident the member does not use before the quest ends is lost.
 > - **Who else:** the member only. A companion's own trouble is not covered, and the solicitor says so at the Watch house.
 > - **Loss rule:** a member who gives the solicitor false facts loses the benefit for a tenday. So does a member who commits a crime so that the Alliance will pay for it.
-> - **Renown loss:** a member whose Renown falls below 10 keeps the rank, and the coverage is suspended until the Renown is restored.
+> - **Suspension:** a member marked **LA Suspended** keeps the rank, and the coverage is paused until **LA Reinstated** is marked.
 
 > [!exploration]**What the Alliance Pays**
 >
@@ -214,7 +214,7 @@ Jalester takes a moment with the third benefit, and the table is still the well 
 > - **Limit:** no limit applies to standard files. A member can read one classified file in a day.
 > - **What leaves the room:** nothing. The member copies by hand, and companions may read what the member copies. Only the member can ask for a file.
 > - **Loss rule:** a member who uses a file to commit a crime, or who sells what it shows, loses file access for a tenday. Raske reports it to Jalester within a day.
-> - **Renown loss:** a member whose Renown falls below 10 keeps the rank, and file access is suspended until the Renown is restored.
+> - **Suspension:** a member marked **LA Suspended** keeps the rank, and file access is paused until **LA Reinstated** is marked.
 
 > [!exploration]**The Files**
 >
@@ -275,7 +275,7 @@ The rank event awards no Renown. Each Stingblade earns further Renown from missi
 
 The member can tell companions everything Jalester said, and may let them read what they copy from a file. The introductions, the solicitor and the file access stay individual benefits. Durnan, the eight on the list and the file officer will not act on a request that a companion makes in the member's name.
 
-A member whose Renown later falls, or who is marked **LA Suspended**, keeps the rank. All three benefits are suspended until the Renown is restored or **LA Reinstated** is marked. A member marked **LA Dismissed** loses all three for good.
+A member who refuses an assignment or lets its deadline pass is suspended under **Suspension and Dismissal**. A member marked **LA Suspended** keeps the rank and the Renown, and all three benefits are paused until **LA Reinstated** is marked. A member marked **LA Dismissed** loses all three for good.
 
 ### Concluding the Event
 

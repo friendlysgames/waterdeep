@@ -73,3 +73,11 @@ Date: 2026-11-18. Replaces the label "Waterdhavian Human" (a city, not an ethnic
 - `docs/index.html` and `campaign-reader/dist/index.html` are built output and still carry the old label. They refresh on the next build.
 - `docs/plans/**` and `sources/research/**` quote the old label as evidence. Left as the record.
 - Gaps the research found where a campaign page gives no ethnicity (Durnan, Mattrim and Savra Belabranta pages, Avareen Windrivver, Zorbog, Vevette, Grinda Garloth, Agorn Fuoco, Fenerus Stormcastle, Hurv Taldred, Kaevja Cynavern, Margo Verida, Khafeyta Murzan, Nat, Jenks) were not part of this task.
+
+## Second pass
+
+Invented NPCs found with no ethnicity on their stat line, labelled by the same rules as section A (Faerûn ethnicity, name pattern first, DH spread as the tie-breaker). Her sibling carriers are Sevrin Garrow (Illuskan Human) and Piet Lorn (Turami Human) in the same event.
+
+| NPC | File:line | Old label | New label | Reason |
+|---|---|---|---|---|
+| Odda Fenn | `campaign/quests/faction-events/emerald-enclave/m05-the-fouled-channel/ev-01-the-fouled-channel.md:264` | None (the line said only "use the Cultist block") | Neutral, Illuskan Human, she/her | Name pattern: "Odda" is an Old Norse-style first name and "Fenn" a short Northern surname, like Illuskan Olga and Westra. Illuskan is also the most common DH label, and the event already holds one Turami and one Illuskan. Neutral matches Piet Lorn, the other carrier, and she/her was set here because no other line gives her a pronoun. The Cultist stat block (2024) has no species or ethnicity, so the label sits on her stat line. |
