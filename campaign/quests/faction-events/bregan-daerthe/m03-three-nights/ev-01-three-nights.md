@@ -223,7 +223,7 @@ If the party marked **Lif Appeased**, add the following:
 
 > [!gamemaster]**The Watch**
 >
-> If the party includes a member of the Lords' Alliance at Renown 3 or higher (Redknife), a patrol of two **Guards** reaches the front door at the start of the fifth round and the attackers flee. The Guards do not fight and do not count as combatants. Without a Redknife in the party, no patrol comes before morning.
+> If the party includes a member of the Lords' Alliance who has marked **Redknife Reached** and is not marked **LA Suspended** or **LA Dismissed**, a patrol of two **Guards** reaches the front door at the start of the fifth round and the attackers flee. The Guards do not fight and do not count as combatants. Without such a member in the party, no patrol comes before morning.
 
 If the party takes a bugbear alive, read or paraphrase the following:
 

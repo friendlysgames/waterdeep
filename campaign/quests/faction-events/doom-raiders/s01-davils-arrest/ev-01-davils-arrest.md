@@ -236,7 +236,7 @@ The three approaches can be tried in any order. Each member may attempt each app
 >
 > A member who goes back to Dunfell with something concrete to offer, such as the gate constable's description, Orond's account or, if Floxin is Alive, where he was last seen, can ask her to send the case for review. A successful DC 15 Charisma (Persuasion) check does this, and a successful DC 15 Charisma (Intimidation) check does it too, though Dunfell writes that member's name in her ledger.
 >
-> - **A Lords' Alliance member of Renown 3 or higher asks Jalester Silvermane to put a word through official channels:** The approach succeeds without a check. Jalester sends Dunfell a courtesy note the same day.
+> - **A Lords' Alliance member asks Jalester Silvermane to put a word through official channels:** If the member has marked **Redknife Reached** and is not marked **LA Suspended** or **LA Dismissed**, the approach succeeds without a check. Jalester sends Dunfell a courtesy note the same day.
 > - **Approach One succeeded:** The character has Advantage on the check.
 >
 > On a success, Dunfell sends the case up with a recommendation to release, and the approach adds 1 to the release count. On a failure, Dunfell refuses to see that member again until Davil is released, and the approach adds nothing. Each member who completes this approach, pass or fail, gains 1 Renown once, however many approaches they complete.

@@ -2,7 +2,7 @@
 
 ## What the Source Gave
 
-Appendix B and the Factions Guide give Lioncrown the Open Lord's backing, one charge dropped or a wanted status cleared, and a dedicated attaché. The Factions Guide adds three honest answers from Laeral. The restored draft added Sevel Dastar, a private request about two handlers and a cartography team, and a list of freeform answers. It branched on whether **Vault of Dragons** had resolved, and it had Laeral say that her power was "less than my enemies assume, more than my staff knows". Its outcome **Undermountain Commission Accepted** was a True or False heading.
+Appendix B gives Lioncrown the Open Lord's backing, one charge dropped or a wanted status cleared, and a dedicated attaché. The Factions Guide row now matches this Event: Laeral strikes one charge by her signature, the member hears three honest answers, Sevel Dastar is the attaché and the Undermountain Commission is on offer. The restored draft added Sevel Dastar, a private request about two handlers and a cartography team, and a list of freeform answers. It branched on whether **Vault of Dragons** had resolved, and it had Laeral say that her power was "less than my enemies assume, more than my staff knows". Its outcome **Undermountain Commission Accepted** was a True or False heading.
 
 ## What Changed
 

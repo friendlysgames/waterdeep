@@ -23,5 +23,4 @@ Invented:
 For the out-of-scope log:
 - **An Audience with the Open Lord** describes Laeral as meeting the party for the first time. If a member reaches Renown 25 before it, this event has already introduced them, and that mission's opening lines should allow for it.
 - Laeral is a moon elf on her Notable Figures page and human in Dragon Heist. This event follows the page.
-- The Factions Guide Warduke row says "all four villain faction response teams" and "Veterans", and its private-audience wording does not match the Read and Ruling.
 - The Warrior Veteran's refusal to leave the city is read here as barring Undermountain, so Lioncrown should not expect the team below.

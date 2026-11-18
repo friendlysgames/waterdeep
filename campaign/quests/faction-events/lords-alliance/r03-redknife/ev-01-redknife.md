@@ -258,7 +258,7 @@ The Event concludes when the member has heard all three benefits, holds the pape
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Redknife Reached** — mark with the recipient's name when Jalester, or Sevel Dastar, names the rank at the table; read by **Stingblade**, which checks it first. Also read by **Davil's Arrest** in the Doom Raiders set, where a Redknife can ask Jalester for a courtesy note. **Three Nights** in the Bregan D'aerthe set reads it too, because the manor's beat sends Guards. Track separately for each member the date of the last escort, whistle and string, and the nights used in the houses this tenday.
+> - **Redknife Reached** — mark with the recipient's name when Jalester, or Sevel Dastar, names the rank at the table; read by **Stingblade**, which checks it first. Also read by **Davil's Arrest** in the Doom Raiders set, where a Redknife can ask Jalester for a courtesy note. **Three Nights** in the Bregan D'aerthe set reads it too, because the manor's beat sends Guards. Both also check that the member is not marked **LA Suspended** or **LA Dismissed**, because the member keeps this outcome while those benefits are paused or lost. Track separately for each member the date of the last escort, whistle and string, and the nights used in the houses this tenday.
 >
 > This Event also reads **Laeral Told of Jalester**, which decides whether Sevel delivers it, and **LA Suspended**, **LA Reinstated** and **LA Dismissed**, which **Suspension and Dismissal** marks.
 

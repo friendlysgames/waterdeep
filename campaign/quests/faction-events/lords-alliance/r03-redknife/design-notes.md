@@ -6,7 +6,7 @@ Each Redknife benefit is a per-member procedure with a contact, a notice rule, a
 
 ## What Changed From the Source
 
-The draft gave every benefit as a speech with no limits, no contact and no counters. The old text sent notes "through the usual drop" without saying where the drop was, so the escort now runs through Durnan. The Cloak overlook and the string no longer overlap. The overlook is an officer's choice on the street before anything is written. The string removes a charge or report after it is on paper. The Factions Guide lists the Watch patrol schedules at Renown 3. The First Meeting already delivers them as the Cloak's patrol note, so this Event does not repeat them.
+The draft gave every benefit as a speech with no limits, no contact and no counters. The old text sent notes "through the usual drop" without saying where the drop was, so the escort now runs through Durnan. The Cloak overlook and the string no longer overlap. The overlook is an officer's choice on the street before anything is written. The string removes a charge or report after it is on paper. The Factions Guide gives the Watch patrol schedules to the Cloak at Renown 1, and the First Meeting delivers them as the Cloak's patrol note, so the Redknife row and this Event do not repeat them.
 
 ## Reading by Other Events
 
@@ -24,5 +24,5 @@ Invented:
 Kolat Towers stands in the Southern Ward, so the Trades Ward house on Ironwick Lane is not near it.
 
 For the out-of-scope log:
-- Bregan D'aerthe `m03-three-nights/ev-01-three-nights.md:226` and Doom Raiders `s01-davils-arrest/ev-01-davils-arrest.md:162, :239` test "Renown 3 or higher", not **Redknife Reached**. They stay valid as written, and a suspended or dismissed member should fail both.
+- Bregan D'aerthe `m03-three-nights/ev-01-three-nights.md:226` and Doom Raiders `s01-davils-arrest/ev-01-davils-arrest.md:239` now test **Redknife Reached** and the absence of **LA Suspended** and **LA Dismissed**, so a suspended or dismissed member fails both. Tashlyn's line at `s01-davils-arrest/ev-01-davils-arrest.md:162` still says "holds rank in the Lords' Alliance" and tests nothing.
 - The `1d4 + 1 minutes` delay is a dice roll for a GM-side outcome, set by the brief and the mechanics reference. A flat three minutes is the zero-prep alternative.
