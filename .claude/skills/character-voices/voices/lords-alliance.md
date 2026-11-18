@@ -5,7 +5,7 @@
 ### Jalester Silvermane
 *A lean, disciplined agent: polite, precise and lonely, and always slightly on duty.*
 
-- **Sound:** A quiet, level Cormyrean voice, formal and careful, a bit tired.
+- **Sound:** A quiet, level Cormyte voice, formal and careful, a bit tired.
 - **Sentence shape:** Short, specific questions and concise answers. When he tries small talk, it comes out as a debrief.
 - **Word choice:** Agent's terminology: asset, assignment, "the Open Lord's interests". He is courteous: "ma'am", "sir", and first names only when invited.
 - **Swearing:** *Stingy · Plain · Clipped.* Rare and self-directed ("Damn it. My mistake."). One raw "fuck" if Faerrel's death is used against him.
