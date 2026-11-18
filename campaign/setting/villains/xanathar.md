@@ -93,7 +93,7 @@ Xanathar's Guild is the largest criminal organization in Waterdeep, and the only
 - **Xanathar**, **Ahmaergo**, **Nar'l Xibrindas**, **Nihiloor** (Notable Figures): full profiles for the Relationships table
 - **Manshoon** and **Jarlaxle Baenre** (Villains): the rival and the unidentified player in the Relationships table
 - **Running the Villains**: villain reference tables
-- **Xanathar's Guild** (Factions Guide): response teams, outposts, escalation, revelation list
+- **Xanathar's Guild** page in the Factions Guide: response teams, outposts, escalation, revelation list
 - **Xanathar's Guild** (Organizations): who the Guild is
 
 > [!gamemaster]**Draft Notes**
@@ -107,5 +107,4 @@ Xanathar's Guild is the largest criminal organization in Waterdeep, and the only
 > - **Settled:** The Manshoon relationship is an active, low-level street war in the Dock Ward, and `running-the-villains.md` line 71 now says the same.
 > - **Conflicts:** The vault motive here is proof of supremacy, and the Guild knows the Stone is the key but not what the Eye does, that there are three, or where the vault is. The Guild organization page line 17 and `arc-j` line 19 ("kept hidden as leverage") disagree. The Alexandrian briefing says "one of Three", and the X12 briefing in **Xanathar's Lair** must omit that line.
 > - **Conflicts:** The Overview and the phase table call Sylgar a goldfish, and the published adventure never uses that word. Check the Alexandrian files before the prose pass.
-> - **Conflicts:** The Cross-References name the Factions Guide page for the Guild. The operations text is moving to Faction Operations, so retarget this line when the guide pages are removed.
 > - **Routed facts:** Zushaxx as the current Xanathar, Kirukesai as a previous one, and the "it" pronoun belong on the **Xanathar** Notable Figure page and the Guild organization page, which still use "he/his" in places.

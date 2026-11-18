@@ -108,7 +108,7 @@ Xanathar's Guild is the largest criminal organization in Waterdeep and, accordin
 - **Ahghairon's Gifts** and **Bregan D'aerthe's Long Road**: the eras on either side. The wiki's first Xanathar was hired by the Zhentarim, so **The Founding of Chains** also bears on the Guild's origins. `[open: Zhentarim link is wiki-only]`
 - **Xanathar** (Villains): personality phases, relationships and goals.
 - **Xanathar's Guild** (Organizations): the Guild's public lore and key members.
-- **Xanathar's Guild** (Faction Operations): response teams, outposts, escalation and the revelation list.
+- **Xanathar's Guild** (Factions Guide): response teams, outposts, escalation and the revelation list.
 - **Xanathar**, **Ahmaergo**, **Nar'l Xibrindas**, **Nihiloor** and **Ott Steeltoes** (Notable Figures): the people named here.
 - **Manshoon** (Villains) and **Manshoon's Zhentarim** (Organizations): the rival in the street war.
 - **Jarlaxle Baenre** (Villains): the owner of Nar'l's reports.
@@ -158,4 +158,4 @@ Xanathar's Guild is the largest criminal organization in Waterdeep and, accordin
 > - **Conflicts:** The Stone. The published entry has Xanathar's spies stealing the Stone "a few years ago" and Xanathar opening the vault before a dragon drove it out (`adventure-wdh.json` line 32760), and has the Stone vanish during merger talks (lines 472-474). The campaign has Eye #1 arrive with Manshoon's envoys three months before the fireball (`arc-f` line 9), and the vault is unopened. The page follows the campaign.
 > - **Conflicts:** The Undermountain adventure has the Zhentarim, called the Black Network, trying to drive the Guild out of Skullport through Rizzeryl (`adventure-wdmm.json` line 6578). Which of the two Zhentarims is meant is not settled.
 > - **Settled by the user (Session 47):** Xanathar is "it/its". `08-xanathars-guild.md` lines 13-17 and `01-xanathar.md` still use "he/his" and are stale.
-> - **Routed facts:** The response teams (Gorath, Korgstrod Uxgulm, Noska Ur'gray) belong in Faction Operations. Nihiloor's three projects and the panopticus belong on the **Nihiloor** and **Xanathar** pages. Sylgar and the goldfish gag belong on the **Xanathar** page. Skullport has no page of its own, so it appears here as plain text and wants a lore or gazetteer entry.
+> - **Routed facts:** The response teams (Gorath, Korgstrod Uxgulm, Noska Ur'gray) belong on the **Xanathar's Guild** page in the Factions Guide, where they already sit. Nihiloor's three projects and the panopticus belong on the **Nihiloor** and **Xanathar** pages. Sylgar and the goldfish gag belong on the **Xanathar** page. Skullport has no page of its own, so it appears here as plain text and wants a lore or gazetteer entry.

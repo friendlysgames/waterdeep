@@ -109,7 +109,7 @@ Bregan D'aerthe is a drow mercenary company that began in the Underdark city of 
 - **The Long Shadow** and **The Founding of Chains**: the eras on either side. The Guild that Nar'l infiltrates belongs to the earlier one.
 - **Jarlaxle Baenre** (Villains): personality phases, relationships and goals.
 - **Bregan D'aerthe** (Organizations): the company's public lore and key members.
-- **Bregan D'aerthe** (Faction Operations): renown, missions, response teams, outposts, escalation and the revelation list.
+- **Bregan D'aerthe** (Factions Guide): renown, missions, response teams, outposts, escalation and the revelation list.
 - **Jarlaxle Baenre**, **Soluun Xibrindas**, **Krebbyg Masq'il'yr**, **Fel'rekt Lafeen**, **Nar'l Xibrindas** and **Vessa** (Notable Figures): the people named here.
 - **Laeral Silverhand** and **Dagult Neverember** (Notable Figures): the two leaders on the other side of the Lords' Alliance scheme.
 - **The Lords' Alliance** (Organizations): the body Luskan wants to join.

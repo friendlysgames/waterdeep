@@ -7,7 +7,7 @@
 > - This is the starting-knowledge reference for the four villain factions and, as a fifth row, the Doom Raiders. For each one it gives what the faction knows about the Stone of Golorr, which Eye it holds and what it still needs, and it adds one line on how the row changes in play.
 > - Use it when you prepare a faction scene, when a contact asks what a faction could know, and when you check how far a rival has got. The table holds on the morning of Ches 22, when **Fireball!** opens, because the Xanathar and Manshoon cells assume Dalakhar has already taken the Stone from Xanathar's lair. The rows change from Ches 23 in Act II to the lair quests in Act III.
 > - The rows are read in **Fireball!**, **Gralhund Villa**, **Xanathar's Lair** and **Sea Maidens Faire**, and **Vault of Dragons** reads the faction state those quests leave behind. The Eyes sit in the location journals for **Cassalanter Villa** (Eye #2) and **Sea Maidens Faire** (Eye #3). Eye #1 sits in Xanathar's lair, which has no location journal yet.
-> - Response teams, outposts, escalation rows and revelation lists live in the Factions Guide pages for each faction. The full escalation table and the inter-faction operations matrix live in **Running the Villains**. Who each faction is lives in the Organizations pages.
+> - Response teams, outposts, escalation rows and revelation lists live on each faction's page in the **Factions Guide**. The full escalation table and the inter-faction operations matrix live in **Running the Villains**. Who each faction is lives in the Organizations pages.
 
 **Purpose:** Lets the GM say, for each faction, what it knows about the Stone, which Eye it holds and what it still needs at the start, and how that changes as the party acts.
 
