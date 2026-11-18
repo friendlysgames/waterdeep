@@ -1,8 +1,7 @@
 # Myl Dunpier
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human innkeeper, neutral*. Stat block: **Commoner**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** **Fireball!**

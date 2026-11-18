@@ -1,8 +1,7 @@
 # Grevik Nass
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Half-orc cook, neutral evil*. Stat block: **Spy**.
 > - **Affiliation:** Xanathar's Guild
 > - **Featured in:** Background figure; no scripted appearance.

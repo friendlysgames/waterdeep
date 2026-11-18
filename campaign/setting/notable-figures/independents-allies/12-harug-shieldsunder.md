@@ -1,8 +1,7 @@
 # Harug Shieldsunder
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Shield dwarf fighter, lawful neutral*. Stat block: **Veteran**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** Background figure; no scripted appearance.

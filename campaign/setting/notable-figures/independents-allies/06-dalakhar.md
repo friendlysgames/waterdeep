@@ -1,8 +1,7 @@
 # Dalakhar
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Rock gnome spy, neutral*. Stat block: **Spy**.
 > - **Affiliation:** Agent of Dagult Neverember
 > - **Featured in:** **Fireball!**, **Gralhund Villa**, **Vault of Dragons**, **House of Inspired Hands**, **Sea Maidens Faire**

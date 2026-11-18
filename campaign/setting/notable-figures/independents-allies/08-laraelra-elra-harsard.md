@@ -1,8 +1,7 @@
 # Laraelra "Elra" Harsard
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Half-elf mage, neutral good*. Stat block: **Mage**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** Background figure; no scripted appearance.

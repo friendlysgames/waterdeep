@@ -1,8 +1,7 @@
 # Durnan
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human innkeeper and retired adventurer, neutral*. Stat block: **Veteran (with modifications)**.
 > - **Affiliation:** Independent (ally); Masked Lord of Waterdeep (secret)
 > - **Featured in:** **Finding Floon**, **Trollskull Alley**, **Force Grey Mission 3 — The Trouble with Meloon**

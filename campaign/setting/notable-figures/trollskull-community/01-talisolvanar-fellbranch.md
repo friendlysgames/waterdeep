@@ -1,8 +1,7 @@
 # Talisolvanar "Tally" Fellbranch
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Half-elf carpenter, chaotic good*. Stat block: **Commoner**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** **Trollskull Alley**, **Fireball!**, **The Doppelganger Auditions**, **The Undercliff Scarecrows**, **The Archer Above**, **The Dragon in the Harbor**, **Trollskull Manor**

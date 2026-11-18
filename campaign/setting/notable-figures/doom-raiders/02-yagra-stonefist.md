@@ -1,8 +1,7 @@
 # Yagra Stonefist
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Half-orc mercenary, neutral*. Stat block: **Thug (with modifications)**.
 > - **Affiliation:** Zhentarim (Doom Raiders)
 > - **Featured in:** **Finding Floon**, **Trollskull Alley**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**, **Doom Raiders Mission 5 — The Yellowspire Job**, **Doom Raiders Mission 6 — Ziraj's Last Hunt**, **Xanathar Sewer Hideout**

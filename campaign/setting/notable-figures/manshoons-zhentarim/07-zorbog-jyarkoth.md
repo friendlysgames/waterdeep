@@ -1,8 +1,7 @@
 # Zorbog Jyarkoth
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human thug (Zhentarim), neutral evil*. Stat block: **Thug**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Faction Outposts**

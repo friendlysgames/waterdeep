@@ -1,8 +1,7 @@
 # Avi
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Water genasi armorsmith, neutral good*. Stat block: **Priest**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** **Trollskull Alley**, **Fireball!**

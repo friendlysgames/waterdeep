@@ -1,8 +1,7 @@
 # Korgstrod Uxgulm
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Duergar (second response team leader), lawful evil*. Stat block: **Duergar**.
 > - **Affiliation:** Xanathar's Guild
 > - **Featured in:** **Faction Outposts**, **Xanathar's Lair**

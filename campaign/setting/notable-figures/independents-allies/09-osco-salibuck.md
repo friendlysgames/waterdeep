@@ -1,8 +1,7 @@
 # Osco Salibuck
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Lightfoot halfling rogue, chaotic good*. Stat block: **Rogue**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** Background figure; no scripted appearance.

@@ -1,8 +1,7 @@
 # Hammond Kraddoc
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Illuskan human guild representative, neutral*. Stat block: **Commoner**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** **Trollskull Alley**, **Fireball!**, **Trollskull Manor**

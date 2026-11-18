@@ -1,8 +1,7 @@
 # Davil Starsong
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Sun elf bard, neutral*. Stat block: **Swashbuckler (with modifications)**.
 > - **Affiliation:** Zhentarim (Doom Raiders)
 > - **Featured in:** **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**, **Doom Raiders Mission 1 — The Dockside Killer**, **Doom Raiders Mission 2 — The Poisoned Delivery**, **Doom Raiders Mission 3 — The Missing Snobeedle**, **Doom Raiders Mission 4 — Silencing Skeemo**, **Doom Raiders Mission 5 — The Yellowspire Job**, **Doom Raiders Mission 6 — Ziraj's Last Hunt**, **Lords' Alliance Mission 3 — The Red Wizard's Price**

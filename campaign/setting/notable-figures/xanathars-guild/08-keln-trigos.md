@@ -1,8 +1,7 @@
 # Keln Trigos
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Tiefling priest (Xanathar's Guild), neutral evil*. Stat block: **Priest**.
 > - **Affiliation:** Xanathar's Guild
 > - **Featured in:** **Faction Outposts**, **Xanathar's Lair**

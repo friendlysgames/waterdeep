@@ -1,8 +1,7 @@
 # Volothamp "Volo" Geddarm
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Illuskan human chronicler, chaotic good*. Stat block: **Mage (with modifications)**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** **Finding Floon**, **Trollskull Alley**

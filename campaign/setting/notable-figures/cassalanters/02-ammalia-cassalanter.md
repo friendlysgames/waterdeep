@@ -1,8 +1,7 @@
 # Ammalia Cassalanter
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human wizard and secret Asmodeus worshipper, lawful evil*. Stat block: **Mage (with modifications)**.
 > - **Affiliation:** The Cassalanters (cult leadership)
 > - **Villain profile:** see **The Cassalanters** in Villains

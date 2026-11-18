@@ -1,8 +1,7 @@
 # Grinda Garloth
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human mage (black market armorer), neutral*. Stat block: **Mage**.
 > - **Affiliation:** Independent (contractor to Xanathar's Guild and Bregan D'aerthe)
 > - **Featured in:** **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**

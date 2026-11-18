@@ -1,8 +1,7 @@
 # Sister Valdra
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Half-orc cleric of Tyr, lawful good*. Stat block: **Priest**.
 > - **Affiliation:** Order of the Gauntlet (unofficial)
 > - **Featured in:** Background figure; she appears in no Order of the Gauntlet event and Savra does not know her. She is a staff candidate in the **Trollskull Manor** guide.

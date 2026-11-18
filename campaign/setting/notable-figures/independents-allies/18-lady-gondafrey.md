@@ -1,8 +1,7 @@
 # Lady Gondafrey
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Lawful good gargoyle (human soul), lawful good / chaotic evil (set by time of day)*. Stat block: **Gargoyle**.
 > - **Affiliation:** Independent (ally); City Watch (formerly)
 > - **Featured in:** **Kolat Towers**

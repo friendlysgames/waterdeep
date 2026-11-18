@@ -1,8 +1,7 @@
 # Jandar Chergoba
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Tiefling cult fanatic (Asmodeus), lawful evil*. Stat block: **Cult Fanatic**.
 > - **Affiliation:** The Cassalanters (cult)
 > - **Featured in:** Cassalanter Villa, Cassalanter Villa (location)

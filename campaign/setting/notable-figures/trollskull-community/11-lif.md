@@ -1,8 +1,7 @@
 # Lif
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Half-elf poltergeist, unaligned*. Stat block: **Specter**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** **Trollskull Alley**, **Trollskull Manor**

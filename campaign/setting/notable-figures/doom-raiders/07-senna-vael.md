@@ -1,8 +1,7 @@
 # Senna Vael
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Tiefling spy (Doom Raiders plant), neutral*. Stat block: **Spy**.
 > - **Affiliation:** Zhentarim (Doom Raiders)
 > - **Featured in:** Background figure; no scripted appearance.

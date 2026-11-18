@@ -1,8 +1,7 @@
 # Broxley Fairkettle
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Strongheart halfling innkeeper, lawful good*. Stat block: **Commoner**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** **Trollskull Alley**

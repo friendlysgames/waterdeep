@@ -1,8 +1,7 @@
 # Filthy Meg
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Merfolk, neutral*. Stat block: **Spy (information broker)**.
 > - **Affiliation:** Independent (adversary)
 > - **Featured in:** **Trollskull Alley**

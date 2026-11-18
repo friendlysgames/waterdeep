@@ -1,8 +1,7 @@
 # Tobrin Ashvale
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human bartender, neutral evil*. Stat block: **Spy**.
 > - **Affiliation:** Xanathar's Guild
 > - **Featured in:** Background figure; no scripted appearance.

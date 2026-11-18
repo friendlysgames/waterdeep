@@ -1,8 +1,7 @@
 # Laiba "Nana" Rosse
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Tiefling cult fanatic (Asmodeus), neutral evil*. Stat block: **Cult Fanatic**.
 > - **Affiliation:** The Cassalanters (cult)
 > - **Featured in:** Trollskull Alley, Cassalanter Villa, Cassalanter Villa (location)

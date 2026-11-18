@@ -1,8 +1,7 @@
 # Terenzio Cassalanter
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human child, lawful good*. Stat block: **Commoner (child)**.
 > - **Affiliation:** The Cassalanters (non-cultist)
 > - **Featured in:** Trollskull Alley, Cassalanter Villa, Cassalanter Villa (location)

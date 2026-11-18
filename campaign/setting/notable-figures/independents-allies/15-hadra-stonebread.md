@@ -1,8 +1,7 @@
 # Hadra Stonebread
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human retired cook, lawful neutral*. Stat block: **Commoner**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** Background figure; no scripted appearance.

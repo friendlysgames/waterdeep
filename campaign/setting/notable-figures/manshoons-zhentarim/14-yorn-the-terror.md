@@ -1,8 +1,7 @@
 # Yorn the Terror
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Half-orc enforcer, neutral evil*. Stat block: **Gladiator**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Kolat Towers**

@@ -1,8 +1,7 @@
 # Sidra Romeir
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Calishite human veteran, lawful evil*. Stat block: **Veteran**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Faction Outposts**, **Kolat Towers**

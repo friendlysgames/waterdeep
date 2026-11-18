@@ -1,8 +1,7 @@
 # Hurv Taldred
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human cult fanatic, neutral evil*. Stat block: **Cult Fanatic**.
 > - **Affiliation:** House Gralhund (Cassalanter cult)
 > - **Featured in:** **Gralhund Villa**

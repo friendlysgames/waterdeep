@@ -1,8 +1,7 @@
 # Jelenn Urmbrusk
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Tethyrian human noble, neutral*. Stat block: **Noble**.
 > - **Affiliation:** City of Waterdeep (Masked Lord)
 > - **Featured in:** **Kolat Towers**, **A Friend's House**

@@ -1,8 +1,7 @@
 # Istrid Horn
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Shield dwarf moneylender, lawful evil*. Stat block: **Veteran**.
 > - **Affiliation:** Zhentarim (Doom Raiders)
 > - **Featured in:** **Trollskull Alley**, **Gralhund Villa**

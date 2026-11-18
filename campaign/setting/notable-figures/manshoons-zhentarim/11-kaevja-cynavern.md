@@ -1,8 +1,7 @@
 # Kaevja Cynavern
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human mage, lawful neutral*. Stat block: **Mage**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Kolat Towers**

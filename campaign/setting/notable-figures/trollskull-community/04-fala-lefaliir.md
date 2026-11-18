@@ -1,8 +1,7 @@
 # Fala Lefaliir
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Wood elf herbalist, chaotic good*. Stat block: **Druid**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** **Trollskull Alley**, **Fireball!**, **Ziraj's Last Hunt**

@@ -1,8 +1,7 @@
 # Remallia "Remi" Haventree
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Sun elf noblewoman, chaotic good*. Stat block: **Mage (with modifications)**.
 > - **Affiliation:** Harpers
 > - **Featured in:** **Trollskull Alley**, **Fireball!**, **A Friend's House**

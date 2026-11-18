@@ -1,8 +1,7 @@
 # Hrabbaz
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Half-orc bodyguard, neutral evil*. Stat block: **Thug**.
 > - **Affiliation:** House Gralhund
 > - **Featured in:** **Gralhund Villa**

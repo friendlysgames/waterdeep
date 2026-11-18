@@ -1,8 +1,7 @@
 # Soluun Xibrindas
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Drow gunslinger, neutral evil*. Stat block: **Drow Gunslinger**.
 > - **Affiliation:** Bregan D'aerthe
 > - **Featured in:** **Faction Outposts**, **Sea Maidens Faire**, **Doom Raiders Mission 1 — The Dockside Killer**, **The Compromised Eye**, **Force Grey Mission 4 — Destroy the Intellect Factory**

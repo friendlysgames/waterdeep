@@ -1,8 +1,7 @@
 # Corene Wyldath
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Halfling spy (compromised), neutral good*. Stat block: **Spy**.
 > - **Affiliation:** Harpers
 > - **Featured in:** **The Sleeping Asset**, **A Friend's House**

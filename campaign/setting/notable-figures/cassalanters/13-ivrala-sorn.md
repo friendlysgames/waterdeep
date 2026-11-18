@@ -1,8 +1,7 @@
 # Ivrala Sorn
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human spy (Cassalanter operative), neutral evil*. Stat block: **Spy**.
 > - **Affiliation:** The Cassalanters (operative)
 > - **Featured in:** Background figure; no scripted appearance.

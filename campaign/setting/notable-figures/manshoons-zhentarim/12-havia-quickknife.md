@@ -1,8 +1,7 @@
 # Havia Quickknife
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Lightfoot halfling adept, lawful evil*. Stat block: **Adept**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Kolat Towers**

@@ -1,8 +1,7 @@
 # Aurinax
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Adult gold dragon (disguised as "Barok Clanghammer"), lawful good*. Stat block: **Adult Gold Dragon**.
 > - **Affiliation:** Independent
 > - **Featured in:** **Fireball!**, **Xanathar's Lair**, **Cassalanter Villa**, **Kolat Towers**, **Vault of Dragons**

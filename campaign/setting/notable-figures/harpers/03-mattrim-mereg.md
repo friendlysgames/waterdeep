@@ -1,8 +1,7 @@
 # Mattrim "Threestrings" Mereg
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Illuskan human bard (Harper spy), lawful good*. Stat block: **Performer**.
 > - **Affiliation:** Harpers
 > - **Featured in:** **Finding Floon**, **Trollskull Alley**, **The Doppelganger Auditions**
