@@ -1,8 +1,7 @@
 # Floon Blagmaar
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Illuskan human, chaotic good*. Stat block: **Commoner**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** **Finding Floon**, **Trollskull Alley**, **Zhentarim Warehouse**, **Xanathar Sewer Hideout**, **Trollskull Manor**

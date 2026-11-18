@@ -1,8 +1,7 @@
 # Orond Gralhund
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Tethyrian human noble, neutral evil*. Stat block: **Noble**.
 > - **Affiliation:** House Gralhund
 > - **Featured in:** **Gralhund Villa**, **Cassalanter Villa**

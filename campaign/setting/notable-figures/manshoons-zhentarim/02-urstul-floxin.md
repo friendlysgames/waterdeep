@@ -1,8 +1,7 @@
 # Urstul Floxin
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Illuskan human assassin, lawful evil*. Stat block: **Assassin**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Finding Floon**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Sea Maidens Faire**, **Kolat Towers**; **Gralhund Villa** (location)

@@ -1,8 +1,7 @@
 # Lord Torlyn Wands
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Illuskan human wizard, chaotic good*. Stat block: **Mage**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** Background figure; no scripted appearance.

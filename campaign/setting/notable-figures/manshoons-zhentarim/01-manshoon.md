@@ -1,8 +1,7 @@
 # Manshoon
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human wizard (clone), lawful evil*. Stat block: **Mage (with modifications)**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Villain profile:** see **Manshoon** in Villains

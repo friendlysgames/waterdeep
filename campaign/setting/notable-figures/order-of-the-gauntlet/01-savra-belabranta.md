@@ -1,8 +1,7 @@
 # Savra Belabranta
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human knight, neutral good*. Stat block: **Knight**.
 > - **Affiliation:** Order of the Gauntlet
 > - **Featured in:** **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**, **Order of the Gauntlet First Meeting**, **Breaking Up the Brawl**, **The Black Viper Investigation**, **The Shard Shunners**, **Spined Devils in Twelvedog Court**, **The Shrine on Aveen Street**, **The Writ and the Weight**, **The Tithe**, **Savra's Past**, **Marcheon**, **Whitehawk**, **Vindicator**, **Righteous Hand**, Cassalanter Villa (location)

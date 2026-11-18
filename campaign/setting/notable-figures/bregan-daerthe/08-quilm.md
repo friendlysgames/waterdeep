@@ -1,8 +1,7 @@
 # Quilm
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Drow spy (Bregan D'aerthe scout), neutral*. Stat block: **Spy**.
 > - **Affiliation:** Bregan D'aerthe
 > - **Featured in:** **Finding Floon**, **Trollskull Alley**

@@ -1,8 +1,7 @@
 # Nihiloor
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Mind flayer, lawful evil*. Stat block: **Mind Flayer**.
 > - **Affiliation:** Xanathar's Guild
 > - **Featured in:** **Finding Floon**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **The Trouble with Meloon**, **Destroy the Intellect Factory**

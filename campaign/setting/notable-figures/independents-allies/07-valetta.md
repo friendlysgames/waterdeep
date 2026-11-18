@@ -1,8 +1,7 @@
 # Valetta
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Bronze dragonborn priest of Gond, neutral*. Stat block: **Priest**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** **Fireball!**, **House of Inspired Hands**

@@ -1,8 +1,7 @@
 # Embric
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Fire genasi weaponsmith, neutral good*. Stat block: **Bandit Captain**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** **Trollskull Alley**, **Fireball!**, **Trollskull Manor**

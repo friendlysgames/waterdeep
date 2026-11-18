@@ -1,8 +1,7 @@
 # Thorvin Twinbeard
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Dwarf engineer (secret Harper), neutral good*. Stat block: **Spy**.
 > - **Affiliation:** Xanathar's Guild (secretly Harpers)
 > - **Featured in:** **Faction Outposts**, **Xanathar's Lair**

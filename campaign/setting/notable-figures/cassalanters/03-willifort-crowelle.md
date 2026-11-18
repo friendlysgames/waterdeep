@@ -1,8 +1,7 @@
 # Willifort Crowelle
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Doppelganger butler, neutral*. Stat block: **Doppelganger**.
 > - **Affiliation:** The Cassalanters (household operative)
 > - **Featured in:** Faction Outposts, Cassalanter Villa, Vault of Dragons, Cassalanter Villa (location)

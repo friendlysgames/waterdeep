@@ -1,8 +1,7 @@
 # Avareen Windrivver
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human spy (Zhentarim interrogator), lawful evil*. Stat block: **Spy**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Faction Outposts**

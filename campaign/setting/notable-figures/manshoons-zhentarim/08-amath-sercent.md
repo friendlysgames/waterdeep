@@ -1,8 +1,7 @@
 # Amath Sercent
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Mulan human priest of Bane, lawful evil*. Stat block: **Priest**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Faction Outposts**; **The Yellowspire Job**

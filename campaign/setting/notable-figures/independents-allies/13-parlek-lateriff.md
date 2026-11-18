@@ -1,8 +1,7 @@
 # Parlek Lateriff
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Chondathan human rogue, true neutral*. Stat block: **Spy**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** Background figure; no scripted appearance.

@@ -1,8 +1,7 @@
 # Agorn Fuoco
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human bard (Manshoon lieutenant), neutral evil*. Stat block: **Performer**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Faction Outposts**, **Kolat Towers**; **The Yellowspire Job**

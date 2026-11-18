@@ -1,8 +1,7 @@
 # Eiruk Weskur
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Chondathan human priest of Oghma, neutral good*. Stat block: **Priest**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** Background figure; no scripted appearance.

@@ -1,8 +1,7 @@
 # Arn Xalrondar
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human cult fanatic (Asmodeus), lawful evil*. Stat block: **Cult Fanatic**.
 > - **Affiliation:** The Cassalanters (cult)
 > - **Featured in:** Faction Outposts, Cassalanter Villa

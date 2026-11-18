@@ -1,8 +1,7 @@
 # Victoro Cassalanter
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Half-elf banker and secret priest of Asmodeus, lawful evil*. Stat block: **Noble (with modifications)**.
 > - **Affiliation:** The Cassalanters (cult leadership)
 > - **Villain profile:** see **The Cassalanters** in Villains

@@ -1,8 +1,7 @@
 # Rishaal the Page-Turner
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Gold dragonborn mage, neutral*. Stat block: **Mage**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** **Trollskull Alley**, **Fireball!**

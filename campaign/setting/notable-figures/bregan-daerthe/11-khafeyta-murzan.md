@@ -1,8 +1,7 @@
 # Khafeyta Murzan
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human swashbuckler, neutral good*. Stat block: **Swashbuckler**.
 > - **Affiliation:** Bregan D'aerthe (Jarlaxle's companion, not his employee)
 > - **Featured in:** **Sea Maidens Faire**

@@ -1,8 +1,7 @@
 # Ott Steeltoes
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Dwarf cult fanatic (Zuggtmoy), neutral evil*. Stat block: **Cult Fanatic**.
 > - **Affiliation:** Xanathar's Guild
 > - **Featured in:** **Faction Outposts**, **Xanathar's Lair**, **Three Nights**, **Force Grey Mission 4 — Destroy the Intellect Factory**

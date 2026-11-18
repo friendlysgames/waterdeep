@@ -1,8 +1,7 @@
 # Ulkoria Stonemarrow
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Shield dwarf archmage, neutral good*. Stat block: **Archmage**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** **Trollskull Alley**, **Trollskull Manor**

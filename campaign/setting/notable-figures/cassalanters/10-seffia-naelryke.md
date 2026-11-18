@@ -2,9 +2,8 @@
 
 > Structuring draft.
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human cult fanatic (Asmodeus), lawful evil*. Stat block: **Cultist Fanatic**.
 > - **Affiliation:** The Cassalanters (cult)
 > - **Featured in:** Faction Outposts, Cassalanter Villa, Cassalanter Villa (location)
@@ -62,9 +61,8 @@ Seffia Naelryke is a Human woman who maintains a decrepit windmill in the Southe
 
 **Relationships.** Seffia is the Cassalanter response team leader (stationed at the Converted Windmill, Southern Ward), Arn Xalrondar's operational partner, the cult fanatic who failed to silence Vaelle Lurval, and a recurring NPC across **Faction Outposts** and **Cassalanter Villa**.
 
-> **[GM]**
+> [!gamemaster]**Secret**
 >
-> #### Secret
 > Seffia is an Asmodean cult fanatic in the Cassalanters' service, a fact the party learns only by investigating the Windmill. Lord Cassalanter gave her two missions, to retrieve Eye #2 of the Stone of Golorr from the Brandath Crypts and to silence three cult members who knew too much about it. She and Arn killed two of the three. The survivor, Vaelle Lurval, is the loose end Seffia is working to close, and Lord Cassalanter does not know she failed.
 
 **Tone:** Cold and procedural. Seffia is menacing because she is busy and competent, so keep her calm and let the dread come from what the party learns about her work. Her cruelty belongs in her actions, never in the narration.
@@ -95,9 +93,8 @@ Seffia Naelryke is a Human woman who maintains a decrepit windmill in the Southe
 - **Cassalanter Villa**: her report and her team's escalation role.
 - **Xanathar's Lair**: where her team competes if the Cassalanters turn hostile.
 
-> **[GM]**
+> [!gamemaster]**Draft Notes**
 >
-> #### Draft Notes
 > - **Settled:** Vaelle Lurval's details now come from the published adventure ("Left for Dead", lines 8317-8319). She still has no Notable Figures page and appears nowhere else in the campaign files, so a page or a decision to keep her unnamed elsewhere is needed.
 > - **Changed (Session 47 consistency pass):** Sea Maidens Faire is dropped from the Relationships paragraph, because no Faire file names Seffia and the Gamemaster's Summary never listed it. Her mission is now to retrieve Eye #2 from the Brandath Crypts rather than the Stone of Golorr (Connections, Persona, Secret and the letter line), and Arn's spined devil carries the Eye. The published adventure has Arn hand the Stone itself to a spined devil.
 > - **Conflicts:** Who leads when Seffia and Willifort Crowelle work together is unsettled (the "Unresolved" line under Willifort in Connections). Zero-prep needs a named lead.

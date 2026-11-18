@@ -1,8 +1,7 @@
 # Chirada
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human operative, neutral*. Stat block: **Spy**.
 > - **Affiliation:** House Gralhund
 > - **Featured in:** **Gralhund Villa**, **Faction Outposts**

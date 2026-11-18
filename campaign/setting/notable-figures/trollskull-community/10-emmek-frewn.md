@@ -1,8 +1,7 @@
 # Emmek Frewn
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Illuskan human tavern owner, neutral evil*. Stat block: **Commoner**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** **Trollskull Alley**

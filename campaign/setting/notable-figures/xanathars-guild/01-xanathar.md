@@ -1,8 +1,7 @@
 # Xanathar
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Beholder crime lord, lawful evil*. Stat block: **Beholder**.
 > - **Affiliation:** Xanathar's Guild
 > - **Villain profile:** see **Xanathar** in Villains

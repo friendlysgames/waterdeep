@@ -1,8 +1,7 @@
 # Manafret Cherryport
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Lightfoot halfling mage (Kolat Towers cook), neutral evil*. Stat block: **Mage**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Kolat Towers**

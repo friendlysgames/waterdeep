@@ -1,8 +1,7 @@
 # Ziraj the Hunter
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Half-orc assassin, lawful evil*. Stat block: **Assassin (with modifications)**.
 > - **Affiliation:** Zhentarim (Doom Raiders)
 > - **Featured in:** **Trollskull Alley**, **Kolat Towers**, **Vault of Dragons**, **Doom Raiders Mission 5 — The Yellowspire Job**, **Doom Raiders Mission 6 — Ziraj's Last Hunt**

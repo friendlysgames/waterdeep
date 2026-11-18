@@ -1,8 +1,7 @@
 # Variel Duskwhisper
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Wood elf bard (Harper courier), neutral good*. Stat block: **Performer**.
 > - **Affiliation:** Harpers
 > - **Featured in:** Background figure; no scripted appearance.

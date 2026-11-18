@@ -1,8 +1,7 @@
 # Nar'l Xibrindas
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Drow mage, neutral evil*. Stat block: **Mage**.
 > - **Affiliation:** Xanathar's Guild (secretly Bregan D'aerthe)
 > - **Featured in:** **Faction Outposts**, **Xanathar's Lair**, **Sea Maidens Faire**, **The Wazoo Affair**, **The Betrayal Pitch**, **The Compromised Eye**, **The Dive**, **Doom Raiders Mission 1 — The Dockside Killer**, **Force Grey Mission 4 — Destroy the Intellect Factory**

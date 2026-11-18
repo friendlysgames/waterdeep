@@ -1,8 +1,7 @@
 # Corvin & Nessa Vayle
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human twins, chaotic neutral*. Stat block: **Commoners**.
 > - **Affiliation:** Harpers (Corvin, covertly; Nessa unaffiliated)
 > - **Featured in:** Background figure; no scripted appearance.

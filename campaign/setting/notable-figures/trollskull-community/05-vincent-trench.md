@@ -1,8 +1,7 @@
 # Vincent Trench
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Rakshasa (disguised as human detective), lawful evil*. Stat block: **Rakshasa (as Valantajar)**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** **Trollskull Alley**, **Fireball!**

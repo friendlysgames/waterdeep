@@ -1,8 +1,7 @@
 # Krebbyg Masq'il'yr
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Drow gunslinger, chaotic neutral*. Stat block: **Drow Gunslinger**.
 > - **Affiliation:** Bregan D'aerthe
 > - **Featured in:** **Faction Outposts**, **Sea Maidens Faire**, **The Handkerchief and the Girl**, **The Wazoo Affair**, **The Betrayal Pitch**, **Three Nights**, **The Compromised Eye**, **The Theater's Back Room**, **The Dive**

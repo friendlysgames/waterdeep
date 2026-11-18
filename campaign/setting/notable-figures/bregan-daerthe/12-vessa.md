@@ -1,8 +1,7 @@
 # Vessa
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Doppelganger, neutral*. Stat block: **Doppelganger**.
 > - **Affiliation:** Bregan D'aerthe
 > - **Featured in:** **Cassalanter Villa**, **Sea Maidens Faire**
