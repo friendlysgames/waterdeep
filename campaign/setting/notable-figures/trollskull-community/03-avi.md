@@ -13,7 +13,7 @@
 
 **Emotions.** Avi most often feels patient amusement, meditative calm, understated affection, a craftsman's satisfaction, gentle exasperation, and rare but sudden firmness.
 
-**Motivations.** Avi wants to craft armor that protects without encouraging violence, maintain peace in his marriage and his neighborhood, and honor Eldath through the discipline of her trade.
+**Motivations.** Avi wants to craft armor that protects without encouraging violence, maintain peace in his marriage and his neighborhood, and honor Eldath through the discipline of his trade.
 
 **Inspirations.** When playing Avi, channel Iroh (*Avatar: The Last Airbender*), Brother Cadfael (*The Cadfael Chronicles*), and Hank Hill (*King of the Hill*).
 
@@ -21,7 +21,7 @@
 
 **Persona.** To the world, Avi is the calm half of Steam and Steel, the one you talk to when Embric is throwing sparks. To those he trusts, he is funny in a bone-dry way that most people miss entirely. Deep down, he chose Embric precisely because Embric feels everything he holds back.
 
-**Morale.** In a fight, Avi would position herself between the attacker and anyone unarmed, using his shield and his faith before his spells. He will not strike first.
+**Morale.** In a fight, Avi would position himself between the attacker and anyone unarmed, using his shield and his faith before his spells. He will not strike first.
 
 **Relationships.** Avi is the husband of Embric, a fellow member of the Most Careful Order of Skilled Smiths and Metalforgers, a member of the Splendid Order of Armorers, Locksmiths, and Finesmiths as an armorer, and a worshipper of Eldath whose pacifism occasionally puts him at odds with adventuring customers.
 

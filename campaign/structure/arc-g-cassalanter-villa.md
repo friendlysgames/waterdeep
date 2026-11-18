@@ -56,7 +56,7 @@ The intelligence here is shallower than **Xanathar's Lair**'s — no faction has
 
 **Content.**
 
-*Identifying the Score.* Eye #2 is in the villa's hidden temple. The Stone's impression — if 1+ Eyes are restored — sharpens to "a noble villa in the Sea Ward, hidden chambers beneath painted floors, the Cassalanter house mark on a sigil carved in stone." **Faction Outposts** documents converge on the same target: Seffia's letter from the Converted Windmill confirming Eye #2 was found "in the crypt of Lady Brandath," the Windmill's Brandath Crypt map, the Asmodean Shrine's Nine Hells mural depicting a noble family kneeling before Asmodeus. Three independent lines of evidence point at Cassalanter Villa.
+*Identifying the Score.* Eye #2 is in the villa's hidden temple. The Stone's impression — if 1+ Eyes are restored — sharpens to "a noble villa in the Sea Ward, hidden chambers beneath painted floors, the Cassalanter house mark on a sigil carved in stone." **Faction Outposts** documents converge on the same target: Seffia's letter from the Converted Windmill confirming Eye #2 was found "in the crypt of Lady Brandath," the Windmill's Brandath Crypts map, the Asmodean Shrine's Nine Hells mural depicting a noble family kneeling before Asmodeus. Three independent lines of evidence point at Cassalanter Villa.
 
 *Three Entry Methods.*
 
@@ -427,7 +427,7 @@ This quest's transition is open. The remaining lair heists are available in any 
 ## Cross-References
 
 - **Fireball! Scene 5 (Cassalanter Dinner)** — Prior party interaction with the Cassalanters. Four outcome tracks from the dinner determine social access and relationship status entering this quest. The dinner invitation provides Entry Method 1.
-- **Faction Outposts, Scene 4 (Cassalanter Outposts)** — Asmodean Shrine, Converted Windmill. Outpost activity determines this quest's escalation tier. Seffia's letter, the Brandath Crypt map, and the Nine Hells mural are upstream intelligence that points the party toward the villa.
+- **Faction Outposts, Scene 4 (Cassalanter Outposts)** — Asmodean Shrine, Converted Windmill. Outpost activity determines this quest's escalation tier. Seffia's letter, the Brandath Crypts map, and the Nine Hells mural are upstream intelligence that points the party toward the villa.
 - **Faction Outposts escalation tiers** — Party's outpost activity directly determines this quest's adversary roster and social event availability. See Scene 3 variable difficulty table.
 - **Xanathar's Lair, Scene 6** — Stone 1-Eye impressions (Sea Ward villa, hidden temple, Cassalanter house mark) point toward this quest. Cassalanter faction state set in **Xanathar's Lair** reflects awareness of the party's activities.
 - **Notable Figures** — Full NPC profiles for Victoro, Ammalia, Willifort, Osvaldo, Terenzio, Elzerina, Tissina, and Esvele Rosznar.

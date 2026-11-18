@@ -98,7 +98,7 @@ Talos, the Storm Lord, is the chaotic evil god of storms, forest fires, earthqua
 - `sources/adventure-wdh.json`: the Major Temples of Waterdeep table (no Talos row; Holyhands House at lines 30923 to 30925; the Queenspire at lines 30993 to 30995).
 - `sources/adventure-wdmm.json`: the statue list in the Hall of the Dark Seldarine, Level 10 (lines 30747 and 30762). Seed only.
 - `campaign/setting/history/09-timekeeping-and-the-festival-calendar.md`: the Fair Seas Festival (line 67).
-- `campaign/setting/deities/malar.md`: the Gods of Fury, Howldown, and the late fifteenth-century Auril episode, kept consistent with this page.
+- `campaign/setting/deities/malar.md`: the Gods of Fury, Howldown, and the late 1480s Auril episode, kept consistent with this page.
 - `campaign/setting/deities/tyr.md`, `chauntea.md`, `mystra.md`, `lathander.md`, `silvanus.md`, `gond.md`, `helm.md`, `oghma.md`, `deneir.md`, `mielikki.md` and `beshaba.md`: the pages that name him, checked against this one.
 - Forgotten Realms Wiki, Talos (editions and books tagged on the page): rank, the Gods of Fury, personality, clergy, rites, orders, holy sites, relations, the Malyk, Kozah and Bhaelros aspects, and the history from the Time of Troubles to the late fifteenth century. The wiki is paraphrased, never quoted. The Umberlee, Auril, Akadi and Gruumsh wiki pages (via their research notes) supply the First Circle, Akadi's limits on storms, and the 4e and 5e Gruumsh note. The Mystra wiki page supplies the line that Talos did not get along with her.
 

@@ -64,7 +64,7 @@
 > - **A paladin PC:** Oath of the Crown (derived; Sword Coast Adventurer's Guide). It is sworn to the ideals of civilization, whether the spirit of a nation, fealty to a sovereign or service to a deity of law. The wiki calls the Hammers of Moradin crusaders and fighting clerics who command dwarven armies, and says his church led the push to found new dwarven kingdoms, which is the nearest any source comes to naming paladins. Oath of Devotion (derived; Player's Handbook, 2024) is the alternative for a paladin who serves justice and order in the hold without a crown.
 > - **A warlock PC:** No warlock connection in the sources.
 > - **Campaign ties:** The **Vault of Dragons** quest. The details are in the GM Notes below. No Notable Figure names Moradin. Istrid Horn, a shield dwarf moneylender, worships Vergadain (`campaign/setting/notable-figures/doom-raiders/03-istrid-horn.md:14`), whom the wiki lists among the gods who serve Moradin (*Demihuman Deities*, 2e). In the published *Dungeon of the Mad Mage*, the Lost Level (Level 6) holds statues of Moradin and three other dwarven gods, and the Obstacle Course (Level 15) holds a 12-foot statue of him in area 26. Undermountain is future work, so treat both as seeds.
-> - **Never reveal:** That the Hall of Moradin lies under the Brandath mausoleum, or that the mausoleum hides a vault of old dwarven work, before the party has attuned the Stone of Golorr. A player who asks about Moradin gets the Overview.
+> - **Never reveal:** That the Hall of Moradin lies under the Brandath Mausoleum, or that the Mausoleum hides a vault of old dwarven work, before the party has attuned the Stone of Golorr. A player who asks about Moradin gets the Overview.
 
 ## Overview
 

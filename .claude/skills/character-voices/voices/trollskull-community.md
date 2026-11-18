@@ -45,12 +45,12 @@ The alley is the campaign's home, and its people should feel like neighbours: fa
 
 - **Sound:** A cool, even water-genasi voice, never hurried. The humour is so deadpan it sounds like a statement.
 - **Sentence shape:** Plain, complete, medium sentences. He answers the actual question and then stops.
-- **Word choice:** Practical armourer's terms and occasional references to Eldath and peace. She calls Embric "Embric", never a pet name, and it's somehow more affectionate.
-- **Swearing:** *Stingy · Plain · Clipped.* Almost never, which makes her rare, flat "Embric, shut the fuck up" land like a hammer.
+- **Word choice:** Practical armourer's terms and occasional references to Eldath and peace. He calls Embric "Embric", never a pet name, and it's somehow more affectionate.
+- **Swearing:** *Stingy · Plain · Clipped.* Almost never, which makes his rare, flat "Embric, shut the fuck up" land like a hammer.
 - **Personality in speech:** Patient amusement and quiet firmness. When he's serious, he gets shorter and absolutely final. He defuses Embric with a single flat line.
 - **Quirks:** He lets Embric finish shouting, then answers the question Embric was supposed to answer. He blesses armour quietly as he hands it over.
 - **Signature phrases:** "Embric." (as a whole sentence) / "Armour's for coming home in." / "Eldath keep you."
-- **Never:** She never raises her voice, never strikes first, and never sells armour to someone who's shopping for a fight.
+- **Never:** He never raises his voice, never strikes first, and never sells armour to someone who's shopping for a fight.
 - **Sample lines:**
   - *Greeting:* "Ignore him, he's always like that. What do you need?"
   - *Business:* "This mail will keep you breathing. It won't make you braver. Different shop for that."
