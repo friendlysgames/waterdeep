@@ -110,7 +110,7 @@ The Cassalanters are one of Waterdeep's old noble houses, with several generatio
 - **The Founding of Chains** and **The Open Lord's Fall**: the eras on either side. Neverember's embezzlement, which the Cassalanters' near bankruptcy may trace to, belongs to the later one. The Alexandrian author's backstory supports the link (see Draft Notes).
 - **The Cassalanters** (Villains): personality phases, relationships and goals.
 - **The Cassalanters** (Organizations): the family's public lore and key members.
-- **The Cassalanters** (Faction Operations): response teams, outposts, escalation and revelation list.
+- **The Cassalanters** (Factions Guide): response teams, outposts, escalation and revelation list.
 - **Victoro Cassalanter**, **Ammalia Cassalanter**, **Osvaldo Cassalanter**, **Terenzio Cassalanter**, **Elzerina Cassalanter**, **Willifort Crowelle**, **Caladorn Cassalanter**: the people named here.
 - **Asmodeus** (Deities): the creditor.
 - **Jarlaxle Baenre** (Villains) and **Vessa**: the one outsider who knows.

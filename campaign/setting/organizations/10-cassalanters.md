@@ -7,7 +7,7 @@
 > - **Campaign role:** Villain faction; racing to acquire the vault's gold before the twins' ninth birthday, Flamerule 11, when their soul pact with Asmodeus comes due; Founders' Day (Flamerule 1) is the feast date and the party's true deadline.
 > - **Contacts:** **Victoro Cassalanter**, **Ammalia Cassalanter**, **Willifort Crowelle** (villa-facing); **Seffia Naelryke** (field operative)
 > - **Villain profile:** see **Cassalanters** in Villains
-> - **Operations:** response teams, outposts, escalation and revelation list are on the **Cassalanters** page in Faction Operations
+> - **Operations:** response teams, outposts, escalation and revelation list are on the **Cassalanters** page in the Factions Guide
 > - **Featured in:** **Fireball!**, **Faction Outposts**, **Cassalanter Villa**
 
 **Purpose:** Gives the GM the Cassalanters as a household and a cult: who they are in public, what they believe, who serves them, and what the family hides. The page keeps lore only. Everything above the Overview is for the GM.
@@ -33,7 +33,7 @@ The Cassalanters found a loophole. A ritual can buy out the children's souls for
 
 Everything the Cassalanters tell the PCs about their situation is technically true. The ritual requires the sacrifice. The twins are in danger. The Cassalanters love their children and would do anything to save them. They don't mention that the ritual also requires poisoning 99 people at the Founders' Day feast.
 
-How the family responds to a party that helps or hinders them is in the **Cassalanters** faction operations page.
+How the family responds to a party that helps or hinders them is on the **Cassalanters** page in the Factions Guide.
 
 ## Key Members
 
@@ -97,7 +97,7 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 
 ## Cross-References
 
-- **Cassalanters** (Faction Operations): response teams, outposts, escalation, revelation list
+- **Cassalanters** (Factions Guide): response teams, outposts, escalation, revelation list
 - **Cassalanters** (Villains): personality phases, relationships, goals
 - **Asmodeus** (Deities): the creditor and the cult's god
 - **Era 5: A Debt in Blood** (History): how the bargain was made
@@ -115,5 +115,4 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 > - **Settled:** The "Who suspects" bullet now reads "too nice to be this rich and this purebred", matching CLAUDE.md, the Era page and the Asmodeus page.
 > - **Conflicts:** Public cover. The wiki lists Waukeen, Siamorphe and Asmodeus as favored deities. The campaign's public cover is Lathander for Victoro and Siamorphe for the house, which matches *Dragon Heist*, and the page keeps it.
 > - **Answered from the wiki:** The house was ennobled in 1248 DR, Caladorn was Victoro's father and a Masked Lord and later Open Lord, and the twins were to become lemures.
-> - **Conflicts:** The cross-reference line to the Faction Operations page assumes the guide pages move. Until `guides/factions/11-cassalanters.md` is removed, both copies exist.
-> - **Routed facts:** Sister Valdra's three pieces of Cassalanter intelligence belong on her Notable Figures page and the Order of the Gauntlet page. Vevette Blackwater's refusal of Seffia's approach belongs on the **Vevette Blackwater** page and in the Windmill revelation list in Faction Operations. Check that each is stated there as well.
+> - **Routed facts:** Sister Valdra's three pieces of Cassalanter intelligence belong on her Notable Figures page and the Order of the Gauntlet page. Vevette Blackwater's refusal of Seffia's approach belongs on the **Vevette Blackwater** page and in the Windmill revelation list on the **Cassalanters** page in the Factions Guide. Check that each is stated there as well.

@@ -88,7 +88,7 @@ Seffia Naelryke is a Tethyrian human woman who maintains a decrepit windmill in 
 - **Willifort Crowelle**: the family's blunt instrument, who works with her in hostile mode.
 - **Vevette Blackwater**: refused her Zhentarim channel and holds her visiting card.
 - **The Cassalanters** (Organizations): the family and cult Seffia serves.
-- **Cassalanters** (Factions guide): her response team, escalation and the Windmill revelation list.
+- **The Cassalanters** (Factions Guide): her response team, escalation and the Windmill revelation list.
 - **Faction Outposts**: the Converted Windmill outpost.
 - **Cassalanter Villa**: her report and her team's escalation role.
 - **Xanathar's Lair**: where her team competes if the Cassalanters turn hostile.
@@ -99,5 +99,4 @@ Seffia Naelryke is a Tethyrian human woman who maintains a decrepit windmill in 
 > - **Changed (Session 47 consistency pass):** Sea Maidens Faire is dropped from the Relationships paragraph, because no Faire file names Seffia and the Gamemaster's Summary never listed it. Her mission is now to retrieve Eye #2 from the Brandath Crypts rather than the Stone of Golorr (Connections, Persona, Secret and the letter line), and Arn's spined devil carries the Eye. The published adventure has Arn hand the Stone itself to a spined devil.
 > - **Conflicts:** Who leads when Seffia and Willifort Crowelle work together is unsettled (the "Unresolved" line under Willifort in Connections). Zero-prep needs a named lead.
 > - **Conflicts:** The other "Unresolved" lines in Connections (Arn acting alone when she is out of the room, her plan to repair the failure without telling Victoro, and Vevette holding her visiting card) are open hooks, not settled outcomes. Decide at the prose pass which become fixed events.
-> - **Conflicts:** The Cross-References name the Factions Guide page for her response team. That text is moving to Faction Operations, so retarget the line when the guide pages are removed.
 > - **Routed facts:** Her letter from Lord Cassalanter and her role as field operative already sit on the Cassalanters organization page. Her report in the hidden compartment of Victoro's desk belongs in the villa location journal (Victoro's Office), where it is keyed.
