@@ -159,7 +159,7 @@ Before she answers anything about Floxin, Tashlyn asks the members what became o
 >
 > > "You can, and I want you to try, because the Lords won't hear him for weeks and the terms he walks out on depend on what you do now. The Watch holds him on that tip, so you can start at the Castle Ward gate, where a constable saw who brought it and the gatehouse register recorded it, and that costs you a morning and no coin."
 >
-> > "You can also hire an advocate at the Halls of Justice to file a petition, which will cost you fifty gold, or you can go back to Sergeant Dunfell with something concrete. If one of your friends holds rank in the Lords' Alliance, Jalester Silvermane can lean on her for you. Dunfell won't take coin, so bring her paper."
+> > "You can also hire an advocate at the Halls of Justice to file a petition, which will cost you fifty gold, or you can go back to Sergeant Dunfell with something concrete. If one of your friends has made a name with the Lords' Alliance, Jalester Silvermane can lean on her for you. Dunfell won't take coin, so bring her paper."
 
 > [!qna]**What about Renaer Neverember?**
 >

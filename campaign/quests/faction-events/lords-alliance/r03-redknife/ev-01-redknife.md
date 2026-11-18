@@ -94,9 +94,9 @@ If Sevel Dastar is receiving the member, read the following aloud instead:
 >
 > > "Because the Alliance writes its ranks against names, and I have written yours. Your companions are welcome at the bar, and I'm grateful for their patience. The Guards, the houses and the rest answer to you alone."
 
-> [!qna]**What happens if my Renown falls?**
+> [!qna]**What if I refuse an assignment?**
 >
-> > "The rank stays with you, because you earned it. The benefits wait until your Renown is back where it was, and I'll tell you when that happens."
+> > "Then I'll have to suspend you, and the benefits wait until you're reinstated. The rank stays with you, because you earned it, and so does your Renown. If you try and fail, that costs you nothing."
 
 ### The Watch Escort
 
@@ -118,7 +118,7 @@ Jalester starts with the escort, and the table is still the well table, so **Bes
 > - **Limit:** one errand per member each tenday, counted from the day of that member's last escort.
 > - **Who else:** companions walk with the member and the Guards, but a companion cannot ask for an escort. Jalester ignores a request made in the member's name by anyone else.
 > - **Loss rule:** a member who orders the Guards to break the law or to leave the errand loses the escort for a tenday. The Guards leave at once when the order is given. Their sergeant files a report.
-> - **Renown loss:** a member whose Renown falls below 3 keeps the rank, and the escort is suspended until the Renown is restored.
+> - **Suspension:** a member marked **LA Suspended** keeps the rank, and the escort is paused until **LA Reinstated** is marked.
 
 > [!qna]**What counts as dangerous?**
 >
@@ -144,7 +144,7 @@ Jalester hands over the whistle once he has finished with the escort.
 > - **Limit:** one whistle per member each tenday, counted from the day of that member's last whistle. A whistle blown with no danger spends the use, and Jalester sends that member no escort for a tenday afterward.
 > - **Who else:** only the member's own whistle calls a patrol, and the Guards treat everyone standing with the member as the member's party.
 > - **Loss rule:** a member who blows the whistle to draw the Watch onto an innocent person loses it for a tenday. A lost whistle is replaced at the bar the next evening.
-> - **Renown loss:** a member whose Renown falls below 3 keeps the rank, and the whistle is suspended until the Renown is restored.
+> - **Suspension:** a member marked **LA Suspended** keeps the rank, and the whistle is paused until **LA Reinstated** is marked.
 
 > [!qna]**How fast will they come?**
 >
@@ -173,7 +173,7 @@ Jalester hands over the whistle once he has finished with the escort.
 > - **How long:** up to three consecutive nights in one house, and no more than six nights in any tenday across both. Either house counts as a safe place for a long rest.
 > - **What it is not:** a hiding place from the law. The Watch knows both addresses, and the managers open the door to an officer carrying a magistrate's warrant.
 > - **Loss rule:** a member who brings a pursuer, a captive, a corpse or stolen goods inside, or who fights there, loses both houses for a tenday. The manager reports to Jalester within a day.
-> - **Renown loss:** a member whose Renown falls below 3 keeps the rank, and the houses are suspended until the Renown is restored.
+> - **Suspension:** a member marked **LA Suspended** keeps the rank, and the houses are paused until **LA Reinstated** is marked.
 
 > [!readaloud]
 >
@@ -212,7 +212,7 @@ Jalester saves this for last, and the table is still the well table, so **Beside
 > - **Limit:** one string per member each tenday, counted from the day of that member's last string, and a refusal spends nothing.
 > - **Who else:** the member only. A charge against a companion is not covered, and Jalester says so.
 > - **Loss rule:** a member who lies to Jalester about the facts loses the benefit for a tenday. A member who uses a string to cover an offence off the list loses it for a tenday as well.
-> - **Renown loss:** a member whose Renown falls below 3 keeps the rank, and the string is suspended until the Renown is restored.
+> - **Suspension:** a member marked **LA Suspended** keeps the rank, and the string is paused until **LA Reinstated** is marked.
 
 > [!exploration]**A Word to a Sergeant**
 >
@@ -250,7 +250,7 @@ The rank event awards no Renown. Each Redknife earns further Renown from mission
 
 The member can tell companions everything Jalester said. The escort, the whistle, the houses, the string and the sergeant's note stay individual benefits. Durnan, the managers and the Watch will not act on a request a companion makes in the member's name.
 
-A member whose Renown later falls, or who is marked **LA Suspended**, keeps the rank. All three benefits are suspended until the Renown is restored or **LA Reinstated** is marked. A member marked **LA Dismissed** loses all three for good.
+A member who refuses an assignment or lets its deadline pass is suspended under **Suspension and Dismissal**. A member marked **LA Suspended** keeps the rank and the Renown, and all three benefits are paused until **LA Reinstated** is marked. A member marked **LA Dismissed** loses all three for good.
 
 ### Concluding the Event
 

@@ -23,6 +23,6 @@ Laeral's Notable Figures page says moon elf, while Waterdeep: Dragon Heist has h
 For the out-of-scope log:
 - `.claude/skills/character-voices/voices/city-officials.md:17` says Laeral never admits her power is diminished, and this Event is the one exception.
 - `campaign/setting/notable-figures/city-officials/01-laeral-silverhand.md:22` says only Elminster knows the extent of her decline, and Lioncrowns now hear it from her.
-- `campaign/guides/factions/03-lords-alliance.md:59` and `sources/Appendix_B_-_Player_Factions.md:256` give the attaché to the party, where this Event gives him to the member.
+- `sources/Appendix_B_-_Player_Factions.md:256` gives the attaché to the party, where this Event and the Factions Guide give him to the member.
 - `sources/adventure-wdmm.json:444` has Joroth at the Yawning Portal asking for Falkir's Fist. `campaign/quests/faction-events/emerald-enclave/r50-master-of-the-wild/design-notes.md:27` names the old True or False form of the Commission outcome, which no longer exists.
 - Joroth Brighthelm, Telsa Corlis and Sevel Dastar have no Notable Figures pages or voice profiles.

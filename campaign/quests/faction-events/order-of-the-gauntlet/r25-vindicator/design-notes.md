@@ -20,5 +20,4 @@ For the out-of-scope log:
 - `items.json` has no generic +1 weapon, so the +1 bonus, the Uncommon rarity and the nine weapon names are unverified. The bonus text is the 2024 rule as recalled, not read from the data.
 - The mechanics reference calls the safe house's ward "Trade Ward". This event writes "Trades Ward", the form used in the Marcheon briefings.
 - The Brisenne row uses the alias from the **The Black Viper Investigation** draft, and the Gysheer row reads **Intelligence Shared**, which that mission's final text must still write.
-- The Factions Guide Vindicator row says "findings admissible before the Lords" and "paladins and clerics", and the Players' Guide and GM Guide rows match it.
 - **Righteous Hand** names the same cache weapon in its draft, and its provenance line should follow this event's.
