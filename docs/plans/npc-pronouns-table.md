@@ -68,3 +68,16 @@ Structural note: `cassalanters/10-seffia-naelryke.md` is still in the older form
 ## What changed
 
 Pronouns were added to the first summary bullet of 18 Notable Figures pages: Ulkoria Stonemarrow, Dagult Neverember, Caladorn Cassalanter, Fenerus Stormcastle, Seffia Naelryke, Arn Xalrondar, Manshoon, Krebbyg Masq'il'yr, Soluun Xibrindas, Corene Wyldath, Filthy Meg, Grinda Garloth, Barnibus Blastwind, Remallia Haventree, Yalah Gralhund, Broxley Fairkettle, Emmek Frewn and Vincent Trench. Jeryth Phaulkon already had she/her.
+
+## Alignment restorations
+
+Dragon Heist's printed alignments are canon unless a design reason is recorded, and none is. The two differences listed under "Disagreements between sources and the campaign" are therefore restored, and that section's "left alone" no longer applies. WDH `adventure-wdh.json:10656` prints Fenerus as "N male Tethyrian bandit captain", and `:7472` prints Grinda as "CN female Illuskan human mage".
+
+| Name | Old | New | File:line |
+|---|---|---|---|
+| Fenerus Stormcastle | neutral evil | neutral | `campaign/setting/notable-figures/bregan-daerthe/06-fenerus-stormcastle.md:5` |
+| Fenerus Stormcastle | Neutral Evil | Neutral | `campaign/gazetteer/waterdeep/trades-ward.md:120` |
+| Fenerus Stormcastle | Neutral Evil | Neutral | `campaign/setting/governance-and-guilds/guilds.md:54` |
+| Grinda Garloth | neutral | chaotic neutral | `campaign/setting/notable-figures/xanathars-guild/09-grinda-garloth.md:5` |
+| Grinda Garloth | Neutral | Chaotic Neutral | `campaign/gazetteer/waterdeep/dock-ward.md:176` |
+| Grinda Garloth | neutral | chaotic neutral | `campaign/setting/organizations/08-xanathars-guild.md:28` |
