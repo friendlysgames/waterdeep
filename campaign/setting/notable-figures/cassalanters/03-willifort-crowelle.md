@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Doppelganger butler, neutral*. Stat block: **Doppelganger**.
+> - *Doppelganger butler, neutral, he/him*. Stat block: **Doppelganger**.
 > - **Affiliation:** The Cassalanters (household operative)
 > - **Featured in:** Faction Outposts, Cassalanter Villa, Vault of Dragons, Cassalanter Villa (location)
 

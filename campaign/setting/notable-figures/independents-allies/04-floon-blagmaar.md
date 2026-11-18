@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Illuskan human, chaotic good*. Stat block: **Commoner**.
+> - *Illuskan human, chaotic good, he/him*. Stat block: **Commoner**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** **Finding Floon**, **Trollskull Alley**, **Zhentarim Warehouse**, **Xanathar Sewer Hideout**, **Trollskull Manor**
 

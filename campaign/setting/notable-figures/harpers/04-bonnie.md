@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Doppelganger, neutral*. Stat block: **Doppelganger**.
+> - *Doppelganger, neutral, she/her*. Stat block: **Doppelganger**.
 > - **Affiliation:** Independent (potential Harper operative)
 > - **Featured in:** **Finding Floon**, **The Doppelganger Auditions**, **The Doppelganger Problem**
 

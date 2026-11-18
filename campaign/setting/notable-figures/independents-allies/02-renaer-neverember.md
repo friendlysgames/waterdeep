@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Illuskan human noble, chaotic good*. Stat block: **Swashbuckler**.
+> - *Illuskan human noble, chaotic good, he/him*. Stat block: **Swashbuckler**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Cassalanter Villa**, **Vault of Dragons**, **The Stone's Other Master**, **The Dragon in the Harbor**, **Gralhund Villa (location)**, **Zhentarim Warehouse**, **Xanathar Sewer Hideout**
 

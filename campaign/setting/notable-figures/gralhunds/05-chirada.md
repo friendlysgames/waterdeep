@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Mulan human operative, neutral*. Stat block: **Spy**.
+> - *Mulan human operative, neutral, she/her*. Stat block: **Spy**.
 > - **Affiliation:** House Gralhund
 > - **Featured in:** **Gralhund Villa**, **Faction Outposts**
 

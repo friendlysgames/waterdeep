@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Amnian human bard, chaotic good*. Stat block: **Performer Maestro**.
+> - *Amnian human bard, chaotic good, she/her*. Stat block: **Performer Maestro**.
 > - **Affiliation:** Bregan D'aerthe (Jarlaxle's companion, not his employee)
 > - **Featured in:** **Sea Maidens Faire**
 

@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Drow swashbuckler, chaotic neutral*. Stat block: **Swashbuckler (with modifications)**.
+> - *Drow swashbuckler, chaotic neutral, he/him*. Stat block: **Swashbuckler (with modifications)**.
 > - **Affiliation:** Bregan D'aerthe
 > - **Featured in:** **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**, **The Handkerchief and the Girl**, **The Wazoo Affair**, **The Betrayal Pitch**, **Three Nights**, **The Compromised Eye**, **The Theater's Back Room**, **The Dive**, **Doom Raiders Mission 1 — The Dockside Killer**, **Force Grey Mission 2 — The Dragon in the Harbor**, **Force Grey Mission 4 — Destroy the Intellect Factory**, **A Friend's House**
 

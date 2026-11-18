@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Lightfoot Halfling wererat, Neutral*. Stat block: **Wererat**, used in halfling form unless a Shunner falls.
+> - *Lightfoot Halfling wererat, Neutral, he/him*. Stat block: **Wererat**, used in halfling form unless a Shunner falls.
 > - **Affiliation:** Independent (adversary). Leader of the Shard Shunners, based in the Field Ward, with a second hideout in a halfling-owned hostel on Spices Street in the Dock Ward.
 > - **Featured in:** **Trollskull Alley**, **The Missing Snobeedle**, **The Doppelganger Problem**, **The Shard Shunners**
 >

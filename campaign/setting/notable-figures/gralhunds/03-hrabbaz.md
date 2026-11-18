@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Half-orc bodyguard, neutral evil*. Stat block: **Thug**.
+> - *Half-orc bodyguard, neutral evil, he/him*. Stat block: **Thug**.
 > - **Affiliation:** House Gralhund
 > - **Featured in:** **Gralhund Villa**
 

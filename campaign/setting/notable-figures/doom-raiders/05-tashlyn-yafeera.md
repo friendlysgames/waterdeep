@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Calishite human fighter, lawful evil*. Stat block: **Swashbuckler**.
+> - *Calishite human fighter, lawful evil, she/her*. Stat block: **Swashbuckler**.
 > - **Affiliation:** Zhentarim (Doom Raiders)
 > - **Featured in:** **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**, **Doom Raiders Mission 3 — The Missing Snobeedle**, **Doom Raiders Mission 4 — Silencing Skeemo**, **Doom Raiders Mission 5 — The Yellowspire Job**
 

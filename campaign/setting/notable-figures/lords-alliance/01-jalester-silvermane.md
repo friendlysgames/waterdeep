@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Chondathan human spy, lawful good*. Stat block: **Spy**.
+> - *Chondathan human spy, lawful good, he/him*. Stat block: **Spy**.
 > - **Affiliation:** Lords' Alliance
 > - **Featured in:** **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**, **Lords' Alliance First Meeting**, **The Long Watch**, **The Exile's Return**, **The Red Wizard's Price**, **The Archer Above**, **Fentree's Ledger**, **An Audience with the Open Lord**, **Suspension and Dismissal**, **Escalation to the Open Lord**, **Redknife**, **Stingblade**, **Warduke**, **Lioncrown**, **The Sleeping Asset**, **The Stone's Other Master**, **The Doppelganger Problem**, **Force Grey Mission 5 — The Legate's Eyes**
 

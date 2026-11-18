@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Drow gunslinger, neutral good*. Stat block: **Drow Gunslinger**.
+> - *Drow gunslinger, neutral good, he/him*. Stat block: **Drow Gunslinger**.
 > - **Affiliation:** Bregan D'aerthe
 > - **Featured in:** **Gralhund Villa**, **Faction Outposts**, **Sea Maidens Faire**
 

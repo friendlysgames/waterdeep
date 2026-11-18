@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Tethyrian human swashbuckler, lawful evil*. Stat block: **Swashbuckler**.
+> - *Tethyrian human swashbuckler, lawful evil, she/her*. Stat block: **Swashbuckler**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Faction Outposts**, **Sea Maidens Faire**, **Kolat Towers**; **Silencing Skeemo**, **The Yellowspire Job**
 

@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Illuskan human chronicler, chaotic good*. Stat block: **Mage (with modifications)**.
+> - *Illuskan human chronicler, chaotic good, he/him*. Stat block: **Mage (with modifications)**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** **Finding Floon**, **Trollskull Alley**
 

@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Rock gnome spy, neutral*. Stat block: **Spy**.
+> - *Rock gnome spy, neutral, he/him*. Stat block: **Spy**.
 > - **Affiliation:** Agent of Dagult Neverember
 > - **Featured in:** **Fireball!**, **Gralhund Villa**, **Vault of Dragons**, **House of Inspired Hands**, **Sea Maidens Faire**
 

@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Mulhorandi human swashbuckler, neutral good*. Stat block: **Swashbuckler**.
+> - *Mulhorandi human swashbuckler, neutral good, she/her*. Stat block: **Swashbuckler**.
 > - **Affiliation:** Bregan D'aerthe (Jarlaxle's companion, not his employee)
 > - **Featured in:** **Sea Maidens Faire**
 

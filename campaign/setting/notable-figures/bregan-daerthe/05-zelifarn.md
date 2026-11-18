@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Young bronze dragon, lawful good*. Stat block: **Young Bronze Dragon**.
+> - *Young bronze dragon, lawful good, he/him*. Stat block: **Young Bronze Dragon**.
 > - **Affiliation:** None (friendly to Bregan D'aerthe; not an operative)
 > - **Featured in:** **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**, **The Dragon in the Harbor**
 

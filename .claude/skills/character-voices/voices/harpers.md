@@ -116,16 +116,34 @@ The Harpers mostly sound like people pretending to be someone else: a moneylende
 
 ---
 
-### Corvin & Nessa Vayle
-*Twin servers who argue about everything and finish each other's work, if not each other's sentences.*
+### Corvin Vayle
+*Twin server who argues about everything and finishes his sister's work, if not her sentences.*
 
-- **Sound:** Two quick, bright voices, nearly identical, always slightly overlapping. Corvin is a touch lower and slower. Nessa is louder.
+- **Sound:** A quick, bright voice, nearly identical to his twin's and always slightly overlapping hers. Corvin is a touch lower and slower. Nessa is louder.
 - **Sentence shape:** Short, rapid back-and-forth: one says something, and the other contradicts or corrects it. Alone, each speaks in normal, efficient sentences.
 - **Word choice:** Service slang and sibling insults: tables, orders, "your side", "my side". They refer to each other in the third person while standing side by side ("He's wrong." / "She's always saying that.").
 - **Swearing:** *Punctuation · Colourful · Rant.* Constant, affectionate sibling swearing ("piss off", "you absolute shit"), always at each other and never at customers.
-- **Personality in speech:** Their competition is affection. When one is praised, the other claims half of it. Corvin goes suddenly specific and quiet when he's passing a message. Nessa's incuriosity is loud and deliberate ("Not asking. Don't care.").
+- **Personality in speech:** Their competition is affection. When one is praised, the other claims half of it. Corvin goes suddenly specific and quiet when he's passing a message.
 - **Quirks:** Constant correction ("Three ales." / "Two ales and a cider."). Corvin taps the tray twice when he has a note for someone.
-- **Signature phrases:** Nessa: "Not asking." / Corvin: "Your usual table's free." / Both: "Package deal."
+- **Signature phrases:** Corvin: "Your usual table's free." / Both: "Package deal."
+- **Never:** Neither ever mentions the Harpers, and neither ever agrees with the other without a fight.
+- **Sample lines:**
+  - *Greeting:* Nessa: "Table for four?" Corvin: "Five, she can't count." Nessa: "Five. Piss off, Corvin."
+  - *Business:* Corvin: "The gentleman by the window left this for you. Said you'd know what it's about."
+  - *Under pressure:* Nessa: "Right, we're leaving." Corvin: "We are definitely leaving."
+
+---
+
+### Nessa Vayle
+*Twin server who argues about everything and finishes her brother's work, if not his sentences.*
+
+- **Sound:** A quick, bright voice, nearly identical to her twin's and always slightly overlapping his. Corvin is a touch lower and slower. Nessa is louder.
+- **Sentence shape:** Short, rapid back-and-forth: one says something, and the other contradicts or corrects it. Alone, each speaks in normal, efficient sentences.
+- **Word choice:** Service slang and sibling insults: tables, orders, "your side", "my side". They refer to each other in the third person while standing side by side ("He's wrong." / "She's always saying that.").
+- **Swearing:** *Punctuation · Colourful · Rant.* Constant, affectionate sibling swearing ("piss off", "you absolute shit"), always at each other and never at customers.
+- **Personality in speech:** Their competition is affection. When one is praised, the other claims half of it. Nessa's incuriosity is loud and deliberate ("Not asking. Don't care.").
+- **Quirks:** Constant correction ("Three ales." / "Two ales and a cider.").
+- **Signature phrases:** Nessa: "Not asking." / Both: "Package deal."
 - **Never:** Neither ever mentions the Harpers, and neither ever agrees with the other without a fight.
 - **Sample lines:**
   - *Greeting:* Nessa: "Table for four?" Corvin: "Five, she can't count." Nessa: "Five. Piss off, Corvin."

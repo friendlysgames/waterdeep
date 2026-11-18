@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Tethyrian human noble/rogue, chaotic neutral*. Stat block: **Rogue**.
+> - *Tethyrian human noble/rogue, chaotic neutral, she/her*. Stat block: **Rogue**.
 > - **Affiliation:** Independent (adversary)
 > - **Featured in:** **Faction Outposts**, **Cassalanter Villa**, **Sea Maidens Faire**, **Vault of Dragons**, **The Black Viper Investigation**, **The Poisoned Delivery**, **Silencing Skeemo**, **Cassalanter Villa (location)**
 

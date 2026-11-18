@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Chondathan human spy (Cassalanter operative), neutral evil*. Stat block: **Spy**.
+> - *Chondathan human spy (Cassalanter operative), neutral evil, she/her*. Stat block: **Spy**.
 > - **Affiliation:** The Cassalanters (operative)
 > - **Featured in:** Background figure; no scripted appearance.
 

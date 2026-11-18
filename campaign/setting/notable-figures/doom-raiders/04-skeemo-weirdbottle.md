@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Rock gnome alchemist, lawful evil*. Stat block: **Mage**.
+> - *Rock gnome alchemist, lawful evil, he/him*. Stat block: **Mage**.
 > - **Affiliation:** Zhentarim (Doom Raiders)
 > - **Featured in:** **Gralhund Villa**, **Kolat Towers**, **Vault of Dragons**, **Doom Raiders Mission 2 — The Poisoned Delivery**, **Doom Raiders Mission 3 — The Missing Snobeedle**, **Doom Raiders Mission 4 — Silencing Skeemo**, **Doom Raiders Mission 5 — The Yellowspire Job**, **Doom Raiders Mission 6 — Ziraj's Last Hunt**
 

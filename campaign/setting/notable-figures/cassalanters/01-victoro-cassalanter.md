@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Half-elf banker and secret priest of Asmodeus, lawful evil*. Stat block: **Noble (with modifications)**.
+> - *Half-elf banker and secret priest of Asmodeus, lawful evil, he/him*. Stat block: **Noble (with modifications)**.
 > - **Affiliation:** The Cassalanters (cult leadership)
 > - **Villain profile:** see **The Cassalanters** in Villains
 > - **Featured in:** Fireball!, Faction Outposts, Xanathar's Lair, Cassalanter Villa, Vault of Dragons, The Wazoo Affair, The Theater's Back Room, Spined Devils in Twelvedog Court, The Shrine on Aveen Street, The Writ and the Weight, Cassalanter Villa (location)
