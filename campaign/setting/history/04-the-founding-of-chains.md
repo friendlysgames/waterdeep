@@ -22,7 +22,7 @@
 >
 > #### Lore Summary
 > - Manshoon, a wizard-lord of Zhentil Keep, founded the Zhentarim in 1261 DR as a mercantile network and spread it from the Moonsea to the Sword Coast. The Black Network outlived his death in 1370 DR and lost its capital in the century after.
-> - Manshoon survived that death through the stasis clone spell and fought his own clones in the Manshoon Wars. The man in Kolat Towers is a clone of a clone who claims to be the true Manshoon, and he keeps a simulacrum in reserve.
+> - Manshoon survived that death through the stasis clone spell and fought his own clones in the Manshoon Wars. The man in Kolat Towers is a clone of a clone who claims to be the true Manshoon, and he keeps a simulacrum in reserve against assassination.
 > - The Doom Raiders, five retired adventurers, were sent to Waterdeep in 1489 DR to found the Black Network's foothold. They regard themselves as the true Zhentarim of Waterdeep.
 > - Manshoon's clone arrived later, took over Kolat Towers and built a cell of his own, the Splinter, in about two years. He peeled off a large part of the Doom Raiders' local network.
 > - Manshoon's cell regards the Doom Raiders as deserters who stole his name, and the Doom Raiders are at active internal war with it. The two cells will not cooperate. `[research]`
@@ -62,9 +62,6 @@
 - Davil wants to end the street violence that Manshoon's cell has caused, because a legitimate criminal enterprise cannot run in a city where an illegitimate one keeps shooting people.
 - The Doom Raiders operate openly, meet in taverns and recruit adventurers. They are the first Zhentarim contact the party meets, during **Trollskull Alley**.
 - The Doom Raiders believe they are the true Zhentarim of Waterdeep. The old outline says Davil's cell "separates from Manshoon on pragmatic grounds". The sources reverse that direction: the cell came first, and Manshoon's clone peeled off its network.
-
-> *I confess I accepted a drink at the Yawning Portal from Davil Starsong, and that I stayed for the whole of the speech that came with it. His position, delivered with a patience I have rarely met in his trade, was that the Black Network is a trading company first and everything else a long way after (I wrote it down at once, having never heard a Zhentarim explain himself so politely).*
-> *~Volo*
 
 ### Manshoon's Waterdeep Operation
 
@@ -151,7 +148,6 @@ The Zhentarim, also called the Black Network, is a mercenary and trading company
 >
 > #### Draft Notes
 > - **Research:** Other Names. "The Splinter" is the in-world name used by the guides and the Kolat Towers structure document. "The Two Zhentarims" is a GM name. No name for the era is sourced.
-> - **Research:** Volo's aside (the optional `~Volo` quote after the Doom Raiders section). It is an anecdote of this page alone, with no secret and no error in it. Keep or cut it at the prose pass, and confirm that Volo may have met Davil.
 > - **Research:** Who sent the Doom Raiders in 1489 DR. No source names a sender: the wiki says they "were sent" (Doom Raiders) and were "directed" (Davil Starsong), both citing Waterdeep: Dragon Heist pp. 198-199, 5e.
 > - **Research:** The Splinter's arrival year (about 1490 DR), the simulacrum's creation year (about 1485 DR) and Duhlark's death year (about 1394 DR) are arithmetic from the Kolat Towers structure document.
 > - **Research:** Three claims in the old outline have no source: "a criminal network spanning the Sword Coast", "retained only his methods", and Davil's "explicitly pragmatic" grounds. The Doom Raiders' creed on this page comes from the Doom Raiders organization page. Also unsupported is the claim that "most of Waterdeep" knows them as "the Zhentarim". The campaign says only that they operate openly.

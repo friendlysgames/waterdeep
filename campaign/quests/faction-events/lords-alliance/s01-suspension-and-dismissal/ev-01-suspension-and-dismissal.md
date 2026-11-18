@@ -98,7 +98,7 @@ If the member let the deadline pass, read the following aloud instead:
 
 > [!social]**The Agent at the Well**
 >
-> Jalester Silvermane (Lawful Good, Cormyrean Human, he/him) :: a lean Lords' Alliance field agent in a dark doublet, who has taken no pleasure in sending the note and does not pretend otherwise.
+> Jalester Silvermane (Lawful Good, Chondathan Human, he/him) :: a lean Lords' Alliance field agent in a dark doublet, who has taken no pleasure in sending the note and does not pretend otherwise.
 >
 > Jalester is Unfriendly tonight, and he stays courteous. He keeps the notebook closed until the member has spoken, and he writes down only the reason. He asks short questions, says "Understood." when he accepts an answer, and does not raise his voice. He swears at no one, and a curse from him tonight would only be aimed at himself.
 >

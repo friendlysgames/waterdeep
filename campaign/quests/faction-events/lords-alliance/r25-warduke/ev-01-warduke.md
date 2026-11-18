@@ -67,7 +67,7 @@ If Sevel Dastar is receiving the member, read the following aloud instead:
 
 > [!social]**The Agent**
 >
-> Jalester Silvermane (Lawful Good, Cormyrean Human, he/him) :: a lean, courteous Lords' Alliance field agent in a dark doublet, who writes in a small notebook while he listens and goes through the Warduke benefits in the order the member will need them.
+> Jalester Silvermane (Lawful Good, Chondathan Human, he/him) :: a lean, courteous Lords' Alliance field agent in a dark doublet, who writes in a small notebook while he listens and goes through the Warduke benefits in the order the member will need them.
 >
 > Jalester is Friendly and a little tired, and he asks short, specific questions, gives concise answers and thanks people formally for small favors. He says "Understood." when he accepts an answer, and before the member leaves he asks one question more specific than the talk needs. He swears rarely, and only at himself.
 >

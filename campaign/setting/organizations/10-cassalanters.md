@@ -30,7 +30,7 @@ The Cassalanters are a Waterdhavian noble family of banking wealth, several gene
 
 Victoro and Ammalia Cassalanter are Waterdeep aristocrats who made a devil's bargain. The details vary depending on who is speaking. Three years ago, they forged a pact with Asmodeus, trading their children's souls for power and prosperity. Their twins, Terenzio and Elzerina, are eight years old. On their ninth birthday, Flamerule 11, the pact comes due. Founders' Day falls ten days before, on Flamerule 1; that is when the Cassalanters plan to collect the ninety-nine souls.
 
-The Cassalanters found a loophole. A ritual can buy out the children's souls for "one shy of a million gold coins" and ninety-nine souls. They hold about half the gold. They need Neverember's vault to cover the remainder.
+The Cassalanters found a loophole. A ritual can buy out the children's souls for "one shy of a million gold coins" and ninety-nine souls. They hold just over half the gold. They need Neverember's vault to cover the remainder.
 
 Everything the Cassalanters tell the PCs about their situation is technically true. The ritual requires the sacrifice. The twins are in danger. The Cassalanters love their children and would do anything to save them. They don't mention that the ritual also requires poisoning 99 people at the Founders' Day feast.
 
@@ -113,7 +113,7 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 > #### Draft Notes
 > - **Research:** Doctrine and Rites (Tenets). The cult's hierarchy below the family, its sacraments and its recruiting are unsourced in the campaign files. The FRHoF-based **Asmodeus** page holds candidate material (the Fugue Plane pitch, recruiting through greed and impatience), but a lore source on the Cassalanter cult would settle it.
 > - **Settled:** The pact covers three children (Osvaldo, taken, and the twins), per **A Debt in Blood**. The inline tag is dropped.
-> - **Conflicts:** Gold held. The Operations text says the family holds about half the gold and needs Neverember's vault for the rest. *Dragon Heist* (5e) says only that the Cassalanters have most of the coin they need. The page keeps the campaign figure of about 500,000 gp, which the Vault's 500,000 gp covers to reach 999,999 gp.
+> - **Settled by the user:** Gold held. The family holds just over half the gold, about 500,000 gp of the 999,999 gp, and the Vault's 500,000 gp covers the rest. *Dragon Heist* (5e) says only that the Cassalanters have most of the coin they need (`adventure-wdh.json` line 18296), and 500,000 of 999,999 is just over half.
 > - **Settled by the user (Session 51):** Osvaldo's alignment. *Dragon Heist* gives only "chain devil", and a standard chain devil is lawful evil. The page and his Notable Figures page now say lawful evil, and "formerly lawful good" is dropped.
 > - **Conflicts:** The Operations section keeps the original text, which says the pact traded "their children's souls" and then names only the twins. This agrees with the Era page once Osvaldo is counted, but the Operations wording could read as two children.
 > - **Settled:** The "Who suspects" bullet now reads "too nice to be this rich and this purebred", matching CLAUDE.md, the Era page and the Asmodeus page.

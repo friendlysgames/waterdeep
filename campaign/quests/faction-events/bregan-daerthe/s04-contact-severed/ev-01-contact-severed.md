@@ -154,11 +154,11 @@ When the conversation ends, read or paraphrase the following:
 
 The severed character knows things about Bregan D'aerthe's watchers that other people in Waterdeep would pay to hear. The scene is the character's own decision, and nobody else has to be present. It becomes available once the character has met Jalester Silvermane at the **Lords' Alliance First Meeting**, whether or not they joined. It closes on the later of two dates: ten days after the character was marked, or Ches 20. If the window passes without the character approaching him, the scene doesn't run and nothing is marked.
 
-Jalester Silvermane (Lawful Good, Cormyrean Human, he/him), the Lords' Alliance field agent, sits at a table by the stairs of the Yawning Portal in the evenings, or at Trollskull Manor if the Alliance found the party there. He pays anyone for information. A character who already belongs to the Lords' Alliance gives it as a report and takes no coin.
+Jalester Silvermane (Lawful Good, Chondathan Human, he/him), the Lords' Alliance field agent, sits at a table by the stairs of the Yawning Portal in the evenings, or at Trollskull Manor if the Alliance found the party there. He pays anyone for information. A character who already belongs to the Lords' Alliance gives it as a report and takes no coin.
 
 > [!social]**The Agent Who Asks One More Thing**
 >
-> Jalester Silvermane (Lawful Good, Cormyrean Human, he/him) :: a lean, courteous Lords' Alliance field agent in a dark doublet, who writes in a small notebook while he listens.
+> Jalester Silvermane (Lawful Good, Chondathan Human, he/him) :: a lean, courteous Lords' Alliance field agent in a dark doublet, who writes in a small notebook while he listens.
 >
 > Jalester is Friendly and a little tired. He asks short, specific questions, gives concise answers, thanks people formally for small favors, and always asks one question more specific than the conversation needs. He swears rarely and only at himself. He pays 50 gp for the account of what the watchers looked like, how they worked and where they stood, and he doesn't ask the character to join anything in return.
 >

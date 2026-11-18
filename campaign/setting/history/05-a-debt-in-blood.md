@@ -61,9 +61,6 @@
 - The Harpers watch the family's charitable work. Their genuine goodness has kept that surveillance clean for years.
 - The outpost network gathers gold and ritual components for the payment, and the Vault covers the shortfall. The Cassalanters do not compete with the other factions for the Stone and intend to wait until someone opens the vault.
 
-> *I cannot claim to know the Cassalanters well, having dined at their villa only twice, but on both evenings Lady Ammalia led me through her butterfly garden before the soup, naming every specimen and the country it came from. Arrive prepared to be educated (and to be hungry). She corrected my pronunciation of three of the names so gently that I wrote them down afterward, meaning to use them at my next dinner.*
-> *~Volo*
-
 ### The Recovery Plan
 
 - The goal is to reclaim the claims on Terenzio and Elzerina. The price is 999,999 gp and ninety-nine souls, both. The souls are the ninety-nine guests poisoned at the Founders' Day feast.
@@ -138,7 +135,6 @@ The Cassalanters are one of Waterdeep's old noble houses, with several generatio
 >
 > #### Draft Notes
 > - **Research:** Other Names (The Cassalanter Bargain, the Soul Pact) are GM names from the old era block and the guides. No in-world name is sourced.
-> - **Research:** Volo's aside (the optional `~Volo` quote in What the Cassalanters Built). Keep it or cut it at the prose pass. It is an anecdote of this page alone, with no secret and no error in it, and nothing else in the campaign depends on his dinners. Confirm that Volo may have dined at the villa.
 > - **Research:** The Timeline dates are partly derived. The pact year (1489 DR) is arithmetic from "three years ago", which the wiki's Cassalanter pages restate; the twins' birth year (1483 DR) is arithmetic from their ninth birthday, and Osvaldo's (1480 DR) is arithmetic from his ninth year in 1489 DR. No source gives any of them independently. The cult's founding, the temple's conversion and when each member joined are unsourced.
 > - **Research:** The Alexandrian author's Cassalanter backstory fixes only 1492 DR and "one tenday after Founders' Day" and gives no pact year. It gives Osvaldo's age at the taking as "already 9". The wiki's Cassalanter, Victoro, Ammalia and Osvaldo pages state 1489 DR (`wiki-Cassalanter.txt` line 43 and the matching lines on the other three), each derived from the adventure's "three years ago". The wiki's Cassalanter Villa page gives no date, and its Founders' Day page gives only 1492.
 > - **Settled:** Outpost purpose. The outposts gather gold and ritual components, the Vault covers the shortfall, and there are no soul coins (standing ruling). A search in Session 51 found no soul-coin wording in any live file; it survives only in the retired `ch2-city-of-splendors.md` and `ch3-running-the-campaign.md`.

@@ -152,7 +152,7 @@ Jalester answers questions until the members stop asking. He keeps one hand on t
 
 > [!social]**The Agent at the Table**
 >
-> Jalester Silvermane (Lawful Good, Cormyrean Human, he/him) :: a lean Lords' Alliance field agent in a dark doublet, who keeps one hand on the sealed report while he answers.
+> Jalester Silvermane (Lawful Good, Chondathan Human, he/him) :: a lean Lords' Alliance field agent in a dark doublet, who keeps one hand on the sealed report while he answers.
 >
 > Jalester is Friendly and visibly tired. He gives short, exact answers and says "Understood." when he accepts one. He thanks each member formally before they leave, and he swears rarely and only at himself.
 >

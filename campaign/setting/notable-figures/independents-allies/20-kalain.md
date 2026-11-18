@@ -3,9 +3,11 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - *Half-elf painter, chaotic neutral*. Stat block: **Commoner (with modifications)**.
+> - *Half-elf painter, chaotic neutral*. Stat block: **Bard (with modifications)**: Advantage on saving throws against the Charmed condition, magic can't put her to sleep, Darkvision 60 ft., Common and Elvish, and the Art Imitates Life action in place of Song of Rest.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** **Fireball!**, **Vault of Dragons**
+>
+> **Art Imitates Life (3/Day).** Kalain touches one of her paintings, and its subject steps out as a creature of that kind with a Challenge Rating of 3 or lower. The creature appears in an unoccupied space within 5 feet of the painting, which goes blank. It is friendly to Kalain and hostile to everyone else, and it rolls its own Initiative. It disappears after 1 minute, when it is reduced to 0 Hit Points, or when Kalain dies or falls Unconscious.
 
 ## Roleplaying Information
 
@@ -21,7 +23,7 @@
 
 **Persona.** To the world, Kalain is a half-elf painter living alone in a dilapidated harbor tower, once celebrated in Waterdavian circles. To those who earn a DC 14 Persuasion check on arrival, she is a woman who helped Dagult Neverember with something she no longer quite understands, and has been waiting for his assassins ever since — losing conversational threads mid-sentence, rubbing her cheek with increasing agitation under pressure, and calling animated figures from her older peaceful canvases (sleeping cats, bowls of fruit, quiet landscapes) to fetch things or run small errands. Deep down, the newer paintings are all monsters wearing the same face, and creatures from them can be loosed against intruders.
 
-**Morale.** Kalain does not fight directly. She accuses, retreats into paranoid recrimination, and animates creatures from the darker canvases if she believes herself threatened. A second Persuasion check (DC 12) can talk her down from a specific accusation about Dalakhar. Calmed, she answers questions with the honesty of someone who has forgotten to protect herself.
+**Morale.** Kalain does not fight in melee. She accuses, retreats into paranoid recrimination, and uses Art Imitates Life on the darker canvases if she believes herself threatened, then casts her Bard spells from behind the creature. A second Persuasion check (DC 12) can talk her down from a specific accusation about Dalakhar. Calmed, she answers questions with the honesty of someone who has forgotten to protect herself.
 
 **Relationships.** Kalain was a former intimate of Dagult Neverember whose abandonment ended both her career and her peace of mind; her tower contains correspondence bearing directly on the Vault of Dragons; her locked document case holds intelligence — the first concrete Cassalanter-to-vault link, a vault-opening clue, and an unsigned letter confirming Neverember's deliberate separation of Stone and Eyes — that is among the most consequential in the campaign, available to any party with enough patience to earn it.
 

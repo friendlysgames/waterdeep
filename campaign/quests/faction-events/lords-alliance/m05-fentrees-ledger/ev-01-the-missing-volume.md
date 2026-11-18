@@ -32,7 +32,7 @@ Jalester writes this task and does not speak it, because Laeral's chancery asked
 
 > [!social]**The Agent on Paper**
 >
-> Jalester Silvermane (Lawful Good, Cormyrean Human, he/him) :: a lean Lords' Alliance field agent who answers by letter this morning from the palace's lower offices.
+> Jalester Silvermane (Lawful Good, Chondathan Human, he/him) :: a lean Lords' Alliance field agent who answers by letter this morning from the palace's lower offices.
 >
 > Jalester writes in a stiffer hand than he speaks, and his replies come back on half-sheets signed J.S. Each reply is short, formal and specific, and he thanks the members for the question. He swears at nobody on paper, and any curse from him would be a sign that something had gone badly wrong.
 >

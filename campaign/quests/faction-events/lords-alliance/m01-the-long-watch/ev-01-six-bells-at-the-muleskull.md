@@ -42,7 +42,7 @@ Jalester sends no note for this task, because **Lords' Alliance First Meeting** 
 
 > [!social]**The Agent at the Well**
 >
-> Jalester Silvermane (Lawful Good, Cormyrean Human, he/him) :: a lean Lords' Alliance field agent in a dark doublet, who writes down every answer and briefs members alone.
+> Jalester Silvermane (Lawful Good, Chondathan Human, he/him) :: a lean Lords' Alliance field agent in a dark doublet, who writes down every answer and briefs members alone.
 >
 > Jalester is Friendly and a little tired, and he keeps the notebook open while he talks. He asks short questions, says "Understood." when he accepts an answer and thanks each member formally for coming. He swears rarely and only at himself, so a curse from him is a sign that something has gone badly wrong.
 >
