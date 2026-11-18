@@ -193,7 +193,7 @@ Jalester takes a moment with the third benefit, and the table is still the well 
 
 > [!social]**The File Officer**
 >
-> Clerk-Sergeant Ottel Raske (Lawful Neutral, Waterdhavian Human, he/him) :: the Watch's file officer at the central records office in the Castle Ward, a stooped, careful man in his fifties with ink on his cuffs who has kept the classified shelf for nineteen years.
+> Clerk-Sergeant Ottel Raske (Lawful Neutral, Illuskan Human, he/him) :: the Watch's file officer at the central records office in the Castle Ward, a stooped, careful man in his fifties with ink on his cuffs who has kept the classified shelf for nineteen years.
 >
 > Raske is Indifferent to strangers and Friendly toward anyone who writes down what they want before they ask for it. He asks what the member needs the file for and answers a vague reason with a long silence. He remembers every request and every refusal.
 >

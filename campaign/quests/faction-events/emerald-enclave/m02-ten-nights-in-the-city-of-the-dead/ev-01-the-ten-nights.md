@@ -146,7 +146,7 @@ Each night every character chooses a post and holds it from sunset to sunrise, a
 
 > [!social]**The Watch at the Grove**
 >
-> Officer Jonn Bannock (Lawful Neutral, Waterdhavian Human, he/him) and Officer Ysa Terrow (Lawful Neutral, Waterdhavian Human, she/her) :: two City Watch officers on the late shift.
+> Officer Jonn Bannock (Lawful Neutral, Illuskan Human, he/him) and Officer Ysa Terrow (Lawful Neutral, Tethyrian Human, she/her) :: two City Watch officers on the late shift.
 >
 > Both officers are bored, cold and glad of company. Bannock does the talking and Terrow keeps the ledger, and together they keep the party off the Brandath ground. They show the ledger to a member who asks politely, with no check. They have no idea why the north is wrong and say so.
 >

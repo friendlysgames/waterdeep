@@ -193,7 +193,7 @@ If the party did not mark **Meloon Met**, read or paraphrase the following:
 
 > [!social]**The Observation Post**
 >
-> Meloon Wardragon (Neutral Evil, Illuskan Human, he/him) :: a Force Grey veteran with an Occupying Devourer behind his eyes, warm on the surface and curious in the wrong direction.
+> Meloon Wardragon (Neutral Evil, Chondathan Human, he/him) :: a Force Grey veteran with an Occupying Devourer behind his eyes, warm on the surface and curious in the wrong direction.
 >
 > The devourer has Meloon's manners and not his reasons. It asks two or three questions for every one it answers, and they are the questions of someone building a list: who else works this part of the city, what their names are, which wards the party walks. It calls itself Meloon when it isn't paying attention. It orders ale for the table and does not touch its own, and its answers arrive a beat late. It never swears.
 >

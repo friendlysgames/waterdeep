@@ -81,7 +81,7 @@ The Field Ward is Waterdeep's slum, an unofficial ward of mud, tanneries and sla
 > - The cellar is a back way into the Cassalanters' Asmodean shrine on the North Ward side. A charity with no members, the Aveen Street Almsgivers' Society, has leased the cellar and a service passage under the street for six years, and a courier brings the rent each quarter. Orros charges it 3 gp a month and knows nothing about its people.
 
 **Three Lanterns House** — Lodging house, 7 Windborne Way
-- A house kept by Sella Brant (Lawful Neutral, Waterdhavian Human, she/her), a practical landlady who dislikes surprises and is home all day.
+- A house kept by Sella Brant (Lawful Neutral, Chondathan Human, she/her), a practical landlady who dislikes surprises and is home all day.
 - Hook: in **The Sleeping Asset** Sella says a halfling lodger called Halla prepaid three months' rent last week, has slept at the house most nights since and asked to be found at the plaza well at four o'clock.
 
 > **[GM]**

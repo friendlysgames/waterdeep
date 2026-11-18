@@ -92,7 +92,7 @@ The rooms above the chandler's belong to Orla Pennick, a widow in her sixties wh
 
 > [!social]**Orla Pennick**
 >
-> Orla Pennick (Neutral Good, Waterdhavian Human, she/her) :: the landlady on Ship Street, who talks to anyone who stands still and keeps careful track of who owes her.
+> Orla Pennick (Neutral Good, Illuskan Human, she/her) :: the landlady on Ship Street, who talks to anyone who stands still and keeps careful track of who owes her.
 >
 > Orla liked Dunstan well enough despite his job, and she is pleased to be asked about the two young men who visited him. A polite word at her door gets her talking. She tells the full story to a member who makes a successful DC 11 Charisma (Persuasion) check or offers 2 gp for her trouble.
 

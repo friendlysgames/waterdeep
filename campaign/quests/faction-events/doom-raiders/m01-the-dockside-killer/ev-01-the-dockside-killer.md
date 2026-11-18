@@ -101,7 +101,7 @@ The party watches the Muleskull from second bell to fourth on three consecutive 
 
 > [!social]**The Officer on Her Rounds**
 >
-> Gorra (Lawful Neutral, Waterdhavian Human, she/her) :: a Harbor Watch officer who has walked the Ship Street rounds for years and has seen three sailors carried off it this season.
+> Gorra (Lawful Neutral, Illuskan Human, she/her) :: a Harbor Watch officer who has walked the Ship Street rounds for years and has seen three sailors carried off it this season.
 >
 > Gorra is Indifferent toward strangers loitering near the Muleskull after second bell, and she hides her tiredness behind a brisk manner. She talks in plain, practical sentences, asks for names, and swears mildly when she is worn down. She is tired of the killings and of being told to do something about them without being given more guards. If a character convinces her that the party is here to help, she shares what the Watch knows. She also remembers their faces, and she is the person the party hands the killer to if they catch him.
 >

@@ -324,7 +324,7 @@ The slip carries the first note from the lists under **Sarna's Harbor Notes** th
 
 > [!social]**The Fisher on the South Quay**
 >
-> Sarna Dath (Neutral, Waterdhavian Human, she/her) :: a south quay fisher in her fifties, who keeps a blue-and-white boat and watches every hull that passes.
+> Sarna Dath (Neutral, Turami Human, she/her) :: a south quay fisher in her fifties, who keeps a blue-and-white boat and watches every hull that passes.
 >
 > Sarna is Friendly once the member has said who sent them, and busy either way. She guts fish while she talks and does not stop for a question. She swears mildly and often. She answers what she saw and refuses to guess at the rest.
 >

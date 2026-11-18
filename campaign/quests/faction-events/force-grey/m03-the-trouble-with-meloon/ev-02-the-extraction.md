@@ -160,7 +160,7 @@ If the party marked **Meloon Met**, he adds that he remembers the sand and the s
 
 > [!social]**The Man Who Came Back**
 >
-> Meloon Wardragon (Neutral Good, Illuskan Human, he/him) :: a barrel-chested Force Grey veteran who is loud, shaken and furious, with nowhere to put it.
+> Meloon Wardragon (Neutral Good, Chondathan Human, he/him) :: a barrel-chested Force Grey veteran who is loud, shaken and furious, with nowhere to put it.
 >
 > Meloon swears constantly, which anyone who knew him before will notice at once. He remembers the occupation as a long dream in which he saw and heard everything and could do nothing. He knows what the devourer said aloud and what it did, and he does not know what it passed to Nihiloor by telepathy.
 >

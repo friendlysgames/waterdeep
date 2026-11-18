@@ -52,13 +52,13 @@ Self-deprecating about his name; deflects sincerity with humor; completely serio
 - Talks about his father — what his legacy means for Renaer's life. Honest, not self-pitying.
 - Introduces a friend — roll on Renaer's Friends table
 
-**Vajra Safahr, the Blackstaff** *(Archmage stat block, NG Calishite human; see the **Vajra Safahr, the Blackstaff** page in Notable Figures)*
+**Vajra Safahr, the Blackstaff** *(Archmage stat block, LN Tethyrian human; see the **Vajra Safahr, the Blackstaff** page in Notable Figures)*
 Direct; does not perform warmth; knows more about the party than she should.
 - Lights have been seen in Kolat Towers in the Southern Ward. She mentions this as a footnote. It is not a footnote.
 - Knows uncomfortably too much about the party's last operation (doesn't name names, doesn't explain)
 - Attempts to recruit the party into Force Grey; if not yet distinguished enough, assigns an observer instead
 
-**Meloon Wardragon** *(Champion Fighter, NG Illuskan human)*
+**Meloon Wardragon** *(Champion Fighter, NG Chondathan human)*
 Endlessly optimistic; buys rounds; tells stories about dead people he loved with complete emotional openness; sees himself in young adventurers and says so.
 
 **Act II–III note:** By Act II, Meloon has been compromised by a Xanathar's Guild intellect devourer. The Meloon who visits during Act I is genuine. The one who arrives in Acts II–III may not be. The GM should track when this shift occurs and let the party notice gradually — the tavern is where early warning signs should emerge. The Force Grey mission "The Trouble with Meloon" formalizes this.
@@ -68,7 +68,7 @@ Endlessly optimistic; buys rounds; tells stories about dead people he loved with
 - Asks if the party has met Vajra yet; says she's worth trusting; says this with specific weight
 - *(Act II+, intellect devourer active)* Orders something he's never ordered before. Asks about current investigation with slightly too much specificity. Gets something small wrong about a previous conversation.
 
-**Floon Blagmaar** *(Commoner, CG Tethyrian human)*
+**Floon Blagmaar** *(Commoner, CG Illuskan human)*
 Charming in an unfocused way; devoted to Renaer; better instincts than he appears to have, worse judgment than those instincts deserve.
 - Celebrating something (won't say what); drinking a specific good Cormyrean white slowly
 - Heard the party is asking about the Zhentarim; wants to know if they're doing so safely

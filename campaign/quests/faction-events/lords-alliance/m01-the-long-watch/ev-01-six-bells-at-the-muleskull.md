@@ -101,7 +101,7 @@ The Muleskull Tavern stands on Ship Street in the Dock Ward and opens before daw
 
 > [!social]**The Coordinator at the Corner Table**
 >
-> Mareva Coile (Lawful Neutral, Waterdhavian Human, she/her) :: a sharp-tempered route coordinator of about forty-five who holds the crew's contracts and resents needing outside help.
+> Mareva Coile (Lawful Neutral, Turami Human, she/her) :: a sharp-tempered route coordinator of about forty-five who holds the crew's contracts and resents needing outside help.
 >
 > Mareva is Indifferent to the party and does not hide it. She keeps the Guild's duty book in the yard office, speaks to Jalester when she must and does not apologize for doubting people. She softens only toward those who work, and she is blunt about what a failure would cost her crew.
 >
@@ -264,7 +264,7 @@ Delvon checks the sweepers in at the yard at the end of every shift, so the part
 
 > [!social]**The Supervisor in the Yard**
 >
-> Delvon Harsk (Neutral, Waterdhavian Human, he/him) :: a heavyset route supervisor in a grey coat. He sells the crew's hours to pay a debt and has waited for someone to catch him.
+> Delvon Harsk (Neutral, Illuskan Human, he/him) :: a heavyset route supervisor in a grey coat. He sells the crew's hours to pay a debt and has waited for someone to catch him.
 >
 > Delvon is Friendly out of habit and ashamed. He knows he is caught the moment the party presses him, and he explains himself where most guilty men would lie. He will go wherever the party tells him.
 >

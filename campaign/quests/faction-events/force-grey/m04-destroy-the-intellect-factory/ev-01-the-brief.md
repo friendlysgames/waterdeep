@@ -141,7 +141,7 @@ If **Meloon Restored** is marked, or neither Meloon outcome is marked and Vajra 
 
 > [!social]**The Man Who Walked It Twice**
 >
-> Meloon Wardragon (Neutral Good, Illuskan Human, he/him) :: a barrel-chested Force Grey veteran who is loud and furious and has nowhere to put it.
+> Meloon Wardragon (Neutral Good, Chondathan Human, he/him) :: a barrel-chested Force Grey veteran who is loud and furious and has nowhere to put it.
 >
 > Meloon swears constantly, and he is sharper than he was a tenday ago. He remembers the lair as a series of doors he was walked through without choosing to, and he saw the wing only from its door.
 >

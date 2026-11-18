@@ -157,7 +157,7 @@ Florette is a courteous professional and does not leave her post for a stranger'
 
 > [!social]**The Watcher in the Grey Hat**
 >
-> Florette Cressyn (Lawful Neutral, Waterdhavian Human, she/her) :: a household investigator on Ammalia Cassalanter's retainer, thirty and patient, who has watched Brimel for ten days and has nothing yet.
+> Florette Cressyn (Lawful Neutral, Tethyrian Human, she/her) :: a household investigator on Ammalia Cassalanter's retainer, thirty and patient, who has watched Brimel for ten days and has nothing yet.
 >
 > Florette is courteous, precise and cold, and keeps the coldness polite. She speaks in complete sentences, asks one probing question where another person would ask three, and does not swear. She never raises her voice. She does not know why the family wants Brimel watched, only that Madam Ammalia has asked for a reason to act. She will not discuss the Cassalanters with a stranger.
 >
@@ -215,7 +215,7 @@ Captain Ilsa Dalloway has the stage-left exit, and Constable Pimm has the aisle.
 
 > [!social]**The Captain on Crowd Duty**
 >
-> Ilsa Dalloway (Lawful Neutral, Waterdhavian Human, she/her) :: the Dock Ward Watch captain on crowd duty at the Faire's showcase, practical, tired and polite.
+> Ilsa Dalloway (Lawful Neutral, Tethyrian Human, she/her) :: the Dock Ward Watch captain on crowd duty at the Faire's showcase, practical, tired and polite.
 >
 > Captain Dalloway checks the house twice before each performance and cares more about exits than about the stage. She knows Kreb Sorrush and likes his free tea. She does not like being told how to do her job. She answers a reason in plain words and a theory not at all. Constable Harl Pimm stands at her shoulder with sore feet.
 >
@@ -338,7 +338,7 @@ Brimel waits in the doorway of a shuttered sailmaker's on Net Street, two blocks
 
 > [!social]**The Steward in the Doorway**
 >
-> Brimel Crestfall (Neutral, Waterdhavian Human, he/him) :: a household steward in his forties, competent, orderly and frightened, who sold a floor plan for coin and now wants to leave the city.
+> Brimel Crestfall (Neutral, Chondathan Human, he/him) :: a household steward in his forties, competent, orderly and frightened, who sold a floor plan for coin and now wants to leave the city.
 >
 > Brimel talks in careful, over-explained sentences, hedges every answer and keeps one hand on his watch chain. He says "Lathander keep me" when he is afraid, which is often. He does not swear and does not pretend to be brave. Any character who watches him and makes a successful DC 12 Wisdom (Insight) check sees that he is frightened for himself and nobody else, and has decided to take the money and leave Waterdeep.
 >

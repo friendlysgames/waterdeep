@@ -173,7 +173,7 @@ Once Fel'rekt has explained the rule about exposure, Constable Harl Pimm of the 
 
 > [!social]**The Constable with the Lamp Oil**
 >
-> Harl Pimm (Lawful Neutral, Waterdhavian Human, he/him) :: a stolid Dock Ward constable who counts lamp oil in every theater on his route, drinks Kreb's free tea, and has never in his life seen a drow.
+> Harl Pimm (Lawful Neutral, Illuskan Human, he/him) :: a stolid Dock Ward constable who counts lamp oil in every theater on his route, drinks Kreb's free tea, and has never in his life seen a drow.
 >
 > Pimm likes to talk about his route, his sore feet and the cost of lamp oil, and he is slow to suspect anything unusual in a theater. He dislikes being kept waiting and tries the office door handle if the delay runs past two or three minutes. He believes the booking manager is a nervous human.
 

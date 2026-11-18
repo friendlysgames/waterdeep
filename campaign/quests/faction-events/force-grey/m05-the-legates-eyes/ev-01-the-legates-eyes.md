@@ -14,7 +14,7 @@
 
 > [!gamemaster]**What Is Actually True**
 >
-> - Orvyn Dall is a Waterdhavian Human appeals clerk in the Trades Ward district magistracy. An Occupying Devourer has ridden him for seven tendays. It keeps his brain alive, so Orvyn is aware and cannot act or speak.
+> - Orvyn Dall is an Illuskan Human appeals clerk in the Trades Ward district magistracy. An Occupying Devourer has ridden him for seven tendays. It keeps his brain alive, so Orvyn is aware and cannot act or speak.
 > - The devourer routes appeals to the magistrates it wants. Three have reversed rulings this month for the same Guild interests, and a fourth reversal was corrected two days later in Orvyn's hand, which is the devourer's mistake.
 > - Its telepathy reaches 60 feet, so it reports through Dobb Ketterly, a Guild dockhand. He sits at the next table at the Bricklayer's Cup at noon on Days 2, 7 and 12, counting Day 1 as the morning after the brief.
 > - Orvyn eats lunch at the Cup every working day. He works at the district magistracy from 08:00 to 18:00 and goes home to Tallow Court.
@@ -169,7 +169,7 @@ When a member sits down across from Orvyn, he is polite and keeps his hands flat
 
 > [!social]**The Clerk at the Window**
 >
-> Orvyn Dall (Lawful Neutral, Waterdhavian Human, he/him) :: a mild, thin appeals clerk in his forties with ink on his cuffs, whose mouth moves a moment after his eyes.
+> Orvyn Dall (Lawful Neutral, Illuskan Human, he/him) :: a mild, thin appeals clerk in his forties with ink on his cuffs, whose mouth moves a moment after his eyes.
 >
 > The real Orvyn is conscientious and shy. The devourer keeps his manners and asks more than it answers, always about people: who else is working the case, where they sleep, which ward they walk. It never swears and never touches its drink. If pressed about the rulings, it says clerks file what magistrates sign.
 >

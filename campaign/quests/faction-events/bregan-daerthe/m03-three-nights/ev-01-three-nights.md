@@ -319,7 +319,7 @@ The party has four ways to meet the table.
 
 > [!social]**The Oldest of the Plain Workers**
 >
-> A Dungsweepers' Guild Commoner (Neutral, Waterdhavian Human, she/her) :: a sewer sweeper in her fifties who does not like her crew's quiet guests and is relieved to be asked.
+> A Dungsweepers' Guild Commoner (Neutral, Tethyrian Human, she/her) :: a sewer sweeper in her fifties who does not like her crew's quiet guests and is relieved to be asked.
 >
 > She answers in nervous, rambling sentences and knows nothing about devourers. She tells a character who stops her at the door, or finds her afterward, what she saw.
 

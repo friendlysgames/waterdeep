@@ -111,7 +111,7 @@ When the member first goes to the shop, read or paraphrase the following:
 
 > [!social]**The Apothecary**
 >
-> Evin Talver (Lawful Good, Waterdhavian Human, he/him) :: a thin, careful apothecary in his fifties, with stained fingers and a pair of spectacles he keeps pushing up his nose.
+> Evin Talver (Lawful Good, Tethyrian Human, he/him) :: a thin, careful apothecary in his fifties, with stained fingers and a pair of spectacles he keeps pushing up his nose.
 >
 > Evin is friendly with customers and exact with Harpers. He asks the member's name once, writes it on a card and does not ask it again. He keeps the Harper stock in a locked drawer behind the counter.
 >
@@ -175,7 +175,7 @@ When Perrin meets the member for the first operation, read or paraphrase the fol
 
 > [!social]**The Field Agent**
 >
-> Perrin Valt (Neutral Good, Waterdhavian Human, he/him) :: a lean Harper Spy in his forties, known in the field as Reed, who works alone by preference and works for the member for as long as the job lasts.
+> Perrin Valt (Neutral Good, Chondathan Human, he/him) :: a lean Harper Spy in his forties, known in the field as Reed, who works alone by preference and works for the member for as long as the job lasts.
 >
 > Perrin is polite and watchful. He wants the plan, the exits and the names of the people the member does not want hurt. He does not swear, and he does not give his real name to anyone he meets on a job.
 >

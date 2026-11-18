@@ -95,7 +95,7 @@ The Trades Ward is the city's shop floor, a ward of guildhalls, stalls and balco
 - Hook: old Waterdhavians tell of a mimic that posed as a statue here for two winters and ate drunkards at night until two Watchmen prodded it with spears (wiki, 2e). The square has no campaign hook yet. [research]
 
 **Trades Ward Magistracy Appeals Office** — District court office
-- The appeals office of the ward's district magistracy employs four clerks. One of them, Orvyn Dall, a Waterdhavian human, was placed there seven tendays ago.
+- The appeals office of the ward's district magistracy employs four clerks. One of them, Orvyn Dall, an Illuskan human, was placed there seven tendays ago.
 - Orvyn lives in a second-floor flat on Tallow Court. He leaves at 07:30 and comes home at 18:00, and a widow named Brenna Tull lives in the flat below.
 - Hook: in **The Legate's Eyes** Vajra sends Force Grey here after three reversed rulings. She cannot act on the magistracy herself, because any move by the Blackstaff against the Watch opens a formal review.
 
