@@ -114,7 +114,7 @@ The Cassalanters' escalation runs through the four tiers above, and their stance
 
 ## Source References
 
-- `campaign/guides/factions/11-cassalanters.md`: every section below the Gamemaster's Summary, moved verbatim (Session 47 consistency fixes were applied identically to both copies: the Grand Game Stance heading and deadline sentence, the Area 3 note, the Founders' Day Clock definition and the escalation wording)
+- the retired Factions Guide page `11-cassalanters.md` (moved here verbatim): every section below the lead-in sentence, with the "Factions guide overview" cross-reference retargeted to **Faction Operations** (the Session 47 consistency fixes to the Grand Game Stance heading and deadline sentence, the Area 3 note, the Founders' Day Clock definition and the escalation wording came across with the move)
 - `campaign/setting/organizations/10-cassalanters.md`: the "Featured in" line and the lore the summary points to
 
 ## Cross-References
@@ -122,6 +122,6 @@ The Cassalanters' escalation runs through the four tiers above, and their stance
 - **Cassalanters** organization page: identity, tenets, key members, lore overview
 - **Running the Villains** (GM Guide): Grand Game overview, villain escalation framework
 - **The Grand Game in Play** (GM Guide): between-sessions faction procedure
-- **Factions** guide overview
+- **Faction Operations**
 - **Cassalanters** villain page (Setting: Villains)
 - Notable Figures: **Victoro Cassalanter**, **Ammalia Cassalanter**, **Willifort Crowelle**, **Seffia Naelryke**, **Arn Xalrondar**, **Tissina Khyret**, **Laiba "Nana" Rosse**, **Jandar Chergoba**, **Rella Asp**, **Ivrala Sorn**, **Osvaldo Cassalanter**, **Caladorn Cassalanter**
