@@ -1,8 +1,7 @@
 # Meloon Wardragon
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Human fighter, neutral good (when himself) / neutral evil (while occupied)*. Stat block: **Warrior Veteran**.
 > - **Affiliation:** Force Grey (occupied by a Xanathar's Guild intellect devourer after the Field of Triumph, about three tendays before the first day of the watch)
 > - **Featured in:** **Trollskull Alley**, **The Dragon in the Harbor**, **The Trouble with Meloon**, **Destroy the Intellect Factory**, **The Legate's Eyes**

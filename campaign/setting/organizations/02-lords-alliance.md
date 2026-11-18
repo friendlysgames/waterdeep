@@ -19,7 +19,7 @@ The Alliance is the most demanding of the factions in professional conduct. Memb
 
 Its members are contacted in person. A runner in a plain Watch tabard brings a card sealed with grey wax to the member's lodging, and the card names the corner table beside the well at the Yawning Portal. Jalester takes that table most evenings, and anyone at the Portal's bar can point to it.
 
-**Primary Contact:** Jalester Silvermane, a Cormyrean field agent who reports directly to Open Lord Laeral Silverhand. He is professional, precise and direct, and he has little patience for pleasantries.
+**Primary Contact:** Jalester Silvermane, a Cormyte field agent who reports directly to Open Lord Laeral Silverhand. He is professional, precise and direct, and he has little patience for pleasantries.
 
 **Secondary Contact:** Laeral Silverhand, Open Lord of Waterdeep. She sends no missions of her own. A member meets her once they have earned the standing, at an audience at Renown 13 or when the member reaches the rank of Warduke at Renown 25, whichever comes first.
 
