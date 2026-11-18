@@ -261,7 +261,7 @@ Read the following aloud as the crew arrives:
 
 > [!hazard]**The Dusk Delivery**
 >
-> **Sevrin Garrow** (Neutral, Illuskan Human, he/him) is a **Cultist Fanatic**, and each of his guards is a **Tough**. Piet Lorn and Odda Fenn use the **Cultist** block, carry the buckets and do not fight. Count every character who fights, companions included.
+> **Sevrin Garrow** (Neutral, Illuskan Human, he/him) is a **Cultist Fanatic**, and each of his guards is a **Tough**. **Odda Fenn** (Neutral, Illuskan Human, she/her) and Piet Lorn use the **Cultist** block, carry the buckets and do not fight. Count every character who fights, companions included.
 >
 > - **Three characters:** the Fanatic and three Toughs.
 > - **Four characters:** the Fanatic and four Toughs.

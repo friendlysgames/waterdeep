@@ -159,7 +159,7 @@ Before she answers anything about Floxin, Tashlyn asks the members what became o
 >
 > > "You can, and I want you to try, because the Lords won't hear him for weeks and the terms he walks out on depend on what you do now. The Watch holds him on that tip, so you can start at the Castle Ward gate, where a constable saw who brought it and the gatehouse register recorded it, and that costs you a morning and no coin."
 >
-> > "You can also hire an advocate at the Halls of Justice to file a petition, which will cost you fifty gold, or you can go back to Sergeant Dunfell with something concrete. If one of your friends holds rank in the Lords' Alliance, Jalester Silvermane can lean on her for you. Dunfell won't take coin, so bring her paper."
+> > "You can also hire an advocate at the Halls of Justice to file a petition, which will cost you fifty gold, or you can go back to Sergeant Dunfell with something concrete. If one of your friends has made a name with the Lords' Alliance, Jalester Silvermane can lean on her for you. Dunfell won't take coin, so bring her paper."
 
 > [!qna]**What about Renaer Neverember?**
 >
@@ -236,7 +236,7 @@ The three approaches can be tried in any order. Each member may attempt each app
 >
 > A member who goes back to Dunfell with something concrete to offer, such as the gate constable's description, Orond's account or, if Floxin is Alive, where he was last seen, can ask her to send the case for review. A successful DC 15 Charisma (Persuasion) check does this, and a successful DC 15 Charisma (Intimidation) check does it too, though Dunfell writes that member's name in her ledger.
 >
-> - **A Lords' Alliance member of Renown 3 or higher asks Jalester Silvermane to put a word through official channels:** The approach succeeds without a check. Jalester sends Dunfell a courtesy note the same day.
+> - **A Lords' Alliance member asks Jalester Silvermane to put a word through official channels:** If the member has marked **Redknife Reached** and is not marked **LA Suspended** or **LA Dismissed**, the approach succeeds without a check. Jalester sends Dunfell a courtesy note the same day.
 > - **Approach One succeeded:** The character has Advantage on the check.
 >
 > On a success, Dunfell sends the case up with a recommendation to release, and the approach adds 1 to the release count. On a failure, Dunfell refuses to see that member again until Davil is released, and the approach adds nothing. Each member who completes this approach, pass or fail, gains 1 Renown once, however many approaches they complete.

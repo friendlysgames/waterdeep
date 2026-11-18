@@ -24,4 +24,4 @@ A member whose Renown falls below 50 keeps the rank and the charm, and the six, 
 
 For the out-of-scope log:
 - `sources/Appendix_B_-_Player_Factions.md:377` gives a *charm of heroism* at Master of the Wild, where the Factions Guide and this Event give a *charm of vitality*.
-- `campaign/quests/faction-events/lords-alliance/r50-lioncrown/ev-01-lioncrown.md:156` still uses **Undermountain Commission Accepted**, a name this Event no longer writes.
+- `campaign/quests/faction-events/lords-alliance/r50-lioncrown/ev-01-lioncrown.md:347` marks **Undermountain Commission Accepted** and line 409 lists it under Event Outcomes (line 322 names it too). The name still matches the Lords' Alliance outcome exactly, and this Event no longer writes it.

@@ -89,9 +89,9 @@ The member may answer or say nothing, and Laeral accepts either. Nothing is roll
 >
 > > "I clear one charge against your name and answer three questions honestly. You may take an attaché, and I will make one request of you in private."
 
-> [!qna]**What if my Renown falls?**
+> [!qna]**What if I refuse an assignment?**
 >
-> > "The rank stays with you, because you earned it. The seal, the attaché and any charge I have not yet cleared wait until your Renown is restored."
+> > "Then Jalester will have to suspend you, and the benefits wait until you're reinstated. The rank stays with you, because you earned it, and so does your Renown. If you try and fail, that costs you nothing."
 
 ### The Charge
 
@@ -122,7 +122,7 @@ If the member holds no charge, read or paraphrase the following instead:
 > - **What it never clears:** treason, the killing of a Watch officer or a Lord, and any charge the Alliance itself brought.
 > - **Limit:** one charge per member, spent when Laeral signs the writ. A held benefit stays held until it is used, and a companion's charge is never covered.
 > - **Loss rule:** a member who commits a crime so that Laeral will clear it is refused and loses a held benefit for a tenday.
-> - **Renown loss:** a member whose Renown falls below 50 keeps the rank. A charge already cleared stays cleared, and a held benefit waits until the Renown is restored.
+> - **Suspension:** a member marked **LA Suspended** keeps the rank. A charge already cleared stays cleared, and a held benefit is paused until **LA Reinstated** is marked.
 
 ### The Attaché
 
@@ -197,7 +197,7 @@ Laeral says the following in either case:
 > - **Orders:** he takes the member's orders in the field and nobody else's. He refuses to harm the Watch, a Lord or a creature that has surrendered.
 > - **Handler:** if **Laeral Told of Jalester** is marked, Sevel stays the member's handler for every other Alliance contact, even if the member declines him as an attaché.
 > - **Loss rule:** a member who orders Sevel to harm the Watch, a Lord or a surrendered creature loses the attaché for a tenday.
-> - **Renown loss:** a member whose Renown falls below 50 keeps the rank, and the attaché waits until the Renown is restored.
+> - **Suspension:** a member marked **LA Suspended** keeps the rank, and the attaché is paused until **LA Reinstated** is marked.
 
 > [!gamemaster]**Sevel as an Ally**
 >
@@ -342,7 +342,7 @@ Laeral waits for the room to settle, and then she makes the Undermountain reques
 > - **The symbol:** a closed hand inside a circle, which the team chalked on a wall at every camp where it was safe to approach.
 > - **Reporting:** the member brings word to their handler, whether it is a find, a body, a paper or a chalk mark. Jalester takes it at the well table, where anything said may reach something below the Portal and Jalester does not know. Sevel takes it at the table under the stairs if **Laeral Told of Jalester** is marked, and nothing said there reaches the water.
 > - **Deadline:** none, since Laeral does not ask for progress and nothing is lost if the member never goes below Level 3.
-> - **Renown loss:** a member whose Renown falls below 50 keeps the card, and Laeral's interest in it does not change.
+> - **Suspension:** a member marked **LA Suspended** keeps the card, and Laeral's interest in it does not change.
 
 If the member takes the card, mark **Undermountain Commission Accepted** and read the following:
 
@@ -395,7 +395,7 @@ The rank event awards no Renown, gold or Milestone Points, and the Lioncrown has
 
 ### Aftermath
 
-The member can tell companions what they were given. The charge, the answers, the seal and the card stay with the member. Durnan, Sevel and the palace clerks turn away a companion who asks in the member's name. A member whose Renown later falls below 50 keeps the rank, and the charge, the seal and the attaché are suspended until the Renown returns.
+The member can tell companions what they were given. The charge, the answers, the seal and the card stay with the member. Durnan, Sevel and the palace clerks turn away a companion who asks in the member's name. A member who refuses an assignment or lets its deadline pass is suspended under **Suspension and Dismissal**. A member marked **LA Suspended** keeps the rank and the Renown, and the charge, the seal and the attaché are paused until **LA Reinstated** is marked. A member marked **LA Dismissed** loses them for good.
 
 Record separately for each member whether a charge was cleared or held, the three questions asked, whether Sevel was accepted and whether the card was taken. Also record the date of Sevel's last seal use.
 

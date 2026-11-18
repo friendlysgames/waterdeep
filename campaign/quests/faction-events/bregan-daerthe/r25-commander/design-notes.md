@@ -38,7 +38,7 @@ The four reachable Lords are Mirt, Durnan, Ulkoria Stonemarrow and Jelenn Urmbru
 
 ## The Vault Proposal
 
-The draft said **Vault of Dragons** hands Commander members Jarlaxle's Lords' Alliance proposal. The Factions Guide (line 33) places it at "Dread Lord renown", which is the Doom Raiders' top rank. Bregan D'aerthe's ranks are Initiate, Soldier, Officer, Commander and Houseless Noble, so this event keeps the draft's reader, the Commander.
+The draft said **Vault of Dragons** hands Commander members Jarlaxle's Lords' Alliance proposal. The Factions Guide used to place it at "Dread Lord renown", the Doom Raiders' top rank; it now reads "At Renown 25 (Commander)" (line 33), which matches this event's reader, the Commander. Bregan D'aerthe's ranks are Initiate, Soldier, Officer, Commander and Houseless Noble.
 
 The proposal is not made here. The outcome tells **Vault of Dragons** (unconverted) that a member holding it receives the proposal and that the member's Seat is the Lord Jarlaxle asks to carry the letter. A speaker names the Vault tonight only if the party already knows of it.
 
@@ -60,7 +60,6 @@ Invented: Ilmra Kelnozz and Brythe Mizzrym (Crew Two), the lighter, the ledger f
 
 Logged for the out-of-scope notes:
 
-- Factions Guide line 33 says "Dread Lord renown" for a Bregan D'aerthe proposal.
 - The Factions Guide row for Commander says "Jarlaxle accompanies the party", and this event reads it as the member's operation.
 - **The Theater's Back Room** now says only **The Dive** and **Houseless Noble** read **Seven Masks Back Room**, so Commander meets at the *Eyecatcher*, on the hired lighter or in the booking office.
 - After Tarsakh 20, **Officer** uses the same hired lighter.

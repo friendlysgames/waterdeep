@@ -30,7 +30,7 @@ Jarlaxle's Grand Game goal: hold Eye #3, collect political intelligence, keep al
 | **Gralhund Villa** | Jarlaxle (as J.B. Nevercott) was at the edge of the Gralhund Villa incident and saw which factions converged. He didn't intervene. Word comes through Krebbyg: "We saw what happened at Gralhund. We know who left with what. If the party is interested in what we saw, the theater has a back room." His price for the intelligence is a private conversation — not a mission, a meeting. |
 | **Faction Outposts** | The Seven Masks Theater appears on every list of Dock Ward Bregan D'aerthe assets the party might assemble from outpost intelligence. At Renown 3+, Krebbyg has briefed the door staff: party members walk in without questions. At Renown 0, the theater is just a target on a list. |
 | **Sea Maidens Faire** | Jarlaxle reveals himself. The caper heist path and the alliance path diverge here. Parties who completed Missions 4–5 have built enough operational trust that Jarlaxle offers the negotiation before the confrontation. |
-| **Vault of Dragons** | At Dread Lord renown: Jarlaxle proposes returning the gold publicly, in the party's name, to Laeral Silverhand — in exchange for a letter of introduction to the Lords' Alliance council. This is what he has always wanted. The gold is the vehicle. |
+| **Vault of Dragons** | At Renown 25 (Commander): Jarlaxle proposes returning the gold publicly, in the party's name, to Laeral Silverhand — in exchange for a letter of introduction to the Lords' Alliance council. This is what he has always wanted. The gold is the vehicle. |
 
 ## First Meeting
 

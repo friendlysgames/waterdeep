@@ -94,9 +94,9 @@ If Sevel Dastar is receiving the member, read the following aloud instead:
 >
 > > "Because the Alliance writes its ranks against names, and I have written yours. Your companions are welcome at the bar, and I'm grateful for their patience. The veterans, the sheets and the rest answer to you alone."
 
-> [!qna]**What happens if my Renown falls?**
+> [!qna]**What if I refuse an assignment?**
 >
-> > "The rank stays with you, because you earned it. The benefits wait until your Renown is back at twenty-five, and I'll tell you when that happens."
+> > "Then I'll have to suspend you, and the benefits wait until you're reinstated. The rank stays with you, because you earned it, and so does your Renown. If you try and fail, that costs you nothing."
 
 ### The Veterans
 
@@ -120,7 +120,7 @@ Jalester starts with the Veterans, and the table is still the well table, so **B
 > - **Who else:** the Veterans follow the plan of the member who called them, and they take no order from a companion who is not a Lords' Alliance member.
 > - **Losses:** a Veteran who falls is replaced before the member's next call, and the use stays spent.
 > - **Loss rule:** a member who uses the Veterans for a crime, or orders them against the list above, loses the service for a tenday. The Veterans leave when the order is given, and their captain reports to Jalester.
-> - **Renown loss:** a member whose Renown falls below 25 keeps the rank, and the service is suspended until the Renown is restored.
+> - **Suspension:** a member marked **LA Suspended** keeps the rank, and the service is paused until **LA Reinstated** is marked.
 
 > [!gamemaster]**The Veterans as Allies**
 >
@@ -182,7 +182,7 @@ When the team arrives for its operation, read or paraphrase the following:
 > - **Limit:** no limit applies, and the sheets are free. The sheet never reproduces a team's orders or its loot.
 > - **Who else:** companions can read the sheet, but only the member can collect it, and Durnan hands nothing to a companion who asks.
 > - **Loss rule:** a member who sells a sheet, shows one to a faction's agent or leaves one where it can be read loses the sheets for a tenday. Jalester hears of it within a day.
-> - **Renown loss:** a member whose Renown falls below 25 keeps the rank, and the sheets are suspended until the Renown is restored.
+> - **Suspension:** a member marked **LA Suspended** keeps the rank, and the sheets are paused until **LA Reinstated** is marked.
 
 > [!exploration]**What the Sheet Says**
 >
@@ -239,7 +239,7 @@ When the first sheet arrives, read or paraphrase the following:
 > - **Refused:** any request that harms the city, hides an attack on non-combatants or needs authority beyond Waterdeep.
 > - **Who else:** only the member may ask, and a request made in the member's name by a companion is ignored. The Lord does not give the member's name to anyone.
 > - **Loss rule:** a member who gives false facts in a request, or who takes anything but copies from a sealed room, loses the benefit for a tenday. Jalester hears of it within a day.
-> - **Renown loss:** a member whose Renown falls below 25 keeps the rank, and the requests are suspended until the Renown is restored.
+> - **Suspension:** a member marked **LA Suspended** keeps the rank, and the requests are paused until **LA Reinstated** is marked.
 >
 > The three forms are fixed:
 >
@@ -380,7 +380,7 @@ The introduction ends with her parting words, and it spends no audience.
 > - **Refused:** a Read of a Lord or the Alliance, a Ruling on an act against the Watch, a Lord or the Alliance, and any request for a quest, the Stone or the vault. Jalester gives his reason before the use is spent.
 > - **Laeral's Ear:** a character who knowingly says something false at an audience makes a **DC 16 Charisma (Deception)** check. On a failure Laeral says "That will be all", the audience ends and the use is spent. A character who corrects the statement before she moves on is treated as having told the truth.
 > - **Loss rule:** a member who brings a companion that attacks, threatens or lies to her loses the benefit for a tenday.
-> - **Renown loss:** a member whose Renown falls below 25 keeps the rank, and the audiences are suspended until the Renown is restored.
+> - **Suspension:** a member marked **LA Suspended** keeps the rank, and the audiences are paused until **LA Reinstated** is marked.
 
 > [!exploration]**The Read**
 >
@@ -429,7 +429,7 @@ The rank event awards no Renown. Each Warduke earns further Renown from missions
 
 The member can tell companions everything Jalester and Laeral said. The Veterans, the sheets, the Masked Lord requests and the audiences stay individual benefits. Durnan, the Veterans' captain and the Palace clerks will not act on a request that a companion makes in the member's name.
 
-A member whose Renown later falls, or who is marked **LA Suspended**, keeps the rank. All four benefits are suspended until the Renown is restored or **LA Reinstated** is marked. A member marked **LA Dismissed** loses all four for good.
+A member who refuses an assignment or lets its deadline pass is suspended under **Suspension and Dismissal**. A member marked **LA Suspended** keeps the rank and the Renown, and all four benefits are paused until **LA Reinstated** is marked. A member marked **LA Dismissed** loses all four for good.
 
 A member who does not keep the Palace appointment keeps the rank and the other three benefits. The clerk holds the appointment for ten days. After that, the first audience the member requests includes the introduction and spends the quest's use.
 

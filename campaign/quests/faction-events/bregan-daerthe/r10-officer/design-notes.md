@@ -51,6 +51,6 @@ Ilphrin has no voice profile and is voiced from this event: formal, patient, no 
 Logged for the out-of-scope notes:
 
 - Guide 08:58 says Jarlaxle assigns the Spy. Here the contact does.
-- **Fireball!** ev-04 still uses the old True/False format and hands the complete ledger to BD members without setting an outcome, so this event reads the cabin handover directly.
+- **Fireball!** ev-04 now writes Event Outcomes, but line 117 still hands the complete ledger to BD members without setting an outcome (**Ledger Complete**, line 128, is marked only for records stolen from the Eyecatcher), so this event reads the cabin handover directly.
 - **Houseless Noble** now draws each member's own Spy from this event.
 - **The Dive** has the Faire sail on Tarsakh 20, which this event follows.

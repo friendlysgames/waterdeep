@@ -59,7 +59,7 @@ Alliance operatives earn Renown through acts that advance Waterdeep's institutio
 
 ### Lords' Alliance Ranks & Benefits
 
-Ranks and benefits belong to individual members. Companions who are not members can stand beside a member and gain nothing from the Alliance. Jalester delivers each rank event at his table on the evening after the member crosses the threshold. If **Laeral Told of Jalester** is marked, Sevel Dastar delivers every later contact at a table away from the well. A member whose Renown later falls keeps the rank, and the benefits wait until the Renown is restored.
+Ranks and benefits belong to individual members. Companions who are not members can stand beside a member and gain nothing from the Alliance. Jalester delivers each rank event at his table on the evening after the member crosses the threshold. If **Laeral Told of Jalester** is marked, Sevel Dastar delivers every later contact at a table away from the well. A suspended member keeps the rank and the Renown, and the benefits wait until **LA Reinstated** is marked, as **Suspension and Dismissal** describes.
 
 | Renown | Rank | Benefits |
 |--------|------|----------|

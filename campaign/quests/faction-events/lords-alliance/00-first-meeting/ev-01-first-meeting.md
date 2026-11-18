@@ -227,7 +227,7 @@ A decliner who comes back to the table is greeted politely and answered like any
 >
 > - **Renown 1:** the member starts as a Cloak, and Jalester greets the member by name from then on.
 > - **The overlook and the patrol note:** each has its own rules in **The Overlook** and **The Patrol Note** below, and each belongs to the member alone.
-> - **Loss rule:** a member whose Renown later falls below 1 keeps the rank, and the benefits are suspended until the Renown is restored. A suspended or dismissed member loses both benefits, as **Suspension and Dismissal** describes.
+> - **Suspension:** a member marked **LA Suspended** keeps the rank and the Renown, and both benefits are paused until **LA Reinstated** is marked. A member marked **LA Dismissed** loses both for good, as **Suspension and Dismissal** describes.
 > - **Companions:** a companion can stand beside a member when the overlook is used and can read the member's patrol note. A companion gains nothing else and cannot ask for either benefit.
 
 > [!exploration]**The Overlook**
