@@ -26,7 +26,7 @@ Her paintings are alive in two senses. The smaller, older paintings — sleeping
 
 **DC 14 Charisma (Persuasion) on arrival:** Kalain accepts that the party is not Dagult's agents. She settles slightly — still fragmented, but no longer at the edge. Conversation is possible.
 
-**On a failure:** She uses Art Imitates Life on one of the monster paintings to defend her. The creature is a Medium animated figure; use the Animated Armor stat block with 40 hit points and no Antimagic Susceptibility. Kalain uses the Bard stat block on her Notable Figures page and casts her spells from behind the creature. She can be talked down from the combat with DC 12 Charisma (Persuasion) at the start of each of her turns; success causes the creature to vanish, the painting to stay blank, and Kalain to apologize in a disconnected way.
+**On a failure:** Kalain uses Art Imitates Life once in this fight, on one of the monster paintings, to defend herself. The creature is a Medium animated figure. The stand-in is an Animated Armor with a custom 40 hit points (the published monster has 33) and no Antimagic Susceptibility, and this fight rates Bloody at level 3 and Bruising at level 4 for a party of four, so a level 3 party can talk her down or retreat. Kalain uses the Bard stat block on her Notable Figures page, with faerie fire in place of Sleep, and casts her spells from behind the creature. At the start of each of her turns, one character can try a DC 12 Charisma (Persuasion) check by arguing about Dalakhar, who is dead and is the reason the party came. On a success the creature vanishes, the painting stays blank, and Kalain apologizes in a disconnected way.
 
 ### Conversation with Kalain
 
