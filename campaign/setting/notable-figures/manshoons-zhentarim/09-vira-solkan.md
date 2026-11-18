@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Human mage (Manshoon plant), neutral evil*. Stat block: **Mage Apprentice**.
+> - *Damaran human mage (Manshoon plant), neutral evil*. Stat block: **Mage Apprentice**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Smoke in the Tower**
 

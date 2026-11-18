@@ -42,7 +42,7 @@ The Open Lord and the Masked Lords are the ruling council of Waterdeep, made up 
 
 **Jelenn Urmbrusk** (Neutral, Tethyrian Human, she/her) is a proud noblewoman in her fifties who travels with sixteen guards. The published adventure names her a Masked Lord and has her ask the party for an interest-free loan of 10,000 gp, in return for her considerable influence with the Lords of Waterdeep.
 
-**Durnan** (Neutral, Human, he/him) is the proprietor of the Yawning Portal, and in the campaign he is also a secret Masked Lord and the secret founder of the Red Sashes (campaign-only). Its fighters pose as regulars at the Portal and are magically sworn to his service. The published adventure names him only as the Portal's proprietor.
+**Durnan** (Neutral, Illuskan Human, he/him) is the proprietor of the Yawning Portal, and in the campaign he is also a secret Masked Lord and the secret founder of the Red Sashes (campaign-only). Its fighters pose as regulars at the Portal and are magically sworn to his service. The published adventure names him only as the Portal's proprietor.
 
 **Ulkoria Stonemarrow** (Neutral Good, Shield Dwarf, she/her) is a senior member of the Watchful Order of Magists and Protectors and the former owner of the tavern in Trollskull Alley. The campaign makes her a Masked Lord, which is never confirmed in her presence (campaign-only).
 

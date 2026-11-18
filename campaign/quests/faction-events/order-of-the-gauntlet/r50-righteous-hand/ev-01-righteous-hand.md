@@ -52,7 +52,7 @@ The main hall of the Halls of Justice holds sixty people, and today it holds the
 
 > [!social]**The High Priest of Tyr**
 >
-> Isaldric Veyne (Lawful Good, Human, he/him) :: the high priest of Tyr in Waterdeep. He is a tall man in his seventies with white hair and silver scales on his chest.
+> Isaldric Veyne (Lawful Good, Tethyrian Human, he/him) :: the high priest of Tyr in Waterdeep. He is a tall man in his seventies with white hair and silver scales on his chest.
 >
 > Veyne is Friendly and grave, and he speaks slowly in whole sentences that never need repeating. He calls Tyr "the Even-Handed", swears rarely and mildly, and answers every question the member asks without hurrying.
 >
@@ -239,7 +239,7 @@ When the other witnesses have gone, Savra sits on the altar steps with a folded 
 
 > [!social]**The Knight on the Steps**
 >
-> Savra Belabranta (Neutral Good, Human, she/her) :: the Order's knight in Waterdeep. She is a woman in her late twenties with dark hair worn back, a strong jaw and a silver gauntlet pin.
+> Savra Belabranta (Neutral Good, Tethyrian Human, she/her) :: the Order's knight in Waterdeep. She is a woman in her late twenties with dark hair worn back, a strong jaw and a silver gauntlet pin.
 >
 > Savra is grave and exact, and she states each limit before she names the benefit it belongs to. She pauses before every serious answer, gives her single nod only to an honest one and swears rarely, in short bursts aimed at wrongdoing. She does not push the document toward the member, and she does not pull it back.
 >

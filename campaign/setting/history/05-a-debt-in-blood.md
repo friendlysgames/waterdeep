@@ -76,7 +76,7 @@
 
 ## Overview
 
-The Cassalanters are one of Waterdeep's old noble houses, with several generations in the city's registry and a name now tied to open-handed charity. Lord Victoro, a half-elf banker, and Lady Ammalia, a human wizard, fund temples, orphanages and civic improvements across the city, and Victoro's banking underwrites half the guilds. Ammalia's butterfly garden is counted the most beautiful in Waterdeep, and their young twins play there under her eye. Their eldest son is said to be studying in a faraway city, and the family does not often speak of him.
+The Cassalanters are one of Waterdeep's old noble houses, with several generations in the city's registry and a name now tied to open-handed charity. Lord Victoro, a half-elf banker, and Lady Ammalia, a Tethyrian human wizard, fund temples, orphanages and civic improvements across the city, and Victoro's banking underwrites half the guilds. Ammalia's butterfly garden is counted the most beautiful in Waterdeep, and their young twins play there under her eye. Their eldest son is said to be studying in a faraway city, and the family does not often speak of him.
 
 > **[GM]**
 >

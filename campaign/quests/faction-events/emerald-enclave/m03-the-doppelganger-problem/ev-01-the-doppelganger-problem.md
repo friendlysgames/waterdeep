@@ -103,7 +103,7 @@ The Yawning Portal stays open until 01:00, when Durnan bars the door. Bonnie wor
 
 > [!social]**The Man Behind the Bar**
 >
-> Durnan (Neutral, Human, he/him) :: the Yawning Portal's owner, who polishes the same mug through every conversation and knows nothing of what Bonnie is.
+> Durnan (Neutral, Illuskan Human, he/him) :: the Yawning Portal's owner, who polishes the same mug through every conversation and knows nothing of what Bonnie is.
 >
 > Durnan answers in as few words as he can and points instead of giving directions, and he lends the back room after closing to anyone who asks. He stays out of what is said there, and he will not discuss Undermountain.
 

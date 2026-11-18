@@ -48,7 +48,7 @@ A member marked **Quietly Reassigned** receives the same note from Brother Halli
 
 > [!social]**The Knight at the Map Table**
 >
-> Savra Belabranta (Neutral Good, Human, she/her) :: the Order's knight in Waterdeep, a woman in her late twenties in a dark riding coat.
+> Savra Belabranta (Neutral Good, Tethyrian Human, she/her) :: the Order's knight in Waterdeep, a woman in her late twenties in a dark riding coat.
 >
 > Savra is Friendly and exact. She pauses before every serious answer, says "I'll tell you plainly" and gives a single nod, but only to an honest answer. She swears rarely and at wrongdoing. She will not ask the party to break the law, and she will not pretend that the law leaves them only one road.
 >
@@ -100,7 +100,7 @@ Orros's chandlery stands on the Field Ward side of Aveen Street, and it is open 
 
 > [!social]**The Nervous Chandler**
 >
-> Orros (Neutral, Human, he/him) :: a stooped, tallow-stained chandler of about sixty who owns the building and has never asked a tenant a question.
+> Orros (Neutral, Illuskan Human, he/him) :: a stooped, tallow-stained chandler of about sixty who owns the building and has never asked a tenant a question.
 >
 > Orros is Indifferent and anxious, and he apologizes when he has done nothing wrong. He charges the Almsgivers' Society 3 gp a month for the cellar and the passage, and he keeps a key to the shop stair in his till. He hears three knocks on the yard door at dusk and tells himself it is the Society's people. He swears mildly if at all, and he will not look at an armed stranger for long.
 >
@@ -334,7 +334,7 @@ Savra takes the members through a side door into the chapel, where the last scen
 
 > [!social]**The Order's Chaplain**
 >
-> Chaplain Ysolt Brannock (Lawful Good, Human, she/her) :: the Order's chaplain at the Halls of Justice, a heavy, calm woman in her fifties who consecrates the Order's holy symbols.
+> Chaplain Ysolt Brannock (Lawful Good, Tethyrian Human, she/her) :: the Order's chaplain at the Halls of Justice, a heavy, calm woman in her fifties who consecrates the Order's holy symbols.
 >
 > Ysolt is Friendly and unhurried, and she holds the symbol out in both hands until someone takes it. She blesses people she has just met, and she does not claim to know more than she does.
 >

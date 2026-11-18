@@ -126,7 +126,7 @@ When a character wins her trust, read or paraphrase the following:
 
 > [!social]**The Proprietor of the Green Dragon**
 >
-> Pravin Cloth (Neutral, Human, he/him) :: a stooped innkeeper of about sixty who has kept the Green Dragon for thirty years and asks his guests no questions.
+> Pravin Cloth (Neutral, Damaran Human, he/him) :: a stooped innkeeper of about sixty who has kept the Green Dragon for thirty years and asks his guests no questions.
 >
 > Pravin is Friendly and incurious. He confirms rooms to anyone who asks politely, shows his register for 5 gp, and forgets the conversation once it ends. He rings a brass house bell on the hour from six in the evening, because his carters like to know the time.
 >

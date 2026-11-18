@@ -78,7 +78,7 @@ Terenzio and Elzerina must appear before **Cassalanter Villa**. They first appea
 
 ## Overview
 
-The Cassalanters are one of Waterdeep's old noble houses, and their name is now tied to open-handed charity. Lord Victoro, a half-elf banker, and Lady Ammalia, a human wizard, fund temples, orphanages and civic improvements across the city. Ammalia's butterfly garden is counted the most beautiful in Waterdeep, and their young twins play there under her eye. Their eldest son is said to be studying in a faraway city, and the family does not often speak of him.
+The Cassalanters are one of Waterdeep's old noble houses, and their name is now tied to open-handed charity. Lord Victoro, a half-elf banker, and Lady Ammalia, a Tethyrian human wizard, fund temples, orphanages and civic improvements across the city. Ammalia's butterfly garden is counted the most beautiful in Waterdeep, and their young twins play there under her eye. Their eldest son is said to be studying in a faraway city, and the family does not often speak of him.
 
 **Tone:** Plain and procedural for the GM tables, and warm and civil in the Overview, where the family is the city's most generous household. Play the family's love for the twins as real and the plan for the feast as plain murder, and let the narration take neither side.
 

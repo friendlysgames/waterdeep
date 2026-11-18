@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Human street urchin, neutral good*. Stat block: **Commoner**.
+> - *Turami human street urchin, neutral good*. Stat block: **Commoner**.
 > - **Affiliation:** Trollskull Alley community
 > - **Featured in:** Background figure; no scripted appearance.
 

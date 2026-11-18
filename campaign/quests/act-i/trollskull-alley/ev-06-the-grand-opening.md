@@ -77,7 +77,7 @@ When the family arrives, read or paraphrase the following:
 
 > [!social]**Two Small Guests**
 >
-> Terenzio and Elzerina Cassalanter (Lawful Good, Human, he/him and she/her) :: eight-year-old twins in a dragon costume and a knight's helm, who want to see every corner of the tavern.
+> Terenzio and Elzerina Cassalanter (Lawful Good, Tethyrian Human, he/him and she/her) :: eight-year-old twins in a dragon costume and a knight's helm, who want to see every corner of the tavern.
 >
 > Terenzio is curious and trusting, and he roars at people as a greeting. Elzerina is blunt and competitive, and she pokes people with her wooden sword when she wants an answer. He calls her Elzi, and she calls him Ter. They go first to the character standing nearest the door.
 >

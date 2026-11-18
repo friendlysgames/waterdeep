@@ -57,7 +57,7 @@ Savra holds the hearing in a bare room off the east annex at the third bell past
 
 > [!social]**The Summoner Under the Spell**
 >
-> Gysheer Omfreys (Lawful Evil, Human, she/her) :: a Tethyrian woman of about forty in good dark clothes. She is proud and precise, and she has taught herself never to show fear.
+> Gysheer Omfreys (Lawful Evil, Tethyrian Human, she/her) :: a woman of about forty in good dark clothes. She is proud and precise, and she has taught herself never to show fear.
 >
 > Gysheer is Hostile to Savra and merely cold to everyone else. She speaks in complete, formal sentences and does not swear in front of strangers. She waived her saving throw because she believes she has nothing to be ashamed of, and she means to prove it by refusing whatever she dislikes.
 >
@@ -155,7 +155,7 @@ If the party wants the room, it stands on Crispin Street, two blocks from Twelve
 
 > [!social]**The Dyer**
 >
-> Jessa Marrick (Neutral, Human, she/her) :: a broad, blue-handed dyer in her fifties who lets the room above her shop. She wants her rent more than she wants any story.
+> Jessa Marrick (Neutral, Illuskan Human, she/her) :: a broad, blue-handed dyer in her fifties who lets the room above her shop. She wants her rent more than she wants any story.
 >
 > Jessa is Indifferent and practical. She talks while she works and does not ask what the party wants with the room until she has been paid. She has noticed that her lodger goes out at odd hours and that carters came twice with covered boxes.
 >

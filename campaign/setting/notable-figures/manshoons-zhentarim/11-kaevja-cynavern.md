@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Human mage, lawful neutral*. Stat block: **Mage**.
+> - *Mulan human mage, lawful neutral*. Stat block: **Mage**.
 > - **Affiliation:** Manshoon's Zhentarim
 > - **Featured in:** **Kolat Towers**
 

@@ -148,7 +148,7 @@ If Jalester attends, he introduces Sevel Dastar. If **Laeral Told of Jalester** 
 
 > [!social]**The Open Lord's Man**
 >
-> Sevel Dastar (Neutral, Human, he/him, **Spy**) :: a middle-aged human in a plain brown coat, who has carried errands for years.
+> Sevel Dastar (Neutral, Chondathan Human, he/him, **Spy**) :: a middle-aged human in a plain brown coat, who has carried errands for years.
 >
 > Sevel is Friendly and dry, and he speaks in short, practical sentences. He swears lightly when a plan annoys him, and he does not flatter anyone. He tells the member what he will report before he is asked.
 >
@@ -317,7 +317,7 @@ Laeral waits for the room to settle, and then she makes the Undermountain reques
 > [!gamemaster]**Joroth's Team**
 >
 > - **Joroth Brighthelm:** a dwarf Lords' Alliance spy in Laeral's service, with the **Spy** stat block.
-> - **Telsa Corlis and the mapmakers:** Telsa is a human clerk-agent who kept the team's ledger. The three hired cartographers have names Laeral does not have.
+> - **Telsa Corlis and the mapmakers:** Telsa is a Turami human clerk-agent who kept the team's ledger. The three hired cartographers have names Laeral does not have.
 > - **The last dispatch:** it came up from Level 3 six tendays ago. It said the team was going down to Level 10, after Falkir's Fist and the Eye of the Spider.
 > - **Their fate:** this Event does not decide it. **Dungeon of the Mad Mage** (unconverted) does, and it reads **Undermountain Commission Accepted**.
 

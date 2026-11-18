@@ -31,7 +31,7 @@ Savra knocks once an hour before noon and does not come in, because she is alrea
 
 > [!social]**The Knight Already Moving**
 >
-> Savra Belabranta (Neutral Good, Human, she/her) :: the Order's knight in Waterdeep, a woman in her late twenties. She wears her dark hair back, has a strong jaw and writes in a left-slanting hand.
+> Savra Belabranta (Neutral Good, Tethyrian Human, she/her) :: the Order's knight in Waterdeep, a woman in her late twenties. She wears her dark hair back, has a strong jaw and writes in a left-slanting hand.
 >
 > Savra is in a hurry and does not hide it, though she still pauses before each answer and says exactly what she knows. She swears rarely and only at wrongdoing, and she gives a single measured nod to an answer she believes. Today she has no time to explain the Order's reasons.
 >

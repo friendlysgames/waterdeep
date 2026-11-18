@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Human poisoner (Cassalanter operative), lawful evil*. Stat block: **Spy**.
+> - *Tethyrian human poisoner (Cassalanter operative), lawful evil*. Stat block: **Spy**.
 > - **Affiliation:** The Cassalanters (operative)
 > - **Featured in:** Background figure; no scripted appearance.
 

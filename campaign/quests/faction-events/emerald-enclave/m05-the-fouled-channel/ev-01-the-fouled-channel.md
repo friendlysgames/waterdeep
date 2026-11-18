@@ -261,7 +261,7 @@ Read the following aloud as the crew arrives:
 
 > [!hazard]**The Dusk Delivery**
 >
-> **Sevrin Garrow** (Neutral, Human, he/him) is a **Cultist Fanatic**, and each of his guards is a **Tough**. Piet Lorn and Odda Fenn use the **Cultist** block, carry the buckets and do not fight. Count every character who fights, companions included.
+> **Sevrin Garrow** (Neutral, Illuskan Human, he/him) is a **Cultist Fanatic**, and each of his guards is a **Tough**. Piet Lorn and Odda Fenn use the **Cultist** block, carry the buckets and do not fight. Count every character who fights, companions included.
 >
 > - **Three characters:** the Fanatic and three Toughs.
 > - **Four characters:** the Fanatic and four Toughs.
@@ -291,7 +291,7 @@ The captive talks freely if nobody threatens him again.
 
 > [!social]**The Carrier**
 >
-> Piet Lorn (Neutral, Human, he/him) :: a thin, frightened carter's hand who carries buckets for four silver a delivery and wants to go home.
+> Piet Lorn (Neutral, Turami Human, he/him) :: a thin, frightened carter's hand who carries buckets for four silver a delivery and wants to go home.
 >
 > Piet answers every question quickly and does not lie, because he has nothing worth protecting. He knows the schedule, the cart shed and the face of the man who pays him. He does not know who sends the jars, or what is in them.
 >

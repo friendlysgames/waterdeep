@@ -125,11 +125,11 @@ The Trades Ward is the city's shop floor, a ward of guildhalls, stalls and balco
 > #### GM Notes
 > - Skeemo is a traitor who feeds intelligence to Manshoon's cell and House Gralhund and messages both sides by paper bird. If cornered he trades information for his life.
 
-**Fenerus Stormcastle (Neutral Evil, Human, he/him)**
+**Fenerus Stormcastle (Neutral Evil, Tethyrian Human, he/him)**
 - A big, scar-faced lamplighter with gray hair, who lights lamps in the ward and minds his own business. He is a retired brigand who spies for Luskan.
 - He wants immunity and a quiet life, and he survives by saying little.
 
-**Myl Dunpier (Neutral, Human, she/her)**
+**Myl Dunpier (Neutral, Tethyrian Human, she/her)**
 - The practical, middle-aged proprietor of the Inn of the Dripping Dagger, with ink-stained fingers. She takes no interest in her guests' business and a great deal in being paid on time.
 - She keeps careful records because the Watch has asked about her guests twice this year, and she finds it easier to have the answers ready.
 

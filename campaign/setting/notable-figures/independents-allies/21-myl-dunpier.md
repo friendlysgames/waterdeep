@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Human innkeeper, neutral*. Stat block: **Commoner**.
+> - *Tethyrian human innkeeper, neutral*. Stat block: **Commoner**.
 > - **Affiliation:** Independent (ally)
 > - **Featured in:** **Fireball!**
 

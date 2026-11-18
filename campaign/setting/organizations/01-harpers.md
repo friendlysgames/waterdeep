@@ -26,11 +26,11 @@ In Waterdeep, the Harpers maintain strong ties to the city's intellectual and ar
 
 - **Mirt** — Tethyrian human moneylender; Harper senior operative, Masked Lord, Laeral Silverhand's closest advisor. See the **Mirt** page in Notable Figures.
 - **Remallia "Remi" Haventree** — Sun elf noblewoman; de facto Harper leader in Waterdeep, manages intelligence from House Ulbrinter. See the **Remallia "Remi" Haventree** page in Notable Figures.
-- **Mattrim "Threestrings" Mereg** — Human Harper spy embedded at the Yawning Portal under cover as a mediocre bard; the only person in Waterdeep who knows Bonnie's true nature. See the **Mattrim "Threestrings" Mereg** page in Notable Figures.
+- **Mattrim "Threestrings" Mereg** — Illuskan human Harper spy embedded at the Yawning Portal under cover as a mediocre bard; the only person in Waterdeep who knows Bonnie's true nature. See the **Mattrim "Threestrings" Mereg** page in Notable Figures.
 - **Bonnie** — Doppelganger; leader of a five-doppelganger operation at the Yawning Portal; potential Harper operative after Mission 3. See the **Bonnie** page in Notable Figures.
 - **Corene Wyldath** — Halfling Harper deep-cover agent embedded in the Dock Ward operation of Xanathar's Guild; compromised by an intellect devourer three weeks before Mission 5 (four months under cover as Halla Ironstave). See the **Corene Wyldath** page in Notable Figures.
 - **Variel Duskwhisper** — Wood elf bard; Harper courier operating under touring musician cover; passes one piece of network intelligence per tenday. See the **Variel Duskwhisper** page in Notable Figures.
-- **Corvin & Nessa Vayle** — Human twins; Corvin runs a minor Harper waypoint through a courier role; Nessa knows not to ask. See the **Corvin & Nessa Vayle** page in Notable Figures.
+- **Corvin & Nessa Vayle** — Illuskan human twins; Corvin runs a minor Harper waypoint through a courier role; Nessa knows not to ask. See the **Corvin & Nessa Vayle** page in Notable Figures.
 - **Maxeene** — Draft horse with a permanent enchantment that lets her understand and speak Common; Harper intelligence asset who has overheard more at Waterdeep's hitching posts than most spies accumulate in a year. See the **Maxeene** page in Notable Figures.
 
 ## Grand Game Agenda

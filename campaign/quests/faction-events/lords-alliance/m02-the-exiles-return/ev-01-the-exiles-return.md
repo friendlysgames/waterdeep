@@ -247,7 +247,7 @@ Harko stays where he is with his palms raised, and the fight is over.
 
 > [!social]**The Man Who Won't Die for It**
 >
-> Harko Swornhold (Neutral Evil, Human, he/him) :: A fifty-year-old exiled adventurer, broad and scarred, who sells his sword to anyone and has chosen to live.
+> Harko Swornhold (Neutral Evil, Illuskan Human, he/him) :: A fifty-year-old exiled adventurer, broad and scarred, who sells his sword to anyone and has chosen to live.
 >
 > Harko is blunt and swears freely, and he flatters nobody. He has worked for two employers who do not know about each other, and he keeps his palms where everyone can see them. He answers whoever is nearest and tells the truth, because the truth is all he has left to trade. He will not beg or name the kenku who work for him.
 >

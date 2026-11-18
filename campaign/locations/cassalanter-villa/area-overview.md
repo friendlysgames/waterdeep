@@ -46,7 +46,7 @@ Day: ground floor naturally lit through tall windows; upper floors reliant on co
 
 **Two imps in spider form** (C24, Osvaldo's prison): Passive observers. Attack if Osvaldo is threatened or freed.
 
-**Terenzio and Elzerina Cassalanter** (human children, he/him and she/her; eight, turning nine on Flamerule 11) and **Laiba "Nana" Rosse** (tiefling cult fanatic, she/her): The twins follow the schedule under **The Cassalanter Twins** below and are with Nana Rosse at all times except from 4 to 5 on a day with no event. They are never in C22, C23, C24, the basement, or the temple.
+**Terenzio and Elzerina Cassalanter** (Tethyrian human children, he/him and she/her; eight, turning nine on Flamerule 11) and **Laiba "Nana" Rosse** (tiefling cult fanatic, she/her): The twins follow the schedule under **The Cassalanter Twins** below and are with Nana Rosse at all times except from 4 to 5 on a day with no event. They are never in C22, C23, C24, the basement, or the temple.
 
 ### Inhabitants — Social Events
 

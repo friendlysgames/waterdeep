@@ -79,7 +79,7 @@ Mirt is at his corner table in the Yawning Portal at 17:00, and he does not swea
 
 ### Seldo's Fine Stitches
 
-Seldo Wynd, a human tailor, has been told to expect the party. He fits every character who comes, companions included, in about an hour. The clothes are lent until noon the day after the salon.
+Seldo Wynd, a Turami human tailor, has been told to expect the party. He fits every character who comes, companions included, in about an hour. The clothes are lent until noon the day after the salon.
 
 > [!exploration]**The Fitting**
 >
@@ -240,7 +240,7 @@ Four other guests have nothing for the party: a retired naval officer, an ambass
 
 > [!social]**The Club Gossip**
 >
-> Lord Aldric Talmost (Neutral, Human, he/him) :: a minor noble who repeats fragments about the vault because they win him attention.
+> Lord Aldric Talmost (Neutral, Tethyrian Human, he/him) :: a minor noble who repeats fragments about the vault because they win him attention.
 >
 > Aldric loves a story and is flattered by interest. He does not understand what his fragments mean.
 >

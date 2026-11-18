@@ -22,7 +22,7 @@ Herath hands over the note on Day 9 instead of the last morning, so that **Herat
 
 The following are new and have no Notable Figures pages:
 
-- Mareva Coile, the route coordinator, and her four supervisors Delvon Harsk, Hadrin Wenlow, Bremma Dunnet and Cass Fildura. Mareva's ethnicity is invented as Turami Human.
+- Mareva Coile, the route coordinator, and her four supervisors Delvon Harsk, Hadrin Wenlow, Bremma Dunnet and Cass Fildura. Mareva's ethnicity is invented as Turami Human. The three supervisors with no stat line are invented as humans too: Hadrin Wenlow as Tethyrian, Bremma Dunnet as Illuskan and Cass Fildura as Turami.
 - Pirn, the street agent, who has no profile and no alignment on any page.
 - Tallowmere Street, which the first draft called Margaster Street in the Dock Ward and this version places in the Trades Ward.
 - The cart yard behind the Muleskull, the loose brick in its back wall, the duty book and the cooper's yard with the sewer hatch.

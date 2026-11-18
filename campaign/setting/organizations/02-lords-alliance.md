@@ -27,7 +27,7 @@ Its members are contacted in person. A runner in a plain Watch tabard brings a c
 
 - **Jalester Silvermane** — Chondathan human field operative from Cormyr who reports to Laeral Silverhand and delivers every mission in person. See the **Jalester Silvermane** page in Notable Figures.
 - **Laeral Silverhand** — Open Lord of Waterdeep and the Alliance's ultimate authority in the city. See the **Laeral Silverhand** page in Notable Figures.
-- **Sevel Dastar** — A middle-aged human in a plain brown coat who serves as the Alliance's contact at the Portal when Jalester cannot be.
+- **Sevel Dastar** — A middle-aged Chondathan human in a plain brown coat who serves as the Alliance's contact at the Portal when Jalester cannot be.
 
 ## Grand Game Agenda
 

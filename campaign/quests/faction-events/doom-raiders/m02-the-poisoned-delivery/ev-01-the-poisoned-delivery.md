@@ -181,7 +181,7 @@ The hire-coach is in place by 17:45 and waits until 19:00. Esvele Rosznar rides 
 
 > [!social]**The Lady in the Purple Cloak**
 >
-> Esvele Rosznar, the Black Viper (Chaotic Neutral, Human, she/her) :: a noblewoman turned cat burglar who is in a hurry, amused, and careful to reveal nothing.
+> Esvele Rosznar, the Black Viper (Chaotic Neutral, Tethyrian Human, she/her) :: a noblewoman turned cat burglar who is in a hurry, amused, and careful to reveal nothing.
 >
 > Esvele keeps the hood of a purple cloak drawn low and does not offer her name. She talks as the Viper does, in low, quick, teasing sentences, and she compliments locks and insults their owners. She has a black velvet pouch of 15 platinum pieces (150 gp) ready in her lap before the party has stopped walking. She expects the exchange to take under a minute, and she leaves at once when it is done.
 >

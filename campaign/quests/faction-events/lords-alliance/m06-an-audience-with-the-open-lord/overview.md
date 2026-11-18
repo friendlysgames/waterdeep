@@ -73,7 +73,7 @@ Each participating Lords' Alliance member gains 4 base Renown for attending the 
 
 - **Laeral Silverhand** (City of Waterdeep): the Open Lord, who asks the three questions and signs the Writ.
 - **Jalester Silvermane** (Lords' Alliance): takes the members' report at the well table, and is not present at the audience.
-- **Sevel Dastar** (Lords' Alliance): a middle-aged human spy in a plain brown coat, who takes the report and every later contact if Laeral learns about Jalester.
+- **Sevel Dastar** (Lords' Alliance): a middle-aged Chondathan human spy in a plain brown coat, who takes the report and every later contact if Laeral learns about Jalester.
 - **Maelis Venning** (City of Waterdeep): the Castle Ward Watch sergeant who delivers the summons.
 - **Jorin Larkin** (City of Waterdeep): the Watchman who stands beside her.
 - **The Splinter** (Splinter cell): sends the offer through a go-between and is never present.

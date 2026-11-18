@@ -13,7 +13,7 @@
 
 > [!gamemaster]**What the Splinter Wants**
 >
-> The kill team is what remains of Manshoon's Splinter field force after **Kolat Towers**, and it answers to Ondra Kell (Lawful Evil, Human, she/her), a Splinter field officer who commanded one of the tower's outer patrols and survived the night the party raided it. While the Splinter swept the tower's outbuildings afterward, its agents found a rooftop hide overlooking the upper walls of the force field, with a half-orc's boot prints and black-fletched arrows in it. Ondra decided that whoever watched the gaps in the field had helped the party through it, and she took five others to kill him. She found Trollskull Alley through Skeemo Weirdbottle. If **Skeemo at Kolat Towers** was marked in **Silencing Skeemo**, Skeemo told her himself that Ziraj keeps a room near Corellon's Crown. Otherwise the Splinter's old files on the Doom Raiders, which Skeemo fed it for two months, put Ziraj somewhere in Trollskull Alley without saying where.
+> The kill team is what remains of Manshoon's Splinter field force after **Kolat Towers**, and it answers to Ondra Kell (Lawful Evil, Damaran Human, she/her), a Splinter field officer who commanded one of the tower's outer patrols and survived the night the party raided it. While the Splinter swept the tower's outbuildings afterward, its agents found a rooftop hide overlooking the upper walls of the force field, with a half-orc's boot prints and black-fletched arrows in it. Ondra decided that whoever watched the gaps in the field had helped the party through it, and she took five others to kill him. She found Trollskull Alley through Skeemo Weirdbottle. If **Skeemo at Kolat Towers** was marked in **Silencing Skeemo**, Skeemo told her himself that Ziraj keeps a room near Corellon's Crown. Otherwise the Splinter's old files on the Doom Raiders, which Skeemo fed it for two months, put Ziraj somewhere in Trollskull Alley without saying where.
 >
 > Who sent the team depends on which Manshoon Event Outcome the party marked in **Kolat Towers** Scene 6:
 >
@@ -184,7 +184,7 @@ If the party takes Ondra alive, she is wounded, furious and completely professio
 
 > [!social]**Ondra Kell**
 >
-> Ondra Kell (Lawful Evil, Human, she/her) :: a Splinter field officer in a grey coat, bitter at losing half her team and careful about what she says.
+> Ondra Kell (Lawful Evil, Damaran Human, she/her) :: a Splinter field officer in a grey coat, bitter at losing half her team and careful about what she says.
 >
 > Ondra speaks in complete, clipped sentences and doesn't plead. She swears occasionally and sharply, mostly at the Doom Raiders and at Ziraj by name. She trades information for her life and nothing else, and she won't say anything about Manshoon's current location. If the party turns her over to Yagra, the Doom Raiders hold her. If the party lets her go, mark **Splinter Survivor Escaped**.
 

@@ -66,7 +66,7 @@ The second half of the work happens the next morning in the Dock Ward, where Tar
 
 > [!social]**The Fence Who Sells Both Sides**
 >
-> Tarn Hobble (Neutral, Human, he/him) :: a Dock Ward fence who sold the Guild's clerks a sighting and would sell them the opposite for a better price.
+> Tarn Hobble (Neutral, Illuskan Human, he/him) :: a Dock Ward fence who sold the Guild's clerks a sighting and would sell them the opposite for a better price.
 >
 > Tarn is quick, dry and tired, and he says "fuck" casually and without malice. He sells what he sees to whoever asks and has no loyalty to the Guild or to anyone who threatens him. He talks fast when he is nervous and slowly when he is lying, and he coughs in between. A character who offers money and a story he can believe finds him easy. A character who threatens him finds the door open behind him.
 >

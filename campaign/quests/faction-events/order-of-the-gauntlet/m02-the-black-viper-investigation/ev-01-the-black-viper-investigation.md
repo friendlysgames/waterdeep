@@ -36,7 +36,7 @@ Savra knocks once at dawn and waits on the step until a member asks her in. She 
 
 > [!social]**The Knight at the Door**
 >
-> Savra Belabranta (Neutral Good, Human, she/her) :: a Knight of the Order in her late twenties with dark hair worn back. She briefs standing and does not soften what she says.
+> Savra Belabranta (Neutral Good, Tethyrian Human, she/her) :: a Knight of the Order in her late twenties with dark hair worn back. She briefs standing and does not soften what she says.
 >
 > Savra pauses before every serious answer and says what she knows in plain order. She swears rarely and only at wrongdoing, and she gives a single nod to an honest answer and nothing to a managed one. She calls Tyr the Maimed God and voices every suspicion as a suspicion.
 >
@@ -162,7 +162,7 @@ The Hall of Records is open from 09:00 to 17:00, and Ilmeth Waevlur sits the Sea
 
 > [!social]**The Retired Clerk**
 >
-> Ilmeth Waevlur (Lawful Good, Human, he/him) :: a retired clerk of seventy who worked the Sea Ward shelves for thirty years and still sits them by habit.
+> Ilmeth Waevlur (Lawful Good, Tethyrian Human, he/him) :: a retired clerk of seventy who worked the Sea Ward shelves for thirty years and still sits them by habit.
 >
 > Ilmeth is precise and fond of a good error. He speaks slowly, checks every date twice and is delighted by a forgery. He swears only at bad handwriting, and he warms at once to anyone who mentions the Order, because the Halls once found his sister's stolen deed.
 >

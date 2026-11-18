@@ -71,7 +71,7 @@ If the candidates leave her on the step, she repeats the offer once and then wai
 
 > [!social]**The Knight of the Gauntlet**
 >
-> Savra Belabranta (Neutral Good, Human, she/her) :: a knight in her late twenties who looks older. She wears her dark hair back, has a strong jaw and speaks in a measured way.
+> Savra Belabranta (Neutral Good, Tethyrian Human, she/her) :: a knight in her late twenties who looks older. She wears her dark hair back, has a strong jaw and speaks in a measured way.
 >
 > Savra is Friendly but guarded, and she pauses before every serious answer. She gives the hard fact first and the reasoning after it, and she softens nothing. Her warmth shows in what she does, and she gives a single measured nod to an honest answer. She calls Tyr "the Maimed God" and swears rarely, in short bursts aimed at wrongdoing.
 >
@@ -239,7 +239,7 @@ If a candidate asks for time, read or paraphrase the following:
 
 > [!social]**The Priest of Tyr**
 >
-> Father Corwen Thale (Lawful Good, Human, he/him) :: a gray-haired priest of Tyr with a calm, gravelly voice and a missing left hand. He has presided over the Order's oaths for twenty years.
+> Father Corwen Thale (Lawful Good, Illuskan Human, he/him) :: a gray-haired priest of Tyr with a calm, gravelly voice and a missing left hand. He has presided over the Order's oaths for twenty years.
 >
 > Father Corwen is Friendly and patient. He answers in short, plain sentences and says "the Just God" whenever he speaks of Tyr. He swears rarely, and only mildly.
 >

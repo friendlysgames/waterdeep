@@ -44,7 +44,7 @@ At noon on the day after the member reaches Renown 3, a **Priest Acolyte** in a 
 
 > [!social]**The Knight of the Gauntlet**
 >
-> Savra Belabranta (Neutral Good, Human, she/her) :: the Order's knight in Waterdeep. She is a woman in her late twenties with dark hair worn back, a strong jaw and a silver gauntlet pin at her collar.
+> Savra Belabranta (Neutral Good, Tethyrian Human, she/her) :: the Order's knight in Waterdeep. She is a woman in her late twenties with dark hair worn back, a strong jaw and a silver gauntlet pin at her collar.
 >
 > Savra treats the rank as a working arrangement and goes through it quickly. She states each limit before she describes the benefit it belongs to, and she pauses before every serious answer. She gives a single measured nod to an honest question and swears rarely, in short bursts aimed at wrongdoing.
 >
@@ -146,7 +146,7 @@ A Marcheon operation counts as Savra fighting beside the member for **Savra's Pa
 
 > [!social]**The Keeper of the Armory**
 >
-> Brother Osric Wickersham (Lawful Good, Human, he/him) :: a stooped lay brother in his sixties with ink on his cuffs and the armory key on a cord at his neck.
+> Brother Osric Wickersham (Lawful Good, Tethyrian Human, he/him) :: a stooped lay brother in his sixties with ink on his cuffs and the armory key on a cord at his neck.
 >
 > Osric counts each item aloud as he hands it over and writes it in a ledger in a slow, careful hand. He speaks plainly and does not swear. He is fond of the gear in his care and says "Mind it" when he gives anything out.
 >

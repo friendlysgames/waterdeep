@@ -136,7 +136,7 @@ The Southern Ward is the caravan district of Waterdeep, a ward of stables, inn y
 > #### GM Notes
 > - Victoro Cassalanter gave her two missions, to retrieve an Eye of the Stone of Golorr from the Brandath Crypts and to silence three cult members who knew too much. She and Arn killed two, and Vaelle Lurval survived. Victoro does not know, and Seffia means to repair the failure without telling him.
 
-**Arn Xalrondar (Lawful Evil, Human, he/him)**
+**Arn Xalrondar (Lawful Evil, Tethyrian Human, he/him)**
 - A cult fanatic who shares the windmill with Seffia, defers to her on all planning and does not draw attention to himself. She speaks to him in half-sentences that he completes.
 - Hook: his Book of Worship, found in the Asmodean Shrine on Aveen Street, names him and gives the windmill as the place of assembly. The handprints in the apartment match those at **Cassalanter Villa**.
 
@@ -145,7 +145,7 @@ The Southern Ward is the caravan district of Waterdeep, a ward of stables, inn y
 > #### GM Notes
 > - Arn acts on his own when Seffia is out of the room. He sent the Eye away with a spined devil rather than let the party take it, and he believes the decision was correct.
 
-**Manshoon (Lawful Evil, Human, he/him)**
+**Manshoon (Lawful Evil, Vaasan Human, he/him)**
 - A clone of one of the Zhentarim's founders, a wizard who lost his left arm to Halaster Blackcloak and wears a crafted replacement. The Zhentarim operatives on the city's streets answer to him, and none of them will say so. He leads the Splinter cell, which is **Manshoon's Zhentarim** and not the Doom Raiders.
 - Hook: the party has no name for him until **Manshoon Named** is marked for a member.
 
