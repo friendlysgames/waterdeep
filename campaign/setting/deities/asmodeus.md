@@ -105,7 +105,7 @@ Asmodeus is the god of indulgence and the ruler of the Nine Hells, an archdevil 
 
 - **The Cassalanters** (Organizations): who the family is and who serves it.
 - **The Cassalanters** (Villains): phases, the Asmodeus relationship row, goals.
-- **The Cassalanters** (Faction Operations): operations, response teams, revelation list.
+- **The Cassalanters** (Factions Guide): operations, response teams, revelation list.
 - **Victoro Cassalanter**, **Ammalia Cassalanter**, **Osvaldo Cassalanter**, **Terenzio Cassalanter**, **Elzerina Cassalanter**, **Willifort Crowelle**, **Seffia Naelryke** (Notable Figures): the pact's signatories, victims and servants.
 - **Vessa** (Notable Figures): how Jarlaxle knows.
 - **Cassalanter Villa** (quest and location): the temple beneath the villa and the four resolutions of the pact. The Asmodean Shrine is the family's separate outpost on Aveen Street, in the North Ward.
@@ -119,6 +119,6 @@ Asmodeus is the god of indulgence and the ruler of the Nine Hells, an archdevil 
 > - **Research:** Areas of Concern are derived from the FRHoF and SCAG entries, which list none.
 > - **Derived:** Order Domain for the cleric with Trickery Domain as the alternative, Thaumaturge, Oathbreaker for the paladin with Oath of Conquest as the alternative, and Fiend Patron for the warlock. No campaign file or 5etools entry ties a PC class to him. [research] for any scene or rule that does.
 > - **Research:** Which of his names Waterdhavians actually use. The epithet line leads with the Lord of the Ninth because the Overview says the people of the North call him that, and the usage of The Cloven and Old Hoof and Horn is unsourced.
-> - **Conflicts:** The Cross-References name the Cassalanters (Faction Operations), where the operations text lives.
+> - **Conflicts:** The Cross-References still name the Cassalanters (Factions Guide). The operations text now lives on the Cassalanters page in Faction Operations, so retarget this line when the guide pages are removed.
 > - **Routed facts:** The Fugue Plane pitch and the priests' recruiting methods are candidate doctrine for the "Doctrine and Rites" slot in Tenets on the Cassalanters organization page.
 > - **Routed facts:** The four resolutions of the pact belong in **Cassalanter Villa** and stay out of this page. Jeryth's sense of infernal influence belongs on the Emerald Enclave page, where it already sits.

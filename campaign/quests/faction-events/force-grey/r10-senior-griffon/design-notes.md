@@ -2,7 +2,7 @@
 
 ## What the Source Gave
 
-Appendix B and **Faction Operations** give Senior Griffon four things: a Tower mage for one operation per quest, a *wand of secrets* if the party lacks one, Friendly city officials and Masked Lords, and written authorization at DC 12 Charisma during a non-crisis period for the City of the Dead at night, sealed evidence vaults and private Watch armories. The restored draft named the mage Aldris Maeven, gave her no limits, and said "skip" when the party held a wand. It had no procedures and no Ally Power.
+Appendix B and the Factions Guide give Senior Griffon four things: a Tower mage for one operation per quest, a *wand of secrets* if the party lacks one, Friendly city officials and Masked Lords, and written authorization at DC 12 Charisma during a non-crisis period for the City of the Dead at night, sealed evidence vaults and private Watch armories. The restored draft named the mage Aldris Maeven, gave her no limits, and said "skip" when the party held a wand. It had no procedures and no Ally Power.
 
 ## What Changed
 

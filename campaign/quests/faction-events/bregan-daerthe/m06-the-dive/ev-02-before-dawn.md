@@ -255,7 +255,7 @@ The Event concludes when the member has reported to Krebbyg and Fel'rekt in the 
 >
 > - A member's next Bregan D'aerthe event is **Commander**, which fires when an individual member reaches Renown 25.
 > - **Houseless Noble** fires at Renown 50 and is expected during Dungeon of the Mad Mage.
-> - Base awards total 19 across the six missions. The bonus lines and the Earning Renown list in **Faction Operations** supply the rest.
+> - Base awards total 19 across the six missions. The bonus lines and the guide's Earning Renown list supply the rest.
 > - The party continues to **Vault of Dragons** when its Eyes are restored.
 >
 > This Event awards no Milestone Points.

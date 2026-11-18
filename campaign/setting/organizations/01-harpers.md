@@ -38,7 +38,7 @@ The Harpers will happily allow the PCs to keep Neverember's gold. What they want
 
 ## Cross-References
 
-- **Harpers** (Faction Operations): Grand Game stance, quest hooks, first meeting, renown and ranks, missions.
+- **Harpers** (Factions guide): Grand Game stance, quest hooks, first meeting, renown and ranks, missions.
 
 ## Overview
 

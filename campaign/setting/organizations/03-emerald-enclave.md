@@ -43,7 +43,7 @@ The Emerald Enclave has no interest in the gold, and its aid carries no hidden p
 
 ## Cross-References
 
-- **Emerald Enclave** (Faction Operations): Grand Game stance, quest hooks, first meeting, renown and ranks, missions.
+- **Emerald Enclave** (Factions guide): Grand Game stance, quest hooks, first meeting, renown and ranks, missions.
 
 ## Overview
 

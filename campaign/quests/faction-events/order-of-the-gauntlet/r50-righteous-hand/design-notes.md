@@ -2,7 +2,7 @@
 
 ## What the Source Gave
 
-Appendix B and the Faction Operations page give Righteous Hand a mobilization of six Knights and two Priests, a knighthood recognized by allied temples, and one free Resurrection. The restored draft added a summons to Trollskull Manor, a ceremony with Sister Valdra as witness, a Mandate that extends the Order underground and a branch on **Vault of Dragons**. It had Savra say she gave the rank "four years ago", named *Resurrection* a 5th-level spell and ended on a True or False heading with no outcome for the rank itself.
+Appendix B and the Factions Guide give Righteous Hand a mobilization of six Knights and two Priests, a knighthood recognized by allied temples, and one free Resurrection. The restored draft added a summons to Trollskull Manor, a ceremony with Sister Valdra as witness, a Mandate that extends the Order underground and a branch on **Vault of Dragons**. It had Savra say she gave the rank "four years ago", named *Resurrection* a 5th-level spell and ended on a True or False heading with no outcome for the rank itself.
 
 ## What Changed
 
@@ -19,7 +19,7 @@ Invented: Isaldric Veyne, Sir Aldwin Dunhallow, Dame Corra Whitlock, Sir Gavric 
 Also invented are the list of cities that honor the writ, the six-day-plus rule for an aid call, the round-3 arrival of the reserve Knights and the courier's table at the Yawning Portal. The four Mad Mage seeds come from the adventure at levels 15, 21, 22 and 23.
 
 For the out-of-scope log:
-- Faction Operations `04-order-of-the-gauntlet.md`, `players-guide/faction-affiliations.md:96` and `gm-guide/player-factions-overview.md:101` say Savra convenes the investiture, each party member is knighted, and the Resurrection covers death "against a fiend or undead". Here Veyne invests, only the qualifying member is knighted, and the pledge has no cause condition.
+- Factions Guide `05-order-of-the-gauntlet.md:58`, `players-guide/faction-affiliations.md:96` and `gm-guide/player-factions-overview.md:101` say Savra convenes the investiture, each party member is knighted, and the Resurrection covers death "against a fiend or undead". Here Veyne invests, only the qualifying member is knighted, and the pledge has no cause condition.
 - The same rows omit the Undermountain Mandate and its aid call.
 - `arc-j-vault-of-dragons.md` and the Righteous Hand reader line should not expect a Vault branch from this Event.
 - The 2024 *Resurrection* penalty text and the rule that the body must be intact were not re-read from the spell data, and the Event relies on the mechanics reference.

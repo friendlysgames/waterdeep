@@ -10,7 +10,7 @@ The other First Meetings leave the door open to a deferred candidate. This one d
 
 ## The Cloak and the Grant
 
-The Cloak carries no token, because Jalester sends the new names to the Watch houses, and the overlook covers one minor infraction each tenday before any charge is written. That wording keeps it apart from Redknife string-pulling, which undoes a charge or report after it is written. The patrol note comes from the Faction Operations page, which gives it at Renown 3. Here it arrives with the Cloak at Renown 1, so a new member has it for the first missions. The grant is party-level, once, because the manor is shared. The Fellowship licence cut is passive and gets one line.
+The Cloak carries no token, because Jalester sends the new names to the Watch houses, and the overlook covers one minor infraction each tenday before any charge is written. That wording keeps it apart from Redknife string-pulling, which undoes a charge or report after it is written. The patrol note comes from the Factions Guide, which gives it at Renown 3. Here it arrives with the Cloak at Renown 1, so a new member has it for the first missions. The grant is party-level, once, because the manor is shared. The Fellowship licence cut is passive and gets one line.
 
 ## Departures
 
@@ -22,7 +22,7 @@ The earlier draft cited the Candle Lane warehouse as a Xanathar's Guild scene. T
 - The summons is an unnamed Watch runner (a Commoner in a plain tabard) with a card folded in thirds and sealed in grey wax. Jalester pays him a silver to wait for no reply, and later Lords' Alliance events reuse the runner and the wax.
 - Invented details: Durnan's notes behind the bar (the drop at the Portal, which r03, r10 and r25 should use) and the three-day muster.
 - Further invented details: the minor-infraction list, the "which door" and "back door" questions and the manor-damp check.
-- Jalester's mention of Luskan's bid for a seat uses the public fact in the Faction Operations page.
+- Jalester's mention of Luskan's bid for a seat uses the public fact in the Factions Guide.
 - `ev-04-the-factions-come-calling.md:26` still gives "civic-minded track record" as the eligibility, and `:100` still writes a True or False heading for Joined.
 - `03-lords-alliance.md:12` gives patrol schedules at Renown 3. `:34-36` says Jalester leaves after the Condition, with no answer scene.
 - Appendix B calls Jalester middle-aged, and Waterdeep: Dragon Heist calls him mid-twenties. This page follows his Notable Figures page on his age.

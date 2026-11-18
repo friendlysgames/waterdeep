@@ -42,7 +42,7 @@ These come from `CLAUDE.md`. A file that breaks one is an ERROR unless a ruling 
 - Campaign state is recorded as named Event Outcomes. There are no flags, no `#### Flag: True / False` headings and no "attunement" blocks.
 - No XP; Milestone Points only.
 - Calendar: start Ches 1, Grand Opening Ches 20, Tarsakh 20, Flamerule 1 (Founders' Day) and Flamerule 11.
-- Faction mechanics live in the faction-operations pages (`campaign/setting/faction-operations/`); faction lore lives in the organization pages.
+- Faction mechanics live in the Factions Guide (`campaign/guides/factions/`); the setting journal is lore only, so faction lore lives in the organization pages and there is no faction-operations journal.
 
 ## The checks
 
@@ -54,7 +54,7 @@ These come from `CLAUDE.md`. A file that breaks one is an ERROR unless a ruling 
 - **stone**: the three lair heists (Xanathar's Lair, Cassalanter Villa, Sea Maidens Faire) each yield one Eye and Kolat Towers none. Upgrades are framed by Eyes restored (first, second, third), with both orders covered at two. The Vault of Dragons holds the Full Awakening scene. Where the Eyes came from follows the caller's rulings.
 - **milestones**: Finding Floon 2, Trollskull Alley 3, Fireball! 2, Gralhund Villa 2 (level 4 at 9), Faction Outposts 1, each lair heist 4 (first reaches level 5, second level 6, fourth level 7), Vault of Dragons 2 (three heists end at level 7, four at level 8; level 8 at 28). Faction missions award none. Show the sums.
 - **clues**: three independent paths for each beat: Floon and the sewer hideout; the nimblewright and the House of Inspired Hands; Dalakhar and the Stone; Gralhund Villa; each Faction Outposts chain entry; Xanathar's Lair, Cassalanter Villa and Sea Maidens Faire each pointing to Kolat Towers; Kolat Towers' haul enabling the Vault approach.
-- **crossrefs**: bold cross-references name pages that exist and mean the right page; references to "Faction Operations" point at the faction-operations pages, and no live page still cites the retired Factions Guide.
+- **crossrefs**: bold cross-references name pages that exist and mean the right page; references to the Factions Guide point at pages in `campaign/guides/factions/`, and no page cites a "Faction Operations" journal.
 
 ## Working method
 

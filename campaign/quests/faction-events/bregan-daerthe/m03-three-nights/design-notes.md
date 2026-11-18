@@ -42,7 +42,7 @@ Ott vanishes with the bands and reappears in Xanathar's Lair by morning with no 
 - The Ott entry in **Faction Outposts** (`arc-e-faction-outposts.md`, around line 209) calls him a gnome.
 - The Notable Figures page for Ott names his stat block "Cult Fanatic", the 2014 name for the 2024 Cultist Fanatic.
 - The Trollskull Manor area overview (`area-overview.md`, around line 41) says Lif was a dwarf, and his Notable Figures page says half-elf.
-- The First Meeting says nothing about the pouches. **Faction Operations** and **Coin Pouches** give the second one a note, and this mission follows **Coin Pouches**.
+- The First Meeting says nothing about the pouches. The Factions Guide and **Coin Pouches** give the second one a note, and this mission follows **Coin Pouches**.
 - **Faction Outposts** is unconverted and is named as the reader of **Ott Kept** and **Ott Lost**.
 - Invented details are Fel'rekt on the roof, the Guild's cart at the alley mouth, the flying snake's blue-and-orange scales, the 30-foot distance from the grate to Ott's corner, the six-round clock and Lif's four-effect list.
 - The oldest of the plain Dungsweepers is unnamed.

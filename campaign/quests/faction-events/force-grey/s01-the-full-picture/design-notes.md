@@ -17,7 +17,7 @@ The vouched non-member route is cut, so only Force Grey members are briefed and 
 ## Invented Names and Open Items
 
 - No new names. The *Sending* text, the "three wards" and the grey wax seal are invented details.
-- Open: the Force Grey page in **Faction Operations**, `05-force-grey.md` line 43, still says "consistent with binding circles". It should read "conjuration and abjuration residue".
+- Open: the Force Grey factions guide, `06-force-grey.md` line 30, still says "consistent with binding circles". It should read "conjuration and abjuration residue".
 - Open: **Vault of Dragons** (unconverted) reads **Vajra Briefed** in its old True/False form, and `arc-j-vault-of-dragons.md` line 51 still describes the Open Lord's arrival that way.
 - Open: **Manshoon Named** is written by **Faction Outposts**, which is unconverted. Until it exists, the Splinter line is the default.
 - Open: a member with neither **Hlam Consulted** nor a **Cassalanter Villa** hook gets a question in place of a third confirmation.

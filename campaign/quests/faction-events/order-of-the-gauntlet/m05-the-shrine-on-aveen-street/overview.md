@@ -20,7 +20,7 @@ A Priest Acolyte brings a note from the Halls of Justice, and Savra meets the me
 
 Gysheer Omfreys's Garrowby Cartage receipt for nine crates and her day-book pointed at a cellar door in a yard on Aveen Street, and Savra found the lease in the Halls' rolls. A charity called the Aveen Street Almsgivers' Society took the cellar of Orros's chandlery six years ago, and nobody has met a member of it. Savra cannot enter without a magistrate's warrant, because the Code Legal protects any place of worship, and a warrant needs a document the Order does not have.
 
-The cellar is a back way into the Asmodean shrine on Aveen Street, whose main house stands across the street in the North Ward. The party enters the stair room and the circle room, and the other areas of the shrine stay with the Cassalanters page in Faction Operations.
+The cellar is a back way into the Asmodean shrine on Aveen Street, whose main house stands across the street in the North Ward. The party enters the stair room and the circle room, and the other areas of the shrine stay with the Cassalanters Factions Guide.
 
 > [!gamemaster]**What Is Actually True**
 >

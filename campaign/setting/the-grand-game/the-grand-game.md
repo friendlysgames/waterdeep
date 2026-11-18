@@ -7,7 +7,7 @@
 > - This is the in-world frame for the Grand Game, the campaign's name for the competition among Waterdeep's power blocs. It covers what the Game is, how information moves between its players and how the City Watch behaves as a character in it.
 > - Use it when you explain how a faction learned something, when a contact trades gossip and when the party deals with the Watch. The Game is already running when the campaign opens, so the frame applies in every act.
 > - The channels appear wherever the party meets one: Durnan in **Finding Floon** and **Trollskull Alley**, Istrid Horn in **Trollskull Alley** and **Gralhund Villa**, and Barnibus Blastwind in **Fireball!** and **Gralhund Villa**. The Cassalanters' social events appear in **Fireball!** and **Cassalanter Villa**, and the Faire's ships appear in **Sea Maidens Faire**. **The City Watch** lists the Watch's own scenes.
-> - **What Each Faction Knows at Start** holds the starting-knowledge table for the four villain factions and the Doom Raiders. Response teams, outposts, escalation rows and revelation lists live in the Faction Operations page for each faction. The between-sessions routine lives in **The Grand Game in Play** and the reference tables in **Running the Villains**, both in the GM Guide. Who each faction is lives in the Organizations pages.
+> - **What Each Faction Knows at Start** holds the starting-knowledge table for the four villain factions and the Doom Raiders. Response teams, outposts, escalation rows and revelation lists live in the Factions Guide page for each faction. The between-sessions routine lives in **The Grand Game in Play** and the reference tables in **Running the Villains**, both in the GM Guide. Who each faction is lives in the Organizations pages.
 
 **Purpose:** Gives the GM the in-world frame for the faction competition, meaning how power actually works in Waterdeep, with no faction stats.
 
@@ -68,7 +68,7 @@ Waterdhavians use "the Grand Game" as a name for the way the great houses and th
 - **Running the Villains** and **The Grand Game in Play** (GM Guide): the reference tables, the escalation table and the between-sessions routine.
 - **Xanathar**, **Manshoon**, **The Cassalanters** and **Jarlaxle Baenre** (Villains): the personality-phase pages for the villain factions.
 - **Xanathar's Guild**, **Manshoon's Zhentarim**, **The Cassalanters**, **Bregan D'aerthe** and **The Zhentarim (Doom Raiders)** (Organizations): who each faction is.
-- **Xanathar's Guild**, **Manshoon's Zhentarim**, **The Cassalanters** and **Bregan D'aerthe** (Faction Operations): response teams, outposts, escalation and revelation lists.
+- **Xanathar's Guild**, **Manshoon's Zhentarim**, **The Cassalanters** and **Bregan D'aerthe** (Factions Guide): response teams, outposts, escalation and revelation lists.
 - **The City Watch**, **The Open Lord and the Masked Lords** and **A City Watching Itself** (History): the Watch's cases, the Masked Lords and Laeral's information.
 - **The Stone of Golorr and the Eyes** and **The Vault of Dragons and Neverember's Embezzlement**: the Stone and the gold that the Game is fought over.
 - **Durnan**, **Barnibus Blastwind**, **Saeth Cromley**, **Istrid Horn**, **Skeemo Weirdbottle**, **Nar'l Xibrindas**, **Vessa**, **Jarlaxle Baenre**, **Laeral Silverhand** and **Jalester Silvermane** (Notable Figures): the people named on this page.

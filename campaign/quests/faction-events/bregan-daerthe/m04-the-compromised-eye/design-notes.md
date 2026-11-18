@@ -27,5 +27,5 @@ The restored draft had **Nar'l Active**, **Nar'l Extracted** and **Nar'l Elimina
 Tarn Hobble and Dorrim Ketch are invented, as is Arannis Nur'zekk's role as spokesman for the four drow. WDH names the four drow and does not say which of them speaks. Nevercott has no voice profile, and his letter is written from his persona in the First Meeting. The grell, the Guild's response and Ahmaergo's clerks have no profiles and speak only where needed.
 
 - **Xanathar's Lair** (unconverted) has to read **Nar'l Cleared**, **Nar'l Active**, **Nar'l Extracted**, **Nar'l Eliminated** and **Nar'l Bypass Learned**, and it contradicts the restored draft on Nar'l's tenure.
-- The Renown 5 extraction benefit on the *Scarlet Marpenoth*, on the Bregan D'aerthe page in **Faction Operations**, is not implemented here.
-- The Mission 4 summary on that page says "Jarlaxle forbids killing him," which the tiered order contradicts, and the page still lists the three approaches under the old wording.
+- The guide's Renown 5 extraction benefit on the *Scarlet Marpenoth* is not implemented here.
+- The guide's M4 summary says "Jarlaxle forbids killing him," which the tiered order contradicts, and the guide still lists the three approaches under the old wording.

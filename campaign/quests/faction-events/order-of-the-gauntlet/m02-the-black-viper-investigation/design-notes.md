@@ -25,4 +25,4 @@ Items for the out-of-scope log:
 - **The Wazoo Affair** (`ev-01:27`) says Seffia Naelryke planted the story. This mission uses an alias, so the line needs a pass.
 - Savra's Notable Figures page calls her "neutral good" and "Tethyrian"; the brief makes her Lawful Good and the page's Featured-in list needs her new mission titles.
 - Seffia's page still lists this mission and gives her "Cult Fanatic," the 2014 name.
-- The Faction Operations row says the trail touches the Grand Game "in ways Savra doesn't yet realize," which this rewrite does not support.
+- The Factions Guide row says the trail touches the Grand Game "in ways Savra doesn't yet realize," which this rewrite does not support.

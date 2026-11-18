@@ -74,7 +74,7 @@ Seffia Naelryke is a Tethyrian human woman who maintains a decrepit windmill in 
 - `campaign/setting/notable-figures/cassalanters/10-seffia-naelryke.md` (previous version): Gamemaster's Summary, Roleplaying Information, Character Information, Overview line.
 - `sources/adventure-wdh.json` ("Converted Windmill: Summer", p. 88; "Left for Dead", p. 70): Seffia is a lawful evil female Tethyrian Human; Lord Cassalanter's orders to retrieve the Stone and silence three cultists (the remix changes the object to Eye #2); the failure to kill Vaelle Lurval. Lines 8317-8319 give Vaelle as a Lawful Evil female Tethyrian human cultist and florist, with Holiver Tornrudder and Kaeth Warloon as the dead.
 - `campaign/setting/organizations/10-cassalanters.md`: Seffia's letter from Lord Cassalanter and her role as field operative.
-- `campaign/setting/faction-operations/10-cassalanters.md`: Seffia's team roster, escalation behavior, Windmill details and the revelation list.
+- `campaign/guides/factions/11-cassalanters.md`: Seffia's team roster, escalation behavior, Windmill details and the revelation list.
 - `campaign/guides/trollskull-manor/09-response-teams-at-the-tavern.md`: her team's reconnaissance at the manor.
 - `campaign/guides/gm-guide/running-the-villains.md`: the Xanathar and Manshoon interaction rows.
 - `campaign/setting/notable-figures/cassalanters/11-arn-xalrondar.md` and `campaign/setting/notable-figures/manshoons-zhentarim/03-vevette-blackwater.md`: the Arn and Vevette connections.
@@ -88,7 +88,7 @@ Seffia Naelryke is a Tethyrian human woman who maintains a decrepit windmill in 
 - **Willifort Crowelle**: the family's blunt instrument, who works with her in hostile mode.
 - **Vevette Blackwater**: refused her Zhentarim channel and holds her visiting card.
 - **The Cassalanters** (Organizations): the family and cult Seffia serves.
-- **Cassalanters** (Faction Operations): her response team, escalation and the Windmill revelation list.
+- **Cassalanters** (Factions guide): her response team, escalation and the Windmill revelation list.
 - **Faction Outposts**: the Converted Windmill outpost.
 - **Cassalanter Villa**: her report and her team's escalation role.
 - **Xanathar's Lair**: where her team competes if the Cassalanters turn hostile.
@@ -99,5 +99,5 @@ Seffia Naelryke is a Tethyrian human woman who maintains a decrepit windmill in 
 > - **Changed (Session 47 consistency pass):** Sea Maidens Faire is dropped from the Relationships paragraph, because no Faire file names Seffia and the Gamemaster's Summary never listed it. Her mission is now to retrieve Eye #2 from the Brandath Crypts rather than the Stone of Golorr (Connections, Persona, Secret and the letter line), and Arn's spined devil carries the Eye. The published adventure has Arn hand the Stone itself to a spined devil.
 > - **Conflicts:** Who leads when Seffia and Willifort Crowelle work together is unsettled (the "Unresolved" line under Willifort in Connections). Zero-prep needs a named lead.
 > - **Conflicts:** The other "Unresolved" lines in Connections (Arn acting alone when she is out of the room, her plan to repair the failure without telling Victoro, and Vevette holding her visiting card) are open hooks, not settled outcomes. Decide at the prose pass which become fixed events.
-> - **Conflicts:** The Cross-References name the **Cassalanters** page in Faction Operations for her response team.
+> - **Conflicts:** The Cross-References name the Factions Guide page for her response team. That text is moving to Faction Operations, so retarget the line when the guide pages are removed.
 > - **Routed facts:** Her letter from Lord Cassalanter and her role as field operative already sit on the Cassalanters organization page. Her report in the hidden compartment of Victoro's desk belongs in the villa location journal (Victoro's Office), where it is keyed.

@@ -17,5 +17,5 @@ The restored *Sending* ran 10 words, and the new one runs exactly 25 and opens w
 Invented: the unnamed library apprentice, the four-hour reading, the three-day book slip, the up-to-four-companion limit on the spell, and Merris's alignment, species and thumb-licking. Merris is voiced from the event text, and the 50 gp and two-potion numbers come from the mechanics reference.
 
 For the out-of-scope log:
-- `campaign/setting/faction-operations/05-force-grey.md:70`, `campaign/guides/players-guide/faction-affiliations.md:108` and `campaign/guides/gm-guide/player-factions-overview.md:113` list *speak with dead* and *see invisibility*, and say the spell is cast "on the party". They also say Common potions are free with no cap.
+- `campaign/guides/factions/06-force-grey.md:55`, `campaign/guides/players-guide/faction-affiliations.md:108` and `campaign/guides/gm-guide/player-factions-overview.md:113` list *speak with dead* and *see invisibility*, and say the spell is cast "on the party". They also say Common potions are free with no cap.
 - **Offerings Kept** is party-level and is read only when a later member reaches Renown 3 after **The Dragon in the Harbor** has run.

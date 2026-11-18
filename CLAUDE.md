@@ -158,6 +158,15 @@ All guide files are structuring drafts; prose-writing pass deferred to final pol
 | `08-notable-patrons.md` | Named patron profiles |
 | `09-response-teams-at-the-tavern.md` | Faction response team rules at the manor |
 
+**Factions Guide** (`campaign/guides/factions/`): factions as game mechanics. Faction lore lives in `campaign/setting/organizations/`.
+
+| File | Contents |
+|---|---|
+| `01-overview.md` | How renown works, running faction missions, page map |
+| `02-harpers.md` … `07-doom-raiders.md` | Player factions: Grand Game Stance, Quest Hooks, First Meeting (summary + link to its event), Renown & Ranks, Missions |
+| `08-bregan-daerthe.md` | Player and villain faction: the player-faction sections plus Response Teams, Outposts, Escalation, Revelation List |
+| `09-xanathars-guild.md`, `10-manshoons-zhentarim.md`, `11-cassalanters.md` | Villain factions: Response Teams, Outposts, Escalation, Revelation List |
+
 The Bestiary (custom monster and boss stat blocks) is not yet drafted.
 
 ### Setting (`campaign/setting/`)
@@ -177,8 +186,7 @@ All setting files are structuring drafts.
 | `villains/cassalanters.md` | Background, 3 phases (Phase 3 dated to Founders' Day), relationships, goals, children timing note, Overview |
 | `villains/jarlaxle.md` | Background, Zardoz Zord phase + adversary/ally tracks, relationships, goals, entry and activation GM Notes (**Jarlaxle Unmasked**, per-character **BD Contact Severed**), Overview |
 | `notable-figures/` | 122 NPC pages in 15 group folders (trollskull-community, independents-allies, independents-adversaries, city-officials, harpers, lords-alliance, emerald-enclave, order-of-the-gauntlet, force-grey, doom-raiders, bregan-daerthe, xanathars-guild, manshoons-zhentarim, cassalanters, gralhunds). One page per NPC: H1, `> [!gamemaster]**Gamemaster's Summary**` box, ## Roleplaying Information, ## Character Information, ## Overview. |
-| `organizations/` | 10 faction pages: 01-harpers through 10-cassalanters. Lore only: Operations, Key Members, Grand Game Agenda, Overview. Game mechanics (stance, hooks, first meeting, renown, missions, response teams, outposts, escalation, revelation lists) live in **Faction Operations**. |
-| `faction-operations/` | GM-only mechanics for the factions: a hub (`00-faction-operations.md`: how renown works, running faction missions, page map) and ten pages, 01-harpers through 10-cassalanters. Player factions: Grand Game Stance, Quest Hooks, First Meeting (summary + link to its event), Renown & Ranks, Missions. Bregan D'aerthe adds Response Teams, Outposts, Escalation, Revelation List; Xanathar's Guild, Manshoon's Zhentarim and the Cassalanters carry only Response Teams, Outposts, Escalation and Revelation List (the Cassalanters also a Grand Game Stance). Moved from the retired Factions Guide. |
+| `organizations/` | 10 faction pages: 01-harpers through 10-cassalanters. Lore only: Operations, Key Members, Grand Game Agenda, Overview. Game mechanics (stance, hooks, first meeting, renown, missions, response teams, outposts, escalation, revelation lists) live in the **Factions Guide**. |
 
 **Gazetteer** (`campaign/gazetteer/waterdeep/`): one page per ward (Castle, Sea, North, Trades, Southern, Dock, Field), each a structuring draft with At a Glance, Landmarks, Characters of Interest, Life in the Ward, Overview and Read Aloud anchors. The former `waterdeep-lore.md` outline is retired (Pass 3); the table at the end of the **Waterdeep** page's Draft Notes shows where each of its bullets went, and older pages still cite it by line as the retired outline. Rulings that bind these pages are in `docs/plans/setting-compendium-pass3-brief.md`; the files still to retarget are in `docs/plans/setting-compendium-pass3-closeout.md`.
 
@@ -352,7 +360,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 **Bregan D'aerthe rejects Lolth:** Bregan D'aerthe has rejected Lolth as its goddess. No member worships her, keeps a shrine to her, or invokes the Spider Queen with devotion. Members speak of her with contempt, as the goddess they walked away from; the zeal a house drow gives Lolth, Soluun gives to Jarlaxle. (User: "Bregan D'aerthe *rejects* Lolth as their goddess.")
 
-**Factions: mechanics vs lore:** Faction game mechanics go in Faction Operations (`campaign/setting/faction-operations/`); faction lore goes in the organization pages. Never put rules, hooks, missions, renown or villain-response mechanics on an organization page.
+**Factions: mechanics vs lore:** Faction game mechanics go in the Factions Guide (`campaign/guides/factions/`); faction lore goes in the organization pages. Never put rules, hooks, missions, renown or villain-response mechanics on an organization page.
 
 **Players' Guide / GM Guide split:** Any content that exists in both guides must follow the superset rule (exception: **About This Campaign** has separate player and GM pages that share no text) — the player version is the safe-to-share subset; the GM version includes everything in the player version plus Holder guidance, Warning callouts, DM-private tone notes, and Design Notes. No content exists only in the player version.
 

@@ -210,7 +210,7 @@ Melannor walks the member back to the gate, and the gravel is quiet under their 
 
 ### Renown Opportunities
 
-The rank event awards no Renown. Each Summerstrider earns further Renown from missions and from the ordinary rewards listed in the Emerald Enclave page in Faction Operations, at their own pace.
+The rank event awards no Renown. Each Summerstrider earns further Renown from missions and from the ordinary rewards listed in the Emerald Enclave page of the Factions Guide, at their own pace.
 
 ### Aftermath
 

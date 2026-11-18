@@ -2,7 +2,7 @@
 
 ## A Charge on the Hull
 
-***The mission used to recover an Eye from a wreck, and now it defends a boat.*** The restored draft sank a ketch with Eye #3 aboard and sent the party after it, racing a Guild dive team. That contradicted campaign canon in two ways. The lair heists and **Sea Maidens Faire** decide who holds the Eyes, and **Xanathar's Lair** has the beholder not knowing what the Eyes are. It also sent a 7th-level party, after all four heists, to recover an Eye they had already collected or lost. The mission now follows **Faction Operations**. Xanathar's divers clamp a limpet charge to the *Scarlet Marpenoth*, and the party removes it before dawn. The event never says whether the submarine carries an Eye, so it stays order-agnostic about who holds them.
+***The mission used to recover an Eye from a wreck, and now it defends a boat.*** The restored draft sank a ketch with Eye #3 aboard and sent the party after it, racing a Guild dive team. That contradicted campaign canon in two ways. The lair heists and **Sea Maidens Faire** decide who holds the Eyes, and **Xanathar's Lair** has the beholder not knowing what the Eyes are. It also sent a 7th-level party, after all four heists, to recover an Eye they had already collected or lost. The mission now follows the Factions Guide. Xanathar's divers clamp a limpet charge to the *Scarlet Marpenoth*, and the party removes it before dawn. The event never says whether the submarine carries an Eye, so it stays order-agnostic about who holds them.
 
 ***The Guild is after an asset, not a prize.*** Ahmaergo treats Bregan D'aerthe as the Guild's enemy and a submarine as the one thing the captain cannot replace. Nothing in this mission can be picked up and carried off, so the stakes stay on the boat and the people around it.
 
@@ -55,7 +55,7 @@ Soluun cannot be killed in this Event. He is a lieutenant-level threat, a Power 
 
 ## Source Departures
 
-***Cut from the draft.*** These are gone: Krenick Durr and the ketch wreck, Eye #3 as the prize, the Pier 17 off Sail Street setting, the paper-bird lookout, the rope-ladder pickup from the *Eyecatcher*, the "committed to Waterdeep for another season" line, the 15-Renown drow disguise resources and the merfolk-as-texture block. The Renown 5+ extraction in **Faction Operations** was never implemented in the Bregan D'aerthe folder and is not implemented here.
+***Cut from the draft.*** These are gone: Krenick Durr and the ketch wreck, Eye #3 as the prize, the Pier 17 off Sail Street setting, the paper-bird lookout, the rope-ladder pickup from the *Eyecatcher*, the "committed to Waterdeep for another season" line, the 15-Renown drow disguise resources and the merfolk-as-texture block. The Renown 5+ extraction in the Factions Guide was never implemented in the Bregan D'aerthe folder and is not implemented here.
 
 ***Invented and unverified.*** Orlo Stannick, Hesk Rooke and Nell Corvane are invented. The limpet charge, the Dawn Clock, the detonation figures and the repair time are invented in the Mechanics Reference. The reserve berth is invented, but the pier's location comes from the Sea Maidens Faire area overview, which puts the *Heartbreaker* and *Hellraiser* at a private pier at Smugglers' Dock. The 150 gp bribe, the 250, 100 and 0 gp purses and the 05:30 first light are my own figures.
 
@@ -63,7 +63,7 @@ Soluun cannot be killed in this Event. He is a lieutenant-level threat, a Power 
 
 These conflicts sit outside the Bregan D'aerthe folder and are logged for the out-of-scope notes.
 
-- The Bregan D'aerthe page in **Faction Operations** (line 27) offers the *Scarlet Marpenoth* as an extraction vehicle at Renown 5 and after Mission 4, which nothing in the folder implements. Line 82 describes the submarine as "moored under the Eyecatcher" for this mission.
+- The Factions Guide (line 16) offers the *Scarlet Marpenoth* as an extraction vehicle at Renown 5 and after Mission 4, which nothing in the folder implements. Line 71 describes the submarine as "moored under the Eyecatcher" for this mission.
 - The arc-h structure doc (lines 9, 71) puts the Faire's ships at a Mistshore pier. The Sea Maidens Faire area overview puts them at a Dock Ward private pier.
 - The arc-j structure doc (line 55) reads "completed Bregan D'aerthe Mission 6" without an outcome. It should read **Marpenoth Saved**, **Marpenoth Crippled**, **Marpenoth Lost** and **Guild Survivor Escaped**.
 - **The Killer's Fate** says Soluun's plea cost "before Tarsakh 20", while this mission runs after the Faire sails. The sale is dated before the Faire left and comes to light here.

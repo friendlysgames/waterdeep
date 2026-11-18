@@ -141,7 +141,7 @@ The note has two parts. Read the part that matches the Guild's current escalatio
 > - **Alert:** "They know who you are, darling. Our friend inside says they want your faces on the wall of every guardroom they own, so sleep somewhere other than your own bed, and I mean that, Fel checked."
 > - **Lockdown:** "They've dropped everything else to find you, darling. Our friend inside says the Xanathar asked for your names in person, so go to ground on the *Heartbreaker*, use the berth, and don't go out alone."
 >
-> The second part names the first Guild response team the party has not beaten. The teams come in this order, from the Response Teams section of the **Xanathar's Guild** page in **Faction Operations**:
+> The second part names the first Guild response team the party has not beaten. The teams come in this order, from the Response Teams section of the **Xanathar's Guild** page in the Factions Guide:
 >
 > - **Gorath's team:** "Watch for Gorath's crew next, four duergar who enjoy hurting people. They're who the Guild sends first when somebody needs a lesson."
 > - **Korgstrod's team:** "Next up is Korgstrod Uxgulm with three duergar, a half-ogre and a gazer, and they hit a lot harder than Gorath's lot."
@@ -314,7 +314,7 @@ The third arrangement is a shop, and the front of Nevercott's card gives its add
 
 ### Renown Opportunities
 
-The rank event awards no Renown. Each Soldier earns further Renown from the missions and from the rewards listed in the Earning Renown section of the **Bregan D'aerthe** page in **Faction Operations**.
+The rank event awards no Renown. Each Soldier earns further Renown from the missions and from the rewards listed in the Earning Renown section of the **Bregan D'aerthe** page in the Factions Guide.
 
 ### Aftermath
 

@@ -333,7 +333,7 @@ The meeting ends when the last candidate has answered and Savra has left, and no
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Order of the Gauntlet Joined** — mark for each character who swears the oath at the Halls of Justice, whether the same day or later, and record the character's name. The member is at Renown 1 with the Chevall rank. Read by every Order of the Gauntlet faction event from **Breaking Up the Brawl** onward through its membership gate sentence. Also read by the **Order of the Gauntlet** page in **Faction Operations**. It is read as well by **The Factions Come Calling** and **Trollskull Alley**, both unconverted, and the first still writes a True or False heading. Companions and characters who joined another faction are not enrolled by this outcome.
+> - **Order of the Gauntlet Joined** — mark for each character who swears the oath at the Halls of Justice, whether the same day or later, and record the character's name. The member is at Renown 1 with the Chevall rank. Read by every Order of the Gauntlet faction event from **Breaking Up the Brawl** onward through its membership gate sentence. Also read by the **Order of the Gauntlet** Factions Guide page. It is read as well by **The Factions Come Calling** and **Trollskull Alley**, both unconverted, and the first still writes a True or False heading. Companions and characters who joined another faction are not enrolled by this outcome.
 
 > [!gamemaster]**Next Steps**
 >

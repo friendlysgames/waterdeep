@@ -1,3 +1,5 @@
+> **ABANDONED (Session 51):** the user ruled that the setting journal holds lore only and that mechanics stay in the guides, so the move to `setting/faction-operations/` was reverted. Do not execute this brief.
+
 # Factions Guide move: binding brief (Session 51)
 
 Read docs/plans/factions-move-spec.md first (research, comparison with the pilot, per-page section maps, inbound references). The move was decided in Session 47 (docs/plans/setting-compendium-pilot-findings.md:20). The finished pilot campaign/setting/faction-operations/10-cassalanters.md is the model for every page.

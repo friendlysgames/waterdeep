@@ -30,7 +30,7 @@ If the Faire has sailed on Tarsakh 20, Zardoz stays behind with a handful of the
 
 ## The Seat
 
-The decision beat is the question Jarlaxle asks a Commander: which Masked Lord would the member trust to carry a letter to the Lords' Alliance council. **Faction Operations** says the company has been collecting answers about which Masked Lords carry weight, and this is where the member gives one.
+The decision beat is the question Jarlaxle asks a Commander: which Masked Lord would the member trust to carry a letter to the Lords' Alliance council. The Factions Guide says the company has been collecting answers about which Masked Lords carry weight, and this is where the member gives one.
 
 The answer costs something. The company knows which Lord the member leans on and watches that Lord's door. In return, the first audience favour the member asks for reaches that Lord for half an hour instead of ten minutes. A member who guesses wrong has one more attempt, and a member who declines loses nothing.
 
@@ -38,7 +38,7 @@ The four reachable Lords are Mirt, Durnan, Ulkoria Stonemarrow and Jelenn Urmbru
 
 ## The Vault Proposal
 
-The draft said **Vault of Dragons** hands Commander members Jarlaxle's Lords' Alliance proposal. The Bregan D'aerthe page in **Faction Operations** (line 44) places it at "Dread Lord renown", which is the Doom Raiders' top rank. Bregan D'aerthe's ranks are Initiate, Soldier, Officer, Commander and Houseless Noble, so this event keeps the draft's reader, the Commander.
+The draft said **Vault of Dragons** hands Commander members Jarlaxle's Lords' Alliance proposal. The Factions Guide (line 33) places it at "Dread Lord renown", which is the Doom Raiders' top rank. Bregan D'aerthe's ranks are Initiate, Soldier, Officer, Commander and Houseless Noble, so this event keeps the draft's reader, the Commander.
 
 The proposal is not made here. The outcome tells **Vault of Dragons** (unconverted) that a member holding it receives the proposal and that the member's Seat is the Lord Jarlaxle asks to carry the letter. A speaker names the Vault tonight only if the party already knows of it.
 
@@ -48,7 +48,7 @@ The six missions award 2, 2, 3, 3, 4 and 4 base Renown, which brings a member fr
 
 - The bonus lines in each mission.
 - The +1 from **Dinner with Zardoz**.
-- The Earning Renown list in **Faction Operations**: +1 for new intelligence, +2 for a Golorr artifact, +1 for protecting Nar'l's cover, +1 for using the Faire as cover, +2 for taking the shipping records without the company's knowledge, and +1 once per quest for unexpected creativity.
+- The Earning Renown list in the Factions Guide: +1 for new intelligence, +2 for a Golorr artifact, +1 for protecting Nar'l's cover, +1 for using the Faire as cover, +2 for taking the shipping records without the company's knowledge, and +1 once per quest for unexpected creativity.
 - The +1 or +2 in the cabin scene of **Fireball!** (event 4).
 - The +2 for a delivered Stone in **Gralhund Villa** (event 9).
 
@@ -60,8 +60,8 @@ Invented: Ilmra Kelnozz and Brythe Mizzrym (Crew Two), the lighter, the ledger f
 
 Logged for the out-of-scope notes:
 
-- The Bregan D'aerthe page in **Faction Operations**, line 44, says "Dread Lord renown" for a Bregan D'aerthe proposal.
-- The Commander row on that page says "Jarlaxle accompanies the party", and this event reads it as the member's operation.
+- Factions Guide line 33 says "Dread Lord renown" for a Bregan D'aerthe proposal.
+- The Factions Guide row for Commander says "Jarlaxle accompanies the party", and this event reads it as the member's operation.
 - **The Theater's Back Room** now says only **The Dive** and **Houseless Noble** read **Seven Masks Back Room**, so Commander meets at the *Eyecatcher*, on the hired lighter or in the booking office.
 - After Tarsakh 20, **Officer** uses the same hired lighter.
 - **Houseless Noble** holds until **BD Commander** is marked and draws on the same two crews listed here.

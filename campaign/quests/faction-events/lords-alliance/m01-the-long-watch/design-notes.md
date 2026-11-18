@@ -2,7 +2,7 @@
 
 ## What the Source Gave
 
-Appendix C and the Dragon Heist table gave a tenday of escort in the Trades Ward for four dungsweepers and their dwarf foreman Berna. They also gave four day-beats on Days 2, 4, 6 and 7, and a carrion crawler on Day 9 at highsun with two wounded Watch Guards. The rewards were Berna's trust, which she shares if asked as one professional to another, and Herath's note about a sewer hatch past the Coin Alley checkpoint. The Lords' Alliance page in Faction Operations and **Trollskull Alley** still describe this version, so the rewrite keeps it.
+Appendix C and the Dragon Heist table gave a tenday of escort in the Trades Ward for four dungsweepers and their dwarf foreman Berna. They also gave four day-beats on Days 2, 4, 6 and 7, and a carrion crawler on Day 9 at highsun with two wounded Watch Guards. The rewards were Berna's trust, which she shares if asked as one professional to another, and Herath's note about a sewer hatch past the Coin Alley checkpoint. The Lords' Alliance Factions Guide and **Trollskull Alley** still describe this version, so the rewrite keeps it.
 
 ## What Changed
 

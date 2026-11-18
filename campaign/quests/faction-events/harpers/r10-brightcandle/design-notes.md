@@ -2,7 +2,7 @@
 
 ## What the Source Gave
 
-Appendix B grants a potion or low-level scroll for each mission and a Spy as backup, and the Faction Operations page adds a Harper mentor who teaches one persona. The sources name no supplier, no agent and no procedure, so this event supplies them. The potion or scroll comes from one named apothecary with one passphrase. The Spy comes through Mirt's table at the Yawning Portal.
+Appendix B grants a potion or low-level scroll for each mission and a Spy as backup, and the Factions Guide adds a Harper mentor who teaches one persona. The sources name no supplier, no agent and no procedure, so this event supplies them. The potion or scroll comes from one named apothecary with one passphrase. The Spy comes through Mirt's table at the Yawning Portal.
 
 ## What Changed
 

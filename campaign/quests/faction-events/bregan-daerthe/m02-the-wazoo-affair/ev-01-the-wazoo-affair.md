@@ -87,7 +87,7 @@ The mission can end here:
 
 - **If the party declines,** Nevercott thanks the members, finishes his drink and leaves the case on the table. The mission ends without Renown.
 - **If the party takes the case but hasn't delivered it within six days,** Nevercott collects it from Trollskull Manor himself and thanks them politely. The mission ends without Renown or outcomes.
-- In either case, **Three Nights** is still gated at Renown 5. The members make up the shortfall from the Earning Renown list on the Bregan D'aerthe page in **Faction Operations**.
+- In either case, **Three Nights** is still gated at Renown 5. The members make up the shortfall from the Earning Renown list on the Bregan D'aerthe Factions Guide page.
 
 ### The Document
 

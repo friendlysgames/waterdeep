@@ -383,7 +383,7 @@ Each statuette is worth 250 gp, and each character who went down the stair recei
 >
 > Each participating Bregan D'aerthe member gains 3 base Renown for reporting to Krebbyg, whichever route the party took. Companions gain none.
 >
-> - **+1 Renown:** protect Nar'l's cover, meaning **Nar'l Cleared** is marked. This matches the +1 for protecting his cover in the Earning Renown list in **Faction Operations**.
+> - **+1 Renown:** protect Nar'l's cover, meaning **Nar'l Cleared** is marked. This matches the +1 for protecting his cover in the guide's Earning Renown list.
 > - **+1 Renown:** return the captain's *bag of holding* to Arannis or Krebbyg, and keep the *Report on the Seven Masks Theater* out of the Guild's reach.
 > - **+1 Renown:** every character is through the X1 door by the eleventh minute, and no alarm was raised.
 >

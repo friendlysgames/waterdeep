@@ -50,7 +50,7 @@ Jarlaxle wants to return the gold to Laeral Silverhand — making the Open Lord 
 
 ## Cross-References
 
-- **Bregan D'aerthe** (Faction Operations): Grand Game stance, quest hooks, first meeting, renown and ranks, missions, response teams, outposts, escalation, revelation list.
+- **Bregan D'aerthe** (Factions guide): Grand Game stance, quest hooks, first meeting, renown and ranks, missions, response teams, outposts, escalation, revelation list.
 
 ## Overview
 

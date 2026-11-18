@@ -265,7 +265,7 @@ The meeting ends when the last candidate leaves the Tower. No assignment is hand
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Force Grey Joined** — mark for each character who accepts Vajra's offer, whether at the first meeting or on a later visit, and record the character's name. The member is at Renown 1 with the Gray Hand rank. Read by the **Force Grey** page in **Faction Operations**, by **The Factions Come Calling**, and by every Force Grey faction event beginning with **Consulting Hlam**, to confirm each member's individual eligibility. Companions and characters who joined another faction are not enrolled by this outcome. Leave it unmarked if every candidate declines.
+> - **Force Grey Joined** — mark for each character who accepts Vajra's offer, whether at the first meeting or on a later visit, and record the character's name. The member is at Renown 1 with the Gray Hand rank. Read by the **Force Grey** Factions Guide page, by **The Factions Come Calling**, and by every Force Grey faction event beginning with **Consulting Hlam**, to confirm each member's individual eligibility. Companions and characters who joined another faction are not enrolled by this outcome. Leave it unmarked if every candidate declines.
 > - **Force Grey Offer Closed** — mark with the names of the candidates who have not answered when the second *Sending* goes unanswered. Read by this Event on re-fire, which happens when the party advances a level. Remove each name as the candidate answers at the Tower.
 
 > [!gamemaster]**Next Steps**

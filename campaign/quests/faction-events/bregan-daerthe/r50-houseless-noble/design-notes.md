@@ -2,7 +2,7 @@
 
 ## Placement and the Renown Arithmetic
 
-The restored draft said a member reaches Renown 50 by completing "all six missions at full bonus renown" and that most parties would not get there during **Dragon Heist**. The arithmetic supports neither claim. The base awards total 19 with the point for joining, so Renown 50 depends on the bonus lines, the Earning Renown list in **Faction Operations** and play in **Dungeon of the Mad Mage**. The Hook now says so and places the Event as the Doom Raiders' Dread Lord event does. It holds the Event until **BD Commander** is marked and fires it on the first evening the member is back in Waterdeep after crossing the line, so a descent is never interrupted. The Event awards no Renown, as with every rank event.
+The restored draft said a member reaches Renown 50 by completing "all six missions at full bonus renown" and that most parties would not get there during **Dragon Heist**. The arithmetic supports neither claim. The base awards total 19 with the point for joining, so Renown 50 depends on the bonus lines, the Earning Renown list in the Factions Guide and play in **Dungeon of the Mad Mage**. The Hook now says so and places the Event as the Doom Raiders' Dread Lord event does. It holds the Event until **BD Commander** is marked and fires it on the first evening the member is back in Waterdeep after crossing the line, so a descent is never interrupted. The Event awards no Renown, as with every rank event.
 
 ## Who Speaks and Why Zardoz Cannot Explain the Packet
 
@@ -28,7 +28,7 @@ A lost ship is raised thirty days after the ceremony and a crippled one dives ag
 
 ## Benefits as Procedures
 
-**Faction Operations** gives the rank one line. Each part of that line is now a written procedure with a contact, limits and a loss rule.
+The Factions Guide gives the rank one line. Each part of that line is now a written procedure with a contact, limits and a loss rule.
 
 - **The packet** has four leaves (Skullport, Menzoberranzan, Luskan and Calimport), each with a cover, a phrase and four services: shelter, a written page, a surety of up to 500 gp and a one-day guide. The Menzoberranzan and Skullport leaves close if the member declines the favor.
 - **The muster** is the ally pool from the mechanics reference, in four packages: Lieutenants, Roster, Strike and full muster. It gives Power for levels 8 to 10 and from level 11, corrections when a lieutenant is missing, and Soluun counted as zero. The full muster is gated on accepting the favor and on a villain faction target, matching the Doom Raiders' rule for the full pool. The Roster draws on the same two crews as **Commander** (Crew One is Pelsha and Vorn, Crew Two is Ilmra Kelnozz and Brythe Mizzrym), so a member cannot call a crew once under each rank. The full muster adds the member's own Spy from **Officer** in place of a single named one.
@@ -76,5 +76,5 @@ Logged for the out-of-scope notes:
 - **The Dive** sets **Marpenoth Saved**, **Marpenoth Crippled**, **Marpenoth Lost** and **Soluun Sold the Mooring**, and this Event reads all four.
 - No Bregan D'aerthe event or outcome records the fates of Krebbyg and Fel'rekt, so the Event branches on a plain condition. **Sea Maidens Faire** should set an outcome if either can fall.
 - **Commander** is the source of Pelsha and Vorn, who stand at the door and speak only where this Event gives them lines. Krebbyg and Fel'rekt remain the *Waterdeep: Dragon Heist* Drow Gunslinger here, as in **Commander**.
-- The Houseless Noble row on the Bregan D'aerthe page in **Faction Operations** gives the ship and the network unconditionally. The Event adds the favor and its price, and that row should say so.
+- The Factions Guide's Houseless Noble row gives the ship and the network unconditionally. The Event adds the favor and its price, and the guide row should say so.
 - `SOURCE_GUIDE.md` claims Bregan D'aerthe connections at Sargauth. The adventure has none.

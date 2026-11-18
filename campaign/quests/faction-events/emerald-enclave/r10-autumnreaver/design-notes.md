@@ -2,7 +2,7 @@
 
 ## The Sprig
 
-Appendix B and the Faction Operations page give Jeryth one casting of any druid spell of 5th level or lower in each quest, with no components. The restored draft kept that wording and named *mass cure wounds*, *conjure elemental*, *wall of stone* and *contagion* as examples, with no place, notice or list. Read literally, it gave every member *Revivify* and *Reincarnate* once a quest. Jeryth now casts through a living sprig of the oldest oak, on three days' notice, from the fixed list in the mechanics reference. The list leaves out every spell that returns the dead and includes *Greater Restoration*, with Jeryth covering the 100 gp of diamond dust. Dragon Heist ties her casting to a renown equal to the spell's level, and the remix drops that rule.
+Appendix B and the Factions Guide give Jeryth one casting of any druid spell of 5th level or lower in each quest, with no components. The restored draft kept that wording and named *mass cure wounds*, *conjure elemental*, *wall of stone* and *contagion* as examples, with no place, notice or list. Read literally, it gave every member *Revivify* and *Reincarnate* once a quest. Jeryth now casts through a living sprig of the oldest oak, on three days' notice, from the fixed list in the mechanics reference. The list leaves out every spell that returns the dead and includes *Greater Restoration*, with Jeryth covering the 100 gp of diamond dust. Dragon Heist ties her casting to a renown equal to the spell's level, and the remix drops that rule.
 
 ## The Beast and Ally Power
 

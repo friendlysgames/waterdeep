@@ -244,7 +244,7 @@ If **Nimblewright Ledger Stolen** or **Ledger Complete** is marked, or the membe
 > - **Holding it:** a second Officer in the party receives their own copy. A member who loses the folio gets no replacement. Ilphrin traces from memory for one more tenday.
 > - **If the party has not yet been through the Sea Maidens Faire in Fireball!:** the contact says the folio is "still being copied," and Krebbyg hands it over after the party visits the Faire.
 
-The handover awards no Renown. The +2 in Faction Operations for retrieving the shipping records from the Faire goes only to a member who takes them without the company's knowledge.
+The handover awards no Renown. The +2 in the Factions Guide for retrieving the shipping records from the Faire goes only to a member who takes them without the company's knowledge.
 
 ### Intelligence on Demand
 
@@ -289,7 +289,7 @@ If the party knows of the Vault of Dragons, add the following to whichever speec
 
 ### Renown Opportunities
 
-The rank event awards no Renown. Each Officer earns further Renown from the missions and from the Earning Renown list in the Bregan D'aerthe page of Faction Operations.
+The rank event awards no Renown. Each Officer earns further Renown from the missions and from the Earning Renown list in the Bregan D'aerthe page of the Factions Guide.
 
 If a member's Renown falls below 10, the member keeps the rank but their Officer benefits are suspended. The Spy goes back to the company and the item stays with the member. The folio, the assessment and the trace return when the member's Renown reaches 10 again.
 

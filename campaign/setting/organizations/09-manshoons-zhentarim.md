@@ -36,7 +36,7 @@ He keeps a simulacrum in Kolat Towers as his contingency against assassination, 
 
 ## Cross-References
 
-- **Manshoon's Zhentarim** (Faction Operations): response teams, outposts, escalation, revelation list.
+- **Manshoon's Zhentarim** (Factions guide): response teams, outposts, escalation, revelation list.
 
 ## Overview
 

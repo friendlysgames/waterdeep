@@ -224,7 +224,7 @@ Every qualifying member is invited on their own account, so several members who 
 
 ### Renown Opportunities
 
-The rank event awards no Renown, and each Whitehawk member earns further Renown from missions at their own pace. The ordinary rewards are listed on the Order of the Gauntlet page in Faction Operations.
+The rank event awards no Renown, and each Whitehawk member earns further Renown from missions at their own pace. The ordinary rewards are listed on the Order of the Gauntlet page of the Factions Guide.
 
 ### Aftermath
 

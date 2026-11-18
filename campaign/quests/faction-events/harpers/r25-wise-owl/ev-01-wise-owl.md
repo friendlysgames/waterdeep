@@ -24,7 +24,7 @@ At noon on the day after the member reaches Renown 25, a paper bird finds them. 
 
 Hold this Event until **Brightcandle Reached** is marked for the member. A member who is away from Waterdeep gets the bird at their first surface lodging on return, and the meeting moves to the next evening at the same hour. Every qualifying member is invited and recorded separately, and companions who are not Harper members wait in the manor kitchen.
 
-The six missions bring a member to Renown 19 on their base awards, so a member needs about 6 more Renown from mission bonuses and the Earning Renown list in Faction Operations. Every procedure below works whenever the rank arrives.
+The six missions bring a member to Renown 19 on their base awards, so a member needs about 6 more Renown from mission bonuses and the Earning Renown list in the Factions Guide. Every procedure below works whenever the rank arrives.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -274,7 +274,7 @@ If the member visits Ilen with the receipt number, read or paraphrase the follow
 
 ### Renown Opportunities
 
-The rank event awards no Renown, gold or Milestone Points. Each Wise Owl earns further Renown from the missions and from the Earning Renown list in Faction Operations.
+The rank event awards no Renown, gold or Milestone Points. Each Wise Owl earns further Renown from the missions and from the Earning Renown list in the Factions Guide.
 
 ### Aftermath
 

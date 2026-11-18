@@ -94,7 +94,7 @@ Tyr is the god of justice, a lawful good power whom Waterdhavians picture as a b
 - `campaign/setting/notable-figures/order-of-the-gauntlet/01-savra-belabranta.md` and `02-sister-valdra.md`; `independents-allies/14-hlam.md` and `18-lady-gondafrey.md`; `city-officials/03-saeth-cromley.md`.
 - `campaign/quests/faction-events/order-of-the-gauntlet/`: the First Meeting (Father Corwen Thale, the oath, the temple healing), `m04-spined-devils-in-twelvedog-court` (Sister Ilvane Haste), `m06-the-writ-and-the-weight` (Father Corwen Thale, the Just God, Brother Haldric Wence), `r50-righteous-hand` (Isaldric Veyne, the Even-Handed), `s02-savras-past` (the chapel statue), and `r10-whitehawk` and `r25-vindicator` (Savra's "Maimed God").
 - `campaign/quests/faction-events/force-grey/m01-consulting-hlam/ev-01-consulting-hlam.md`, `campaign/quests/faction-events/doom-raiders/s01-davils-arrest/ev-01-davils-arrest.md` (the advocate's fee) and `campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md`.
-- `campaign/setting/faction-operations/04-order-of-the-gauntlet.md`: the Chevall benefits.
+- `campaign/guides/factions/05-order-of-the-gauntlet.md`: the Chevall benefits.
 - `campaign/structure/arc-i-kolat-towers.md` (active structure doc) and `campaign/structure/arc-j-vault-of-dragons.md`: Lady Gondafrey's history and **Order Recognized**.
 - Forgotten Realms Wiki, Tyr (sources as tagged on the page): relations, origin and rise, holy days, messengers, Chosen, and the Rumors section.
 
@@ -109,7 +109,7 @@ Tyr is the god of justice, a lawful good power whom Waterdhavians picture as a b
 - **Bane**, **Bhaal**, **Cyric**, **Mask**, **Talona**, **Talos** (Deities): the powers he opposes.
 - **Bahamut** (Deities): held his portfolio of justice in the 4e history, until Tyr returned.
 - **The Order of the Gauntlet** (Organizations): the Waterdeep chapter at the Halls of Justice.
-- **The Order of the Gauntlet** (Faction Operations): first meeting, ranks, missions.
+- **The Order of the Gauntlet** (Factions Guide): first meeting, ranks, missions.
 - **Force Grey** (Organizations): Mission 1 sends a member to Hlam.
 - **Savra Belabranta**, **Sister Valdra**, **Hlam**, **Lady Gondafrey**, **Saeth Cromley**, **Vajra Safahr, the Blackstaff** (Notable Figures): the people tied to the Halls and the faith.
 - **Castle Ward** (Gazetteer): the ward of the Halls of Justice.

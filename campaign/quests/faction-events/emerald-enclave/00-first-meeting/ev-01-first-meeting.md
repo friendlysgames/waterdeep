@@ -300,7 +300,7 @@ The meeting ends when the last candidate leaves Phaulkonmere, and no assignment 
 > [!gamemaster]**Event Outcomes**
 >
 > - **Emerald Enclave Joined** — mark for each character who accepts the Enclave's offer, and record the character's name. A later acceptance at the gate is marked the same way. The member is at Renown 1 with the Springwarden rank. Readers are:
->   - the **Emerald Enclave** page in **Faction Operations**;
+>   - the **Emerald Enclave** Factions Guide page;
 >   - every Emerald Enclave faction event beginning with **The Undercliff Scarecrows**, and **A Seat at Phaulkonmere**;
 >   - **The Factions Come Calling** (unconverted, and its row still writes a True or False heading);
 >   - **Contact Severed** in the Bregan D'aerthe set, which lists this Event as a way for a severed character to join another faction.

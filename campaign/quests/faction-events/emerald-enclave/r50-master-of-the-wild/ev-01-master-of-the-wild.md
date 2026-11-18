@@ -380,7 +380,7 @@ Melannor opens the east gate for the member and the companions. Read the followi
 
 ### Renown Opportunities
 
-The rank event awards no Renown, gold or Milestone Points, and the Master of the Wild has no higher rank to reach. Further Renown comes from the ordinary rewards listed on the Emerald Enclave page in Faction Operations.
+The rank event awards no Renown, gold or Milestone Points, and the Master of the Wild has no higher rank to reach. Further Renown comes from the ordinary rewards listed on the Emerald Enclave page of the Factions Guide.
 
 ### Aftermath
 

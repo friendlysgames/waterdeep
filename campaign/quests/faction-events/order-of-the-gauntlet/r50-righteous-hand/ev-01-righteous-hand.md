@@ -314,7 +314,7 @@ If the member leaves the paper, read the following:
 
 ### Renown Opportunities
 
-The rank event awards no Renown, gold or Milestone Points, and Righteous Hand has no higher rank to reach. Further Renown comes from the ordinary rewards listed on the Order of the Gauntlet page in Faction Operations.
+The rank event awards no Renown, gold or Milestone Points, and Righteous Hand has no higher rank to reach. Further Renown comes from the ordinary rewards listed on the Order of the Gauntlet page of the Factions Guide.
 
 ### Aftermath
 

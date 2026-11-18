@@ -248,7 +248,7 @@ Whether the member signs is the member's choice, and nothing in the campaign rea
 
 ### Renown Opportunities
 
-The rank event awards no Renown. Each Vindicator member earns further Renown from missions and from the ordinary rewards listed on the Order of the Gauntlet page in Faction Operations.
+The rank event awards no Renown. Each Vindicator member earns further Renown from missions and from the ordinary rewards listed on the Order of the Gauntlet page of the Factions Guide.
 
 ### Aftermath
 

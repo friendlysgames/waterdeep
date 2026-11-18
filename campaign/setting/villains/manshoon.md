@@ -8,7 +8,7 @@
 > - Use it when you run any scene where Manshoon or his operatives act or react. Phase 1 covers Acts I and II, Phase 2 covers Acts II and III, and Phase 3 begins when the party enters **Kolat Towers**.
 > - Manshoon appears in **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers** and **Vault of Dragons**. In the first four quests the party meets only his operatives and hears hints of a master. The party gets his name at the Interrogation House in **Faction Outposts**, which is where the **Manshoon Named** Event Outcome is marked.
 > - **Kolat Towers** records the result of the raid as one of three Event Outcomes (**Manshoon Destroyed**, **Manshoon Simulacrum Only** or **Manshoon Alive**), and **Vault of Dragons** reads it. The **Zhentarim Warehouse** is the location journal for the Candle Lane warehouse where a Xanathar's Guild raid killed his cell. **Kolat Towers** has no location journal yet.
-> - The Splinter's response teams, outposts, escalation row and revelation list live in the **Manshoon's Zhentarim** page of Faction Operations. Who the Splinter is lives in the **Manshoon's Zhentarim** page of Organizations.
+> - The Splinter's response teams, outposts, escalation row and revelation list live in the **Manshoon's Zhentarim** page of the Factions Guide. Who the Splinter is lives in the **Manshoon's Zhentarim** page of Organizations.
 
 **Purpose:** Distinguishes Manshoon from the Doom Raiders and lets the GM portray the campaign's most intellectually dangerous villain through three personality phases, a relationship table and three goals.
 
@@ -117,7 +117,7 @@ Zhentarim crews with flying snake tattoos work the back streets of Waterdeep. Th
 - **Xanathar**, **The Cassalanters** and **Jarlaxle Baenre** (Villains): the rival, the Cassalanter row and the wary peer in the Relationships table
 - **The Founding of Chains**, **The Long Shadow** and **The Open Lord's Fall** (History): the clone history and the Eye chain
 - **Running the Villains** and **Structural Rules** (GM Guide): villain reference tables and the Two Zhentarims rule
-- **Manshoon's Zhentarim** (Faction Operations): response teams, outposts, escalation, revelation list
+- **Manshoon's Zhentarim** (Factions Guide): response teams, outposts, escalation, revelation list
 - **Manshoon's Zhentarim** and **The Zhentarim (Doom Raiders)** (Organizations): who each Zhentarim cell is
 
 > [!gamemaster]**Draft Notes**
@@ -139,4 +139,4 @@ Zhentarim crews with flying snake tattoos work the back streets of Waterdeep. Th
 > - **Conflicts:** Edition tags. The wiki bundle names *The Grand History of the Realms*, *Ruins of Zhentil Keep*, *Ed Greenwood Presents Elminster's Forgotten Realms* and *Crown of Fire* without an edition, so Background names them without one. The 3e, 4e and 5e books are tagged where the wiki names them. The wiki's later 4e account (the Undermountain clone died in the Spellplague, only Orbakh remained) is overruled by the published adventure, as `history/04-the-founding-of-chains.md` line 160 records.
 > - **Left open (brief call 13):** Nihiloor's domination of Xanathar, Nar'l Xibrindas's tenure, Ott Steeltoes, the "something vast and dreaming" seed, and the Doom Raiders and Enclave Trades Ward lines. None is stated on this page.
 > - **Left out:** The wiki's early life (Asmuth, Chess, the 1357 DR death), the Orbakh vampire detail, the Stormwatch rebuilding, the Cormyr and Elminster events of 1479-1488 DR, and the infobox's patron deity Mystra (1e *DM's Sourcebook of the Realms* p. 25), since none touches this campaign. Also left out: Lady Gondafrey's "quieter version of himself" (`arc-i-kolat-towers.md` line 351), which belongs to the **Kolat Towers** design notes. The Overview names no clone, no Weave and no simulacrum. The Purpose line drops "the one who is always further ahead than anyone believes".
-> - **Retargets:** The Two Zhentarims "See also" line named only Session Zero. The rule itself lives in **Structural Rules**, so the callout names both. The Cross-References no longer link to `arc-i-kolat-towers.md`, `notable-figures/` or the guide files. The Faction Operations line names the **Manshoon's Zhentarim** page.
+> - **Retargets:** The Two Zhentarims "See also" line named only Session Zero. The rule itself lives in **Structural Rules**, so the callout names both. The Cross-References no longer link to `arc-i-kolat-towers.md`, `notable-figures/` or the guide files. The Factions Guide line should be retargeted when the guide pages are removed.

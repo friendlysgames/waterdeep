@@ -30,7 +30,7 @@ The Order will move aggressively against the Cassalanters once they have solid e
 
 ## Cross-References
 
-- **Order of the Gauntlet** (Faction Operations): Grand Game stance, quest hooks, first meeting, renown and ranks, missions.
+- **Order of the Gauntlet** (Factions guide): Grand Game stance, quest hooks, first meeting, renown and ranks, missions.
 
 ## Overview
 

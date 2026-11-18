@@ -2,7 +2,7 @@
 
 ## What the Source Gave
 
-Appendix B and C stop at the fifth Order of the Gauntlet mission, so this mission has no source text beyond one row of the Faction Operations page. The restored draft supplied the shape: a Horned Devil at midnight in the Halls of Justice, Savra fighting beside the party, two Priests of Tyr and a formal Recognition. Those were kept, along with the line that the visit proves the petition is working.
+Appendix B and C stop at the fifth Order of the Gauntlet mission, so this mission has no source text beyond one row of the Factions Guide. The restored draft supplied the shape: a Horned Devil at midnight in the Halls of Justice, Savra fighting beside the party, two Priests of Tyr and a formal Recognition. Those were kept, along with the line that the visit proves the petition is working.
 
 ## What Changed
 

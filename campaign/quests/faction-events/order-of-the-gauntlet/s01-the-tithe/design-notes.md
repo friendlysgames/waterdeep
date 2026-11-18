@@ -2,7 +2,7 @@
 
 ## What the Source Gave
 
-The restored draft had a good scene and the wrong frame. Appendix B and the Faction Operations page say a member who tithes at least 25% of a major hoard without prompting earns the Renown, and the original Alexandrian text expects the Order to ask for a quarter of the vault gold. The draft paid Renown whether the member tithed unprompted or when asked, treated the whole party as one payer, and sent the fallout to Sister Valdra.
+The restored draft had a good scene and the wrong frame. Appendix B and the Factions Guide say a member who tithes at least 25% of a major hoard without prompting earns the Renown, and the original Alexandrian text expects the Order to ask for a quarter of the vault gold. The draft paid Renown whether the member tithed unprompted or when asked, treated the whole party as one payer, and sent the fallout to Sister Valdra.
 
 The keeper lines survive: "Good." after payment, "All right." after refusal, and "Thank you" for the remedy. The five-cause list and Savra's refusal to name the Griffon Cavalry fund also survive.
 

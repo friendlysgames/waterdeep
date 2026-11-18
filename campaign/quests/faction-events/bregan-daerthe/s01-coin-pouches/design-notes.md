@@ -20,5 +20,5 @@ The old **Coin Pouches** outcome had no reader and is cut. This event sets no ou
 
 - Invented names: Dunstan Rook, Orla Pennick, Hanna Voss, and the playbill *The Duke's Last Supper*. Squiddly is used from **Trollskull Alley** without a voice line.
 - `campaign/setting/organizations/07-bregan-daerthe.md:38` has Krebbyg carrying a 100 gp velvet pouch signed "J.". This event uses black linen and an unsigned slip.
-- `campaign/setting/faction-operations/07-bregan-daerthe.md:25` agrees with the amounts and timing, and says "at the party's door", which this event narrows to the named member. It could say "a member's door".
+- `campaign/guides/factions/08-bregan-daerthe.md:14` agrees with the amounts and timing, and says "at the party's door", which this event narrows to the named member. It could say "a member's door".
 - `campaign/quests/faction-events/bregan-daerthe/m03-three-nights/ev-01-three-nights.md` now has Ott as a dwarf and leaves the 100 gp pouch and note to this event.
