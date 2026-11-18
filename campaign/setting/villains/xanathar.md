@@ -48,7 +48,7 @@ Xanathar is a beholder and the crime lord of **Xanathar's Guild**, a paranoid in
 | Nar'l Xibrindas | Advisor | Trusted as a drow voice on Guild matters; actually a Bregan D'aerthe spy; discovery ends Nar'l immediately |
 | Nihiloor | Mind flayer operative | Trusted intelligence gatherer; Xanathar grants it unusual autonomy; plant for Mad Mage integration |
 | Manshoon | Rival | Active enemy; Xanathar has ordered Manshoon killed twice; both failed; this is accelerating the paranoia |
-| Jarlaxle | Unknown | Not yet identified as a player; the beholder is paranoid about anything operating in its territory without its knowledge |
+| Jarlaxle Baenre | Unknown | Not yet identified as a player; the beholder is paranoid about anything operating in its territory without its knowledge |
 | The PCs | Threat | Irritants → active problem → something requiring Xanathar's personal attention (rarely good for anyone) |
 
 **Relationship notes**

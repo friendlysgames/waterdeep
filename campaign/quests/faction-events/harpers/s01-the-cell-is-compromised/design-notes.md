@@ -22,4 +22,4 @@ The mole is Tobin Harrask, named in the Who Knows What block and in no player-fa
 - **6 Brondar's Way** is an invented address. The street boy has no name.
 - Open: **Tessalar Warned Off** has no stated meaning beyond "he left"; the incident line assumes his room was cleared. Confirm against **The Dead Drop**.
 - Open: **Kolat Towers** (unconverted) should read the copies of any report that passed through a non-Mirt channel. The audit logs this under the Kolat entry.
-- Open: Doom Raiders s02 writes **Davil Released** as an Event Outcome, but Xanathar's Lair Scene 1, Kolat Towers and Vault of Dragons still read the old True/False form.
+- Open: Doom Raiders s02 writes **Davil Released** as an Event Outcome, but the structure docs do not read it. They still read mission completion in free text: `arc-f-xanathars-lair.md:41` ("Tashlyn if **DR Mission 4 — Silencing Skeemo** is not yet complete"), `arc-i-kolat-towers.md:43` ("If Missions 5 and 6 are not complete") and `arc-j-vault-of-dragons.md:53` ("If Doom Raiders Mission 6 ("Ziraj's Last Hunt") succeeded").
