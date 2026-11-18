@@ -57,7 +57,7 @@ Use the Summer version of the Converted Windmill (DH p. 88). Arn Xalrondar and S
 *Area W8 — Room of Rituals.* A blood-painted pentagram on the floor, burned-down candles at each point, and a desk drowning in papers.
 
 - Any character who examines the ritual markings and makes a successful DC 15 Intelligence (Arcana) check determines that the ritual was a demonic divination — a weakly powered version of *legend lore* — seeking something tied to "Neverember," "the wealth of Waterdeep," "Golorr," and "that which has been lost to the waters of Lethe."
-- The desk holds a map of Waterdeep. Strange lines of blood criss-cross it, but one location in the City of the Dead has been circled in charcoal with accompanying text identifying it as the "Brandath Crypt."
+- The desk holds a map of Waterdeep. Strange lines of blood criss-cross it, but one location in the City of the Dead has been circled in charcoal with accompanying text identifying it as the "Brandath Crypts."
 
 **Roster:** Seffia Naelryke (**Cultist Fanatic**) + Arn Xalrondar (**Cultist Fanatic**) + 1 **Imp** (invisible, on watch).
 

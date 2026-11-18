@@ -21,7 +21,7 @@ Seffia Naelryke (Lawful Evil, Human, she/her)
 - Theological certainty steadies her. She knows she becomes a loose end for the Cassalanters if she does not fix the failure correctly, and that shows as urgency.
 - She talks in operational terms ("loose ends", "witnesses", "clean") in a low, even, clipped voice. She curses only about her failure, she never names her superiors to outsiders and she never admits the failure upward.
 - She speaks to Arn in half-sentences that he completes.
-- She keeps a letter from Lord Cassalanter confirming that her ritual identified Eye #2 in the Brandath Crypt. It is a prized possession, and anyone who takes it provokes her fury.
+- She keeps a letter from Lord Cassalanter confirming that her ritual identified Eye #2 in the Brandath Crypts. It is a prized possession, and anyone who takes it provokes her fury.
 - She reports in writing on the Cassalanters' external outposts, covering the Converted Windmill and the Asmodean Shrine. Her report sits in the hidden compartment of Victoro Cassalanter's desk at the villa.
 - In a fight she casts precisely, calls the spined devils if they are available and posts Arn to cover her flanks. She does not retreat from her own base.
 - Under escalation she acts in two modes. At Alert her team stays passive unless the party turns hostile, and then she and Willifort Crowelle work together. At Lockdown during **Cassalanter Villa** her team is stationed inside the villa.
@@ -31,7 +31,7 @@ Seffia Naelryke (Lawful Evil, Human, she/her)
 ## Connections
 
 - **Arn Xalrondar:** Her operational partner at the Windmill, who defers to her on planning and covers her in a fight. Unresolved: he acts on his own when she is out of the room, as when he sent the Eye off with a spined devil.
-- **Victoro Cassalanter:** The patron who sent her to retrieve an Eye (Eye #2, from the Brandath Crypt) and to silence three cult members who knew too much. Unresolved: she means to repair the failure without telling him.
+- **Victoro Cassalanter:** The patron who sent her to retrieve an Eye (Eye #2, from the Brandath Crypts) and to silence three cult members who knew too much. Unresolved: she means to repair the failure without telling him.
 - **Vaelle Lurval:** The witness she failed to silence, a Lawful Evil female Tethyrian human cultist and a 30-year-old Waterdhavian florist. The two dead cultists are Holiver Tornrudder, her boyfriend, and Kaeth Warloon. Vaelle believes the fanatics acted on their own, not on Lord Cassalanter's orders, and she will not name the Cassalanters unless magically compelled. Unresolved: Vaelle is alive, and Seffia is working on the problem. Vaelle has no Notable Figures page and appears nowhere else in the campaign files.
 - **Willifort Crowelle:** The family's other field operative. His methods are blunt where hers are precise, and the two combine in hostile mode. Unresolved: nothing says who leads when they work together.
 - **Vevette Blackwater:** Seffia approached her to open a channel between the Cassalanters and the Zhentarim, and Vevette refused, suspecting a trap. Unresolved: no contact since, and Vevette still carries Seffia's visiting card, which gives the Windmill's address.
@@ -65,7 +65,7 @@ Seffia Naelryke is a Human woman who maintains a decrepit windmill in the Southe
 > **[GM]**
 >
 > #### Secret
-> Seffia is an Asmodean cult fanatic in the Cassalanters' service, a fact the party learns only by investigating the Windmill. Lord Cassalanter gave her two missions, to retrieve Eye #2 of the Stone of Golorr from the Brandath Crypt and to silence three cult members who knew too much about it. She and Arn killed two of the three. The survivor, Vaelle Lurval, is the loose end Seffia is working to close, and Lord Cassalanter does not know she failed.
+> Seffia is an Asmodean cult fanatic in the Cassalanters' service, a fact the party learns only by investigating the Windmill. Lord Cassalanter gave her two missions, to retrieve Eye #2 of the Stone of Golorr from the Brandath Crypts and to silence three cult members who knew too much about it. She and Arn killed two of the three. The survivor, Vaelle Lurval, is the loose end Seffia is working to close, and Lord Cassalanter does not know she failed.
 
 **Tone:** Cold and procedural. Seffia is menacing because she is busy and competent, so keep her calm and let the dread come from what the party learns about her work. Her cruelty belongs in her actions, never in the narration.
 
@@ -99,7 +99,7 @@ Seffia Naelryke is a Human woman who maintains a decrepit windmill in the Southe
 >
 > #### Draft Notes
 > - **Settled:** Vaelle Lurval's details now come from the published adventure ("Left for Dead", lines 8317-8319). She still has no Notable Figures page and appears nowhere else in the campaign files, so a page or a decision to keep her unnamed elsewhere is needed.
-> - **Changed (Session 47 consistency pass):** Sea Maidens Faire is dropped from the Relationships paragraph, because no Faire file names Seffia and the Gamemaster's Summary never listed it. Her mission is now to retrieve Eye #2 from the Brandath Crypt rather than the Stone of Golorr (Connections, Persona, Secret and the letter line), and Arn's spined devil carries the Eye. The published adventure has Arn hand the Stone itself to a spined devil.
+> - **Changed (Session 47 consistency pass):** Sea Maidens Faire is dropped from the Relationships paragraph, because no Faire file names Seffia and the Gamemaster's Summary never listed it. Her mission is now to retrieve Eye #2 from the Brandath Crypts rather than the Stone of Golorr (Connections, Persona, Secret and the letter line), and Arn's spined devil carries the Eye. The published adventure has Arn hand the Stone itself to a spined devil.
 > - **Conflicts:** Who leads when Seffia and Willifort Crowelle work together is unsettled (the "Unresolved" line under Willifort in Connections). Zero-prep needs a named lead.
 > - **Conflicts:** The other "Unresolved" lines in Connections (Arn acting alone when she is out of the room, her plan to repair the failure without telling Victoro, and Vevette holding her visiting card) are open hooks, not settled outcomes. Decide at the prose pass which become fixed events.
 > - **Conflicts:** The Cross-References name the Factions Guide page for her response team. That text is moving to Faction Operations, so retarget the line when the guide pages are removed.
