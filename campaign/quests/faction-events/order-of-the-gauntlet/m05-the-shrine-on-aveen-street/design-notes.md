@@ -6,7 +6,7 @@ Dragon Heist and Appendix C stop at the fifth Order mission, so this mission and
 
 ## The Hybrid Shrine
 
-The Asmodean shrine in the Cassalanters Factions Guide stands in the North Ward on Aveen Street. The chandler's shop stands in the Field Ward, so the draft puts the street on the ward line and runs a service passage from the cellar to the shrine house. Together with **Spined Devils in Twelvedog Court**, the cellar is a fifth independent path to the shrine, beside the Guide's three. Only the stair room and the circle room are keyed. The other six areas keep the Guide's text, and the Hell cyst and the Mirror of the Fiend are left for **Faction Outposts**.
+The Asmodean shrine on the Cassalanters page in Faction Operations stands in the North Ward on Aveen Street. The chandler's shop stands in the Field Ward, so the draft puts the street on the ward line and runs a service passage from the cellar to the shrine house. Together with **Spined Devils in Twelvedog Court**, the cellar is a fifth independent path to the shrine, beside the Guide's three. Only the stair room and the circle room are keyed. The other six areas keep the Guide's text, and the Hell cyst and the Mirror of the Fiend are left for **Faction Outposts**.
 
 ## What the Ledger Says
 
@@ -22,7 +22,7 @@ The Alert comes from the filing and from the Imp, not from a Masked Lord contact
 - Orros appears in the restored draft and has no profile, so his voice comes from the Event text. "Orros" is not used on any other page.
 - Savra's Notable Figures page says "neutral good" and "Tethyrian"; this Event follows the brief's Lawful Good and the First Meeting. The page needs the correction.
 - The Notable Figures page for Sister Valdra links the villa to Asmodeus worship; she does not appear here.
-- The Cassalanters Factions Guide says the shrine is "From outside, an unremarkable residence" and lists no chandlery. The cellar entrance is a small addition that the guide needs.
+- The Cassalanters page in Faction Operations says the shrine is "From outside, an unremarkable residence" and lists no chandlery. The cellar entrance is a small addition that the guide needs.
 - The Code Legal rule that bars entry to a place of worship without a magistrate's warrant, the 3 gp rent, the Daggerford sister and the seventh-day carter are invented. The Halls of Justice stays in the Castle Ward, as the First Meeting fixes it.
 - The cartage receipt and the sealed note belong to **Spined Devils in Twelvedog Court**, which carries the nine-crate receipt and the "cellar door in the yard, three knocks" day-book entry that this mission's approach matches; the Brief reads them only through **Intelligence Shared**.
 - A party that took nothing from the cellar gets no Siamorphe holy symbol from this mission, so **Cassalanter Villa** finds none in its possessions, and the r10 rank event is the fallback source.

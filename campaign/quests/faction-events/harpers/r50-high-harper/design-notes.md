@@ -2,7 +2,7 @@
 
 ## What the Source Gave
 
-Appendix B lists the High Harper rank as archives, three agents and Mirt accompanying a mission. The Factions Guide adds a covert city extraction, a formal exposure request, a third persona and the Masked Lord reveal "if the party has not already worked it out". Neither says how any of it works, so each benefit is now a per-member procedure with a contact, a notice, a delivery and a limit. Mirt appears as a Masked Lord and a close advisor of Laeral in Waterdeep Dragon Heist, and the remix keeps that and turns it into a secret that he tells at this rank.
+Appendix B lists the High Harper rank as archives, three agents and Mirt accompanying a mission. The Faction Operations page adds a covert city extraction, a formal exposure request, a third persona and the Masked Lord reveal "if the party has not already worked it out". Neither says how any of it works, so each benefit is now a per-member procedure with a contact, a notice, a delivery and a limit. Mirt appears as a Masked Lord and a close advisor of Laeral in Waterdeep Dragon Heist, and the remix keeps that and turns it into a secret that he tells at this rank.
 
 ## What Changed
 

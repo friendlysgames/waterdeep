@@ -15,7 +15,7 @@
 
 Hold this Event until **Autumnreaver Reached** is marked for the member. At dusk on the day after the member reaches Renown 25, an owl finds them wherever they are lodging. Use the Owl stat block, which is a Tiny Beast of CR 0. Every qualifying member is invited on their own account, so members who cross the threshold together attend together and are recorded one by one.
 
-A member who is away from Waterdeep or below the surface finds the owl at their first surface lodging on return. The owl comes at the next dusk, and the meeting moves to the following morning. If someone kills the owl before it speaks, a second one arrives at the next dusk. The six missions bring a member to Renown 19 on their base awards, which leaves about 6 more to find. Mission bonuses and the Earning Renown list in the Factions Guide supply the rest, and every procedure below works whenever the rank comes.
+A member who is away from Waterdeep or below the surface finds the owl at their first surface lodging on return. The owl comes at the next dusk, and the meeting moves to the following morning. If someone kills the owl before it speaks, a second one arrives at the next dusk. The six missions bring a member to Renown 19 on their base awards, which leaves about 6 more to find. Mission bonuses and the Earning Renown list in Faction Operations supply the rest, and every procedure below works whenever the rank comes.
 
 > [!readaloud]
 >
@@ -357,7 +357,7 @@ Melannor walks the member the last few steps to the threshold. Read or paraphras
 
 ### Renown Opportunities
 
-The rank event awards no Renown. Each Winterstalker earns further Renown from the missions and from the ordinary rewards listed in the Emerald Enclave page of the Factions Guide, at their own pace.
+The rank event awards no Renown. Each Winterstalker earns further Renown from the missions and from the ordinary rewards listed in the Emerald Enclave page in Faction Operations, at their own pace.
 
 ### Aftermath
 

@@ -21,4 +21,4 @@ The *charm of restoration* now has the 2024 DMG text, with 3 charges and a charg
 - The brief counts its suggested message as 21 words, but the message as written is 20 words.
 - The 2024 DMG text of the charm gives no material components, so the event states that the charm needs none and *Greater Restoration* needs no diamond dust.
 - The manor guide's ward-fee cut (`02-operating-costs.md`), where Enclave druids replace the Watchful Order ward, is a passive benefit of standing with the Enclave. It needs no event, so this one does not deliver it.
-- The Factions Guide (`04-emerald-enclave.md:37`) still names a retired "Jeryth's Manner" sidebar.
+- The Faction Operations page (`03-emerald-enclave.md`) once named a retired "Jeryth's Manner" sidebar. The text is no longer on the page.

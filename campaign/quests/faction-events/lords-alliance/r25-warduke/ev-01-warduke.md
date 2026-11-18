@@ -423,7 +423,7 @@ If the member asked for a Ruling and the act is Minor, read or paraphrase the fo
 
 ### Renown Opportunities
 
-The rank event awards no Renown. Each Warduke earns further Renown from missions and from the ordinary rewards listed in the Lords' Alliance page of the Factions Guide, at their own pace.
+The rank event awards no Renown. Each Warduke earns further Renown from missions and from the ordinary rewards listed in the Lords' Alliance page in Faction Operations, at their own pace.
 
 ### Aftermath
 

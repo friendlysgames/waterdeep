@@ -33,7 +33,7 @@ Its agenda in the Grand Game is territorial. Xanathar held the Stone of Golorr u
 
 ## Cross-References
 
-- **Xanathar's Guild** (Factions guide): response teams, outposts, escalation, revelation list.
+- **Xanathar's Guild** (Faction Operations): response teams, outposts, escalation, revelation list.
 
 ## Overview
 

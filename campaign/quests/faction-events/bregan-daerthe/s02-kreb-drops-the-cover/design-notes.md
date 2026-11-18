@@ -8,13 +8,13 @@ The restored draft also had Krebbyg pay 100 gp at the theater. That contradicted
 
 ## Choices in the Scene
 
-The draft was a handed envelope and one optional check. The rewrite gives the member four decisions: how to react to a drow in the booking office, what to ask, whether to keep the faction's secret when a constable knocks, and whether to accept the channel's rules. Fel'rekt arrives because the profiles say Krebbyg defers to him on anything serious. The guide's discretion rule also needs someone other than Krebbyg to say it aloud.
+The draft was a handed envelope and one optional check. The rewrite gives the member four decisions: how to react to a drow in the booking office, what to ask, whether to keep the faction's secret when a constable knocks, and whether to accept the channel's rules. Fel'rekt arrives because the profiles say Krebbyg defers to him on anything serious. The discretion rule on the Bregan D'aerthe page in **Faction Operations** also needs someone other than Krebbyg to say it aloud.
 
 Constable Pimm tests discretion. He is an ordinary Dock Ward Watchman with no link to Bregan D'aerthe, and nobody in the company planned his visit, which suits Krebbyg, who never plans. The constable gives the member three outcomes that matter:
 
 - Stalling or helping with the paint costs nothing and earns a standing welcome.
 - A poor result costs ten days at the booking office door.
-- Pointing at the cover ends the relationship, as the guide says it must.
+- Pointing at the cover ends the relationship, as the Bregan D'aerthe page in **Faction Operations** says it must.
 
 Pimm laughs the accusation off, so the Watch never acts on it and the consequence stays inside the faction.
 

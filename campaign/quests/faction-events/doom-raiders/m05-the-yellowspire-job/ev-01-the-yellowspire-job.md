@@ -416,7 +416,7 @@ The Event concludes when the party has reported to Davil and Tashlyn and has rec
 > - **Relay Ledger Recovered** — mark when a member hands the relay ledger to Davil; read by **Kolat Towers** Scene 1 (the Doom Raiders briefing) and Scene 3 (entry by captured amulets, where the refresh marks grant Advantage on the recalibration check).
 > - **Vevette Letters Recovered** — mark when a member hands the coded letters to Tashlyn; read by **Kolat Towers** Scene 1, where Tashlyn names Vevette Blackwater's strike-team schedule.
 > - **Force Field Gap Intel** — mark when the notes are in the party's hands, whether or not the ledger was recovered; read by **Kolat Towers** Scene 1 and Scene 2 (the Rooftop Force-Field Gaps entry method).
-> - **Yellowspire Alarm Sounded** — mark when the circle pulse fired, Amath dropped a coin, Agorn escaped, or Amath or an acolyte survived and reported; read by **Kolat Towers** Scene 3 (Manshoon's escalation tier is at least Suspicious) and by the **Manshoon's Zhentarim** Factions Guide page.
+> - **Yellowspire Alarm Sounded** — mark when the circle pulse fired, Amath dropped a coin, Agorn escaped, or Amath or an acolyte survived and reported; read by **Kolat Towers** Scene 3 (Manshoon's escalation tier is at least Suspicious) and by the **Manshoon's Zhentarim** page in **Faction Operations**.
 > - **Yellowspire Circle Destroyed** — mark when the party ruins the circle; read by **Kolat Towers** Scene 2, where the Yellowspire Teleportation Circle entry method is unavailable, and by **Ziraj's Last Hunt**, where the Splinter kill team reaches the city on foot.
 
 > [!gamemaster]**Next Steps**

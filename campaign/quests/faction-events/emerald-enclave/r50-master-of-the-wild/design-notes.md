@@ -2,7 +2,7 @@
 
 ## What the Source Gave
 
-Appendix B and the Factions Guide give Master of the Wild a *charm of vitality* for every character present. They add up to six rangers and druids for one major operation, and Beasts of CR 2 or lower that perform one task. The restored draft added three silent animals, six unnamed Enclave members, Jeryth's long ceremony speeches and a choice about an Undermountain commission. It described the charm as granting Advantage on Constitution saving throws, which is wrong, and it left the six and the compact with no stat blocks or limits. Its outcome **Undermountain Commission Accepted** is also the name of a Lords' Alliance rank outcome.
+Appendix B and the Faction Operations page give Master of the Wild a *charm of vitality* for every character present. They add up to six rangers and druids for one major operation, and Beasts of CR 2 or lower that perform one task. The restored draft added three silent animals, six unnamed Enclave members, Jeryth's long ceremony speeches and a choice about an Undermountain commission. It described the charm as granting Advantage on Constitution saving throws, which is wrong, and it left the six and the compact with no stat blocks or limits. Its outcome **Undermountain Commission Accepted** is also the name of a Lords' Alliance rank outcome.
 
 ## What Changed
 
@@ -23,5 +23,5 @@ Invented: the six names and species, Sorrel's age and her twenty years in the pa
 A member whose Renown falls below 50 keeps the rank and the charm, and the six, the compact and the marks pause. The Level 11 Power figures (Druid 19, Scout 7) come from the Tier 3 column of the mechanics reference. The charm texts are unverified in the downloaded data and follow the reference.
 
 For the out-of-scope log:
-- `sources/Appendix_B_-_Player_Factions.md:377` gives a *charm of heroism* at Master of the Wild, where the Factions Guide and this Event give a *charm of vitality*.
+- `sources/Appendix_B_-_Player_Factions.md:377` gives a *charm of heroism* at Master of the Wild, where the Faction Operations page and this Event give a *charm of vitality*.
 - `campaign/quests/faction-events/lords-alliance/r50-lioncrown/ev-01-lioncrown.md:156` still uses **Undermountain Commission Accepted**, a name this Event no longer writes.

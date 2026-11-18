@@ -328,7 +328,7 @@ Melannor walks the member back along the gravel to the gate. Read or paraphrase 
 
 ### Renown Opportunities
 
-The rank event awards no Renown. Each Autumnreaver earns further Renown from the missions and from the ordinary rewards listed in the Emerald Enclave page of the Factions Guide, at their own pace.
+The rank event awards no Renown. Each Autumnreaver earns further Renown from the missions and from the ordinary rewards listed in the Emerald Enclave page in Faction Operations, at their own pace.
 
 ### Aftermath
 

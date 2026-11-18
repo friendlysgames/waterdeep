@@ -16,7 +16,7 @@
 
 > [!gamemaster]**What Is Actually True**
 >
-> - Aveen Street runs along the line between the Field Ward and the North Ward. Orros's chandlery stands on the Field Ward side, and its cellar is a back way into the Asmodean shrine described in the Cassalanters Factions Guide.
+> - Aveen Street runs along the line between the Field Ward and the North Ward. Orros's chandlery stands on the Field Ward side, and its cellar is a back way into the Asmodean shrine described on the Cassalanters page in Faction Operations.
 > - A service passage runs under the street from the cellar to the shrine house on the North Ward side. This Event keys the two rooms nearest the cellar and leaves the other six areas to the Guide.
 > - The Aveen Street Almsgivers' Society is a charity with a name and no members. It leased the cellar and the passage from Orros six years ago, and a courier brings the rent every quarter.
 > - The cellar door stands in the yard behind the chandlery, and callers knock on it three times. Garrowby Cartage carried nine crates there nine days before the court, holding black tallow candles, rock salt, iron filings and lamp oil.
@@ -227,7 +227,7 @@ The Imp perches on a rafter above the table, invisible. A character who makes a 
 > - **The fight:** The party wakes the devil on purpose, defeats it as described in **The Bound Devil**, and takes the ledger from the table.
 > - **The strongbox:** A character who opens it makes a successful **DC 16 Dexterity (Thieves' Tools)** check, or forces it with a successful **DC 18 Strength** check. Inside is the fair copy of entries one to eight, in the same hand. It serves as the ledger if the dray has already taken the book.
 >
-> A party that wants to pursue the rest of the shrine can follow the passage under the street. The remaining areas are in the Cassalanters Factions Guide, and the Event does not require them.
+> A party that wants to pursue the rest of the shrine can follow the passage under the street. The remaining areas are on the Cassalanters page in Faction Operations, and the Event does not require them.
 
 > [!exploration]**Breaking the Circle**
 >
@@ -360,7 +360,7 @@ The chaplain gives one holy symbol to the party, and the members choose who carr
 > - **+1 Renown:** the ledger reaches Savra within 24 hours of leaving the cellar, and **Ledger Recovered** is marked.
 > - **+1 Renown:** Orros is neither alarmed nor harmed, and he is not told what lay in his cellar.
 >
-> The standing Earning Renown actions for evidence delivered to Savra and for a devil of Challenge Rating 3 or higher pay once each. The Factions Guide lists them, and they are not added to the bonuses above.
+> The standing Earning Renown actions for evidence delivered to Savra and for a devil of Challenge Rating 3 or higher pay once each. Faction Operations lists them, and they are not added to the bonuses above.
 
 ### Aftermath
 

@@ -26,7 +26,7 @@ The nimblewright's hat is the carry-forward from the source. It matters later an
 
 Vessin's age, the Faire performer who left the cloth and the flower-stall detail are invented here. The source does not state Bartlethorpe's alignment, species or ethnicity, so this page treats him as a Lawful Neutral Tethyrian human. Contradictions with files outside this folder are left unedited and listed for the Bregan D'aerthe section of the out-of-scope notes:
 
-- The organization page and the Factions Guide still describe the first mission as theater tickets that lead to Krebbyg.
+- The organization page and **Faction Operations** still describe the first mission as theater tickets that lead to Krebbyg.
 - **Coin Pouches** now uses a three-lead trace and reads **Handkerchief Delivered** for its first pouch.
 - **The Twin Parades** gives different processions than the Twin Parades addendum.
 - The **First Meeting** says Nevercott leaves a time and a district rather than the manor as the brief's venue.

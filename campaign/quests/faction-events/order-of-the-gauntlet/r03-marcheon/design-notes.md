@@ -2,7 +2,7 @@
 
 ## What the Source Gave
 
-The restored draft gave Marcheon as a single speech by Savra. It listed three benefits with no contact, no notice, no limit and no loss rule. Savra could accompany the character into one operation in each quest, the armory lent one mundane item each tenday, and the temples shared a weekly briefing. The Factions Guide and the Players' Guide carry the same three lines.
+The restored draft gave Marcheon as a single speech by Savra. It listed three benefits with no contact, no notice, no limit and no loss rule. Savra could accompany the character into one operation in each quest, the armory lent one mundane item each tenday, and the temples shared a weekly briefing. The Faction Operations page and the Players' Guide carry the same three lines.
 
 ## Individual Procedures
 
@@ -20,5 +20,5 @@ Invented: Brother Osric Wickersham (the armory's keeper), the three lists of pat
 
 For the out-of-scope log:
 - `00-first-meeting/ev-01-first-meeting.md:192` and `:206` count the Halls of Justice and "the temple of Tyr in the Castle Ward" as two temples, giving four, but the Halls is the temple of Tyr. There are three.
-- Factions Guide `05-order-of-the-gauntlet.md:55`, `players-guide/faction-affiliations.md:93` and `gm-guide/player-factions-overview.md:98` promise "known fiendish signs" at Marcheon without the Twelvedog Court gate.
+- Faction Operations `04-order-of-the-gauntlet.md`, `players-guide/faction-affiliations.md:93` and `gm-guide/player-factions-overview.md:98` promise "known fiendish signs" at Marcheon without the Twelvedog Court gate.
 - Those same three rows say "your contact accompanies the party", where this Event gives the limit as one operation a quest for the whole party.

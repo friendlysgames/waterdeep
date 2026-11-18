@@ -2,7 +2,7 @@
 
 ## What the Source Gave
 
-No source text exists for this mission. Appendix B and Appendix C stop at the fourth Lords' Alliance mission, and the Factions Guide gives only a one-line summary of the ledger and its payoff. The first draft supplied the shape that survives. It had a dead investigator, a stolen ledger and a broker running two buyers at an inn. It also had three approaches and a debrief in which Jalester reads the pages twice.
+No source text exists for this mission. Appendix B and Appendix C stop at the fourth Lords' Alliance mission, and the Faction Operations page gives only a one-line summary of the ledger and its payoff. The first draft supplied the shape that survives. It had a dead investigator, a stolen ledger and a broker running two buyers at an inn. It also had three approaches and a debrief in which Jalester reads the pages twice.
 
 ## What Changed
 

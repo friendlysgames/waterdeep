@@ -2,7 +2,7 @@
 
 ## The Source and the Warning
 
-Appendix C gives a one-day assessment of five doppelgangers, with a DC 16 Insight tell, a reveal from Mattrim after the interviews and a closing line from Mirt. The rewrite keeps all three, plus Mirt's opening warning that one of the five has already sold the party's affiliation, which earlier drafts dropped. The crew is Bonnie, Edric, Kael, Syla and the Scholar, which matches WDH and Appendix C. The invented Merchant is cut, and only Bonnie is recruitable, as the source and the Factions Guide say.
+Appendix C gives a one-day assessment of five doppelgangers, with a DC 16 Insight tell, a reveal from Mattrim after the interviews and a closing line from Mirt. The rewrite keeps all three, plus Mirt's opening warning that one of the five has already sold the party's affiliation, which earlier drafts dropped. The crew is Bonnie, Edric, Kael, Syla and the Scholar, which matches WDH and Appendix C. The invented Merchant is cut, and only Bonnie is recruitable, as the source and the Faction Operations page say.
 
 ## What Changed
 

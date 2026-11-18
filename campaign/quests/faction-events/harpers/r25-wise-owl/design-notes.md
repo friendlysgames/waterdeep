@@ -2,7 +2,7 @@
 
 ## Benefits as Procedures
 
-Appendix B gives the Wise Owl a Laeral audience and operational cover "per arc". The Factions Guide adds informants, a 24-hour priority-target warning and a second persona. Neither says how any of them works, so each benefit is now a per-member procedure with a contact, a place, a notice, a limit and a loss rule. "Per arc" becomes per quest, because arcs are retired.
+Appendix B gives the Wise Owl a Laeral audience and operational cover "per arc". The Faction Operations page adds informants, a 24-hour priority-target warning and a second persona. Neither says how any of them works, so each benefit is now a per-member procedure with a contact, a place, a notice, a limit and a loss rule. "Per arc" becomes per quest, because arcs are retired.
 
 The informants follow the Guide's DC 13 Charisma check and its two-tenday penalty, which is 20 days. The check only words the request. Mirt refuses a vague request before the roll, a request inside the posting's access gets Advantage, and each posting has a stated limit, so no single roll decides what the member learns. One request per informant per quest keeps three small people from being used up.
 
@@ -22,4 +22,4 @@ Remallia attends the persona only if **Remallia Harper Contact Known** is marked
 
 Invented: Dena Holt (Lantern), Joss Marrin (Canvas), Darron Quill (Slate), Wil Keen, Ilen Castor and his address at 6 Shield Street, Sea Ward, and Mirt's corner table at the Yawning Portal. Nella Fen and Orin Dask use the addresses in **Harpshadow**. The informants speak only through Mirt, and Wil, Nella and Ilen are voiced from this page. Renown 25 needs about 6 more than the missions' 19 base, from bonuses and the Earning Renown list.
 
-The Factions Guide now matches this Event (Wise Owl at Renown 25, "the Splinter"). Appendix B (`:137`) and `3. Player Character Factions.pdf` credit the Harpers with knowing the Cassalanters are infernalists, which this Event ignores. Lords' Alliance Mission 6 gives the party its own audience with Laeral, which is separate from this channel.
+The Faction Operations page now matches this Event (Wise Owl at Renown 25, "the Splinter"). Appendix B (`:137`) and `3. Player Character Factions.pdf` credit the Harpers with knowing the Cassalanters are infernalists, which this Event ignores. Lords' Alliance Mission 6 gives the party its own audience with Laeral, which is separate from this channel.

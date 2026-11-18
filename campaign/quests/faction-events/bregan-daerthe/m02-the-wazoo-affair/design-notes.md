@@ -34,7 +34,7 @@ Invented names, all for minor NPCs: Pennet (the candlemaker's apprentice), Hovan
 
 - `campaign/setting/notable-figures/xanathars-guild/03-narl-xibrindas.md` line 8 lists **The Wazoo Affair** under Nar'l's "Featured in". Nar'l no longer appears here.
 - `campaign/setting/villains/jarlaxle.md` line 51 says Jarlaxle "knows about their infernal bargain through intelligence". Under the user's ruling this is now correct, and the page could name Vessa as the source.
-- `campaign/guides/factions/08-bregan-daerthe.md` line 67 describes the exposé as being about "an unnamed Sea Ward family's hidden gold and missing servants", not devil worship.
+- `campaign/setting/faction-operations/07-bregan-daerthe.md` line 78 describes the exposé as being about "an unnamed Sea Ward family's hidden gold and missing servants", not devil worship.
 - **The Theater's Back Room** now puts the windmill on Coachlamp Lane, as the source and Seffia's Notable Figures page do.
 - **Kreb Drops the Cover** and **Contact Severed** no longer read the cut Betrayal Pitch, and **Kreb Drops the Cover** reads **Wazoo Exposé Published**.
 - `campaign/guides/gm-guide/design-notes-running-the-campaign.md` line 126 calls Gaxly a "single-mission NPC", but he also appears in **The Black Viper Investigation**.

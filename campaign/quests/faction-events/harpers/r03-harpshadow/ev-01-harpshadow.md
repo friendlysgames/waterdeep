@@ -91,7 +91,7 @@ The first benefit is a direct question to Mirt every ten days. The member asks t
 > - **Limit:** one question per member every ten days. The count starts on the day the member asks, and tonight's question counts as the first.
 > - **Delay:** the note comes at noon the next day and cannot be hurried.
 > - **Content:** Mirt answers from what is confirmed. If he has nothing confirmed, he says so, and that question is not spent.
-> - **Later questions:** if the member asks how worried a faction is about the party, Mirt gives the faction's current escalation tier in his own words, from the **Escalation** section of its Factions Guide page. He covers Xanathar's Guild, the Splinter and the Cassalanters. If the member names any other faction, he says the Harpers have little on them and the question is not spent.
+> - **Later questions:** if the member asks how worried a faction is about the party, Mirt gives the faction's current escalation tier in his own words, from the **Escalation** section of its page in **Faction Operations**. He covers Xanathar's Guild, the Splinter and the Cassalanters. If the member names any other faction, he says the Harpers have little on them and the question is not spent.
 > - **Companions:** a companion who is not a Harper member cannot send a question, and Mirt does not answer one.
 > - **Renown loss:** a member whose Renown falls below 3 keeps the rank, and the channel and contacts are suspended until the Renown is restored.
 
@@ -131,7 +131,7 @@ The folded paper lists three contacts and the opening phrase. Mirt reads the phr
 > - **Hours:** 09:00 to 17:00. A shop that is shut has a shuttered window, and the contact does not open it.
 > - **One question per contact per member every ten days.** The count runs from the day that member asks that contact. One contact's use does not touch another's, and a companion's question never spends the member's.
 > - **Reply:** the contact writes the answer, and a shop runner delivers it sealed to the member's lodging at noon the next day. A member who is away finds it waiting.
-> - **Content:** each contact answers with one fact they could see themselves, taken from the **Outposts** and **Response Teams** entries in the Factions Guide for their ward. Anything beyond their ward gets "I can't see that far," and the question is not spent.
+> - **Content:** each contact answers with one fact they could see themselves, taken from the **Outposts** and **Response Teams** entries in **Faction Operations** for their ward. Anything beyond their ward gets "I can't see that far," and the question is not spent.
 > - **Contacts:** a member can approach any of them first and return to the others later.
 >
 > **Nella Fen**, chandler, 16 Fillet Lane, Dock Ward. She watches carts, loads and the waterfront.
@@ -233,7 +233,7 @@ The third benefit is a discount at the same three shops.
 
 ### Renown Opportunities
 
-The rank event awards no Renown. Each Harper member earns further Renown from missions and from the ordinary rewards listed in the Harpers page of the Factions Guide, at their own pace.
+The rank event awards no Renown. Each Harper member earns further Renown from missions and from the ordinary rewards listed in the Harpers page in Faction Operations, at their own pace.
 
 ### Aftermath
 

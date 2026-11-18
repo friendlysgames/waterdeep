@@ -45,7 +45,7 @@ Davil's cell sees an enormous opportunity in the half-million dragons — effort
 
 ## Cross-References
 
-- **Doom Raiders** (Factions guide): Grand Game stance, quest hooks, first meeting, renown and ranks, missions.
+- **Doom Raiders** (Faction Operations): Grand Game stance, quest hooks, first meeting, renown and ranks, missions.
 
 ## Overview
 

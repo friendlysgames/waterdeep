@@ -90,7 +90,7 @@ Helm is the lawful neutral god of watchfulness and protection. Guards, bodyguard
 - `sources/adventure-wdmm.json`: no Helm content. The hits are items and rooms with "helm" in the name.
 - `campaign/quests/faction-events/order-of-the-gauntlet/`: the First Meeting (`00-first-meeting/ev-01-first-meeting.md`, the recruitment order and the Chevall benefits), `r03-marcheon/ev-01-marcheon.md` (the Temple of Helm briefings and its four patterns), `r10-whitehawk/ev-01-whitehawk.md` (the three temples), `m04-spined-devils-in-twelvedog-court/ev-01-twelvedog-court.md` (the Aftermath), `s01-the-tithe/ev-01-the-tithe.md` (the hospice wing) and `r50-righteous-hand/ev-01-righteous-hand.md` (the investiture, the writ and the lodging).
 - `campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md`: the Order's recruitment row.
-- `campaign/guides/factions/05-order-of-the-gauntlet.md` and `campaign/guides/gm-guide/player-factions-overview.md`: the Chevall and Marcheon benefits.
+- `campaign/setting/faction-operations/04-order-of-the-gauntlet.md` and `campaign/guides/gm-guide/player-factions-overview.md`: the Chevall and Marcheon benefits.
 - `campaign/gazetteer/waterdeep/castle-ward.md`: the Castle Ward temple list and the Temple of Helm conflict note.
 - `campaign/setting/organizations/04-order-of-the-gauntlet.md`: the Waterdeep chapter and the Halls of Justice.
 - `campaign/setting/history/09-timekeeping-and-the-festival-calendar.md`: Shieldmeet and Gods' Day.

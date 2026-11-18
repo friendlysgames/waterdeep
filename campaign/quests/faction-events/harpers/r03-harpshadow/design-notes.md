@@ -4,11 +4,11 @@
 
 Each Harpshadow benefit is written as a per-member procedure with a contact, a place, a limit and a delay. Mirt's channel is one sealed answer per ten days, counted from the member's own last question. Each ward contact answers one question per member per ten days on a separate count. Nothing pools across the party, and companions get nothing. The opening phrase is the key to the contacts, and a forgotten phrase costs a day, not a question.
 
-The first question is answered at the dinner from confirmed facts only. It branches on **Shesstra Street Reported** and **Handler Ledger Read**, and Mirt says "the Black Network has split" when asked who leads the Splinter. This keeps the answer prepared without telling the member anything the party has not earned. Later questions are answered from the target faction's Escalation entry in the Factions Guide.
+The first question is answered at the dinner from confirmed facts only. It branches on **Shesstra Street Reported** and **Handler Ledger Read**, and Mirt says "the Black Network has split" when asked who leads the Splinter. This keeps the answer prepared without telling the member anything the party has not earned. Later questions are answered from the target faction's Escalation entry in Faction Operations.
 
 ## Source Departures
 
-Appendix B lists "faction-rate pricing" at Harper-affiliated suppliers and gives no rate. The remix makes it a tenth off at the three contact shops, mundane stock only. This is a remix concretisation, not a source fact. Appendix B puts the Harpshadow rank at Renown 3. The Factions Guide adds the three ward contacts, which the source does not name.
+Appendix B lists "faction-rate pricing" at Harper-affiliated suppliers and gives no rate. The remix makes it a tenth off at the three contact shops, mundane stock only. This is a remix concretisation, not a source fact. Appendix B puts the Harpshadow rank at Renown 3. The Faction Operations page adds the three ward contacts, which the source does not name.
 
 The previous draft had the member choose among three meeting places. The dinner is fixed at Mirt's manor so the GM has one scene to run. Mirt keeps his business gear throughout and does not swear.
 

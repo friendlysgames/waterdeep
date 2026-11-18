@@ -40,7 +40,7 @@ The Alliance wants the gold home. Members who bring the Grand Game to Jalester's
 
 ## Cross-References
 
-- **Lords' Alliance** (Factions guide): Grand Game stance, quest hooks, first meeting, renown and ranks, missions.
+- **Lords' Alliance** (Faction Operations): Grand Game stance, quest hooks, first meeting, renown and ranks, missions.
 
 ## Overview
 

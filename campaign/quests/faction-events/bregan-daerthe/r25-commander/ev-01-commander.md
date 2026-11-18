@@ -19,7 +19,7 @@ The six missions bring a member to Renown 19 on their base awards, so about 6 mo
 
 - The bonus lines in each mission.
 - The +1 from **Dinner with Zardoz**.
-- The Earning Renown list in the Bregan D'aerthe page of the Factions Guide.
+- The Earning Renown list in the Bregan D'aerthe page of Faction Operations.
 - The +1 or +2 in the cabin scene of **Fireball!**.
 - The +2 in **Gralhund Villa** when the party holds the Stone.
 
@@ -246,7 +246,7 @@ If **Jarlaxle Unmasked** is marked for the member, Jarlaxle says the same in his
 >
 > | Crew | Gunslingers | Drow | Notes |
 > |---|---|---|---|
-> | One | Pelsha (Drow Gunslinger) and Vorn (Drow Gunslinger) | four drow (**Scout**) | The guide's Commander row: two Drow Gunslingers and four drow |
+> | One | Pelsha (Drow Gunslinger) and Vorn (Drow Gunslinger) | four drow (**Scout**) | The Commander row in **Faction Operations**: two Drow Gunslingers and four drow |
 > | Two | Ilmra Kelnozz (she/her) and Brythe Mizzrym (he/him), both Drow Gunslingers | four drow (**Scout**) | Invented for this Event |
 >
 > Ilmra and Brythe use the same stat blocks and obey the same limits. Ilmra is blunt and Brythe is polite, and neither says anything about the captain.
@@ -347,7 +347,7 @@ In the Jarlaxle version he says the same in his own voice, with less noise and a
 
 ### Renown Opportunities
 
-This rank awards no Renown, gold or Milestone Points. The favours, crews and captain's company are the rank's own benefits and do not count as a report to the company. Further Renown comes from the missions and the Earning Renown list in the Bregan D'aerthe page of the Factions Guide.
+This rank awards no Renown, gold or Milestone Points. The favours, crews and captain's company are the rank's own benefits and do not count as a report to the company. Further Renown comes from the missions and the Earning Renown list in the Bregan D'aerthe page of Faction Operations.
 
 If a member's Renown falls below 25, the member keeps the rank but the Commander benefits are suspended and Pelsha and Vorn go back to the company. The benefits return at Renown 25.
 

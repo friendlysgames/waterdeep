@@ -16,7 +16,7 @@
 
 Hold this Event until **BD Commander** is marked for the member. Fire it on the first evening the member is back in Waterdeep after reaching Renown 50, so it never interrupts a descent. The card waits on the doormat of Trollskull Manor when the party next comes up from below. A member who has marked **Seven Masks Back Room** receives it at the dressing room instead (see **The Card**). If several members qualify together, call them to the same evening. Each takes the coin and answers alone.
 
-The base awards total 19 (1 for joining and 18 across the six missions). The mission bonus lines, the Earning Renown list in the Bregan D'aerthe page of the Factions Guide and play in **Dungeon of the Mad Mage** supply the rest. This Event awards no Renown. It fires when the member crosses 50, before or after **Vault of Dragons** resolves.
+The base awards total 19 (1 for joining and 18 across the six missions). The mission bonus lines, the Earning Renown list in the Bregan D'aerthe page of Faction Operations and play in **Dungeon of the Mad Mage** supply the rest. This Event awards no Renown. It fires when the member crosses 50, before or after **Vault of Dragons** resolves.
 
 > [!gamemaster]**What Is Actually True**
 >

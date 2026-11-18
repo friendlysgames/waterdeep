@@ -115,5 +115,5 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 > - **Settled:** The "Who suspects" bullet now reads "too nice to be this rich and this purebred", matching CLAUDE.md, the Era page and the Asmodeus page.
 > - **Conflicts:** Public cover. The wiki lists Waukeen, Siamorphe and Asmodeus as favored deities. The campaign's public cover is Lathander for Victoro and Siamorphe for the house, which matches *Dragon Heist*, and the page keeps it.
 > - **Answered from the wiki:** The house was ennobled in 1248 DR, Caladorn was Victoro's father and a Masked Lord and later Open Lord, and the twins were to become lemures.
-> - **Conflicts:** The cross-reference line to the Faction Operations page assumes the guide pages move. Until `guides/factions/11-cassalanters.md` is removed, both copies exist.
+> - **Conflicts:** The cross-reference line names the Faction Operations page. The guide page `guides/factions/11-cassalanters.md` is retired and its text now lives there.
 > - **Routed facts:** Sister Valdra's three pieces of Cassalanter intelligence belong on her Notable Figures page and the Order of the Gauntlet page. Vevette Blackwater's refusal of Seffia's approach belongs on the **Vevette Blackwater** page and in the Windmill revelation list in Faction Operations. Check that each is stated there as well.

@@ -6,7 +6,7 @@ Each Redknife benefit is a per-member procedure with a contact, a notice rule, a
 
 ## What Changed From the Source
 
-The draft gave every benefit as a speech with no limits, no contact and no counters. The old text sent notes "through the usual drop" without saying where the drop was, so the escort now runs through Durnan. The Cloak overlook and the string no longer overlap. The overlook is an officer's choice on the street before anything is written. The string removes a charge or report after it is on paper. The Factions Guide lists the Watch patrol schedules at Renown 3. The First Meeting already delivers them as the Cloak's patrol note, so this Event does not repeat them.
+The draft gave every benefit as a speech with no limits, no contact and no counters. The old text sent notes "through the usual drop" without saying where the drop was, so the escort now runs through Durnan. The Cloak overlook and the string no longer overlap. The overlook is an officer's choice on the street before anything is written. The string removes a charge or report after it is on paper. The Faction Operations page lists the Watch patrol schedules at Renown 3. The First Meeting already delivers them as the Cloak's patrol note, so this Event does not repeat them.
 
 ## Reading by Other Events
 

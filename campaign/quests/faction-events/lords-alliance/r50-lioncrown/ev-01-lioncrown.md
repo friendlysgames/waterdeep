@@ -391,7 +391,7 @@ Jalester walks the member to the gate. If **Laeral Told of Jalester** is marked,
 
 ### Renown Opportunities
 
-The rank event awards no Renown, gold or Milestone Points, and the Lioncrown has no higher rank to reach. Further Renown comes from the ordinary rewards listed on the Lords' Alliance page of the Factions Guide.
+The rank event awards no Renown, gold or Milestone Points, and the Lioncrown has no higher rank to reach. Further Renown comes from the ordinary rewards listed on the Lords' Alliance page in Faction Operations.
 
 ### Aftermath
 

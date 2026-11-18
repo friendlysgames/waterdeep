@@ -14,7 +14,7 @@ The three benefits stay apart from the Initiate set that **Bregan D'aerthe First
 
 ## The Report Ladder and the Lost Source
 
-The report is a fixed ladder: the Guild's escalation tier toward the party, plus the next response team not yet beaten. Both come from the Response Teams and Escalation sections of the **Xanathar's Guild** Factions Guide page. Every report is prepared in advance, outposts and the lair stay unspoiled, and the guide's rule holds that reports give movement and contacts and never layout. Nobody names Nar'l before **The Compromised Eye**, so the notes say "our friend inside".
+The report is a fixed ladder: the Guild's escalation tier toward the party, plus the next response team not yet beaten. Both come from the Response Teams and Escalation sections of the **Xanathar's Guild** page in **Faction Operations**. Every report is prepared in advance, outposts and the lair stay unspoiled, and that page's rule holds that reports give movement and contacts and never layout. Nobody names Nar'l before **The Compromised Eye**, so the notes say "our friend inside".
 
 The channel degrades by **The Compromised Eye** outcome.
 

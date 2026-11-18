@@ -23,5 +23,5 @@ Renown 25 does not come from the missions alone. Joining and the six missions gi
 Invented: Rhendar's alignment, his dwarf species and scarred splint armor, his refusals and his voice (he has no profile, so it comes from the event text), the Staged Death procedure, the case list, the badge replacement and misuse rules, and the Tower steps as the meeting point.
 
 For the out-of-scope log:
-- `campaign/guides/factions/06-force-grey.md:57` says "Veteran" and casts the spell "for the party". It should say Warrior Veteran and per member.
+- `campaign/setting/faction-operations/05-force-grey.md:72` says "Veteran" and casts the spell "for the party". It should say Warrior Veteran and per member.
 - The Force Grey r50 event names Rhendar in its team, so a dead Rhendar (see Staged Death) needs a stated replacement there.

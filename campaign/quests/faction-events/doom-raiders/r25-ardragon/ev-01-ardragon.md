@@ -298,7 +298,7 @@ If the member names a target tonight, Davil writes the name, the place and the c
 
 ### Renown Opportunities
 
-This rank awards no Renown, gold or Milestone Points. The informants' answers are Davil's own intelligence and do not count as a member's report of the rival cell. Each member earns further Renown from the missions and from the ordinary rewards in the Doom Raiders page of the Factions Guide.
+This rank awards no Renown, gold or Milestone Points. The informants' answers are Davil's own intelligence and do not count as a member's report of the rival cell. Each member earns further Renown from the missions and from the ordinary rewards in the Doom Raiders page of Faction Operations.
 
 ### Aftermath
 

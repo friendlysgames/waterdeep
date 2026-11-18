@@ -243,7 +243,7 @@ A Marcheon operation counts as Savra fighting beside the member for **Savra's Pa
 
 ### Renown Opportunities
 
-The rank event awards no Renown. Each Marcheon member earns further Renown from missions, and from the ordinary rewards listed on the Order of the Gauntlet page of the Factions Guide.
+The rank event awards no Renown. Each Marcheon member earns further Renown from missions, and from the ordinary rewards listed on the Order of the Gauntlet page in Faction Operations.
 
 ### Aftermath
 

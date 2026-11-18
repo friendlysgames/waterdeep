@@ -7,7 +7,7 @@
 > - This is the villain profile for Xanathar, the beholder crime lord of **Xanathar's Guild**. It sets out its three personality phases, its relationships, its goals and the one design note that makes it playable.
 > - Use it when you run any scene where Xanathar or the Guild acts or reacts. Phase 1 covers Acts I and II, Phase 2 covers Act III, and Phase 3 begins when the party enters its lair.
 > - Xanathar appears in **Finding Floon**, **Faction Outposts**, **Xanathar's Lair** and **Vault of Dragons**. The **Xanathar Sewer Hideout** is the location journal for its sewer base.
-> - The Guild's response teams, outposts, escalation row and revelation list live in the **Xanathar's Guild** page of the Factions Guide. Who the Guild is lives in the **Xanathar's Guild** page of Organizations.
+> - The Guild's response teams, outposts, escalation row and revelation list live in the **Xanathar's Guild** page of Faction Operations. Who the Guild is lives in the **Xanathar's Guild** page of Organizations.
 
 **Purpose:** Lets the GM portray Xanathar as a specific, three-dimensional villain through three personality phases, a relationship table and three goals.
 
@@ -93,7 +93,7 @@ Xanathar's Guild is the largest criminal organization in Waterdeep, and the only
 - **Xanathar**, **Ahmaergo**, **Nar'l Xibrindas**, **Nihiloor** (Notable Figures): full profiles for the Relationships table
 - **Manshoon** and **Jarlaxle Baenre** (Villains): the rival and the unidentified player in the Relationships table
 - **Running the Villains**: villain reference tables
-- **Xanathar's Guild** (Factions Guide): response teams, outposts, escalation, revelation list
+- **Xanathar's Guild** (Faction Operations): response teams, outposts, escalation, revelation list
 - **Xanathar's Guild** (Organizations): who the Guild is
 
 > [!gamemaster]**Draft Notes**
@@ -107,5 +107,5 @@ Xanathar's Guild is the largest criminal organization in Waterdeep, and the only
 > - **Settled:** The Manshoon relationship is an active, low-level street war in the Dock Ward, and `running-the-villains.md` line 71 now says the same.
 > - **Conflicts:** The vault motive here is proof of supremacy, and the Guild knows the Stone is the key but not what the Eye does, that there are three, or where the vault is. The Guild organization page line 17 and `arc-j` line 19 ("kept hidden as leverage") disagree. The Alexandrian briefing says "one of Three", and the X12 briefing in **Xanathar's Lair** must omit that line.
 > - **Conflicts:** The Overview and the phase table call Sylgar a goldfish, and the published adventure never uses that word. Check the Alexandrian files before the prose pass.
-> - **Conflicts:** The Cross-References name the Factions Guide page for the Guild. The operations text is moving to Faction Operations, so retarget this line when the guide pages are removed.
+> - **Conflicts:** The Cross-References name the **Xanathar's Guild** page in Faction Operations, where the operations text lives.
 > - **Routed facts:** Zushaxx as the current Xanathar, Kirukesai as a previous one, and the "it" pronoun belong on the **Xanathar** Notable Figure page and the Guild organization page, which still use "he/his" in places.

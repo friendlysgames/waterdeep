@@ -247,7 +247,7 @@ If the member visits Orin Dask, he gives the same answer about a map order two w
 
 ### Renown Opportunities
 
-The rank event awards no Renown. Each Brightcandle member earns further Renown from missions and from the Earning Renown list in the Harpers page of the Factions Guide.
+The rank event awards no Renown. Each Brightcandle member earns further Renown from missions and from the Earning Renown list in the Harpers page in Faction Operations.
 
 ### Aftermath
 

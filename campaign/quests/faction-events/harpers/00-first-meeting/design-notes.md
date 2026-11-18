@@ -14,7 +14,7 @@ Mirt names the Black Network's split only if a player raises Manshoon, and he ne
 
 ## Source Departures
 
-WDH and Appendix B give the first mission at the pin. The remix holds it back, and **The Talking Mare** arrives by its own brief at 2nd level. The invitation says Sea Ward in WDH and Appendix B. The Lightsinger is placed in the Castle Ward, as WDH's own area text, the Factions Guide and the earlier drafts do.
+WDH and Appendix B give the first mission at the pin. The remix holds it back, and **The Talking Mare** arrives by its own brief at 2nd level. The invitation says Sea Ward in WDH and Appendix B. The Lightsinger is placed in the Castle Ward, as WDH's own area text, the Faction Operations page and the earlier drafts do.
 
 ## Invented Names and Open Items
 

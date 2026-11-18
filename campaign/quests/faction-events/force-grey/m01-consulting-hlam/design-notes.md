@@ -25,6 +25,6 @@ Invented: the kettle on the stone and the cup Hlam offers and drinks himself, Hl
 Outside this folder, for the out-of-scope log:
 - `campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md:79` and `campaign/structure/arc-b-trollskull-alley.md:145` call the first answer "an oblique reference to Manshoon" and quote it with different punctuation.
 - `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:73` says Hlam's warning concerns "deep-harbor movement", which this mission does not mention.
-- `campaign/guides/factions/06-force-grey.md:7` says Hlam gave Vajra "Manshoon's shape" at campaign start. After this mission he gives only the shape of the old Black Network.
+- `campaign/setting/faction-operations/05-force-grey.md:18` says Hlam gave Vajra "Manshoon's shape" at campaign start. After this mission he gives only the shape of the old Black Network.
 - The Notable Figures pages for Hlam and Vajra (`:8` in each) still list this mission under its old "Force Grey Mission 1" label.
 - Hlam's "before winter's end" is kept as written for the Trollskull quote. The campaign opens on Ches 1, so the line can mean a few weeks or the following winter, and no page says which.

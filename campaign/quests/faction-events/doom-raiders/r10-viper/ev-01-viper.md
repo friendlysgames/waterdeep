@@ -84,7 +84,7 @@ The Network arranges one forged document per quest for each Viper member, counte
 > The member names the kind of document and the cover identity, and the player chooses the name. The member asks Tashlyn or Davil, or tells Yagra at the bar of the Yawning Portal, and Halric Sennet brings the finished papers to the member's lodging at noon on the third day, with no charge and no roll for availability.
 >
 > - **What the papers do:** they pass any ordinary inspection at a gate, a counter, a guardpost or a noble's door. An official who has a reason to doubt them must make a DC 16 Intelligence (Investigation) check to find a flaw.
-> - **What they cannot do:** they fail a records search. Identity papers name a person who appears in no register, a license is not in the guild's own book, and a letter of introduction fails if the person it introduces is asked about. They also fail magical verification, which is the limit the Factions Guide sets.
+> - **What they cannot do:** they fail a records search. Identity papers name a person who appears in no register, a license is not in the guild's own book, and a letter of introduction fails if the person it introduces is asked about. They also fail magical verification, which is the limit Faction Operations sets.
 > - **How long they last:** for the rest of the quest they were made for and a tenday after it ends. Halric asks for them back or burns them.
 > - **Decision:** the member decides at this meeting whether to order this quest's document now or to keep it for later in the quest. A quest's document not ordered before the quest ends is lost.
 
@@ -196,7 +196,7 @@ The Network keeps four specialists, and each Viper member may call one for a sin
 
 ### Renown Opportunities
 
-The rank event awards no Renown. Each Viper member earns further Renown from the missions and from the ordinary rewards in the Doom Raiders page of the Factions Guide.
+The rank event awards no Renown. Each Viper member earns further Renown from the missions and from the ordinary rewards in the Doom Raiders page of Faction Operations.
 
 ### Aftermath
 

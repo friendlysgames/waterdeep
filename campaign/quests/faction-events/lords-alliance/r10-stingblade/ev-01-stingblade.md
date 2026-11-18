@@ -269,7 +269,7 @@ Jalester writes down whatever the member answers and says "Understood.", and not
 
 ### Renown Opportunities
 
-The rank event awards no Renown. Each Stingblade earns further Renown from missions and from the ordinary rewards listed in the Lords' Alliance page of the Factions Guide, at their own pace.
+The rank event awards no Renown. Each Stingblade earns further Renown from missions and from the ordinary rewards listed in the Lords' Alliance page in Faction Operations, at their own pace.
 
 ### Aftermath
 

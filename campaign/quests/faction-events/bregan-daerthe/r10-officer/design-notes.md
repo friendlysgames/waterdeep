@@ -11,7 +11,7 @@ The restored draft chose the contact by whether **Three Nights** was complete an
 
 ## The Records
 
-The draft's folio duplicated the ledger that **Fireball!** already hands over, since Jarlaxle gives the complete ledger to Bregan D'aerthe members in the cabin and the party can steal it. The records stay as the Officer benefit because the Factions Guide names them. A party that already holds the ledger gets buyer-trace annotations instead. These are invented: where each unit is kept in its buyer's house, and when it last left. They give Advantage on one check and add no new facts about the buyers. The handover pays no Renown, so the +2 for taking the records from the Faire stays a separate reward for a member who steals them.
+The draft's folio duplicated the ledger that **Fireball!** already hands over, since Jarlaxle gives the complete ledger to Bregan D'aerthe members in the cabin and the party can steal it. The records stay as the Officer benefit because **Faction Operations** names them. A party that already holds the ledger gets buyer-trace annotations instead. These are invented: where each unit is kept in its buyer's house, and when it last left. They give Advantage on one check and add no new facts about the buyers. The handover pays no Renown, so the +2 for taking the records from the Faire stays a separate reward for a member who steals them.
 
 ## The Item Table
 
@@ -29,7 +29,7 @@ The six missions award 2, 2, 3, 3, 4 and 4 base Renown, which brings a member fr
 
 - the bonus +1 lines in each mission;
 - **Dinner with Zardoz**;
-- the Earning Renown list in the Factions Guide (the intelligence, Golorr artifact, Nar'l, Faire-cover and creativity items);
+- the Earning Renown list in **Faction Operations** (the intelligence, Golorr artifact, Nar'l, Faire-cover and creativity items);
 - **Fireball!** (+1 or +2 for a member);
 - **Gralhund Villa** (+2).
 

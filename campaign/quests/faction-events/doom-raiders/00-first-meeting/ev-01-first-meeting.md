@@ -413,7 +413,7 @@ If the candidate declined, read or paraphrase the following:
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Doom Raiders Joined** — mark for each character who accepts Davil's offer, whether that night or on a later evening before **Trollskull Alley** ends, and record the character's name. Read by the **Doom Raiders** Factions Guide page, by **Davil's Arrest**, and by every Doom Raiders faction mission beginning with **The Dockside Killer**, to confirm each member's individual eligibility. Companions and characters who joined another faction are not enrolled by this outcome. Leave it unmarked if every candidate declines or no private meeting takes place.
+> - **Doom Raiders Joined** — mark for each character who accepts Davil's offer, whether that night or on a later evening before **Trollskull Alley** ends, and record the character's name. Read by the **Doom Raiders** page in **Faction Operations**, by **Davil's Arrest**, and by every Doom Raiders faction mission beginning with **The Dockside Killer**, to confirm each member's individual eligibility. Companions and characters who joined another faction are not enrolled by this outcome. Leave it unmarked if every candidate declines or no private meeting takes place.
 
 > [!gamemaster]**Next Steps**
 >

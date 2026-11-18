@@ -10,7 +10,7 @@ The draft closed Bregan D'aerthe to the whole party after one report. Membership
 
 ## Permanence
 
-The source says contact ends "for the time being" (`sources/adventure-wdh.json` near line 3600) and "for now" (`sources/Appendix_B_-_Player_Factions.md` near line 719). The remix guide and `player-factions-overview.md` say permanent. The event uses a rule a GM can apply without prep: the door is closed for the rest of Acts I through III. That keeps the source's softness, since nothing says the closure outlasts the Faire, and it matches the guide for every scene the Bregan D'aerthe events cover. **Vault of Dragons** is named as the first place anything could change, and the event doesn't write that scene.
+The source says contact ends "for the time being" (`sources/adventure-wdh.json` near line 3600) and "for now" (`sources/Appendix_B_-_Player_Factions.md` near line 719). The Bregan D'aerthe page in **Faction Operations** and `player-factions-overview.md` say permanent. The event uses a rule a GM can apply without prep: the door is closed for the rest of Acts I through III. That keeps the source's softness, since nothing says the closure outlasts the Faire, and it matches that page for every scene the Bregan D'aerthe events cover. **Vault of Dragons** is named as the first place anything could change, and the event doesn't write that scene.
 
 ## Timing
 
@@ -45,7 +45,7 @@ Jalester is the buyer because his page and profile fit a field agent who pays fo
 
 - Invented in this event: the flower pot on the doorstep, Dunmere's constable walking the alley two nights, Fel'rekt's note with the returned card, the ten-day window and Ches 20 cutoff for the sale, the 50 gp price, and the rule that a severed character may stand beside a member in public mission scenes. Jalester Silvermane, Fel'rekt Lafeen and Marek Dunmere appear as written elsewhere, and no Notable Figures page exists for Dunmere.
 - The event assumes Jalester meets the party at the **Lords' Alliance First Meeting**. That event is unconverted and still has him locate the party on his own terms, at the Yawning Portal or at Trollskull Manor.
-- `campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md` (line 121), `campaign/guides/gm-guide/player-factions-overview.md` (lines 169 and 176) and `campaign/guides/factions/08-bregan-daerthe.md` (line 37) still describe **BD Contact Severed** as party-wide and permanent.
+- `campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md` (line 121), `campaign/guides/gm-guide/player-factions-overview.md` (lines 169 and 176) and `campaign/setting/faction-operations/07-bregan-daerthe.md` (line 48) still describe **BD Contact Severed** as party-wide and permanent.
 - `campaign/quests/act-ii/gralhund-villa/ev-01-what-the-factions-say.md` branches Jarlaxle's brief on whether a Bregan D'aerthe operative is in the party, and `campaign/quests/act-ii/fireball/ev-04-the-sea-maidens-faire.md` (line 106) sends any such operative to the private cabin. Both are party-level checks. This event reads them per character.
 - `campaign/quests/act-ii/fireball/ev-01-the-fireball.md` (line 206) sends the theater tickets to a drow party member or to the group without a membership check, which this event relies on.
 - `campaign/structure/arc-h-sea-maidens-faire.md` gates its resolution paths on Bregan D'aerthe membership for the party, not for each character, and does not name **BD Contact Severed**.

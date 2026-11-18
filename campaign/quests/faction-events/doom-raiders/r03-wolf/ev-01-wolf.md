@@ -147,7 +147,7 @@ Both then give the second part in a single sentence built from the ladder above.
 >
 > > "Ask about whichever worries you, my friends, though I'll confess I'd be pleased if it were the other cell. The Xanathar's people are dangerous, but they do at least behave like a guild. The other cell's people behave like a rumor, and I would like a great deal more news of them."
 
-If the member chooses the other cell, Davil or Tashlyn is visibly pleased, and adds one sentence in their own voice asking the member to bring back anything confirmed about that cell. Renown for such reports is earned as the Factions Guide describes and is not awarded here. If the member chooses Xanathar's Guild, Davil says that is a sensible worry and Tashlyn says nothing.
+If the member chooses the other cell, Davil or Tashlyn is visibly pleased, and adds one sentence in their own voice asking the member to bring back anything confirmed about that cell. Renown for such reports is earned as **Faction Operations** describes and is not awarded here. If the member chooses Xanathar's Guild, Davil says that is a sensible worry and Tashlyn says nothing.
 
 > [!exploration]**A Glance at the Curtain**
 >
@@ -229,7 +229,7 @@ Any Wolf member can visit Istrid Horn's warehouse in the Dock Ward once the meet
 
 ### Renown Opportunities
 
-The rank event awards no Renown. Each Wolf member earns further Renown from the missions, and from the ordinary rewards listed in the Doom Raiders page of the Factions Guide, at their own pace.
+The rank event awards no Renown. Each Wolf member earns further Renown from the missions, and from the ordinary rewards listed in the Doom Raiders page of Faction Operations, at their own pace.
 
 ### Aftermath
 

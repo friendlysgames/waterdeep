@@ -31,7 +31,7 @@ Force Grey is allied to the Open Lord. If Force Grey members bring the Grand Gam
 
 ## Cross-References
 
-- **Force Grey** (Factions guide): Grand Game stance, quest hooks, first meeting, renown and ranks, missions.
+- **Force Grey** (Faction Operations): Grand Game stance, quest hooks, first meeting, renown and ranks, missions.
 
 ## Overview
 

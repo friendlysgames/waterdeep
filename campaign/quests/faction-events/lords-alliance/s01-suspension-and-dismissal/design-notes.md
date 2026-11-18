@@ -10,7 +10,7 @@ The Appendix B line that the Alliance will "formally suspend or dismiss" a membe
 
 Each of the first five Briefs now states its deadline in Jalester's speech, and the trigger table reads those words. **Six Bells at the Muleskull** is the tenth evening, **The Exile's Return** is dawn after the third night, and **The Red Wizard's Price** is the handshake at half past seven.
 
-The Event fires on refusal, or on a deadline that passes with no step taken, and it never fires on an honest failure. That follows the Factions Guide line that a clean failure costs nothing, and it removes the old word "fails". **The Exile's Return** also defines a job that goes loud, and the Event leaves that cost where the mission put it.
+The Event fires on refusal, or on a deadline that passes with no step taken, and it never fires on an honest failure. That follows the Faction Operations line that a clean failure costs nothing, and it removes the old word "fails". **The Exile's Return** also defines a job that goes loud, and the Event leaves that cost where the mission put it.
 
 ## The Visit and the Compelling Reasons
 
