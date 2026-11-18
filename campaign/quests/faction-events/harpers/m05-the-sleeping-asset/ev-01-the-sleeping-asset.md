@@ -70,7 +70,7 @@ All three leads end at the same place, the west bench by the public well in the 
 
 > [!social]**The Courier**
 >
-> Wil Keen (Neutral Good, Waterdhavian Human, he/him) :: a Harper courier in his thirties who works the Dock Ward and wears the grey of a dock carter.
+> Wil Keen (Neutral Good, Chondathan Human, he/him) :: a Harper courier in his thirties who works the Dock Ward and wears the grey of a dock carter.
 >
 > Wil meets the members outside the Shrimp Street warehouse at 10:00. He saw Corene three weeks ago during a Watch sweep, standing in the loading room with her hands folded while everyone else shouted. He has not liked it since.
 >
@@ -82,7 +82,7 @@ All three leads end at the same place, the west bench by the public well in the 
 
 > [!social]**The Harbormaster's Assistant**
 >
-> Pell Tormar (Lawful Good, Waterdhavian Human, he/him) :: a clerk at the Dock Ward cargo office and a quiet Harper sympathizer.
+> Pell Tormar (Lawful Good, Tethyrian Human, he/him) :: a clerk at the Dock Ward cargo office and a quiet Harper sympathizer.
 >
 > Pell is at the cargo office from 09:00 to 17:00. He saw Corene at a Guild cargo review that handles routing, which she has no reason to attend.
 >
@@ -90,7 +90,7 @@ All three leads end at the same place, the west bench by the public well in the 
 
 > [!social]**The Landlady**
 >
-> Sella Brant (Lawful Neutral, Waterdhavian Human, she/her) :: the keeper of Three Lanterns House, 7 Windborne Way in the Field Ward, who is home all day.
+> Sella Brant (Lawful Neutral, Chondathan Human, she/her) :: the keeper of Three Lanterns House, 7 Windborne Way in the Field Ward, who is home all day.
 >
 > Sella is practical and dislikes surprises. Halla paid three months' rent in advance last week and has slept at the house most nights since. That is new, and Sella says so.
 >

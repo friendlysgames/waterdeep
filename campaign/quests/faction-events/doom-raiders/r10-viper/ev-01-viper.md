@@ -90,7 +90,7 @@ The Network arranges one forged document per quest for each Viper member, counte
 
 > [!social]**The Scrivener**
 >
-> Halric Sennet (Neutral, Waterdhavian Human, he/him) :: a soft-spoken Trades Ward scrivener in his sixties, with ink-stained fingers, who has never put his own name to anything.
+> Halric Sennet (Neutral, Tethyrian Human, he/him) :: a soft-spoken Trades Ward scrivener in his sixties, with ink-stained fingers, who has never put his own name to anything.
 >
 > Halric is Indifferent to the member's reasons and Friendly to their patience. He asks about the cover identity in detail, because a story with holes is worse than no papers. He will not make a document for a kind of person who does not exist, such as a licensed Waterdhavian guild mage with no guild.
 >
@@ -163,7 +163,7 @@ Yagra Stonefist is the Network's muscle for each Viper member, for one operation
 
 > [!social]**The Understudy**
 >
-> Brannoc Hale (Neutral, Waterdhavian Human, he/him) :: a scarred sellsword in his forties, trained by Tashlyn, who takes Yagra's place when she is out and never explains himself.
+> Brannoc Hale (Neutral, Illuskan Human, he/him) :: a scarred sellsword in his forties, trained by Tashlyn, who takes Yagra's place when she is out and never explains himself.
 >
 > Brannoc is Indifferent, dry and competent. He speaks in plain sentences, takes the money and the order, and does both without a word of complaint.
 >
@@ -184,7 +184,7 @@ The Network keeps four specialists, and each Viper member may call one for a sin
 > - **Halric Sennet, forgery:** copies a handwriting or seal from a sample within an hour and forges or alters one written document on the spot.
 > - **Brenna Dolgar (Neutral, Shield Dwarf, she/her), lockpicking:** opens any non-magical lock of DC 20 or lower in one minute.
 > - **Alchemy:** identifies any non-magical potion, poison or reagent on sight and prepares one dose of antitoxin, Basic Poison or acid overnight. Before **Silencing Skeemo** has played, the alchemist is Skeemo Weirdbottle. Once it has played, the alchemist is **Loria Finch** (Neutral, Lightfoot Halfling, she/her), who takes the seat only after that mission.
-> - **Odalys Quenn (Neutral, Waterdhavian Human, she/her), disguise:** disguises up to four people in an hour, and an observer needs a DC 15 Intelligence (Investigation) check to see through it.
+> - **Odalys Quenn (Neutral, Calishite Human, she/her), disguise:** disguises up to four people in an hour, and an observer needs a DC 15 Intelligence (Investigation) check to see through it.
 
 > [!qna]**Who are they?**
 >

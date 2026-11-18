@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - *Human fighter, neutral good (when himself) / neutral evil (while occupied)*. Stat block: **Warrior Veteran**.
+> - *Chondathan human fighter, neutral good (when himself) / neutral evil (while occupied)*. Stat block: **Warrior Veteran**.
 > - **Affiliation:** Force Grey (occupied by a Xanathar's Guild intellect devourer after the Field of Triumph, about three tendays before the first day of the watch)
 > - **Featured in:** **Trollskull Alley**, **The Dragon in the Harbor**, **The Trouble with Meloon**, **Destroy the Intellect Factory**, **The Legate's Eyes**
 > - **Timing:** The published adventure has the devourer take him "several months ago". The campaign moves it to after the Field of Triumph so the party meets him as himself first, as the Meloon section of the **Trollskull Alley** design notes explains.

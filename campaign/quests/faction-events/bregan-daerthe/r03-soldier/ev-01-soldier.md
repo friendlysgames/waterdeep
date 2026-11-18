@@ -275,7 +275,7 @@ The third arrangement is a shop, and the front of Nevercott's card gives its add
 
 > [!social]**The Fence with the Ledger**
 >
-> Ostrin Brindle (Neutral, Waterdhavian Human, he/him) :: a Dock Ward pawnbroker in his sixties who sells the company's people what a licensed shop won't and keeps his books as neatly as a priest.
+> Ostrin Brindle (Neutral, Illuskan Human, he/him) :: a Dock Ward pawnbroker in his sixties who sells the company's people what a licensed shop won't and keeps his books as neatly as a priest.
 >
 > Ostrin is Friendly and chatty about everything on his shelves, and he is careful to know nothing about his customers. He wipes whatever he is holding while he talks and calls everyone "dear". He swears mildly, and rarely, when a customer tries to haggle him below the rate. The company has paid him for six months, and he doesn't know where the black card comes from.
 >

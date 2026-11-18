@@ -177,7 +177,7 @@ The paper's second line gives the safe-house address, and it is the member's to 
 
 > [!social]**The Chandler**
 >
-> Wenna Tarrow (Neutral, Waterdhavian Human, she/her) :: a widowed tallow chandler in her fifties who lets the Doom Raiders use her loft and prefers not to know why.
+> Wenna Tarrow (Neutral, Illuskan Human, she/her) :: a widowed tallow chandler in her fifties who lets the Doom Raiders use her loft and prefers not to know why.
 >
 > Wenna is Friendly and talkative about everything except the loft's guests, and she tends to trail off into the price of wick cotton when a question gets too close. She asks for no names and forgets faces on purpose. She does not know the Doom Raiders are Zhentarim, or she says she does not.
 >

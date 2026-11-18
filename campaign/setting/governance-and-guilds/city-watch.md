@@ -69,7 +69,7 @@ The wiki gives Castle Waterdeep a garrison of 1,400 City Guard in 1372 DR (wiki;
 
 **Tashlyn Yafeera** (Lawful Evil, Calishite Human, she/her) is the Doom Raiders' Master of Arms and Mercenaries. She holds the rank of captain in the City Guard as cover and watches the traffic through the South Gate.
 
-Several more officers have no Notable Figures page, so they stay as plain text. Hyustus Staget (Lawful Good, Illuskan Human, he/him) is the uptight captain who keeps the peace in the Dock Ward and has been dragging his heels on the Zhentarim and Xanathar's Guild, since he reasons that they may as well destroy each other. If he has died, the published adventure replaces him with Cressa Galavarco (Lawful Good, Tethyrian Human, she/her), a veteran. Officers Jonn Bannock (Lawful Neutral, Waterdhavian Human, he/him) and Ysa Terrow (Lawful Neutral, Waterdhavian Human, she/her) work the late shift in **Ten Nights in the City of the Dead**, where they keep the party off the Brandath ground.
+Several more officers have no Notable Figures page, so they stay as plain text. Hyustus Staget (Lawful Good, Illuskan Human, he/him) is the uptight captain who keeps the peace in the Dock Ward and has been dragging his heels on the Zhentarim and Xanathar's Guild, since he reasons that they may as well destroy each other. If he has died, the published adventure replaces him with Cressa Galavarco (Lawful Good, Tethyrian Human, she/her), a veteran. Officers Jonn Bannock (Lawful Neutral, Illuskan Human, he/him) and Ysa Terrow (Lawful Neutral, Tethyrian Human, she/her) work the late shift in **Ten Nights in the City of the Dead**, where they keep the party off the Brandath ground.
 
 ## Overview
 

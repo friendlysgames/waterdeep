@@ -153,7 +153,7 @@ If **Offerings Kept** is marked, Vajra adds one line that carries Meritide's gru
 
 > [!social]**The Man Who Does Not Ask**
 >
-> Merris (Neutral, Waterdhavian Human, he/him) :: the Tower's quartermaster, a heavyset man who records every item he issues and never asks what it is for.
+> Merris (Neutral, Chondathan Human, he/him) :: the Tower's quartermaster, a heavyset man who records every item he issues and never asks what it is for.
 >
 > Merris is Indifferent and slow to speak, and he licks his thumb to turn each page of the ledger and answers only what was asked. He does not swear, and he does not gossip about the other floors.
 >

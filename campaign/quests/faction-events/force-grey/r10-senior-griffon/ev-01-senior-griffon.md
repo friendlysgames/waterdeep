@@ -134,7 +134,7 @@ Vajra turns her head toward the window, and the woman in the grey coat steps for
 
 > [!social]**The Tower's Mage**
 >
-> Ysmay Halvane (Neutral, Waterdhavian Human, she/her) :: a mage of the Tower's staff in her thirties, who teaches evenings at the Academy and prefers a plan to an improvisation.
+> Ysmay Halvane (Neutral, Tethyrian Human, she/her) :: a mage of the Tower's staff in her thirties, who teaches evenings at the Academy and prefers a plan to an improvisation.
 >
 > Ysmay is Friendly toward anyone Vajra has vouched for, and brisk about it. She asks about exits, civilians and who else will be armed, and she writes the answers on a card. She swears rarely and mildly. She is loyal to the Tower before the member, and she says so on the first day.
 >
@@ -176,7 +176,7 @@ Vajra turns her head toward the window, and the woman in the grey coat steps for
 > - **Two members:** Ysmay serves one operation at a time. If two members ask for the same operation, she serves both, and only the first to ask spends a call. A second request for overlapping dates is refused, and nothing is spent.
 > - **Debrief:** Ysmay reports to Vajra the same evening. Vajra does not question the member about it.
 > - **Companions:** Ysmay takes orders from the member who called her and from nobody else. A companion who is not a member cannot call her, and Vajra does not answer a request made in the member's name.
-> - **If she dies:** Vajra suspends the benefit for a tenday and then assigns a second mage, Dovrin Tesk (Neutral, Waterdhavian Human, he/him), who uses the same block and the same limits. Vajra does not assign a third.
+> - **If she dies:** Vajra suspends the benefit for a tenday and then assigns a second mage, Dovrin Tesk (Neutral, Damaran Human, he/him), who uses the same block and the same limits. Vajra does not assign a third.
 > - **Renown loss:** a member whose Renown falls below 10 keeps the rank, and Ysmay is withdrawn until the Renown is restored.
 
 > [!gamemaster]**Ysmay as an Ally**

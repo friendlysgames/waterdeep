@@ -170,7 +170,7 @@ Sergeant Marek Dunmere takes reports at the North Ward Watch station on the day 
 
 > [!social]**The Desk Sergeant**
 >
-> Marek Dunmere (Lawful Neutral, Waterdhavian Human, he/him) :: the North Ward's day-shift desk sergeant, who has heard every kind of complaint and writes down all of them.
+> Marek Dunmere (Lawful Neutral, Illuskan Human, he/him) :: the North Ward's day-shift desk sergeant, who has heard every kind of complaint and writes down all of them.
 >
 > Dunmere is Indifferent at first and Friendly by the end of a clear report. He speaks in plain, unhurried sentences, asks for names and times, and never promises more than a constable and a line in the ledger. He takes a report about drow as seriously as any other report and is mildly curious why anyone would watch a building with no customers.
 >

@@ -142,7 +142,7 @@ The folded paper lists three contacts and the opening phrase. Mirt reads the phr
 
 > [!social]**Nella Fen, Chandler**
 >
-> Nella Fen (Neutral Good, Waterdhavian Human, she/her) :: a stout chandler in her fifties, with wax under her nails, who sells candles and keeps her ears open.
+> Nella Fen (Neutral Good, Illuskan Human, she/her) :: a stout chandler in her fifties, with wax under her nails, who sells candles and keeps her ears open.
 >
 > Nella is friendly and brisk. She leads the member into the workroom behind the counter, where the air is thick with beeswax. She writes everything down and burns the draft. She does not ask the member's name.
 >

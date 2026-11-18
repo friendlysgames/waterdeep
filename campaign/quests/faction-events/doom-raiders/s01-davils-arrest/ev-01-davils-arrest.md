@@ -199,7 +199,7 @@ Sergeant Ilmra Dunfell is the Watch contact who decides what reaches the Lords' 
 
 > [!social]**Sergeant Ilmra Dunfell**
 >
-> Sergeant Ilmra Dunfell (Lawful Neutral, Waterdhavian Human, she/her) :: the tired custody sergeant of Castle Waterdeep, who runs a wing built for thirty prisoners and holds sixty-one.
+> Sergeant Ilmra Dunfell (Lawful Neutral, Tethyrian Human, she/her) :: the tired custody sergeant of Castle Waterdeep, who runs a wing built for thirty prisoners and holds sixty-one.
 >
 > Dunfell is in her mid-fifties, with a grey braid, ink on her cuffs and a ledger she writes in while she talks. She can't be bribed, and offering coin makes her write the member's name down. She can be persuaded by paper: a witness, a document or a reason the Lords' clerks can put in front of a magistrate. She dislikes the sweep because it fills her cells with shopkeepers, and she resents the men who filed a tip nobody could check. She talks in long practical sentences, complains about clerks, and never says a word against the Watch itself.
 >

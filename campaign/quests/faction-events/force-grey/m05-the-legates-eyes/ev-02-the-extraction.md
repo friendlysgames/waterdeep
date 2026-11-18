@@ -24,7 +24,7 @@
 
 ### The Desk on Tallow Court
 
-Orvyn lives in a second-floor flat on Tallow Court in the Trades Ward. He leaves at 07:30 and comes home at 18:00. Brenna Tull (Lawful Neutral, Waterdhavian Human, she/her), a widow who lives in the flat below, shops until noon and sits at her window from the afternoon on.
+Orvyn lives in a second-floor flat on Tallow Court in the Trades Ward. He leaves at 07:30 and comes home at 18:00. Brenna Tull (Lawful Neutral, Illuskan Human, she/her), a widow who lives in the flat below, shops until noon and sits at her window from the afternoon on.
 
 > [!readaloud]
 >
@@ -199,7 +199,7 @@ After one Long Rest in the Tower's guest room, a restored Orvyn sits up with his
 
 > [!social]**The Clerk Who Came Back**
 >
-> Orvyn Dall (Lawful Neutral, Waterdhavian Human, he/him) :: a thin, anxious appeals clerk in his forties who is ashamed of what his hands did.
+> Orvyn Dall (Lawful Neutral, Illuskan Human, he/him) :: a thin, anxious appeals clerk in his forties who is ashamed of what his hands did.
 >
 > Orvyn is polite and apologises too often. He remembers the occupation as a long dream and knows what the devourer said aloud and did. He does not know what it passed to Nihiloor by telepathy.
 >

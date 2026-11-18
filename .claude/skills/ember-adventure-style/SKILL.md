@@ -140,7 +140,7 @@ First prose mention of a named NPC in an event:
 
 > *Introduced to Captain Tyra Saulter (Lawful Good, Arcturian Human, she/her), a proud woman in ornate armor, who leads Krafton's guard and handles security for the caravan.*
 
-Waterdeep adaptation: `Captain Staxa (Lawful Neutral, Waterdhavian Human, she/her)`. Use the NPC's Notable Figures page for alignment, species, and pronouns. Never guess them. Later mentions use the name alone.
+Waterdeep adaptation: `Captain Staxa (Lawful Neutral, Chondathan Human, she/her)`. Use the NPC's Notable Figures page for alignment, species, and pronouns. Never guess them. A Human takes a Faerûn ethnicity from the sources (Illuskan, Chondathan, Tethyrian, Turami and so on), never a city such as Waterdeep. Later mentions use the name alone.
 
 ### Descriptor before dialogue
 

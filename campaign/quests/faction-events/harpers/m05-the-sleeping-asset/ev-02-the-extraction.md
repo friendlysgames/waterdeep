@@ -193,7 +193,7 @@ The records relay is a back room above a stationer's at 19 Brondar's Way, where 
 
 > [!social]**The Clerk**
 >
-> Tobin Harrask (Neutral, Waterdhavian Human, he/him) :: a thin clerk in his forties who has copied the register for six years and has wanted something better for most of them.
+> Tobin Harrask (Neutral, Damaran Human, he/him) :: a thin clerk in his forties who has copied the register for six years and has wanted something better for most of them.
 >
 > Tobin is polite and quick to help, and he fills silences with offers of spare copies. If the members show him the evidence, he lays his pen down and keeps his hands on the desk. He does not fight, though a bolting Tobin heads for the back stair.
 >

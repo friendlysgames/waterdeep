@@ -283,7 +283,7 @@ Bertio Caskwall hired a crew three tendays ago to dig out his cellar, and the cr
 
 > [!social]**Bertio Caskwall**
 >
-> Bertio Caskwall (Neutral, Waterdhavian Human, he/him) :: a stout wine merchant in his fifties, allied to no faction, who wants his cellar finished before the summer vintage arrives.
+> Bertio Caskwall (Neutral, Turami Human, he/him) :: a stout wine merchant in his fifties, allied to no faction, who wants his cellar finished before the summer vintage arrives.
 >
 > Bertio is cheerful and a little anxious, and he talks about his casks whenever he is nervous. He lets in anyone who seems to know old foundations, and he does not ask what the disc is. He answers in short, practical sentences.
 >

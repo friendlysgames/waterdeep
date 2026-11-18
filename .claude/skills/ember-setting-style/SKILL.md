@@ -203,7 +203,7 @@ The page layout comes from `adventure-reloaded`. Ember adds:
 
 - **Invented and campaign-specific terms are capitalized, not italicized:** the Grand Game, the Stone of Golorr, the Eyes, the Masked Lords, the Open Lord, Founders' Day, Faction Response Teams, Milestone Points, Renown, the Dragonward. Capitalization is the glossary.
 - **Italics** are for book titles (*Volo's Guide to Monsters*), deity epithets under a title, magic items per `dnd-adventure-text`, and single-word stress inside quoted speech.
-- **Compound identities** are capitalized as a unit: *Waterdhavian Human, Calishite Human, Menzoberranzan Drow.*
+- **Compound identities** are capitalized as a unit: *Chondathan Human, Calishite Human, Shield Dwarf.* A Human's label names a Faerûn ethnicity, never a city or a ward.
 - **Dates** use Dale Reckoning: *1492 DR*. Spell out durations and ages in prose (*nearly three hundred years*, *two and a half centuries*). Numerals are only for DR years, populations, and distances.
 - **Population ranges and map references** appear only in At a Glance and GM Summary blocks, never inline.
 - **Bold** marks names on first substantive mention and the lead-ins of defined-term bullets. Never general emphasis.

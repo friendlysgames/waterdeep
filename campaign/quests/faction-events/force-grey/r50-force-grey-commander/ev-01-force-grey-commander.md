@@ -107,7 +107,7 @@ Vajra turns her head toward the wall, and the three strangers step forward in th
 
 > [!social]**The Man Who Holds Doors**
 >
-> Garrick Stoll (Lawful Neutral, Waterdhavian Human, he/him) :: a former Watch sergeant on the Tower's rolls, who counts exits before he counts anything else.
+> Garrick Stoll (Lawful Neutral, Illuskan Human, he/him) :: a former Watch sergeant on the Tower's rolls, who counts exits before he counts anything else.
 >
 > Garrick is Friendly and slow to speak, and he talks in the short, procedural sentences of a man who wrote reports for years. He never raises his voice and swears dryly and seldom. He will not raise a hand against the Watch, and he says so before anyone asks.
 >
