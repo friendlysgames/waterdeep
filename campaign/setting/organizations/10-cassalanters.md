@@ -4,7 +4,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> - **Campaign role:** Villain faction; racing to acquire the vault's gold before the twins' ninth birthday, Flamerule 11, when their soul pact with Asmodeus comes due; Founders' Day (Flamerule 1) is the feast date and the party's true deadline.
+> - **Campaign role:** Villain faction; racing to acquire the vault's gold before the twins' ninth birthday, Flamerule 11, when their soul pact with Asmodeus comes due; Founders' Day (Flamerule 1) is the date the family has chosen for its feast.
 > - **Contacts:** **Victoro Cassalanter**, **Ammalia Cassalanter**, **Willifort Crowelle** (villa-facing); **Seffia Naelryke** (field operative)
 > - **Villain profile:** see **Cassalanters** in Villains
 > - **Operations:** response teams, outposts, escalation and revelation list are on the **Cassalanters** page in the Factions Guide
@@ -17,10 +17,10 @@ The Cassalanters are a Waterdhavian noble family of banking wealth, several gene
 ## Tenets
 
 - **A Good Name Is Worth Keeping:** The charity is real. The family funds temples, orphanages and civic improvements, and Victoro is known as a worshipper of Lathander. Their warmth, including their warmth toward tieflings, is specific and genuine. Victoro keeps his philanthropist reputation as a working part of the plan, and the Harpers, who watch the family's charitable work, have found nothing wrong with it for years.
-- **The Family Comes First:** The love for the twins is real and drives every decision. Victoro and Ammalia would do anything to save Terenzio and Elzerina, and in a fight Ammalia grabs the twins and runs.
-- **Take Any Genuine Alternative:** By the last phase the family has decided on Founders' Day and will accept any real alternative the party offers, immediately and without negotiation.
+- **The Family Comes First:** The love for the twins is real and drives every decision. Victoro and Ammalia would do anything to save Terenzio and Elzerina.
+- **Take Any Genuine Alternative:** The family has settled on the Founders' Day feast because it has found no other way to save the twins. Victoro and Ammalia are desperate parents, not zealots, and they would prefer any genuine alternative to the feast.
 - **A Contract Is a Contract:** Asmodeus does not negotiate with mortals who have already signed, so the family works inside the terms. They hunt for loopholes, never for release. Victoro is the family's priest and Ammalia makes the final calls.
-- **Tell the Truth and Leave Out the Price:** Everything the Cassalanters tell the party about their situation is technically true. They never mention that the ritual also requires poisoning 99 people at the Founders' Day feast.
+- **Tell the Truth and Leave Out the Price:** Everything the Cassalanters tell outsiders about their situation is technically true. They never mention that the ritual also requires poisoning 99 people at the Founders' Day feast.
 - **Keep the Temple Hidden:** An illegal temple to Asmodeus lies beneath the villa, and discovery of it is a capital offense under the Code Legal once a magistrate has ruled it unlawful, and it ruins the plan. Willifort Crowelle manages household security.
 - **Service Is Worship:** The cult's members fold devotion into the work they do for the family. Tissina Khyret attends Ammalia, Nana Rosse minds the twins, Jandar Chergoba cooks and Seffia Naelryke runs field operations, and none of them sees a conflict between the job and the god.
 - **Doctrine and Rites:** [research] The campaign files do not settle the cult's hierarchy below the family, its sacraments or how it recruits. The **Asmodeus** page in Deities may supply the doctrine.
@@ -31,9 +31,9 @@ Victoro and Ammalia Cassalanter are Waterdeep aristocrats who made a devil's bar
 
 The Cassalanters found a loophole. A ritual can buy out the children's souls for "one shy of a million gold coins" and ninety-nine souls. They hold just over half the gold. They need Neverember's vault to cover the remainder.
 
-Everything the Cassalanters tell the PCs about their situation is technically true. The ritual requires the sacrifice. The twins are in danger. The Cassalanters love their children and would do anything to save them. They don't mention that the ritual also requires poisoning 99 people at the Founders' Day feast.
+Everything the Cassalanters tell outsiders about their situation is technically true. The ritual requires the sacrifice. The twins are in danger. The Cassalanters love their children and would do anything to save them. They don't mention that the ritual also requires poisoning 99 people at the Founders' Day feast.
 
-How the family responds to a party that helps or hinders them is on the **Cassalanters** page in the Factions Guide.
+The family's response teams, outposts, escalation and revelation list are on the **Cassalanters** page in the Factions Guide.
 
 ## Key Members
 
@@ -46,8 +46,8 @@ How the family responds to a party that helps or hinders them is on the **Cassal
 - **Tissina Khyret** — Tiefling cult fanatic (Asmodeus), lawful evil. See the **Tissina Khyret** page in Notable Figures.
 - **Laiba "Nana" Rosse** — Tiefling cult fanatic (Asmodeus), neutral evil. See the **Laiba "Nana" Rosse** page in Notable Figures.
 - **Jandar Chergoba** — Tiefling cult fanatic (Asmodeus), lawful evil. See the **Jandar Chergoba** page in Notable Figures.
-- **Seffia Naelryke** — Tethyrian human cult fanatic (Asmodeus), lawful evil. Cult fanatic, loyal to Asmodeus, stationed at the Converted Windmill with Arn Xalrondar. Carries a letter from Lord Cassalanter confirming that her ritual identified the Eye in the Brandath Crypts. She keeps it as a prized possession; taking it provokes fury. See the **Seffia Naelryke** page in Notable Figures.
-- **Arn Xalrondar** — Tethyrian human cult fanatic (Asmodeus), lawful evil. Cult fanatic, Seffia's partner at the Windmill. His *Book of Worship* links him directly to the Windmill's address on Coachlamp Lane. See the **Arn Xalrondar** page in Notable Figures.
+- **Seffia Naelryke** — Tethyrian human cult fanatic (Asmodeus), lawful evil. Cult fanatic, loyal to Asmodeus, stationed at the Converted Windmill with Arn Xalrondar. Keeps a letter from Lord Cassalanter confirming that her ritual identified the Eye in the Brandath Crypts, and she prizes it. See the **Seffia Naelryke** page in Notable Figures.
+- **Arn Xalrondar** — Tethyrian human cult fanatic (Asmodeus), lawful evil. Cult fanatic, Seffia's partner at the Windmill on Coachlamp Lane. See the **Arn Xalrondar** page in Notable Figures.
 - **Rella Asp** — Tethyrian human poisoner (Cassalanter operative), lawful evil. See the **Rella Asp** page in Notable Figures.
 - **Ivrala Sorn** — Chondathan human spy (Cassalanter operative), neutral evil. See the **Ivrala Sorn** page in Notable Figures.
 - **Caladorn Cassalanter** — Tethyrian human ghost of a Cassalanter noble, lawful good. See the **Caladorn Cassalanter** page in Notable Figures.
@@ -62,12 +62,12 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 > - **The public face is true:** The family built its charitable reputation, political connections and public warmth in the years since the bargain, and none of it is faked. They became what they presented themselves as while also accumulating what Asmodeus requires.
 > - **Social cover:** Sea Ward dinner parties are intelligence operations, and the Cassalanters' charitable galas are recruitment screens. A charitable hospital serves as the family's front business.
 > - **Chain of command:** Ammalia makes the final calls and Victoro has stopped questioning this. Willifort Crowelle reports to Ammalia on everything that happens in the villa. Seffia Naelryke's response team answers to Lord Cassalanter, and Rella Asp and Ivrala Sorn report to Willifort.
-> - **Who suspects:** Everybody is suspicious of the Cassalanters because they are too nice to be this rich and this purebred, and nobody knows they are infernalists before the party discovers it.
+> - **Who suspects:** Everybody is suspicious of the Cassalanters because they are too nice to be this rich and this purebred, and nobody outside the household and the cult knows they are infernalists.
 >   - The Order of the Gauntlet is suspicious of the family and will move against the family once it has solid evidence. Sister Valdra holds three independent pieces of Cassalanter intelligence.
 >   - The Emerald Enclave senses infernal influence in the Southern Ward through Jeryth and does not know whose it is.
 >   - Vevette Blackwater of the Zhentarim rebuffed Seffia's approach to open a communication channel, suspecting a trap.
 > - **The one exception:** Jarlaxle knows about the pact through **Vessa**, his doppelganger spy in the Cassalanter social circle. He never tells Bregan D'aerthe members unless they work it out themselves.
-> - **Caladorn Cassalanter:** Victoro's father. The wiki has him a Masked Lord and later Open Lord of Waterdeep, by 1399 DR (*Blackstaff Tower*, 2e and 3e). The family uses the portrait of the former Masked Lord and hero of the North as a symbol of civic virtue. His ghost waits below the villa and is the reason the way to break the contract lies beneath it.
+> - **Caladorn Cassalanter:** Victoro's father. The wiki has him a Masked Lord and later Open Lord of Waterdeep, by 1399 DR (*Blackstaff Tower*, 2e and 3e). The family uses the portrait of the former Masked Lord and hero of the North as a symbol of civic virtue. His ghost waits in the family crypt below the villa.
 > - **The Eye:** The Cassalanters hold Eye #2 of the Stone of Golorr, which Seffia's infernal divination found in the Brandath Crypts. They still need the Stone and Eyes #1 and #3, so the family waits with a standing request to be told when the Stone is found, and moves on the vault the moment someone activates it.
 
 > [!gamemaster]**Secret**
@@ -116,3 +116,8 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 > - **Conflicts:** Public cover. The wiki lists Waukeen, Siamorphe and Asmodeus as favored deities. The campaign's public cover is Lathander for Victoro and Siamorphe for the house, which matches *Dragon Heist*, and the page keeps it.
 > - **Answered from the wiki:** The house was ennobled in 1248 DR, Caladorn was Victoro's father and a Masked Lord and later Open Lord, and the twins were to become lemures.
 > - **Routed facts:** Sister Valdra's three pieces of Cassalanter intelligence belong on her Notable Figures page and the Order of the Gauntlet page. Vevette Blackwater's refusal of Seffia's approach belongs on the **Vevette Blackwater** page and in the Windmill revelation list on the **Cassalanters** page in the Factions Guide. Check that each is stated there as well.
+> - **Routed to quests:** "in a fight Ammalia grabs the twins and runs" (Tenets, The Family Comes First). Ammalia's morale is on her **Ammalia Cassalanter** Notable Figures page (line 24), and the confrontation where it plays out is the Stage 4 Exposed passage in `campaign/structure/arc-g-cassalanter-villa.md` (line 277), pending conversion to the **Cassalanter Villa** quest journal.
+> - **Routed to quests:** "By the last phase the family has decided on Founders' Day and will accept any real alternative the party offers, immediately and without negotiation" (Tenets, Take Any Genuine Alternative). The tenet now says the family would prefer any genuine alternative to the feast. The acceptance of a party's offer lives in `campaign/structure/arc-g-cassalanter-villa.md` at line 147 (Path 1, "they would accept any alternative that saves their children", with the Insight check) and in the Phase 3 row of **Cassalanters** (Villains, line 44).
+> - **Routed to quests:** "She keeps it as a prized possession; taking it provokes fury" (Seffia Naelryke, Key Members). The letter itself stays, as a thing she holds on day one. Obtaining it by stealth or confrontation lives in `campaign/structure/arc-e-faction-outposts.md` at line 283, pending conversion to the **Faction Outposts** quest journal. The fury is on her Notable Figures page (line 23).
+> - **Routed to quests:** "His *Book of Worship* links him directly to the Windmill's address on Coachlamp Lane" (Arn Xalrondar, Key Members). It is a clue found at the Asmodean Shrine. It lives in `campaign/guides/factions/11-cassalanters.md` at line 31 (Area 4, Chapter House) and in the Converted Windmill revelation list at line 89.
+> - **Routed to quests:** "and is the reason the way to break the contract lies beneath it" (GM Notes, Caladorn Cassalanter). It describes the contract-destruction path through his sarcophagus and the mace of disruption. It lives in `campaign/structure/arc-g-cassalanter-villa.md` at lines 139 and 489, and in **Cassalanters** (Villains, line 36). The page keeps only the ghost's day-one position in the crypt.
