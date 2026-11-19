@@ -23,10 +23,10 @@ Method notes:
 > — `2. Other Factions.pdf`, p. 20
 
 > "House Gralhund (...) was a noble house of Waterdeep since the Year of the Broken Blade, 1260 DR. Their primary business interests included contracting hireswords and manufacturing weapons."
-> — `sources/research/pass5-bundles/gralhunds/wiki.txt:29` (Gralhund, Forgotten Realms Wiki, edition not stated; cites *Noble Houses of Waterdeep* and *Waterdeep and the North* p. 47). The "(...)" marks removal of the pronunciation template only.
+> — `sources/research/pass5-bundles/gralhunds/wiki.txt:29` (Gralhund, Forgotten Realms Wiki, edition not stated; "(...)" marks removal of the pronunciation template)
 
 > "We see both sides."
-> — `sources/research/pass5-bundles/gralhunds/wiki.txt:32` (family motto, Gralhund, Forgotten Realms Wiki, cites *Dragon Heist* p. 213). The same motto: `sources/adventure-wdh.json:32443` and `campaign/gazetteer/waterdeep/north-ward.md:117`.
+> — `sources/research/pass5-bundles/gralhunds/wiki.txt:31` (family motto, Gralhund, Forgotten Realms Wiki, cites *Dragon Heist* p. 213). The same motto: `sources/adventure-wdh.json:32443` and `campaign/gazetteer/waterdeep/north-ward.md:117`.
 
 > "Yalah had a keen mind and could easily identify friends and foes."
 > — `sources/research/pass5-bundles/gralhunds/wiki.txt:285` (Yalah Gralhund, Forgotten Realms Wiki, cites *Dragon Heist* p. 220)
@@ -37,7 +37,7 @@ Method notes:
 > — `campaign/setting/notable-figures/gralhunds/01-yalah-gralhund.md:15`
 
 > "Previous bids to become a Masked Lord were thwarted, and the gold in the Vault represents her last best chance."
-> — `campaign/setting/notable-figures/gralhunds/01-yalah-gralhund.md:21` (the sentence before it is "To the world, Yalah is the lady of House Gralhund, whose motto is \"We see both sides.\" ...". The sentence after it, "Deep down, she pried the Stone from Floxin at sword-point and holds it herself", is post-day-one; see Section 7 S2.)
+> — `campaign/setting/notable-figures/gralhunds/01-yalah-gralhund.md:21` (this is the second-to-last sentence of the Persona paragraph. The sentence after it, "Deep down, she pried the Stone from Floxin at sword-point and holds it herself", is post-day-one; see Section 7 S2.)
 
 > "Yalah is the true power in the house, and her husband Orond cowers behind her. She wants a seat as a Masked Lord and has been refused before, and the gold in the Vault is her last best chance."
 > — `campaign/gazetteer/waterdeep/north-ward.md:122`
@@ -57,7 +57,7 @@ Method notes:
 > — `sources/research/pass5-bundles/gralhunds/wiki.txt:163` (Orond Gralhund, Forgotten Realms Wiki; "nefarious plot" links to the Death Masks article)
 
 > "(As described on p. 213, the Gralhunds believe that Lady Yalah should have been elevated to the Masked Lords years ago following the events in the novel *Death Masks*.)"
-> — `2. Other Factions.pdf`, p. 20 (the paragraph is undated apart from "years ago")
+> — `2. Other Factions.pdf`, p. 20 (the paragraph gives no year, only "years ago")
 
 > "Yalah used her time to monitor events in the city, kept a tight leash on her children, and uses her influence to collect secrets from the mouths of nobles, guildmasters, and commoners."
 > — `sources/research/pass5-bundles/gralhunds/wiki.txt:269` (Yalah Gralhund, Forgotten Realms Wiki, cites *Dragon Heist* p. 220)
@@ -70,8 +70,8 @@ Method notes:
 > "GM Tip: Remember that the Gralhunds also have agents in Renaer Neverember's home. If the PCs keep Renaer in the loop about their activities, those agents become a potential vector of information back to the Gralhunds."
 > — `7. Other Response Teams.pdf`, p. 57
 
-> "This is the **Gralhund Study of the Grand Game** — Orond's personal running analysis of the six Grand Game faction leaders, their embedded agents, his deduction of the Three Eyes and the Stone, and his designation of code names for two informants inside Renaer Neverember's household (\"Eagle\" and \"Catoblepas\")."
-> — `campaign/locations/gralhund-villa/g11-oronds-study.md:9` (a location-journal item; the Study sits in G11 and is found during the quest, but the code names and Orond's informants are day-one. The line continues: "This is characterization rather than tactical intelligence; ...")
+> "This is the **Gralhund Study of the Grand Game** — Orond's personal running analysis of the six Grand Game faction leaders, their embedded agents, his deduction of the Three Eyes and the Stone, and his designation of code names for two informants inside Renaer Neverember's household ("Eagle" and "Catoblepas")."
+> — `campaign/locations/gralhund-villa/g11-oronds-study.md:9` (a location-journal item. The code names are day-one; the Study is found during the quest. The line continues: "This is characterization rather than tactical intelligence; the party cannot weaponize it directly, but it confirms that Orond has been more active in the Grand Game than his frightened-library-reader persona suggests.")
 
 **Household nimblewright (bought before day one)**
 
@@ -127,7 +127,6 @@ Method notes:
 > "The jet-black riding horse is **Maladar**, Lady Gralhund's personal mount, equipped with *horseshoes of speed*. Two saddlebags on her tack hook each hold four 5-pound gold trade bars worth 250 gp apiece (2,000 gp total)."
 > — `sources/Act_III_Arc_E.md:139`
 
-> "Their primary business interests included contracting hireswords and manufacturing weapons." (see the wiki quote in Section 1)
 > "The Gralhunds are nobles who trade in arms and mercenaries, and whose family motto is \"We see both sides.\""
 > — `sources/adventure-wdh.json:32443`
 
@@ -135,12 +134,12 @@ Method notes:
 > — `sources/research/pass5-bundles/gralhunds/wiki.txt:160` (the double space is in the file)
 
 > "Around [[1372 DR]], [[Gralhund|House Gralhund]] began to undercut the sale of Amcathran blades, offering [[weapon]]s that were forged from [[mithral]]-laced-[[steel]] was provided from the [[duergar]] [[Clan Xundorn]], which was highly superior in form and function."
-> — `sources/research/pass5-bundles/gralhunds/wiki.txt:700` (Amcathra, linked page, Forgotten Realms Wiki; the rival house's page, cited as a wiki line)
+> — `sources/research/pass5-bundles/gralhunds/wiki.txt:700` (Amcathra, linked page, Forgotten Realms Wiki; the wiki line is ungrammatical as written)
 
-**Gold for the Zhentarim (day one, quest-linked)**
+**Gold for the Zhentarim (quest-linked)**
 
 > "House Gralhund has been bankrolling Black Network operations in Waterdeep, including the plot to kidnap {@creature Renaer Neverember|wdh} and the plot to steal the {@item Stone of Golorr|WDH} from his father's gnome spy, Dalakhar."
-> — `sources/adventure-wdh.json:5967` (Orond's confession under Intimidation. The "bankrolling" is ongoing; the Renaer kidnapping is a quest event; see Section 7.)
+> — `sources/adventure-wdh.json:5967` (Orond's confession under Intimidation. The "bankrolling" is ongoing. The Renaer kidnapping is a quest event; see Section 7.)
 
 **The villa (day one)**
 
@@ -157,7 +156,7 @@ Method notes:
 > — `sources/research/pass5-bundles/gralhunds/wiki.txt:355` (Gralhund Villa, Forgotten Realms Wiki)
 
 > "The Gralhund family kept a villa in Waterdeep's North Ward between Saerdoun Street and Horn Street off of Pony Way."
-> — `sources/research/pass5-bundles/gralhunds/wiki.txt:51` (Gralhund, Forgotten Realms Wiki; the sentence cites *Dragon Heist* p. 48)
+> — `sources/research/pass5-bundles/gralhunds/wiki.txt:51` (Gralhund, Forgotten Realms Wiki; cites *Dragon Heist* p. 48)
 
 > "Residence of the noble Gralhund family."
 > — `sources/research/pass5-bundles/gralhunds/wiki.txt:1377` (Saerdoun Street, linked page)
@@ -165,7 +164,7 @@ Method notes:
 > "The Gralhund family crest — a rampant gryphon over a field of cobalt — is worked into the ironwork on both panels."
 > — `campaign/locations/gralhund-villa/g01-locked-gates.md:3` (crest conflict, Section 6 C7)
 
-**Family and the tieflings (day one, lore)**
+**Family and the tieflings (lore)**
 
 > "The Gralhund family were of Tethyrian descent but included a few tieflings who claimed they were also of the blood of Gargauth. The tieflings were usually sent to a Gralhund estate in Yartar."
 > — `sources/research/pass5-bundles/gralhunds/wiki.txt:36` (Gralhund, Forgotten Realms Wiki)
@@ -187,8 +186,8 @@ Method notes:
 > "Manshoon's cell holds Masked Lords Jelenn Urmbrusk and Corylus Thann through blackmail. House Gralhund joined the Zhentarim in order to learn the identities and weaknesses of the Masked Lords, and Yalah Gralhund wants a seat for herself. See **Manshoon**, **Jelenn Urmbrusk** and **Yalah Gralhund**."
 > — `campaign/setting/history/01-ahghairons-gifts.md:86`
 
-> "Yalah Gralhund ... She runs the Zhentarim forces at her villa as her employees, and she does not know that Manshoon is their master."
-> — Not used as a single quote. The full line is: "> - She runs the Zhentarim forces at her villa as her employees, and she does not know that Manshoon is their master." — `campaign/gazetteer/waterdeep/north-ward.md:123`
+> "- She runs the Zhentarim forces at her villa as her employees, and she does not know that Manshoon is their master."
+> — `campaign/gazetteer/waterdeep/north-ward.md:123`
 
 > "She also uses the Zhentarim who are based in House Gralhund as her personal spy network, not realizing that the Zhents' true master is {@creature Manshoon|WDH}."
 > — `sources/adventure-wdh.json:32782`
@@ -211,11 +210,11 @@ Method notes:
 
 ## 2. Tenets (candidate beliefs and habits)
 
-Every tenet below is sourced. Where a source is thin, it says so.
+Every tenet is sourced. Where a source is thin, the tenet says so.
 
 - **"We see both sides."** The house keeps more than one arrangement open and uses each to read the others.
   > "We see both sides."
-  > — `sources/research/pass5-bundles/gralhunds/wiki.txt:32`
+  > — `sources/research/pass5-bundles/gralhunds/wiki.txt:31`
   > "So while the Zhents use House Gralhund as a shield, the Gralhunds are using the Zhents to ascertain the identities and weaknesses of the Masked Lords."
   > — `sources/adventure-wdh.json:32445`
 
@@ -223,7 +222,7 @@ Every tenet below is sourced. Where a source is thin, it says so.
   > "Thinking outside of the box, they embedded agents in Renaer Neverember's household months ago."
   > — `2. Other Factions.pdf`, p. 20
   > "Skeemo is the Doom Raiders' Master of Magic, a traitor feeding intelligence to Manshoon's cell and House Gralhund, and a colleague Davil was fond of, which Davil does not say aloud."
-  > — `campaign/setting/notable-figures/doom-raiders/04-skeemo-weirdbottle.md:25` (a Doom Raiders figure, cited as a Gralhund source)
+  > — `campaign/setting/notable-figures/doom-raiders/04-skeemo-weirdbottle.md:25` (a Doom Raiders figure, cited here for the Gralhund purchase)
   > "Skeemo can add \"sellout\" to his credentials, his services having been bought by House Gralhund and the Black Network operatives loyal to {@creature Manshoon|WDH}."
   > — `sources/adventure-wdh.json:31945`
 
@@ -257,28 +256,28 @@ Every tenet below is sourced. Where a source is thin, it says so.
   > "Yalah Gralhund is the lady of House Gralhund, a North Ward noble family whose motto is \"We see both sides.\" Her husband Orond manages appearances; she manages the house."
   > — `campaign/guides/gm-guide/debts-of-the-city.md:76`
 
-- **Protect the family's name and papers.** Source is the GM Guide's Holder note only.
+- **Protect the family's name and papers.** The only source is the GM Guide's Holder note.
   > "Yalah Gralhund is meticulous about her family's name, employs people whose entire purpose is protecting it, and has recently become extremely attentive to unauthorized use of her correspondence."
-  > — `campaign/guides/gm-guide/debts-of-the-city.md:70` (the same sentence is at `campaign/guides/players-guide/debts-of-the-city.md:47`)
+  > — `campaign/guides/gm-guide/debts-of-the-city.md:70` (the same sentence is at `campaign/guides/players-guide/debts-of-the-city.md:47`, prefixed "What you didn't know when you acquired the credential was that")
 
-- **Keep the devil-blood out of sight.** The sources show the family's pact history and Orond's tail. They do not say the house hides them on purpose beyond the chronicle's flattering edit.
+- **Keep the devil-blood out of sight.** The sources show the pact history and Orond's tail. The chronicle is the only text that says the family edits its own record.
   > "Although it looks like it might be a spellbook, the tome on the lectern is a chronicle of the Gralhund family's accomplishments, embellished or recast to paint the family in the most favorable light."
   > — `sources/adventure-wdh.json:5875`
   > "Deep down, he was born with a tiefling's tail (amputated as a boy; the scar remains), does not understand how entangled his family has become with the Black Network, and keeps Hrabbaz close for fear that others might attack and rob him at any moment."
   > — `campaign/setting/notable-figures/gralhunds/02-orond-gralhund.md:21`
-  > Secret-candidate. See Section 6 C4 for the cult.
+  > Secret-candidate. The cult is in Section 6 C4.
 
-- **Asmodean cult devotion (SECRET; the Cassalanter secrecy rule applies).** The sources disagree on whether the cult exists in the house and who leads it. See Section 6 C4.
+- **Asmodean cult devotion (SECRET; the Cassalanter secrecy rule applies).** The sources disagree on whether the house is in the cult and who leads it. See Section 6 C4.
   > "This is the first physical evidence that the Gralhunds and the Cassalanters are members of the same Asmodean cult. It pays off in **Cassalanter Villa**."
   > — `campaign/locations/gralhund-villa/g16-master-bedroom.md:14`
-  > "Hurv Taldred ... the Cassalanter devotional mark beneath his shirt and his behavior on nights when the villa's guests worship suggest he answers to more than the Gralhunds."
-  > — `campaign/setting/notable-figures/gralhunds/04-hurv-taldred.md:21` (the sentence begins "To those who probe his loyalties, the Cassalanter devotional mark beneath his shirt and his behavior on nights when the villa's guests worship suggest he answers to more than the Gralhunds.")
+  > "To those who probe his loyalties, the Cassalanter devotional mark beneath his shirt and his behavior on nights when the villa's guests worship suggest he answers to more than the Gralhunds."
+  > — `campaign/setting/notable-figures/gralhunds/04-hurv-taldred.md:21`
 
 - **Dynastic plan.**
   > "From there, she plans to effect changes in the government that will ensure House Gralhund's prosperity for generations to come."
   > — `sources/adventure-wdh.json:32781`
 
-- **Doctrine and Rites: [research].** The campaign gives the house no creed or rite. The sources name one deity, which conflicts with the cult (Section 6 C4): "| favored deity  = [[Gargauth]]" (`sources/research/pass5-bundles/gralhunds/wiki.txt:11`, Gralhund infobox). The motto is the only creed.
+- **Doctrine and Rites: [research].** The campaign gives the house no creed or rite. The sources name one deity, which conflicts with the cult (Section 6 C4): "| favored deity  = [[Gargauth]]" (`sources/research/pass5-bundles/gralhunds/wiki.txt:11`, Gralhund infobox). The motto is the only creed in the sources.
 
 ---
 
@@ -335,14 +334,15 @@ Pronouns, alignment and species are copied from each Notable Figures page's Game
   > — `sources/adventure-wdh.json:6038` (the same paragraph: "Confined here for their safety are the Gralhunds' two youngest children, a 13-year-old boy named Zartan and a 10-year-old boy named Greth.")
   > "| children       = [[Tomassin Gralhund]], [[Zartan Gralhund]], [[Greth Gralhund]]"
   > — `sources/research/pass5-bundles/gralhunds/wiki.txt:124` (no sex or pronoun given)
-  > "Lord and Lady Gralhund, three children standing (Zartan in front, Greth and Tomassin behind)." — see `campaign/locations/gralhund-villa/g08-great-hall.md:7`, which reads "Lord Orond and Lady Yalah seated, three children standing (Zartan in front, Greth and Tomassin behind)."
+  > "Lord Orond and Lady Yalah seated, three children standing (Zartan in front, Greth and Tomassin behind)."
+  > — `campaign/locations/gralhund-villa/g08-great-hall.md:7`
   > Sex conflict: Section 6 C8.
 
 - **Zartan Gralhund** (13).
   > "**Zartan** (13) and **Greth** (10) are noncombatants."
   > — `campaign/locations/gralhund-villa/g18-childrens-room.md:5`
 
-- **Greth Gralhund** (10). Same sources as Zartan.
+- **Greth Gralhund** (10). The same sources as Zartan.
 
 - **Irg "Hund" Gralhund.**
   > "*[[Irg Gralhund|Irg \"Hund\" Gralhund]]<ref name=\"W&N-p47\" />"
@@ -358,9 +358,9 @@ Pronouns, alignment and species are copied from each Notable Figures page's Game
 
 - **Ike** (stableboy, commoner, 14). `campaign/locations/gralhund-villa/area-overview.md:62`; `sources/adventure-wdh.json:5678`.
 
-- **Corvin** (groundskeeper's helper, a human). `sources/Act_III_Arc_E.md:129`. Only in the Alexandrian-remix file; not in campaign files.
+- **Corvin** (groundskeeper's helper, a human). `sources/Act_III_Arc_E.md:129`. Only in the remix file; not in campaign files.
 
-- **Unnamed staff.** Head maid (ring of keys), head butler, cook, two nursemaids, and the house guards (veterans). `campaign/locations/gralhund-villa/area-overview.md:65-66`: "| G7 (Laundry) | Head maid (has the ring of keys) |" and "| G8 (Great Hall) | 4 house guards (veterans) |".
+- **Unnamed staff.** Head maid, head butler, cook, two nursemaids, and the house guards (veterans). `campaign/locations/gralhund-villa/area-overview.md:65-66`: "| G7 (Laundry) | Head maid (has the ring of keys) |" and "| G8 (Great Hall) | 4 house guards (veterans) |".
 
 **Excluded (another faction)**
 - Urstul Floxin (Zhentarim): `campaign/setting/notable-figures/manshoons-zhentarim/02-urstul-floxin.md:25` — "**Relationships.** Urstul is Manshoon's chief field operative, a temporary occupant of Gralhund Villa (where he treats Yalah as an underling), and the antagonist who drives **Fireball!** and **Gralhund Villa** before the party can identify his master."
@@ -399,13 +399,9 @@ No Factions Guide page for the Gralhunds exists. No campaign file gives the hous
 > Drow – MM p. 126
 > Gazer – DH p. 203"
 
-**Alexandrian villa roster notes** (`4. Gralhund Villa.pdf`, p. 29)
+**Alexandrian villa roster note** (`4. Gralhund Villa.pdf`, p. 29)
 
 > "To use these rosters, simply ignore any references to NPCs in the published key for the Gralhund Villa. If the PCs enter the villa before the Zhentarim raid has begun, you should also obviously ignore any references to corpses or other signs of violence."
-
-**When they act (Alexandrian)**
-
-> "Depending on how Part 2: Gralhund Villa resolves itself, the Gralhunds might remain engaged with the Grand Game." (`7. Other Response Teams.pdf`, p. 57; the same paragraph is quoted in full above.)
 
 **How they react to the party (Alexandrian)**
 
@@ -434,7 +430,16 @@ No Factions Guide page for the Gralhunds exists. No campaign file gives the hous
 > "The Gralhunds launched a violent assault."
 > — `2. Other Factions.pdf`, p. 22 (the design note reads: "The Zhentarim have kidnapped people. Cassalanters ask the PCs for help (perhaps in exchange for a percentage). The PCs have to ask Jarlaxle for help. The Gralhunds launched a violent assault. The Unseen's introduction comes via social subterfuge and deceit.")
 
-**Campaign: the Stone and the trades (quest files; not day one)**
+**Campaign: how the house reacts in the villa (quest files; not day one)**
+
+> "Lady Yalah never appears for an unannounced visit. She stays upstairs, aware of the visit but out of it. Orond may be fetched from G12."
+> — `campaign/quests/act-ii/gralhund-villa/ev-03-daytime-infiltration.md:29`
+
+> "If the party takes Orond into custody and brings him upstairs to G16, Yalah will surrender the Stone without a Charisma check. Hrabbaz will stand down if Yalah looks at him first."
+> — `campaign/quests/act-ii/gralhund-villa/ev-03-daytime-infiltration.md:68`
+
+> "If Yalah judges that the confrontation has turned against her and the Stone is about to be taken, she may order the nimblewright in G11 to take the Stone and flee rather than surrender it. The construct is dormant there, triggered by either the Alarm network or her command word spoken from G16. She does not do this reflexively; she reads the situation first. If the nimblewright escapes with the Stone, proceed to ev-08: The Rooftop Chase."
+> — `campaign/quests/act-ii/gralhund-villa/ev-03-daytime-infiltration.md:81`
 
 > "Yalah does not fight if she can avoid it. She trades: information, coin, assurances she has no intention of keeping. Each offer is time purchased while she reads the room. The Stone is in an inner pocket of her breastplate and will stay there as long as the situation is in motion."
 > — `campaign/quests/act-ii/gralhund-villa/ev-06-the-gralhund-confrontation-day.md:23`
@@ -457,14 +462,6 @@ No Factions Guide page for the Gralhunds exists. No campaign file gives the hous
 > "**Orond as leverage in G16.** If the party brings Orond upstairs when they approach Lady Yalah, she will surrender the Stone without a Charisma check; no negotiation required. Hrabbaz will stand down if she looks at him first. This is the fastest resolution path in this quest."
 > — `campaign/quests/act-ii/gralhund-villa/ev-05-the-guest-suite.md:51`
 
-> "Lady Yalah lets the party see the night's events; ..." — not used.
-
-> "Lady Yalah never appears for an unannounced visit. She stays upstairs, aware of the visit but out of it. Orond may be fetched from G12."
-> — `campaign/quests/act-ii/gralhund-villa/ev-03-daytime-infiltration.md:29`
-
-> "If Yalah judges that the confrontation has turned against her and the Stone is about to be taken, she may order the nimblewright in G11 to take the Stone and flee rather than surrender it. The construct is dormant there, triggered by either the Alarm network or her command word spoken from G16. She does not do this reflexively; she reads the situation first. If the nimblewright escapes with the Stone, proceed to ev-08: The Rooftop Chase."
-> — `campaign/quests/act-ii/gralhund-villa/ev-03-daytime-infiltration.md:81`
-
 **Campaign: after the quest (forward seed; not day one)**
 
 > "### Gralhund Response Team (Forward Seed)
@@ -477,7 +474,7 @@ No Factions Guide page for the Gralhunds exists. No campaign file gives the hous
 > - **Dead:** Orond becomes the face of House Gralhund overnight, which is roughly as effective as it sounds."
 > — `campaign/quests/act-ii/gralhund-villa/ev-09-aftermath.md:48-51` (post-day-one; route)
 
-**The Stone and the Eyes.** The Alexandrian's Stone-in-the-house line and the campaign's are routed in Section 7. No source gives the house a trade for an Eye. The Alexandrian p. 57 "collateral" sentence (quoted above) is the only trade text.
+**The Stone and the Eyes.** No source gives the house a trade for an Eye. The only trade text is the Alexandrian p. 57 "collateral" sentence quoted above, and the campaign's ev-06 and ev-07 offers (which are the quest's own negotiation and not a house policy).
 
 **Factions Guide shape (existing pages to copy)**
 > "Game mechanics for running the Cassalanters as a villain faction. For who they are, see the **Cassalanters** organization page."
@@ -492,24 +489,24 @@ No Factions Guide page for the Gralhunds exists. No campaign file gives the hous
 All from `sources/research/pass5-bundles/gralhunds/wiki.txt`. Edition is not stated on the Gralhund pages unless noted. Paraphrase only on a page; no wiki prose goes on a page.
 
 - **Founding and size (Gralhund; edition not stated; cites Noble Houses of Waterdeep and Waterdeep and the North).** Formed 1260 DR; 26 members in 1372 DR; allegiance Zhentarim.
-  > "| formed         = [[1260 DR]]"  — line 14
-  > "| members        = 26 in [[1372 DR]]"  — line 17
-  > "| allegiances    = [[Zhentarim]]"  — line 23
+  > "| formed         = [[1260 DR]]" — line 14
+  > "| members        = 26 in [[1372 DR]]" — line 17
+  > "| allegiances    = [[Zhentarim]]" — line 23
 - **The blade war of 1372 DR (Gralhund; cites City of Splendors: Waterdeep p. 61 and Dragon 172).**
-  > "In the Year of Wild Magic, 1372 DR, the Gralhunds were competing fiercely with House Amcathra in blade-making, producing higher-quality swords and selling them at a lower price." — line 39 (links removed)
+  > "In the [[1372 DR|Year of Wild Magic, 1372 DR]], the Gralhunds were competing fiercely with [[House Amcathra]] in [[blade]]-making, producing higher-quality swords and selling them at a lower price." — line 39 (markup removed)
 - **The Gargauth heritage claim (Gralhund; cites Noble Houses of Waterdeep).**
-  > "The Gralhund family were of Tethyrian descent but included a few tieflings who claimed they were also of the blood of Gargauth." — line 36
-- **The Masked Lord ambitions (Gralhund; cites Dragon Heist p. 220).**
-  > "Yalah Gralhund planned to use the intelligence resources of the Black Network in order to unveil some of the Masked Lords of Waterdeep and blackmail or bribe her way into membership." — line 48
-- **The Zhentarim's "Black Network" name (Zhentarim, linked page; mixed editions, the alias cites Forgotten Realms Campaign Setting 3rd edition p. 281).**
-  > "The Zhentarim ... also known as the Black Network," — line 602
+  > "The Gralhund family were of [[Tethyrian]] descent but included a few [[tieflings]] who claimed they were also of the blood of [[Gargauth]]." — line 36
+- **The Masked Lord ambition (Gralhund; cites Dragon Heist p. 220).**
+  > "[[Yalah Gralhund]] planned to use the intelligence resources of the Black Network in order to unveil some of the [[Masked Lord|Masked Lords of Waterdeep]] and blackmail or bribe her way into membership." — line 48 (markup removed)
+- **The "Black Network" name (Zhentarim, linked page; mixed editions; the alias cites Forgotten Realms Campaign Setting 3rd edition p. 281).**
+  > "also known as the '''Black Network'''," — line 602
 - **The Gralhund Villa Bloodbath (post-day-one; route to quests).**
-  > "The Gralhund Villa Bloodbath was the name given by Waterdhavian newspapers to an attack on Gralhund Villa by members of the Zhentarim in the 1492." — line 412
+  > "The '''Gralhund Villa Bloodbath''' was the name given by [[Waterdeep|Waterdhavian]] newspapers to an attack on [[Gralhund Villa]] by members of the [[Zhentarim]] in the {{YearlinkName|1492}}." — line 412 (markup removed)
   > "| casualties2 = 16 guards<br />3 servants" — line 407
 - **Urstul and the Stone (post-day-one; route).**
   > "Then, finally in possession of the ''Stone'', Urstul went to question Yalah about the nimblewright." — line 964 (Urstul Floxin, linked page)
 - **Gargauth (linked page; mixed editions; the 5e fields are blank).** No campaign page for Gargauth exists: `campaign/setting/deities/siamorphe.md:122` reads "Gargauth has no page on the roster and is not bolded."
-- **Crest.** The Gralhund infobox has "| symbol         = " blank (line 10). No crest is described on any wiki line.
+- **Crest.** The Gralhund infobox has "| symbol         = " blank (line 10). No wiki line describes a crest.
 
 ---
 
@@ -534,27 +531,27 @@ Ranking: the Notable Figures page of the person > campaign files > the published
 > "Lord and Lady Gralhund are both secret members of a cult of Asmodeus worshipers popular among select nobles in Waterdeep. The cult is led by Lord {@creature Victoro Cassalanter|WDH} (see {@adventure appendix B|WDH|12}), though the Gralhunds won't divulge this information willingly." — `sources/adventure-wdh.json:6010`
 > "Lady Yalah Gralhund is a devoted member of the Asmodeus cult led by Victoro and Ammalia Cassalanter." — `sources/Act_III_Arc_E.md:32`
 > "Only Orond, under significant pressure and with genuine belief that Yalah cannot hear him, will confirm there is a cult. He does not know who leads it." — `sources/Act_III_Arc_E.md:34`
-> "Hurv Taldred, the groundskeeper, is also a member of the cult — recruited by Lady Gralhund eleven years ago." — `sources/Act_III_Arc_E.md:35`
+> "**Hurv Taldred**, the groundskeeper, is also a member of the cult — recruited by Lady Gralhund eleven years ago." — `sources/Act_III_Arc_E.md:35`
 > "This is the first physical evidence that the Gralhunds and the Cassalanters are members of the same Asmodean cult." — `campaign/locations/gralhund-villa/g16-master-bedroom.md:14`
 > Campaign Notable pages: Yalah's page has no cult line. Hurv's page says "**Affiliation:** House Gralhund (Cassalanter cult)" (`campaign/setting/notable-figures/gralhunds/04-hurv-taldred.md:6`).
 > Deity: "| favored deity  = [[Gargauth]]" — `sources/research/pass5-bundles/gralhunds/wiki.txt:11`.
-> Secrecy: `campaign/setting/villains/cassalanters.md:127`: "The campaign says the temple is a capital Code Legal offense (`05-a-debt-in-blood.md` line 87, `organizations/10-cassalanters.md` line 25) and that nobody outside the household and the cult knows."
+> Secrecy: `campaign/setting/villains/cassalanters.md:127`: "The campaign says the temple is a capital Code Legal offense (`05-a-debt-in-blood.md` line 87, `organizations/10-cassalanters.md` line 25) and that nobody outside the household and the cult knows about the pact."
 > Note: the Arc E "fealty" motive is an Alexandrian-remix line. The campaign's Yalah page does not adopt it, and campaign files outrank it.
 
 **C5. Yalah's motive and her knowledge of Manshoon.**
 > "If {@creature Xanathar|WDH} is the main villain, {@creature Yalah Gralhund|WDH} has secretly cut a deal with the beholder crime lord, offering to return the {@item Stone of Golorr|WDH} to it if the beholder helps her create a vacancy on the council of Masked Lords." — `sources/adventure-wdh.json:4809`
 > "If the Cassalanters are the main villains, Yalah is a fawning member of their Asmodeus-worshiping cult and intends to deliver the {@item Stone of Golorr|WDH} to them as a demonstration of her fealty and friendship." — `sources/adventure-wdh.json:4810`
-> "If {@creature Jarlaxle|WDH} is the main villain..." — `sources/adventure-wdh.json:4811` (the line continues "he and Yalah are secret lovers.")
+> "If Jarlaxle is the main villain, he and Yalah are secret lovers." — `sources/adventure-wdh.json:4811`
 > "If {@creature Manshoon|WDH} is the main villain, he promised not to destroy Yalah's family if she allowed her villa to be used as a staging area for his secret plots." — `sources/adventure-wdh.json:4812`
 > Published Manshoon-knowledge line: "But what's not generally known is that the Zhents in House Gralhund are agents of {@creature Manshoon|WDH}. Neither Orond nor any other member of his family knows about the wizard's clone." — `sources/adventure-wdh.json:32446`
-> Campaign: "She runs the Zhentarim forces at her villa as her employees, and she does not know that Manshoon is their master." — `campaign/gazetteer/waterdeep/north-ward.md:123`
+> Campaign: "- She runs the Zhentarim forces at her villa as her employees, and she does not know that Manshoon is their master." — `campaign/gazetteer/waterdeep/north-ward.md:123`
 > Campaign's own note on the published variants: "In the published adventure's Xanathar version, Yalah offers to return the Stone to it if it helps her create a vacancy." — `campaign/setting/governance-and-guilds/open-lord-and-masked-lords.md:65`
 
 **C6. The villa's storeys.**
 > "All three buildings of Gralhund Villa were three stories tall." — `sources/research/pass5-bundles/gralhunds/wiki.txt:358` (Gralhund Villa, Forgotten Realms Wiki; cites City of Splendors Campaign Guide p. 44)
-> "The main building was two stories tall and was approximately ... total." — `sources/research/pass5-bundles/gralhunds/wiki.txt:51` (Gralhund page; the quote is cut at the size template: "The main building was two stories tall and was approximately {{SI|13000|sq ft|long=yes}} total.")
+> "The main building was two stories tall and was approximately {{SI|13000|sq ft|long=yes}} total." — `sources/research/pass5-bundles/gralhunds/wiki.txt:51` (Gralhund page)
 > "as well as two footpaths that lead to a two-story brick mansion and eastward toward a detached coach house." — `sources/adventure-wdh.json:5640`
-> "consists of a two-story brick mansion, a detached coach house, a guard barracks" — `sources/Act_III_Arc_E.md:24`
+> "consists of a two-story brick mansion, a detached coach house, a guard barracks" — `sources/Act_III_Arc_E.md:24` (the sentence continues "and a well-tended yard with large shade trees.")
 
 **C7. The family crest.** Three descriptions in campaign and remix files.
 > "The Gralhund family crest, sword above shield in green and silver, opened a door your actual credentials never would have." — `campaign/guides/gm-guide/debts-of-the-city.md:68`
@@ -562,12 +559,12 @@ Ranking: the Notable Figures page of the person > campaign files > the published
 > "Wrought iron gates, each panel worked into an ornate House Gralhund crest — a crowned serpent on a field of stars — stand between stone pillars at the head of a flagstone path." — `sources/Act_III_Arc_E.md:114`
 > Not settled.
 
-**C8. The children: Tomassin's sex and how many children are at the villa.**
+**C8. The children: Tomassin's sex, and how many children are at the villa.**
 > "Their 18-year-old sister, Tomassin, is visiting a tiefling cousin in Yartar." — `sources/adventure-wdh.json:6038`
 > "| children       = [[Tomassin Gralhund]], [[Zartan Gralhund]], [[Greth Gralhund]]" — `sources/research/pass5-bundles/gralhunds/wiki.txt:124` (no sex given)
 > "Lord and Lady Gralhund, three young children, and a dog that looks very pleased with itself." — `sources/Act_III_Arc_E.md:192`
 > "keep a household here with guards, cooks, maids and their two children." — `campaign/gazetteer/waterdeep/north-ward.md:68`
-> "| Gralhund Children (Zartan + Greth)" — `7. Other Response Teams.pdf` is not this; the list is in `4. Gralhund Villa.pdf`, p. 29 (transcribed from page image).
+> The Alexandrian villa roster lists "Gralhund Children (Zartan + Greth)" (`4. Gralhund Villa.pdf`, p. 29, transcribed from page image).
 
 **C9. The nimblewright's origin.**
 > "The Gralhunds' assassin is a {@creature nimblewright|wdh} (see {@adventure appendix B|WDH|12}) that escaped from the House of Inspired Hands, the temple of Gond in the Sea Ward, a month ago. The construct hitched a ride on House Gralhund's coach." — `sources/adventure-wdh.json:4378`
@@ -580,13 +577,13 @@ Ranking: the Notable Figures page of the person > campaign files > the published
 **C10. Stone-holder at the villa.** Day-one sections of two campaign files state the post-day-one holder. See Section 7 S1 and S2.
 
 **C11. The family's ward.**
-> "known in Sea Ward society for her keen mind and the family motto" — `campaign/setting/notable-figures/gralhunds/01-yalah-gralhund.md:29`
-> "The North Ward is the quiet residential ward in the northeast of Waterdeep. ... and so does the Gralhund family's villa on Saerdoun Street." — `campaign/gazetteer/waterdeep/north-ward.md:7`
-> "The villa is North Ward (Dragon Heist `:4704`, `:4864`)" — `campaign/gazetteer/waterdeep/north-ward.md:274`
-> Villa ward: North Ward (settled by the user, per north-ward.md:274). The Sea Ward line on Yalah's page is stale or refers to social reach only. Not settled in the file.
+> "Yalah Gralhund is the lady of House Gralhund, known in Sea Ward society for her keen mind and the family motto" — `campaign/setting/notable-figures/gralhunds/01-yalah-gralhund.md:29`
+> "The North Ward is the quiet residential ward in the northeast of Waterdeep. The party's tavern, Trollskull Manor, stands here, and so does the Gralhund family's villa on Saerdoun Street." — `campaign/gazetteer/waterdeep/north-ward.md:7`
+> "**Settled by the user (Session 51):** The Gralhund family's ward. The villa is North Ward (Dragon Heist `:4704`, `:4864`)" — `campaign/gazetteer/waterdeep/north-ward.md:274`
+> The villa is in the North Ward (settled). The Sea Ward line on Yalah's page conflicts with it and is not settled in the file.
 
 **C12. Date of the Zhentarim alliance.**
-> "In the Year of Three Ships Sailing, 1492 DR, the heads of the Gralhund family decided to ally with the Zhentarim in the search for the lost gold of Dagult Neverember" — `sources/research/pass5-bundles/gralhunds/wiki.txt:41`
+> "In the Year of Three Ships Sailing, 1492 DR, the heads of the Gralhund family decided to ally with the Zhentarim in the search for the lost gold of Dagult Neverember" — `sources/research/pass5-bundles/gralhunds/wiki.txt:41` (markup removed)
 > "Less than a year ago, the Gralhunds were approached by agents of the Zhentarim loyal to {@creature Manshoon|WDH}, and the nobles formed an alliance with them." — `sources/adventure-wdh.json:32445`
 > The campaign gives no date for the alliance. Not settled.
 
@@ -594,7 +591,7 @@ Ranking: the Notable Figures page of the person > campaign files > the published
 > "The Alexandrian files date the killings to 1491 DR and call them the Lord Murders." — `campaign/setting/governance-and-guilds/open-lord-and-masked-lords.md:65`
 > The Alexandrian p. 20 gives no year (quoted in Section 1). The 1491 date is in the wiki: "When in 1491 DR many members of the Lords of Waterdeep were killed..." (`sources/research/pass5-bundles/gralhunds/wiki.txt:163`). The campaign's history file cites `21. Faction Reports of the Grand Game.pdf` pp. 142-143 for the 1491 date (`campaign/setting/history/07-a-city-watching-itself.md:93`). That PDF was not read.
 
-**C14. Hrabbaz in the team roster.** The Alexandrian team lists Hrabbaz (`7. Other Response Teams.pdf`, p. 57). The campaign kills him by Ches 25: "Lord Gralhund is in shock; Hrabbaz is dead." (`campaign/quests/act-ii/gralhund-villa/ev-09-aftermath.md:44`). The campaign also defers the roster: "Roster and stats are new appendix content if this branch is ever exercised." (`ev-09-aftermath.md:130`).
+**C14. Hrabbaz in the team roster.** The Alexandrian team lists Hrabbaz (`7. Other Response Teams.pdf`, p. 57). The campaign has him dead by Ches 25: "Lord Gralhund is in shock; Hrabbaz is dead." (`campaign/quests/act-ii/gralhund-villa/ev-09-aftermath.md:44`). The campaign also defers the roster: "Roster and stats are new appendix content if this branch is ever exercised." (`ev-09-aftermath.md:130`).
 
 ---
 
@@ -602,8 +599,8 @@ Ranking: the Notable Figures page of the person > campaign files > the published
 
 Post-day-one facts in day-one sections (Brief ruling 28). Report only; do not edit.
 
-- **S1.** `campaign/gazetteer/waterdeep/north-ward.md:73` — "- Yalah holds the Stone of Golorr, which she took from Urstul Floxin at sword-point. She directs the Zhentarim's Black Network resources in the villa and does not know that Manshoon is their true master." (In the day-one entry's GM Notes. On Ches 1 the Stone is with Xanathar: `campaign/guides/gm-guide/running-the-villains.md:19`.)
-- **S1b.** `campaign/gazetteer/waterdeep/north-ward.md:74` — "- Jarlaxle's ledger lists O. Gralhund of Saerdoun Street as the buyer of nimblewright NW-02, the runaway that the party's detector tracks to this house." (The ledger is day one; "the party's detector tracks" is quest-side.)
+- **S1.** `campaign/gazetteer/waterdeep/north-ward.md:73` — "> - Yalah holds the Stone of Golorr, which she took from Urstul Floxin at sword-point. She directs the Zhentarim's Black Network resources in the villa and does not know that Manshoon is their true master." (In the day-one entry's GM Notes. On Ches 1 the Stone is with Xanathar: `campaign/guides/gm-guide/running-the-villains.md:19`.)
+- **S1b.** `campaign/gazetteer/waterdeep/north-ward.md:74` — "> - Jarlaxle's ledger lists O. Gralhund of Saerdoun Street as the buyer of nimblewright NW-02, the runaway that the party's detector tracks to this house." (The ledger is day one; "the party's detector tracks" is quest-side.)
 - **S2.** `campaign/setting/notable-figures/gralhunds/01-yalah-gralhund.md:21` — "Deep down, she pried the Stone from Floxin at sword-point and holds it herself — she does not trust a construct with this much leverage." (Post-day-one.)
 - **S3.** `campaign/setting/notable-figures/gralhunds/05-chirada.md:15` — "**Motivations.** Chirada wants to recover the Eye of the Stone of Golorr she believes the Zhentarim took, for what remains of Gralhund House interests, track the movements of whoever holds the Stone, and complete the mission described in the Missive from Castle Ward without becoming another casualty of the Grand Game." (The Missive is found in the quest, in `campaign/locations/gralhund-villa/g12-family-library.md`.) `05-chirada.md:21` — "Deep down, with the Gralhund household in disarray following **Gralhund Villa**, she is the most capable intelligence asset they have left" (post-day-one).
 - **S4.** `campaign/setting/notable-figures/gralhunds/04-hurv-taldred.md:25` — "the principal threat in G2 during **Gralhund Villa** infiltrations" (quest-only).
@@ -613,12 +610,12 @@ Post-day-one facts in day-one sections (Brief ruling 28). Report only; do not ed
 - **S8.** `campaign/setting/the-grand-game/what-each-faction-knows-at-start.md:100` — "The table has no row for the Lords' Alliance, Laeral, the Gralhunds or the other player factions." (The house is omitted by design.)
 - **S9.** `campaign/structure/arc-a-finding-floon.md:250` — "`sources/2. Other Factions.pdf` — Gralhund back story (Renaer surveillance context), Open Lord situation, minor faction design principles" (superseded structure doc; the only campaign use of "minor faction").
 - **S10.** `campaign/structure/arc-d-gralhund-villa.md:353` — "- **The Gralhund–Cassalanter Cult Link:** In hand if G16's compartment was found." (superseded structure doc.)
-- **S11.** `campaign/locations/gralhund-villa/g08-great-hall.md:7` — "The hound died two years ago." vs `sources/adventure-wdh.json:5768` — "a family dog that died three years ago." (minor)
-- **S12.** `campaign/locations/gralhund-villa/g18-childrens-room.md:3` — "an empty cradle in the corner that was Tomassin's fifteen years ago and has never been removed." (Tomassin's age is 18 per `sources/adventure-wdh.json:6038`; see C8.)
+- **S11.** `campaign/locations/gralhund-villa/g08-great-hall.md:7` — "The hound died two years ago." vs `sources/adventure-wdh.json:5768` — "(The portrait depicts Lord and Lady Gralhund, their three young children, and a family dog that died three years ago.)" (minor)
+- **S12.** `campaign/locations/gralhund-villa/g18-childrens-room.md:3` — "an empty cradle in the corner that was Tomassin's fifteen years ago and has never been removed." (Tomassin is 18 per `sources/adventure-wdh.json:6038`; see C8.)
 - **S13.** `campaign/guides/factions/07-doom-raiders.md:11` — "The Master of Magic has been feeding intelligence to Manshoon's cell and to House Gralhund since before the party was recruited." (A day-one claim inside a Factions Guide page; Skeemo's page at `campaign/setting/notable-figures/doom-raiders/04-skeemo-weirdbottle.md:25` agrees.)
 
 **Quest-level items (route to quests; the file where each already lives):**
-- The Renaer seizure, funded by the house: `campaign/quests/act-ii/gralhund-villa/ev-05-the-guest-suite.md:49` ("**4. The Neverember abduction.** The house funded Zhentarim agents who seized Renaer Neverember the night Floon Blagmaar was taken, before the fireball, before the Stone. Yalah arranged it."). Also `campaign/quests/act-ii/gralhund-villa/ev-03b-the-front-door.md:91`, `campaign/setting/history/08-the-players-arrive.md:58`, and the timing note at `campaign/setting/history/08-the-players-arrive.md:136`. Timing is a Finding Floon question.
+- The Renaer seizure, funded by the house: `campaign/quests/act-ii/gralhund-villa/ev-05-the-guest-suite.md:49` ("**4. The Neverember abduction.** The house funded Zhentarim agents who seized Renaer Neverember the night Floon Blagmaar was taken, before the fireball, before the Stone. Yalah arranged it."). Also `campaign/quests/act-ii/gralhund-villa/ev-03b-the-front-door.md:91`, `campaign/setting/history/08-the-players-arrive.md:58`, and the timing note at `campaign/setting/history/08-the-players-arrive.md:136`. The timing is a Finding Floon question.
 - Yalah's Ches 22 orders: `campaign/quests/act-ii/gralhund-villa/ev-03-daytime-infiltration.md:64`.
 - The G16 Asmodean compartment: `campaign/quests/act-ii/gralhund-villa/ev-09-aftermath.md:138`.
 - The Stone's capture and the nimblewright's fireball: `campaign/quests/act-ii/fireball/ev-01-the-fireball.md`.
@@ -630,7 +627,7 @@ Post-day-one facts in day-one sections (Brief ruling 28). Report only; do not ed
 Quests (`campaign/quests/`):
 - **Gralhund Villa** — `campaign/quests/act-ii/gralhund-villa/` (overview.md; ev-01-what-the-factions-say.md; ev-02-saerdoun-street.md; ev-03-daytime-infiltration.md; ev-03b-the-front-door.md; ev-03c-night-infiltration.md; ev-04-the-zhentarim-raid.md; ev-05-the-guest-suite.md; ev-06-the-gralhund-confrontation-day.md; ev-07-the-gralhund-confrontation-night.md; ev-08-the-rooftop-chase.md; ev-09-aftermath.md; flowchart.md; design-notes.md)
 - **Fireball!** — `campaign/quests/act-ii/fireball/` (ev-01-the-fireball.md; ev-03-the-nimblewright-hunt.md; ev-04-the-sea-maidens-faire.md; ev-05-the-cassalanter-dinner.md; ev-06-the-death-mark.md; ev-07-kalainsalley-tower.md; overview.md; flowchart.md; design-notes.md)
-- **Faction events with Gralhund lines (hits from the bundle only; not read in full):** `campaign/quests/faction-events/doom-raiders/s01-davils-arrest/ev-01-davils-arrest.md`, `campaign/quests/faction-events/doom-raiders/m04-silencing-skeemo/overview.md`, `campaign/quests/faction-events/doom-raiders/m05-the-yellowspire-job/ev-01-the-yellowspire-job.md`, `campaign/quests/faction-events/bregan-daerthe/s04-contact-severed/ev-01-contact-severed.md`, `campaign/quests/faction-events/bregan-daerthe/r25-commander/ev-01-commander.md`, `campaign/quests/faction-events/order-of-the-gauntlet/s01-the-tithe/ev-01-the-tithe.md`, `campaign/quests/faction-events/lords-alliance/r25-warduke/ev-01-warduke.md`, `campaign/quests/faction-events/emerald-enclave/s02-the-water-table-stirs/ev-01-the-water-table-stirs.md`, `campaign/quests/faction-events/harpers/s01-the-cell-is-compromised/design-notes.md`.
+- **Faction events with Gralhund lines (bundle hits only; not read in full):** `campaign/quests/faction-events/doom-raiders/s01-davils-arrest/ev-01-davils-arrest.md`, `campaign/quests/faction-events/doom-raiders/m04-silencing-skeemo/overview.md`, `campaign/quests/faction-events/doom-raiders/m05-the-yellowspire-job/ev-01-the-yellowspire-job.md`, `campaign/quests/faction-events/bregan-daerthe/s04-contact-severed/ev-01-contact-severed.md`, `campaign/quests/faction-events/bregan-daerthe/r25-commander/ev-01-commander.md`, `campaign/quests/faction-events/order-of-the-gauntlet/s01-the-tithe/ev-01-the-tithe.md`, `campaign/quests/faction-events/lords-alliance/r25-warduke/ev-01-warduke.md`, `campaign/quests/faction-events/emerald-enclave/s02-the-water-table-stirs/ev-01-the-water-table-stirs.md`, `campaign/quests/faction-events/harpers/s01-the-cell-is-compromised/design-notes.md`.
 - **Structure docs (superseded or pending):** `campaign/structure/arc-d-gralhund-villa.md`, `campaign/structure/arc-a-finding-floon.md`, `campaign/structure/arc-c-fireball.md`, `campaign/structure/ch1-beginning.md`, `campaign/structure/ch2-city-of-splendors.md`, `campaign/structure/ch3-running-the-campaign.md`, `campaign/structure/arc-e-faction-outposts.md`, `campaign/structure/arc-g-cassalanter-villa.md`, `campaign/structure/arc-h-sea-maidens-faire.md`, `campaign/structure/arc-i-kolat-towers.md`.
 
 Location journals (`campaign/locations/`):
@@ -665,7 +662,7 @@ Organizations (`campaign/setting/organizations/`): no Gralhund page. The house i
 - Gralhund cult doctrine, rites or leadership: none in campaign files beyond the G16 compartment and Hurv's page.
 - "Minor faction" as a campaign term: only `campaign/structure/arc-a-finding-floon.md:250` (superseded structure doc).
 - Renown, rank and mission text for the house: none.
-- Yalah's cult membership in a campaign Notable page: none. Only the Arc E remix line (C4).
+- Yalah's cult membership in a campaign Notable page: none. The only source is the Arc E remix line (C4).
 
 Not read (image-only PDFs; any Gralhund content is unknown):
 - `sources/6. Faction Response Teams.pdf` (villain teams; the source guide does not list the Gralhunds here).
@@ -676,8 +673,8 @@ Not read (image-only PDFs; any Gralhund content is unknown):
 - `sources/21. Faction Reports of the Grand Game.pdf` (the campaign cites its pp. 142-143 for the 1491 date; see C13).
 - `sources/Act_III_Arc_E.md`: read through grep hits and a few line ranges only. The remainder was not read.
 - `sources/Act_III_Arc_D.md`: read at lines 20-70, 158-170, 610-675 and grep hits. The remainder was not read.
-- `sources/adventure-wdh.json`: every Gralhund hit from the bundle was seen, with its line, through grep output. Lines 137, 261 and 389 are bare creature tags with no sentence.
-- Campaign files beyond those in Sections 1-8 were not read in full (for example, quest ev-01, ev-02, ev-04, ev-05 (except lines 49-51), ev-07, ev-08, flowchart and design notes for Gralhund Villa).
+- `sources/adventure-wdh.json`: every Gralhund hit from the bundle was seen, with its line, through grep output and short reads. Lines 137, 261 and 389 are bare creature tags with no sentence.
+- Campaign files beyond those in Sections 1-8 were not read in full (for example, quest ev-01, ev-02, ev-04, ev-07, ev-08, flowchart and design notes for Gralhund Villa).
 
 ---
 
