@@ -10,8 +10,6 @@
 > - **Featured in:** **Fireball!**, **Gralhund Villa**, **Xanathar's Lair**, **Cassalanter Villa**, **Vault of Dragons**
 >
 > Vajra Safahr communicates by *Sending* spell, and in person at Blackstaff Tower when the situation requires it. She is direct and professional. She cares about Waterdeep and the people in it, but she doesn't perform warmth she doesn't feel. She is younger than the title suggests and does not find this observation interesting.
->
-> A *Sending* gives her twenty-five words, and she uses all of them. When a situation needs more, she summons the party to Blackstaff Tower and tells them at her standing desk, where there is no chair for visitors.
 
 **Purpose:** Gives the GM Force Grey as an institution: who commands it, how the Open Lord uses it, what it values and what it keeps out of public view. The page keeps lore only. Everything above the Overview is for the GM.
 
@@ -42,7 +40,7 @@ Characters who join the Gray Hands — the entry tier of Force Grey — are not 
 
 ## Key Members
 
-- **Vajra Safahr** — Tethyrian human archmage, lawful neutral. Blackstaff of Waterdeep, commander of Force Grey. See the **Vajra Safahr** page in Notable Figures.
+- **Vajra Safahr** — Tethyrian human archmage, lawful neutral. Blackstaff of Waterdeep, commander of Force Grey. See the **Vajra Safahr, the Blackstaff** page in Notable Figures.
 
 ## Grand Game Agenda
 
@@ -56,10 +54,12 @@ Force Grey is Waterdeep's deniable cadre of elite adventuring agents, commanded 
 >
 > - **Standing:** Laeral can command Vajra to unleash Force Grey in times of great need. Until she gives that order, Force Grey is not allowed to operate in Waterdeep. Vajra has secretly sent members on a number of unauthorized missions, and Laeral has not confronted her about it (*Dragon Heist*, 5e). Vajra admits as much at **Gralhund Villa**, where she says she cannot authorize an entry legally and promises only to speak to the Open Lord afterward.
 > - **Chain of command:** Vajra answers to Laeral, and Vajra's Notable Figures page calls her a strained subordinate. Only the Open Lord can strip Vajra of her title.
+> - **How Vajra briefs:** A *Sending* gives her twenty-five words, and she uses all of them. When a situation needs more, she summons the party to Blackstaff Tower and tells them at her standing desk, where there is no chair for visitors. The Factions Guide holds how this reaches members.
 > - **Base:** Force Grey works out of Blackstaff Tower in the Castle Ward. Vajra also runs Blackstaff Academy there and heads the Watchful Order.
 > - **Origins:** The wiki describes a small band of about twenty elite adventurers answering to the Lords of Waterdeep around 1372 DR (Forgotten Realms Wiki, *Force Grey*, citing *City of Splendors: Waterdeep*, 3e). It has the unit dismantled for some time by 1491 DR, with Mirt and Laeral weighing its revival, and reformed under Vajra by 1492 DR (same page, citing the novel *Death Masks* and *Dragon Heist*, 5e).
 > - **Meloon Wardragon:** Meloon is an active member who reports to Vajra, whose life he saved more than a decade ago alongside Renaer. His page is in the Independents and Allies group, and **The Trouble with Meloon** concerns what has taken hold of him.
 > - **Who suspects the Cassalanters:** Scrying from Blackstaff Tower has found conjuration and abjuration residue beneath the Cassalanter villa. Vajra cannot say what makes it and does not guess, and nobody in Force Grey knows about the pact.
+
 **Tone:** Plain and procedural, like a briefing from Blackstaff Tower. The narrator treats Force Grey as a working arm of the city and shows the damage it causes as a cost the city accepts.
 
 ---
@@ -81,7 +81,7 @@ Force Grey is Waterdeep's deniable cadre of elite adventuring agents, commanded 
 ## Cross-References
 
 - **Force Grey** (Factions Guide): Grand Game stance, quest hooks, First Meeting, renown and ranks, missions
-- **Vajra Safahr** (Notable Figures): the Blackstaff and commander of Force Grey
+- **Vajra Safahr, the Blackstaff** (Notable Figures): the Blackstaff and commander of Force Grey
 - **Meloon Wardragon** (Notable Figures): an active member and Vajra's friend
 - **Laeral Silverhand** (Notable Figures): the Open Lord who can order Force Grey into action
 - **The Open Lord and the Masked Lords**, **The City Watch** (Governance and Guilds): the authority Force Grey serves and the force whose limits it covers

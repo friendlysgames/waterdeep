@@ -8,7 +8,7 @@
 
 ## Roleplaying Information
 
-**Resonance.** Vajra should inspire respect for the weight she carries, discomfort with her refusal to perform warmth she does not feel, and sympathy when the party realizes how young she is and how tired three years in the post have made her.
+**Resonance.** Vajra should inspire respect for the weight she carries, discomfort with her refusal to perform warmth she does not feel, and sympathy when the party realizes how young she is and how tired the post has made her.
 
 **Emotions.** Vajra most often feels burdened determination, impatient competence, defensive pride, controlled anger at threats to Waterdeep, dry humor that surfaces at unexpected moments, and private exhaustion she will not show.
 
