@@ -50,7 +50,7 @@ How the Alliance recruits, ranks, disciplines and rewards its members is on the 
 
 ## Grand Game Agenda
 
-The Alliance wants the gold home. Laeral wants it recovered and properly disbursed, but at campaign start Jalester's reports place the vault in Neverwinter, so the Alliance has nothing to act on yet. The Alliance will not let anyone keep the gold. In exchange for returning it, it offers renown and political standing that no other patron in the city can match. A character who pockets the gold and claims ignorance will find that Laeral is a thorough investigator.
+The Alliance wants the gold home. Laeral wants it recovered and properly disbursed, but at campaign start Jalester's reports place the vault in Neverwinter, so the Alliance has nothing to act on yet. The Alliance will not let anyone keep the gold. In exchange for returning it, it offers renown and political standing that no other patron in the city can match. Anyone who pockets the gold and claims ignorance will find that Laeral is a thorough investigator.
 
 ## Overview
 

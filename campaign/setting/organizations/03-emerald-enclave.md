@@ -46,7 +46,7 @@ Its Waterdeep presence centers on Phaulkonmere, an old estate and garden in the 
 
 ## Grand Game Agenda
 
-The Emerald Enclave has no interest in the gold, and its aid carries no hidden price. Jeryth gives the same answer to anyone who asks: "That question is for the Lords to settle." The Enclave will not hide the gold, seize it, or help anyone who does. Characters who need a refuge, a reliable spellcaster, or one relationship in the city that is not angling for something will find the Enclave invaluable in a city where everyone else wants something.
+The Emerald Enclave has no interest in the gold, and its aid carries no hidden price. Jeryth gives the same answer to anyone who asks: "That question is for the Lords to settle." The Enclave will not hide the gold, seize it, or help anyone who does. Anyone who needs a refuge, a reliable spellcaster, or one relationship in the city that is not angling for something will find the Enclave invaluable in a city where everyone else wants something.
 
 ## Overview
 
