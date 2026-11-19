@@ -1,0 +1,1516 @@
+=== WIKI PAGE: Gralhund
+
+{{Organization
+| image          = Gralhund.png
+| caption        = 
+| name           = Gralhund
+| aliases        = 
+| base           = [[Waterdeep]], [[Sword Coast North]]
+| leader         = 
+| symbol         = 
+| favored deity  = [[Gargauth]]
+| favored weapon = 
+| domains        = 
+| formed         = [[1260 DR]]
+| disbanded      = 
+| basicrefs      = <ref name="NHoW-3">{{Cite web enhancement/Noble Houses of Waterdeep|3}}</ref>
+| members        = 26 in [[1372 DR]]
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{Alignment grid|off|off|off|on|off|off|on|off|off}}
+| races          = 
+| memrefs        = <ref name="NHoW-3" />
+| allegiances    = [[Zhentarim]]
+| enemies        = 
+| relrefs        = <ref name="NHoW-3" />
+| showmembers    = yes
+| orgname        = the Gralhund family
+}}
+House '''Gralhund''' ({{Pronounce|GRAWL|hund|refs=<ref name="CS-WW2e-p15">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|15}}</ref>}}) was a [[Nobility of Waterdeep|noble house]] of [[Waterdeep]] since the [[1260 DR|Year of the Broken Blade, 1260 DR]]. Their primary business interests included contracting [[hiresword]]s and manufacturing [[weapon]]s.<ref name="NHoW-3" /><ref name="W&N-p47">{{Cite book/Waterdeep and the North|47}}</ref>
+{{quote
+|We see both sides.
+|Gralhund family motto<ref name="WDH5e-p213">{{Cite book/Waterdeep: Dragon Heist|213}}</ref>
+}}
+
+==Organization==
+The Gralhund family were of [[Tethyrian]] descent<ref name="NHoW-3" /> but included a few [[tieflings]] who claimed they were also of the blood of [[Gargauth]].<ref name="NHoW-8">{{Cite web enhancement/Noble Houses of Waterdeep|9}}</ref> The tieflings were usually sent to a Gralhund estate in [[Yartar]].<ref name="WDH5e-p53">{{Cite book/Waterdeep: Dragon Heist|53}}</ref>
+
+==Activities==
+In the [[1372 DR|Year of Wild Magic, 1372 DR]], the Gralhunds were competing fiercely with [[House Amcathra]] in [[blade]]-making, producing higher-quality swords and selling them at a lower price. Amcathra's reputation as the best in blades was in jeopardy because the Gralhunds were using a new alloy of [[steel]] with traces of [[mithral]] they bartered from [[Thaglar's Foundry]], run by [[Clan Xundorn]]<ref name="CoSW-61">{{Cite book/City of Splendors: Waterdeep|61}}</ref> down in [[Skullport]].<ref name="D172-15">{{Cite dragon/172/Seeing the Sights in Skullport|15}}</ref>
+
+In the [[1492 DR|Year of Three Ships Sailing, 1492 DR]],{{WDH-time}} the heads of the Gralhund family decided to ally with the [[Zhentarim]] in the search for the lost gold of [[Dagult Neverember]] under the promise of getting a fair share of the treasure. The Zhents, led by [[Urstul Floxin]], used Gralhund Villa as their headquarters while seeking out the [[Stone of Golorr]].<ref name="WDH5e-p44">{{Cite book/Waterdeep: Dragon Heist|44}}</ref>
+
+However, not fully trusting Urstul, Yalah also sent one of her personal servants, a [[nimblewright]] with a ''[[necklace of fireballs]]'', to search for the [[gnome]] [[Dalakhar]]. The successive blast and the death of Dalakhar ruined the alliance between the [[Zhent]]s and the Gralhunds.<ref name="WDH5e-p44" />
+
+When Urstul finally took possession of the Stone, he demanded explanations from Yalah about the nimblewright and her profiting from his injuries, and took the Stone.<ref name="WDH5e-p50">{{Cite book/Waterdeep: Dragon Heist|50}}</ref> This triggered a fight between Gralhund guards and Zhentarim agents that cost many lives and was remembered as the [[Gralhund Villa Bloodbath]].<ref name="WDH5e-p50-57">{{Cite book/Waterdeep: Dragon Heist|50-57}}</ref>
+
+==Tactics==
+[[Yalah Gralhund]] planned to use the intelligence resources of the Black Network in order to unveil some of the [[Masked Lord|Masked Lords of Waterdeep]] and blackmail or bribe her way into membership.<ref name="WDH5e-p220">{{Cite book/Waterdeep: Dragon Heist|220}}</ref>
+
+==Base of Operations==
+The Gralhund family kept a villa in Waterdeep's [[North Ward of Waterdeep|North Ward]] between [[Saerdoun Street]] and [[Horn Street]] off of [[Pony Way]].<ref name="WDH5e-p48">{{Cite book/Waterdeep: Dragon Heist|48}}</ref><ref name="WDH-map">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref> The villa grounds were enclosed by a {{SIAdj|12|foot|long=yes|adj=high}} stone wall with a main gate onto Horn Street. The entire compound was roughly wedge-shaped and was approximately {{SI|23000|sq ft|long=yes}} in total area. The main building was two stories tall and was approximately {{SI|13000|sq ft|long=yes}} total. A {{SIAdj|1580|sq ft|long=yes}}, single-story guard barracks adjoined the manor house, and there was a separate, single-story, {{SIAdj|2240|sq ft|long=yes}} stable that had an entrance onto Saerdoun Street.<ref name="WDH5e-p51-52">{{Cite book/Waterdeep: Dragon Heist|51-52}}</ref>
+
+==Members==
+*[[Greth Gralhund]]<ref name="WDH5e-p55" />
+*[[Irg Gralhund|Irg "Hund" Gralhund]]<ref name="W&N-p47" />
+*[[Orond Gralhund]]<ref name="WDH5e-p213">{{Cite book/Waterdeep: Dragon Heist|213}}</ref>
+*[[Ostryn Gralhund]]<ref name="Du189-3">{{Cite dungeon/189/Eye on the Realms: A Deadly Civic Honor|3}}</ref>
+*[[Tlannada Grahund]]<ref name="D282-73">{{Cite dragon/282/The New Adventures of Volo: The Urge to Hunt|73}}</ref>
+*[[Tomassin Gralhund]]<ref name="WDH5e-p55">{{Cite book/Waterdeep: Dragon Heist|55}}</ref>
+*[[Yalah Gralhund]]<ref name="WDH5e-p220" />
+*[[Zartan Gralhund]]<ref name="WDH5e-p55" />
+
+==Appendix==
+{{Incomplete}}
+===Notes===
+{{Notes}}
+===Gallery===
+<gallery widths="300px">
+Gralhund_concept.png|''Concept art for House Gralhund, by [[Daarken]].''
+</gallery>
+===References===
+{{Refs}}
+===Connections===
+{{Waterdhavian houses}}
+[[Category:Families]]
+[[Category:Waterdhavian houses]]
+[[Category:Human houses]]
+[[Category:Noble houses]]
+[[Category:Organizations in Gralhund Villa]]
+[[Category:Organizations on Saerdoun Street]]
+[[Category:Organizations on Horn Street]]
+[[Category:Organizations on Pony Lane]]
+[[Category:Organizations in Waterdeep]]
+[[Category:Organizations in the North Ward of Waterdeep]]
+[[Category:Organizations on the Sword Coast North]]
+[[Category:Organizations in Northwest Faerûn]]
+[[Category:Organizations in Faerûn]]
+[[Category:Organizations on Toril]]
+[[Category:Gargauthan organizations]]
+
+=== WIKI PAGE: Orond Gralhund
+
+{{DEFAULTSORT:Gralhund, Orond}}
+{{Person
+| image          = 
+| caption        = 
+| name           = Orond Gralhund
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Human]]
+| ethnicity      = [[Tethyrian]]
+| occupation     = Noble<ref name="WDH5e-p213-214" />
+| age            = 
+| patron deity   = 
+| languages      = [[Common]]
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = [[Yalah Gralhund]]
+| siblings       = 
+| children       = [[Tomassin Gralhund]], [[Zartan Gralhund]], [[Greth Gralhund]]<ref name="WDH5e-p55">{{Cite book/Waterdeep: Dragon Heist|55}}</ref>
+| familyrefs     =
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Neutral evil]]
+| challenge5e    = {{Frac|1|8}}
+| class5e        = [[Noble]]
+| refs5e         = <ref name="WDH5e-p213-214" /><ref name="MM5e-p348">{{Cite book/Monster Manual 5th edition|358}}</ref>
+}}
+'''Orond Gralhund''' ({{Pronounce|oh|ROND|_|GRAWL|hoond|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}) was a noble patriarch of [[Gralhund|House Gralhund]] in [[Waterdeep]] in the early 1490s [[DR]].<ref name="WDH5e-p213-214">{{Cite book/Waterdeep: Dragon Heist|213-214}}</ref>
+
+==Description==
+Orond was short with a stocky build, but he was good-looking and well-dressed. He was born with a [[tiefling]]'s tail but it was removed when he was a boy.<ref name="WDH5e-p213-214" />
+
+==Activities==
+Orond seemed to spend most of his time watching mercenaries as they trained, paying bills,  and complaining about the cost of doing business in Waterdeep.<ref name="WDH5e-p213-214" />
+
+==History==
+When in [[1491 DR]] many members of the [[Lords of Waterdeep]] were killed in a [[Death Masks|nefarious plot]], Orond expected that his wife would fill one of the vacancies but that never happened, despite all the bribes and promises. Orond became deeply angry about this.<ref name="WDH5e-p213-214" />
+
+Orond was approached by some [[Zhentarim]] loyal to [[Manshoon]] and they formed an alliance. The Zhent gained the coin and the resources of the Gralhunds for their operations in the city and in exchange granted to Orond all the information about the Masked Lords they could find.<ref name="WDH5e-p213-214" />
+
+In [[1492 DR]],{{WDH-time}} the Gralhunds were involved in the search for the lost gold of [[Dagult Neverember]] under the promise of getting their fair share of the treasure. The Zhents led by [[Urstul Floxin]] used Gralhund Villa as headquarters in their search for the [[Stone of Golorr]].<ref name="WDH5e-p44">{{Cite book/Waterdeep: Dragon Heist|44}}</ref>
+
+However, not fully trusting Urstul, Yalah also sent one of her personal servants, a [[nimblewright]] with a ''[[necklace of fireballs]]'', to search for the [[gnome]] [[Dalakhar]]. The successive blast and the death of Dalakhar ruined the alliance between the Zhents and the Gralhund.<ref name="WDH5e-p44" />
+
+When Urstul was finally in possession of the Stone, he asked Yalah to explain about the nimblewright. She took advantage of his injures and took the Stone.<ref name="WDH5e-p50">{{Cite book/Waterdeep: Dragon Heist|50}}</ref>
+
+When a fight started between the Gralhund guards and the Zhentarim, Orond hid behind a bed in one of the guest rooms, praying for his life.<ref name="WDH5e-p54-55">{{Cite book/Waterdeep: Dragon Heist|54-55}}</ref>
+
+==Personality==
+Orond was very angry with the Lords for their refusal of his wife. He was a little paranoid, always fearing attacks from strangers, but in the presence of Yalah he became quiet and timid. Orond was not smart or intelligent and deep down he knew this. He disliked common people and had a fragile ego.<ref name="WDH5e-p213-214" />
+
+==Relationship==
+Orond adored his wife. He trusted his bodyguard [[Hrabbaz]].<ref name="WDH5e-p213-214" />
+
+==Appendix==
+===Notes===
+{{Notes}}
+
+===Appearances===
+* ''[[Waterdeep: Dragon Heist]]''
+
+===References===
+{{Refs}}
+[[Category:Nobles]]
+[[Category:Humans]]
+[[Category:Tethyrians]]
+[[Category:Inhabitants of the North Ward of Waterdeep]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+[[Category:Nobles (5e)]]
+[[Category:Members of the Gralhund family]]
+
+=== WIKI PAGE: Yalah Gralhund
+
+{{DEFAULTSORT:Gralhund, Yalah}}
+{{Person
+| image          =Yalahgrahlund.jpeg 
+| caption        = 
+| name           = Yalah Gralhund
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]
+| formerhomes    = 
+| sex            = Female
+| race           = [[Human]]
+| ethnicity      = [[Tethyrian]]
+| occupation     = Noble<ref name="WDH5e-p220" />
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Infernal]]
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = [[Orond Gralhund]]
+| siblings       = 
+| children       = [[Tomassin Gralhund]], [[Zartan Gralhund]], [[Greth Gralhund]]<ref name="WDH5e-p55">{{Cite book/Waterdeep: Dragon Heist|55}}</ref>
+| familyrefs     =
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Neutral evil]]
+| challenge5e    = {{Frac|1|8}}
+| class5e        = [[Noble]]
+| refs5e         = <ref name="WDH5e-p220">{{Cite book/Waterdeep: Dragon Heist|220}}</ref><ref name="MM5e-p348">{{Cite book/Monster Manual 5th edition|358}}</ref>
+}}
+'''Yalah Gralhund''' ({{Pronounce|YAW|law|_|GRAWL|hoond|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}) was a noble of [[Gralhund|House Gralhund]] in [[Waterdeep]] in the early 1490s [[DR]].<ref name="WDH5e-p220" />
+
+==Activities==
+Yalah used her time to monitor events in the city, kept a tight leash on her children, and uses her influence to collect secrets from the mouths of nobles, guildmasters, and commoners.<ref name="WDH5e-p220" />
+
+==History==
+When in [[1491 DR]] many members of the [[Lords of Waterdeep]] were killed in a [[Death Masks|nefarious plot]], Yalah and Orond expected that she would fill one of the vacancies but this never happened, despite all their bribes and promises.<ref name="WDH5e-p213-214">{{Cite book/Waterdeep: Dragon Heist|213-214}}</ref>
+
+Orond was approached by some [[Zhentarim]] loyal to [[Manshoon]] and they formed an alliance. The Zhents gained the coin and the resources of the Gralhunds for their operations in the city and in exchange granted to Orond all the information about the Masked Lords they could find.<ref name="WDH5e-p213-214" /> Yalah planned to use the intelligence resources of the Black Network to unveil some of the Masked Lords and blackmail or bribe her way into membership.<ref name="WDH5e-p220" />
+
+In [[1492 DR]],{{WDH-time}} the Gralhunds became involved in the search for the lost gold of [[Dagult Neverember]] under the promise of getting their fair share of the treasure. The Zhents led by [[Urstul Floxin]] used Gralhund Villa as headquarters in their search for the ''[[Stone of Golorr]]''.<ref name="WDH5e-p44">{{Cite book/Waterdeep: Dragon Heist|44}}</ref>
+
+However, not fully trusting Urstul, Yalah also sent one of her personal servants, a [[nimblewright]] with a ''[[necklace of fireballs]]'', to search for the [[gnome]] [[Dalakhar]]. The successive blast and the death of Dalakhar ruined the alliance between the Zhents and the Gralhunds.<ref name="WDH5e-p44" />
+
+When Urstul was finally in possession of the Stone, he asked Yalah to explain about the nimblewright. She took advantage of his injures and took the ''Stone''.<ref name="WDH5e-p50">{{Cite book/Waterdeep: Dragon Heist|50}}</ref>
+
+When a fight started between the Gralhund guards and the Zhentarim, Yalah hid in her master bedroom with her bodyguard Hrabbaz. She gave the ''Stone'' to her nimblewright, with orders and a map as to where to take it.<ref name="WDH5e-p55">{{Cite book/Waterdeep: Dragon Heist|55}}</ref>
+
+==Personality==
+Yalah believed that it was only a matter of time before she could ascend among the Lords. From that position, she believed that she would guarantee the prosperity of the Gralhunds for future generations. Yalah had a keen mind and could easily identify friends and foes.<ref name="WDH5e-p220" />
+
+==Relationship==
+Yalah knew her husband [[Orond Gralhund|Orond]] adored her. She had the true loyalty of the bodyguard [[Hrabbaz]]. Yalah treated the Zhent master assassin [[Urstul Floxin]] and all the Zhentarim as her underlings.<ref name="WDH5e-p220" /> She had befriended the rogue nimblewright.<ref name="WDH5e-p44" />
+
+==Appendix==
+===Behind the Scenes===
+The choice of villain in the module determines Yalah Gralhund's motivations: if the villain was [[Jarlaxle]], then she was a secret lover of the [[drow]]; if the villains were the [[Cassalanter]]s, then Yalah was a secret worshiper of [[Asmodeus]]; if the villain was the [[Xanathar]], then she had forged an alliance with the [[beholder]]; if the villain was [[Manshoon]], then she renegotiated her deal with the Zhentarim and reported directly to Manshoon.<ref name="WDH5e-p50">{{Cite book/Waterdeep: Dragon Heist|50}}</ref>
+
+===Notes===
+{{Notes}}
+
+===Appearances===
+* ''[[Waterdeep: Dragon Heist]]''
+
+===References===
+{{Refs}}
+[[Category:Nobles (5e)]]
+[[Category:Nobles]]
+[[Category:Humans]]
+[[Category:Tethyrians]]
+[[Category:Inhabitants of the North Ward of Waterdeep]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Members of the Gralhund family]]
+
+=== WIKI PAGE: Gralhund Villa
+
+{{Building
+| image         = Map09-Gralhund-Jardeth-Stormweather-Villas.png
+| caption       = A map showing the location of Gralhund Villa (labeled 152) on Saerdoun Street.
+| name          = Gralhund Villa
+| aliases       = 
+| type          = Noble estate
+| architecture  = 
+| floors        = 2
+| location      = [[Horn Street]] & [[Saerdoun Street]], [[Waterdeep/North Ward|North Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = [[Gralhund]]
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="WatN-p24"/><ref name="VGtW-p239"/><ref name="CoS.CG-p44"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = yes
+| locations     = 
+| organizations = yes
+}}
+'''Gralhund Villa''' was the family estate of the [[Nobility of Waterdeep|Waterdhavian noble house]] [[Gralhund]].<ref name="WatN-p24">{{Cite book/Waterdeep and the North|24}}</ref><ref name="VGtW-p239">{{Cite book/Volo's Guide to Waterdeep|239}}</ref><ref name="CoS.CG-p44">{{Cite book/City of Splendors (boxed set)/Campaign Guide|44}}</ref>
+
+==Location==
+The villa was located in the northeast section of [[Waterdeep]]'s [[Waterdeep/North Ward|North Ward]] wedged between [[Horn Street]] and [[Saerdoun Street]].<ref name="CS.M9">{{Cite book/City System/Map04}}</ref><ref name="WDH.M">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref><ref name="VGtW.M">{{Cite book/Volo's Guide to Waterdeep/Map}}</ref><ref name="IA.W">{{Cite interactive atlas|Waterdeep}}</ref>
+
+==Description==
+All three buildings of Gralhund Villa were three stories tall.<ref name="CoS.CG-p44"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Houses]]
+[[Category:Locations on Horn Street]]
+[[Category:Locations on Saerdoun Street]]
+[[Category:Locations in the North Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+
+=== WIKI PAGE: Gralhund Villa Bloodbath
+
+{{Conflict
+| image       = Urstul-5e.jpg
+| caption     = Urstul Floxin next to a killed Gralhund guard during the attack.
+| name        = Gralhund Villa Bloodbath
+| partof      = 
+| othernames  = 
+| type        = Skirmish
+| place       = [[Gralhund Villa]], [[North Ward of Waterdeep|North Ward]], [[Waterdeep]]
+| date        = [[1492 DR]]
+| duration    = 
+| basicrefs   = <ref name="WDH5e-p52-56">{{Cite book/Waterdeep: Dragon Heist|52-56}}</ref>{{Waterdeep-time}}
+| cause       = 
+| responsible = [[Urstul Floxin]]
+| battles     = 
+| result      = 
+| histrefs    = <ref name="WDH5e-p52-56" />
+| combatant1  = [[Zhentarim]]
+| combatant2  = [[Gralhund]] family
+| combatant3  = 
+| combatant4  = 
+| combrefs    = <ref name="WDH5e-p52-56" />
+| commander1  = [[Urstul Floxin]]
+| commander2  = [[Yalah Gralhund]]<br />[[Hrabbaz]]
+| commander3  = 
+| commander4  = 
+| commrefs    = <ref name="WDH5e-p52-56" />
+| strength1   = 9 [[thug]]s
+| strength2   = 20 household guards
+| strength3   = 
+| strength4   = 
+| strrefs     = <ref name="WDH5e-p52-56" />
+| casualties1 = 4 thugs
+| casualties2 = 16 guards<br />3 servants
+| casualties3 = 
+| casualties4 = 
+| casurefs    = <ref name="WDH5e-p52-56" />
+}}
+The '''Gralhund Villa Bloodbath''' was the name given by [[Waterdeep|Waterdhavian]] newspapers to an attack on [[Gralhund Villa]] by members of the [[Zhentarim]] in the {{YearlinkName|1492}}.<ref name="WDH5e-p52-56" />{{Waterdeep-time}}
+
+==Location==
+The attack took place in Gralhund Villa, located between [[Saerdoun Street]] and [[Horn Street]] in the [[North Ward of Waterdeep|North Ward]].<ref name="WDH5e-p52-56" /><ref name="WDH5e-map">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref>
+
+==History==
+===Causes===
+House [[Gralhund]] and the Zhentarim maintained a tenuous alliance to achieve their common goal of accessing a treasure of [[Dragon (coin)|dragon]]s, which was accumulated by [[Dagult Neverember]] and left behind in the [[Vault of Dragons]] after he was ousted as the city's [[Open Lord]].<ref name="WDH5e-p52-56" /><ref name="WDH5e-p5">{{Cite book/Waterdeep: Dragon Heist|5}}</ref> The Gralhunds provided a group of Zhents led by [[Urstul Floxin]] with shelter and money in exchange for a share of the treasure.<ref name="WDH5e-p44">{{Cite book/Waterdeep: Dragon Heist|44}}</ref>
+
+The attack was a result of rising tensions between Urstul and [[Yalah Gralhund]] over which course of action to pursue regarding the ''[[Stone of Golorr]]'', the key to the vault's location. While Urstul, who was in possession of the stone at the time, wished to confer with [[Manshoon]] before handing it over to the Gralhunds, Yalah grew tired of having him as a middle man, and decided to take the stone by force and lock Urstul in his quarters. Her goal was to use the stone directly to pursue her objectives.<ref name="WDH5e-p52-56" />
+
+===Battle===
+Urstul, still injured by a ''[[fireball]]'' detonated by the rogue [[nimblewright]] under Yalah's control, rallied his allies in the estate to kill the guards and capture either Yalah or [[Orond Gralhund]] in exchange for the stone. During the confrontation, the nimblewright left the premises, carrying the stone with it.<ref name="WDH5e-p52-56" />
+
+===Aftermath===
+Within minutes of the beginning of hostilities, a [[City Watch (Waterdeep)|City Watch]] patrol arrived at the scene, led by [[Generic City Watch sergeant (Waterdeep)|sergeant]] [[Saeth Cromley]] and [[Barnibus Blastwind]] of the [[Watchful Order of Magists and Protectors]], and accompanied by a detachment of [[Griffon Cavalry]] riders for air support. The patrol thoroughly investigated the site and took witness accounts of all neighbors and bystanders, while also making arrests.<ref name="WDH5e-p52-56" />
+
+The attack on Gralhund Villa had several unfavorable repercussions for the Zhentarim. Following the event, there was a crackdown on the organization by the City Watch, who arrested and interrogated any known members, regardless of whether or not they had been involved with the incident. This forced many members, such as [[Istrid Horn]], to hide and lay low for several days. In addition, the unflattering way in which local broadsheets portrayed the event damaged even more the group's already problematic reputation.<ref name="WDH5e-p52-56" />
+
+==Combatants==
+===Casualties===
+Both the Zhentarim forces and the Gralhund household suffered heavy casualties, including three servants who had not been directly involved with the battle.<ref name="WDH5e-p52-56" />
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+:;Adventures
+::''[[Waterdeep: Dragon Heist]]''
+===References===
+{{Refs}}
+[[Category:Events on Toril]]
+[[Category:Events in Faerûn]]
+[[Category:Events in Northwest Faerûn]]
+[[Category:Events on the Sword Coast North]]
+[[Category:Events in Waterdeep]]
+[[Category:Events in the North Ward of Waterdeep]]
+[[Category:Events on Saerdoun Street]]
+[[Category:Events in Gralhund Villa]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Gargauth
+
+{{Deity
+| image          = 
+<gallery>
+Gargauth3e.png|3e
+Gargauth2e.png|2e
+Gargoth.png|1e
+</gallery>
+| caption2            = Gargauth, The Tenth Lord
+| name                = Gargauth
+| title               = The Tenth Lord of the Nine<ref name="P&Pp22">{{Cite book/Powers & Pantheons|22}}</ref><br /> The Tenth Lord of Nine<ref name="Dr357">{{Cite dragon/357/Gazing into the Abyss|68}}</ref><br /> The Hidden Lord<ref name="P&Pp22"/><br /> The Hidden Lord of the Shield<ref name="P&Pp25">{{Cite book/Powers & Pantheons|25}}</ref><br /> The Lost Lord of the Pit<ref name="P&Pp22"/><br/> The Lord Who Watches<ref name="P&Pp22"/><br /> The Lord of All<ref name="P&Pp24">{{Cite book/Powers & Pantheons|24}}</ref><br /> The Outcast<ref name="P&Pp22"/><br /> The Exile<ref name="Powerswalk">{{Cite book/Bloodwalk}}</ref><br /> {{Former}} Treasurer of Hell<ref name="Dr148">{{Cite dungeon/148/Wells of Darkness|66}}</ref>
+| symbol              = Broken animal horn<ref name="FRCS-235">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|235}}</ref>
+| aspects             = [[Astaroth]]<ref name="P&Pp22"/><br/> Gargoth<ref name="P&Pp22"/><br/> {{Former}} Gormauth Souldrinker<ref name="CoSWD">{{Cite book/City of Splendors: Waterdeep|133}}</ref>
+| power               = 
+| pantheon            = [[Faerûnian pantheon|Faerûnian]]
+| home                = [[Prime Material Plane]]
+| formerhomes         = [[Nine Hells|Baator]]
+| serves              = 
+| servedby            = 
+| minions             = 
+| gender              = Masculine
+| died                = 
+| dominion            = 
+| formerdominion      = 
+| realm               = 
+| sphere              = 
+| portfolio           = 
+| domains             = 
+| spheres             = 
+| worshipers          = 
+| cleric alignments   = 
+| favored weapon      = 
+| holy days           = 
+| channel divinity    = 
+| mortalhomes         = 
+| apotheosis          = 
+| alignment           = 
+| class               = 
+| power5e             = 
+| alignment5e         = 
+| symbol5e            = 
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = 
+| domains5e           = 
+| worshipers5e        = 
+
+| channel divinity5e  = 
+| holy days5e         = 
+| class5e             = 
+| refs5e              = 
+| power4e             = 
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = 
+| power3e             = [[Demigod]]
+| alignment3e         = [[Lawful evil]]
+| symbol3e            = Broken animal horn
+| homeplane3e         = [[Prime Material Plane]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Betrayal, cruelty, political corruption, powerbrokers
+| domains3e           = [[Avarice domain|Avarice]], [[Charm domain|Charm]], [[Corruption domain|Corruption]], [[Envy domain|Envy]], [[Evil domain|Evil]], [[Law domain|Law]], [[Pride domain|Pride]], 
+[[Sloth domain|Sloth]], [[Trickery domain|Trickery]]
+| worshipers3e        = Corrupt leaders and politicians, [[sorcerers]], traitors
+| cleric alignments3e = {{Alignment grid|off|off|off|on|off|off|on|on|off}}
+| favored weapon3e    = ''[[Corruptor]]'' ([[dagger]])
+| holy days3e         = [[Church of Gargauth#The Unveiling|The Unveiling]], [[Church of Gargauth#The Binding|The Binding]]
+| class3e             = 
+| refs3e              = <ref name="F&P-p95-96">{{Cite book/Faiths and Pantheons|95-96}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref><ref name="PGtF-p189">{{Cite book/Player's Guide to Faerûn|189}}</ref>
+| power2e             = [[Demipower]] <br /> <small>'''Formerly:'''</small> [[Archdevil]]
+| alignment2e         = [[Lawful Evil]]
+| symbol2e            = A broken animal horn
+| homeplane2e         = [[Prime Material Plane]]/[[Toril]]
+| realm2e             = [[Faerûn]]
+| serves2e            = 
+| servedby2e          = 
+| portfolio2e         = Betrayal, decay, cruelty, ill-council, political corruption, political puppetmasters, powerbrokers, powermongers, self-serving advisers
+| spheres2e           = [[All sphere|All]], [[Astral sphere|Astral]],  [[Charm sphere|Charm]], [[Combat sphere|Combat]], [[Law sphere|Law]], [[Necromantic sphere|Necromantic]], [[Protection sphere|Protection]], [[Thought sphere|Thought]], [[Travelers sphere|Travelers]] <small>'''minor:'''</small> [[Creation sphere|Creation]], [[Divination sphere|Divination]], [[Healing sphere|Healing]], [[Numbers sphere|Numbers]], [[Sun sphere|Sun]], [[Time sphere|Time]]
+| worshipers2e        = 
+| cleric alignments2e = {{Alignment grid|off|off|off|on|off|off|on|on|off}}
+| holy days2e         = [[Church of Gargauth#The Unveiling|The Unveiling]], [[Church of Gargauth#The Binding|The Bi
+
+=== LINKED WIKI PAGE (first 5000 chars): Zhentarim
+
+{{Distinguish|Zhentilar}}
+{{Organization
+| image          = 5e Zhentarim Symbol.png
+| caption        = The banner of the Zhentarim circa [[1489 DR]].
+| name           = Zhentarim
+| alt_spelling   = 
+| aliases        = Black Network<ref name="FRCS3e-p281" /><br /> Black Robes ([[Bedine]])<ref name="EE:A-p3">{{Cite book/Elminster's Ecologies/Anauroch|3}}</ref><br />Keepers<ref name="ab-p205">{{Cite book/Azure Bonds|205}}</ref><br />Zheeks<ref name="ab-p235">{{Cite book/Azure Bonds|235}}</ref><br/>Zhentarians<ref name="RoA-p60">{{Cite book/Ruins of Adventure|60}}</ref>
+| type           = 
+| base           = [[Darkhold]]<ref name="SCAG-p78" /> <br/> {{former}} <br /> [[Zhentil Keep]], [[Moonsea]]<ref name="LoD-p96"/> <br/> [[Citadel of the Raven]]<ref name="RoZK-CB-p36" /> <br/> [[Stormwatch]]<ref name="FRCG-p282" />
+| leadertitle    = 
+| leader         = [[Pereghost]]<ref name="SCAG-p78" /> <br /> {{former}} <br /> [[Fzoul Chembryl]]<ref name="LoD-p96"/> <br/> [[Manshoon]] (founder)<ref name="LoD-p96"/> and [[Sememmon]]<ref name="RoZK:CB-p32" />
+| symbol         = Silhouette of a winged snake biting a coin<ref name="Factions" /><ref name="WDH-p24-p44-p157-p159">{{Cite book/Waterdeep: Dragon Heist|24,44,157,159}}</ref> {{former}} <br /> Dark skull emitting black rays on a golden disc<ref name="FRCG-p282" /> <br/> Black scepter emitting green rays on gold disc, clutched in the talons of a black wyrm<ref name="LoD-p96"/> {{Former}} Stylized spearhead bearing white disc with scrawled Z in [[Dethek]]<ref name="LoD-p96"/>
+| favored deity  = [[Bane]] {{former}} [[Cyric]]
+| favored weapon = 
+| domains        = 
+| formed         = [[1261 DR]]<ref name="LoD-p96" /><ref name="tGHotR-p128" />
+| disbanded      = 
+| basicrefs      = <ref name="LoD-p96">{{Cite book/Lords of Darkness|96}}</ref>
+| members        = At least 10,000 c. [[1372 DR]]<ref name="LoD-p96"/>
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{alignment grid|off|off|off|off|off|off|on|on|off}}<ref name="LoD-p96"/>
+| races          = 
+| memrefs        = 
+| event1         = 
+| date1          = 
+| event2         = 
+| date2          = 
+| event3         = 
+| date3          = 
+| event4         = 
+| date4          = 
+| leader1        = 
+| leaderyear1    = 
+| leader2        = 
+| leaderyear2    = 
+| leader3        = 
+| leaderyear3    = 
+| leader4        = 
+| leaderyear4    = 
+| leader5        = 
+| leaderyear5    = 
+| leadertable    = 
+| histrefs       = 
+| allegiances    = 
+| enemies        = [[Harpers]], [[Lords' Alliance]], [[Cult of the Dragon]], the [[Rundeen]], [[Netheril]]
+| relrefs        = <ref name="LoD-p98"/>
+| showmembers    = yes
+| orgname        = the Zhentarim
+}}
+The '''Zhentarim''' ({{Pronounce|zz|HENT|ah|rim|refs=<ref name="FRCS1e-CR-p92">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|92}}</ref>}}) also known as the '''Black Network''',<ref name="FRCS3e-p281">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|281}}</ref> was a mercenary company and greater mercantile organization in [[Faerûn]],<ref name="SCAG-p78">{{Cite book/Sword Coast Adventurer's Guide|78}}</ref> who, over their 200 years of existence, had a storied history as a cadre of self-serving [[thieves]], spies, [[assassin]]s, and malevolent [[wizard]]s,<ref name="SCAG-p77">{{Cite book/Sword Coast Adventurer's Guide|77}}</ref> who for a time, were indentured by their leaders to serve dark gods [[Bane]]<ref name="FRCS3e-p282">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|282}}</ref> and [[Cyric]].<ref name="C&D-p9">{{Cite book/Cloak & Dagger|9}}</ref> Over the decades, the organization experienced several leaps and bounds in terms of successes,<ref name="RoZK:CB-p34" /> but also major misfortune, particularly for their historical strongholds around the [[Moonsea]].<ref name="FRCG-p151">{{Cite book/Forgotten Realms Campaign Guide|151}}</ref> As of [[1489 DR]] the Zhentarim was headquartered in the [[Western Heartlands]], at [[Darkhold|Darkhold Castle]], nestled in the [[Darkhold Vale|valley of the same name]].<ref name="SCAG-p78" />
+{{quote|As distasteful as [[Hillsfar]]'s policies might be, you can hardly expect us to deal with the baby-slaying Keepers. I've heard that they plight their troth with succubi, eat the brains of elves, and worship gods so black they make [[Moander]] seem nice. Their names are feared as far south as my native land. And the council who rules them, the Zhentarim, are twice as dark as the Keepers.|[[Akabar Bel Akash]]<ref name="ab-p205" />}}
+{{TOC limit|3}}
+==Aims & Goals==
+As an extension of the will of the dark wizard [[Manshoon]], the Zhentarim was initially formed as a mercenary company to support his rule over the [[Moonsea]] with the aim of spreading that control over all of Faerûn.<ref name="CaD-p32">{{Cite book/Cloak & Dagger|32}}</ref> After he recruited the faithful of Bane, unscrupulous merchants and lesser [[mage]]s to his cause,<ref name="RoZK:CB-p15">{{Cite book/Ruins of Zhentil Keep/Campaign Book|15}
+
+=== LINKED WIKI PAGE (first 5000 chars): Nobility of Waterdeep
+
+The '''nobility of Waterdeep''' were the collected [[:Category:Waterdhavian houses|houses]] that comprised [[Waterdeep|the city's]] aristocracy.<ref name="CoS.NHoW-p2">{{Cite web enhancement/Noble Houses of Waterdeep|2}}</ref>
+
+==List of Noble Houses==
+;A:
+* [[Adarbrent]]&mdash;One of [[Waterdeep]]'s leading shipping clans.<ref name="CS.W-p60">{{Cite book/City of Splendors: Waterdeep|60}}</ref>
+* [[Agundar]]&mdash;A family of [[Talos]]-worshiping mercenary leaders and weapon-makers.<ref name="W&N-p46">{{Cite book/Waterdeep and the North|46}}</ref> 
+* [[Amcathra]]&mdash;This distinguished family was famous for their masterfully-forged weapons and horse ranches.<ref name="CS.W-p61">{{Cite book/City of Splendors: Waterdeep|61}}</ref>
+* [[Ammakyl]]&mdash;A house of farmers and wine-makers with major holdings in [[Amphail]].<ref name="SF.C-p4">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|4}}</ref>  
+* [[Anteos]]&mdash;Former slavers, who turned their focus on the currency-exchange business.<ref name="W&N-p46">{{Cite book/Waterdeep and the North|46}}</ref>
+* [[Argent]]&mdash;Devoted followers of [[Lathander]] who had an association with the [[Order of the Aster]].<ref name=BG.SoD">{{Cite game/Baldur's Gate: Siege of Dragonspear}}</ref>
+* [[Artemel]]&mdash;Moneylenders who had a shared love of [[boar]]-hunting.<ref name="W&N-p46"/>
+* [[Assumbar]]&mdash;Devotees of [[Siamorphe]] who kept a [[Chapel and Chalice of the Divine Right|shrine]] within their [[Assumbar villa|family's estate]].<ref name="P&P-p58">{{Cite book/Powers & Pantheons|58}}</ref>
+;B:
+* [[Belabranta]]&mdash;A centuries-old family that made their fortune breeding and training [[griffon]]s.<ref name="W&N-p46"/>
+* [[Bladesemmer]]&mdash;Makers of fine arms and armor.<ref name="W&N-p46"/>
+* [[Brokengulf]]&mdash;One of the city's most distinguished families who earned fame by slaying monsters.<ref name="W&N-p46"/><ref name=CoS.W-p64">{{Cite book/City of Splendors: Waterdeep|64}}</ref> 
+* [[Brossfeather]]&mdash;A clan of lumberers, trappers, and wilderness guides.<ref name="W&N-p46"/>
+;C:
+* [[Cassalanter]]&mdash; A devilish family of money-lenders and rumor-mongers who served the highest payer.<ref name="W&N-p46"/><ref name="W.DH-p6">{{Cite book/Waterdeep: Dragon Heist|6}}</ref>
+* [[Cragsmere]]&mdash;Noted landowners who increased their wealth through money-lending.<ref name="W&N-p46"/>
+* [[Crommor]]&mdash;Fine craftspeople who specialized in [[brass]]work particularly in the crafting of instruments.<ref name="W&N-p46"/>
+;D:
+* De'Spri&mdash;A family with old members of the house buried within the catacombs of [[Undermountain]].<ref>{{Cite book/Halls of Undermountain|45, 51}}</ref>
+* [[Deepwinter (family)|Deepwinter]]&mdash;The dissolved noble house that dated back to the time of the city's Guildmasters.<ref name="CS.W-p59">{{Cite book/City of Splendors: Waterdeep|59}}</ref><ref name="CS.W-p117">{{Cite book/City of Splendors: Waterdeep|117}}</ref> 
+* [[Dezlentyr]]&mdash;The family of traders and explorers who strived to settle new lands.<ref name="W&N-p46"/>
+* [[Durinbold]]&mdash;A noble family skilled in both martial prowess and animal husbandry.<ref name="W&N-p46"/>
+;E:
+* [[Eagleshield]]&mdash;This skilled animal handlers who held interests in the village of [[Amphail]].<ref name="NGSF.CC-p4">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|4}}</ref>
+* [[Eirontalar]]&mdash;The family of hunters<ref name="W&N-p46"/> who had an assocaition with the gang referred to as the [[Gnawbones]].<ref name="CoS.W-p56">{{Cite book/City of Splendors: Waterdeep|56}}</ref>
+* [[Eltorchul]]&mdash;These nobles ran an [[Eltorchul Academy|arcane academy]] out of their villa in the [[Waterdeep/Sea Ward|Sea Ward]].<ref name="CoS.W-p26">{{Cite book/City of Splendors: Waterdeep|26}}</ref>
+* [[Emveolstone]]&mdash;The family who made their fortune selling [[iron]] goods and interesting trinkets.<ref name="W&N-p46"/>
+* [[Estelmer]]&mdash;The [[Heralds of Faerûn|heralds]] and loremasters who invested in the college of [[New Olamn]].<ref name="W&N-p47">{{Cite book/Waterdeep and the North|47}}</ref><ref name="CoS.W-p29">{{Cite book/City of Splendors: Waterdeep|29}}</ref>
+;G:
+* [[Gauntyl]]&mdash;This hard-living group garnered wealth as miners and mercenaries.<ref name="W&N-p47"/>
+* [[Gildeggh]]&mdash;An outcast noble house whose members were exiled in the late 13{{th}} century [[DR]].<ref name="CoS.W-p11">{{Cite book/City of Splendors: Waterdeep|11}}</ref><ref name="CoS.W-p59">{{Cite book/City of Splendors: Waterdeep|59}}</ref>
+* [[Gost]]&mdash;Long ago this family built an [[Fireplace Level|infamous dungeon]] beneath their estate in the [[Waterdeep/North Ward|North Ward]].<ref name="CoS.W-p117">{{Cite book/City of Splendors: Waterdeep|117}}</ref><ref name="CoS.W-p118">{{Cite book/City of Splendors: Waterdeep|118}}</ref>
+* [[Gralhund]]&mdash; Their business interests included contracting hireswords and manufacturing weapons.<ref name
+
+=== LINKED WIKI PAGE (first 5000 chars): Amcathra
+
+{{Organization
+| image          = Amcathra.jpg
+| caption        = The crest of House Amcathra.
+| name           = Amcathra
+| aliases        = 
+| base           = [[Waterdeep]], [[Sword Coast North]]
+| leader         = 
+| symbol         = Shield with a red field, light blue flames and silver stars
+| favored deity  = [[Tymora]]
+| favored weapon = 
+| domains        = 
+| formed         = [[1142 DR]]
+| disbanded      = 
+| basicrefs      = <ref name="CoS.NHoW-p2"/>
+| members        = 17 {{Small|(as of [[1372 DR]])}}
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{Alignment grid|on|on|on|off|off|off|off|off|off}}
+| races          = [[Human]] ([[Tethyrian]])
+| memrefs        = <ref name="CoS.NHoW-p2"/>
+| allegiances    =
+| enemies        = 
+| relrefs        = 
+| showmembers    = yes
+| orgname        = House Amcathra
+}}House '''Amcathra''' ({{Pronounce|am|CATH|ra|refs=<ref name="CS-WW2e-p9">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|9}}</ref>}}) was a distinguished [[Waterdhavian]] [[Nobility of Waterdeep|noble house]] that had a long history within the city, dating back to the 12{{th}} century [[DR]].<ref name="CS:W-p61">{{Cite book/City of Splendors: Waterdeep|61}}</ref><ref name="CoS.NHoW-p2">{{Cite web enhancement/Noble Houses of Waterdeep|2}}</ref>
+
+The [[blade]]s produced by House Amcathra were known to be some of the finest found in the ''City of Splendors'', the reputation of which preceded that of the family.<ref name="CS:W-p61" />
+
+{{quote
+|We trample our troubles.
+|Amcathra family motto<ref name="WDH5e-p13">{{Cite book/Waterdeep: Dragon Heist|13}}</ref>
+}}
+
+==Organization==
+During the 14{{th}} century, [[Challas Amcathra]] passed on his title as family patriarch to his eldest son, [[Arilos Amcathra|Arilos]]. His consort and wife, [[Miri Amcathra|Miri]], stepped down during this time and heir was passed to Challas' second son, [[Regnet Amcathra|Regnet]].<ref name="CS-WW2e-p9" />
+
+As of [[1372 DR]], the house had 17 family members.<ref name="CoS.NHoW-p2" />
+
+==Activities==
+The Amcathra family were particularly well known for their trade in wine and their enterprises in [[sword]]-forging, [[horse]]-breeding and martial training.<ref name="WatN-p46">{{Cite book/Waterdeep and the North|46}}</ref> Their members were active patrons within the [[Vintners', Distillers', & Brewers' Guild]] as well as the [[Splendid Order of Armorers, Locksmiths, and Finesmiths]].<ref name="CS:W-p61" />
+
+==Base of Operations==
+The family owned a villa in the [[Waterdeep/North Ward|North Ward]], between the east side of the [[High Road (Waterdeep)|High Road]] and [[Ilzantil Street]] and between [[Hassantyr's Street]] and [[Tarnath Street]].<ref name="WDH5e-p13" /><ref name="CSW3e-p94,101">{{Cite book/City of Splendors: Waterdeep|94,101}}</ref>
+
+They also had holdings in [[Amphail (village)]] and [[Silverymoon]]. <ref name="CoS.NHoW-p2" />
+
+==History==
+The family's history dated back to [[Rorgar Amcathra]], who established a horse ranch near [[Rowan Hold]], shortly after the [[Trollwars|First Trollwar]]. They offered their services as horse-masters to the military of Waterdeep, whose cavalry were greatly depleted during the conflict, and rapidly garnered a fair amount of wealth. In [[1248 DR]], [[Hargrym Amcathra|Lord Hargrym]] accepted the city's offer of ennoblement, along with several other mercantile families, which ascended their status to that of Waterdhavian aristocracy.<ref name="CS:W-p61" />
+
+Around [[1372 DR]], [[Gralhund|House Gralhund]] began to undercut the sale of Amcathran blades, offering [[weapon]]s that were forged from [[mithral]]-laced-[[steel]] was provided from the [[duergar]] [[Clan Xundorn]], which was highly superior in form and function. [[Arilos Amcathra|Lord Arilos]] suspected they were using an alloy that was unavailable to other [[smith]]s, and sought to hire adventurers to rout out the driving force behind their recent success or hopefully attain the source for his own family's use.<ref name="CS:W-p61" />
+
+==Members==
+===Living===
+*[[Challas Amcathra]]: Patriarch of the family during the 14{{th}} century.<ref name="WatN-p46" />
+*[[Arilos Amcathra|Lord Arilos Amcathra]]: Son of Challas and once heir to the family, he was the senior Master of the [[Stablemasters' & Farrier's Guild]] and patriarch as of [[1372 DR]].<ref name="CS:W-p61" /><ref name="CoS.NHoW-p2" />
+*[[Galinda Raventree Amcathra]]: One of Waterdeep's leading socialites.<ref name="CS:W-p61" />
+*[[Mourngrym Amcathra]]: The Lord of [[Shadowdale]] and ally to the [[Harpers]].<ref name="CS:W-p61" /><ref name="SD-32-33">{{Cite book/Shadowdale (adventure)|32-33}}</ref><ref name="SDSotL-3">{{Cite book/Shadowdale: The Scouring of the Land|3}}</ref>
+*[[Shaerl Amcathra]]: Lady Shaerl Llairhavenn Roanmantle Amcathra was Mourngrym's wife who originally came from [[Suzail]].<ref name="SDSotL-147">{{Cite book/Shadowdale: The Scouring of the Land|147}}</ref>
+*[[Scothgar Amcathra]]: Also known as 'Scotti', he was a Knight of
+
+=== LINKED WIKI PAGE (first 5000 chars): Skullport
+
+{{otheruses4|the city of Skullport|the sourcebook|Skullport (sourcebook)}}
+{{Location
+| image              = <gallery>
+Skullport-Julian Kok.jpg|5e 
+Skullport - Richard Sardinha.jpg|3e 
+</gallery>
+| caption            = Various depictions of Skullport.
+| name               = Skullport
+| alt spelling       = 
+| aliases            = Port of Shadows
+| type               = Settlement
+| region             = [[Sargauth Level]], [[Undermountain]]
+| size               = Large town
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="W.DoMM-p303"/><ref name="CoS.W-p108"/>
+| demonym            = Skulker
+| population         = 
+| races              = {{Numeric table|[[Human]]s|832|[[Half-orc]]s|405|[[Goblin]]s|225|[[Kobold]]s|157|[[Elves]] (mostly [[drow]])|113|[[Dwarves]] (mostly [[duergar]])|68|Others|450}}
+| languages          = 
+| religion           = 
+| alignment          = {{Alignment grid|off|off|off|off|off|off|on|on|on}}
+| socrefs            = <ref name="CoS.W-p108"/>
+| imports            = 
+| exports            = Body parts, cadavers, [[:category:drugs|drugs]], evil magic, mercenaries, slaves, smuggling services, [[poison]]s, vile magic, [[undead]]
+| currency           = 
+| comrefs            = <ref name="CoS.W-p109"/>
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 2250
+| popyear1           = 1372
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = [[Skulls of Skullport]]
+| ruleryear1         = -339
+| ruler2             = [[Shradin Mulophor]]
+| ruleryear2         = 1148
+| ruler3             = [[Xanathar]]
+| ruleryear3         = 1492
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="CoS.W-p108"/><ref name="Du200.BS"/><ref name="W.DoMM-p304"/><ref name="Skullport-p6-9"/>
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = 
+| mountains          = 
+| bodies of water    = yes
+| forests            = 
+| events             = 
+| food and drink     = yes
+| items              = 
+}}
+'''Skullport''', also known as the '''Port of Shadows''', was a subterranean city located far below [[Waterdeep]], within the 3{{rd}} level of [[Undermountain]] known as the [[Sargauth Level]].<ref name="FRCS3e-p179">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|179}}</ref><ref name="CoS.W-p108">{{Cite book/City of Splendors: Waterdeep|108}}</ref> While rumors of this subterranean domain of villainy persisted throughout the surface world, few of its inhabitants had any knowledge of any points of entry.<ref name="W.DoMM-p303">{{Cite book/Waterdeep: Dungeon of the Mad Mage|303}}</ref>
+
+{{Quote|''The Port of Shadow is unlike any port above or below the surface of Abeir-Toril. Not surprisingly, it is much like the Underhalls that surround it: difficult to quantify, enigmatic, dangerous and yet alluring, all at the same time.''|Alphraxis of Deneir, ''[[Skullport (sourcebook)]]'' by [[Joseph Wolf]]<ref name="Sk-p5">{{Cite book/Skullport|5}}</ref>}}
+
+==Structure==
+Built on an ancient [[Netherese]] [[Sargauth Enclave|ruin]], within an immense subterranean cavern, the shadowy port was a dark reflection of the ''City of Splendors'' above. Its structure was built in three tiers, interconnected by narrow catwalks and rickety scaffolding. Creaking houses built on stilts were haphazardly built in a dense network that formed a near shantytown.<ref name="W.DoMM-p303"/><ref name="Du200.BS">{{Cite dungeon/200/Backdrop: Skullport}}</ref>
+
+Exact divisions between regions was a matter of debate, but Skullport was divided into four generally accepted wards: [[Skull Island]], [[Skullport/Port|the Port]], [[Skullport/Trade Lanes|the Trade Lanes]], and [[Skullport/Heart|the Heart]].<ref name="SP-p12">{{Cite book/Skullport|12}}</ref> Although no clear vertical boundaries existed, locals divided Skullport into three vertical tiers to aid navigation: the Crown, the Venter and the Dredge.<ref name="Du200.BS"/>
+
+Although the cavern of Skullpo
+
+=== LINKED WIKI PAGE (first 5000 chars): Dagult Neverember
+
+{{DEFAULTSORT:Neverember, Dagult}}
+{{Person
+| image          = Dagult Neverember.jpg
+| caption        = Dagult Neverember circa 1490 DR.
+| name           = Dagult Neverember
+| alt_spelling   = 
+| titles         = Lord Protector of [[Neverwinter]]<br />{{Former}}<small> Open Lord of [[Waterdeep]]</small>
+| aliases        = 
+| nicknames      = "Dagger" Neverember<br />Lord Pretender<br />The Protector
+| true name      = 
+| home           = [[Neverwinter]], [[Sword Coast North]]
+| formerhomes    = [[Waterdeep]]
+| sex            = Male
+| gender         = 
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Dwarvish]], [[Elvish]]
+| basicrefs      = <ref name="SCAG-p51"/><ref name="NCS-p88" /><ref name="NCS-p140" /><ref name="RT-p14-15"/><ref name="AM-ch7" />
+| reckoning      = DR
+| dob            = 1429
+| dobnotes       = 
+| death          = 
+| deathnotes     = 
+| turned         = 
+| turnednotes    = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = <ref name="LCoN-p22" />
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = [[Renaer Neverember]]
+| familyrefs     = <ref name="W:DH-p215" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = Lord of Neverwinter:<br />[[Forge Fitzwilliam]] (temporary)<ref name="HAT-TJN-c5" /><br/><br/>Open Lord:<br />[[Laeral Silverhand]]
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = [[Unaligned]]
+| class4e        = {{class table|edition=4e|Soldier|7|}}
+| refs4e         = <ref name="NCS-p88"/>
+| alignment5e    = [[Lawful neutral]]
+| challenge5e    = 
+| class5e        = [[Fighter]]
+| refs5e         = <ref name="RT-p14-15"/>
+}}
+'''Dagult Neverember''' was the wealthy Lord Protector of [[Neverwinter]] during the late 15{{th}} century and turn of the 16{{th}} century [[DR]], as well as the former [[Open Lord]] of [[Waterdeep]].<ref name="SCAG-p51">{{Cite book/Sword Coast Adventurer's Guide|51-52}}</ref><ref name="NCS-p86">{{Cite book/Neverwinter Campaign Setting|86}}</ref><ref name="HoF-p73">{{Cite book/Forgotten Realms: Heroes of Faerûn|73}}</ref> He was a member of the [[Lords' Alliance]]<ref name="SCAG-p7">{{Cite book/Sword Coast Adventurer's Guide|7}}</ref> and one of the most powerful and well-respected men on the entire [[Sword Coast]].<ref name="Bl-ch12">{{Cite book/Boundless||12}}</ref>
+
+==Description==
+Neverember was tall, broad-shouldered,<ref name="RT-p14-15">{{Cite book/The Rise of Tiamat|14-15}}</ref> and strikingly good-looking,<ref name="W:DH-p215">{{Cite book/Waterdeep: Dragon Heist|215}}</ref> with angular features,<ref name="T-ch8">{{Cite book/Timeless||8}}</ref> a mane of silver-flecked "pumpkin-brown" hair, and deep-set but shining dark eyes.<ref name="LCoN-p22">{{Cite book/Lost Crown of Neverwinter|22}}</ref><ref name="BST-p218">{{Cite book/Blackstaff Tower|218}}</ref> He was often called a "lion of a man" for both his appearance and bearing,<ref name="BST-p218" /> and was said to have the look of a strong ruler.<ref name="FRCG-p198">{{Cite book/Forgotten Realms Campaign Guide|198}}</ref><ref name="RT-p14-15">{{Cite book/The Rise of Tiamat|14-15}}</ref>
+
+By the end of his tenure as Open Lord, Neverember sported a short but thick beard<ref name="RT-p14-15"/><ref name="DDEK:DC">{{Cite book/Dungeons & Dragons Essentials Kit/Divine Contention}}</ref> that had gone grey.<ref name="DDEK:DC" /><ref name="AM-ch7">{{Cite book/Archmage/MMP (2016)||7}}</ref>
+
+==Personality==
+A consummate politician, Neverember was a capable and inspiring leader<ref name="SCAG-p51" /><ref name="LCoN-p22" /> who was known to be both brave and stately in the face of opposition.<ref name="BST-ch18">{{Cite book/Blackstaff Tower||18}}</ref> He outwardly embodied the ideals of moderation, honesty, and responsibility. He always acted decisively and firmly, with a clear-eyed view of the costs and sacrifices that his decisions entailed,<ref name="RT-p14-15">{{Cite book/The Rise of Tiamat|14-15}}</ref> although his cunning and brutal pragmatism had earned him the nickname "Dagger" Neverember.<ref name="SCAG-p66">{{Cite book/Sword Coast Adventurer's Guide|66}}</ref> He was also ambitious, proud, manipulative, and considered himself to be superior to everyone else&mdash;which made him overconfident<ref name="LCoN-p22" />&mdash;and his quick temper was known to interfere with his judgment,<ref name="W:DH-p215" /><ref name="BST-p221">{{Cite book/Blackstaff Tower|221}}</ref> making him boisterous and dangerous.<ref name="NCS-p10">{{Cite book/Neverwinter Campaign Setting|10}}</ref> However, his charisma,<ref name="LCoN-p22" /> affability,<ref name="NCS-p88">{{Cite book/N
+
+=== LINKED WIKI PAGE (first 5000 chars): Urstul Floxin
+
+{{DEFAULTSORT:Floxin, Urstul}}
+{{Person
+| image          = Urstul-5e.jpg
+| caption        = 
+| name           = Urstul Floxin
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Human]]
+| ethnicity      = [[Illuskan]]
+| occupation     = Assassin<ref name="WDH5e-p216" />
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Orc language|Orc]]
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     =
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Lawful evil]]
+| challenge5e    = 8
+| class5e        = [[Assassin]]
+| refs5e         = <ref name="WDH5e-p216">{{Cite book/Waterdeep: Dragon Heist|216}}</ref><ref name="MM5e-p343">{{Cite book/Monster Manual 5th edition|343}}</ref>
+}}
+'''Urstul Floxin''' ({{Pronounce|UR|stool|_|FLOX|in|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}) was a high-ranking member of the [[Zhentarim]] in [[Waterdeep]] in the early 1490s [[DR]].<ref name="WDH5e-p216" />
+
+==History==
+In {{Yearlink|1492}},{{WDH-time}} Urstul Floxin was the leader of the Zhents headquartered in the villa of the [[Gralhund]] family. From there, he directed the search for the ''[[Stone of Golorr]]'', which was in possession of the [[gnome]] [[Dalakhar]].<ref name="WDH5e-p44">{{Cite book/Waterdeep: Dragon Heist|44}}</ref>
+
+However, not fully trusting Urstul, [[Yalah Gralhund]] also sent one of her personal servants, a [[nimblewright]] with a ''[[necklace of fireballs]]'', to search for the [[rock gnome]]. Floxin and two of his minions managed to ambush Dalakhar but then a ''[[fireball]]'' launched by the nimblewright killed the rock gnome and ten more people, including the two Zhent minions. Despite some injuries, Urstul survived and finally took the ''Stone''.<ref name="WDH5e-p43-44">{{Cite book/Waterdeep: Dragon Heist|43-44}}</ref>
+
+Then, finally in possession of the ''Stone'', Urstul went to question Yalah about the nimblewright. However, she took advantage of his injures and took the ''Stone'',<ref name="WDH5e-p50">{{Cite book/Waterdeep: Dragon Heist|50}}</ref> triggering the events of the confrontation later known as the [[Gralhund Villa Bloodbath]].<ref name="WDH5e-p56">{{Cite book/Waterdeep: Dragon Heist|56}}</ref>
+
+Urstul was confined in the villa's parlor but managed to kill the guards and escaped.<ref name="WDH5e-p53">{{Cite book/Waterdeep: Dragon Heist|53}}</ref>
+
+Next, he tried to find Lord [[Orond Gralhund]], who was hidden in one of the guest rooms, with a plan to capture and trade him to get back the ''Stone''. There Urstul was possibly confronted and defeated by some adventurers.<ref name="WDH5e-p54">{{Cite book/Waterdeep: Dragon Heist|54}}</ref>
+
+If he survived, Urstul retreated to [[Kolat Tower]] with his master [[Manshoon]].<ref name="WDH5e-p159">{{Cite book/Waterdeep: Dragon Heist|159}}</ref>
+
+==Personality==
+Urstul was truly loyal to Manshoon, even after being punished.<ref name="WDH5e-p159" /> He was a charming and dangerous individual.<ref name="WDH5e-p216" /> 
+ 
+==Relationship==
+Urstul received his orders directly from a [[simulacrum]] of Manshoon. He had a collection of black [[flying snake]]s that he used as couriers.<ref name="WDH5e-p216" /> 
+
+==Appendix==
+===Notes===
+{{Notes}}
+
+===Appearances===
+:;Adventures
+::''[[Waterdeep: Dragon Heist]]''
+
+:;Video Games
+::''[[Idle Champions of the Forgotten Realms]]''
+
+===References===
+{{Refs}}
+[[Category:Assassins]]
+[[Category:Humans]]
+[[Category:Illuskans]]
+[[Category:Inhabitants of the North Ward of Waterdeep]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+[[Category:Members of the Zhentarim]]
+[[Category:Assassins (5e)]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Stone of Golorr
+
+{{Item
+| image         = Stone_of_golorr-5e.png
+| caption       = 
+| name          = ''Stone of Golorr''
+| othernames    = 
+| nicknames     = 
+| type          = Wondrous item<ref name="WDH5e-p192">{{Cite book/Waterdeep: Dragon Heist|192}}</ref>
+| location      = 
+| value1e       = 
+| weight1e      = 
+| refs1e        = 
+| school2e      = 
+| level2e       = 
+| value2e       = 
+| weight2e      = 
+| refs2e        = 
+| school3e      = 
+| casterlevel3e = 
+| itemlevel3e   = 
+| value3e       = 
+| weight3e      = 
+| refs3e        = 
+| level4e       = 
+| value4e       = 
+| weight4e      = 
+| refs4e        = 
+| rarity5e      = [[Artifact]]
+| attunement5e  = Required
+| school5e      = 
+| level5e       = 
+| value5e       = 
+| weight5e      = 
+| refs5e        = <ref name="WDH5e-p192" />
+| communication = Telepathic<ref name="WDH5e-p192" />
+| languages     = 
+| alignment     = [[Lawful evil]]<ref name="WDH5e-p192" />
+}}
+The '''''Stone of Golorr''''' was an [[artifact]] that contained the consciousness and memories of an [[aboleth]] named [[Golorr]].<ref name="WDH5e-p192" />
+
+==Description==
+The artifact was a small and glossy greenish-gray stone that could fit in the palm of a [[humanoid]]'s hand.<ref name="WDH5e-p192" />
+
+==Powers==
+The power of the ''Stone of Golorr'' could be called upon to access the aboleth's memory in a similar way as the ''[[legend lore]]'' spell. This power could be used up to three times, until the ''stone'' recharged at the next dawn.<ref name="WDH5e-p192" />
+
+However, knowledge given by the aboleth was fleeting. Once a creature broke the attunement to the ''Stone of Golorr'', there was a chance that any knowledge acquired via the stone, and even possession of the stone itself, was forgotten by the user. This magically induced amnesia could sometimes be removed by a ''[[remove curse]]'' spell, but more powerful spells such as ''[[greater restoration]]'' had a better chance of success.<ref name="WDH5e-p192" />
+
+As the trapped creature inside, the ''Stone of Golorr'' hungered for knowledge and did not like to stay attuned to the same individual for too long. It had an alien personality and saw itself as a [[god]]. If its user ignored the ''stone's'' demands, it could attempt to seize control of the user.<ref name="WDH5e-p192" />
+
+==History==
+The ''Stone of Golorr'' was in fact an aboleth that was transformed into an object. It could be freed if the stone was destroyed via an ''[[antipathy/sympathy]]'' spell cast with the appropriate parameters. If Golorr were freed in this way, it could go berserk and attack any nearby creatures.<ref name="WDH5e-p192" />
+
+In the late 15{{th}} century [[DR]], the ''Stone of Golorr'' was used to store the knowledge of the location of the [[Vault of Dragons]], which contained a treasure that had been embezzled by [[Dagult Neverember]] shortly before he was ousted as the [[Open Lord]] of [[Waterdeep]].<ref name="WDH5e-p192" /> At some point the stone fell into the hands of [[Xanathar]]. Then in [[1492 DR]],{{WDH-time}} Lord Dagult ordered many of his agents to obtain the stone from Xanathar's lair, with one [[Dalakhar]] ultimately being the one to do so while the crime lord was in the middle of a meeting with the [[Zhentarim]].<ref name="WDH5e-p5">{{Cite book/Waterdeep: Dragon Heist|5}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+|adventures = ''[[Waterdeep: Dragon Heist]]''
+|video games = ''[[Idle Champions of the Forgotten Realms]]''
+|board games = ''[[Dungeons & Dragons Dice Masters: Adventures in Waterdeep]]''
+|organized play refs = ''[[Once in Waterdeep]]''
+}}
+
+===References===
+{{Refs}}
+[[Category:Items]]
+[[Category:Items from Toril]]
+[[Category:Items from Faerûn]]
+[[Category:Items from Waterdeep]]
+[[Category:Magic items]]
+[[Category:Artifacts]]
+[[Category:Aboleths]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Dalakhar
+
+{{Person
+| image          = 
+| caption        = 
+| name           = Dalakhar
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Rock gnome]]
+| ethnicity      = 
+| occupation     = [[Thief]] and spy
+| age            = 
+| patron deity   = 
+| languages      = 
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 1492
+| deathnotes     = (hit by a [[fireball]])<ref name="WDH5e-p43-44" />
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Dalakhar''' was a [[thief]] and spy in [[Waterdeep]] working for Lord [[Dagult Neverember]] in the late 15{{th}} century [[DR]].<ref name="WDH5e-p11">{{Cite book/Waterdeep: Dragon Heist|11}}</ref>
+
+==History==
+In [[1492 DR]],{{WDH-time}} Dalakhar was spying upon [[Renaer Neverember]], the estranged son of his master.<ref name="WDH5e-p49">{{Cite book/Waterdeep: Dragon Heist|49}}</ref> At one point, however, Lord Dagult ordered many of his agents, including Dalakhar, to obtain the ''[[stone of Golorr]]'' from the lair of the [[Xanathar]]. The rock gnome managed to steal the stone, ruining a meeting between Xanathar and the [[Zhentarim]].<ref name="WDH5e-p5">{{Cite book/Waterdeep: Dragon Heist|5}}</ref>
+
+Later, Dalakhar was targeted by agents of the Zhentarim, the [[Xanathar's Thieves' Guild]], [[Bregan D'aerthe]], and others, making it impossible for him to get out of Waterdeep as planned.<ref name="WDH5e-p43-44" /> For the time being, Dalakhar decided to entrust the stone to some adventurers who had saved Renaer.<ref name="WDH5e-p46" /> However, Dalakhar was ambushed by some Zhentarim led by [[Urstul Floxin]] and hit by a ''[[fireball]]'' launched by the [[nimblewright]] of [[Gralhund|House Gralhund]], killing the rock gnome along with ten more people.<ref name="WDH5e-p43-44">{{Cite book/Waterdeep: Dragon Heist|43-44}}</ref>
+
+==Personality==
+Dalakhar was very loyal to his master, believing Dagult to be the rightful [[Open Lord]] of Waterdeep.<ref name="WDH5e-p46">{{Cite book/Waterdeep: Dragon Heist|46}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+
+===Appearances===
+{{Appearances
+|adventures = ''[[Waterdeep: Dragon Heist]]''
+|video game refs = ''[[Idle Champions of the Forgotten Realms]]''
+|organized play refs = ''[[Once in Waterdeep]]''
+}}
+
+===References===
+{{refs}}
+[[Category:Rock gnomes]]
+[[Category:Gnomes]]
+[[Category:Thieves]]
+[[Category:Spies]]
+[[Category:Members of New Neverwinter]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Zhentarim
+
+{{Distinguish|Zhentilar}}
+{{Organization
+| image          = 5e Zhentarim Symbol.png
+| caption        = The banner of the Zhentarim circa [[1489 DR]].
+| name           = Zhentarim
+| alt_spelling   = 
+| aliases        = Black Network<ref name="FRCS3e-p281" /><br /> Black Robes ([[Bedine]])<ref name="EE:A-p3">{{Cite book/Elminster's Ecologies/Anauroch|3}}</ref><br />Keepers<ref name="ab-p205">{{Cite book/Azure Bonds|205}}</ref><br />Zheeks<ref name="ab-p235">{{Cite book/Azure Bonds|235}}</ref><br/>Zhentarians<ref name="RoA-p60">{{Cite book/Ruins of Adventure|60}}</ref>
+| type           = 
+| base           = [[Darkhold]]<ref name="SCAG-p78" /> <br/> {{former}} <br /> [[Zhentil Keep]], [[Moonsea]]<ref name="LoD-p96"/> <br/> [[Citadel of the Raven]]<ref name="RoZK-CB-p36" /> <br/> [[Stormwatch]]<ref name="FRCG-p282" />
+| leadertitle    = 
+| leader         = [[Pereghost]]<ref name="SCAG-p78" /> <br /> {{former}} <br /> [[Fzoul Chembryl]]<ref name="LoD-p96"/> <br/> [[Manshoon]] (founder)<ref name="LoD-p96"/> and [[Sememmon]]<ref name="RoZK:CB-p32" />
+| symbol         = Silhouette of a winged snake biting a coin<ref name="Factions" /><ref name="WDH-p24-p44-p157-p159">{{Cite book/Waterdeep: Dragon Heist|24,44,157,159}}</ref> {{former}} <br /> Dark skull emitting black rays on a golden disc<ref name="FRCG-p282" /> <br/> Black scepter emitting green rays on gold disc, clutched in the talons of a black wyrm<ref name="LoD-p96"/> {{Former}} Stylized spearhead bearing white disc with scrawled Z in [[Dethek]]<ref name="LoD-p96"/>
+| favored deity  = [[Bane]] {{former}} [[Cyric]]
+| favored weapon = 
+| domains        = 
+| formed         = [[1261 DR]]<ref name="LoD-p96" /><ref name="tGHotR-p128" />
+| disbanded      = 
+| basicrefs      = <ref name="LoD-p96">{{Cite book/Lords of Darkness|96}}</ref>
+| members        = At least 10,000 c. [[1372 DR]]<ref name="LoD-p96"/>
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{alignment grid|off|off|off|off|off|off|on|on|off}}<ref name="LoD-p96"/>
+| races          = 
+| memrefs        = 
+| event1         = 
+| date1          = 
+| event2         = 
+| date2          = 
+| event3         = 
+| date3          = 
+| event4         = 
+| date4          = 
+| leader1        = 
+| leaderyear1    = 
+| leader2        = 
+| leaderyear2    = 
+| leader3        = 
+| leaderyear3    = 
+| leader4        = 
+| leaderyear4    = 
+| leader5        = 
+| leaderyear5    = 
+| leadertable    = 
+| histrefs       = 
+| allegiances    = 
+| enemies        = [[Harpers]], [[Lords' Alliance]], [[Cult of the Dragon]], the [[Rundeen]], [[Netheril]]
+| relrefs        = <ref name="LoD-p98"/>
+| showmembers    = yes
+| orgname        = the Zhentarim
+}}
+The '''Zhentarim''' ({{Pronounce|zz|HENT|ah|rim|refs=<ref name="FRCS1e-CR-p92">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|92}}</ref>}}) also known as the '''Black Network''',<ref name="FRCS3e-p281">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|281}}</ref> was a mercenary company and greater mercantile organization in [[Faerûn]],<ref name="SCAG-p78">{{Cite book/Sword Coast Adventurer's Guide|78}}</ref> who, over their 200 years of existence, had a storied history as a cadre of self-serving [[thieves]], spies, [[assassin]]s, and malevolent [[wizard]]s,<ref name="SCAG-p77">{{Cite book/Sword Coast Adventurer's Guide|77}}</ref> who for a time, were indentured by their leaders to serve dark gods [[Bane]]<ref name="FRCS3e-p282">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|282}}</ref> and [[Cyric]].<ref name="C&D-p9">{{Cite book/Cloak & Dagger|9}}</ref> Over the decades, the organization experienced several leaps and bounds in terms of successes,<ref name="RoZK:CB-p34" /> but also major misfortune, particularly for their historical strongholds around the [[Moonsea]].<ref name="FRCG-p151">{{Cite book/Forgotten Realms Campaign Guide|151}}</ref> As of [[1489 DR]] the Zhentarim was headquartered in the [[Western Heartlands]], at [[Darkhold|Darkhold Castle]], nestled in the [[Darkhold Vale|valley of the same name]].<ref name="SCAG-p78" />
+{{quote|As distasteful as [[Hillsfar]]'s policies might be, you can hardly expect us to deal with the baby-slaying Keepers. I've heard that they plight their troth with succubi, eat the brains of elves, and worship gods so black they make [[Moander]] seem nice. Their names are feared as far south as my native land. And the council who rules them, the Zhentarim, are twice as dark as the Keepers.|[[Akabar Bel Akash]]<ref name="ab-p205" />}}
+{{TOC limit|3}}
+==Aims & Goals==
+As an extension of the will of the dark wizard [[Manshoon]], the Zhentarim was initially formed as a mercenary company to support his rule over the [[Moonsea]] with the aim of spreading that control over all of Faerûn.<ref name="CaD-p32">{{Cite book/Cloak & Dagger|32}}</ref> After he recruited the faithful of Bane, unscrupulous merchants and lesser [[mage]]s to his cause,<ref name="RoZK:CB-p15">{{Cite book/Ruins of Zhentil Keep/Campaign Book|15}
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/North Ward
+
+{{Location
+| image              = Waterdeep_Wards-North_Ward_01.gif
+| caption            = 
+| name               = North Ward of Waterdeep
+| alt spelling       = 
+| aliases            = 
+| type               = Ward
+| region             = [[Waterdeep]], [[Sword Coast North]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="WatN-p24">{{Cite book/Waterdeep and the North|24}}</ref><ref name="VGtW-p81">{{Cite book/Volo's Guide to Waterdeep|81}}</ref><ref name="CoS-p92">{{Cite book/City of Splendors: Waterdeep|92}}</ref>
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = {{Yearlink|1276}}
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="GHR3e-p128">{{Cite book/The Grand History of the Realms|128}}</ref><ref name="CS-CG2e-p31">{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref>
+| usethe             = yes
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = 
+| items              = 
+}}
+The '''North Ward''' was the northeastern sector of [[Waterdeep]].<ref name="WatN-p24" /><ref name="CoS-p92" /> It was famous for being the quietest ward of the city, consisting mostly of residential areas.<ref name="VGtW-p81" />
+
+==Geography==
+The North Ward was delimited by the walls of the [[Waterdeep/City of the Dead|City of the Dead]] to the southeast and the [[Trollwall]] to the east and north. Its southern border was at [[Andamaar's Street]] and [[Trader's Way]] up to [[Shield Street]], which marked the western border until [[Vondil Street]]. North of that, the western border was defined by the [[High Road]] the rest of the way to the Trollwall.<ref name="CoS.AG-12">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|12}}</ref>
+
+The architectural style of the North Ward was dominated by rowhouses, which filled the gaps between the villas of lesser [[Nobility of Waterdeep|noble houses]]. The ward also counted with a variety of taverns and shops.<ref name="VGtW-p81" /><ref name="WDH5e-p176">{{Cite book/Waterdeep: Dragon Heist|176}}</ref>
+
+===Geographical Features===
+The most prominent feature of the North Ward was the [[Cliffwatch]], a section of the Waterdeep plateau that was so steep and high that it provided a natural defense, so the area was marked by an interruption of the Trollwall between the [[Endcliff Tower]] and the [[Watchway Tower]] in the City of the Dead. A walkway traversed the entire Cliffwatch, along which some of the best inns and taverns of Waterdeep were located, taking advantage of the beautiful landscape to the east.<ref name="WDH5e-p176" /><ref name="CS-CG2e-p43">{{Cite book/City of Splendors (boxed set)/Campaign Guide|43}}</ref>
+
+==History==
+The North Ward was officially included as one of the official wards of Waterdeep in the {{YearlinkName|1276}}, together with the [[Waterdeep/Sea Ward|Sea Ward]].<ref name="GHR3e-p128" /><ref name="CS-CG2e-p31" />
+
+In [[1368 DR]], the noble [[Cassalanter]] family loaned two ten-million [[Golden lion (coin)|golden lions]] with a huge interest rate. The first loan was to [[Widow Silvermane]] who ran a [[lottery]] in the North Ward, and the second one went to the [[Field of Triumph]] Race Track in the [[Waterdeep/Sea Ward|Sea Ward]]. The astronomical loans were caused by goddess' [[Tymora]]s luck going out of control all over the Realms. Every
+
+=== LINKED WIKI PAGE (first 5000 chars): Saerdoun Street
+
+{{Road
+| image          = Saerdoun Street WDH.png
+| caption        = Map showing Saerdoun Street (stretching from northwest and along the east).
+| name           = Saerdoun Street
+| type           = Street
+| aliases        = 
+| length         = 
+| width          = 
+| pavement       = 
+| location       = [[Waterdeep/North Ward|North Ward]], [[Waterdeep]]
+| starts         = [[High Road (Waterdeep)|High Road]]
+| ends           = [[Zendulth Street]]
+| built          = 
+| refs           = <ref name="WDaN-map">{{Cite book/Waterdeep and the North/Map}}</ref><ref name="CoS-map">{{Cite book/City of Splendors (boxed set)/Map}}</ref><ref name="CoS.W-p97,101">{{Cite book/City of Splendors: Waterdeep|97,101}}</ref><ref name="WDH-map">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref>
+| daggers        = 
+| usethe         = 
+| inhabitants    = yes
+| locations      = yes
+| settlements    = 
+| events         = yes
+| roads          = yes
+}}
+'''Saerdoun Street''' was a major street in the [[Waterdeep/North Ward|North Ward]] of [[Waterdeep]].<ref name="WDaN-map" /><ref name="CoS-map" /><ref name="CoS.W-p97,101" /><ref name="WDH-map" />
+
+==Geography==
+The street ran from the [[High Road (Waterdeep)|High Road]] to [[Zendulth Street]], crossing [[Windborne Way]], [[Whaelgond Way]], [[Lion Street]], the [[Trollmarch]], [[Sulmor Street]], [[Hassantyr's Street]], [[Endcliff Lane]], [[Tarsar's Street]], [[Suldown Street]], the [[Passar]], and [[Golden Serpent Street]] along the way.<ref name="WDaN-map" /><ref name="CoS-map" /><ref name="CoS.W-p97,101" /><ref name="WDH-map" />
+
+==Notable Locations==
+;[[Endcliff Tower]]:
+:A guard tower overlooking the [[Cliffwatch]].<ref name="CoS.CG-p43">{{Cite book/City of Splendors (boxed set)/Campaign Guide|43}}</ref><ref name="CoS.W-p94">{{Cite book/City of Splendors: Waterdeep|94}}</ref>
+
+;[[Gralhund Villa]]:
+:Residence of the noble [[Gralhund]] family.<ref name="CoS.W-p94" /><ref name="WDaN-p24">{{Cite book/Waterdeep and the North|24}}</ref><ref name="CoS.CG-p44">{{Cite book/City of Splendors (boxed set)/Campaign Guide|44}}</ref>
+
+;[[Ilvastarr Villa]]:
+:Residence of the noble [[Ilvastarr]] family.<ref name="CoS.W-p94" /><ref name="WDaN-p24" /><ref name="CoS.CG-p45">{{Cite book/City of Splendors (boxed set)/Campaign Guide|45}}</ref>
+
+;The [[Misty Beard]]:
+:A tavern staffed entirely by exotic monsters under the careful control of the owners.<ref name="CoS.W-p94" /><ref name="CoS.AG-p14">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|14}}</ref>
+
+;[[Trollskull Alley]]:
+:The North and Northeast entrances into the alley were located on Saerdoun Street.<ref name="WDH5e-map">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref> [[Trollskull Alley]] was located at the Eastern corner of the North entrance.<ref name="WDH5e-p33">{{Cite book/Waterdeep: Dragon Heist|33}}</ref>
+
+;The [[Twilight Hunters]]:
+:An inn decorated with [[adventurer|adventuring]] gear and trophies, famous for its unique [[orangeberry wine]].<ref name="CoS.W-p94" /><ref name="CoS.AG-p14" />
+
+;[[Zun Villa]]:
+:Residence of the noble [[Zun]] family.<ref name="CoS.W-p94" /><ref name="WDaN-p24" /><ref name="CoS.CG-p45" />
+
+==Appendix==
+===Appearances===
+:;Adventures
+::''[[Waterdeep: Dragon Heist]]''
+:;Novels
+::''[[Realms of Magic]]'': "Gunne Runner"
+===References===
+{{Refs}}
+[[Category:Locations on Golden Serpent Street]]
+[[Category:Locations on the Passar]]
+[[Category:Locations on Suldown Street]]
+[[Category:Locations on Tarsar's Street]]
+[[Category:Locations on Endcliff Lane]]
+[[Category:Locations in Nindabar Street]]
+[[Category:Locations on Hassantyr's Street]]
+[[Category:Locations on Sulmor Street]]
+[[Category:Locations on the Trollmarch]]
+[[Category:Locations on Lion Street]]
+[[Category:Locations on Zendulth Street]]
+[[Category:Locations on the High Road (Waterdeep)]]
+[[Category:Locations in the North Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Horn Street
+
+{{Road
+| image          = SashtarStreet.JPG
+| caption        = A map showing a portion of Horn Street and surroundings in the North Ward of Waterdeep.
+| name           = Horn Street
+| type           = Road
+| aliases        = 
+| length         = 
+| width          = 
+| pavement       = 
+| location       = [[Waterdeep/North Ward|North Ward]], [[Waterdeep]]
+| starts         = [[Tower March]]
+| ends           = [[Trollmarch]]
+| refs           = <ref name="CS.M09"/><ref name="WDH.M"/><ref name="VGtW.M"/><ref name="IA.W"/>
+| daggers        = 
+| volorefs       = 
+| usethe         = 
+| inhabitants    = 
+| locations      = yes
+| organizations  = yes
+| settlements    = 
+| roads          = yes
+| bodies of water= 
+| events         = 
+}}
+'''Horn Street''' was a road that was located in the city of [[Waterdeep]].<ref name="CS.M09">{{Cite book/City System/Map09}}</ref><ref name="WDH.M">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref><ref name="VGtW.M">{{Cite book/Volo's Guide to Waterdeep/Map}}</ref><ref name="IA.W">{{Cite interactive atlas|Waterdeep}}</ref>
+
+==Location==
+Horn Street was located in the northern section of Waterdeep's [[Waterdeep/North Ward|North Ward]]. The road branched southeast from a junction with [[Tower March]], eventually ending on the [[Trollmarch]] at the eastern outer wall of the city. Horn Street was also intersected by [[Whaelgond Way]], [[Pony Way]], [[Selrin Street]], and [[Lion Street]].<ref name="CS.M09"/><ref name="WDH.M"/><ref name="VGtW.M"/><ref name="IA.W"/>
+
+==Notable Locations==
+* [[Gralhund Villa]]
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Locations on the Trollmarch]]
+[[Category:Locations on Whaelgond Way]]
+[[Category:Locations on Pony Way]]
+[[Category:Locations on Selrin Street]]
+[[Category:Locations on Tower March]]
+[[Category:Locations on Lion Street]]
+[[Category:Locations in the North Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Pony Way
+
+{{Road
+| image          = 
+<gallery>
+Trollmarch-Map WDH.png|ca. 1492
+</gallery>
+| caption        = 
+| name           = Pony Way
+| type           = Street
+| aliases        = 
+| length         = 
+| width          = 
+| pavement       = Dirt & Gravel<ref name="CoS-map">{{Cite book/City of Splendors (boxed set)/Map}}</ref>
+| location       = [[North Ward of Waterdeep|North Ward]], [[Waterdeep]]
+| starts         = [[Immar Street]]
+| ends           = [[Saerdoun Street]]
+| built          = 
+| refs           = <ref name="CS-map">{{Cite book/City System/Map10}}</ref><ref name="WDH-map">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref>
+| daggers        = 
+| usethe         = 
+| inhabitants    = 
+| locations      = yes
+| settlements    = 
+| events         = 
+| roads          = 
+}}
+'''Pony Way''' was a minor avenue of rock and gravel<ref name="CoS-map" /> in the [[Waterdeep/North Ward|North Ward]] of [[Waterdeep]].<ref name="CS-map" /><ref name="WDH-map" />
+
+==Geography==
+Pony Way ran from north to south, shooting off south from<ref name="CS-map" /><ref name="WDH-map" /> the corduroy-log paved road<ref name="CoS-map" /> [[Immar Street]], and terminating at<ref name="CS-map" /><ref name="WDH-map" /> a cobblestone paved avenue<ref name="CoS-map" /> by the name of [[Saerdoun Street]].<ref name="CS-map" /><ref name="WDH-map" />
+
+Along the way, Pony Way was intersected from the east by [[Stallion Street]] and from the west by [[Horn Street]].<ref name="CS-map" /><ref name="WDH-map" />
+
+==Notable Locations==
+* The [[Gralhund]] family villa.<ref name="WDH5e-p48">{{Cite book/Waterdeep: Dragon Heist|48}}</ref>
+
+==Appendix==
+===Appearances===
+:;Adventures
+::''[[Waterdeep: Dragon Heist]]''
+===References===
+{{Refs}}
+[[Category:Locations on Horn Street]]
+[[Category:Locations on Immar Street]]
+[[Category:Locations on Stallion Street]]
+[[Category:Locations on Saerdoun Street]]
+[[Category:Locations in the North Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+
