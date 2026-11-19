@@ -12,7 +12,7 @@
 
 **Purpose:** Gives the GM Manshoon's Zhentarim as a working cell: how it behaves, what its members believe, who serves it and where it operates. The page keeps lore only, and the **Manshoon** page in Villains owns his phases, goals and relationships. Everything above the Overview is for the GM.
 
-Manshoon's Zhentarim, which characters call the Splinter until **Manshoon Named** is marked for them, is a cell of the Black Network that answers only to Manshoon, who rules it from Kolat Towers in the Southern Ward.
+Manshoon's Zhentarim, which outsiders call the Splinter, is a cell of the Black Network that answers only to Manshoon, who rules it from Kolat Towers in the Southern Ward.
 
 ## Tenets
 
@@ -20,7 +20,7 @@ Manshoon's Zhentarim, which characters call the Splinter until **Manshoon Named*
 - **Stay Unseen:** Manshoon's plans depend on not drawing the attention of enemies who would move against him. He posts no visible guards at Kolat Towers so that neighbors take the towers for abandoned or haunted, and he travels by teleportation circle so that nobody sees him come or go. The same caution keeps the cell's field teams light on muscle.
 - **Leverage Before Force:** When the cell wants influence in the city, it reaches for blackmail and debt before violence. Corylus Thann is held over a scandal and Jelenn Urmbrusk through a debt to a Splinter front, and Manshoon's forces rely on both of them to cover up the cell's crimes.
 - **Trust Is Issued and Revoked:** Access to Kolat Towers is something Manshoon grants and can withdraw. A pass-amulet system lets him revoke anyone's access from the towers, and his brass teleporter rings, each bearing a stylized M, go only to his most trusted servants. Sidra Romeir holds the rings when lieutenants leave the Towers and hands them to replacements when a holder does not come back.
-- **Nobody Names the Master:** The street crews will not say who gives the orders, and Urstul Floxin will not divulge his master's name unless magically compelled. He sends messages by black flying snake because he trusts animals more than people. Characters hear only "the Splinter" until **Manshoon Named** is marked for them.
+- **Nobody Names the Master:** The street crews will not say who gives the orders, and few in the cell know their master's name. Urstul Floxin will not divulge it unless magically compelled, and he sends messages by black flying snake because he trusts animals more than people. Outsiders call the cell the Splinter.
 - **One True Manshoon:** Every surviving clone claims to be the one true Manshoon, and this one holds the belief with absolute certainty. Loyalty to him runs from devotion to calculation. Havia Quickknife and Mookie Plush serve him completely, and Kaevja Cynavern serves him because he is the most capable operator she has met. Agorn Fuoco would trade whatever he knows to save himself.
 - **The Doom Raiders Are Deserters:** The cell regards the Doom Raiders as deserters who stole its name `[research]`, will not cooperate with them, and works to dismantle their people and the network they built.
 - **Doctrine and Rites:** `[research]` The campaign files give the cell no creed, oath or rites. Amath Sercent keeps Yellowspire as a Banite cell that supports Manshoon's operations where they serve Bane's interests. The wiki says Manshoon and his magelings pledged fealty to Bane to win over the Banite priests, and it lists Bane as the Zhentarim's favored deity, formerly Cyric (Forgotten Realms Wiki, *Manshoon* and *Zhentarim*, edition not tagged). Nothing in the campaign makes Bane the faith of the cell as a whole.
@@ -29,15 +29,15 @@ Manshoon's Zhentarim, which characters call the Splinter until **Manshoon Named*
 
 > [!gamemaster]**The Two Zhentarims**
 >
-> Two cells operate in Waterdeep, and Davil Starsong's **Doom Raiders** are the player-joinable one, covered on the organization page **The Zhentarim (Doom Raiders)**. Manshoon's splinter is a completely separate organization that peeled off from the Doom Raiders' local network when he returned to Waterdeep `[research]`, and the two groups dislike each other. When players ally with the Zhentarim through Davil, they are working with the Doom Raiders and not with Manshoon. The villains in this section answer only to Manshoon.
+> Two cells operate in Waterdeep, and Davil Starsong's **Doom Raiders** are the player-joinable one, covered on the organization page **The Zhentarim (Doom Raiders)**. Manshoon's splinter is a completely separate organization that peeled off from the Doom Raiders' local network when he returned to Waterdeep `[research]`, and the two groups dislike each other. Anyone who deals with the Zhentarim through Davil is dealing with the Doom Raiders and not with Manshoon. The villains in this section answer only to Manshoon.
 
 Manshoon is a centuries-old wizard, a clone of a clone of one of the Zhentarim's founders, who claims, as all surviving Manshoon clones do, to be the one true Manshoon. The gold means nothing to him as wealth. He wants the Stone of Golorr for what it knows, because the Stone is a transformed aboleth and its centuries of absorbed memory encode ancient knowledge of the Weave's structure. Manshoon intends to use that knowledge to absorb the Weave and supplant Mystra, so the vault is an instrument and the Stone is the goal.
 
-The 500,000 gold dragons matter for what they buy, which is a private army, bribed magisters and time. Two Masked Lords on the Council are compromised, Corylus Thann through scandal and Jelenn Urmbrusk through debt, and they vote Manshoon's way without knowing why their interests have aligned. This leverage is his most carefully guarded intelligence. A character who brings evidence of the blackmail to Laeral Silverhand or the full Lords' Council collapses Manshoon's political position immediately, which is why the documentation lives at Kolat Towers and nowhere else.
+The 500,000 gold dragons matter for what they buy, which is a private army, bribed magisters and time. Two Masked Lords on the Council are compromised, Corylus Thann through scandal and Jelenn Urmbrusk through debt, and they vote Manshoon's way without knowing why their interests have aligned. This leverage is his most carefully guarded intelligence. Evidence of the blackmail, if it reached Laeral Silverhand or the full Lords' Council, would collapse Manshoon's political position immediately, which is why the documentation lives at Kolat Towers and nowhere else.
 
 He keeps a simulacrum in Kolat Towers as his contingency against assassination, and it fights as his decoy while he escapes. His insurance against dying is the stasis clone spell, which is a separate tool. His approach reflects his temperament, which favors precision and patience and avoids unnecessary violence. The Zhentarim response teams are the weakest in raw muscle of any faction, and this is deliberate, since drawing too much attention is the one mistake Manshoon won't make twice.
 
-How the cell responds to a party that crosses it, where its outposts stand and what leads the party to each are on the **Manshoon's Zhentarim** page in the Factions Guide.
+The cell's response teams, outposts and escalation are on the **Manshoon's Zhentarim** page in the Factions Guide.
 
 ## Key Members
 
@@ -45,7 +45,7 @@ How the cell responds to a party that crosses it, where its outposts stand and w
 - **Sidra Romeir** — Calishite human veteran, lawful evil, and Manshoon's most trusted lieutenant, stationed at Kolat Towers. She holds the teleport rings when lieutenants leave the Towers, and if captured lieutenants are killed she gives their rings to Kaevja `[research]`. See the **Sidra Romeir** page in Notable Figures.
 - **Vevette Blackwater** — Tethyrian human swashbuckler, lawful evil, with fiery red hair streaked platinum that can glow in the dark on her command, charming in public and cruel in private. Seffia Naelryke approached her to open a Cassalanter–Zhentarim communication channel, but Vevette rebuffed her, suspecting a trap, and kept Seffia's visiting card. See the **Vevette Blackwater** page in Notable Figures.
 - **Agorn Fuoco** — Turami human bard (Manshoon lieutenant), neutral evil, and a hollow coward who sends his thugs into danger while hanging back; see the **Agorn Fuoco** page in Notable Figures.
-- **Urstul Floxin** — Illuskan human assassin, lawful evil, and Manshoon's chief field operative. He is the thuggish leader who ran both the Dalakhar capture attempt and the Gralhund Villa operation. See the **Urstul Floxin** page in Notable Figures.
+- **Urstul Floxin** — Illuskan human assassin, lawful evil, and Manshoon's chief field operative. He is the thuggish leader of the cell's field teams, and his team is tracking Dalakhar, the gnome moving the Stone of Golorr. See the **Urstul Floxin** page in Notable Figures.
 - **Avareen Windrivver** — Illuskan human spy (Zhentarim interrogator), lawful evil, who maintains the Interrogation House alongside Zorbog; see the **Avareen Windrivver** page in Notable Figures.
 - **Zorbog Jyarkoth** — Turami human thug (Zhentarim), neutral evil, and Avareen's partner at the Interrogation House; see the **Zorbog Jyarkoth** page in Notable Figures.
 - **Amath Sercent** — Mulan human priest of Bane, lawful evil, who occupies Yellowspire in the Castle Ward as a Banite priestess allied with Manshoon. Agorn Fuoco is her romantic partner and visits her there in the evenings. See the **Amath Sercent** page in Notable Figures.
@@ -58,16 +58,16 @@ How the cell responds to a party that crosses it, where its outposts stand and w
 
 ## Overview
 
-Zhentarim crews with flying snake tattoos work Waterdeep's back streets, and they are hostile to Davil Starsong's Doom Raiders. The crews take prisoners, and the Watch has arrested a few of them after street brawls. None of them will say who gives the orders, and street talk says one master stands behind them.
+Zhentarim crews with flying snake tattoos work Waterdeep's back streets, and they are hostile to Davil Starsong's Doom Raiders. The crews take prisoners, and the Watch has arrested a few of them in street brawls. None of them will say who gives the orders, and street talk says one master stands behind them.
 
 > [!gamemaster]**GM Notes**
 >
 > - **Origins:** The Black Network began when Manshoon founded the Zhentarim in 1261 DR (Forgotten Realms Wiki, *Manshoon*, edition not tagged). The published adventure calls the Zhentarim in Waterdeep fractured, with one branch behind Manshoon and one opposed to him (*Dragon Heist*, 5e). The Doom Raiders reached Waterdeep first, in 1489 DR, and Manshoon's clone arrived later, took over Kolat Towers and built the Splinter in about two years (**The Founding of Chains**).
-> - **Where the cell works:** The Splinter is built as a hub with spokes. Kolat Towers in the Southern Ward is the command center, and the Interrogation House on Brindul Alley in the North Ward and Yellowspire in the Castle Ward are its field offices. Yellowspire holds a teleportation circle that leads to the Towers. A prisoner in **Xanathar's Lair** who places the cell in a tower in the North Ward is repeating overheard talk, because the Towers stand in the Southern Ward.
-> - **The name:** Characters say "the Splinter" until **Manshoon Named** is marked for them. The party first gets the name at the Interrogation House in **Faction Outposts**.
+> - **Where the cell works:** The Splinter is built as a hub with spokes. Kolat Towers in the Southern Ward is the command center, and the Interrogation House on Brindul Alley in the North Ward and Yellowspire in the Castle Ward are its field offices. Yellowspire holds a teleportation circle that leads to the Towers, and the Towers stand in the Southern Ward.
+> - **The name:** Outsiders call the cell the Splinter. Few in the cell know their master's name, and the street crews do not use it.
 > - **The Eyes:** The cell holds no Eye of the Stone, because its envoys brought Eye #1 to Xanathar as a gift and Xanathar killed them and kept the Eye. Manshoon therefore needs the Stone and all three Eyes.
 
-**Tone:** Plain and procedural in the GM sections, and guarded in the Overview, where the cell is a street presence with no face. Play the members as patient professionals, and let Manshoon's name surface only through what the party finds.
+**Tone:** Plain and procedural in the GM sections, and guarded in the Overview, where the cell is a street presence with no face. Play the members as patient professionals who keep their master's name to themselves.
 
 ---
 
@@ -79,7 +79,7 @@ Zhentarim crews with flying snake tattoos work Waterdeep's back streets, and the
 - `campaign/guides/factions/10-manshoons-zhentarim.md` line 9: orders to capture, intelligence over body counts and the Interrogation House
 - `campaign/setting/history/04-the-founding-of-chains.md` lines 18 and 24-26 and 31: the Splinter name, the Doom Raiders arriving first, the deserters claim and the founder wording
 - `campaign/setting/governance-and-guilds/open-lord-and-masked-lords.md` line 64: Jelenn's debt and the cover-ups
-- `campaign/gazetteer/waterdeep/north-ward.md` lines 38-40 and 272, `castle-ward.md` lines 75-82 and `southern-ward.md` lines 7 and 50-59: the three sites and their wards, and Samara's misdirection
+- `campaign/gazetteer/waterdeep/north-ward.md` lines 38-40 and 272, `castle-ward.md` lines 75-82 and `southern-ward.md` lines 7 and 50-59: the three sites and their wards
 - `campaign/setting/deities/bane.md` lines 8, 73 and 81-82: Yellowspire as a Banite cell
 - `campaign/setting/organizations/06-doom-raiders.md` lines 15, 22 and 35: the other Zhentarim cell
 - `sources/adventure-wdh.json` lines 561, 1444-1446, 26798, 28822, 30298 and 32215-32218: the simulacrum and Manshoon's concealment, the fractured Zhentarim, the unwatched towers, the teleporter rings, the ledger and Kolat Towers
@@ -96,7 +96,7 @@ Zhentarim crews with flying snake tattoos work Waterdeep's back streets, and the
 - **Manshoon**, **Urstul Floxin**, **Sidra Romeir**, **Vevette Blackwater**, **Agorn Fuoco**, **Avareen Windrivver**, **Amath Sercent** (Notable Figures): the principal members
 - **Jelenn Urmbrusk**, **Davil Starsong** (Notable Figures): a Masked Lord the cell holds a debt over, and the leader of the Doom Raiders
 - **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Kolat Towers** (Quests): where the cell appears
-- **Zhentarim Warehouse** (Locations): the Candle Lane warehouse where Xanathar's Guild killed the cell's agents
+- **Zhentarim Warehouse** (Locations): the Candle Lane warehouse the cell used
 
 > [!gamemaster]**Draft Notes**
 >
@@ -114,7 +114,11 @@ Zhentarim crews with flying snake tattoos work Waterdeep's back streets, and the
 > - **Conflicts:** The clone's arrival. `history/04-the-founding-of-chains.md` line 25 has the clone arriving after the Doom Raiders, and the published adventure says he "infiltrated Waterdeep years ago" (`adventure-wdh.json` line 32215). The Origins note follows the History page.
 > - **Conflicts:** The Interrogation House's ward. The published adventure puts the safe house in the Trades Ward (`adventure-wdh.json` line 7174), and the campaign puts it in the North Ward (`north-ward.md` lines 38 and 272, settled by the user in Session 51).
 > - **Conflicts:** Vevette's alignment is chaotic evil in the published adventure (`adventure-wdh.json` line 30120) and lawful evil on her Notable Figures page, which the page follows.
-> - **Conflicts:** What the Doom Raiders call the cell. `deities/bane.md` line 73 has them say "Floxin's cell" or "the other cell" until **Manshoon Named** is marked, and `history/04-the-founding-of-chains.md` line 18 says the factions use "the Splinter". The page follows the History page and ruling 6.
+> - **Conflicts:** What the Doom Raiders call the cell. `deities/bane.md` line 73 has the Doom Raiders say "Floxin's cell" or "the other cell", and `history/04-the-founding-of-chains.md` line 18 says the factions use "the Splinter". The page follows the History page and ruling 6.
 > - **Stale in other files (not edited):** `gm-guide/structural-rules.md` line 9 says the cell conducts assassinations and maintains mind-controlled servants, which conflicts with the capture preference. The Draft Notes of `villains/manshoon.md` (the Pronouns conflict) say `01-manshoon.md` states no pronouns, and it states he/him at line 5. Its first two Draft Notes bullets (the Phase 3 and Eye calls) run together on one line, with a `> - **Call applied (brief call 12):**` marker inside the text.
 > - **Left out:** The wiki's ranks (Fang to Dread Lord), which the campaign gives to the Doom Raiders; the post-1370 hierarchy under Fzoul Chembryl; and the Zhentarim's stated aim of a monopoly on protection services, which belongs to the wider Black Network and not to this cell. The published adventure's offer of a place in his organization for killing Xanathar stays on the Villains page.
 > - **Routed facts:** Vevette's rebuffing of Seffia Naelryke is stated on the **Cassalanters** page in Organizations and on `villains/manshoon.md` line 73. The ledger of the blackmail belongs to **Kolat Towers** and **The Open Lord and the Masked Lords**.
+> - **Routed to quests (ruling 28):** "He is the thuggish leader who ran both the Dalakhar capture attempt and the Gralhund Villa operation." The capture attempt and the raid happen during **Fireball!** (`campaign/quests/act-ii/fireball/ev-01-the-fireball.md` lines 32, 62-68 and 94) and **Gralhund Villa** (`campaign/quests/act-ii/gralhund-villa/ev-04-the-zhentarim-raid.md` lines 6-12). The Key Members bullet now says only that his team is tracking Dalakhar, per `campaign/guides/gm-guide/running-the-villains.md` line 39.
+> - **Routed to quests (ruling 28):** "A prisoner in **Xanathar's Lair** who places the cell in a tower in the North Ward is repeating overheard talk, because the Towers stand in the Southern Ward." Samara's misdirection lives in `campaign/structure/arc-f-xanathars-lair.md` line 410 and `campaign/structure/arc-i-kolat-towers.md` lines 60 and 62 (both quests still pending conversion), and in `campaign/guides/factions/10-manshoons-zhentarim.md` lines 71 and 78.
+> - **Routed to quests (ruling 28):** "The party first gets the name at the Interrogation House in **Faction Outposts**." The reveal lives in `campaign/structure/arc-e-faction-outposts.md` line 193, in `campaign/guides/factions/10-manshoons-zhentarim.md` line 23 (the *Directive to Zorbog* signed "Manshoon") and in `campaign/setting/villains/manshoon.md` line 9.
+> - **Routed to quests (ruling 28):** "the Candle Lane warehouse where Xanathar's Guild killed the cell's agents" (Cross-References). The raid is a **Finding Floon** event and lives in `campaign/quests/act-i/finding-floon/ev-03-zhentarim-warehouse.md` and `campaign/locations/zhentarim-warehouse/area-overview.md` lines 34 and 52. The pointer now says only that the cell used the warehouse.
