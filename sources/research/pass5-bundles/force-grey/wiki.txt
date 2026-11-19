@@ -1,0 +1,1567 @@
+=== WIKI PAGE: Force Grey
+
+{{Organization
+| image          = Gray_Hands.jpg
+| caption        = Jardwim, Carolyas, and Asper of the Gray Hands battling a glabrezu.
+| name           = Force Grey
+| aliases        = The Gray Hands<br/>Force Gray<ref name="BS-ch25" />
+| type           = [[Adventuring company]]
+| base           = [[Blackstaff Tower]], [[Waterdeep]]
+| leadertitle    = 
+| leader         = [[Blackstaff]]
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="CoS:W-p37"/>
+| members        = 20 c. [[1372 DR]]<ref name="CoS:W-p37"/>
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{Alignment grid| on | on | on | on | off | off | off | off | off}}<ref name="CoS:W-p37"/>
+| races          = 
+| memrefs        = 
+| event1         = 
+| date1          = 
+| event2         = 
+| date2          = 
+| event3         = 
+| date3          = 
+| event4         = 
+| date4          = 
+| leader1        = 
+| leaderyear1    = 
+| leader2        = 
+| leaderyear2    = 
+| leader3        = 
+| leaderyear3    = 
+| leader4        = 
+| leaderyear4    = 
+| leader5        = 
+| leaderyear5    = 
+| leadertable    = 
+| histrefs       = 
+| allegiances    = [[Lords of Waterdeep]]
+| enemies        = Outlaws of [[Skullport]]; enemies of Waterdeep
+| relrefs        = <ref>{{Cite dragon/167/Game Wizards: Understanding Undermountain|89}}</ref>
+| showmembers    = Yes
+| orgname        = Force Grey
+}}
+'''Force Grey''', otherwise known as the '''Gray Hands''', was a group of elite adventurers who worked directly for the government of the city of [[Waterdeep]]. Their job was to deal with threats to the city that [[City Guard (Waterdeep)|the Guard]] and [[City Watch (Waterdeep)|the Watch]] could not handle without risking significant loss of life.<ref name="HL-p155">{{Cite book/Heroes' Lorebook|155}}</ref><ref name="CoS:W-p37">{{Cite book/City of Splendors: Waterdeep|13,19,33,37-38}}</ref>
+{{TOC limit|3}}
+==Organization==
+They were a small band of powerful and highly skilled [[adventurer]]s who had the talents and experience necessary to deal with the toughest enemies and threats to Waterdeep. Would-be members were required to demonstrate great prowess in battle or command of mid-level [[spell]]s. They were typically [[barbarian]]s, [[cleric]]s, [[fighter]]s, [[ranger]]s, [[sorcerer]]s, and [[wizard]]s, with skills in alertness, climbing, interrogation, and planar lore, and many trained as [[Gray Hand enforcer]]s.<ref name="CoS:W-p37"/> They enjoyed a regular intake of new members, thanks in part to their high risk of dying.<ref name="CoS:W-p80">{{Cite book/City of Splendors: Waterdeep|80}}</ref> ''Circa'' [[1372 DR]], there were only around twenty members, with sixteen [[human]]s, two [[half-elves]], one [[shield dwarf]], and one [[frost giant]].<ref name="CoS:W-p37"/> Past members had included other [[giant]]s and [[monstrous humanoid]]s.<ref name="CoS:W-p77">{{Cite book/City of Splendors: Waterdeep|77}}</ref>
+
+In the early 1370s DR, the Gray Hands were commanded by the ranger [[Jardwim]].<ref name="CoS:W-p37" />
+
+The Gray Hands were answerable directly to the [[Lords of Waterdeep]].<ref name="CoS:W-p37"/> The [[Blackstaff]] gave orders to the members of Force Grey, but rarely worked with them directly unless the threat facing Waterdeep was particularly dire.<ref name="HL-p155"/> Around [[1492 DR]], the Gray Hands were under the control of Blackstaff [[Vajra Safahr]].<ref name="WDH5e-p37">{{Cite book/Waterdeep: Dragon Heist|37}}</ref>
+
+==Activities==
+Like the other armed forces of Waterdeep, the Gray Hands were expected to enforce law and order on behalf of the Lords of Waterdeep. However, members were not expected to patrol the city for threats nor stand guard, but rather to respond to emergencies and act as an elite strike force for those threats that required a more extreme or specialized approach.<ref name="CoS:W-p37"/>
+
+When not on a mission, they were basically free to follow their own goals, so long as they were available in the city, ready to be called to action, for at least thirty hours per week. In exchange, the city paid each member 100 [[gold piece]]s per month.<ref name="CoS:W-p37"/>
+
+They were called upon only as a last resort, however, since the Lords of Waterdeep tended to not be fond of their methods, namely the damage that might befall Waterdeep when they acted.<ref name="CoS:W-p37" /> Damage done to private property was never the Gray Hands' concern.<ref name="CoS:W-p79">{{Cite book/City of Splendors: Waterdeep|79}}</ref>
+
+==Tactics==
+Force Grey were called upon to minimize any loss of life that could be caused should they not be available to deal with a threat.<ref name="HL-p155"/> The members of the group were therefore expected to be equal to, if not the better of, said threat in terms of power.<ref name="CoS-p73">{{Cite book/City of Splendors (boxed set)/Campaign Guide|73}}</ref> They approached most problems in a brute force kind of way, causing collateral damage to property and infrastructure in their attempts to save as many lives as possible.<ref name="CoS:W-p37"/> Those who crossed them were advised to surrender or die.<ref name="CoS:W-p79" />
+
+They had the greatest morale when acting in and around Waterdeep.<ref name="CoS:W-p37" />
+
+==Base of Operations==
+Although the group used [[Blackstaff Tower]] as a base, members were not expected to frequent it save when orders were being handed out.<ref name="CoS:W-p37"/> [[Harshnag]] remained within his cave on [[Mount Sar]], outside of the city proper until he was needed, whereupon he would enter Waterdeep via a ''[[gate]]'' that connected to Blackstaff Tower.<ref name="CoS-p73"/>
+
+==Possessions==
+When called upon, each member was given magical equipment that would aid them in defeating the current threat to the city. This equipment was marked by the then Blackstaff, Khelben Arunsun, with spells that would cause the items to return, along with their wielders, to Blackstaff Tower after a few days.<ref name="CS-p6">{{Cite book/City System|6}}</ref> Fully funded by the Waterdhavian treasury and supplied by the [[Watchful Order of Magists & Protectors]], the Gray Hands could have any weapon, armor, or [[magical item]] they required in short order, but did have to pay for personal armaments.<ref name="CoS:W-p79" />
+
+==Relationships==
+As an official arm of the government of Waterdeep,<ref name="HL-p155"/> Force Grey was answerable to the city's lords and was allied with its other law-enforcement groups.<ref name="WDH5e-p16">{{Cite book/Waterdeep: Dragon Heist|16}}</ref> The average Waterdhavian wasn't too certain just how they related, however.<ref name="CoS:W-p79" />
+
+==Reputation==
+The Gray Hands had a reputation for fierceness in Waterdeep itself, and news of them being active—especially a frost giant—was enough to send the citizens running for cover, for fear of their collateral damage or the danger of the threat they faced. They were little-known outside the City of Splendors, however.<ref name="CoS:W-p79" />
+
+==History==
+In the {{YearlinkName|1372}}, the Force Grey, under command of the Open Lord of Waterdeep, [[Piergeiron Paladinson]], were assembled in response to the [[Return of the Archwizards (event)|Return of the Archwizards]] event that shook [[Faerûn]].<ref name="ts-ch7">{{Cite book/The Siege||7}}</ref>
+
+By the {{YearlinkName|1491}}, Force Grey had been dismantled for some time. [[Mirt|Mirt the Moneylender]] and Lady Lord [[Laeral Silverhand]] contemplated reestablishing the organization to aid her leadership of the City of Splendors.<ref name="DM-ch5">{{Cite book/Death Masks||5}}</ref> However, as of the {{YearlinkName|1492}}, the Gray Hands had been reformed and placed under the control of Blackstaff Vajra Safahr.<ref name="WDH5e-p37" />
+
+In the late 1490s DR, a group of the Gray Hands competed in the [[High Sun Games]] of [[Neverwinter]] at the [[Neverwinter arena|newly built arena]] there, after the event was revived by Lord [[Forge Fitzwilliam]]. The gambler [[Din Caldwell]] of [[Baldur's Gate]] bet '20,000' on the Gray Hands, before the [[Red Wizard]] [[Sofina]] invoked the ''[[horn of beckoning death]]'' over the arena and it was evacuated.<ref>{{Cite video/Honor Among Thieves}}</ref><ref group="note">The Gray Hands are only mentioned in the movie ''Honor Among Thieves'' and do not appear on screen. It's unknown if these are the same Gray Hands or another adventuring company of the same name. If they are the same, it's unclear why they're here, acting publicly outside Waterdeep and apparently not on a mission. One possibility is that the reformed Gray Hands are permitted to compete and represent Waterdeep in the Games. Another is that they are also investigating Forge and Sofina because of a perceived threat to Waterdeep.</ref>
+
+==Members==
+[[File:Harshnag.jpg|thumb|right|250px|''Harshnag the Grim, a Gray Hand enforcer.'']]
+Force Grey had had a number of members throughout its existence, but some made their mark on the group so as to stand out in particular:
+* [[Asper]], Mirt's [[sorcerer]] wife and an informal member as of 1372 DR.<ref name="CoS:W-p37"/>
+* [[Carolyas Idogyr]], the niece of [[Gamalon Idogyr]], a former student of Khelben Arunsun, and former member of the [[Watchful Order of Magists and Protectors]], active ''circa'' 1374 DR.<ref name="BS-ch25">{{Cite book/Blackstaff/MMP||25}}</ref>
+* [[Harshnag]], a good-natured [[frost giant]] and the group's longest-serving member as of the late 14{{th}} century DR,<ref name="HL-p155">{{Cite book/Heroes' Lorebook|155}}</ref><ref name="CoS:W-p37"/> who remained the organization's member after its reformation in the late 15{{th}} century DR.<ref name="SKT-p118">{{Cite book/Storm King's Thunder|118}}</ref>
+* [[Hrusse]], a [[priest]] of [[Assuran]] from distant [[Unther]] banished from his homeland by the [[Church of Gilgeam]], active in the late 14{{th}} century DR.<ref name="HL-p155" /><ref name="CoS:W-p37"/>
+* [[Jardwim]], a [[ranger]] of [[Mielikki]] who was once petrified by the original [[Xanathar (original)|Xanathar]]. His two [[blink dog]] companions lent him their aid on missions for Force Grey, in the late 14{{th}} century DR.<ref name="HL-p155" /><ref name="CoS:W-p37"/>
+* [[Maliantor]], formerly a student of Khelben Arunsun and known as Khelben's strongest ally within Force Grey, active ''circa'' 1374 DR.<ref name="BS-ch25" /><ref name="CoS:W-p37"/>
+* [[Osco Salibuck the Elder]], once a captive of Force Grey, Osco reformed his criminal ways and was invited to join. Although he himself wasn't particularly powerful, he commanded the loyalty of a mighty [[djinn]] servant named [[Amprantines]]. He was active in the mid–14{{th}} century DR.<ref name="CS-p6">{{Cite book/City System|6}}</ref>
+
+==Appendix==
+===Background===
+Force Grey was adapted by [[Wizards of the Coast]] for a series of webisodes starring celebrities as members of the group, to coincide with the release of ''[[Storm King's Thunder]]''.<ref>{{cite web
+| url            = http://dnd.wizards.com/forcegrey/lostcityomu
+| title          = Force Grey
+| accessdate     = 2018-07-05
+| date           = 2017-07-25
+| publisher      = [[Wizards of the Coast]]
+| archiveurl     = https://web.archive.org/web/20190328152839/http://dnd.wizards.com/forcegrey/lostcityomu
+| archivedate    = 2019-03-28
+}}</ref>
+
+===Notes===
+{{Notes}}
+
+===Appearances===
+{{Appearances
+| adventures          = ''[[Eyes on the Ball]]''; ''[[Storm King's Thunder]]''; ''[[Waterdeep: Dragon Heist]]''
+| adventure refs      = 
+| novels              = ''[[Blackstaff (novel)|Blackstaff]]''
+| novel refs          = ''[[The Paladins]]''; ''[[The Siege]]''; ''[[Death Masks]]''
+| films               = 
+| film refs           = ''[[Honor Among Thieves]]''
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = ''[[Idle Champions of the Forgotten Realms]]''
+| video game refs     = ''[[Descent to Undermountain]]''
+| board games         = ''[[Dungeons & Dragons Dice Masters: Adventures in Waterdeep]]''
+| board game refs     = 
+| card games          = 
+| card game refs      = 
+| organized play      = ''[[Once in Waterdeep]]''; ''[[Chaos in the City of Splendors]]''
+| organized play refs = 
+}}
+
+===References===
+{{Refs}}
+[[FR:Mains Grises]]
+[[Category:Adventuring companies]]
+[[Category:Organizations on the Sword Coast North]]
+[[Category:Organizations in Northwest Faerûn]]
+[[Category:Organizations in Faerûn]]
+[[Category:Organizations on Toril]]
+[[Category:Organizations in Waterdeep]]
+[[Category:Organizations in Blackstaff Tower]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Adventurer
+
+[[File:Ecology_of_the_Adventurer.png|thumb|330px|''Adventurers in a battle.'']]
+An '''adventurer''' was someone who took risks in the pursuit of a goal. Adventurers came from all [[:Category:Races|races]], and they could be found almost anywhere.<ref name="PHB5e-p5"/>
+
+{{quote|How do all adventurers die? Fell monsters hunt them. Ruthless bandits slaughter them. Evil wizards turn them to dust...|[[Dorath Wyvernspur]]<ref name="WS-ch10">{{Cite book/The Wyvern's Spur||10}}</ref>}}
+
+==Background==
+Some individuals became adventurers for fame, others for money. Some sought revenge, while others laid down their lives in defense of their lieges, their families, their beliefs, or the land itself.<ref name="FRCS3e-p83">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|83}}</ref> As most lands were perilous and full of brigands and monsters, most people started their careers as adventurers by dealing with these dangers to their hometowns.<ref name="EFR-p5">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|5}}</ref>
+
+The rulers of [[Faerûn]] and other lands knew that some adventurers had made their lands better places to live, and so tolerated or even encouraged their existence, even if some individual adventurers were of [[evil]] bend. Adventurers were highly capable individuals, so even kings were careful to not earn their ire.<ref name="FRCS3e-p83"/> However, that didn't mean that adventurers were untouchable or that all nobles feared them. In fact, most nobles only tolerated them because they worked for less payment than professional [[Mercenary|mercenaries]] and in most cases were easy to manipulate.<ref name="EFR-p5"/>
+
+Places such as [[Cormyr]], the [[Dales]], the [[Western Heartlands]], and the [[North Faerûn|North]] in Faerûn,<ref name="FRCS3e-p84"/> or the [[Windrise Ports]] in [[Laerakond]],<ref name="FRCG-p84">{{Cite book/Forgotten Realms Campaign Guide|216-217}}</ref> were very accepting of adventurers of [[good]] heart, knowing that such individuals risked their lives to face dangers common folk would never face themselves.<ref name="FRCS3e-p84"/>
+[[File:Spikedpit.png|thumb|265x265px|Adventuring paid well, but was not without its risks.]]
+Not all adventurers were renowned enough or highly capable individuals to deal with monsters or villains, and as such most adventurers (usually those starting their careers) had to accept not so-successful jobs to earn for a living. Such jobs included being hired as bodyguards, caravan guards, and/or "drawn-dagger" agents (the polite term for a spy, hired killer, or outside-the-law facilitator, usually for a wealthy patron or a guild).<ref name="EFR-p104">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|104}}</ref> Adventurers were often hired to act as the "extended arms" of those who wanted to go against the law, tasking them with missions a pact or continued good relations constrained them from doing. This was a common practice among the nobles from [[Waterdeep]].<ref name="EFR-p68">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|68}}</ref>
+
+During the 14{{Th}} century [[DR]], it was fashionable among nobles to hire adventurers to do their dirty work so they could portray themselves as loyal to the throne and too civilized to threaten social order and etiquette by getting personally involved in disputes. In the late years of the 15{{Th}} century, it became fashionable among wealthy merchants to hire adventurers to show others that they were practically nobility in all but in name.<ref name="EFR-p116">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|116}}</ref>
+
+However, some adventurers also accepted other jobs because some of those jobs were well paid even if those jobs were considered risky or unpleasant for some people.<ref name="EFR-p104"/> Such jobs include:
+
+===Bounty Hunters===
+{{fq
+| text = Adventuring! A fine and glorious pastime that passes time like no other! To seek the rights and lows of the depths and heights; to follow in the footsteps leading down paths never trod upon; to plumb the furthest reaches of oneself while exploring the very world just outside your door. Such a life is a grand one indeed, though simple in its complexity!
+| source = [[Reginald "Longtooth" Worthington III]]<ref name="bg1">{{Cite game/Baldur's Gate}}</ref>
+| float =
+| width =
+}}
+An alternative for adventurers looking for making a name for themselves was to work as [[bounty hunter]]s, dealing with bandits, wanted criminals and adventurers declared outlaws by local authorities. Bounty hunters always attempted to bring back criminals or stolen property to the authorities and the wronged people, or at least eliminate the outlaws and so "repay the debt in blood before the gods."<ref name="EFR-p106">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|106}}</ref>
+
+Although initially people mistrusted bounty hunters, this public attitude toward them began to change in [[1400 DR]], when the [[Lords of Waterdeep]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Blackstaff Tower
+
+{{otheruses4|the wizard tower|the novel|Blackstaff Tower (novel)}}
+{{Building
+| image         = BlackstaffTower.png
+| caption       = Blackstaff Tower concept art.
+| name          = Blackstaff Tower
+| aliases       = 
+| type          = Tower
+| architecture  = 
+| floors        = 
+| location      = [[Castle Ward]], [[Waterdeep]], [[Sword Coast North]]
+| built         = 
+| destroyed     = 
+| owner         = The [[Blackstaff]]
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = 
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = yes
+| locations     = 
+| organizations = yes
+}}
+'''Blackstaff Tower''' (previously '''Arunsun Tower'''; renamed by Khelben in [[1322 DR]]) was the home of [[Khelben "Blackstaff" Arunsun]] in [[Waterdeep]]<ref name="CoS.CG-p31">{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref> as well as of his successors to the title of [[Blackstaff]].<ref name="FRCG-p198" /> The foreboding structure was one of the most recognizable landmarks in Waterdeep's [[Castle Ward of Waterdeep|Castle Ward]].<ref name="WTM">{{Cite book/The City of Waterdeep Trail Map}}</ref>
+
+{{Quote|Khelben the Elder built that tower like he carried himself—rod-straight like his back, stone as black as his scowl, and bristling with magics unguessed. Only the most foolish would ever attempt to steal into the forbidding tower, let along steal from it.|Drellan Argnarl, ''My Walks through the City of Splendors''<ref name="BT-p205">{{Cite book/Blackstaff Tower|205}}</ref>}}
+
+==Structure==
+===Exterior===
+Blackstaff Tower's main entrance was on [[Swords Street]]. There was also an apprentice's gate, through which apprentices could gain access by touching the gate with a left palm.<ref name="B-p20">{{Cite book/Blackstaff/MMP|20}}</ref> The tower was surrounded by a {{SIAdj|20|ft|long=yes}} wall.<ref name="ESh-p151">{{Cite book/Elfshadow/Paperback 2000|151}}</ref>
+
+[[File:Demon Stone concept Blackstaff Tower exterior walkway.jpg|thumb|left|''The tower's exterior walkway.'']]
+The tower appeared to be made out of smooth black stone, with no windows or doors.<ref name="WW-p69">{{Cite book/Windwalker/Hardcover|69}}</ref> From the outside, the structure appeared to be a three-story stone tower, but inside, there were at least a dozen more levels, and some of these could only be reached by magical means.<ref name="FRCG-p198">{{Cite book/Forgotten Realms Campaign Guide|198}}</ref> Everything connected to the central stairwell, although magical passwords were required to transport to certain areas of this stairwell.<ref name="B-p21">{{Cite book/Blackstaff/MMP|21}}</ref> The three levels visible from the outside were all freely accessible via simply using the stairs.<ref name="B-p22">{{Cite book/Blackstaff/MMP|22}}</ref> 
+
+The tower had the ability to repair itself, along with its outer walls and gates, when damaged, and this process could be helped along by Laeral Silverhand.<ref name="B-p53">{{Cite book/Blackstaff/MMP|53}}</ref> After an attack in which a wall was demolished,<ref name="B-p31">{{Cite book/Blackstaff/MMP|31}}</ref> the tower was back to normal the same day.<ref name="B-p53" />
+
+===Interior===
+From the inside, windows appeared to show what was going on outside, but these were illusions.<ref name="B-p21" /> The interior (but not the exterior) of the tower was warded against magical intrusion.<ref name="ESh-p40">{{Cite book/Elfshadow/Paperback 2000|40}}</ref> The tower was protected against [[scrying]] magic.<ref name="SoE-p327">{{Cite book/Swords of Eveningstar/Hardcover 2006|327}}</ref>
+
+Some of these wards were anchored to the skeletal remains of the green dragon [[Aumanaunthra]], which were hidden deep within [[Castle Waterdeep]].<ref name="WEW">{{Cite web/Ed Greenwood's Patreon/Wizards Ever Watchful: The Watchful Order of Magists & Protectors in 1499 DR}}</ref>
+
+[[File:Demon Stone concept Blackstaff Tower stairs.jpg|thumb|''The tower's stairwell.'']]
+Rooms were connected to the central stairwell and entry hall, which was full of floating doors and arches.<ref name="BST-p245">{{Cite book/Blackstaff Tower|245}}</ref> Many alcoves and shelves covered the walls of the stairwell, displaying magical items and artifacts, and although they seemed unprotected, a command word was needed to remove any of them. The items changed on a regular basis, so returning to the same stairwell on another day might result in seeing different items.<ref name="B-p24">{{Cite book/Blackstaff/MMP|24}}</ref>
+
+Leaving the dormitories without issuing a command word would lead to the second level's stairwell.<ref name="B-p23">{{Cite book/Blackstaff/MMP|23}}</ref> Saying the command word ''nhurlaen'' in the stairwell took one to the study.<ref name="BST-p2
+
+=== LINKED WIKI PAGE (first 5000 chars): Blackstaff
+
+{{two other uses|Khelben's successors|the novel|Blackstaff (novel)|other uses|Blackstaff (disambiguation)}}
+'''Blackstaff''' was the title and name given to the master of the [[Blackstaff (staff)|eponymous staff]] and [[Blackstaff Tower]], including [[Blackstaff Academy]], as well as the [[Archmage]] of [[Waterdeep]].<ref name="FRCG-p198">{{Cite book/Forgotten Realms Campaign Guide|198}}</ref> "Blackstaff" was originally a nickname given to [[Khelben "Blackstaff" Arunsun|Khelben Arunsun]] because of his powerful staff of the same name,<ref name="FRCS3e-p275">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|275}}</ref> but after his death it became the title used by his successors.<ref name="FRCG-p198" />
+
+==Blackstaffs==
+Over time, it became customary for the Blackstaff to choose an heir,<ref>{{Cite book/Blackstaff Tower|?|22}}</ref><ref>{{Cite book/Blackstaff Tower|?|24}}</ref> called the '''Blackstaff's Heir'''.<ref>{{Cite book/Blackstaff Tower|?|Prologue}}</ref>
+
+The magical quasi-spirits of the former Blackstaffs resided within the tower and served as advisors to the Blackstaff. They were not true spirits but were green-tinged facsimiles produced by the green ''[[kiira N'Vaelahr]]'' whose magic was bound to the tower.<ref name="BlackstaffTower235">{{Cite book/Blackstaff Tower|235|20}}</ref> The ''kiira N'Vaelhar'' once held the spirits and combined knowledge of the first three Blackstaffs—Khelben Arusun, [[Tsarra Chaadren]], and [[Kyriani Agrivar]]—but [[Krehlan Arunsun]] and the Grand Mages of [[Rhymanthiin]] dissipated the ''kiira'' in the [[1415 DR|Year of Staves Arcane, 1415 DR]], and bound its magic to Blackstaff Tower and its twin in Rhymanthiin, [[N'Vaerymanth]]. Thereafter, whenever someone became a Blackstaff or the heir, a template of their spirit, intellect, and knowledge became part of the Blackstaff and the tower (not the actual [[spirit]]s). These spirits could not leave the tower, but the Blackstaff could communicate with them or tap into their knowledge whenever he or she so wished. Krehlan merged the gem with the tower so that it could be the Blackstaff's advisor, rather than have all the combined consciousnesses of the previous Blackstaffs overwhelm the current Blackstaff.<ref name="BlackstaffTower252-254">{{Cite book/Blackstaff Tower|252–254|22}}</ref>
+
+The Blackstaff could also manipulate the tower at will, opening any door with a thought, and could listen in on the conversations of anyone within the tower. He or she also knew the location and nature of every [[magical item]] within the tower and could see the tower’s twin, N'Vaerymanth, in his or her mind.<ref name="BlackstaffTower252-254"/>
+
+The seventh Blackstaff was [[Vajra Safahr]]. The following were the Blackstaffs in order from earliest to latest:
+;[[Khelben "Blackstaff" Arunsun|Khelben Arunsun]]
+: A [[Chosen of Mystra]] and the original Blackstaff who created Blackstaff Tower, Khelben was almost a thousand years old when he sacrificed his life to raise Rhymanthiin, the Hidden City of Hope, on the [[Feast of the Moon]], [[1374 DR]].<ref name="Blackstaff337-342">{{Cite book/Blackstaff/MMP|337–342}}</ref> He was considered the greatest of the Blackstaffs.<ref>{{Cite book/Blackstaff Tower|?|22}}</ref>
+;[[Tsarra Chaadren]]
+: Tsarra was a [[half-elf]] [[Sorcerer|sorceress]] who became the Blackstaff after Khelben’s death. In public, she wore a magical illusion of Khelben so that others not close to the Blackstaff would believe Khelben was still alive. She could commune with Khelben’s spirit whenever she wished and had all the knowledge and memories of the previous Blackstaff. Tsarra was able to hold the [[Spellplague]] at bay the first time it struck Waterdeep, but the second time, when it surged from [[Undermountain]], it shattered her illusion as Khelben and revealed her true self before a crowd of gathered nobles at the palace. This revelation led to the two years known as the Retributive Years when Khelben’s enemies descended upon the city, only to be defeated by Tsarra.<ref name="BlackstaffTower226">{{Cite book/Blackstaff Tower|226|19}}</ref> Tsarra, her heir, and most of the [[Moonstars]] died in battle against a coven of [[vampire]]-[[wizard]]s in the [[Stump Bog]] in the [[1399 DR|Year of Fallen Friends, 1399]].<ref name="BlackstaffTower247">{{Cite book/Blackstaff Tower|247|22}}</ref><ref name="BlackstaffTower303">{{Cite book/Blackstaff Tower|303|Epilogue}}</ref>
+;[[Kyriani Agrivar]]
+: Kyriani, the mischievous and playful mistress of [[Selûne's Smile]] in Waterdeep and a [[Moonstar Agent|member of the Moonstars]], was the daughter of a [[human]] wizard and a [[drow]]. She had to reconcile and merge her warring natures of light and dark, and twice she had been split into separate bodies. Kyriani survived the battle against the vampires and, in honor of her friends, carried the Blackstaff back to Waterdeep, risking her sanity along the way due to the staff's sheer power, and she became the third Blackstaff.<ref name
+
+=== LINKED WIKI PAGE (first 5000 chars): Lords of Waterdeep
+
+{{otheruses4|the in-universe organization|the real-world boardgame|Lords of Waterdeep (board game)}}
+{{Organization
+| image          = 
+<gallery>
+Lords of Waterdeep CoS.png|1368 DR
+CoatOfLordsOfWaterdeep.jpg|1367 DR
+</gallery>
+| caption        = The coat-of-arms of the Lords of Waterdeep.
+| name           = Lords of Waterdeep
+| aliases        = 
+| base           = [[Waterdeep]]
+| leader         = [[Laeral Silverhand]]<br />{{Former}} [[Piergeiron the Paladinson|Piergeiron]]
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = [[1032 DR]]
+| disbanded      = —
+| basicrefs      = <ref name="CoS.CG-p8" /><ref name="CS.W-p52" /><ref name="GHotR-p116" /><ref name="BT">{{Cite book/Blackstaff Tower}}</ref>
+| members        = 16 ([[1368 DR]])<br />21 ([[1372 DR]])
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = Predominantly [[human]]
+| memrefs        = <ref name="CoS.WW-p4">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|4}}</ref><ref name="CoS.W-p13,52-55>{{Cite book/City of Splendors: Waterdeep|13, 52-55}}</ref><ref name="SCAG-p7,54-56>{{Cite book/Sword Coast Adventurer's Guide|7, 54-56}}</ref>
+| allegiances    = [[Harpers]], [[Lords' Alliance]]
+| enemies        = [[Knights of the Shield]], [[Shadow Thieves]], [[Confluence]]
+| relrefs        = <ref name="SF-p9">{{Cite book/The Savage Frontier|9}}</ref><ref name="CoS.WW-p85">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|85}}</ref><ref name="CS.W-p68">{{Cite book/City of Splendors: Waterdeep|68}}</ref><ref name="DoF-p93">{{Cite book/Dragons of Faerûn|93}}</ref> 
+| showmembers    = 
+| orgname        = 
+}}
+The '''Lords of Waterdeep''' were the mysterious and predominantly anonymous ruling council of [[Waterdeep]], having governed the city from the 11{{th}} century onwards.<ref name="CoS.CG-p8">{{Cite book/City of Splendors (boxed set)/Campaign Guide|8}}</ref><ref name="CS.W-p52" /> They oversaw the regional economy,<ref name="CS.W-p17" /><ref name="CS.W-p60" /> maintained security,<ref name="CS.W-p37" /> performed diplomacy,<ref name="CS.W-p53" /> and held legal jurisdiction over the city<ref name="WatN-p18" /> and exert their will over the surrounding lands for approximately {{SI|100|mi|k}} beyond its walls.<ref name="FRCS3e-p299">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|299}}</ref>
+
+==Organization==
+A full council comprised 20 Lords, though this number might vary from 16 to 29.<ref>{{Cite book/Death Masks|87}}</ref> The full number of Lords was not always known and some Lords were kept secret 
+
+===Open Lord===
+[[File:LordsOfWaterdeep.png|thumb|right|300px|Open Lord [[Piergeiron the Paladinson|Piergeiron]] and a Masked Lord in official garments ''circa'' [[1372 DR]].]]
+The Open Lord of Waterdeep (also called the "Unmasked Lord")<ref name="NGSF.CC-p9">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|9}}</ref> was the sole member of the Lords of Waterdeep whose identity was publicly known.<ref name="CS.W-p52" /> They held a number of additional titles including [[City Guard (Waterdeep)#Ranks|Warden]] of Waterdeep, Overmaster of the [[Waterdeep#Guilds|Guilds]], and Commander of [[City Watch (Waterdeep)|the Watch]].<ref name="CS.W-p53">{{Cite book/City of Splendors: Waterdeep|53}}</ref> The Open Lord was also the city's chief diplomat.<ref name="CS.W-p53" />
+
+There were seven [[Lords of Waterdeep#Open Lord|Open Lords]] of [[Waterdeep]] to [[1489 DR]]:<ref name="CS.W-p52" /><ref name="CoS.CG-p67">{{Cite book/City of Splendors (boxed set)/Campaign Guide|67}}</ref><ref name="DtU-M-p118">{{Cite game/Descent to Undermountain/Manual|118}}</ref><ref name="SCAG-p55" >{{Cite book/Sword Coast Adventurer's Guide|55}}</ref>
+* [[Ahghairon]] the Mage
+* [[Baeron Silmaeril]]
+* [[Lhestyn]] the Masked Lady
+* [[Piergeiron the Paladinson]]
+* [[Caladorn Cassalanter]]
+* [[Dagult Neverember]]
+* [[Laeral Silverhand]]
+
+=== Masked Lords ===
+The Lords of Waterdeep were only seen in public when sitting in the Lord's Court or when appearing every four years at [[Shieldmeet]] Council when the Lord's Rule is reaffirmed.<ref name="CoS.CG-p68" /> The identities of the Lords, other than the Open Lord, were not supposed to be known to the public, although they were known to each other.<ref name="CoS.CG-p68" /> The intent of this was to ensure that the Lords were free of coercion and could be drawn from any social strata within the city.<ref name="CoS.CG-p67" /> While the masked Lords were considered to be equal to the Open Lord in authority, some executive authority was reserved for the Open Lord, including the vetting and selection of new Lords,<ref name="CS.W-p52" /> the naming of the next Open Lord,<ref>{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref> and determining the needed number of Lords.<ref name="CoS.CG-p68" />
+
+=== Becoming a Lord ===
+Any prospective Lord was chosen by a shortlist compiled by the current Masked Lords. In 
+
+=== LINKED WIKI PAGE (first 5000 chars): Skullport
+
+{{otheruses4|the city of Skullport|the sourcebook|Skullport (sourcebook)}}
+{{Location
+| image              = <gallery>
+Skullport-Julian Kok.jpg|5e 
+Skullport - Richard Sardinha.jpg|3e 
+</gallery>
+| caption            = Various depictions of Skullport.
+| name               = Skullport
+| alt spelling       = 
+| aliases            = Port of Shadows
+| type               = Settlement
+| region             = [[Sargauth Level]], [[Undermountain]]
+| size               = Large town
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="W.DoMM-p303"/><ref name="CoS.W-p108"/>
+| demonym            = Skulker
+| population         = 
+| races              = {{Numeric table|[[Human]]s|832|[[Half-orc]]s|405|[[Goblin]]s|225|[[Kobold]]s|157|[[Elves]] (mostly [[drow]])|113|[[Dwarves]] (mostly [[duergar]])|68|Others|450}}
+| languages          = 
+| religion           = 
+| alignment          = {{Alignment grid|off|off|off|off|off|off|on|on|on}}
+| socrefs            = <ref name="CoS.W-p108"/>
+| imports            = 
+| exports            = Body parts, cadavers, [[:category:drugs|drugs]], evil magic, mercenaries, slaves, smuggling services, [[poison]]s, vile magic, [[undead]]
+| currency           = 
+| comrefs            = <ref name="CoS.W-p109"/>
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 2250
+| popyear1           = 1372
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = [[Skulls of Skullport]]
+| ruleryear1         = -339
+| ruler2             = [[Shradin Mulophor]]
+| ruleryear2         = 1148
+| ruler3             = [[Xanathar]]
+| ruleryear3         = 1492
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="CoS.W-p108"/><ref name="Du200.BS"/><ref name="W.DoMM-p304"/><ref name="Skullport-p6-9"/>
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = 
+| mountains          = 
+| bodies of water    = yes
+| forests            = 
+| events             = 
+| food and drink     = yes
+| items              = 
+}}
+'''Skullport''', also known as the '''Port of Shadows''', was a subterranean city located far below [[Waterdeep]], within the 3{{rd}} level of [[Undermountain]] known as the [[Sargauth Level]].<ref name="FRCS3e-p179">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|179}}</ref><ref name="CoS.W-p108">{{Cite book/City of Splendors: Waterdeep|108}}</ref> While rumors of this subterranean domain of villainy persisted throughout the surface world, few of its inhabitants had any knowledge of any points of entry.<ref name="W.DoMM-p303">{{Cite book/Waterdeep: Dungeon of the Mad Mage|303}}</ref>
+
+{{Quote|''The Port of Shadow is unlike any port above or below the surface of Abeir-Toril. Not surprisingly, it is much like the Underhalls that surround it: difficult to quantify, enigmatic, dangerous and yet alluring, all at the same time.''|Alphraxis of Deneir, ''[[Skullport (sourcebook)]]'' by [[Joseph Wolf]]<ref name="Sk-p5">{{Cite book/Skullport|5}}</ref>}}
+
+==Structure==
+Built on an ancient [[Netherese]] [[Sargauth Enclave|ruin]], within an immense subterranean cavern, the shadowy port was a dark reflection of the ''City of Splendors'' above. Its structure was built in three tiers, interconnected by narrow catwalks and rickety scaffolding. Creaking houses built on stilts were haphazardly built in a dense network that formed a near shantytown.<ref name="W.DoMM-p303"/><ref name="Du200.BS">{{Cite dungeon/200/Backdrop: Skullport}}</ref>
+
+Exact divisions between regions was a matter of debate, but Skullport was divided into four generally accepted wards: [[Skull Island]], [[Skullport/Port|the Port]], [[Skullport/Trade Lanes|the Trade Lanes]], and [[Skullport/Heart|the Heart]].<ref name="SP-p12">{{Cite book/Skullport|12}}</ref> Although no clear vertical boundaries existed, locals divided Skullport into three vertical tiers to aid navigation: the Crown, the Venter and the Dredge.<ref name="Du200.BS"/>
+
+Although the cavern of Skullpo
+
+=== LINKED WIKI PAGE (first 5000 chars): City Guard (Waterdeep)
+
+{{Organization
+| image          = <gallery>
+City_guard-5e.jpg|5e
+City Guardsmen-Vinod Rams.jpg|3e
+</gallery>
+| caption2       = The City Guard of Waterdeep.
+| name           = City Guard
+| aliases        = The Guard<br/>Guardsmen
+| base           = [[Castle Waterdeep]]
+| leader         = [[Simonetta Twoedged]]<br />(before [[1368 DR]])<br />[[Obryn Ironfist]] ([[1372 DR]])<br />[[Ezender Drayth]] ([[1491 DR]])<br />[[Elminster]] (1491 DR)
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="ADDc-01"/><ref name="CS.W-p33">{{Cite book/City of Splendors: Waterdeep|33-34}}</ref><ref name="WDH5e-p197">{{Cite book/Waterdeep: Dragon Heist|197}}</ref>
+| members        = 1200 ([[1372 DR]])
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{alignment grid|on|off|off|on|on|off|off|off|off}}
+| races          = {{numeric table|[[Human]]s|770|[[Shield dwarf|Shield dwarves]]|130|[[Elves]]|110|[[Lightfoot halfling]]s|70|[[Half-elves]]|55|[[Gnome]]s|35|[[Half-orc]]s|25|Others|10}}
+| memrefs        = <ref name="CS.W-p33"/>
+| allegiances    = [[Lords of Waterdeep]], [[Open Lord]]
+| enemies        = 
+| relrefs        = <ref name="CoS2e-p75-76">{{Cite book/City of Splendors (boxed set)/Campaign Guide|75-76}}</ref>
+| showmembers    = yes
+| orgname        = the City Guard of Waterdeep
+}}
+The '''City Guard''' was a highly trained military organization of fully-armored soldiers responsible for defending the great city of [[Waterdeep]] and patrolling its surroundings.<ref name="CS.W-p33" /><ref name="ADDc-01">{{Cite comic/The Gathering}}</ref><ref name="CoS2e-p75-76" />
+
+{{Quote|To distinguish between Waterdeep's different groups of guardians, keep this handy mnemonic in mind: the Guard guards the walls while [[City Watch (Waterdeep)|the Watch]] watches all.|[[Volo]]<ref name="MM5eR-p162">{{Cite book/Monster Manual 5th edition (revised)|162}}</ref>}}
+
+==Organization==
+The City Guard served many purposes related to defending the city. Within Waterdeep, the Guard protected the city walls, gates, and its important buildings, as well as provided escorts for government officials. It also patrolled the harbor and the roads leading from Waterdeep to [[Amphail (village)|Amphail]], [[Goldenfields]], and [[Daggerford]].<ref name="WDH5e-p197" />
+
+The exact size of the City Guard was a secret only known to the [[Lords of Waterdeep]], but it was thought to be around 1,200 strong.<ref name="CoS2e-p75-76" /> In times of war, it could enlist mercenaries and grow to a contingent of up to 12,000 members.<ref name="CS.W-p33"/>
+
+Members of the City Guard were paid a salary of 6 [[gp]] per month. No fee was required to join the ranks.<ref name="CS.W-p33"/>
+
+A special aquatic division of the Guard was recruited from the underwater residents of [[Deepwater Harbor]].<ref name="CS.W-p19">{{Cite book/City of Splendors: Waterdeep|19}}</ref> The [[merfolk]] of [[Tharqualnaar]] and the [[Aquatic elf|sea elves]] of [[T'Quession]] provided Guards who were responsible for defending Waterdeep against aquatic threats, recovering bodies, salvaging lost cargo, and patrolling a short distance outside the harbor.<ref name="CS.W-p111">{{Cite book/City of Splendors: Waterdeep|111}}</ref> In particular, they guarded the perimeter of [[Umberlee's Cache]], with the underwater lighthouse [[Deepwater Beacon]] serving as a guiding light and rally point.<ref name="CS.W-p108">{{Cite book/City of Splendors: Waterdeep|108}}</ref>
+
+These underwater Guards were not provided with weapons and equipment by the city, but were given a monthly 25 gp stipend of food, medical supplies, and [[trade bar]]s as compensation.<ref name="CS.W-p111" />
+
+===Ranks===
+Like the [[City Watch (Waterdeep)|City Watch]], the City Guard had specific titles for the members of their forces. A City Guard patrol usually consisted of twelve members, whose commanding officer was called the civilar. A commanding officer holding the rank of [[generic City Guard captain (Waterdeep)|captain]] was known as an aumarr, or senior civilar, while one holding the rank of [[generic City Guard lieutenant (Waterdeep)|lieutenant]] was known as a shieldlar, or, simply, civilar. The patrol also contained one armar, or [[Generic City Guard sergeant (Waterdeep)|sergeant]], and ten [[Generic City Guard private (Waterdeep)|guardsmen or guardswomen]], or trusties.<ref name="CS.W-p33" /><ref name="THO2004">{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2004)/Ranks of the Waterdeep City Guard and City Watch}}</ref><ref name="PF-p29">{{Cite book/Power of Faerûn|29}}</ref> A patrol could also be led by a sergeant.<ref name="ADDc-01" />
+
+Other officer positions existed within the ranks of the Guard, not typically associated with regular patrols. In particular, the ranks of valabrar and torsin were responsible for escorting important individuals within the city, while also composing honor guards and bodyguards to diplomats and i
+
+=== LINKED WIKI PAGE (first 5000 chars): City Watch (Waterdeep)
+
+{{Organization
+| image          = City_watch-5e.jpg
+| caption        = Various members of the City Watch.
+| name           = City Watch
+| aliases        = Watchers<ref name="tCaT-p26">{{Cite book/To Catch a Thief|26}}</ref>
+| base           = [[Palace of Waterdeep]], [[Waterdeep]], [[Sword Coast North]]<ref name="CoS.W-p35">{{Cite book/City of Splendors: Waterdeep|35–37}}</ref>
+| leader         = 
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = 
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = Any
+| memrefs        = <ref name="WDH5e-p198">{{Cite book/Waterdeep: Dragon Heist|198}}</ref>
+| allegiances    = [[Open Lord]]
+| enemies        = 
+| relrefs        = <ref name="WDH5e-p198" />
+| showmembers    = yes
+| orgname        = the City Watch of Waterdeep
+}}
+The '''City Watch''' of [[Waterdeep]] served as the police force within the city.<ref name="ADDc-01">{{Cite comic/The Gathering}}</ref><ref name="CoS.W-p35" /> Its strict code of conduct and well trained operatives made the Watch one of the most trusted police forces in [[Faerûn]].<ref name="WDH5e-p168">{{Cite book/Waterdeep: Dragon Heist|168}}</ref>
+
+{{Quote|To distinguish between Waterdeep's different groups of guardians, keep this handy mnemonic in mind: [[City Guard (Waterdeep)|the Guard]] guards the walls while the Watch watches all.|[[Volo]]<ref name="MM5eR-p162">{{Cite book/Monster Manual 5th edition (revised)|162}}</ref>}}
+
+==Organization==
+The Watch's purpose was not only to enforce the law, but also to ensure the well-being of Waterdhavians.<ref name="CoS.W-p35" />
+
+It had a centralized command led by the Commander of the Watch, who supervised three watchlords,<ref name="THO2004">{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2004)/Ranks of the Waterdeep City Guard and City Watch}}</ref><ref name="PoF-p29">{{Cite book/Power of Faerûn|29}}</ref> or senior commanders: the Mage Civilar in charge of the [[wizard]] corps; the Senior Armsmaster, who was in charge of supplies and reported directly to the Commander of the Watch; and the Grand Civilar, who commanded the ward civilars and held the same rank as the Mage Civilar.<ref name="CoS2e-p75-76" /><ref name="CoS.W-p35" /><ref name="WDH5e-p198" /> The Commander of the Watch reported directly to the [[Open Lord]].<ref name="WDH5e-p198" />
+
+Each ward of Waterdeep was patrolled by a division of the Watch under the command of a ward civilar, or [[Generic City Watch major (Waterdeep)|major]], who oversaw all the senior civilars commanding the watch stations of their respective wards.<ref name="CoS2e-p75-76" /><ref name="CoS.W-p35" /><ref name="WDH5e-p198" />{{Border box float
+| theme        = 
+| float        = 
+| contentalign = center
+| width        = auto
+| styles       = 
+| content      = {{Split table|lca=center|rca=center|caption=City Watch Ranks|captionstyle=font-size:larger;font-family:Georgia,serif;font-weight:bold;text-align:center;
+|leftheader=Rank<ref name="WDH5e-p189" />|rightheader=Title<ref name="CoS.W-p35"/><ref name="WDH5e-p189" /><ref name="CoS2e-p75-76">{{Cite book/City of Splendors (boxed set)/Campaign Guide|75-76}}</ref>
+| [[Generic City Watch patrolperson (Waterdeep)|Watchman/Watchwoman]] | ''Constable''
+| [[Generic City Watch sergeant (Waterdeep)|Sergeant]] | ''Armar''
+| [[Generic City Watch lieutenant (Waterdeep)|Lieutenant]] | ''Civilar''
+| [[Generic City Watch captain (Waterdeep)|Captain]] | ''Senior civilar''
+| [[Generic City Watch major (Waterdeep)|Major]] | ''Ward civilar''
+}}
+----
+'''Senior Commanders'''<ref name="CoS.W-p35"/><ref name="WDH5e-p189" /><ref name="CoS2e-p75-76" /><br />''Grand Civilar'' • ''Mage Civilar'' • ''Senior Armsmaster''
+----
+'''''Commander of the Watch'''''
+}}Each guard post was commanded by a senior civilar or [[Generic City Watch captain (Waterdeep)|captain]], sometimes referred to as a rorden,<ref name="THO2004" /><ref name="PoF-p29" /> who commanded a number of patrols. Senior civilars also performed duties as orsars, acting as envoys and prisoner escorts; and as guardswords, in charge of patrolling the docks and gates.<ref name="WDH5e-p198" /><ref name="CoS.W-p35" /><ref name="THO2004" /><ref name="PoF-p29" />
+
+Each patrol was headed by a civilar, or [[Generic City Watch lieutenant (Waterdeep)|lieutenant]],<ref name="WDH5e-p198" /><ref name="CoS.W-p35" /> also known as a [[swordcaptain]] or amlar.<ref name="ADDc-01"/> Typical patrol groups included one armar, or [[Generic City Guard sergeant (Waterdeep)|sergeant]], also known as a "sword", and two or more [[Generic City Guard private (Waterdeep)|constable]]s, also known as "blades"<ref name="PoF-p29" />, patrolmen,<ref name="ADDc-01"/> or watchmen/watchwomen.<ref name="CoS2e-p75-76" /><ref name="CoS.W-p35" /><ref name="WDH5e-p198" />
+
+==Activities==
+[[File:Delzorin.png|thumb|300px|right|''A traffic warden gives directions at the corner of [[Delzorin Street
+
+=== LINKED WIKI PAGE (first 5000 chars): Gray Hand enforcer
+
+{{Class
+| image           = Harshnag-5e.jpg
+| caption         = The legendary enforcer [[Harshnag|Harshnag the Grim]] with a band of adventurers
+| name            = Gray Hand Enforcer
+| othernames      = 
+| abbr            = 
+| symbol          = 
+| affiliation     = [[Force Grey]]
+| region          = [[Waterdeep]]
+| type5e          = 
+| subclass-of5e   = 
+| subclasses5e    = 
+| subclasstype5e  = 
+| weapons5e       = 
+| armor5e         = 
+| tools5e         = 
+| languages5e     = 
+| magictype5e     = 
+| spellprep5e     = 
+| divinefocus5e   = 
+| race5e          = 
+| multiclassreq5e = 
+| otherprereqs5e  = 
+| refs5e          = 
+| type4e          = 
+| role4e          = 
+| power4e         = 
+| paragon-of4e    = 
+| paragons4e      = 
+| weapons4e       = 
+| armor4e         = 
+| implements4e    = 
+| refs4e          = 
+| type3e          = Prestige Class
+| variant-of3e    = 
+| variants3e      = 
+| weapons3e       = 
+| armor3e         = 
+| languages3e     = 
+| magictype3e     = 
+| spellprep3e     = 
+| divinefocus3e   = 
+| alignment3e     = {{alignment grid|on|on|on|on|on|on|off|off|off}}
+| race3e          = 
+| sex3e           = 
+| deity3e         = 
+| otherprereqs3e  = Membership in the Gray Hands, intimidating persona, great martial prowess or spellcasting ability.
+| refs3e          = <ref name="CS.W-p78"/>
+| type2e          = 
+| variant-of2e    = 
+| variants2e      = 
+| kit-for2e       = 
+| kits2e          = 
+| alignment2e     = 
+| race2e          = 
+| sex2e           = 
+| deity2e         = 
+| otherprereqs2e  = 
+| refs2e          = 
+| type1e          = 
+| alignment1e     = 
+| race1e          = 
+| refs1e          = 
+| classname       = Gray Hand enforcers
+}}
+'''Gray Hand enforcers''' were highly-trained elite members of the [[Gray Hands]], later referred to as [[Force Grey]], the military strike force of [[Waterdeep]].<ref name="CS.W-p77">{{Cite book/City of Splendors: Waterdeep|77}}</ref> They upheld their reputation as fearless champions of the city with heroic fighting and fervent devotion to the City of Splendors.<ref name="CS.W-p78">{{Cite book/City of Splendors: Waterdeep|78}}</ref>
+
+==Culture==
+Along with the other members of the Gray Hands, enforcers served directly under the [[Lords of Waterdeep]]. They were entrusted with the protection of their home city. Their unwavering loyalty was known all throughout the streets of Waterdeep.<ref name="CS.W-p77"/>
+
+These great fighters were famous for their heroic toughness and notorious for their gruff and informal demeanor. Enforcers did not have the patience to demonstrate any subtlety or mercy in battle.<ref name="CS.W-p78"/>
+
+==Activities==
+The Lords of Waterdeep only deployed the Gray Hands when the [[City Guard (Waterdeep)|City Guard]] or [[City Watch (Waterdeep)|City Watch]] could not handle a given threat.<ref name="CS.W-p79">{{Cite book/City of Splendors: Waterdeep|79}}</ref> The enforcers reputation was such that they knew they never had to worry about the collateral damage they cause, so long as they annihilated the city's foes.<ref name="CS.W-p78"/>
+
+==Possessions==
+Like their comrades in arms, each of the Gray Hand's enforcers were given a small token with the symbol of their fighting group. This was a status symbol in Waterdeep, allowing them to act without impunity, save for intervention from a magistrate or civilar of the City Guard or City Watch, or the Masked Lords themselves.<ref name="CS.W-p78"/>
+
+The enforcers were granted the full resources of the famous Waterdhavian treasury. They were outfitted with [[Item enchantment|enchanted]] weapons and armor by the [[Watchful Order of Magists and Protectors|Watchful Order]], albeit at a personal cost of [[currency|gold]].<ref name="CS.W-p79">{{Cite book/City of Splendors: Waterdeep|79}}</ref>
+
+==Abilities==
+While in the city, or up to {{SI|10|mi|k}} away, Gray Hand enforcers were able to periodically infuse their attacks with power drawn from ''[[Ahghairon's dragonward]]''.<ref name="CS.W-p78"/>
+
+Over time, they developed an inherent resistance to [[magic]]al spells.<ref name="CS.W-p78"/>
+
+The more experienced enforcers of the Gray Hands were granted a boon by the city's Lords, which allowed them to heal their own wounds.<ref name="CS.W-p78"/>
+
+==Members==
+Gray Hand enforcers were chosen for their combat prowess, both in how they could eradicate their opponents and endure assaults while they protected others.<ref name="CS.W-p77"/>
+
+==Notable Gray Hand Enforcers==
+* [[Harshnag|Harshnag the Grim]], the famous [[frost giant]] who lived on [[Mount Sar]].<ref name="CS.W-p80">{{Cite book/City of Splendors: Waterdeep|80}}</ref>
+* [[Jardwim]], the leader of the Gray Hands circa [[1372 DR]].<ref name="CS.W-p80"/>
+
+==Appendix==
+===See also===
+* [[Gray Hands]]
+
+===References===
+{{refs}}
+[[Category:Prestige classes]]
+[[Category:Classes of Waterdeep]]
+[[Category:Classes]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Jardwim
+
+{{Person
+| image          = 
+| caption        = 
+| name           = Jardwim
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]
+| formerhomes    = 
+| sex            = Male
+| gender         = 
+| race           = [[Human]]
+| ethnicity      = [[Illuskan]]
+| occupation     = 
+| age            = 
+| patron deity   = [[Mielikki]]
+| languages      = 
+| basicrefs      = <ref name="HL-p155">{{Cite book/Heroes' Lorebook|155}}</ref><ref name="CoSWp38">{{Cite book/City of Splendors: Waterdeep|38}}</ref>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = [[Neutral good]]
+| class2e        = {{class table|edition=2e|[[Ranger]]|17}}
+| refs2e         = <ref name="HL-p155"/>
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = [[Neutral good]]
+| challenge35    = 
+| class35        = {{class table|edition=3e|[[Ranger]]|15|[[Gray Hand enforcer]]|3}}
+| refs35         = <ref name="CoSWp38"/>
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Jardwim''' was the leader of the [[Gray Hands]] adventuring company who helped guard the city of [[Waterdeep]].<ref name="CoSWp38">{{Cite book/City of Splendors: Waterdeep|38}}</ref><ref name="CS-p5">{{Cite book/City System|5}}</ref>
+
+==Appearance==
+He had a stocky, muscular build and shoulder length black hair. His skin was a grayish hue.<ref name="CoSWp38"/>
+
+==Personality==
+He was a follower of [[Mielikki]]. He was ruthless and indomitable. Jardwim felt that resistance should be met by lethal force and his concentration was legendary.<ref name="CoSWp38"/>
+
+==Relationships==
+Jardwim had two [[blink dog]]s. As leader of the Gray Hands, he reported to [[Khelben "Blackstaff" Arunsun]].<ref name="CoSWp38"/><ref name="HL-p155"/>
+
+==Appendix==
+===Behind the Scenes===
+His name was an anagram of, and may be a reference to, another character "Drawmij", itself a reference to [[Jim Ward]].
+===Appearances===
+{{Appearances
+|comics = {{Comapp|Advanced Dungeons & Dragons (comic series)|10|11|12}}
+}}
+===References===
+{{refs}}
+[[FR:Jardwim]]
+[[Category:Rangers]]
+[[Category:Gray Hand enforcers]]
+[[Category:Illuskans]]
+[[Category:Humans]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+[[Category:Members of Force Grey]]
+[[Category:Worshipers of Mielikki]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Vajra Safahr
+
+{{DEFAULTSORT:Safahr, Vajra}}
+{{Otheruses4|the seventh [[Blackstaff]]|other women named Vajra|Vajra}}
+{{Person
+| image          = Vajra-5e.png
+| caption        = An artist's depiction of Vajra.
+| name           = Vajra Safahr
+| alt_spelling   = 
+| titles         = Blackstaff<ref name="BST-p258-259">{{Cite book/Blackstaff Tower|258-259}}</ref>
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]<ref name="Blackstaff Tower">{{Cite book/Blackstaff Tower}}</ref>
+| formerhomes    = [[Tethyr]], [[west Faerûn]]<ref name="BST-p247-251" />
+| sex            = Female
+| race           = [[Human]]
+| ethnicity      = [[Tethyrian]]<ref name="BST-p4">{{Cite book/Blackstaff Tower|4}}</ref>
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Dwarvish]], [[Elven language|Elvish]], [[Giant language|Giant]], [[Halfling language|Halfling]]<ref name="WDH5e-p217">{{Cite book/Waterdeep: Dragon Heist|217}}</ref>
+| reckoning      = 
+| dob            = 1455
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = [[Tamik al Safahr]] and [[Parama yr Manshaka]]
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = <ref name="BST-p247-251" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Lawful neutral]]
+| challenge5e    = 13
+| class5e        = {{Class table|edition=5e|[[Wizard]]|18}}
+| refs5e         = <ref name="WDH5e-p217" />
+}}
+'''Vajra Safahr''' ({{Pronounce|VAJ|rah|_|sah|FAR|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}) was the seventh [[Blackstaff]] of [[Waterdeep]], a title she ascended to in [[1479 DR]] when her mentor and lover, [[Samark Dhanzscul]], was killed.<ref name="Blackstaff Tower">{{Cite book/Blackstaff Tower}}</ref> She was quite young when she became the Blackstaff,<ref name="BST-p4">{{Cite book/Blackstaff Tower|4}}</ref><ref name="BST-p1">{{Cite book/Blackstaff Tower|1}}</ref> and was the youngest Blackstaff in Waterdeep's history.<ref name="WoW">{{Cite game/Warriors of Waterdeep}}</ref>
+
+==Description==
+Vajra was diminutive, standing under {{SI|5|ft|c|long=yes}},<ref name="Schend-tweet">{{Cite web|url=https://web.archive.org/web/20230628202441/https://twitter.com/StevenESchend/status/1674134481840529408?cxt=HHwWgICzhZ-c3LsuAAAA|title=Howdy and welcome to a quick "Steven clarifies something he wrote long ago"|accessdate=28-06-2023| date=28-06-2023}}</ref> with olive skin, short black hair, and brown eyes.<ref name="BST-p4" /><ref name="BST-p1" /> However, for a time, she had the ability to change her eye color, and the color switched depending on which of the six previous Blackstaffs controlled her body at any given time.<ref name="Schend-tweet" />
+
+==Personality==
+Vajra loved an intriguing [[arcane]] challenge. She was patient and known to pursue multiple plans at once, often requiring her to get her rivals to act in her best interests instead of their own.<ref name="WoW" /> Although she was prone to self-doubt when she first assumed the role of the Blackstaff,<ref name="DM-ch1">{{Cite book/Death Masks||1}}</ref> she soon learned to ignore those doubts and to dismiss the envies of those who were skeptical of her role.<ref name="WoW" />
+
+==Activities==
+She was focused on turning Waterdeep, and specifically her [[Blackstaff Academy]], into the center of [[magical]] study in [[Faerûn]]. She would wander the libraries and laboratories of [[Blackstaff Tower]] under magical silence so as not to disturb the other wizards, save for when she made a sudden appearance to aid them in their studies. She allowed her best students access to her own personal [[spellbook]], and was said to even allow some of them to add their own creations to it.<ref name="WoW" />
+
+==Abilities==
+Though having become the Blackstaff at a young age, Vajra was a skilled wizard, even capable of casting a lone spell while entirely [[paralyze|paralyzed]], and thus incapable of performing verbal incantations or hand-gestures. The effect of this spell was to fire forth a few rays of amber-colored energy from her eyes.<ref name="Blackstaff Tower">{{Cite book/Blackstaff Tower}}</ref>
+
+==Possessions==
+[[File:Vajra signature work WoW.png|thumb|''Vajra's signature spellbook.'']]Vajra wielded the fabled [[Blackstaff (staff)|Blackstaff]], which was silver shod and towered over her head by several feet.<ref name="BST-p258-259">{{Cite book/Blackstaff Tower|258-259}}</ref>
+
+She was kno
+
+=== LINKED WIKI PAGE (first 5000 chars): Harshnag
+
+{{Person
+| image          = <gallery>
+Harshnag-5e.jpg|5e 
+Harshnag.jpg|3e 
+</gallery>
+| caption2       = Various depictions of Harshnag.
+| name           = Harshnag
+| true name      = 
+| alt_spelling   = Harshnagg<ref name="HL-p155" />
+| titles         = 
+| aliases        = 
+| nicknames      = the Grim<ref name="CoS.W-p80">{{Cite book/City of Splendors: Waterdeep|80}}</ref>
+| home           = [[Mount Sar]], [[Sword Coast North]]<ref name="CoS.W-p80" />
+| formerhomes    = [[Spine of the World]], [[North Faerûn]]<ref name="CoS.W-p80" />
+| sex            = Male<ref name="CoS.W-p80" /><ref name="HL-p155" />
+| race           = [[Frost giant]]<ref name="CoS.W-p80" /><ref name="HL-p155">{{Cite book/Heroes' Lorebook|155}}</ref>
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = 
+| reckoning      = DR
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = [[Chaotic good]]
+| class2e        = 
+| refs2e         = <ref name="HL-p155" />
+| alignment3e    = [[Chaotic good]]
+| challenge3e    = 14
+| class3e        = {{class table|edition=3e|[[Gray Hand enforcer]]|5}}
+| refs3e         = <ref name="CoS.W-p80" />
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Chaotic good]]
+| challenge5e    = 9
+| class5e        = 
+| refs5e         = <ref name="SKT-p118-120">{{Cite book/Storm King's Thunder|118-120}}</ref>
+}}
+{{Quote|''Come here little [[demon]], and stop tormenting the nice townsfolk... I will squash you like a bug.''|Harshnag the Grim<ref name="CoS.W-p77">{{Cite book/City of Splendors: Waterdeep|77}}</ref>}}
+'''Harshnag the Grim'''<ref group="note">''[[City of Splendors: Waterdeep]]'', as well as ''[[Storm King's Thunder]]'' lists this character as being named ''Harshnag'', while the ''[[Heroes' Lorebook]]'' calls him ''Harshnagg''.</ref><ref name="CoS.W-p80" /><ref name=SKT-p16>{{Cite book/Storm King's Thunder|16}}</ref><ref name="HL-p155" /> was a [[frost giant]] and member of the [[Gray Hands]] during the 14{{th}} century [[DR]]. The [[Waterdeep|Waterdhavian]] [[City Guard (Waterdeep)|City Guard]] used Harshnag as an indicator that a neighborhood was about to become a war zone, and signal citizens that should get out of that area as fast as possible.<ref name="CS.W-p79-80">{{Cite book/City of Splendors: Waterdeep|79-80}}</ref> 
+
+==Description==
+Harshnag was particularly burly-looking, even for a frost giant. He had skin as white as snow, light blue eyes and pale blue hair which he often kept tied back in a braid.<ref name="CoS.W-p80" />
+
+==Possessions==
+Harshnag was known for wearing the skull of a [[white dragon]] as a [[helmet]]. His main weapon was the legendary ''[[Gurt's greataxe]]''.<ref name="SKT-p118-120" /> He was once also known to wear a suit of enchanted [[plate mail]].<ref>{{cite book/City System|5}}</ref>
+
+==History==
+Harshnag was exiled from his tribe of frost giants, who lived in the [[Spine of the World]] mountains, for his rather genteel demeanor. He wandered south to explore the Realms beyond his home and eventually made his way down to [[Waterdeep]].<ref name="CoS.W-p80" /> 
+
+Taken back by the presence of a frost giant near the city, the Gray Hands moved to intercept the giant interloper. Their leader, a [[ranger]] by the name of [[Jardwim]], was so impressed by the giant's polite response, invited Harshnag to join their ranks. He made his home in a cave in [[Mount Sar]], and was summoned by means of a ''[[sending]]'' spell by his fellow [[Gray Hand enforcer]], a [[wizard]] named [[Maliantor]].<ref name="CoS.W-p80" />
+
+At some point during the 14{{th}} century, Harshnag was gifted the ''[[Gurt's greataxe|legendary greataxe]]'' of [[Gurt]], the ''Lord of the Pale Giants'', by [[Open Lord]] [[Piergeiron the Paladinson|Piergeiron]], in recognition for his service to the city of Waterdeep.<ref name="CoS.W-p147">{{Cite book/City of Splendors: Waterdeep|147}}</ref>
+
+[[File:DxD&D.B Harshnag.png|thumb|180px|left|''Harshnag, a portrait.'']]
+Following the shattering of the ordning in the late 1480s DR, Harshnag took it upon himself to slay evil giants who were terrorizing the people of the North. He was a key player in the conflict between the [[storm giant]] [[Hekaton]] and the [[blue dragon]] [[Iymrith]], leading a party of adventurers to a temple of [[Annam All-Father|Annam]] known as the [[Eye of the All-Father]], where they were able to consult an oracle to divine a solution to the ordning's collapse.<ref name="SKT-p118-120" /> When Iymrith entered the 
+
+=== LINKED WIKI PAGE (first 5000 chars): Mount Sar
+
+{{DEFAULTSORT:Sar, Mount}}
+{{Mountain
+| image          = WaterdeepEnvirons2.png
+| caption        = Map of Mount Sar and the surrounding region
+| name           = Mount Sar
+| aliases        = 
+| type           = Mountain
+| region         = [[Sword Mountains]]. [[Sword Coast North]]
+| elevation      = 
+| georefs        = <ref name="CoS2e-p19-20">{{Cite book/City of Splendors (boxed set)/Campaign Guide|19-20}}</ref>
+| races          = 
+| socrefs        = 
+| usethe         = 
+| useon          = yes
+| inhabitants    = yes
+| locations      = yes
+| organizations  = 
+| settlements    = 
+| roads          = 
+| mountains      = 
+| events         = 
+| food and drink = 
+| items          = 
+}}
+'''Mount Sar''' was a mountain peak in the [[Sword Mountains]], the second most southern in the entire range.<ref name="EoW-p14">{{Cite web enhancement/Environs of Waterdeep|14}}</ref>
+
+==Geography==
+The mountain located north of [[Waterdeep]] between the [[Long Road]] and the [[High Road]]. Along with [[Mount Helimbrar]] and [[Mount Waterdeep]], it protected the city against the harsh winds from the North.<ref name="CoS2e-p19-20" />
+
+==Description==
+The peak was linked to [[Blackstaff Tower]] by a large-sized two-way keyed [[portal]].<ref name="CoS2e-p73">{{Cite book/City of Splendors (boxed set)/Campaign Guide|73}}</ref>
+
+==History==
+This mountain was named for a great [[fomorian]] that used to live in it, until they were slain by the early warlords of Waterdeep.<ref name="CoS2e-p19-20" /><ref name="EoW-p14" /><ref name="drag128-p11">{{Cite dragon/128/Welcome to Waterdeep|11}}</ref>
+
+In the {{YearlinkName|1024}}, the mountain village of [[Hespheira]] was removed from Mount Sar in [[Faerûn]] and somehow transported to the [[Plane of Shadow]].<ref name="EoW-p14" />
+
+==Notable Locations==
+* [[Hespheira]], a minor settlement that experienced great tumult and tragedy.<ref name="EoW-p14" />
+* [[Melairrin]], an old [[dwarf|dwarven]] citadel located inside the mountain.<ref name="CoS.W.EoW-p14">{{Cite web enhancement/Environs of Waterdeep|14}}</ref>
+
+==Inhabitants==
+Mount Sar was inhabited by [[stone giant]]s and [[sylph]]s.<ref name="CoS2e-p19-20" /> A cave in the mountain was also home to the [[frost giant]] [[Harshnag]] the Grim. It was returned to the mountain over a century later, infested by shadow creatures.<ref name="CoS2e-p73" />
+
+[[Gulyaikin Dzrund]], "The Mad Dwarf", lived in a series of caves high up on the mountain. He was known for attacking passersby with rocks either rolled down the mountain or catapulted at ships at sea. Rumors were that he had a vast treasure hidden away. <ref name="DM128-p8-14"> {{Cite dragon/128/Welcome to Waterdeep}},</ref>
+
+==Appendix==
+{{Incomplete}}
+===References===
+{{Refs}}
+[[Category:Mountains]]
+[[Category:Locations in the Sword Mountains]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Piergeiron Paladinson
+
+{{Person
+| image          = LordPiergeiron.jpg
+| caption        = 
+| name           = Piergeiron Paladinson
+| true name      = 
+| alt_spelling   = 
+| titles         = Commander of the watch<br />Warden of the guard<br />Overmaster of the guilds
+| aliases        = Piergeiron the Paladinson
+| nicknames      = The Golden<br />The Thickskull
+| home           = [[Piergeiron's Palace]], [[Waterdeep]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Human]]
+| ethnicity      = [[Tethyrian]]
+| occupation     = Ruler
+| age            = 
+| patron deity   = [[Tyr]]
+| languages      = [[Common]]
+| basicrefs      = <ref name="HoH-p92" /><ref name="CoS.W-p53" /><ref name="DDT2-TP" /><ref name="FRCS2e.RTR-p40"/>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 1379
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = [[Athar]]
+| spouses        = [[Shaleen]], [[Maethiira]]
+| siblings       = 
+| children       = [[Aleena Paladinstar]]
+| familyrefs     = <ref name="CoS.W-p24" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = [[Lawful good]]
+| class1e        = {{Class table|edition=1e|[[Paladin]]|14}}
+| refs1e         = <ref name="FRCS1e-DM-p29">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|29}}</ref>
+| alignment2e    = [[Lawful good]]
+| class2e        = {{class table|edition=2e|[[Paladin]]|14}}
+| refs2e         = <ref name="FRCS2e.RTR-p40">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|40}}</ref>
+| alignment3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = [[Lawful good]]
+| class35        = {{class table|edition=3e|[[Paladin]]|17}}
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Piergeiron Paladinson''' ({{Pronounce|peer|GEER|on|refs=<ref name="FRCS1e-DM-p29" />}}) was the [[Lords of Waterdeep|Open Lord of Waterdeep]] throughout most of the 1300s [[DR]] and leader of the [[Lords' Alliance]].<ref name="SF-p9">{{Cite book/The Savage Frontier|9}}</ref> He lived in [[Piergeiron's Palace]] in [[Waterdeep]].<ref name="CoS.W-p53">{{Cite book/City of Splendors: Waterdeep|53}}</ref> 
+
+Usually, the identities of the Lords of Waterdeep were concealed from the people, but Piergeiron was one of only four whose identities were known as of his tenure. He followed in the footsteps of his predecessors, Open Lords [[Ahghairon]], [[Baeron]], and [[Lhestyn]].<ref name="CoS.CG-p67">{{Cite book/City of Splendors (boxed set)/Campaign Guide|67}}</ref>
+
+==Description==
+Piergeiron was a tall, muscular, and strikingly handsome man with a firm jaw, and dark eyes.<ref name="CoS.W-p53" /><ref name="HoH-p92">{{Cite book/Hall of Heroes|92}}</ref> His hair was curly slightly greying at the temples, adding to the man's regal aura.<ref name="HoH-p92" />
+
+==Personality==
+Piergeiron did not speak very often, understanding the tact of silence, and when he did, he spoke very slowly weighing his every word. This led to some of those around him nicknaming him "the Thickskull," although never in his presence.<ref name="CoS.W-p53" />
+
+He was aware of the nickname, sometimes even laughing about it. Piergeiron used this misconception of his mental capabilities to his advantage. Having his political enemies underestimate him led to often made slip-ups in the negotiations, giving the Open Lord an upper hand.<ref name="HoH-p93">{{Cite book/Hall of Heroes|93}}</ref>
+
+Piergeiron did not fear battle, he was quite capable of defending himself thanks to years of service prior to his life as a ruler. He preferred diplomacy to battle, but when he was pressed into a physical confrontation he fought with the knowledge he was blessed by his god.<ref name="HoH-p92" />
+
+==Activities==
+[[File:LordsOfWaterdeep.png|thumb|right|250px|Piergeiron the Open Lord of [[Waterdeep]].]]
+
+Every year on [[Ahghairon's Day]], Lord Piergeiron continued the tradition of stopping by a number of inns, taverns, and other establishments in order to offer his good will and best wishes to the Waterdhavian people.<ref name="CoS.W-p15">{{Cite book/City of Splendors: Waterdeep|15}}</ref>
+
+==Relationships==
+Piergerion's father [[Athar]], "the Shining Knight", was famed for slaying the great [[Red dragon|red wyrm]] [[Kistarianth|Kistarianth the Red]].<ref name="CoS.W-p53" /> 
+
+Piergeiron's first wife, [[Shaleen]], to whom he was married in his youth, died.  Piergeiron's second marriage was to [[Maethiira]], but she died as well in the {{YearlinkName|1344}}, leaving him with one daughter, [[Aleena Paladinstar]], who left Waterdeep to explore the [[Cosmology|planes]].<ref name="CoS.W-p53" /><ref name="CoS.W-p24">{{Cite book/City of Splendors: Waterdeep|24}}</ref> 
+
+Due to his position of power in Waterdeep, being above the guild law, he 
+
+=== LINKED WIKI PAGE (first 5000 chars): Return of the Archwizards (event)
+
+{{Otheruses4|the collection of novels|other uses|Return of the Archwizards (disambiguation)}}
+{{Event
+| image       = 
+| caption     = 
+| name        = Return of the Archwizards
+| partof      = 
+| othernames  = 
+| type        = 
+| deity       = 
+| location    = [[Heartlands]]
+| date        = [[Nightal 20]] [[1371 DR|1371]]– [[Eleasis 2]] [[1372 DR]]
+| duration    = 226 days
+| schedule    = 
+| frequency   = 
+| basicrefs   = <ref name="RotA.Sum-p1">{{Cite book/Return of the Archwizards/The Summoning|1}}</ref><ref name="RotA.Sor-p752">{{Cite book/Return of the Archwizards/The Sorcerer|752}}</ref>
+| observedby  = 
+| affected    = 
+| activities  = [[Battle of Rocnest]]<ref name="RotA.Sum-p194-197" />
+| first       = 
+| cause       = The release of the [[phaerimm]]
+| responsible = [[Galaeron Nihmedu]] and [[Melegaunt Tanthul]]
+| subevents   = Battle of Rocnest<br />Annihilation of [[Tilverton]]
+| outcome     = Second Netherese Empire
+| histrefs    = <ref name="PGtF-p167-168" />
+}}
+The '''Return of the Archwizards''', referred to in part as '''the Return''', was the name given to a series of events surrounding the release of the [[phaerimm]] from beyond the [[Sharn Wall]], the return of the [[Netherese enclave|flying city]] of [[Thultanthar]] to the skies over [[Anauroch]], and the conflicts that arose between these two groups with the people of the [[Western Heartlands|Western]] and [[Eastern Heartlands]] of [[Faerûn]].<ref name="PGtF-p167-168">{{Cite book/Player's Guide to Faerûn|167-168}}</ref>
+
+==Location==
+These events were far-reaching in their scope, affecting cities as far west as [[Waterdeep]] in the [[Sword Coast North]] all the way to the [[Cormyr]]ean city of [[Tilverton]] and the [[Dalelands]] to the east.<ref name="PGtF-p167-168" /> 
+
+==History==
+===Phaerimm Released===
+These events began on [[Nightal 20]] in the {{YearlinkName|1371}} when a squad of [[Evereskan tomb guardian]]s led by [[Galaeron Nihmedu]], encountered a group of [[Vaasan]] warriors led by [[Vala Thorsdotter]] and the [[Shadovar]] [[shadow mage|mage]] [[Melegaunt Tanthul]], when some elven crypts beneath the Greycloak Hills. When a pair of magical blasts originating from both [[the Weave]] and the [[Shadow Weave]] each struck the other, a hole opened within the [[Sharn Wall]] and the long-imprisoned phaerimm were released from their confines within [[Toril]].<ref name="PGtF-p167-168" /><ref name="RotA.Sum-p11-13">{{Cite book/Return of the Archwizards/The Summoning|11-13}}</ref> 
+
+Both the elves of Evereska and the companions that opened the Sharn Wall each sought a solution to prevent the phaerimm from consuming all the magic they encountered. While the Evereska's [[elven high mage|high mages]] initially sought to repair the Sharn Wall,<ref name="RotA.Sum-p50">{{Cite book/Return of the Archwizards/The Summoning|50}}</ref> their efforts proved unsuccessful and the city's military suffered heavy losses. One surviving high mage named [[Gervas Imesfor]] did manage to request aid from the [[archmage]] [[Khelben Arunsun]] of [[Waterdeep]].<ref name="RotA.Sum-p98-104">{{Cite book/Return of the Archwizards/The Summoning|98-104}}</ref> Meanwhile, the mage Melegaunt led Galaeron, Vala, and some new allies named [[Aris (giant)|Aris]] and [[Malik el Sami]] on a journey to the [[Dire Wood]] in search of the ''[[Karsestone]]'' to initiate the Return.<ref name="PGtF-p167-168" /><ref name="RotA.Sum-p112-116">{{Cite book/Return of the Archwizards/The Summoning|112-116}}</ref> 
+
+By [[Nightal 30]], the phaerimm had taken control over much of the hills surrounding [[Evereska]], determined to consume the ''[[mythal]]'' that protected the city. They formed the [[deadwall]] around the surrounding [[Greycloak Hills]],<ref name="PGtF-p167-168" /> preventing any living beings from entering within, even by magical means.<ref name="RotA.Sum-p184">{{Cite book/Return of the Archwizards/The Summoning|184}}</ref> 
+
+Just as the phaerimm were poised to overwhelm the Evereskan military, Khelben Arunsun used his powers as a [[chosen]] of [[Mystra]]<ref name="RotA.Sum-p191-193">{{Cite book/Return of the Archwizards/The Summoning|191-193}}</ref> to hold them off so that a circle of high mages at [[Rocnest]] could ''[[portal]]'' in a relief army. [[Laeral Silverhand]] and the recently-raised [[Army of the North]] were awaiting the right opportunity to bypass the phaerimm deadwall. While the mages were successful in opening the ''portal'', the [[Battle of Rocnest]] was an ultimately futile; the basin surrounding it became filled with lava that spewed forth from underground fissures.<ref name="RotA.Sum-p194-197">{{Cite book/Return of the Archwizards/The Summoning|194-197}}</ref> 
+
+===The Return===
+While in the Dire Wood that same day, Melegaunt Tanthul granted access to [[Toril]] for his elder brothers, the [[Princes of Shade]]. The Shadovar nobility immediately set out to slay any phaerimm they encountered.<ref name="RotA.Sum-p247-248">{{Cite book/Return of the Archwizards
+
+=== LINKED WIKI PAGE (first 5000 chars): Faerûn
+
+{{Location
+| title       = 
+| image          = Sword-Coast-Map HighRes-Compressed.jpg
+| caption        = Map of the Sword Coast and surrounding areas in western Faerûn in [[1489 DR]]
+| name           = Faerûn
+| aliases        = The Great Island <small>(for [[Northlander]])</small><ref name="TN.GttSF-p16">{{Cite book/The North: Guide to the Savage Frontier|16}}</ref>
+| type           = Continent
+| size           = 
+| capital        = 
+|demonym         = Faerûnian<ref name="WotW">{{Cite polyhedron/74/The Everwinking Eye: Words To The Wise}}</ref>
+| area           = [[Toril]]
+| languages      = 
+| races          = 
+| religion       = 
+| currency       = 
+| population1    = 
+| popyear1       = 
+| population2    = 
+| popyear2       = 
+| population3    = 
+| popyear3       = 
+| imports        = 
+| exports        = 
+| alignment      = 
+| allegiances    = 
+| government     = 
+| rulertype      = 
+| ruler1         = 
+| ruleryear1     = 
+| ruler2         = 
+| ruleryear2     = 
+| ruler3         = 
+| ruleryear3     = 
+| ruler4         = 
+| ruleryear4     = 
+| ruler5         = 
+| ruleryear5     = 
+| rulertable     =
+| usethe         = 
+| useon          = 
+| inhabitants    = yes
+| locations      = yes
+| organizations  = yes
+| settlements    = yes
+| events         = yes
+| food and drink = yes
+| items          = yes
+}}
+'''Faerûn''' ({{Pronounce|fay|ROON|refs=<ref name="FRCS2e-r-p4">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|4}}</ref>|audio=Faerûn.ogg}} {{Pronounce|FAY|er|OON|primary stress=3|refs=<ref name="FRCS1e-DM-p4">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|4}}</ref>|alt=yes}}) was a major continent on the planet of [[Toril]].<ref name="FRCS-p5">{{Cite book/Forgotten Realms Campaign Setting|5}}</ref><ref name="TFRA-p1">{{Cite book/The Forgotten Realms Atlas|1-3}}</ref><ref group="note">As the key setting of the ''[[Forgotten Realms]]'', the majority of official ''Forgotten Realms'' material covers this continent, and it has had more attention than any other area of the planet.</ref>
+{{quote|''Someone should have dared, long ago, and done so as often as it took to break you of this serenely wrong view of the ways of the world. Hear this, [[Narantha Crownsilver|Narantha]], and hear it well: Faerûn is not going to change to your will. Either you must change to dwell in it, or it will break you.''|[[Florin Falconhand]] of the [[Knights of Myth Drannor]]<ref name="soe-p72">{{Cite book/Swords of Eveningstar/Hardcover 2006|72}}</ref>}}
+
+==Etymology==
+The word "Faerûn" was a modified version of "Faerie", the name of the homeland of ancient [[elves]]. The term was coined by [[Durothil (prince)|Durothil]], prince of [[Tintageer]], [[Faerie]].<ref name="e:ioe-p97">{{Cite book/Evermeet: Island of Elves/MMP|97}}</ref>
+
+==Geography==
+{{main|Portal:Geography}}
+The continent included terrain that was as varied as any other. Besides the exterior coastline to the west and south, the most dominant feature on the continent was the [[Sea of Fallen Stars]]. This was an irregular inland sea that kept the interior lands fertile, connected the west and east regions of Faerûn and served as a major trade route for many of the bordering nations.<ref name="TFRA-p1" /><ref name="FRCS-p142">{{Cite book/Forgotten Realms Campaign Setting|142}}</ref>
+
+Next in significance was the [[Shaar]], a broad region of grasslands in the south that,<ref name="FRCS-p196">{{Cite book/Forgotten Realms Campaign Setting|196}}</ref> together with the Lake of Steam, separated the area around the inland sea from the coastal nations at the southern edge of the continent. To the east, Faerûn was bordered by a vast region of steppes from [[Kara-Tur]],<ref name="FRCS-p230">{{Cite book/Forgotten Realms Campaign Setting|230}}</ref> and in the north were massive glaciers ([[Pelvuria]] and [[Reghed]]) and tundra.<ref name="TFRA-p1" /> South of the continent, separated by the [[Great Sea]], was the sub-tropical land of [[Zakhara]].<ref name="FRCS-p230"/>
+
+The continent included the following geographic regions.<ref group="note">The following division of Faerûn by compass directions was developed for organizational purposes on the Forgotten Realms Wiki, and is not closely reflected by descriptions in source text. In particular, terms like "the North" and "the South" in the sources can be much more wide-ranging in scope, and as ambiguous, than what is defined here.</ref>
+
+===Northwest===
+[[File:Northwest faerun 250.gif|thumb|right|200px|''Northwest Faerûn'']]
+{{main|Northwest Faerûn}}
+A region of wilderness, difficult winter weather, [[orc]] hordes, and barbarian tribes, this region was generally referred to as "The North", which also contained most of the "[[Sword Coast North]]". It was a mostly untamed region that lay between the large [[Anauroch]] desert in the east and the expansive [[Sea of Swords]] in the west, north of the [[High Moor]].<ref name="TFRA-p1" /><ref name="FRCS-p165">{{Cite book/Forg
+
+=== LINKED WIKI PAGE (first 5000 chars): Mirt
+
+{{Person
+| image          = Mirt-5e.jpg
+| caption        = 
+| name           = Mirt
+| true name      = 
+| alt_spelling   = 
+| titles         = 
+| aliases        = Mertonius<ref name="HoH-p86" /><br/>Tonius<ref name="HoH-p86" />
+| nicknames      = Mirt the Moneylender<ref name="FRCS3e-p181-182" /><br/>Mirt the Merchant<ref name="DtU">{{Cite game/Descent to Undermountain}}</ref><br/>Mirt the Merciless<ref name="FRCS3e-p181-182" /><br/>Old Wolf<ref name="FRCS3e-p181-182" /><br/>Lord Walrus<ref name="ED-p15" /><br/>Sir Beer-Belly (by [[Nymara Scheiron]])<ref name="ES-p15">{{Cite book/Elfsong (1994)|15|1}}</ref>
+| home           = [[Waterdeep]], [[Sword Coast North]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Human]]
+| ethnicity      = [[Tethyrian]]<ref name="CoS.W-p54-55" />
+| occupation     = Moneylender<br/>[[Masked Lord]]<br/>{{Former}} [[adventurer]], [[mercenary]]
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Dwarvish]]<ref name="WDH5e-p210-211">{{Cite book/Waterdeep: Dragon Heist|210-211}}</ref>
+| basicrefs      = <ref name="FRCS3e-p181-182" /><ref name="CoS.W-p54-55" />
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = 
+| spouses        = [[Asper]]
+| siblings       = 
+| children       = 
+| familyrefs     = <ref name="CoS.W-p54-55" /><ref name="WDH5e-p210-211" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = [[Chaotic good]]
+| class2e        = {{Class table|edition=2e|[[Fighter]]|9|[[Thief]]|7}}<br/>{{Class table|edition=2e|[[Fighter]]|11|[[Thief]]|7}}
+| refs2e         = <ref name="HoH-p86">{{Cite book/Hall of Heroes|p86}}</ref><ref name="CoS2e-WWW-p70">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|70}}</ref>
+| alignment3e    = [[Chaotic good]]
+| challenge3e    = 13
+| class3e        = {{class table|edition=3e|[[Rogue]]|5|[[Fighter]]|8}}
+| refs3e         = <ref name="FRCS3e-p181-182">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|181-182}}</ref><ref name="CoS.W-p54-55">{{Cite book/City of Splendors: Waterdeep|54-55}}</ref>
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Chaotic good]]
+| challenge5e    = 9
+| class5e        = 
+| refs5e         = <ref name="WDH5e-p210-211" />
+}}
+'''Mertonius''', better known as '''Mirt "the Moneylender"''' ({{Pronounce|MERT|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}} {{Pronounce|MEERT|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>|alt=yes}}), was a [[human]] [[rogue]] and retired [[adventurer]] and a [[mercenary]] general, when he was known as '''Mirt the Merciless''' or '''the Old Wolf'''<ref name="FRCS3e-p181-182" /> or '''Lord Walrus'''.<ref name="ED-p15">{{Cite book/Elminster's Daughter/MMP|15|1}}</ref> He became a member of the [[Harpers]] as well as a [[Lords of Waterdeep|Masked Lord]] of [[Waterdeep]], which was commonly known.<ref name="FRCS3e-p181-182" /> Mirt was also one of the most infamous [[factor]]s of Waterdeep.<ref name="EFR-p114">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|114}}</ref>
+
+==Description==
+As of the 1370s DR, he was old, fat, and wheezy.<ref name="FRCS3e-p181-182" />
+
+==Personality==
+Outwardly, Mirt appeared to be a loud and drunken braggart who enjoyed telling long-winded stories of his exploits, as well as roughhousing and tavern brawls. However, this was a façade concealing his cunning and good judge of character, as well as his surprising agility. These traits helped him grow much wealthier in his investments later in life than being an adventurer or mercenary ever had. He had a good heart and desired to make [[Faerûn]] a better place than he'd found it.<ref name="FRCS3e-p181-182"/>
+
+Mirt was sometimes seen wearing multiple artificial [[roses]] on his shoulder, signaling his interest to find several romantic partners to spend the night with.<ref name="CF-LCF">{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2004)/02-20 - Lingerie, Courtship and Foreplay}}</ref>
+
+==Relationships==
+He was one of the few trusted friends of [[Evermeet]] and had a ''[[portal]]'' that could give him access to the elven island when he so wished. He carried a ''[[Purple Dragon ring]]'', which allowed him to speak in King [[Azoun IV]]'s name.<ref>{{Cite book/Crown of Fire/Paperback 1994|230}}</ref>
+
+===Family===
+His wife and heir,<ref>{{Cite book/Spellfire}}</ref> [[Asper]], was an informal member of the [[Gray Hands]]. She preceded him in death.<ref name="CoS.W-p54-55" /><ref name="WDH5e-p210-211" />
+
+===Associates===
+Due to Mirt's extended age, his many business dealings, his associ
+
+=== LINKED WIKI PAGE (first 5000 chars): Laeral Silverhand
+
+{{DEFAULTSORT:Silverhand, Laeral}}
+{{Person
+| image          = <gallery>
+Laeral-5e.jpg|5e
+Laeral.jpg|3e
+HL-Laeral.png|2e
+</gallery>
+| caption2       = Laeral Silverhand Arunsun.
+| name           = Anamanué Laeral Silverhand
+| alt_spelling   = 
+| titles         = Open Lord of Waterdeep, Lady Mage of Waterdeep, Lady Blackstaff,<ref name="tSummoning">{{Cite book/The Summoning/Paperback 2001}}</ref><br />Witch-Queen of Stornanter,<ref name="GHotR-103">{{Cite book/The Grand History of the Realms|103}}</ref> Witch-Queen of the North<ref name="WDH5e-p207" />
+| aliases        = Gelda<ref name="LCRB">{{Cite organized play/LC/Dragon's Deep|15}}</ref>
+| nicknames      = Laer<ref name="TH-19">{{Cite book/The Herald/Hardcover|237|13}}</ref>
+| true name      = Myroune<ref name="Sisters-29">{{Cite book/The Seven Sisters|29}}</ref>
+| home           = [[Waterdeep]], [[Sword Coast North]]<ref name="DM">{{Cite book/Death Masks}}</ref>
+| formerhomes    = [[Rhymanthiin]], [[High Moor]]<ref name="BS">{{Cite book/Blackstaff/MMP}}</ref>
+| sex            = Female
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = [[Mystra]]
+| languages      = [[Common]], [[Draconic language|Draconic]], [[Elven language|Elvish]], [[Giant language|Giant]], [[Infernal language|Infernal]]<ref name="WDH5e-p207">{{Cite book/Waterdeep: Dragon Heist|207}}</ref>
+| reckoning      = 
+| dob            = 765
+| dobnotes       = <ref name="WDH5e-p207" />
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = {{class table|edition=1e|[[Magic-user]]|24}}
+| refs1e         = <ref name="CotR-20">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|20}}</ref>
+| alignment2e    = 
+| class2e        = {{class table|edition=2e|[[Ranger]]|9|[[Wizard]]|25}}
+| refs2e         = <ref name="7S-28">{{Cite book/The Seven Sisters|28}}</ref><ref name="CoS-CG-74">{{Cite book/City of Splendors (boxed set)/Campaign Guide|74}}</ref><ref name="FRCS2eR-RtR-37">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|37}}</ref>
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = [[Chaotic good]]
+| challenge35    = 34
+| class35        = {{class table|edition=3e|[[Sorcerer]]|4|[[Ranger]]|7|[[Wizard]]|19}}
+| refs35         = <ref name="CoSW3e-p25">{{Cite book/City of Splendors: Waterdeep|25}}</ref><ref name="FRCS3e-280">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|280}}</ref>
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Chaotic good]]
+| challenge5e    = 17
+| class5e        = {{Class table|edition=5e|[[Wizard]]|19}}
+| refs5e         = <ref name="WDH5e-p207" />
+}}
+'''Laeral Silverhand''' ({{Pronounce|LAIR|awl|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}), born '''Anamanué Silverhand''' and formerly known as the Witch-Queen of the North<ref name="WDH5e-p207" /> and later the Lady Mage of Waterdeep, was one of the [[Seven Sisters]], a [[Chosen of Mystra]],<ref name="FRCS3e-280" /> and the [[Open Lord]] of [[Waterdeep]] during the late 15{{th}} century [[DR]].<ref name="WDH5e-p207" /> Together with her partner [[Khelben "Blackstaff" Arunsun]], they led the [[Moonstars]], a dissident faction of the [[Harpers]], which sought to guide the cities and countries of the [[North]] toward a shared destiny.<ref name="FRCS3e-280" />
+
+==Personality==
+Laeral was incredibly organized—it was the only way she could manage to fit all of her activities into a single day. She was friendly and accommodating, leading almost everyone who met her, even the haughty nobles of Waterdeep, to consider her a true friend. She was also proactive in her defense of the city, to the extent that certain Waterdhavians would stage calamitous events so that she would keep tabs on persons of interest for them without their needing to ask for her help or involve themselves directly.<ref name="SS-p117-118">{{Cite book/The Seven Sisters|117-118}}</ref>
+
+Having been in thrall to the ''Crown of Horns'' and forced to commit heinous acts by it, she felt that she understood the nature of evil better than most<ref name="SS-p32">{{Cite book/The Seven Sisters|32}}</ref> and often mediated disputes with rogues, undesirables, and sentient monsters, especially in [[Skullport]] where she kept an alias identity in the form of [[Irusyl Eraneth]].<ref name="SS-p117-118" />
+
+Laeral was infuriated by magic-users who employed their power to deceive and exert baleful influence over others. She disliked [[doppelganger]]s and slave-owners.<ref name="SS-p31" />
+
+Laeral was especially conscious of having both magic and wea
+
+=== LINKED WIKI PAGE (first 5000 chars): High Sun Games
+
+{{Event
+| image       = High Sun Games banner 2.jpg
+| caption     = It says 'The High Sun Games' in the [[Thorass alphabet]], trust us.
+| name        = High Sun Games
+| partof      = 
+| othernames  = 
+| type        = Competition
+| deity       = 
+| location    = [[Neverwinter arena]], [[Neverwinter]]
+| date        = [[Eleasis]]<ref group="note">The date of the High Sun Games is actually unknown, but the summer month of Eleasis, a.k.a. Highsun, is assumed here based on the similarity and apparent weather. However, other interpretations are possible, such as a reference to the time, that is, midday; or to the sun god [[Amaunator]], whose holy symbol is reminiscent of the sun symbols used at the High Sun Games.</ref>
+| duration    = 
+| schedule    = Recurring
+| frequency   = 
+| basicrefs   = <ref name="HAT" />
+| observedby  = 
+| affected    = 
+| activities  = Adventuring contests
+| first       = 
+| cause       = 
+| responsible = 
+| subevents   = 
+| outcome     = 
+| histrefs    = <ref name="HAT" />
+}}
+The '''High Sun Games''' was a tournament for [[adventurer]]s that took place in [[Neverwinter]] in the 15{{th}} century [[DR]]. Criticized as brutal and bloody, they were ended by Lord [[Dagult Neverember]] but briefly revived by Lord [[Forge Fitzwilliam]].<ref name="HAT">{{Cite video/Honor Among Thieves}}</ref><ref name="TJN-c5">{{Cite book/Honor Among Thieves: The Junior Novelization|37-38|5}}</ref><ref name="TJN-c11">{{Cite book/Honor Among Thieves: The Junior Novelization|74-76|11}}</ref><ref name="TA&MO">{{Cite book/The Art and Making of Dungeons & Dragons: Honor Among Thieves}}</ref>
+
+==Location==
+The revived High Sun Games were held in the newly built [[Neverwinter arena]], which stood at the foot of [[Castle Never]] in the [[Blacklake District]].<ref name="HAT" />{{HAT-layout}}
+
+==Activities==
+[[File:Mimic Honor Among Thieves.png|thumb|left|350px|''So, not a treasure chest then.'']]
+Adventurers from across [[Faerûn]] entered the High Sun Games in hopes of winning both glory and a significant prize.<ref name="TA&MO" /> Wealthy folk of the [[Sword Coast]] bet big on them,<ref name="HAT" /><ref name="TJN-c5" /><ref name="TA&MO" /> specifically on how each contestant would meet their doom.<ref name="TA&MO" /> In the lead-up to the event, merchants outside sold drinks and food (including fruits from the city's gardens), goods and souvenirs such as [[jewelry]], [[water clock]]s, and glass [[lamp]]s, while performers including acrobats, jugglers, and fire-eaters entertained the crowds.<ref name="HAT" /><ref name="TJN-c5" /><ref name="TA&MO" /> For all that it was a blood-sport, it gave the often-beleaguered people of the city something and someone to cheer for.<ref name="TA&MO" />
+
+[[File:Magic-suppression cuff HaTbook.PNG|thumb|right|''A ''magic-suppression cuff'' makes the Games fairer for others, and less fair to those who have to wear one.'']]
+In Forge Fitzwilliam's revived games, there were five stages, known as "challenges", which were undertaken by up to five teams, with three competing in each stage. [[Magic]]-users could be fitted with lockable ''[[magic-suppression cuff]]s'' to block the use of any supernatural abilities. Those who survived each stage and made it to the "cage of sanctuary" would go on to the next stage. The movable pillars of the Neverwinter arena floor could be used to create a course for each stage, such as a maze, zones, and even a pyramid, and these pillars could have stationary [[gelatinous cube]]s built in.<ref group="note">A pyramid was originally planned for the arena battle in ''Honor Among Thieves'' before being changed to a maze, as explained and depicted in ''The Art and Making of''. It's presumed a pyramid is still possible.</ref> In each stage, contestants would face a variety of monsters and traps. For example, in a middle stage, they were hunted by a [[displacer beast]] through a maze that would periodically shrink as outer layers were removed, as marked by a mechanism that banged a gong. Contestants could find weapons in chests, but some of these chests were [[mimic]]s.<ref name="HAT" /><ref name="TA&MO" /> Other advertised monsters included a [[beholder]], a [[rust monster]], and a [[hook horror]].<ref name="TA&MO" />
+
+==History==
+===Early Games===
+The High Sun Games first started sometime in the 1400s DR.{{speculation}}<ref group="note">With nothing of the kind seen in earlier sources on Neverwinter, the Games are presumed to be a more recent invention, suiting the darker depiction of the city in 4{{th}} edition, rather than the positive portrayal in earlier editions. They likely began after the [[Spellplague]] of [[1385 DR]] or after the [[Mount Hotenow]] eruption in [[1451 DR]].</ref>
+
+However, Lord [[Dagult Neverember]] banned the High Sun Games as he considered them to be too brutal,<ref name="HAT" /><ref name="TJN-c5" /><ref name="TJN-c11" /> at some point after he came to power in [[1469 DR]].<ref>{{Cite book/Neverwinter Campaign Setting|90,138}}</ref><ref group
+
+=== LINKED WIKI PAGE (first 5000 chars): Neverwinter
+
+{{GA}}
+{{otheruses4|the city}}
+{{Location
+| image              = NeverwinterHarbor.jpg
+| caption            = A view of Neverwinter from the harbor.
+| name               = Neverwinter
+| alt spelling       = 
+| aliases            = Eigersstor<br/>City of Skilled Hands<br/>Jewel of the North
+| type               = Settlement
+| region             = [[Sword Coast North]], [[northwest Faerûn]]
+| size               = City (c. [[1491 DR]])<br/>{{Former}} Metropolis (before [[1451 DR]])<br/>{{Former}} Large city (c. [[1372 DR]])
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="FRCS1e-CotR-p66"/><ref name="WatN-p9"/><ref name="TSF-p31"/><ref name="FRCS2e-AGTotR-p114"/><ref name="FRCS3e-p176"/><ref name="RoF-p93">{{Cite book/Races of Faerûn|93}}</ref><ref name="NCS-p138"/><ref name="Nev-p146">{{Cite book/Neverwinter/Hardcover|146}}</ref>
+| demonym            = Neveren,<ref name="WotW" /> Neverwintan,<ref name="VGttN-p130" /><ref name="TheNorthCity-p14" /> Neverwintian (rare)<ref name="WotW">{{Cite polyhedron/74/The Everwinking Eye: Words To The Wise}}</ref>
+| population         = 
+| races              = [[Half-elves]], [[humans]], and a minority of [[dwarves]] (c. [[1372 DR]])<br/>Plus a minority of [[dragonborn]], [[eladrin]], [[tiefling]]s, [[orc]]s, and [[half-orc]]s (c. [[1479 DR]])
+| languages          = 
+| religion           = [[Asmodeus]], [[Bahamut]], [[Helm]], [[Kelemvor]], [[Oghma]], [[Selûne]], [[Torm]], [[Tyr]], [[Waukeen]]
+| alignment          = 
+| socrefs            = <ref name="FRCS2e-AGTotR-p114"/><ref name="FRCS3e-p176"/><ref name="NCS-p88">{{Cite book/Neverwinter Campaign Setting|88}}</ref><ref name="NCS-p98">{{Cite book/Neverwinter Campaign Setting|98}}</ref><ref name="NCS-p140">{{Cite book/Neverwinter Campaign Setting|140}}</ref><ref name="TheNorthCity-p14">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|14}}</ref><ref name="DR381-p92"/><ref name="DU193-p21"/><ref name="NVMMO"/>
+| imports            = Crafters, [[Mercenary|mercenaries]]
+| exports            = Crafts (especially water-clocks and exotic lamps), fish, horticulture, logging, [[magical]] innovations
+| currency           = {{currency table|1pp|1 [[fairsail]]|10 gold [[dragon (coin)|dragon]]s|20 electrum [[sea-shee]]|100 silver [[bult]]s|1000 copper [[tharn]]s}}
+| comrefs            = <ref name="FRCS1e-CotR-p66"/><ref name="WatN-p9"/><ref name="TSF-p31"/><ref name="FRCS2e-AGTotR-p114"/><ref name="FRCS3e-p176"/><ref name="NCS-p86"/><ref name="VGttN-p130"/><ref name="TheNorthCity-p14"/><ref name="TSF-p31"/><ref name="Ed">{{cite web|author=[[Ed Greenwood]]|title=Ed's Twitter|url=https://twitter.com/TheEdVerse/status/1168298350074040320|accessdate=2019-09-03}}</ref>
+| government         = [[Wikipedia:Lord|Lordship]] <br/>{{Former}} [[wikipedia:Royalty|Royalty]]<br/>{{Former}} Lordship
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = <ref name="WatN-p9"/><ref name="TSF-p31"/><ref name="FRCS3e-p176"/><ref name="NCS-p86"/><ref name="NCS-p138"/>
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 17,000
+| popyear1           = 1357
+<!--| population2        = 17,000
+| popyear2           = 1366-->
+| population2        = 23,192
+| popyear2           = 1372
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = Lord [[Nasher Alagondar]]
+| ruleryear1         = 1357 and 1372
+| ruler2             = King Nasher Alagondar
+| ruleryear2         = 1385
+| ruler3             = King [[Bann Alagondar]]
+| ruleryear3         = 1400
+| ruler4             = Lord Protector [[Dagult Neverember]]
+| ruleryear4         = 1491
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="WatN-p9"/><ref name="TSF-p31"/><ref name="FRCS2e-AGTotR-p114"/><ref name="FRCS3e-p176"/><ref name="NCS-p86">{{Cite book/Neverwinter Campaign Setting|86}}</ref><ref name="NCS-p138">{{Cite book/Neverwinter Campaign Setting|138}}</ref>
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = yes
+| roads              = yes
+| mountains          = 
+| bodies of water    = yes
+| forests            = 
+| events             = yes
+| food and drink     = yes
+| items     
+
+=== LINKED WIKI PAGE (first 5000 chars): Baldur's Gate
+
+{{otheruses4|the city on the Sword Coast|other uses|Baldur's Gate (disambiguation)}}
+{{GA}}
+{{Location
+| image              = Baldur's Gate overview BG3.png
+| caption            = Panorama of Baldur's Gate.
+| name               = Baldur's Gate
+| alt spelling       = 
+| aliases            = The Gate<ref name="Shadowmask-p113" /><br />Gray Harbor<ref name="MiBG.CG-p32" /><br />Loklee<ref name="TEV2022">{{Cite web/theedverse/2022-03-26 - Baldur's Gate History}}</ref><br />City of Blood<ref name="BG-DiA-p12">{{Cite book/Baldur's Gate: Descent into Avernus|12}}</ref><br />"Halfway to everywhere"<ref name="LC-ANE">{{Cite organized play/LC/A Necessary Evil|16}}</ref><ref name="AGTotR-p87" /><ref name="TFRA-p87" />
+| type               = 
+| region             = [[Sword Coast]], [[Western Heartlands]]
+| size               = Metropolis
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="FRCS3e-p225">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|225}}</ref><ref name="VoloSC-p8">{{Cite book/Volo's Guide to the Sword Coast|8}}</ref>
+| demonym            = Baldurian<ref name="FRA-p73" /><ref name="WotW" />
+| population         = 
+| races              = Mostly [[human]]
+| languages          = 
+| religion           = [[Gond]], [[Tymora]], [[Umberlee]], [[Helm]], [[Lathander]], [[Ilmater]], [[Dead Three|Cults of the Dead Three]]
+| alignment          = 
+| socrefs            = <ref name="FRA-p76" /><ref name="FRCG-p94" /><ref name="BG.DiA-p159" />
+| imports            = Stone
+| exports            = Dyes, fish, lamp oil, trade-coinage
+| currency           = 
+| comrefs            = <ref name="FRA-p76">{{Cite book/Forgotten Realms Adventures|76}}</ref><ref name="VoloN-p152" />
+| government         = Plutocracy
+| rulertype          = 
+| ruler              = [[Council of Four]]
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = [[Parliament of Peers]]
+| judiciary          = 
+| allegiances        = [[Lords' Alliance]]
+| govrefs            = <ref name="SCAG-p43" /><ref name="SCAG-p45" /><ref name="BG.DiA-p159" />
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 125,000
+| popyear1           = 1492
+| population2        = 120,000–140,000
+| popyear2           = 1479
+| population3        = 42,103
+| popyear3           = 1372
+| population4        = 86,000–115,000
+| popyear4           = 1358
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="FRA-p76" /><ref name="FRCS3e-p225" /><ref name="FRCG-p94" /><ref name="BG.DiA-p159">{{Cite book/Baldur's Gate: Descent into Avernus|159}}</ref>
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = yes
+| items              = yes
+}}
+'''Baldur's Gate''', called the '''City of Blood'''<ref name="BG-DiA-p12" /> and simply  '''the Gate''',<ref name="Shadowmask-p113">{{Cite book/The Shadowmask/Hardcover|113}}</ref> was one of the largest metropolises and city-states on the [[Sword Coast]], within the greater [[Western Heartlands]]. It was a crowded city of commerce and opportunity,<ref name="FRPG-p82">{{Cite book/Forgotten Realms Player's Guide|82}}</ref> and one of the most prosperous and influential merchant cities on the western coast of [[Faerûn]].<ref name="FRCS3e-p225">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|225}}</ref><ref name="FRCG-p94">{{Cite book/Forgotten Realms Campaign Guide|94}}</ref> Despite its long-standing presence as a neutral power, the leaders of Baldur's Gate were members of the [[Lords' Alliance]] of powers in [[West Faerûn|the west]].<ref name="FRA-p73">{{Cite book/Forgotten Realms Adventures|73}}</ref><ref name="SCAG-p43">{{Cite book/Sword Coast Adventurer's Guide|43}}</ref> It was described as being the '''"halfway to everywhere"'''.<ref name="LC-ANE" /><ref name="AGTotR-p87">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|87}}</ref><ref name="TFRA-p87">{{Cite book/The Forgotten Realms Atlas|87}}</ref><ref>{{Cite book/The Halfling's 
+

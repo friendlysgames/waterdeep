@@ -1,0 +1,1520 @@
+=== WIKI PAGE: Lords' Alliance
+
+{{Otheruses4|the coalition of political forces on the [[Sword Coast]]|other groups with a similar name|Council of Lords (disambiguation)}}
+{{Organization
+| image          = <gallery>
+Lords' Alliance 5e.png|c. 1480 DR
+Lords_Alliance.jpg|1370 DR
+</gallery>
+| caption2       = ''Various symbols of the Lords' Alliance.''
+| name           = Lords' Alliance
+| aliases        = Council of Lords
+| base           = 
+| leader         = {{Split table|Lord [[Piergeiron the Paladinson|Piergeiron of Waterdeep]]||As of [[1358 DR]]<ref name="SF-p9">{{Cite book/The Savage Frontier|9}}</ref>||Lord Protector [[Dagult Neverember]]||Around [[1467 DR]]<ref name="NCS-pp86-88">{{Cite book/Neverwinter Campaign Setting|86-88}}</ref>-[[1488 DR]]||Open Lord [[Laeral Silverhand]]||1488 DR-present}}
+| symbol         = 
+| favored weapon = 
+| basicrefs      = <ref name="FRCS3e-pp275-276" /><ref name="RoT-pp13-14" />
+| domains        =
+| formed         = [[1325 DR]]
+| disbanded      = 
+| members        = 
+| alignment      = [[Lawful good]]
+| races          = 
+| allegiances    = The [[Harpers]], the [[Emerald Enclave]], the [[Order of the Gauntlet]], the [[Zhentarim]] (as of 1488 DR)<ref name="RoT-pp13-14" />
+| enemies        = The Zhentarim (in the 14{{Th}} century), [[Luskan]], [[Shadow Thieves of Amn]],<ref name="SF-p9" /> [[Calimshan]]<ref name="SF-p9" /> the [[church of Bane]]<ref name="LoD-p119">{{Cite book/Lords of Darkness|119}}</ref>
+| relrefs        =
+| showmembers    = yes
+| orgname        = the Lords' Alliance
+}}
+The '''Lords' Alliance''', also known as the '''Council of Lords''', was a partnership of merchant cities founded in the early 14{{th}} century [[DR]].<ref name="LEoF-p141">{{Cite book/Lost Empires of Faerûn|141}}</ref><ref name="GHotR-p137">{{Cite book/The Grand History of the Realms|137}}</ref> Its members were from the [[Sword Coast]], [[the North]] and [[Western Heartlands]],<ref name="OOtA-p128">{{Cite book/Out of the Abyss|128}}</ref> including [[Waterdeep]], [[Silverymoon]], [[Baldur's Gate]], and [[Neverwinter]], as well as other free cities and towns in the region, which made up the bulk of the organization.<ref name="RoT-pp13-14" /> It was formed to oppose the growing influence of the [[Zhentarim|Black Network]] in the North, the [[Shadow Thieves of Amn]],<ref name="SF-p9" /><ref name="FRCS3e-pp275-276" /><ref name="CoV-p102">{{Cite book/Champions of Valor|102}}</ref> rampaging hordes of [[orc]]s, and [[Northlander]] raiders.<ref name="SCAG-p43">{{Cite book/Sword Coast Adventurer's Guide|43}}</ref>
+
+{{Quote|For a century and a half, and more, the Lords' Alliance has stood as the most important and influential group in the North. Its power has kept towns safe from the predations of larger powers, has kept the ambitions of Luskan in check, and has taught the rulers of many cities that it is better to cooperate, even for a time, then to merely shut one's doors and allow the storms to rage outside.|[[Andew Cururen]], a Lords' Alliance agent of note.<ref name="SCAG-p43" />}}
+
+==Organization==
+Depending on who was asked, the Lords' Alliance was considered either a strong coalition,<ref name="OOtA-p128" /> or unsteady pact of political powers. While the Alliance was said by some to be a collective of aggressive and self-serving figureheads,<ref name="PotA-p15-16">{{Cite book/Princes of the Apocalypse|15-16}}</ref><ref name="SKT-p12">{{Cite book/Storm King's Thunder|12}}</ref> others insisted they were among the most secure governing bodies in the west.<ref name="OOtA-p128" /> The truth, as it usually was, lay somewhere between the two extremes. While the members often held opposing views and held interests that conflicted with their peers, these rivalries were set aside when true danger emerged to threaten their collective safety and prosperity.<ref name="RoT-pp13-14">{{Cite book/The Rise of Tiamat|13-14}}</ref> The true strength of the alliance, it was said, manifested when its members banded together on collaborative endeavors.<ref name="OOtA-p128" /> 
+
+While some of these cities and city-states held more influence than others,<ref name="RoT-pp13-14" /> they aligned their goals for the greater good and prosperity of the whole alliance.<ref name="OOtA-p128" /> Collectively they believed in the preservation of civilization for the better of their people.<ref name="SCAG-p43" />
+
+The Lords' Alliance had the following ranks from lowest to highest: Cloak, Redknife, Stingblade, Warduke, and Lioncrown.<ref name="DMG-2014-p22">{{Cite book/Dungeon Master's Guide 5th edition|22}}</ref>
+
+The alliance's emblem was a golden crown set over a field of red.<ref name="KGV.P13">{{Cite book/Keys from the Golden Vault/Prisoner 13|?}}</ref>
+
+==Alliance Members and Leaders==
+These were the member states and their leaders as of [[1489 DR]].<ref name="SCAG-p7">{{Cite book/Sword Coast Adventurer's Guide|7}}</ref><ref name="SCAG-p15">{{Cite book/Sword Coast Adventurer's Guide|15}}</ref>
+
+* [[Amphail]]: Lord [[Dauner Ilzimmer]]
+* [[Baldur's Gate]]: Grand Duke of Baldur's Gate and Marshal of the [[Flaming Fists]] [[Ulder Ravengard]]
+* [[Daggerford]]: Duchess [[Morwen Daggerford]]
+* [[Longsaddle]]: [[Dowell Harpell]]
+* [[Mithral Hall]]: Queen [[Dagnabbet|Dagnabbet Waybeard]]
+* [[Mirabar]]: [[Marchion]] [[Selin Ramur]]
+* [[Neverwinter]]: Lord Protector [[Dagult Neverember]]
+* [[Silverymoon]]: High Mage [[Taern Hornblade]]
+* [[Waterdeep]]: Open Lord [[Laeral Silverhand]] (she was also the leader of the Alliance)<ref name="RoT-pp13-14" />
+* [[Yartar]]: Waterbaron [[Nestra Ruthiol]]
+
+==Activities==
+Member-states of the Lords' Alliance served to better the collective regions of the North and the Western Heartlands as a whole. They achieved this through well-wrought mercantile treaties and official pledges to ensure their collective safety,<ref name="CoV-p74">{{Cite book/Champions of Valor|74}}</ref> especially along prominent trade routes.<ref name="PotA-p15-16" /><ref name="EFR-p68">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|68}}</ref> The collective group bargained with foreign trading partners and even regulated preferred relations and treatment of certain groups long-feared by many people of the Coast and the North, such as [[goblinoid]]s and [[orc]] tribes.<ref name="FRCS3e-pp275-276" /> 
+
+The alliance often took charge whenever it was necessary to take military action in campaigns that arose across the North or the Heartlands.<ref name="RoT-pp13-14" />
+
+The Lords Alliance also maintained the prison of [[Revel's End]], an isolated panopticon in the [[Frozenfar]] that housed some of most heinous criminals from across the North and Sword Coast.<ref name="RotF-p154">{{Cite book/Icewind Dale: Rime of the Frostmaiden|154}}</ref>
+
+==Tactics==
+The alliance usually hired [[adventurer]]s to work for them in the past for tasks ranging from gathering simple information, or even for use in raids against Zhentarim strongholds and outposts. Local adventurers could quickly gain status, as well as powerful friends by helping the alliance, but can just as easily make enemies of the sinister Zhentarim as a result.<ref name="SF-p9" /><ref name="FRCS3e-pp275-276" /> 
+
+==Relationships==
+[[File:Lords' Alliance signet ring.png|thumb|right|200px|''A 15{{th}} century DR Lords' Alliance signet [[ring]].'']]
+Among the orders with which the Lords' Alliance maintained a pledge of mutual assistance in times of need were a group of spellcasters known as the [[Guardians of the Weave]].<ref name="CoV-p84">{{Cite book/Champions of Valor|84}}</ref>
+
+The [[Order of Tye]] was the prestigious knightly organization that served as guards for ranking Lords' Alliance members during their travels outside the walls of the allied cities and accompanied them on dangerous mission. [[Lord Peneshay]] led the organization ''circa'' [[1372 DR]].<ref name="NWN-DoD">{{Cite game/Neverwinter Nights: Darkness over Daggerford}}</ref>
+
+While they did not view the [[Red Wizards]] of [[Thay]] as enemies, the Lords' Alliance treated the Thayan spellcasting society with much mistrust.<ref name="LoD-p60">{{Cite book/Lords of Darkness|60}}</ref>
+
+==History==
+===14{{th}} Century===
+The Lords' Alliance was formed in the {{YearlinkName|1325}}, when a collective of towns and cities across the [[Sword Coast North]] banded together to oppose overreach from the powerful merchant houses of Amn.<ref name="GHotR-p137">{{Cite book/The Grand History of the Realms|137}}</ref> Interest in joining the alliance was strongest in the North at first, but gradually spread south over the course of the following years.<ref name="SCAG-p43" />
+
+Just over three decades later, in the {{YearlinkName|1358}}, the Lords' Alliance of Waterdeep expels [[Luskan]] troops from [[Ruathym]] by using both military and diplomatic pressures.<ref name="LEoF-p142">{{Cite book/Lost Empires of Faerûn|142}}</ref><ref name="GHotR-p142">{{Cite book/The Grand History of the Realms|142}}</ref> They were forced into outright military conflict just [[1361 DR|three years later]], when Luskan finally conquered the island off the coast.<ref name="GHotR-p146">{{Cite book/The Grand History of the Realms|146}}</ref><ref name="LoD-p109">{{Cite book/Lords of Darkness|109}}</ref>
+
+The Lords' Alliance committed their forces to combat the forces of evil during the [[Second Dragonspear War]] in the {{YearlinkName|1363}}.<ref name="PoF-p27">{{Cite book/Power of Faerûn|27}}</ref> Following the war, the Lords' Alliance redoubled their efforts to make safe the [[Trade Way]], and ensure commerce along the coast went unimpeded.<ref name="VGSC-p65">{{Cite book/Volo's Guide to the Sword Coast|65}}</ref>
+
+When a number of Waterdhavian vessels were sunk during their voyages from the Sword Coast to [[Maztica]], in the {{YearlinkName|1368}}, the Lords' Alliance worked diligently to collect evidence against the suspected culprits: the nation of Amn.<ref name="GHotR-p149">{{Cite book/The Grand History of the Realms|149}}</ref>
+
+After the [[Sharn Wall]] beneath [[Evereska]] was breached in [[Nightal]] of the {{YearlinkName|1371}}, the Last Home of the elves was rapidly overrun. An army of the Lords' Alliance led by [[Laeral Silverhand]] marched to the city in relief. Unfortunately, they did not arrive at Evereska for some months.<ref name="GHotR-p151">{{Cite book/The Grand History of the Realms|151}}</ref>
+
+===15{{th}} Century===
+When the [[Cult of the Dragon]] plotted to release [[Tiamat]] in the 1480s DR,{{ToD-time}} the Alliance was one of the many factions who rose up to oppose the [[dragon]] goddess's attempt at freedom.<ref name="Factions">{{Cite web | author= [[Wizards of the Coast]]  | title=Heroes Isteval | publisher=[[Wizards of the Coast]] | date=2014 | work=What is D&D? |  url=http://dnd.wizards.com/dungeons-and-dragons/story/factions | accessdate=2014-12-09 }}</ref> During the crisis, the Lords' Alliance dispatched seven of its members to the [[Council of Waterdeep]].<ref name="RoT-pp13-14">{{Cite book/The Rise of Tiamat|13-14}}</ref>
+
+Around that same time, members of the Alliance took note of strange goings-on in the regions of the [[Underdark]] beneath the North and the Sword Coast. Many places of note within ceased communication with each other and the surface world. The little information that did come out, revolved around cults of [[demon]]-worshipers.<ref name="OOtA-p128" />
+
+When the [[Ordning (social structure)|ordning]] of the [[giant]]-kind of Faerûn collapsed, rumors circulated that the Lords' Alliance was responsible for the disappearance of [[Hekaton]], king of the [[storm giant]]s.<ref name="SKT-p12" />
+
+Following the collapse of the [[Luruar|Silver Marches]], in the {{YearlinkName|1488}},<ref name="SCAG-p18">{{Cite book/Sword Coast Adventurer's Guide|18}}</ref> the Lords' Alliance focused inwards and began restricting new members from beyond the borders of the North.<ref name="SCAG-p43" />
+
+Some time during or around the {{YearlinkName|1491}}, Lords' Alliance agents operating in the [[Moonsea]] region began looking into unusual activities in and around [[Mulmaster]].<ref name="EE-p15">{{Cite adventurers league/Embers of Elmwood|15}}</ref> Their involvement in city business led production talks with members of the city's [[Blades (Mulmaster)|Blades]],<ref name="BYR-p7">{{Cite adventurers league/Breath of the Yellow Rose|7}}</ref> and the [[Hawks]],<ref name="OFI-p6">{{Cite adventurers league/Oubliette of Fort Iron|6}}</ref> which they hoped to leverage into the admittance of Mulmaster into the alliance, or at least adherence to its tenets.<ref name="SS-p6">{{Cite adventurers league/The Sword of Selfaril|6}}</ref> When the [[Cult of the Eternal Flame]] set off explosions in the city, agents of the Lords' Alliance sprang into action to help restore order.<ref name="MU-pp8-11">{{Cite adventurers league/Mulmaster Undone|8-11}}</ref>
+
+==Members==
+[[File:Lords' Alliance agent.png|thumb|right|300px|''An agent of the Lords' Alliance.'']]
+Admittance into the Lords' Alliance was permissible in certain cities, depending on citizenship and personal history. It was, for example, possible to join the Alliance as a Waterdhavian citizen with a criminal history, so long as one could prove their loyalty to the city.<ref name="W.DH-p16">{{Cite book/Waterdeep: Dragon Heist|16}}</ref>
+
+===Member States===
+The following cities and towns were part of the Lords' Alliance: [[Amphail (village)|Amphail]],<ref name="SCAG-p43" /><ref name="SKT-p73">{{Cite book/Storm King's Thunder|173}}</ref> [[Baldur's Gate]],<ref name="SF-p9" /><ref name="VGttN-p144">{{Cite book/Volo's Guide to the North|144}}</ref><ref name="SCAG-p45">{{Cite book/Sword Coast Adventurer's Guide|45}}</ref> [[Berdusk]],<ref name="SF-p9" /><ref name="FRCS3e-pp275-276" /> [[Daggerford]],<ref name="SKT-p80">{{Cite book/Storm King's Thunder|80}}</ref><ref name="TotSF-AJ-p3">{{Cite game/Treasures of the Savage Frontier/Adventurer's Journal|3}}</ref> [[Elturel]],<ref name="SF-p9" /><ref name="VGttN-p144" /> [[Everlund]] (for a time),<ref name="SKT-pp81,83">{{Cite book/Storm King's Thunder|81,83}}</ref> [[Goldenfields]], (unofficially as of about [[1370 DR]]),<ref name="VGttN-p44">{{Cite book/Volo's Guide to the North|44}}</ref> [[Gundarlun Island]],<ref name="TN">{{Cite book/The North: Guide to the Savage Frontier}}</ref> [[Iriaebor]],<ref name="SF-p9" /> [[Leilon]],<ref name="TotSF-AJ-p3" /><ref name="Volo108" /> [[Longsaddle]],<ref name="Volo108">{{Cite book/Volo's Guide to the North|108}}</ref><ref name="SKT-p97">{{Cite book/Storm King's Thunder|97}}</ref><ref name="SCAG-p48">{{Cite book/Sword Coast Adventurer's Guide|48}}</ref><ref name="TotSF-AJ-p3" /> [[Loudwater]],<ref name="TotSF-AJ-p3" /> [[Mirabar]],<ref name="SF-p9" /><ref name="TotSF-AJ-p3" /><ref name="VGttN-p153">{{Cite book/Volo's Guide to the North|153}}</ref><ref name="SKT-p98">{{Cite book/Storm King's Thunder|98}}</ref><ref name="SCAG-p50">{{Cite book/Sword Coast Adventurer's Guide|50}}</ref> [[Mithral Hall]],<ref name="SKT-p99">{{Cite book/Storm King's Thunder|99}}</ref> [[Neverwinter]],<ref name="SF-p9" /><ref name="FRCS3e-pp275-276" /><ref name="TotSF-AJ-p3" /><ref name="SKT-p101">{{Cite book/Storm King's Thunder|101}}</ref> [[Orlumbor]],<ref name="TotSF-AJ-p3" /> [[Port Llast]],<ref name="TotSF-AJ-p3" /> [[Secomber]],<ref name="TotSF-AJ-p3" /> [[Silver Marches]],<ref name="FRCS3e-pp275-276" /> [[Silverymoon]],<ref name="SF-p9" /><ref name="SKT-p108">{{Cite book/Storm King's Thunder|108}}</ref><ref name="SCAG-p54">{{Cite book/Sword Coast Adventurer's Guide|54}}</ref> [[Sundabar]],<ref name="SF-p9" /><ref name="SKT-p110">{{Cite book/Storm King's Thunder|110}}</ref> [[Triboar]],<ref name="TotSF-AJ-p3" /> [[Waterdeep]],<ref name="SF-p9" /><ref name="FRCS3e-pp275-276">{{Cite book/FRCS|275-276}}</ref><ref name="TotSF-AJ-p3" /> and [[Yartar]].<ref name="TotSF-AJ-p3" /><ref name="PotA-p39">{{Cite book/Princes of the Apocalypse|39}}</ref><ref name="SKT-p115">{{Cite book/Storm King's Thunder|115}}</ref><ref name="SCAG-p58">{{Cite book/Sword Coast Adventurer's Guide|58}}</ref>
+
+===Individuals===
+All manner of goodly folks joined the Lords' Alliance as agents and representatives. They came from all walks of life, and included erudite [[bard]]s, battle-hardened warriors, powerful spellcasters, and even righteous holy [[paladin]]s.<ref name="FRCS3e-pp275-276" /><ref name="RoT-pp13-14" />
+
+===Notable Members===
+* Queen [[Dagnabbet Waybeard]], ruler of [[Mithral Hall]].<ref name="SKT-p12" />
+* Lord [[Eravien Haund]], a [[half-elven]] lord of [[Tethyr]]ian heritage who hailed from the great metropolis of Waterdeep.<ref name="OOtA-p128" />
+* [[Flip Franklines]], an agent who infiltrated the traveling [[Wandering Emporium]] of [[Avernus]] in the [[Nine Hells]].<ref name="II-p2">{{Cite adventurers league/Infernal Insurgency|2}}</ref>
+* Lady [[Laeral Silverhand]], Open Lord of Waterdeep.<ref name="RoT-pp13-14" /><ref name="SKT-p12" />
+* King [[Melandrach]], elven monarch of the [[Misty Forest]] and [[High Forest]].<ref name="RoT-p15">{{Cite book/The Rise of Tiamat|15}}</ref>
+* [[Naxene Drathkala]], agent of the Lords' Alliance and personal spy for Lady Silverhand.<ref name="SKT-p47">{{Cite book/Storm King's Thunder|47}}</ref>
+* [[Sildar Hallwinter]], a former adventurer and retired member of the Waterdhavian [[Griffon Cavalry]].<ref name="AcqInc-p106">{{Cite book/Acquisitions Incorporated|106}}</ref>
+* [[Taern Hornblade]], High Mage of [[Silverymoon]].<ref name="RoT-p15" /><ref name="SKT-p12" />
+* [[Klevin Van'Sheran]], merchant and operative for the Alliance in [[Port Nyanzaru]].<ref name="DDAL01-p3">{{Cite adventurers league/A City on the Edge|3}}</ref>
+* [[Vuhm Yestral]], Guard Commandant of the [[Red Plumes]] in [[Hillsfar]].<ref name="DW-p13">{{Cite adventurers league/Death on the Wall|13}}</ref>
+* [[Zora Rosealine Culkin]], the Lords' Alliance agent who operated in [[Mulmaster]] as of the late 15{{th}} century DR.<ref name="EE-p6">{{Cite adventurers league/Embers of Elmwood|6}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+
+===Appearances===
+:;Adventures
+::''[[The Rise of Tiamat]]'' • ''[[Princes of the Apocalypse]]'' • ''[[Out of the Abyss]]'' • ''[[Storm King's Thunder]]'' • ''[[Tomb of Annihilation]]'' • ''[[Waterdeep: Dragon Heist]]'' • ''[[Waterdeep: Dungeon of the Mad Mage]]'' • ''[[Icewind Dale: Rime of the Frostmaiden]]'' • [[Keys from the Golden Vault]]: ''[[Keys from the Golden Vault/Prisoner 13|Prisoner 13]]'' • ''[[Hold Back the Dead]]''
+::{{refonly}}
+::<small>''[[Dead in Thay]]'' • ''[[Baldur's Gate: Descent into Avernus]]''</small>
+:;Novels
+::''[[Tangled Webs]]'' • [[Realms of the Deep]]: ''[[Realms of the Deep/Lost Cause|Lost Cause]]'' • ''[[The Siege]]''
+:;Video Games
+::''[[Neverwinter Nights 2: Storm of Zehir]]'' • ''[[Neverwinter Nights: Darkness over Daggerford]]''
+:;Board Games
+::''[[Dungeons & Dragons Dice Masters: The Zhentarim]]'' • ''[[Dungeons & Dragons Dice Masters: Adventures in Waterdeep]]''
+:;Organized Play & Licensed Adventures
+::[[Adventurers League/Tyranny of Dragons|Tyranny of Dragons]] <small>(''[[Outlaws of the Iron Route]]'' • ''[[Tyranny in Phlan]]'' • ''[[Raiders of the Twilight Marsh]]'' • ''[[The Scroll Thief]]'' • ''[[Corruption in Kryptgarden]]'')</small> • [[Adventurers League/Rage of Demons|Rage of Demons]] <small>(''[[Bane of the Tradeways]]'' • ''[[The Waydown]]'' • ''[[Death on the Wall]]'' • ''[[Assault on Maerimydra]]'')</small> • [[Adventurers League/Elemental Evil|Elemental Evil]] <small>(''[[City of Danger]]'' • ''[[Embers of Elmwood]]'' • ''[[Mayhem in the Earthspur Mines]]'' • ''[[Oubliette of Fort Iron]]'' • ''[[The Sword of Selfaril]]'' • ''[[Black Heart of Vengeance]]'' • ''[[Mulmaster Undone]]'')</small> • [[Adventurers League/Storm King's Thunder|Storm King's Thunder]] <small>(''[[The Black Road]]'' • ''[[Durlag's Tower (adventure)|Durlag's Tower]]'' • ''[[Durlag's Tomb]]'' • ''[[Parnast Under Siege]]'' • ''[[Hartkiller's Horn]]'')</small> • [[Adventurers League/Tomb of Annihilation|Tomb of Annihilation]] <small>(''[[Over the Edge]]'' • ''[[Whispers in the Dark]]'' • ''[[Fire, Ash, and Ruin]]'' • ''[[In Search of Secrets]]'' • ''[[Cauldron of Sapphire]]'')</small> • [[Adventurers League/Waterdeep|Waterdeep]] <small>(''[[Once in Waterdeep]]'' • ''[[Chaos in the City of Splendors]]'')</small>
+::{{Refonly}}
+::<small>''[[Shadows over the Moonsea]]'' • ''[[Pool of Radiance Resurgent]]'' • ''[[The Drowned Tower]]'' • ''[[Bounty in the Bog]]'' • ''[[Eye of the Tempest]]'' • ''[[The Howling Void]]'' • ''[[Boltsmelter's Book]]'' • ''[[The Occupation of Szith Morcane]]'' • ''[[Quelling the Horde]]'' • ''[[A Dish Best Served Cold]]'' • ''[[Giant Diplomacy]]'' • ''[[Forgotten Traditions]]'' • ''[[A City on the Edge]]'' • ''[[Fester and Burn]]'' • ''[[Putting the Dead to Rest]]'' • ''[[Turn Back the Endless Night]]'' • ''[[Reclamation of Phlan]]'' • ''[[Stopped at the Gate]]'' • ''[[Infernal Insurgency]]'' • ''[[Burying the Past]]'' • ''[[Vile Bounty]]'' • ''[[Unsafe Harborage]]'' • ''[[Night Thieves]]''</small>
+
+===Further Reading===
+* {{Cite dragon+/1/Player Factions: Our Heroes?}}
+
+===References===
+{{Refs|2}}
+
+===Connections===
+{{Factions}}
+[[es:La Alianza de Los Señores de Aguaprofunda]]
+[[fr:Alliance des Seigneurs]]
+[[pt-br:Aliança dos Lordes]]
+[[Category:Councils]]
+[[Category:Political organizations]]
+[[Category:Organizations in the Western Heartlands]]
+[[Category:Organizations in West Faerûn]]
+[[Category:Organizations in Northwest Faerûn]]
+[[Category:Organizations in Faerûn]]
+[[Category:Organizations on Toril]]
+[[Category:Organizations]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Piergeiron Paladinson
+
+{{Person
+| image          = LordPiergeiron.jpg
+| caption        = 
+| name           = Piergeiron Paladinson
+| true name      = 
+| alt_spelling   = 
+| titles         = Commander of the watch<br />Warden of the guard<br />Overmaster of the guilds
+| aliases        = Piergeiron the Paladinson
+| nicknames      = The Golden<br />The Thickskull
+| home           = [[Piergeiron's Palace]], [[Waterdeep]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Human]]
+| ethnicity      = [[Tethyrian]]
+| occupation     = Ruler
+| age            = 
+| patron deity   = [[Tyr]]
+| languages      = [[Common]]
+| basicrefs      = <ref name="HoH-p92" /><ref name="CoS.W-p53" /><ref name="DDT2-TP" /><ref name="FRCS2e.RTR-p40"/>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 1379
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = [[Athar]]
+| spouses        = [[Shaleen]], [[Maethiira]]
+| siblings       = 
+| children       = [[Aleena Paladinstar]]
+| familyrefs     = <ref name="CoS.W-p24" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = [[Lawful good]]
+| class1e        = {{Class table|edition=1e|[[Paladin]]|14}}
+| refs1e         = <ref name="FRCS1e-DM-p29">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|29}}</ref>
+| alignment2e    = [[Lawful good]]
+| class2e        = {{class table|edition=2e|[[Paladin]]|14}}
+| refs2e         = <ref name="FRCS2e.RTR-p40">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|40}}</ref>
+| alignment3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = [[Lawful good]]
+| class35        = {{class table|edition=3e|[[Paladin]]|17}}
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Piergeiron Paladinson''' ({{Pronounce|peer|GEER|on|refs=<ref name="FRCS1e-DM-p29" />}}) was the [[Lords of Waterdeep|Open Lord of Waterdeep]] throughout most of the 1300s [[DR]] and leader of the [[Lords' Alliance]].<ref name="SF-p9">{{Cite book/The Savage Frontier|9}}</ref> He lived in [[Piergeiron's Palace]] in [[Waterdeep]].<ref name="CoS.W-p53">{{Cite book/City of Splendors: Waterdeep|53}}</ref> 
+
+Usually, the identities of the Lords of Waterdeep were concealed from the people, but Piergeiron was one of only four whose identities were known as of his tenure. He followed in the footsteps of his predecessors, Open Lords [[Ahghairon]], [[Baeron]], and [[Lhestyn]].<ref name="CoS.CG-p67">{{Cite book/City of Splendors (boxed set)/Campaign Guide|67}}</ref>
+
+==Description==
+Piergeiron was a tall, muscular, and strikingly handsome man with a firm jaw, and dark eyes.<ref name="CoS.W-p53" /><ref name="HoH-p92">{{Cite book/Hall of Heroes|92}}</ref> His hair was curly slightly greying at the temples, adding to the man's regal aura.<ref name="HoH-p92" />
+
+==Personality==
+Piergeiron did not speak very often, understanding the tact of silence, and when he did, he spoke very slowly weighing his every word. This led to some of those around him nicknaming him "the Thickskull," although never in his presence.<ref name="CoS.W-p53" />
+
+He was aware of the nickname, sometimes even laughing about it. Piergeiron used this misconception of his mental capabilities to his advantage. Having his political enemies underestimate him led to often made slip-ups in the negotiations, giving the Open Lord an upper hand.<ref name="HoH-p93">{{Cite book/Hall of Heroes|93}}</ref>
+
+Piergeiron did not fear battle, he was quite capable of defending himself thanks to years of service prior to his life as a ruler. He preferred diplomacy to battle, but when he was pressed into a physical confrontation he fought with the knowledge he was blessed by his god.<ref name="HoH-p92" />
+
+==Activities==
+[[File:LordsOfWaterdeep.png|thumb|right|250px|Piergeiron the Open Lord of [[Waterdeep]].]]
+
+Every year on [[Ahghairon's Day]], Lord Piergeiron continued the tradition of stopping by a number of inns, taverns, and other establishments in order to offer his good will and best wishes to the Waterdhavian people.<ref name="CoS.W-p15">{{Cite book/City of Splendors: Waterdeep|15}}</ref>
+
+==Relationships==
+Piergerion's father [[Athar]], "the Shining Knight", was famed for slaying the great [[Red dragon|red wyrm]] [[Kistarianth|Kistarianth the Red]].<ref name="CoS.W-p53" /> 
+
+Piergeiron's first wife, [[Shaleen]], to whom he was married in his youth, died.  Piergeiron's second marriage was to [[Maethiira]], but she died as well in the {{YearlinkName|1344}}, leaving him with one daughter, [[Aleena Paladinstar]], who left Waterdeep to explore the [[Cosmology|planes]].<ref name="CoS.W-p53" /><ref name="CoS.W-p24">{{Cite book/City of Splendors: Waterdeep|24}}</ref> 
+
+Due to his position of power in Waterdeep, being above the guild law, he 
+
+=== LINKED WIKI PAGE (first 5000 chars): Dagult Neverember
+
+{{DEFAULTSORT:Neverember, Dagult}}
+{{Person
+| image          = Dagult Neverember.jpg
+| caption        = Dagult Neverember circa 1490 DR.
+| name           = Dagult Neverember
+| alt_spelling   = 
+| titles         = Lord Protector of [[Neverwinter]]<br />{{Former}}<small> Open Lord of [[Waterdeep]]</small>
+| aliases        = 
+| nicknames      = "Dagger" Neverember<br />Lord Pretender<br />The Protector
+| true name      = 
+| home           = [[Neverwinter]], [[Sword Coast North]]
+| formerhomes    = [[Waterdeep]]
+| sex            = Male
+| gender         = 
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Dwarvish]], [[Elvish]]
+| basicrefs      = <ref name="SCAG-p51"/><ref name="NCS-p88" /><ref name="NCS-p140" /><ref name="RT-p14-15"/><ref name="AM-ch7" />
+| reckoning      = DR
+| dob            = 1429
+| dobnotes       = 
+| death          = 
+| deathnotes     = 
+| turned         = 
+| turnednotes    = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = <ref name="LCoN-p22" />
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = [[Renaer Neverember]]
+| familyrefs     = <ref name="W:DH-p215" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = Lord of Neverwinter:<br />[[Forge Fitzwilliam]] (temporary)<ref name="HAT-TJN-c5" /><br/><br/>Open Lord:<br />[[Laeral Silverhand]]
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = [[Unaligned]]
+| class4e        = {{class table|edition=4e|Soldier|7|}}
+| refs4e         = <ref name="NCS-p88"/>
+| alignment5e    = [[Lawful neutral]]
+| challenge5e    = 
+| class5e        = [[Fighter]]
+| refs5e         = <ref name="RT-p14-15"/>
+}}
+'''Dagult Neverember''' was the wealthy Lord Protector of [[Neverwinter]] during the late 15{{th}} century and turn of the 16{{th}} century [[DR]], as well as the former [[Open Lord]] of [[Waterdeep]].<ref name="SCAG-p51">{{Cite book/Sword Coast Adventurer's Guide|51-52}}</ref><ref name="NCS-p86">{{Cite book/Neverwinter Campaign Setting|86}}</ref><ref name="HoF-p73">{{Cite book/Forgotten Realms: Heroes of Faerûn|73}}</ref> He was a member of the [[Lords' Alliance]]<ref name="SCAG-p7">{{Cite book/Sword Coast Adventurer's Guide|7}}</ref> and one of the most powerful and well-respected men on the entire [[Sword Coast]].<ref name="Bl-ch12">{{Cite book/Boundless||12}}</ref>
+
+==Description==
+Neverember was tall, broad-shouldered,<ref name="RT-p14-15">{{Cite book/The Rise of Tiamat|14-15}}</ref> and strikingly good-looking,<ref name="W:DH-p215">{{Cite book/Waterdeep: Dragon Heist|215}}</ref> with angular features,<ref name="T-ch8">{{Cite book/Timeless||8}}</ref> a mane of silver-flecked "pumpkin-brown" hair, and deep-set but shining dark eyes.<ref name="LCoN-p22">{{Cite book/Lost Crown of Neverwinter|22}}</ref><ref name="BST-p218">{{Cite book/Blackstaff Tower|218}}</ref> He was often called a "lion of a man" for both his appearance and bearing,<ref name="BST-p218" /> and was said to have the look of a strong ruler.<ref name="FRCG-p198">{{Cite book/Forgotten Realms Campaign Guide|198}}</ref><ref name="RT-p14-15">{{Cite book/The Rise of Tiamat|14-15}}</ref>
+
+By the end of his tenure as Open Lord, Neverember sported a short but thick beard<ref name="RT-p14-15"/><ref name="DDEK:DC">{{Cite book/Dungeons & Dragons Essentials Kit/Divine Contention}}</ref> that had gone grey.<ref name="DDEK:DC" /><ref name="AM-ch7">{{Cite book/Archmage/MMP (2016)||7}}</ref>
+
+==Personality==
+A consummate politician, Neverember was a capable and inspiring leader<ref name="SCAG-p51" /><ref name="LCoN-p22" /> who was known to be both brave and stately in the face of opposition.<ref name="BST-ch18">{{Cite book/Blackstaff Tower||18}}</ref> He outwardly embodied the ideals of moderation, honesty, and responsibility. He always acted decisively and firmly, with a clear-eyed view of the costs and sacrifices that his decisions entailed,<ref name="RT-p14-15">{{Cite book/The Rise of Tiamat|14-15}}</ref> although his cunning and brutal pragmatism had earned him the nickname "Dagger" Neverember.<ref name="SCAG-p66">{{Cite book/Sword Coast Adventurer's Guide|66}}</ref> He was also ambitious, proud, manipulative, and considered himself to be superior to everyone else&mdash;which made him overconfident<ref name="LCoN-p22" />&mdash;and his quick temper was known to interfere with his judgment,<ref name="W:DH-p215" /><ref name="BST-p221">{{Cite book/Blackstaff Tower|221}}</ref> making him boisterous and dangerous.<ref name="NCS-p10">{{Cite book/Neverwinter Campaign Setting|10}}</ref> However, his charisma,<ref name="LCoN-p22" /> affability,<ref name="NCS-p88">{{Cite book/N
+
+=== LINKED WIKI PAGE (first 5000 chars): Laeral Silverhand
+
+{{DEFAULTSORT:Silverhand, Laeral}}
+{{Person
+| image          = <gallery>
+Laeral-5e.jpg|5e
+Laeral.jpg|3e
+HL-Laeral.png|2e
+</gallery>
+| caption2       = Laeral Silverhand Arunsun.
+| name           = Anamanué Laeral Silverhand
+| alt_spelling   = 
+| titles         = Open Lord of Waterdeep, Lady Mage of Waterdeep, Lady Blackstaff,<ref name="tSummoning">{{Cite book/The Summoning/Paperback 2001}}</ref><br />Witch-Queen of Stornanter,<ref name="GHotR-103">{{Cite book/The Grand History of the Realms|103}}</ref> Witch-Queen of the North<ref name="WDH5e-p207" />
+| aliases        = Gelda<ref name="LCRB">{{Cite organized play/LC/Dragon's Deep|15}}</ref>
+| nicknames      = Laer<ref name="TH-19">{{Cite book/The Herald/Hardcover|237|13}}</ref>
+| true name      = Myroune<ref name="Sisters-29">{{Cite book/The Seven Sisters|29}}</ref>
+| home           = [[Waterdeep]], [[Sword Coast North]]<ref name="DM">{{Cite book/Death Masks}}</ref>
+| formerhomes    = [[Rhymanthiin]], [[High Moor]]<ref name="BS">{{Cite book/Blackstaff/MMP}}</ref>
+| sex            = Female
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = [[Mystra]]
+| languages      = [[Common]], [[Draconic language|Draconic]], [[Elven language|Elvish]], [[Giant language|Giant]], [[Infernal language|Infernal]]<ref name="WDH5e-p207">{{Cite book/Waterdeep: Dragon Heist|207}}</ref>
+| reckoning      = 
+| dob            = 765
+| dobnotes       = <ref name="WDH5e-p207" />
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = {{class table|edition=1e|[[Magic-user]]|24}}
+| refs1e         = <ref name="CotR-20">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|20}}</ref>
+| alignment2e    = 
+| class2e        = {{class table|edition=2e|[[Ranger]]|9|[[Wizard]]|25}}
+| refs2e         = <ref name="7S-28">{{Cite book/The Seven Sisters|28}}</ref><ref name="CoS-CG-74">{{Cite book/City of Splendors (boxed set)/Campaign Guide|74}}</ref><ref name="FRCS2eR-RtR-37">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|37}}</ref>
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = [[Chaotic good]]
+| challenge35    = 34
+| class35        = {{class table|edition=3e|[[Sorcerer]]|4|[[Ranger]]|7|[[Wizard]]|19}}
+| refs35         = <ref name="CoSW3e-p25">{{Cite book/City of Splendors: Waterdeep|25}}</ref><ref name="FRCS3e-280">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|280}}</ref>
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Chaotic good]]
+| challenge5e    = 17
+| class5e        = {{Class table|edition=5e|[[Wizard]]|19}}
+| refs5e         = <ref name="WDH5e-p207" />
+}}
+'''Laeral Silverhand''' ({{Pronounce|LAIR|awl|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}), born '''Anamanué Silverhand''' and formerly known as the Witch-Queen of the North<ref name="WDH5e-p207" /> and later the Lady Mage of Waterdeep, was one of the [[Seven Sisters]], a [[Chosen of Mystra]],<ref name="FRCS3e-280" /> and the [[Open Lord]] of [[Waterdeep]] during the late 15{{th}} century [[DR]].<ref name="WDH5e-p207" /> Together with her partner [[Khelben "Blackstaff" Arunsun]], they led the [[Moonstars]], a dissident faction of the [[Harpers]], which sought to guide the cities and countries of the [[North]] toward a shared destiny.<ref name="FRCS3e-280" />
+
+==Personality==
+Laeral was incredibly organized—it was the only way she could manage to fit all of her activities into a single day. She was friendly and accommodating, leading almost everyone who met her, even the haughty nobles of Waterdeep, to consider her a true friend. She was also proactive in her defense of the city, to the extent that certain Waterdhavians would stage calamitous events so that she would keep tabs on persons of interest for them without their needing to ask for her help or involve themselves directly.<ref name="SS-p117-118">{{Cite book/The Seven Sisters|117-118}}</ref>
+
+Having been in thrall to the ''Crown of Horns'' and forced to commit heinous acts by it, she felt that she understood the nature of evil better than most<ref name="SS-p32">{{Cite book/The Seven Sisters|32}}</ref> and often mediated disputes with rogues, undesirables, and sentient monsters, especially in [[Skullport]] where she kept an alias identity in the form of [[Irusyl Eraneth]].<ref name="SS-p117-118" />
+
+Laeral was infuriated by magic-users who employed their power to deceive and exert baleful influence over others. She disliked [[doppelganger]]s and slave-owners.<ref name="SS-p31" />
+
+Laeral was especially conscious of having both magic and wea
+
+=== LINKED WIKI PAGE (first 5000 chars): Harpers
+
+{{Organization
+| image               = <gallery>
+Harpers 5e.png|5e 
+Harpers4e.jpg|4e
+Harpers_symbol.jpg|3e
+HarpersSymbol.jpg|2e
+</gallery>
+| caption2            = Symbol of the Harpers.
+| name                = The Harpers
+| aliases             = Harpers at Twilight<ref name="CotH-p20"/><br />The Harpers in the Shadows<br />The Order of the Silver Moon and Harp<br />Those Who Harp<br />Harpers to the North
+| type                = Spy network
+| base                = [[Moongleam Tower]], [[Everlund]]<ref name="FRCG-p146">{{Cite book/Forgotten Realms Campaign Guide|146}}</ref><br /> [[Silverymoon]]<ref name="SF-p8">{{Cite book/The Savage Frontier|8}}</ref><ref name="SCAG-p54">{{Cite book/Sword Coast Adventurer's Guide|54}}</ref><br />[[Elminster]]'s house, [[Shadowdale]]<br />{{Former}}<br />[[Twilight Hall]], [[Berdusk]]<ref name="CotH-p85-86" /><ref name="FRA-p78" /><br />[[Harpers' Hold]], [[Waterdeep]]<ref name="CS.W-p73"/><ref name="DrM211.ISSDB-p29-34" />
+| leader              = The [[High Harpers]]
+| symbol              = Silver harp and crescent moon over black or royal blue
+| favored deity       = [[Azuth]], [[Deneir]], [[Eldath]], [[Lliira]], [[Mielikki]], [[Milil]], [[Mystra (Midnight)|Mystra]], [[Oghma]], [[Selûne]], [[Silvanus]], [[Tymora]], [[Seldarine]]
+| favored weapon      = 
+| domains             = 
+| basicrefs           = <ref name="CotH-p3-6" /><ref name="CotH-p12-13" /><ref name="FRCS3e-p274" /><ref name=SCAG-p123-124 />
+| formed              = [[324 DR]]
+| disbanded           = 
+| event1              = [[Harpers#Second Reformation|Second Reformation]]
+| date1               = [[1022 DR]]
+| event2              = [[Harpstar Wars]]
+| date2               = [[1182 DR]]
+| event3              = [[Harper Schism]]
+| date3               = [[1370 DR]]
+| event4              = [[Harpers#Fourth Reformation|Harpers' Revitalization]]
+| date4               = [[1479 DR]]
+| leader1             = [[Dathlue Mistwinter]]
+| leaderyear1         = 324 
+| leader2             = [[Elminster]]
+| leaderyear2         = 1022
+| leader3             = [[Storm Silverhand]]/[[Cylyria Dragonbreast]]
+| leaderyear3         = 1321
+| leader4             = [[Eaerlraun Shadowlyn]]
+| leaderyear4         = 1419
+| leader5             = Storm Silverhand
+| leaderyear5         = 1479
+| leadertable         = 
+| histrefs            = <ref name="FRCS3e-p269-270" /><ref name="CotH-p30"/><ref name=GHR-p150 /><ref name="CotD-p56">{{Cite book/Cult of the Dragon|56}}</ref><ref name="EE-p176" /><br /><ref name=GHR-p137 /><ref name="FRCG-p146" />
+| members             = 
+| memberstable        = 
+| memtableheader      = 
+| alignment           = {{Alignment grid|on|on|on|off|off|off|off|off|off}}
+| races               = Predominantly [[human]]s, [[elves]], [[half-elves]]
+| memrefs             = <ref name="CotH-p3-6" /><ref name="WPR-p9-13" /><ref name="DrM367-p7">{{Cite dragon/367/Epic Faerûn|7}}</ref>
+| allegiances         = [[Moonstars]], [[War Wizards]] of [[Cormyr]]<ref name="FRA-p92" />
+| enemies             = The [[church of Bane]], [[Cult of the Dragon]], [[Iron Throne]], groups of [[goblinoid]]s and [[orcs]], the [[malaugrym]], political powers in [[Amn]] and [[Calimshan]], [[Red Wizards]], [[Shadovar]], [[Zhentarim]]
+| relrefs             = <ref name="FRCG-p146"/><ref name="SF-p8" /><ref name="FRCS3e-p274" /><ref name="FRCS-p46-47" /><ref name="CotH-p118-120" /><ref name="FRA-p123-124" />
+| showmembers         = yes
+| orgname             = the Harpers
+}}
+The '''Harpers''', or '''Those Who Harp''', were a semi-secret organization dedicated to preserving historical lore, maintaining the balance between nature and civilization,<ref name="CotH-p3-6">{{Cite book/The Code of the Harpers|3-6}}</ref><ref name="FRA-p123-124" /><ref name="PGtF-p58">{{Cite book/Player's Guide to Faerûn|58}}</ref> and defending the innocent from the forces of [[evil]] across the Realms.<ref name=SCAG-p123-124 /><ref name="FRCS-p46-47" /><ref name="CoV-p101">{{Cite book/Champions of Valor|101}}</ref><ref name="CoS.W-p73">{{Cite book/City of Splendors: Waterdeep|73}}</ref> The Harpers involved themselves in many world-changing events that helped shape the course of [[Faerûn]]'s destiny.<ref name="SCAG-p147">{{Cite book/Sword Coast Adventurer's Guide|147}}</ref> Their power and influence waxed and waned over the years, as their order underwent a series of collapses and reformations.<ref name="RTR-p25-26">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|25-26}}</ref><ref name="DrM430.HW-p33-38" /> Their reputation amongst the people of the Realms varied just as wildly. They were often seen as wide-eyed idealists, but also just as often seen as insufferable meddlers who could not keep their business to themselves.<ref name="FRCS3e-p274" /><ref name="CotH-p7" />
+{{Quote|We are the Harpers. We are the Lord Protectors of the Realms, Fools, all―but the Gods look down and smile glory upon us. Weep for us, watch for us, and hope in us. We shall
+
+=== LINKED WIKI PAGE (first 5000 chars): Order of the Gauntlet
+
+{{Organization
+| image          = <gallery>
+OrderGauntlet.png|Newer
+Orderofthegauntlet.png|Original
+</gallery>
+| caption        = Various symbols of the order
+| name           = Order of the Gauntlet
+| aliases        = 
+| type           = Religious military order
+| base           = Several across the western Realms of [[Faerûn]]
+| leader         = 
+| symbol         = A gauntlet grasping a sword by the blade
+| favored deity  = [[Helm]], [[Hoar]], [[Torm]], [[Tyr]]
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="HDQ-p29"/><ref name="RoT-p12"/><ref name="SCAG=p147"/><ref name="TA-p30"/>
+| members        = [[Cleric]]s, [[paladin]]s
+| memberstable   = 
+| memtableheader = 
+| alignment      = [[Lawful good]]
+| races          = Any
+| memrefs        = 
+| allegiances    = [[Harpers]]
+| enemies        = [[Cult of the Dragon]]
+| relrefs        = <ref name="HDQ-p30"/>
+| showmembers    = yes
+| orgname        = the Order of the Gauntlet
+}}
+The '''Order of the Gauntlet''' was a coalition of morally upstanding warriors, knights, [[paladin]]s and [[cleric]]s who dedicated themselves to the destruction of [[evil]] in [[Faerûn]] in the 15{{th}} century [[DR]]. They were a unified group, bonded by either their fervent religious beliefs or staunch dedication to enforcing justice in the realms. To these brothers and sisters in arms, evil had to be dealt with and could not be ignored.<ref name="HDQ-p29">{{Cite book/Hoard of the Dragon Queen|29}}</ref><ref name="RoT-p12"/><ref name="SCAG=p147">{{Cite book/Sword Coast Adventurer's Guide|147}}</ref><ref name="FO.OotG">{{cite web | author= [[Wizards of the Coast]]  | title=Factions — Order of the Gauntlet | publisher=[[Wizards of the Coast]] | date=2014 | work=What is D&D? | url=https://web.archive.org/web/20150208232119/http://dnd.wizards.com/dungeons-and-dragons/story/faction/ordergauntlet | accessdate=2014-12-11 }}</ref>
+
+Members of the order were strong in their faith, using it to stand against evil forces.<ref name="RoT-p12"/> While this faith ranged from believing in one's personal god, it extended also to those considered close friends, and especially to oneself. Most often, Knights of the Gauntlet venerated either the God of Guardians, [[Helm]]; two of the deities of [[the Triad]], [[Torm]] and [[Tyr]];<ref name="TA-p30">{{Cite book/Tomb of Annihilation|30}}</ref> as well as the Poet of Justice, [[Hoar]].<ref name="FO.OotG"/>
+
+==Organization==
+The Order of the Gauntlet had a number of chapters in various cities located across the western Realms of [[Faerûn]].<ref name="HDQ-p28">{{Cite book/Hoard of the Dragon Queen|28}}</ref><ref name="W.DH-p17"/><ref name="ToA-p47"/><ref name="SKT-p249"/><ref name="SKT-p101"/>
+
+The Order had the following ranks from lowest to highest: Chevall, Marcheon, Whitehawk, Vindicator, and Righteous Hand.<ref name="DMG-2014-p22">{{Cite book/Dungeon Master's Guide 5th edition|22}}</ref>
+
+==Activities==
+As part of their duties the Order of the Gauntlet remained vigilant against any potential threats to the Realms, standing ready to stop any aggression. When necessary, they investigated potential threats or secretive organizations, and watched over those creatures they saw as inherently [[evil]].<ref name="FO.OotG"/>
+
+===Beliefs===
+The Order of the Gauntlet held three tenets:<ref name="FO.OotG"/>
+* Faith was a member's most potent weapon against evil
+* Great challenges required heroic demonstrations of both strength and valor
+* It was justified to punish an act of evil, not a thought or feeling
+
+==Tactics==
+[[File:Valiant Endeavor.jpg|thumb|right|400px|''Knights of the Gauntlet undertaking a valiant endeavor.'']]
+The Order was clear on its methods of operation, and would never preemptively attack an opponent. They forewent the approval of local leadership when striking against evil.<ref name="RoT-p12"/> They struck their foes fast and hard, seeking decisive victories.<ref name="Drgn+.1.PF">{{Cite dragon+/1/Player Factions: Our Heroes?}}</ref> They would never punish someone who had not committed an evil act nor those who merely expressed immoral thoughts.<ref name="FO.OotG"/><ref name="SCAG=p85">{{Cite book/Sword Coast Adventurer's Guide|85}}</ref>
+
+It was very uncommon to see a lone member of the Order as they almost always traveled in groups.<ref name="FO.OotG"/>
+
+==Base of Operations==
+In [[the North]], the Order of the Gauntlet maintained a strong presence in the city of [[Neverwinter]],<ref name="SKT-p101">{{Cite book/Storm King's Thunder|101}}</ref> several members stationed in [[Waterdeep]],<ref name="W.DH-p17">{{Cite book/Waterdeep: Dragon Heist|17}}</ref> and a representative in the [[Ten Towns]] city of [[Bryn Shander]].<ref name="SKT-p249"/> In the [[Silver Marches]], they maintained a small watchtower near the [[Silverymoon Pass]] known as the [[Hawk's Nest]]. It was there they bred [[hippogriff]]s, that were trained as aerial mounts.<ref name="SKT-p156">{{Cite book/Storm King's Thu
+
+=== LINKED WIKI PAGE (first 5000 chars): Zhentarim
+
+{{Distinguish|Zhentilar}}
+{{Organization
+| image          = 5e Zhentarim Symbol.png
+| caption        = The banner of the Zhentarim circa [[1489 DR]].
+| name           = Zhentarim
+| alt_spelling   = 
+| aliases        = Black Network<ref name="FRCS3e-p281" /><br /> Black Robes ([[Bedine]])<ref name="EE:A-p3">{{Cite book/Elminster's Ecologies/Anauroch|3}}</ref><br />Keepers<ref name="ab-p205">{{Cite book/Azure Bonds|205}}</ref><br />Zheeks<ref name="ab-p235">{{Cite book/Azure Bonds|235}}</ref><br/>Zhentarians<ref name="RoA-p60">{{Cite book/Ruins of Adventure|60}}</ref>
+| type           = 
+| base           = [[Darkhold]]<ref name="SCAG-p78" /> <br/> {{former}} <br /> [[Zhentil Keep]], [[Moonsea]]<ref name="LoD-p96"/> <br/> [[Citadel of the Raven]]<ref name="RoZK-CB-p36" /> <br/> [[Stormwatch]]<ref name="FRCG-p282" />
+| leadertitle    = 
+| leader         = [[Pereghost]]<ref name="SCAG-p78" /> <br /> {{former}} <br /> [[Fzoul Chembryl]]<ref name="LoD-p96"/> <br/> [[Manshoon]] (founder)<ref name="LoD-p96"/> and [[Sememmon]]<ref name="RoZK:CB-p32" />
+| symbol         = Silhouette of a winged snake biting a coin<ref name="Factions" /><ref name="WDH-p24-p44-p157-p159">{{Cite book/Waterdeep: Dragon Heist|24,44,157,159}}</ref> {{former}} <br /> Dark skull emitting black rays on a golden disc<ref name="FRCG-p282" /> <br/> Black scepter emitting green rays on gold disc, clutched in the talons of a black wyrm<ref name="LoD-p96"/> {{Former}} Stylized spearhead bearing white disc with scrawled Z in [[Dethek]]<ref name="LoD-p96"/>
+| favored deity  = [[Bane]] {{former}} [[Cyric]]
+| favored weapon = 
+| domains        = 
+| formed         = [[1261 DR]]<ref name="LoD-p96" /><ref name="tGHotR-p128" />
+| disbanded      = 
+| basicrefs      = <ref name="LoD-p96">{{Cite book/Lords of Darkness|96}}</ref>
+| members        = At least 10,000 c. [[1372 DR]]<ref name="LoD-p96"/>
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{alignment grid|off|off|off|off|off|off|on|on|off}}<ref name="LoD-p96"/>
+| races          = 
+| memrefs        = 
+| event1         = 
+| date1          = 
+| event2         = 
+| date2          = 
+| event3         = 
+| date3          = 
+| event4         = 
+| date4          = 
+| leader1        = 
+| leaderyear1    = 
+| leader2        = 
+| leaderyear2    = 
+| leader3        = 
+| leaderyear3    = 
+| leader4        = 
+| leaderyear4    = 
+| leader5        = 
+| leaderyear5    = 
+| leadertable    = 
+| histrefs       = 
+| allegiances    = 
+| enemies        = [[Harpers]], [[Lords' Alliance]], [[Cult of the Dragon]], the [[Rundeen]], [[Netheril]]
+| relrefs        = <ref name="LoD-p98"/>
+| showmembers    = yes
+| orgname        = the Zhentarim
+}}
+The '''Zhentarim''' ({{Pronounce|zz|HENT|ah|rim|refs=<ref name="FRCS1e-CR-p92">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|92}}</ref>}}) also known as the '''Black Network''',<ref name="FRCS3e-p281">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|281}}</ref> was a mercenary company and greater mercantile organization in [[Faerûn]],<ref name="SCAG-p78">{{Cite book/Sword Coast Adventurer's Guide|78}}</ref> who, over their 200 years of existence, had a storied history as a cadre of self-serving [[thieves]], spies, [[assassin]]s, and malevolent [[wizard]]s,<ref name="SCAG-p77">{{Cite book/Sword Coast Adventurer's Guide|77}}</ref> who for a time, were indentured by their leaders to serve dark gods [[Bane]]<ref name="FRCS3e-p282">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|282}}</ref> and [[Cyric]].<ref name="C&D-p9">{{Cite book/Cloak & Dagger|9}}</ref> Over the decades, the organization experienced several leaps and bounds in terms of successes,<ref name="RoZK:CB-p34" /> but also major misfortune, particularly for their historical strongholds around the [[Moonsea]].<ref name="FRCG-p151">{{Cite book/Forgotten Realms Campaign Guide|151}}</ref> As of [[1489 DR]] the Zhentarim was headquartered in the [[Western Heartlands]], at [[Darkhold|Darkhold Castle]], nestled in the [[Darkhold Vale|valley of the same name]].<ref name="SCAG-p78" />
+{{quote|As distasteful as [[Hillsfar]]'s policies might be, you can hardly expect us to deal with the baby-slaying Keepers. I've heard that they plight their troth with succubi, eat the brains of elves, and worship gods so black they make [[Moander]] seem nice. Their names are feared as far south as my native land. And the council who rules them, the Zhentarim, are twice as dark as the Keepers.|[[Akabar Bel Akash]]<ref name="ab-p205" />}}
+{{TOC limit|3}}
+==Aims & Goals==
+As an extension of the will of the dark wizard [[Manshoon]], the Zhentarim was initially formed as a mercenary company to support his rule over the [[Moonsea]] with the aim of spreading that control over all of Faerûn.<ref name="CaD-p32">{{Cite book/Cloak & Dagger|32}}</ref> After he recruited the faithful of Bane, unscrupulous merchants and lesser [[mage]]s to his cause,<ref name="RoZK:CB-p15">{{Cite book/Ruins of Zhentil Keep/Campaign Book|15}
+
+=== LINKED WIKI PAGE (first 5000 chars): Luskan
+
+{{Location
+| image         = Luskan - city of pirates.png
+| caption       = A bird's eye view of Luskan, the City of Sails
+| name          = Luskan
+| aliases       = City of Sails<ref>{{Cite book/Streams of Silver|24}}</ref>
+| size          = Large city (1372 DR)<br/>Large town (1480 DR)
+| capital       =
+| area          = [[Sword Coast North]], [[northwest Faerûn]]
+| ruler         = The Five High Captains (1372 DR):<br />[[Taerl]], [[Baram]], [[Kurth]], [[Suljack]] and [[Rethnor]]<br/>None (1480 DR)<br/>[[Jarlaxle Baenre]] (1489 DR)
+| government    = Oligarchy (1372 DR)<br/>Anarchy (1480 DR)<br/>Oligarchy (1489 DR)
+|demonym        = Luskar<ref name="WotW">{{Cite polyhedron/74/The Everwinking Eye: Words To The Wise}}</ref>
+| population    = 15,000 ca. 1360s DR<ref name="RGLoD-142-143">{{Cite book/A Reader's Guide to R. A. Salvatore's the Legend of Drizzt|142-143}}</ref><br/>16,000 in [[1370 DR]]<ref name="VoloN-p111">{{Cite book/Volo's Guide to the North|111}}</ref><br/>14,173 in [[1372 DR]]<ref name="FRCS3e-p176">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|176}}</ref><br/>4,000 in [[1480 DR]]<ref name="SB|6538">{{Cite digital book/Shadowbane|6538}}</ref> 
+| races         = Mostly [[human]]s;<ref name="RGLoD-142-143" /> [[drow]]<ref name="NotH-p309-310">{{Cite book/Night of the Hunter/Hardcover|309-310}}</ref>
+| religion     =
+| imports       = [[Silver]], [[scrimshaw]], timber, [[dwarf|dwarven]] [[weapon]]s
+| exports       = [[Netherese]] artifacts,<ref name="NotH-p309">{{Cite book/Night of the Hunter/Hardcover|309}}</ref> [[weapon]]s<ref name="IWD2">{{Cite game/Icewind Dale II}}</ref>
+| predecessor   = [[Illusk]]
+| alignment     =
+| usethe        = 
+| useon         = 
+| inhabitants   = yes
+| locations     = yes
+| organizations = yes
+| settlements   = 
+| roads         = yes
+| items         = yes
+}}
+'''Luskan''', also known as the '''City of Sails''', was a port city at the mouth of the [[River Mirar]] on the [[Sword Coast North]].<ref name="VoloN-p111" /> Luskan, despite the presence of the [[Ten Towns]], was considered by many to be civilization's farthest reach.
+
+Although once a bustling city, in the days prior to the [[Spellplague]], the city would suffer greatly at the hands of [[Arklem Greeth]]. The resulting disaster would allow the Spellplague to nearly annihilate the city, with it having only a fraction of its former populace.{{fact}}
+
+{{quote|''Tucked like a gold filling (or some would say a pus-filled abscess) at the mouth of the River Mirar, Luskan is a city of merchant princesses, swarthy bandit princes, and the most diverse, cutthroat, and fractured cabal of pirates on Toril. Torn into factions, these piratical groups are known as "Ships."''|Excerpt from ''[[Corsairs of Luskan]]''<ref name="bg3">{{Cite game/Baldur's Gate III}}</ref>}}
+
+==Geography==
+As of [[1370 DR]], the city was split into northern and southern halves by the River Mirar, and these were connected by the bridges [[Dalath's Span]], [[Harbor Cross]], and the [[Upstream Span]].<ref name="VoloN-p113">{{cite book/Volo's Guide to the North|113}}</ref> Other than the [[Host Tower of the Arcane]], the city was dominated by two- and three-story buildings.<ref name="RGLoD-142-143" />
+
+The city and its five inhabited islands sat in the mouth of the [[River Mirar]], on the [[Mirarmouth Bay]].<ref name="grotto">{{Cite archive/Greenwood's Grotto/2024-05-10/Mirar Bay}}</ref> Three of these were inhabited: [[Cutlass Island]] (upon which lay the Host Tower of the Arcane, and which was connected to both sides of the river by bridges), [[Closeguard Island]] (which housed [[Ship Kurth]] and was connected to the southern bank by a bridge), and [[Blood Island]] (which housed Luskan's army garrison).<ref name="RGLoD-142-143" /><ref name="VoloN-p118-119">{{Cite book/Volo's Guide to the North|118-119}}</ref> The remaining uninhabited islands were [[Fang Island]] (named for its treacherous rocks) and [[Harbor Arm Island]] (which sheltered the city's harbor).<ref name="VoloN-p118" />
+
+===Northern Bank===
+[[File:Luskan.png|thumb|''Luskan at night.'']]
+The northern section was walled and was almost entirely made up of warehouses. The [[Mirabar District]] (also known as the Mirabar Shield) was a fortified compound operated by the merchants of [[Mirabar]], and it contained the [[Throat]], the city's heavily guarded main water tower, which was situated in a grazing area for sheep.<ref name="VoloN-p113" /> The ''[[Red Dragon Trading Post]]'', Luskan's most successful overland trading company as of 1370 DR (but no longer in operation in [[1483 DR]]<ref name="TC-p331">{{Cite book/The Companions/Hardcover|331|26}}</ref>), was situated on the northern bank, as was the ''[[North Gate (Luskan)|North Gate]]'', the portal between the northern and southern banks.<ref name="VoloN-p115" /> 
+
+The docks on the northern bank were on the sea coast (western part of the city) and consisted of [[Whitesails Harbor]], used exclusively for the Luskan navy, and the u
+
+=== LINKED WIKI PAGE (first 5000 chars): Shadow Thieves
+
+{{Organization
+| image          = 
+<gallery>
+Shadow thieves symbol.png|3e
+ShadowThievesSymbol.jpg|2e
+</gallery>
+| caption2        = ''Various depictions of the Shadow Thieves' symbol.''
+| name           = Shadow Thieves
+| aliases        = ''The Kiss of Steel in Darkness''
+| base           = [[Crimmor]], [[Amn]]<ref name="FRCG-p93"/>
+| leader         = [[Dannihyr]] family of [[Eshpurta]] <br/> {{Former}}[[Grandmaster of Shadows|Grandmaster]] [[Rhinnom Dannihyr]] and the [[Shadow Council]] <br/> {{Former}}[[Carzakh Halandir|Carzakh "Deepshadow" Halandir]] (founder)
+| symbol         = A [[silk]] mask impaled on a [[stiletto]]
+| favored deity  = [[Mask]], [[Bane]], [[Cyric]], [[Loviatar]], [[Shar]], [[Talona]]<ref name="LoD3e-p172"/> <br/> {{former}} [[Bhaal]]<ref name="C&D-p103"/>
+| favored weapon = 
+| domains        = 
+| formed         = [[1255 DR]]
+| disbanded      = 
+| basicrefs      = <ref name="C&D-p101"/><ref name="LoD3e-p172"/>
+| members        = Over 3,000 [[assassin]]s, [[thieves]], [[rogue]]s, [[wizard]]s
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{Alignment grid|off|off|off|off|off|on|on|on|on}}
+| races          = 
+| memrefs        = <ref name="LoD3e-p172"/>
+| allegiances    = [[Council of Six]]
+| enemies        = [[Lords of Waterdeep]], [[Rundeen]], [[Syl-pasha]] of [[Calimshan]]
+| relrefs        = <ref name="C&D-p111">{{Cite book/Cloak & Dagger|111}}</ref>
+| showmembers    = yes
+| orgname        = the Shadow Thieves
+}}
+The '''Shadow Thieves''' was a secretive and powerful consortium of thieves' guild in [[west Faerûn|western Faerûn]] that were headquartered in the [[Amn]]ian city of [[Crimmor]]<ref name="FRCG-p93">{{Cite book/Forgotten Realms Campaign Guide|93}}</ref> during the 15{{th}} century [[DR]], having relocated from their base in [[Athkatla]] the century prior. They were formerly the most prominent thieves' guild in [[Waterdeep]], but were routed from the city by the [[Lords of Waterdeep|Masked Lady]] [[Lhestyn|Lhestyn Arunsun]].<ref name="C&D-p103">{{Cite book/Cloak & Dagger|103}}</ref> From the early-14{{th}} century onward they controlled many of the criminal operations along the [[Sword Coast]],<ref name="C&D-p101">{{Cite book/Cloak & Dagger|101}}</ref><ref name="C&D-p103" /> growing into the largest and most prosperous thieves guild in all of [[Faerûn]],<ref name="PGtF-p74">{{Cite book/Player's Guide to Faerûn|74}}</ref> with ultimate goal of further increasing their collective influence and wealth.<ref name="C&D-p102">{{Cite book/Cloak & Dagger|102}}</ref> 
+
+The organization operated under two oaths, which were written by its first Grandmaster, following their exile from Waterdeep:<ref name="C&D-p102" />
+*''"The Shadow Thieves would never again be brought so low and disgraced as they were in their exile."''
+*''"They would take their vengeance upon the city of Waterdeep and the [[Arunsun]] family."''
+
+==Activities==
+The Shadow Thieves were discreet in their activities, even in Amn, where they were known by just about every citizen of the nation. Even the lower-ranked members, who earned their gold as beggars, cut-purses, thugs and fences followed these rules as they went about their daily duties. Even these minor operations allowed the Shadow Thieves to insert itself into the daily lives of Amnian citizens. Thus, a friendly game of chance run by a con artist gamer could lead to higher and higher stakes and a great take of gold for the agent and overall guild.<ref name="C&D-p109">{{Cite book/Cloak & Dagger|109}}</ref> 
+
+Many citizens relied upon the manipulative and illicit services provided by the Shadow Thieves. Business people became reliant on their protection rackets, money lenders and the enforcers and thugs they hired out. Politicians and government officials would often hire the guild's spies and burglars to obtain guarded knowledge, or plant false information. The multitude of traders and merchants in [[Amn]] received a myriad of unique mercantile opportunities provided by the guild's smugglers and pirates.<ref name="C&D-p109" />
+
+The agents of the guild were just as ruthless as they were secretive. If a situation required the use of violence, they would only take prisoners if a person was deemed worthy of capture, i.e. they possessed arcane, political or financial power. The captives were relocated to a safehouse until ransom could be collected or the person otherwise manipulated.<ref name="C&D-p104" /> 
+
+===Outlook===
+Secrecy was the key to the immense success of the Shadow Thieves, an outlook that began with the ruling [[Shadow Council]] and spread to every officer, agent and member. Only the upper echelon of the organization knew the full complexities of their hierarchical structure, with individual members only aware of their immediate associates. Members worked exclusively with their known comrades so that could never implicate more than a handful of other thieves. Failure to maintain the secrecy of the Shadow Thieves would cost the guild money, an unac
+
+=== LINKED WIKI PAGE (first 5000 chars): Marking the years
+
+{{Roll of years|1|Sunrise|nocat=true}}
+''Example conversion between the years for [[1 DR]]''
+
+Years (winters)<ref name="GTotR-p22" /> are referred to by names, each name consistent across the Realms. Each kingdom or city-state numbers years differently, usually to measure the reign of a dynasty or the current monarch, or since the founding of the country. The result is a hodgepodge of overlapping numbers that serve to confuse the ordinary person and frustrate the sage. The widespread differing year dates include the following:
+
+==Methods of Reckoning==
+===Dalereckoning (DR)===
+Dalereckoning is taken from the {{YearlinkName|1}}, when the [[Standing Stone]] was raised by the [[elves]] of [[Cormanthyr]] and the [[human]]s of the [[Dalelands]]. Since this time, humans were permitted by the [[Elven Court]] to settle in the more open regions of the forests. In some texts, primarily those which do not have direct ties to Dalesfolk history, Dalereckoning is called Freeman's Reckoning (FR). The calendar is widely used in [[Faerûn]] but has not spread beyond its shores.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Cormyr Reckoning (CR)===
+[[Cormyr]] Reckoning begins at the foundation of [[House Obarskyr]], the dynasty that still rules that land. The 25-year gap between Cormyr Reckoning and Dalereckoning has caused much of the confusion regarding elder days. Timelines and calendars of the period often use DR designators, but place the founding of Cormyr at 1 DR instead of [[26 DR]]. This is understandable, given that the two reckonings are from two nearby parties and spread by a third (the merchants of Sembia), but it causes learned sages to slam their heads violently against their desks trying to figure things out.<ref name="GTotR-p22">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22}}</ref><ref name="TGHotR-p4">{{Cite book/The Grand History of the Realms|4}}</ref>
+
+===Tethyreckoning (TR)===
+Tethyreckoning begins with Founding Year, Year 0 TR, in {{Yearlink|-212}}, when [[Darrom Ithal]] of [[Clan Ithal]] retook the city of [[Myratma]] from the [[Calimshan|Calishites]] in the [[Battle of the Purple Marches]] and was crowned king of [[Tethyr]] by the clans. This dating system was rarely used outside of official legal documents in Tethyr.<ref name="LoI1-T-p25">{{Cite book/Lands of Intrigue/Tethyr|25}}</ref>
+
+===Northreckoning (NR)===
+Used in the City of [[Waterdeep]], Northreckoning dates from the year [[Ahghairon]] became the first [[Lords of Waterdeep|Lord of Waterdeep]] ([[1032 DR]]). A more archaic system called Waterdeep Years (WY) dates from the supposed first use of Waterdeep as a trading post. This reckoning is now largely abandoned except in ancient texts.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Mulhorand Calendar (MC)===
+One of the oldest calendars in use in the Realms, this ancient scheme of record-keeping dates from the founding of [[Skuld]], the City of Shadows, reputedly by a [[Mulhorand]]i god.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Netheril Year Calendar (NY)===
+Used by the [[Netherese]], it places 0 NY on {{Yearlink|-3859}}, when several villages on the shore of the [[Narrow Sea]] combined for mutual protection, forming the [[Alliance of Seventon]], which later became [[Netheril]].<ref name="NEoM-p5">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|5}}</ref> The Netheril Year calendar was created by [[Nether]] to celebrate the union.<ref name="TGHotR-27">{{Cite book/The Grand History of the Realms|27}}</ref>
+
+===Present Reckoning (PR)===
+In an attempt to get a handle on the various number systems in use, a new type of reckoning has been implemented with the approval of such worthies as [[Khelben "Blackstaff" Arunsun]] of Waterdeep and [[Vangerdahast]] of Cormyr and carried abroad by the [[Harpers]]. All year-dates trace back to the [[Time of Troubles]] in the {{YearlinkName|1358}}, as year 0.<ref name="GTotR-p22-23">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22-23}}</ref>
+
+===Amnian Calendar===
+The local calendar of [[Amn]] was based on the founding of [[Athkatla]] and the opening of its market on [[Shieldmeet]] in {{YearlinkName|100}}, which served as year 0. However, the Amnian calendar was largely irrelevant and rarely used outside of some official documents, with the vast majority of the population using Dalereckoning instead.<ref name="LoI2-A-p19">{{Cite book/Lands of Intrigue/Amn|19}}</ref>
+
+===Impilturan Calendar===
+The old calendar of [[Impiltur]] was the primary reckoning tradition in the so-called [[Demonlands]], including [[Damara]], the [[Great Dale]], Impiltur, [[Narfell]], and [[Vaasa]]. It began with the founding of the kingdom of Impiltur, which in Dalereckoning occurred in the {{YearlinkName|-74}}.<ref name="DunMag.177-p77">{{Cite dungeon/177/Realmslore: Vaasa|77}}</ref><ref name="tGHotR-p58">{{Cite book/The Grand History of the Realms|58}}</ref
+
+=== LINKED WIKI PAGE (first 5000 chars): Silverymoon
+
+{{Otheruses4|the city of [[the North]]|the [[unicorn]] [[god]]dess it is named after|Lurue}}
+{{Location
+| image         = Silverymoon.JPG
+| caption       = The beautiful city of Silverymoon.
+| name          = Silverymoon
+| alt spelling  = 
+| aliases       = Gem of the North<br />Great Silver Hearth<ref name="MSoS-p1">{{Cite web/My Slice of Silverymoon/Part 1}}</ref><br />Welcoming City<ref name="EV-ONoS">{{Cite web/theedverse/2025-12-22/Other Names of Silverymoon}}</ref><br />Shining Towers<ref name="EV-ONoS" /><br />Silvertowers<ref name="EV-ONoS" /><br />Homehaven<ref name="EV-ONoS" /><br />Moon<ref name="FtR-tEotD-p3">{{Cite web/Forging the Realms/The Eyes of the Dragon, Part 3}}</ref><br/>''Aerasumé'' <small>(in ancient [[Elven]])</small><ref name="SS-p114">{{Cite book/The Seven Sisters|114}}</ref><br />{{Former}} Silverymoon Ford<ref name="tN:GttSF-C&C-p46-47">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|46-47}}</ref><ref name="P&P-p41">{{Cite book/Powers & Pantheons|41}}</ref><ref name="C:EotE-p40">{{Cite book/Cormanthyr: Empire of the Elves|40}}</ref><ref name="FRCS3e-p175,269">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|175,269}}</ref><ref name="SP:tSM">{{Cite web/Sneak Peek: The Silver Marches}}</ref><ref name="SM-p56">{{Cite book/Silver Marches|56}}</ref><ref name="tGHotR-p72,87-88">{{Cite book/The Grand History of the Realms|72,87-88}}</ref><ref name="SCAG-p16">{{Cite book/Sword Coast Adventurer's Guide|16}}</ref><br/>Moontree<ref name="SM-p56" /><br/>Silver Village<ref name="C:EotE-p40" /><ref name="SP:tSM" /><ref name="SM-p56" /><ref name="tN:GttSF-C&C-p47">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|47}}</ref><ref name="HK-p7">{{Cite book/Hellgate Keep|7}}</ref><ref name="FRCS3e-p175">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|175}}</ref><ref name="tGHotR-p88,92">{{Cite book/The Grand History of the Realms|88,92}}</ref><br/>Silverymoon Town<ref name="SP:tSM" /><ref name="SM-p56" /><ref name="FRCS3e-p175" /><ref name="tN:GttSF-C&C-p46">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|46}}</ref><ref name="P&P-p39">{{Cite book/Powers & Pantheons|39}}</ref>
+| type          = [[City-state]]
+| region        = [[Luruar]], [[Northwest Faerûn]]
+| size          = [[Metropolis]]
+| elevation     = 
+| depth         = 
+| capital       = 
+| largest city  = 
+| georefs       = <ref name="VGttN-p170">{{Cite book/Volo's Guide to the North|170}}</ref><ref name="tN:GttSF-C&C-p45">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|45}}</ref><ref name="FRCS3e-p171-172">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|171-172}}</ref><ref name="SM-p54">{{Cite book/Silver Marches|54}}</ref>
+| demonym       = Silvaeren<ref name="SM-p55-57,59-60,92">{{Cite book/Silver Marches|55-57,59-60,92}}</ref><ref name="PGtF-p75">{{Cite book/Player's Guide to Faerûn|75}}</ref><ref name="PoF-p111">{{Cite book/Power of Faerûn|111}}</ref><ref name="EGPEFR-p27,30">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|27,30}}</ref><ref name="SCAG-54">{{Cite book/Sword Coast Adventurer's Guide|54}}</ref>
+| population    = 
+| races         = {{Percentage table|[[Human]]s|41|[[Elves]]|29|[[Half-elves]]|12|[[Shield dwarves]]|10|[[Lightfoot halfling]]s|5|[[Gnome]]s|2|Others|1}}
+| languages     = [[Chondathan language#Dialects|Northern]] (Luruaran)<ref name="DragMagAnn4-p26,28">{{Cite dragon annual/1999/Speaking in Tongues|26,28}}</ref>
+| religion      = [[Lathander]],<ref name="WatN-p9">{{Cite book/Waterdeep and the North|9}}</ref> [[Oghma]], [[Milil]], [[Selûne]], [[Helm]],<ref name="WatN-p9" /><ref name="tSF-p13,32">{{Cite book/The Savage Frontier|13,32}}</ref> [[Mielikki]],<ref name="tSF-p11">{{Cite book/The Savage Frontier|11}}</ref> [[Shiallia]], [[Silvanus]],<ref name="tSF-p11,13,32">{{Cite book/The Savage Frontier|11,13,32}}</ref> [[Tymora]], [[Mystra]],<ref name="tSF-p13,32" /> [[Sune]]{{Fact}}<br /><small>'''Outlawed:'''</small> [[Cyric]]<ref name="SM-p108">{{Cite book/Silver Marches|108}}</ref>
+| alignment     = {{Alignment grid|off|off|on|off|off|off|off|off|off}}
+| socrefs       = <ref name="SM-p54" />
+| imports       = [[Food]] (especially [[grain]] and [[livestock]]), [[armor]], [[weapon]]s, footwear, [[textile]]s and [[clothing]]  
+| exports       = [[Silverymoon Blue]] [[wine]],<ref name="RBLC-Certs" /> [[book]]s, [[paper]], [[herb]]s, [[ink]]s, [[glass]], glassware, [[fur]]s, [[timber]], and valuable [[ore]]s
+| currency      = {{currency table|5pp|1 "[[Eclipsed moon (coin)|eclipsed moon]]"<ref group="note">Worth 2 [[pp]] outside of Silverymoon.</ref>}}{{currency table|2pp|1 "[[Moon (coin)|moon]]"<ref group="note">Worth 1 [[pp]] outside of Silverymoon and settlements in its vicinity. In the mid–14{{th}} century [[DR]], the original, electrum moon was worth 2 [[ep]] in Silverymoon's lands, or 1 ep beyond.</ref>}}{{currency table|1pp|1 "[[Unicorn (coin)|unicorn]]"|10 gold "[[Dr
+
+=== LINKED WIKI PAGE (first 5000 chars): Baldur's Gate
+
+{{otheruses4|the city on the Sword Coast|other uses|Baldur's Gate (disambiguation)}}
+{{GA}}
+{{Location
+| image              = Baldur's Gate overview BG3.png
+| caption            = Panorama of Baldur's Gate.
+| name               = Baldur's Gate
+| alt spelling       = 
+| aliases            = The Gate<ref name="Shadowmask-p113" /><br />Gray Harbor<ref name="MiBG.CG-p32" /><br />Loklee<ref name="TEV2022">{{Cite web/theedverse/2022-03-26 - Baldur's Gate History}}</ref><br />City of Blood<ref name="BG-DiA-p12">{{Cite book/Baldur's Gate: Descent into Avernus|12}}</ref><br />"Halfway to everywhere"<ref name="LC-ANE">{{Cite organized play/LC/A Necessary Evil|16}}</ref><ref name="AGTotR-p87" /><ref name="TFRA-p87" />
+| type               = 
+| region             = [[Sword Coast]], [[Western Heartlands]]
+| size               = Metropolis
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="FRCS3e-p225">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|225}}</ref><ref name="VoloSC-p8">{{Cite book/Volo's Guide to the Sword Coast|8}}</ref>
+| demonym            = Baldurian<ref name="FRA-p73" /><ref name="WotW" />
+| population         = 
+| races              = Mostly [[human]]
+| languages          = 
+| religion           = [[Gond]], [[Tymora]], [[Umberlee]], [[Helm]], [[Lathander]], [[Ilmater]], [[Dead Three|Cults of the Dead Three]]
+| alignment          = 
+| socrefs            = <ref name="FRA-p76" /><ref name="FRCG-p94" /><ref name="BG.DiA-p159" />
+| imports            = Stone
+| exports            = Dyes, fish, lamp oil, trade-coinage
+| currency           = 
+| comrefs            = <ref name="FRA-p76">{{Cite book/Forgotten Realms Adventures|76}}</ref><ref name="VoloN-p152" />
+| government         = Plutocracy
+| rulertype          = 
+| ruler              = [[Council of Four]]
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = [[Parliament of Peers]]
+| judiciary          = 
+| allegiances        = [[Lords' Alliance]]
+| govrefs            = <ref name="SCAG-p43" /><ref name="SCAG-p45" /><ref name="BG.DiA-p159" />
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 125,000
+| popyear1           = 1492
+| population2        = 120,000–140,000
+| popyear2           = 1479
+| population3        = 42,103
+| popyear3           = 1372
+| population4        = 86,000–115,000
+| popyear4           = 1358
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="FRA-p76" /><ref name="FRCS3e-p225" /><ref name="FRCG-p94" /><ref name="BG.DiA-p159">{{Cite book/Baldur's Gate: Descent into Avernus|159}}</ref>
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = yes
+| items              = yes
+}}
+'''Baldur's Gate''', called the '''City of Blood'''<ref name="BG-DiA-p12" /> and simply  '''the Gate''',<ref name="Shadowmask-p113">{{Cite book/The Shadowmask/Hardcover|113}}</ref> was one of the largest metropolises and city-states on the [[Sword Coast]], within the greater [[Western Heartlands]]. It was a crowded city of commerce and opportunity,<ref name="FRPG-p82">{{Cite book/Forgotten Realms Player's Guide|82}}</ref> and one of the most prosperous and influential merchant cities on the western coast of [[Faerûn]].<ref name="FRCS3e-p225">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|225}}</ref><ref name="FRCG-p94">{{Cite book/Forgotten Realms Campaign Guide|94}}</ref> Despite its long-standing presence as a neutral power, the leaders of Baldur's Gate were members of the [[Lords' Alliance]] of powers in [[West Faerûn|the west]].<ref name="FRA-p73">{{Cite book/Forgotten Realms Adventures|73}}</ref><ref name="SCAG-p43">{{Cite book/Sword Coast Adventurer's Guide|43}}</ref> It was described as being the '''"halfway to everywhere"'''.<ref name="LC-ANE" /><ref name="AGTotR-p87">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|87}}</ref><ref name="TFRA-p87">{{Cite book/The Forgotten Realms Atlas|87}}</ref><ref>{{Cite book/The Halfling's 
+
+=== LINKED WIKI PAGE (first 5000 chars): Neverwinter
+
+{{GA}}
+{{otheruses4|the city}}
+{{Location
+| image              = NeverwinterHarbor.jpg
+| caption            = A view of Neverwinter from the harbor.
+| name               = Neverwinter
+| alt spelling       = 
+| aliases            = Eigersstor<br/>City of Skilled Hands<br/>Jewel of the North
+| type               = Settlement
+| region             = [[Sword Coast North]], [[northwest Faerûn]]
+| size               = City (c. [[1491 DR]])<br/>{{Former}} Metropolis (before [[1451 DR]])<br/>{{Former}} Large city (c. [[1372 DR]])
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="FRCS1e-CotR-p66"/><ref name="WatN-p9"/><ref name="TSF-p31"/><ref name="FRCS2e-AGTotR-p114"/><ref name="FRCS3e-p176"/><ref name="RoF-p93">{{Cite book/Races of Faerûn|93}}</ref><ref name="NCS-p138"/><ref name="Nev-p146">{{Cite book/Neverwinter/Hardcover|146}}</ref>
+| demonym            = Neveren,<ref name="WotW" /> Neverwintan,<ref name="VGttN-p130" /><ref name="TheNorthCity-p14" /> Neverwintian (rare)<ref name="WotW">{{Cite polyhedron/74/The Everwinking Eye: Words To The Wise}}</ref>
+| population         = 
+| races              = [[Half-elves]], [[humans]], and a minority of [[dwarves]] (c. [[1372 DR]])<br/>Plus a minority of [[dragonborn]], [[eladrin]], [[tiefling]]s, [[orc]]s, and [[half-orc]]s (c. [[1479 DR]])
+| languages          = 
+| religion           = [[Asmodeus]], [[Bahamut]], [[Helm]], [[Kelemvor]], [[Oghma]], [[Selûne]], [[Torm]], [[Tyr]], [[Waukeen]]
+| alignment          = 
+| socrefs            = <ref name="FRCS2e-AGTotR-p114"/><ref name="FRCS3e-p176"/><ref name="NCS-p88">{{Cite book/Neverwinter Campaign Setting|88}}</ref><ref name="NCS-p98">{{Cite book/Neverwinter Campaign Setting|98}}</ref><ref name="NCS-p140">{{Cite book/Neverwinter Campaign Setting|140}}</ref><ref name="TheNorthCity-p14">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|14}}</ref><ref name="DR381-p92"/><ref name="DU193-p21"/><ref name="NVMMO"/>
+| imports            = Crafters, [[Mercenary|mercenaries]]
+| exports            = Crafts (especially water-clocks and exotic lamps), fish, horticulture, logging, [[magical]] innovations
+| currency           = {{currency table|1pp|1 [[fairsail]]|10 gold [[dragon (coin)|dragon]]s|20 electrum [[sea-shee]]|100 silver [[bult]]s|1000 copper [[tharn]]s}}
+| comrefs            = <ref name="FRCS1e-CotR-p66"/><ref name="WatN-p9"/><ref name="TSF-p31"/><ref name="FRCS2e-AGTotR-p114"/><ref name="FRCS3e-p176"/><ref name="NCS-p86"/><ref name="VGttN-p130"/><ref name="TheNorthCity-p14"/><ref name="TSF-p31"/><ref name="Ed">{{cite web|author=[[Ed Greenwood]]|title=Ed's Twitter|url=https://twitter.com/TheEdVerse/status/1168298350074040320|accessdate=2019-09-03}}</ref>
+| government         = [[Wikipedia:Lord|Lordship]] <br/>{{Former}} [[wikipedia:Royalty|Royalty]]<br/>{{Former}} Lordship
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = <ref name="WatN-p9"/><ref name="TSF-p31"/><ref name="FRCS3e-p176"/><ref name="NCS-p86"/><ref name="NCS-p138"/>
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 17,000
+| popyear1           = 1357
+<!--| population2        = 17,000
+| popyear2           = 1366-->
+| population2        = 23,192
+| popyear2           = 1372
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = Lord [[Nasher Alagondar]]
+| ruleryear1         = 1357 and 1372
+| ruler2             = King Nasher Alagondar
+| ruleryear2         = 1385
+| ruler3             = King [[Bann Alagondar]]
+| ruleryear3         = 1400
+| ruler4             = Lord Protector [[Dagult Neverember]]
+| ruleryear4         = 1491
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="WatN-p9"/><ref name="TSF-p31"/><ref name="FRCS2e-AGTotR-p114"/><ref name="FRCS3e-p176"/><ref name="NCS-p86">{{Cite book/Neverwinter Campaign Setting|86}}</ref><ref name="NCS-p138">{{Cite book/Neverwinter Campaign Setting|138}}</ref>
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = yes
+| roads              = yes
+| mountains          = 
+| bodies of water    = yes
+| forests            = 
+| events             = yes
+| food and drink     = yes
+| items     
+
+=== LINKED WIKI PAGE (first 5000 chars): Dauner Ilzimmer
+
+{{DEFAULTSORT:Ilzimmer, Dauner}}
+{{Person
+| image          = 
+| caption        = 
+| name           = Dauner Ilzimmer
+| true name      = 
+| alt_spelling   = 
+| titles         = Lord Warder
+| aliases        = 
+| nicknames      = 
+| home           = [[Amphail (village)]], [[Savage Frontier]]<ref name="SKT-p72" />
+| formerhomes    = [[Waterdeep]]
+| sex            = Male<ref name="SKT-p72" />
+| race           = [[Human]]<ref name="SKT-p72" />
+| ethnicity      = [[Chondathan]]
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| alignment5e    = [[Lawful neutral]]
+| class5e        = [[noble]]
+| refs5e         = <ref name="SKT-p72">{{Cite book/Storm King's Thunder|72}}</ref>
+}}
+'''Dauner Ilzimmer''' was a member of the [[Ilzimmer]] family and the lord of [[Amphail (village)|Amphail]] sometime after the [[War of the Silver Marches]].<ref name="SKT-p72" />
+
+==Personailty==
+Dauner was a bombastic family man that loved horses more than people.<ref name="SKT-p72" />
+
+==Appendix==
+===Appearances===
+* ''[[Storm King's Thunder]]''
+
+===References===
+{{Refs}}
+
+[[Category:Chondathans]]
+[[Category:Humans]]
+[[Category:Nobles]]
+[[Category:Members of the Ilzimmer family]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+[[Category:Inhabitants of Amphail]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sea Ward of Waterdeep]]
+[[Category:Inhabitants of Ilzimmer Villa]]
+[[Category:Members of the Lords' Alliance]]
+[[Category:Nobles (5e)]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Flaming Fist
+
+{{Organization
+| image          = FlamingFist.png
+| caption        = Flaming Fist Coat of Arms
+| name           = Flaming Fists
+| aliases        = 
+| type           = 
+| base           = [[Seatower of Balduran]]/[[Wyrm's Rock]]<br/>{{Former}}[[Flaming Fist Headquarters]], [[Baldur's Gate]]
+| leader         = [[Eltan]] in [[1368 DR]]<br />[[Kyrill Nederlok]] in [[1369 DR]]<br />Eltan in [[1372 DR]] <br/> [[Abdel Adrian]] in [[1482 DR]]<br />[[Ulder Ravengard]] in [[1492 DR]]
+| symbol         = A closed fist, set aflame, atop an upended diamond 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = [[1345 DR]]<ref name="SoD-FR">{{Cite web/Siege of Dragonspear: Field Report}}</ref><ref name="founding" group="note">''[[Gold & Glory]]'' states the Flaming Fist was founded "almost 30 years ago". It then goes on to describe the [[Amn]]ian discovery of [[Maztica]] ([[1361 DR]]) and the Fist's founding of [[Fort Flame]] ([[1364 DR]]) as "recent events" (both dated in ''[[The Grand History of the Realms]]''). This indicates that the Flaming Fist was founded in [[1332 DR]] at the earliest, and [[1335 DR]] at the latest. It is assumed this is an inconsistency between ''Gold & Glory'' and ''The Grand History'', and that the newer ''Field Report'' is correct.</ref>
+| disbanded      =
+| basicrefs      = <ref name="G&G-p9">{{Cite book/Gold & Glory|9}}</ref><ref name="BG.SoD" /><ref name="MiBG.CG-p42" /><ref name="MiBG.A-p4" />
+| members        = 1600 (~[[1360 DR]]) <br/> 2000 ([[1356 DR]]) <br/> 6000 ([[1482 DR]])
+| memberstable   = 
+| memtableheader = 
+| alignment      = [[Lawful neutral]]
+| races          = Nearly any
+| memrefs        = <ref name="G&G-p9" /><ref name="FRCS:DM-p34"/><ref name="MiBG.CG-p42" />
+| allegiances    = [[Baldur's Gate]], [[the Watch]]
+| enemies        = [[Cult of the Absolute]]<br />[[Cult of the Dragon]]<Br />[[Cult of Zariel]]<br />[[Zhentarim]]
+| relrefs        =<ref name="G&G-p11"/>
+| showmembers    = yes
+| orgname        = the Flaming Fist
+}}
+The '''Flaming Fist''', or '''Flaming Fists''', was a [[mercenary]] company based in the city of [[Baldur's Gate]] on the [[Sword Coast]], where its members served as city guards.<ref name="FRCG-p94-95">{{Cite book/Forgotten Realms Campaign Guide|94-95}}</ref> They were one of the most powerful and expensive fighting forces in all the Realms during the 14{{th}} century [[DR]],<ref name="FRCS:DM-p34">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|34}}</ref> motivated primarily by the promise of riches and the glory of victory, though they edged on the side of promoting order throughout the Realms.<ref name="G&G-p11"/>
+
+{{TOC limit|3}}
+
+==Organization==
+[[File:Flaming Fist.png|thumb|left|300px|''A proud soldier of the Baldurian Flaming Fist.'']]
+===Leadership===
+During the 1300s, the company was led by 10 senior officers which included the master-tactician [[Hurbold Duethkatha|Scar]], the powerful mage Moruene and the company's founder and leader, [[Eltan|Grand Duke Eltan]].<ref name="FRCS:DM-p34"/><ref name="FRCS:DM-p35"/>
+
+The other leaders included [[Beluarion]], [[Kulurauk]], [[Bellan]], [[Nenon]], [[Koruelve]], [[Desedrak]] and [[Yulimtul]]. These high-ranking Flaming Fist officers served as commanders on the battlefield, bodyguards during intense, high-risk negotiations and often as a protective bulwark for Eltan and Moruene when they forayed into combat.<ref name="FRCS:DM-p35">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|35}}</ref>
+
+Following the near-disastrous expeditions to [[Maztica]] and Anchorome during the early 1360's DR, over half of the senior officers were either killed, went missing or were absent from Baldur's Gate due to new posts from which they served. Along with the surviving Koruelve, A new generation of officers were inducted into the Flaming Fist including [[Lendali Firehair]], [[Herculus|Herculus the Hammer]], [[Skot-sar]], [[Delandria]] [[Kalvistalk|Kalvistalk the Huner]] and [[Morgan Redwing]].<ref name="G&G-p11"/>
+
+During the mid-15{{th}} century [[DR]], [[Grand Duke]] [[Abdel Adrian]] served as the Marshal of the Flaming Fist until his death in the {{YearlinkName|1482}}.<ref name="MBG-p4">{{Cite book/Murder in Baldur's Gate/Adventure|4}}</ref> He was succeeded by [[Ulder Ravengard]], who also ascended to the office of Grand Duke of Baldur's Gate within a decade.<ref name="TRoT-p15">{{Cite book/The Rise of Tiamat|15}}</ref><ref name="SCAG-p45">{{Cite book/Sword Coast Adventurer's Guide|45}}</ref>
+
+===Ranks===
+The Flaming Fist operated under a strict military hierarchy. They seldom recruited locals to aid in their missions, except in the cases of advisers or wilderness guides.<ref name="G&G-p11">{{Cite book/Gold & Glory|11}}</ref>
+
+As of the late 15{{th}} century [[DR]], the Flaming Fist comprised six hierarchical ranks. In descending order of authority they were: ''Marshal'', the Fist's general; ''Blaze'', equivalent to a major; ''Flame'', an office
+
+=== LINKED WIKI PAGE (first 5000 chars): Ulder Ravengard
+
+{{DEFAULTSORT:Ravengard, Ulder}}
+{{Person
+| image          = UlderRavengard.jpg|
+| caption        = 
+| name           = Ulder Ravengard
+| alt_spelling   = 
+| titles         = [[Grand Duke]] <br/> Marshal <br />{{Former}} [[Blaze]]
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Baldur's Gate]], [[Sword Coast]]
+| formerhomes    = 
+| sex            = Male
+| gender         = Masculine
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = Marshal of the [[Flaming Fist]]
+| age            =
+| patron deity   = [[Torm]]<ref name="DEA">{{Cite comic/Days of Endless Adventure}}</ref>
+| languages      = [[Common]]
+| basicrefs      = <ref name="SCAG-p7"/><ref name="TRoT-p15" /><ref name="MiBG.MS-p8"/><ref name="MiBG.MS-p23"/><ref name="idle" />
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = 
+| spouses        = [[Francesca Ravengard]]
+| siblings       = 
+| children       = [[Wyll Ravengard]] 
+| familyrefs     = <ref name="BG3" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = [[Dillard Portyr]]<ref name="MiBG.CG-p43"/>
+| successor      = [[Enver Gortash]]<ref name="BG3" />
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = [[Lawful neutral]]
+| challenge3e    = 6
+| class3e        = {{class table|edition=3e|[[Fighter]]|6}}
+| refs3e         = <ref name="MiBG.MS-p23"/>
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = [[Unaligned]]
+| class4e        = Elite Soldier (Leader)
+| refs4e         = <ref name="MiBG.MS-p16"/>
+| alignment5e    = [[Lawful neutral]]
+| challenge5e    = 
+| class5e        = {{class table|edition=5e|[[Fighter]]|11}}
+| refs5e         = <ref name="MiBG.MS-p8"/><ref name="BG.DiA-p70"/><ref name="BG3" /><ref name="idle" />
+}}
+'''Grand Duke Ulder Ravengard''' ({{Pronounce|UL|der|RAY|ven|gard|refs=<ref name="BG.DiA-p4">{{Cite book/Baldur's Gate: Descent into Avernus|4}}</ref>}}) was a lifelong soldier of the [[Flaming Fist]] who ascended to the rank of Marshal, and served on the [[Council of Four]] of [[Baldur's Gate]] in the late 15{{th}} century [[DR]].<ref name="SCAG-p7">{{Cite book/Sword Coast Adventurer's Guide|7}}</ref>
+
+{{Quote|Baldur's Gate holds a delicate balance that requires all of our precious resources to maintain. That's the greater good.|Grand Duke Ravengard to leaders of [[the Watch]].<ref name="LBG.2-p10">{{Cite comic/Legends of Baldur's Gate 2|10}}</ref>}}
+
+==Description==
+As a commander, Ravengard was a true warrior at heart<ref name="TRoT-p15" /> and always took quick and relentless action in battle.<ref name="MiBG.CG-p43" />
+
+==Personality==
+[[File:Duke Ulder Ravengard.jpg|thumb|''Duke Ravenguard defending Baldur's Gate.''|340x340px]]
+Ulder Ravengard was highly disciplined and precise in his actions,<ref name="MiBG.CG-p43">{{Cite book/Murder in Baldur's Gate/Campaign Guide|43}}</ref> and possessed great martial acuity. Despite that, he did lack the sophistication and tact of other dukes.<ref name="TRoT-p15" /> While acted in the manner he always believed to be "[[good]]", he lost sight when it came to others who exhibited any sort of moral ambiguity.<ref name="MiBG.CG-p43" />
+
+He had an unwavering commitment to his duty to uphold the law, often evaluating others in terms of how they gave and obeyed orders. He also had a great sense of duty to his city and wanted to restore Baldur's Gate's sense of pride.<ref name="TRoT-p15" />
+
+==Abilities==
+He dedicated much of his focus to stamping out every lingering presence of [[the Guild]] in Baldur's Gate.<ref name="MiBG.CG-p43" />
+
+==Possessions==
+His preferred weapon of choice was a [[bastard sword]].<ref name="MiBG.MS-p8">{{Cite book/Murder in Baldur's Gate/Monster Statistics|8}}</ref><ref name="MiBG.MS-p16">{{Cite book/Murder in Baldur's Gate/Monster Statistics|16}}</ref><ref name="MiBG.MS-p23">{{Cite book/Murder in Baldur's Gate/Monster Statistics|23}}</ref> As a Marshal of the Iron Fist, Ulder wore a ''[[marshal medallion]]'', a ''[[plate of high command]]'', and defended himself with the ''[[Aegis of Baldur's Gate]]'' – all [[enchanted]] items, and the ''Aegis'' was rumored to once had been wielded by [[Balduran|"Baldur"]] himself. During [[Elturel]]'s Descent into [[Avernus]], Ulder recovered an enchanted sword, ''[[Lathander's Might]]'', from the deity's chapel. Following the city's return to the [[Prime Material plane]], the Duke was gifted ''[[Hellrider dagger]]'' by one of the [[Hellriders]]. The imprisonment at the bottom of the [[Gray Harbor]], following Elturel's Descent, gave Ulder Ravengard a ''[[Helm of Torm's Sight]]''.<ref name="idle" />
+
+==Activities==
+As Blaze, Ulder Ravengard served as the Warden of the [[Wyrm's Rock]] fortress.
+
+=== LINKED WIKI PAGE (first 5000 chars): Daggerford
+
+{{GA}}
+{{Location
+| image              = NWN.DoD cinematic Daggerford.png
+| caption            = Daggerford circa [[1372 DR]].
+| name               = Daggerford
+| alt spelling       = 
+| aliases            = 
+| type               = Settlement
+| region             = [[Delimbiyr Vale]], [[Sword Coast]]
+| size               = Small town
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="VoloSC-p34" /><ref name="NGSF-D-p2" /><ref name="FRCS3e-p227" /><ref name="UI.DIA">{{Cite book/Under Illefarn/Daggerford Immediate Area}}</ref>
+| demonym            = 
+| population         = 
+| races              = [[Dwarves]], [[halfling]]s, [[human]]s
+| languages          = 
+| religion           = [[Amaunator]], [[Chauntea]], [[Lathander]], [[Tempus]], [[Tymora]]
+| alignment          = 
+| socrefs            = <ref name="VoloSC-p34" /><ref name="NGSF-CC-p63">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|63}}</ref><ref name="SSC-p20" />
+| imports            = Green wood
+| exports            = Furs, garments
+| currency           = 
+| comrefs            = <ref name="VGSC-p32" /><ref name="NGSF-CC-p3">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|3}}</ref>
+| government         = Oligarchy
+| rulertype          = Duke/Duchess<br />(head of state)
+| ruler              = [[Council of Guilds]]
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = <ref name="NGSF-D-p3" /><ref name="UF-p7" />
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = Castle Daggerford built
+| date1              = 931
+| event2             = Council of Guilds founded
+| date2              = 1320
+| event3             = [[Battle of Daggerford]]
+| date3              = 1363
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 300 (1000 overall)
+| popyear1           = 1347
+| population2        = 500
+| popyear2           = 1370
+| population3        = 891
+| popyear3           = 1372
+| population4        = 1200
+| popyear4           = 1485
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = [[Conan Daggerford]]
+| ruleryear1         = 1320
+| ruler2             = [[Pryden Daggerford]]
+| ruleryear2         = 1356
+| ruler3             = [[Pwyll Daggerford|"Greatshout" Daggerford]]
+| ruleryear3         = 1370
+| ruler4             = [[Maldwyn Daggerford]]
+| ruleryear4         = 1485
+| ruler5             = [[Morwen Daggerford]]
+| ruleryear5         = 1489
+| rulertable         = 
+| histrefs           = <ref name="VoloSC-p34" /><ref name="NGSF-D-p2" /><ref name="NGSF-D-p3" /><ref name="UF-p7" /><ref name="FRCS3e-p227">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|227}}</ref><ref name="GHotR-p146">{{Cite book/The Grand History of the Realms|146}}</ref><ref name="GCS-p134" /><ref name="SCAG-p47" />
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = 
+| food and drink     = 
+| items              = yes
+}}
+'''Daggerford''' was a small but consequential town located in the [[Delimbiyr Vale]] within the greater [[Sword Coast]].<ref name="NGSF-D-p2" /><ref name="SSC-p12" /><ref name="GCS-p134">{{Cite book/Ghosts of Dragonspear Castle|134}}</ref> While it was primarily a farming community, and considered by some to be a mere stopover, the town had great ambitions to grow and be seen as an alternative to their northern neighbor of [[Waterdeep]].<ref name="NGSF-D-p3" /><ref name="FRCS3e-p227" /> 
+
+Despite its modest size and somewhat inflated sense of importance, Daggerford was resilient. It was something of a relic from the old kingdom of [[Delimbiyr]],<ref name="SSC-p12">{{Cite book/Scourge of the Sword Coast|12}}</ref> too stubborn to fall even when a series of wars, crusades, and other conflicts threatened the entirety of the Sword Coast.<ref name="BG.SoD" /> Daggerford's coat-of-arms was a ''[[silver]] [[dagger]]'', covered in blood atop a field of dark blue.<ref name="VoloSC-p34" />
+
+{{TOC limit|3}}
+==Description==
+It was a walled settlement with a population that by and large lived in the outlying hamlets, farms, and estates, rather than within the town proper. As such, the streets of Daggerford were not densely populated.<ref name="FH-p76" /> The town was significantly refurbished during the 13{{th}} century when many of its 40-odd wooden structures were remade in stone by the dwarves of [[Clan Ironeater]].<ref name="NGSF-D-p2" /><ref name="FRC
+
+=== LINKED WIKI PAGE (first 5000 chars): Mirabar
+
+{{Location
+| image              = Mirabar.JPG
+| caption            = A map showing the location of Mirabar.
+| name               = Mirabar
+| alt spelling       = 
+| aliases            = 
+| type               = 
+| region             = [[Sword Coast North]], [[northwest Faerûn]]
+| size               = Small city
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="TN-C&C-p25" />
+| demonym            = Mirabarran
+| population         = 
+| races              = [[Human]]s <br/> [[Shield dwarves]]
+| languages          = 
+| religion           = [[Chauntea]], [[Tymora]], the [[Morndinsamman]]
+| alignment          = 
+| socrefs            = <ref name="VGttN-p155-157">{{Cite book/Volo's Guide to the North|155-157}}</ref> 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = [[Council of Sparkling Stones]]
+| rulertype          = 
+| ruler              = [[Marchion]]
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 23,000<ref name="FR1-p8">{{Cite book/Waterdeep and the North|8}}</ref>
+| popyear1           = 1357
+| population2        = 23,700 <small>(4,100 [[dwarves]])</small><ref name="DD-p61">{{Cite book/Dwarves Deep|61}}</ref>
+| popyear2           = 1358
+| population3        = 23,000<ref name="north-27">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|27}}</ref>
+| popyear3           = 1370
+| population4        = 10,307<ref name="FRCS-p176">{{Cite book/Forgotten Realms Campaign Setting|176}}</ref>
+| popyear4           = 1372
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = [[Elastul Raurym]]
+| ruleryear1         = 1368
+| ruler2             = [[Selin Ramur]] (after [[1485 DR]])<ref name="SKT5e-p98">{{Cite book/Storm King's Thunder|98}}</ref>
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = 
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = 
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = 
+| food and drink     = yes
+| items              = 
+}}
+'''Mirabar''' ({{Pronounce|meer|uh|BAR|refs=<ref name="AL-RoK-p3">{{Cite organized play/AL/Relics of Khundrukar|3}}</ref>}}) was a mining city of great wealth located on the [[Sword Coast]]. As of [[1368 DR]] it was the richest city north of [[Waterdeep]].<ref name="VoloN-p151-152">{{Cite book/Volo's Guide to the North|151-152}}</ref><ref name="TN-C&C-p25">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|25}}</ref> In [[1370 DR]], the city was occupied by 1600<ref name="tTO-p55a">{{Cite book/The Thousand Orcs/MMP|55}} This number is reduced by four hundred, see p. 289.</ref> [[shield dwarves]] who lived underground near to their workshops, which produced metal goods for export in the region and beyond. The humans above cooperated with the dwarves to handle the mining, move the ore to market, and defend the city against magical threats. Mirabar was ruled by a hereditary [[marchion]], but the true power was in an elected<ref name="tTO-p54">{{Cite book/The Thousand Orcs/MMP|54}}</ref> assembly called the [[Council of Sparkling Stones]],<ref name="tTO-p31">{{Cite book/The Thousand Orcs/MMP|31}}</ref> a mixed dwarven and human group that met once a year to determine production quotas<ref name="tTO-p55">{{Cite book/The Thousand Orcs/MMP|55}}</ref> and whether or not to threaten current clients with reduced output. It was led by the dwarven [[cleric]] of [[Dumathoin]], [[Agrathan Hardhammer]]. Mirabar also had an elected sceptrana,<ref name="tTO-p54" /> [[Shoudra Stargleam]] in 1370 DR.<ref name="tTO-p53">{{Cite book/The Thousand Orcs/MMP|53}}</ref>
+
+==Description==
+Mirabar stood on a knoll on the north banks of the [[River Mirar]].<ref name="VoloN-p151-152" /> On the surface, Mirabar was populated with squat stone buildings and a few stone towers. It was arranged in such a way as to provide great efficiency.<ref name="tTO-p33">{{Cite book/The Thousand Orcs/MMP|33}}</ref> Its walls were extremely thick and sloping, so as to allow water to be poured down them in
+
+=== LINKED WIKI PAGE (first 5000 chars): Frozenfar
+
+{{Location
+| image              = Frozenfar.jpg
+| caption            = ''A map of the Frozenfar circa [[1485 DR]].''
+| name               = Frozenfar
+| alt spelling       = 
+| aliases            = [[Frozen North]]<ref name="iwd:h">{{Cite game/Icewind Dale: Heart of Winter}}</ref>
+| type               = Region
+| region             = [[Northwest Faerûn]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = [[Fireshear]]<ref name="WatN-p5">{{Cite book/Waterdeep and the North|5}}</ref>
+| georefs            = <ref name="FRCS3e-p176">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|176}}</ref>
+| demonym            = 
+| population         = 
+| races              = [[Dwarves]], [[frost giant]]s, [[human]]s, [[orc]]s
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = <ref name="N.GSFW-p39">{{Cite book/The North: Guide to the Savage Frontier/The Wilderness|39}}</ref>
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = 
+| usethe             = yes
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = yes
+| roads              = yes
+| mountains          = yes
+| bodies of water    = yes
+| forests            = 
+| events             = 
+| food and drink     = 
+| items              = 
+}}
+The '''Frozenfar''' was the coldest, most remote region of [[the North]]. It comprised the [[Spine of the World]] mountains;<ref name="N.GSFW-p39" /><ref name="FRCS3e-p169">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|169}}</ref> the frigid lands to the north and west; including [[Icewind Dale]], the [[Cold Run]], the icebergs of the [[Sea of Moving Ice]], and the northeasternmost part of the [[Trackless Sea]].<ref name="N.GSFW-p39">{{Cite book/The North: Guide to the Savage Frontier/The Wilderness|39}}</ref><ref name="N.GSFCC-p19">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|19}}</ref><ref name="LCS.CG-p56">{{Cite book/Legacy of the Crystal Shard/Campaign Guide|56}}</ref><ref group="note">While ''[[The North: Guide to the Savage Frontier]]'' includes the islands of [[Purple Rocks]] and [[Gundarlun]] within the ''Frozenfar'' section, their status as sub-arctic isles (and their latitude) is inconsistent with the in-text description of the Frozenfar in various sources. Additionally, they are not included within the broad categories of the ''Frozenfar'' section of the more recent sourcebook, the [[Legacy of the Crystal Shard]].</ref>
+
+{{TOC limit|3}}
+==Usage==
+The Frozenfar did not have definable boundaries. The term "Frozenfar" was used by people across [[Faerûn]] to include various areas. For example in [[Amn]] and the [[Inner Sea]], the term "Frozenfar" referred to the city of [[Mirabar]] and everything north, including the Spine of the World mountains.<ref name="VoloN-p7">{{Cite book/Volo's Guide to the North|7}}</ref> Sometimes the term "Frozenfar" also included the island of [[Ruathym]].<ref name="N.GSFW-p42">{{Cite book/The North: Guide to the Savage Frontier/The Wilderness|42}}</ref>
+
+However in the North, the term "Frozenfar" referred only to the lands north of the Spine of the World.<ref name="VoloN-p7"/> That was among the most commonly accepted usage.<ref name="FRCS3e-p169"/><ref name="SM-p32">{{Cite book/Silver Marches|32}}</ref>
+
+Yet others used "Frozenfar" to refer to all the lands of the North within which individuals could literally freeze to death during their travels.<ref name="N.GSFCC-p19"/>
+
+==Geography==
+The Frozenfar reached the northern peaks of the Spine of the World and extended northwest through the Sea of Moving Ice.<ref name="N.GSFW-p41">{{Cite
+
+=== LINKED WIKI PAGE (first 5000 chars): Order of Tye
+
+{{Organization
+| image          = 
+| caption        = 
+| name           = Order of Tye
+| aliases        = 
+| type           = Knightly order
+| base           = [[Waterdeep]]
+| leader         = [[Peneshay|Lord Peneshay]] ''circa'' [[1372 DR]]
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="NWN-DOD">{{Cite game/Neverwinter Nights: Darkness over Daggerford}}</ref>
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = 
+| memrefs        = 
+| allegiances    = [[Lords' Alliance]]
+| enemies        = 
+| relrefs        = <ref name="NWN-DOD" />
+| showmembers    = 
+| orgname        = 
+}}
+The '''Order of Tye''' was a prestigious knightly unit dedicated to guarding and escorting the members of the [[Lords' Alliance]] during travels outside the walls of [[Waterdeep]]. They were easy to spot by the Order's colors of azure blue.<ref name="NWN-DOD" />
+
+==Organization==
+Based in the City of Splendors, the Order of Tye's reputation brought numerous aspiring applicants. The number of aspiring knights led to the Order's leaders to implement rigorous initiation tests. The applicants bore the title of Squire and only the best of them reached the end of the trials. The trials varied greatly with many of the youths losing their lives during exercises, to deadly traps, or when sent to stand against dangerous beasts. The final test was referred to as the Knight's Trial.<ref name="NWN-DOD" />
+
+==History==
+[[Peneshay|Lord Peneshay]] was the leader of the Order of Tye ''circa'' [[1372 DR]]. Under his leadership the order flourished and gained significant prestige that increased the number of prospective members. In 1372 [[DR]], Squire [[Blancheflor]], Squire [[Launfal]], and Squire [[Camelon]] were facing their Knight's Trial. The trio was sent to the area known as the [[Lonely Barrens]], in [[Delimbiyr Vale]], to the east of [[Daggerford]]. The youths were ordered to slay a vicious and dangerous foe: the [[Mighty Rat of Cunning Demeanor]]. But the squires fled from the creature's lair at the sight of a swarm of hungry [[rat]]s that attempted to consume them. With the help of the individual known as the [[Hero of Daggerford]], the squires survived the ordeal and brought MRCD with them to the Order of Tye as a prisoner and the proof of their dubious valor.<ref name="NWN-DOD" />
+
+==Members==
+*[[Camelon]]: young knight prospect of the Order of Tye ''circa'' 1372 DR<ref name="NWN-DOD" />
+*[[Blancheflor]]: the squire who survived her Knight's Trial in 1372 DR.<ref name="NWN-DOD" />
+*[[Launfal]]: yet another young squire set against the deadly Mighty Rat of Cunning Demeanor in 1372 DR.<ref name="NWN-DOD" />
+*[[Lord Peneshay]]: the head of the Order ''circa'' 1372 DR.<ref name="NWN-DOD" />
+
+==Appendix==
+===Appearances===
+:;Video Games
+::''[[Neverwinter Nights: Darkness over Daggerford]]''
+
+===References===
+{{Refs}}
+[[Category:Organizations on Toril]]
+[[Category:Organizations in Faerûn]]
+[[Category:Organizations on the Sword Coast North]]
+[[Category:Organizations on the Sword Coast]]
+[[Category:Organizations in Waterdeep]]
+[[Category:Knighthoods]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Red Wizards of Thay
+
+{{Organization
+| image          = <gallery>
+Red wizards onslaught.png|5e
+Symbol_of_the_Red_Wizards.jpg|3e
+</gallery>
+| caption2       = ''The symbol of the Red Wizards across the ages.''
+| name           = Red Wizards of Thay
+| aliases        = Red Wizards of Thay<br />Red Magic Cult<ref name=CotD-p57">{{Cite book/Cult of the Dragon|57}}</ref><br />Red Wizards of Mulhorand<ref name="NS-p51" />
+| type           = 
+| base           = [[Thaymount (tharch)|Thaymount]], [[Thay]]
+| leader         = [[Szass Tam]] and the [[Council of Zulkirs]]
+| symbol         = 
+| favored deity  = [[Kossuth]] <small>(also: [[Bane]], [[Cyric]], [[Loviatar]], [[Malar]], [[Shar]])</small>
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="SB.CG-p8">{{Cite book/Spellbound/Campaign Guide|8}}</ref><ref name="F&A-p89"/><ref name="LoD-p56"/><ref name="GTotR-p121"/><ref name="FRCG-p180"/><ref name="SCAG-p141"/>
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{alignment grid|off|off|off|on|off|off|on|on|on}}
+| races          = [[Human]] (mostly [[Mulan]])
+| memrefs        = <ref name="RoF-p98">{{Cite book/Races of Faerûn|98}}</ref><ref name="LoD-p59"/>
+| allegiances    = [[Church of Kossuth]], [[Council of Zulkirs]], [[Cult of the Dragon]], [[Guild of Foreign Trade]], [[Trail Lords]]
+| enemies        = [[The Harpers]], [[Lords' Alliance]], [[Rashemaar berserkers]], [[Wychlaran]], [[Zhentarim]]
+| relrefs        = <ref name="F&A-p89">{{Cite book/Faiths & Avatars|89}}</ref><ref name="LoD-p56"/><ref name="CoS.W-p26">{{Cite book/City of Splendors: Waterdeep|26}}</ref><ref name="CoV-p9">{{Cite book/Champions of Valor|9}}</ref><ref name="CoR-p74">{{Cite book/Champions of Ruin|74}}</ref><ref name="LoD-p60">{{Cite book/Lords of Darkness|60}}</ref><ref name="PoF-p76">{{Cite book/Power of Faerûn|76}}</ref>
+| showmembers    = yes
+| orgname        = the Red Wizards of Thay
+}}
+The '''Red Wizards of Thay''', colloquially known as the '''Red Magic Cult''' in the [[Eastern Heartlands]], were the notorious and nefarious magocratic ruling class of the inhospitable but well-inhabited country of [[Thay]].<ref name="SCAG-p141">{{Cite book/Sword Coast Adventurer's Guide|141}}</ref> Historically they owed their power to being cruel slavers,<ref name="SB.CG-p14">{{Cite book/Spellbound/Campaign Guide|14}}</ref><ref name="CoR-p63">{{Cite book/Champions of Ruin|63}}</ref> demonologists,<ref name="SB.CG-p17">{{Cite book/Spellbound/Campaign Guide|17}}</ref><ref name="RoT-p7">{{Cite book/The Rise of Tiamat|7}}</ref> and arcane experimenters,<ref name="MotM-p60">{{Cite book/Mysteries of the Moonsea|60}}</ref> before most of their numbers wholly dedicated themselves to creating a nation of [[undeath|undead]].<ref name="SCAG-p13">{{Cite book/Sword Coast Adventurer's Guide|13}}</ref>
+
+==Organization==
+For centuries, the leaders of the Red Wizards and in fact all of Thay was the [[Council of Zulkirs]].<ref name="FRCS2e.RTR-p27">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|27}}</ref> The ruling body comprised eight of the most powerful Red Wizards, each of whom represented one of the [[schools of magic]].<ref name="LoD-p56"/> Each of the zulkirs and their subordinates fomented intense rivalries with one another, leading to great feuds and near-crippling internal strife.<ref name="LoD-p60">{{Cite book/Lords of Darkness|60}}</ref>
+
+In the years following the [[War of the Zulkirs]], the Red Wizards of Thay were led by the feared [[lich]] and supreme regent, [[Szass Tam]].<ref name="SCAG-p13"/><ref name="FRCG-p5">{{Cite book/Forgotten Realms Campaign Guide|5}}</ref><ref name="DrM.366.RK">{{Cite dragon/366/Rose Keep}}</ref>
+
+Since Szass Tam's takeover, the exiled Red Wizards have transformed enormously, becoming a loosely organized chain of merchant enclaves who specialized in procuring magical items.<ref name="DrM.366.RK"/>
+
+===Factions===
+The Red Wizards have historically been fraught with in-fighting and turmoil. As the stakes rose over the years, these conflicts became more dramatic and impactful to their operations.<ref name="SB.CG-p11">{{Cite book/Spellbound/Campaign Guide|11}}</ref><ref name="SB.CG-p15">{{Cite book/Spellbound/Campaign Guide|15}}</ref>
+
+In the years before the mid–14{{th}} century [[DR]], the Red Wizards divided themselves into two separate ideological groups. The influential Imperialists sought to conquer Faerûn, by military might, subterfuge, or any other means necessary.<ref name="SB.CG-p8"/> The Researchers took a more isolationist stance, preferring to focus on arcane research within the safety of the [[Thayan Plateau]].<ref name="SB.CG-p9">{{Cite book/Spellbound/Campaign Guide|9}}</ref>
+
+After Szass Tam seized power from the Council of Zulkirs, the Red Wizards underwent a more severe divide. Both the zulkirs and the Red Wizards loyal to their respective schools were forced to choose a faction in the growing conflict: eith
+

@@ -1,0 +1,1422 @@
+=== WIKI PAGE: Emerald Enclave
+
+{{Organization
+| image          = EMLD_banner.png
+| caption        = The 15{{th}} century symbol of the Emerald Enclave.
+| name           = Emerald Enclave
+| aliases        = Caretakers<ref name="VilhonReach-p26" /><br/>Nature's Chosen<ref name="VilhonReach-p26" /><br/>The Circle<ref name="VilhonReach-p26" /><br/>Chosen of Silvanus<ref name="VilhonReach-p26" />
+| type           = 
+| base           = [[Ilighôn]], [[Vilhon Reach]]
+| leadertitle    = 
+| leader         = The [[Elder Circle]]
+| symbol         = 
+| favored deity  = [[Eldath]], [[Mielikki]], [[Silvanus]]<ref name="FRCS-3e-p273" />
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = 
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = [[Lawful neutral]], [[chaotic neutral]], or [[neutral]]<ref name="VilhonReach-p26"/>
+| races          = 
+| memrefs        = 
+| event1         = 
+| date1          = 
+| event2         = 
+| date2          = 
+| event3         = 
+| date3          = 
+| event4         = 
+| date4          = 
+| leader1        = 
+| leaderyear1    = 
+| leader2        = 
+| leaderyear2    = 
+| leader3        = 
+| leaderyear3    = 
+| leader4        = 
+| leaderyear4    = 
+| leader5        = 
+| leaderyear5    = 
+| leadertable    = 
+| histrefs       = 
+| allegiances    = [[Church of Eldath]], [[Church of Mielikki]],<ref name="VilhonReach-p26"/> [[Church of Nobanion]],<ref name="pp-p42">{{Cite book/Powers & Pantheons|42}}</ref> [[Church of Silvanus]]<ref name="VilhonReach-p26"/>
+| enemies        = [[Church of Bane]],<ref name="LOD-119">{{Cite book/Lords of Darkness|119}}</ref> [[Church of Talos]],<ref name="FRCS-3e-p273" /> [[Church of Malar]],<ref name="JOT-ch1" /> [[People of the Black Blood]],<ref name="FRCS-3e-p273" /> [[Red Wizards of Thay]],<ref name="VilhonReach-p14" /> [[Zhentarim]]<ref name="VilhonReach-p26" />
+| relrefs        = 
+| showmembers    = yes
+| orgname        = the Emerald Enclave
+}}
+The '''Emerald Enclave''' was an organization of [[druid]]s and other nature worshipers based out of the island of [[Ilighôn]] off the coast of the [[Vilhon Reach]]. They were referred to by many names, including '''Caretakers''', '''Nature's Chosen''', '''the Circle''', and '''the Chosen of Silvanus.'''<ref name="VilhonReach-p26">{{Cite book/The Vilhon Reach/Dungeon Master's Reference|26-32}}</ref><ref name="EE-Portals">{{Cite web/Emerald Enclave Portals: Introduction}}</ref> Despite the power of the Vilhonese nations, as of the 14{{th}} century DR they did nothing involving the land and nature without the approval of the Enclave.<ref name="JOT-ch2">{{Cite book/The Jewel of Turmish||2}}</ref>
+{{quote|''No major activity within the Reach goes on without at least the tacit approval of the Emerald Enclave. That group of green-thumbed peace keepers is the biggest threat to business and well-being that exists in the Reach. Not that I, personally, mind them, of course.''|[[Erixal the Black]], Wizard of [[Alaghôn]]<ref name="VR-p3">{{Cite book/The Vilhon Reach/Player's Guide|3}}</ref>}}
+{{TOC limit|3}}
+==Beliefs==
+[[File:Emerald_Enclave.JPG|thumb|''The 14{{th}} century symbol of the Emerald Enclave.'']]
+According to the Elder Circle, the Greatest Tenets Number Three included:<ref name="BGIII">{{Cite game/Baldur's Gate III}}</ref>
+* The order of nature must be preserved in all its iterations.
+* Any force that would disrupt that order had to be defeated.
+* The Enclave would always provide aid to anyone left fatigued or suffering injury.
+
+==Organization==
+The Emerald Enclave was renowned for its benevolent deeds as much as it was feared for swift actions against those responsible for crimes against nature. Politicians and drunks gossiped regularly, discussing the Emerald Enclave's actions, eventually leading to exaggerated recounts of true events and an almost-mythical reputation in the Reach.<ref name="VilhonReach-p26" /> The Enclave's vindictive ways were common cautionary tales in the areas of the Vilhon Reach bordering forests.<ref name="JOT-ch2" />
+
+Despite its reputation, the Emerald Enclave was not an exclusively druidic organization. Its membership also extended to [[bard]]s and other beings who venerated nature and neutrality. No member of the Enclave could follow paths of good or evil, but apart from that narrow path between light and darkness, the Emerald Enclave imposed little restrictions.<ref name="VilhonReach-p26" />
+
+===Ranks===
+The Enclave had the following ranks from lowest to highest: Springwarden, Summerstrider, Autumnreaver, Winterstalker, and Master of the Wild.<ref name="DMG5e-p22">{{Cite book/Dungeon Master's Guide 5th edition|22}}</ref>
+
+===Hierarchy===
+The Enclave arranged into seven 'circles', which each had different duties and a different place in the hierarchy.<ref name="VilhonReach-p26" /><ref name="FRCS-3e-p273" /> Each member of the organization belonged to a single circle and could move between them with experience and by reaching certain prominence within the order. The circles begin with the [[Circle of Initiates]], aptly named for including new members of the Enclave. The [[Circle of Earth]], the second circle of prominence, welcomed members of the Circle of Initiates as they ranked up. The third in the hierarchy was the [[Circle of Air]], which usually had its members join after learning the ability to take on a ''[[wild shape]]''. Non-druids were promoted to the Circle of Air after performing outstanding service for the Enclave. From the Circle of Air, members of the organization could move to one of three groups: [[Eldath's Circle]], the [[Circle of Earth]], and the [[Planar Circle]].<ref name="VilhonReach-p26" />
+
+Eldath's Circle did not necessarily mean worshiping the goddess of calm waters, but all of its members took on the role of sailing and protecting the waterways of [[Toril]]. They searched for information beneficial to the Emerald Enclave in the process. The Planar Circle was the group of individuals whose calling laid beyond the [[Prime Material plane]]—the most respected of all roles within the organization, many of whom perished in the planes or elected never to return to [[Toril]], but continued to send information from the planes to the Emerald Enclave. Lastly, the members of the Circle of Earth were travelers. They crossed the entirety of [[Faerûn]], while some stuck to traversing the Vilhon Reach. The circle's members served as scouts and spies, keeping tabs on kingdoms, organizations, and politics that could interfere with the natural balance.<ref name="VilhonReach-p26" />
+
+The [[Elder Circle]], or the Elder Circle of Three, was the governing body of the Emerald Enclave and the highest circle one could be promoted to. The circle consisted of only three members at one time. Members of the Circle of Three were the most powerful druids or religious leaders, and with such fame came [[pilgrim]]s searching for the Elder Circle's wise advice and those seeking to end the Emerald Enclave, starting with its leaders.<ref name="VilhonReach-p26" />
+
+==Dogma==
+The majority of members venerated [[Eldath]], the Goddess of Singing Waters; [[Mielikki]], Lady of the Forest; or [[Silvanus]], the Treefather.<ref name="FRCS-3e-p273" /><ref name="VilhonReach-p26" />
+
+==Activities==
+[[File:Druid of emerald enclave.png|thumb|left|''A [[staff]]-wielding druid of the Emerald Enclave.'']]
+The goals of the Enclave were six-fold. Firstly, they swore an oath to protect nature in all its forms, and members of the Emerald Enclave were ready to give up their own lives in service of the cause and to preserve the balance. However, this did not mean that every lumberjack was an enemy of the Enclave; instead, the organization demanded that all logging be done responsibly. Loggers had to spend time planting trees to compensate for the trees they felled, and the selection of the logging area was also important to maintain the balance. Historically, this dogma brought the Emerald Enclave to blows with the nations of [[Chondath]] and [[Turmish]] over their logging operations in the Vilhon Reach, as following the Enclave's demands meant logging would be too expensive and inconvenient.<ref name="VilhonReach-p26" />
+
+Secondly, the Emerald Enclave aimed to control human expansion, as nature was a finite collection of resources—its raw materials could be exhausted and wildlife driven to extinction and, as such, not all areas needed to be developed, not all farms needed to plant more food to feed ever-expanding settlements, and not all cities needed to be connected via roads.<ref name="VilhonReach-p26" /> The Enclave also exerted strict regulations on hunting done in the [[Shining Plains]] from the towns of [[Ormath]], [[Lheshayl]], and [[Assam]]. They enforced the region's official hunting season of late summer and fall.<ref name="VR-p43">{{Cite book/The Vilhon Reach/Dungeon Master's Reference|43}}</ref>
+
+The Emerald Enclave believed that everything in nature had its place and recognized that nature encompassed more than just forests. The balance between plains, mountains, rivers, and forests was important, and anyone who sought to reshape nature for their monetary gain was to be opposed. Similarly, the magic needed to be controlled and never be used for mass destruction; this creed was adopted following the disaster known as the [[Rotting Wars]]. The Emerald Enclave warned against the use of magic on a grand scale as it was nothing but a disastrous accident waiting to happen.<ref name="VilhonReach-p26" />
+
+Lastly, despite the Enclave's true feelings and conflicts, they always presented themselves as a united front to the outside world. Any disagreements were always only voiced internally and never outside the Oakenhall of Ilighôn. Actions showing discord and disagreement within the Enclave were disrespectful to the [[Elder Circle of Three]] and weakened the organization as a whole.<ref name="VilhonReach-p26" />
+
+The Emerald Enclave of the post-Spellplague era believed that the natural order had to be respected and preserved and that forces that would upset that natural order should be destroyed. They were also to keep elemental forces in check and prevent the wilderness and civilization from wiping out one another. They also accepted that the wilderness could be harsh, and some could not survive it without aid, so they helped.<ref name="Factions-EE">{{Cite web/Factions: The Emerald Enclave}}</ref>
+
+===Abilities===
+All members of the Enclave were taught a unique language, "[[druidspeak]]", that had some similarities to [[thieves' cant]]. "Druidspeak" was never taught to outsiders. It usually took a year or more to learn.<ref name="tVR-p26">{{Cite book/The Vilhon Reach/Dungeon Master's Reference|26}}</ref>
+
+Members of the Elder Circle received magical divine gifts from the patron gods of the Emerald Enclave. They became hidden from magical sight; were under the constant effects of the ''[[nondetection]]'' [[spell]]; became unaffected by any charm, indoctrination, and mind control; and were immune to all mundane and magical [[disease]]s and afflictions such as [[lycanthropy]]. Lastly, the Elders received the gift of a dramatically slowed aging process, aging only a year per decade. Similarly, they only needed to sleep one night out of ten. Additionally, they also received a special gift from the deity they worshiped. Eldathyn Elders could breathe underwater and transport themselves to the [[Elemental Plane of Water]] at will, Mielikki's faithful could shapechange into [[treant]]s and heal when transforming back, and Silvanites could ''[[meld into stone]]'' and travel to the [[Elemental Plane of Earth]] at will.<ref name="VilhonReach-p26" />
+
+Those members of the Emerald Enclave who sought to master wilderness survival, reportedly traveled to the isle of [[Wavecrest]], neighboring the isle of Ilighôn. The island was known for its untamed jungles full of mysteries and danger. However, the Enclave did not share its knowledge of the island with outsiders.<ref name="VR-p32">{{Cite book/The Vilhon Reach/Dungeon Master's Reference|31-32}}</ref>
+
+Those divine spellcasters of the Emerald Enclave who worshiped Silvanus, Mielikki, and Eldath gained access to several unique spells. These spells included ''[[faith-magic zone]]'', the same magics that sheltered Ilighôn, which was a gift from [[Mystra]] to Silvanus. The spell called ''[[re-target]]'' allowed the caster to redirect any spell, friendly or not, within its range. And lastly there was the spell of ''[[windlance]]'' that launched the caster and any creature within its vicinity high into the air.<ref name="VR-p32" />
+
+===Initiation===
+Initiates were required to serve neither good nor evil, nor to serve any other organization (apart from the churches of Eldath, Mielikki, or Silvanus), to be innocent of crimes against nature, and to have performed at least one significant deed that benefited nature in the Vilhon Reach. The rites of initiation were held each full moon at the [[Oakenhall]], which was the House of Silvanus at the heart of Ilighôn.<ref name="VilhonReach-p26" />
+
+==Tactics==
+The Emerald Enclave had a well-established pattern of action when dealing with those violating nature. Firstly, the Enclave issued a simple warning to those deemed guilty. If the warning was ignored, the Emerald Enclave acted swiftly and decisively, stopping the wrongdoers by any means.<ref name="VR-p5" />
+
+==Base of Operations==
+{{fq
+| text = I find it ironic that the people of the Vilhon continue to poison their own farms, streams, and air for the sake of profit. The destruction caused by these people goes far beyond the borders of the Vilhon, but this is my home. I find my actions limited by my status of Grand Druid, and look forward to the time when I can find a suitable replacement. Then, I will finally be able to make a difference.
+| source = Grand Druid [[Shinthala Deepcrest]]<ref name="VR-pp6" />
+}}
+Based out of the isle of Ilighôn, the Emerald Enclave's heart was the House of Silvanus, or Oakenhall, built atop the mountain range at the center of the island.<ref name="FRCS-3e-p273" /> The island itself was guarded by a circular reef called [[Eldath's Ring]] and the waterways around by Emerald Enclave's allies from the [[Elemental Plane of Water]].<ref name="VR-p22">{{Cite book/The Vilhon Reach/Dungeon Master's Reference|22-23}}</ref> By the late 14{{th}} century DR, the Emerald Enclave had expanded its scope beyond the Vilhon Reach to the rest of Faerûn. To protect forests that would surely eventually face danger from encroaching civilization, it formed splinter cells in such woods as [[High Forest]], [[Cormanthor]], the [[Wealdath]], and the [[Great Dale]]. Despite the cells' humble sizes, they remained vigilant, keeping watch for foes such as the [[Church of Talos]] and the [[People of the Black Blood]].<ref name="EE-Portals" /><ref name="FRCS-3e-p273">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|273}}</ref> Older established cells included those in the [[Chondalwood]] and [[Winterwood]].<ref name="VR-p10" />
+
+==Possessions==
+Members of the Emerald Enclave did not wear uniforms; instead, each individual was adorned with an article of clothing or jewelry that was green in color. Most commonly, it was a green pendant or a pair of [[emerald]] earrings. Druids of high standing could be discerned by their eyes that turned a bright green color and shimmered with Silvanus's ''[[holy symbol]]''.<ref name="tVR-p26" />
+
+==Relationships==
+The Emerald Enclave was at odds with the [[Red Wizards of Thay]] for many, many years<ref name="VilhonReach-p14">{{Cite book/The Vilhon Reach/Dungeon Master's Reference|14}}</ref> and with mages of the [[Zhentarim]], as well as other wizards, in fears of the spellcasters abusing [[the Art]] and unleashing a disaster similar to the Rotting Wars.<ref name="VilhonReach-p26" /> The Enclave also opposed the [[Church of Bane]],<ref name="LOD-119" /> [[Church of Talos]],<ref name="FRCS-3e-p273" /> and [[Church of Malar]],<ref name="JOT-ch1" /> as well as the Malarite cult known as the [[People of the Black Blood]].<ref name="FRCS-3e-p273" />
+
+The only settlement on the isle of Ilighôn, [[Sapra]], was granted only limited land by the Emerald Enclave, stopping its growth and overpopulation. The port town's existence fully depended on the Emerald Enclave's goodwill.<ref name="FRCS-3e-p216">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|216}}</ref> The cities of the Vilhon Reach operated their logging industries with the Enclave's permission. The city of [[Hlath]]'s main export was lumber, with its industry carefully monitored. The metropolis of [[Reth]]'s logging was being phased out as of 1372 DR after years of tensions between it and the Emerald Enclave.<ref name="FRCS-3e-p217">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|217-218}}</ref> The Turmishan city of [[Gildenglade]], before its destruction, was on good terms with the Enclave thanks to its elven population who handled negotiations, forestry, and forest preservation.<ref name="FRCS-3e-p221">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|221}}</ref> [[Lizardmen]] of [[Surkh]], the City of Lizards, maintained cordial relationships with the Emerald Enclave.<ref name="SK-p122">{{Cite book/Serpent Kingdoms|122}}</ref>
+
+The Emerald Enclave served as protectors for creatures dwelling on the Shining Plains. As such, the Enclave's representatives attended the annual memorial on the [[Hill of Memories]], commiserating the tragedy of the [[Field of Tears]] of the {{YearlinkName|326}}. Following the memorial, the gathered leaders discussed any issues that had arisen in the last year.<ref name="VR-p44">{{Cite book/The Vilhon Reach/Dungeon Master's Reference|44}}</ref> The most powerful clan of the Shining Plains, the [[Ten-paw]], counted a representative of the Emerald Enclave as one of its close advisors, who lived with the [[wemic]] clan.<ref name="VR-p48">{{Cite book/The Vilhon Reach/Dungeon Master's Reference|48}}</ref>
+
+==History==
+[[File:Emerald Enclave druid.png|thumb|''A druid of the Emerald Enclave.'']]
+===Founding===
+Many considered the {{YearlinkName|374}} to be the year when the Emerald Enclave was established. However, that was not entirely true, as that was the year when the Church of Silvanus built a shrine to their deity during a ceremony on [[Midsummer Night]]. The shrine was known as Oakenhome, or the House of Silvanus, on the isle of Ilighôn. It initially was a small druidic conclave for those who mastered ''[[shapechange|shapechanging]]'' and was able to reach the island in the shape of a [[bird]].<ref name="VR-p8">{{Cite book/The Vilhon Reach/Dungeon Master's Reference|8}}</ref> The actual temple's construction was finished just a few years later.<ref name="VR-p22" /> The druids of Ilighôn quietly watched the developing civilization and increasing ships passing the island and entering into the Vilhon Reach. In the {{YearlinkName|717}}, the druids of Oakenhome joined the Emerald Enclave, with it eventually becoming the center of the organization.<ref name="VR-p5">{{Cite book/The Vilhon Reach/Player's Guide|5}}</ref>
+
+The nation of Turmish start conflicting with the Enclave as early as the {{YearlinkName|552}},<ref name="VR-p11">{{Cite book/The Vilhon Reach/Player's Guide|11}}</ref> but the first event that established the Emerald Enclave as the power to be reckoned with was its full-blown battle with Turmish and its leaders at the time, [[the Windlass]]. They sent an army to the druidic sanctuary of [[Cedarsproke]] in the Gulthmere Forest and a war fleet to Ilighôn in the {{YearlinkName|717}}. The troops were ambushed passing through the [[Orsraun Mountains]] by [[giant]] allies of the Enclave, while [[water elemental]]s who served the druids vanquished the Turmishan fleet. This monumental loss cost the members of the Windlass their heads and allowed the Emerald Enclave to expand its presence to the forests of Chondalwood and Winterwood.<ref name="VR-p10">{{Cite book/The Vilhon Reach/Dungeon Master's Reference|10}}</ref>
+
+The Enclave's initial goal was to protect the interests and natural resources within the Vilhon Reach in the face of despoilers of nature.<ref name="VilhonReach-p22">{{Cite book/The Vilhon Reach/Dungeon Master's Reference|22}}</ref> One such despoiler was a [[mohrg]] warlord servant of Malar, [[Borran Klosk]], who led an [[undead]] army in the Vilhon Reach in the {{YearlinkName|1150}}. The Emerald Enclave allied with the [[dwarves]] of [[Alaoreum]] and partook in the [[Battle of Morningstar Hollows]] where the Enclave's druids flooded the [[Alaoreum River]], washing away Borran Klosk's undead. The creature itself survived and was imprisoned by the Church of Eldath under the city of [[Alaghôn]] in the [[Temple of the Trembling Flower]].<ref name="GHOTR-p121">{{Cite book/The Grand History of the Realms|121}}</ref> The same year, Turmish, under the leadership of [[Saros|Lord Saros]], entered tough negotiations with the Enclave, electing to avoid open war over the nation's booming population. As a gesture of good will, druids of the Emerald Enclave offered magical protection to Turmishan cities against the [[plague]]s and afflictions that ravaged the Vilhon Reach at the time.<ref name="VR-p12">{{Cite book/The Vilhon Reach/Dungeon Master's Reference|12}}</ref>
+
+Not long after the creation of Turmish's [[Assembly of Stars]] in the [[1248 DR|Year of the Cockatrice, 1248 DR]],<ref name="tGHotRp126">{{Cite book/The Grand History of the Realms|126}}</ref> the town of [[Ironcloak]] in Turmish was granted logging rights, despite some members of the Assembly of Stars' protests. Lord [[Ironcloak (lord)|Ironcloak]] started cutting down trees recklessly and filling the [[Alaoreum River]] with industrial waste. The Emerald Enclave issued a stern warning to Ironcloak that went unheeded. A single Enclave druid arrived at Ironcloak with an order to cease and desist and was promptly murdered by the Lord's men. Two days later, the druids delivered their final warning, attached to numerous arrows, declaring the town would be destroyed at dawn. Lord Ironcloak mocked their threats and sent his people into the forest. Enclave's [[earth elemental]]s emerged from the forest floor and began killing every person they found. Lord Ironcloak joined the battle, but then the river itself flooded its banks and inundated the town, wiping away buildings and people, the lord, and his fortune.<ref name="VR-p36">{{Cite book/The Vilhon Reach/Dungeon Master's Reference|36}}</ref><ref name="VR-pp6">{{Cite book/The Vilhon Reach/Player's Guide|6}}</ref>
+
+In the {{YearlinkName|1344}}, the Emerald Enclave clashed with the nation of [[Sespech]] when government-sponsored lumberjacks entered Chondalwood, believing its elven population left in the [[Retreat]]. They were met with a volley of arrows unleashed by the Enclave and its allies. Sespechian foragers entered the forest from the west but, luckily, were turned away after meeting the Enclave's druids, with no blood spilled this time.<ref name="VR-p13">{{Cite book/The Vilhon Reach/Dungeon Master's Reference|13}}</ref>
+
+During the [[Time of Troubles]] of the {{YearlinkName|1358}}, when gods walked on Toril, Malar's avatar personally entered the [[Gulthmere Forest]] to destroy the members of the Emerald Enclave there.<ref name="JOT-ch1">{{Cite book/The Jewel of Turmish||1}}</ref> The avatar of [[Nobanion]] stood against the avatar of Malar alongside the Emerald Enclave. Their clash resulted in Malar's defeat and the removal of the Beastlord's cult from the region for some time.<ref name="VR-pp8">{{Cite book/The Vilhon Reach/Player's Guide|8}}</ref>
+
+The same year as gods walked Toril, citizens of the city of Gildenglade became concerned by the increased volcanic activity of [[Mount Kolimnis]]. The wizard [[Danirro of Alaghôn]] was hired by the city to stop the volcano's inevitable eruption. In the summer of {{YearlinkName|1360}}, Danirro discovered magics to stop the eruption. He scaled Mount Kolimnis to perform the ritual as agents of the Emerald Enclave emerged from hiding and pushed him into the volcano's gaping mouth. The wizard was unlucky enough to be wearing a ''[[ring of feather falling]]'', so he slowly roasted on his way down before being disintegrated by lava. Danirro's laboratory was destroyed by a fire at the time of his death, and all records of the spell were lost. Following the wizard's disappearance, Gildenglade received a grim warning from the Emerald Enclave not to meddle with the forces they did not understand. Mount Kolimnis continued spewing heated steam, but its eruption was not to come for another century.<ref name="TVR-p42">{{Cite book/The Vilhon Reach/Dungeon Master's Reference|42}}</ref>
+
+Mohrg warlord Borran Klosk was freed in the {{YearlinkName|1370}} and once again threatened the Vilhon Reach. His new undead army of [[drowned one]]s from the [[Whamite Isles]] sought to activate the legendary ''[[Taraketh's Hive]]'' that could devastate the natural order in Turmish for many centuries to come. The undead plot was stopped by a druid of the Emerald Enclave, [[Haarn Brightoak]].<ref name="GHOTR-p150-151">{{Cite book/The Grand History of the Realms|150-151}}</ref>
+
+Around the same year, the Whamite Isles in the [[Sea of Fallen Stars]] fell to an epidemic of mass suicides caused by some unknown magics. For some, possibly related reason, the Emerald Enclave sent several ships to the nine-island cluster. The Enclave avoided the magical dangers of the islands and claimed them for the organization.<ref name="SotFS-p13">{{Cite book/Sea of Fallen Stars|13}}</ref>
+
+===Post-Spellplague===
+After the [[Spellplague]] of [[1385 DR]], the [[Sea of Fallen Stars]] drained, joining the isle of Ilighôn with the mainland and part of the nation of Turmish. This change resulted in the organization becoming perverted and xenophobic, bent on destroying all forms and manifestations of the Spellplague. Much of the order died or left for [[Gulthandor]]. The remaining druids, led by the increasingly mad [[Cindermoon]], formerly known as Shadowmoon Crystalembers, were less capable and experienced and harbored a deep hatred of the [[Spellscar|spellscarred]]. Several agents were sent to the [[plaguelands]] south of Turmish, and the organization also tried to stop the scar [[pilgrim]]ages that passed through, usually by violent means.<ref name="FRCG-p185">{{Cite book/Forgotten Realms Campaign Guide|185}}</ref>
+
+In the {{YearlinkName|1423}}, Mount Kolimnis finally erupted, as it was left untamed thanks to the Emerald Enclave. Gildenglade and its 50,000 inhabitants were buried under several hundred feet of ash and hot mud.<ref name="FRCG-p185" />
+
+===The Second Sundering===
+The Enclave was revitalized in the {{YearlinkName|1486}}, when the Chosen of [[Lathander]], [[Stedd Whitehorn]], cured Cindermoon of a [[Shar]]-induced madness and the [[Great Rains]] refilled the Sea of Fallen Stars.<ref name="TR">{{Cite book/The Reaver}}</ref>
+
+Along with other factions, the Enclave rose up to oppose a plot by the [[Cult of the Dragon]] to return [[Tiamat]] to the mortal realm.<ref>{{Cite book/The Rise of Tiamat|13}}</ref>
+
+==Notable Members==
+[[File:Doric - The Druid's Call.jpg|thumb|right|225px|''[[Doric]], a young [[tiefling]] of the Enclave in the late 15{{th}} century [[DR]].'']]
+===The Elder Circle===
+* Lady [[Shadowmoon Crystalembers]] (later Cindermoon), Hierophant of the Emerald Enclave in the 14{{th}} century DR.<ref name="VilhonReach-p26" />
+* [[Shinthala Deepcrest]], Grand Cabal of the Enclave in the 14{{th}} century DR.<ref name="VilhonReach-p26" />
+* [[Ashenford Torinbow]], Elder of the Enclave in the 14{{th}} century DR.<ref name="VilhonReach-p26" />
+
+===Other Circles===
+* [[Delaan Winterhound]], a chief ranger of the Emerald Enclave and its main delegate at the [[Council of Waterdeep]] in the late 15{{th}} century DR.<ref name="tRoT-p13">{{Cite book/The Rise of Tiamat|13}}</ref>
+* [[Haarn Brightoak]], a druid tasked with the protection of Turmishite land in the late 14{{th}} century DR.<ref name="JOT-ch5">{{Cite book/The Jewel of Turmish||5}}</ref>
+* [[Kelesta Hawke]], a member of the Enclave who distained [[yeti]]s.<ref name="MM5eR-p339">{{Cite book/Monster Manual 5th edition (revised)|339}}</ref>
+* [[Liaga Kintree]], a member who was tasked with building relations between [[Westgate]] and nature through commerce in the late 14{{th}} century DR.<ref>{{Cite game/Neverwinter Nights 2: Mysteries of Westgate}}</ref>
+* [[Screaming Wind]], a [[tabaxi]] hunter active in [[Chult]] in the late 15{{th}} century DR.<ref name="DDAL01-p3">{{Cite adventurers league/A City on the Edge|3}}</ref>
+* [[Tick Tary Tanner]], Archmage of the [[High Forest]] in the late 15{{th}} century DR.<ref>{{Cite adventurers league/The Red War}}</ref>
+
+==Appendix==
+===Gallery===
+<gallery>
+Emerald Enclave pin.png|''A pin with the Emerald Enclave's symbol.''
+Emerald enclave Grove.png|''An example of an Emerald Enclave grove.''
+</gallery>
+
+===Appearances===
+{{Appearances
+| adventures          = ''[[Lost Mine of Phandelver]]'';''[[The Rise of Tiamat]]'';''[[Out of the Abyss]]'';''[[Storm King's Thunder]]'';''[[Tomb of Annihilation]]'';''[[Waterdeep: Dragon Heist]]''
+| adventure refs      = ''[[Hoard of the Dragon Queen]]''
+| novels              = ''[[The Jewel of Turmish]]'';''[[Honor Among Thieves: The Druid's Call]]'';''[[Honor Among Thieves: The Junior Novelization]]''
+| novel refs          = ''[[Lies of Light]]'';''[[The Ruby Guardian]]'';''[[The Emerald Scepter]]'';''[[Venom's Taste]]''
+| films               = ''[[Honor Among Thieves]]''
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = ''[[Neverwinter Nights 2: Mysteries of Westgate]]'';{{NWapp}};''[[Baldur's Gate III]]''
+| video game refs     = 
+| board games         = ''[[Dungeons & Dragons Dice Masters: The Zhentarim]]''
+| board game refs     = 
+| card games          = 
+| card game refs      = 
+| organized play      = 
+| organized play refs = 
+}}
+
+===Further Reading===
+* {{Cite web/Emerald Enclave Portals: Introduction}}
+* {{Cite web/Emerald Enclave Portals: Cormanthor}}
+* {{Cite web/Emerald Enclave Portals: Forests of the Great Dale}}
+* {{Cite web/Emerald Enclave Portals: The High Forest}}
+* {{Cite web/Emerald Enclave Portals: The Wealdath}}
+
+===References===
+{{Refs|2}}
+
+===Connections===
+{{Factions}}
+[[es:El Enclave Esmeralda]]
+[[Category:Druid orders]]
+[[Category:Organizations on Ilighôn]]
+[[Category:Organizations in the Nunwood]]
+[[Category:Organizations in Turmish]]
+[[Category:Organizations in the Vilhon Reach]]
+[[Category:Organizations in Turmish]]
+[[Category:Organizations in the Shining Plains]]
+[[Category:Organizations in Interior Faerûn]]
+[[Category:Organizations in the Gulthmere Forest]]
+[[Category:Organizations in the High Forest]]
+[[Category:Organizations in Cormanthor]]
+[[Category:Organizations in the Forest of Tethir]]
+[[Category:Organizations in the Great Dale]]
+[[Category:Organizations in the Chondalwood]]
+[[Category:Organizations in Faerûn]]
+[[Category:Organizations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Mielikki
+
+{{Deity
+| image               = Mielikki_p49-1-.jpg
+| caption             = Mielikki, the Supreme Ranger.
+| name                = Mielikki
+| title               = Mistress of the Forest<ref name="D&D1e-p60" /><ref name="OHG-p104" /><br/>Lady of the Forest<ref name="FRCS1e-p12" /><ref name="Dragon54" /><ref name="FRA-p26" /><ref name="FRCS2e-RTR-p52" /><ref name="FRCS2e-Cards" /><br/>The Forest Queen<ref name="FRCS3e-p246" /><ref name="FaP-p48" /><ref name="EGPEFR-p154" /><ref name="SCAG5e-p21,34" /><ref name="HoF-p115" /><br />Our Lady of the Forest<ref name="F&A-p112" /><ref name="FRCS3e-p246" /><ref name="FaP-p48" /><ref name="SCAG5e-p21,34" /><ref name="HoF-p115" /><br />The Supreme Ranger<ref name="F&A-p112" /><br/>Daughter to Silvanus<ref name="FRCS2e-RTR-p52" /><ref name="F&A-p112" />
+| adjective           = Mielikkian<ref name="F&A-p115">{{Cite book/Faiths & Avatars|115}}</ref>
+| aspects             = [[Khalreshaar]] ([[half-elf]] aspect in the [[Seldarine]])<ref name="DD-142" /><br/>Khelliara ([[Rashemen]])<ref name="F&A-p112"/><ref name="FRCS-203" />
+| status              = 
+| primordial          =
+| pantheon            = [[Faerûnian pantheon]], [[Finnish pantheon]], [[Seldarine]]
+| home                = 
+| formerhomes         = 
+| gender              = Feminine<ref name="FRCG4e-p80" />
+| died                = 
+| basicrefs           = <ref name="FRCS1e-p12" /><ref name="FRA-p26" /><ref name="F&A-p112" /><ref name="OHG-p104" /><ref name="FRCS3e-p246" /><ref name="FaP-p48" />
+| mortalrace          = 
+| mortalsex           = 
+| mortalhomes         = 
+| apotheosis          = 
+| mortalrefs          = 
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Beastlands (plane)|The Beastlands]] ([[Krigala]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Forests
+| domains5eR          = 
+| worshipers5eR       = [[Ranger]]s, [[fey]], foresters
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-p115">{{Cite book/Forgotten Realms: Heroes of Faerûn|115}}</ref>
+| power5e             = 
+| alignment5e         = [[Neutral good]]
+| symbol5e            = [[Unicorn]]'s head
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Forests
+| domains5e           = [[Nature domain|Nature]]
+| worshipers5e        = 
+| channel divinity5e  = ''[[Charm animals and plants]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="PHB5e-p61-62,294">{{Cite book/Player's Handbook 5th edition|61-62,294}}</ref><ref name="SCAG5e-p21,34">{{Cite book/Sword Coast Adventurer's Guide|21,34,134}}</ref>
+| power4e             = [[Deity]]
+| alignment4e         = [[Good]]<ref name="FRPG-p154" />
+| symbol4e            = 
+| dominion4e          = [[Deep Wilds]]
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = [[Shiallia]] ([[exarch]])
+| sphere4e            = Forests
+| domains4e           = [[Freedom domain|Freedom]], [[Hope domain|Hope]], [[Life domain|Life]], [[Wilderness domain|Wilderness]]
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = ''[[Fleetness of Mielikki]]''<ref>{{Cite book/Forgotten Realms Player's Guide|133,134}}</ref>
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCG4e-p63">{{Cite book/Forgotten Realms Campaign Guide|63,78}}</ref><ref name="FRCG4e-p80">{{Cite book/Forgotten Realms Campaign Guide|80}}</ref><ref name="Dragon378-32">{{Cite dragon/Domains in Eberron and the Forgotten Realms|32}}</ref><ref name="CDM-p68">{{Cite dragon/384/Channel Divinity: Mielikki|68}}</ref>
+| power3e             = [[Intermediate deity]]
+| alignment3e         = [[Neutral good]]
+| symbol3e            = Golden-horned, blue-eyed [[unicorn]]'s head facing left
+| homeplane3e         = [[House of Nature]]
+| realm3e             = [[Grove of the Unicorns]]
+| serves3e            = [[Silvanus]]
+| servedby3e          = [[Lurue]]
+| portfolio3e         = Autumn, [[dryads]], forest creatures, forests, [[ranger]]s
+| domains3e           = [[Animal domain|Animal]], [[Fey domain|Fey]], [[Good domain|Good]], [[Plant domain|Plant]], [[Travel domain|Travel]]
+| mantles3e           = {{Mantles|Freedom|Good|Life|Natural World}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = [[Druids]], [[fey]], foresters, rangers
+| cleric alignments3e = {{alignment grid|on|on|on|off|off|off|off|off|off}}
+| favored weapon3e    = ''[[Hornblades|Hornblade]]'' ([[scimitar]])
+| holy days3e         = 
+| challenge3e         =
+| class3e             = {{class table|edition=3e|[[Ranger]]|20|[[Druid]]|20}}
+| refs3e              = <ref name="FRCS3e-p246">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|62,63,64,66,234,235,246}}</ref><ref name="FaP-p48">{{Cite book/Faiths and Pantheons|48-50,222,223}}<
+
+=== LINKED WIKI PAGE (first 5000 chars): Church of Mielikki
+
+{{Organization
+| image          = File:Mielikki_symbol.jpg
+| caption        = A holy symbol of Mielikki.
+| name           = Church of Mielikki
+| aliases        = Walkers of the Forest Way<ref name="F&A-p113" />
+| type           = 
+| base           = 
+| leader         = 
+| symbol         = White [[unicorn]]'s head, golden horned, blue eyed, facing left<ref name="FRCS1e-p12" /><ref name="FRA-p26" /><ref name="FRCS2e-RTR-p52" /><ref name="F&A-p112" /><ref name="FRCS3e-p246" /><ref name="FaP-p48" /><ref name="SCAG5e-p34" /><ref name="HoF-p115" /><br/>White unicorn over a green field<ref name="FRCS1e-p12" /><ref name="F&A-p112" /><ref name="HoF-p115" /><br/>Tiny bright white star on a green [[oak]] or [[ash]] leaf<ref name="FRCS1e-p12" /><ref name="FRCS2e-RTR-p52" /><ref name="F&A-p112" />
+| favored deity  = [[Mielikki]]
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="FRCS1e-p12" /><ref name="FRA-p26" /><ref name="FRCS2e-RTR-p52" /><ref name="F&A-p113" /><ref name="FRCS3e-p246" /><ref name="FaP-p48" /><ref name="SCAG5e-p34" /><ref name="HoF-p115" />
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{Alignment grid
+| on  | on  | on
+| off | on  | off
+| off | off | off
+}}<ref name="F&A-p113" /><br/>{{Alignment grid
+| on  | on  | on
+| off | off | off
+| off | off | off
+}}<ref name="FaP-p48" />
+| races          = 
+| memrefs        = 
+| allegiances    = 
+| enemies        = 
+| relrefs        = 
+| showmembers    = 
+| orgname        = 
+}}
+The '''church of Mielikki''' ({{Pronounce|my|LEE|kee|audio=Mielikki.ogg|refs=<ref name="FRCS1e-p12" /><ref name="F&A-p112">{{Cite book/Faiths & Avatars|112}}</ref><ref name="FRCS3e-p246" /><ref name="FaP-p48" />}}), officially known as the '''Walkers of the Forest Way''', was the primary religious organization dedicated to the worship and service of the goddess [[Mielikki]].<ref name="FRCS1e-p12">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|12-13}}</ref><ref name="Dragon54">{{Cite dragon/54/Down-to-earth divinity|8,9,52,55}}</ref><ref name="D&D1e-p60">{{Cite book/Deities & Demigods 1st edition|60,122}}</ref><ref name="FRA-p26">{{Cite book/Forgotten Realms Adventures|26-27}}</ref><ref name="FRCS2e-RTR-p52">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|52}}</ref><ref name="F&A-p113">{{Cite book/Faiths & Avatars|113-114}}</ref><ref name="FRCS3e-p246">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|234,235,246}}</ref><ref name="FaP-p48">{{Cite book/Faiths and Pantheons|48-50,222,223}}</ref><ref name="EGPEFR-p154">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|154,156}}</ref><ref name="CDM-p65">{{Cite dragon/384/Channel Divinity: Mielikki|65-68}}</ref><ref name="SCAG5e-p34">{{Cite book/Sword Coast Adventurer's Guide|21,34}}</ref><ref name="HoF-p115">{{Cite book/Forgotten Realms: Heroes of Faerûn|115}}</ref>
+
+==Dogma==
+Although it had a similar ethos to the [[church of Silvanus]], whom the Forest Queen served, the church of Mielikki emphasized the positive and beneficial aspects of the wilderness.<ref name="FRCS2e-RTR-p52" /><ref name="F&A-p113" /><ref name="FRCS3e-p246" /><ref name="FaP-p48" /> It upheld the idea of harmony between nature and civilization, believing that intelligent beings could indeed live in peace with the wilderness, without one needing to destroy the other to survive,<ref name="FRCS2e-RTR-p52" /><ref name="F&A-p113" /><ref name="FRCS3e-p246" /><ref name="FaP-p48" /><ref name="CDM-p65" /><ref name="WitGR">{{Cite web/Legacy of the Green Regent/What is the Green Regent}}</ref><ref name="Dr378-p38">{{Cite dragon/Domains in Eberron and the Forgotten Realms|38}}</ref> and that people could enjoy the fruits of nature without excesses or exploitation.<ref name="Dr378-p38" /> Moreover, they desired to live in full harmony with nature, and not by becoming beasts themselves but by being conscientious stewards of the wilderness and friends to all beasts.<ref name="CDM-p65" />
+
+Hence, the Walkers of the Forest Way were taught that the ways of the wild were the ways of good, and they should not fear the wild but rather welcome and embrace it. They were to learn the hidden ways of all life<ref name="F&A-p113" /><ref name="FRCS3e-p246" /><ref name="FaP-p48" /> maintain the balance of natural cycles and of wilderness and civilization,<ref name="F&A-p113" /><ref name="FRCS3e-p246" /><ref name="FaP-p48" /><ref name="WitGR" /><ref name="EGPEFR-p154" /> and protect forests and nature in general against the forces of ignorance and evil, of which ignorance was the more damaging,<ref name="F&A-p113" /><ref name="FaP-p48" /><ref name="CDM-p65" /> and act not just for the good of the natural world, but the world as a whole.<ref name="CDM-p65" /> They also saw complete freedom as the natural state, reasoning that as animals would go where they willed, then so should people.<ref>{{Cite dragon/Domains in Eberron and the Fo
+
+=== LINKED WIKI PAGE (first 5000 chars): Red Wizards of Thay
+
+{{Organization
+| image          = <gallery>
+Red wizards onslaught.png|5e
+Symbol_of_the_Red_Wizards.jpg|3e
+</gallery>
+| caption2       = ''The symbol of the Red Wizards across the ages.''
+| name           = Red Wizards of Thay
+| aliases        = Red Wizards of Thay<br />Red Magic Cult<ref name=CotD-p57">{{Cite book/Cult of the Dragon|57}}</ref><br />Red Wizards of Mulhorand<ref name="NS-p51" />
+| type           = 
+| base           = [[Thaymount (tharch)|Thaymount]], [[Thay]]
+| leader         = [[Szass Tam]] and the [[Council of Zulkirs]]
+| symbol         = 
+| favored deity  = [[Kossuth]] <small>(also: [[Bane]], [[Cyric]], [[Loviatar]], [[Malar]], [[Shar]])</small>
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="SB.CG-p8">{{Cite book/Spellbound/Campaign Guide|8}}</ref><ref name="F&A-p89"/><ref name="LoD-p56"/><ref name="GTotR-p121"/><ref name="FRCG-p180"/><ref name="SCAG-p141"/>
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{alignment grid|off|off|off|on|off|off|on|on|on}}
+| races          = [[Human]] (mostly [[Mulan]])
+| memrefs        = <ref name="RoF-p98">{{Cite book/Races of Faerûn|98}}</ref><ref name="LoD-p59"/>
+| allegiances    = [[Church of Kossuth]], [[Council of Zulkirs]], [[Cult of the Dragon]], [[Guild of Foreign Trade]], [[Trail Lords]]
+| enemies        = [[The Harpers]], [[Lords' Alliance]], [[Rashemaar berserkers]], [[Wychlaran]], [[Zhentarim]]
+| relrefs        = <ref name="F&A-p89">{{Cite book/Faiths & Avatars|89}}</ref><ref name="LoD-p56"/><ref name="CoS.W-p26">{{Cite book/City of Splendors: Waterdeep|26}}</ref><ref name="CoV-p9">{{Cite book/Champions of Valor|9}}</ref><ref name="CoR-p74">{{Cite book/Champions of Ruin|74}}</ref><ref name="LoD-p60">{{Cite book/Lords of Darkness|60}}</ref><ref name="PoF-p76">{{Cite book/Power of Faerûn|76}}</ref>
+| showmembers    = yes
+| orgname        = the Red Wizards of Thay
+}}
+The '''Red Wizards of Thay''', colloquially known as the '''Red Magic Cult''' in the [[Eastern Heartlands]], were the notorious and nefarious magocratic ruling class of the inhospitable but well-inhabited country of [[Thay]].<ref name="SCAG-p141">{{Cite book/Sword Coast Adventurer's Guide|141}}</ref> Historically they owed their power to being cruel slavers,<ref name="SB.CG-p14">{{Cite book/Spellbound/Campaign Guide|14}}</ref><ref name="CoR-p63">{{Cite book/Champions of Ruin|63}}</ref> demonologists,<ref name="SB.CG-p17">{{Cite book/Spellbound/Campaign Guide|17}}</ref><ref name="RoT-p7">{{Cite book/The Rise of Tiamat|7}}</ref> and arcane experimenters,<ref name="MotM-p60">{{Cite book/Mysteries of the Moonsea|60}}</ref> before most of their numbers wholly dedicated themselves to creating a nation of [[undeath|undead]].<ref name="SCAG-p13">{{Cite book/Sword Coast Adventurer's Guide|13}}</ref>
+
+==Organization==
+For centuries, the leaders of the Red Wizards and in fact all of Thay was the [[Council of Zulkirs]].<ref name="FRCS2e.RTR-p27">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|27}}</ref> The ruling body comprised eight of the most powerful Red Wizards, each of whom represented one of the [[schools of magic]].<ref name="LoD-p56"/> Each of the zulkirs and their subordinates fomented intense rivalries with one another, leading to great feuds and near-crippling internal strife.<ref name="LoD-p60">{{Cite book/Lords of Darkness|60}}</ref>
+
+In the years following the [[War of the Zulkirs]], the Red Wizards of Thay were led by the feared [[lich]] and supreme regent, [[Szass Tam]].<ref name="SCAG-p13"/><ref name="FRCG-p5">{{Cite book/Forgotten Realms Campaign Guide|5}}</ref><ref name="DrM.366.RK">{{Cite dragon/366/Rose Keep}}</ref>
+
+Since Szass Tam's takeover, the exiled Red Wizards have transformed enormously, becoming a loosely organized chain of merchant enclaves who specialized in procuring magical items.<ref name="DrM.366.RK"/>
+
+===Factions===
+The Red Wizards have historically been fraught with in-fighting and turmoil. As the stakes rose over the years, these conflicts became more dramatic and impactful to their operations.<ref name="SB.CG-p11">{{Cite book/Spellbound/Campaign Guide|11}}</ref><ref name="SB.CG-p15">{{Cite book/Spellbound/Campaign Guide|15}}</ref>
+
+In the years before the mid–14{{th}} century [[DR]], the Red Wizards divided themselves into two separate ideological groups. The influential Imperialists sought to conquer Faerûn, by military might, subterfuge, or any other means necessary.<ref name="SB.CG-p8"/> The Researchers took a more isolationist stance, preferring to focus on arcane research within the safety of the [[Thayan Plateau]].<ref name="SB.CG-p9">{{Cite book/Spellbound/Campaign Guide|9}}</ref>
+
+After Szass Tam seized power from the Council of Zulkirs, the Red Wizards underwent a more severe divide. Both the zulkirs and the Red Wizards loyal to their respective schools were forced to choose a faction in the growing conflict: eith
+
+=== LINKED WIKI PAGE (first 5000 chars): Zhentarim
+
+{{Distinguish|Zhentilar}}
+{{Organization
+| image          = 5e Zhentarim Symbol.png
+| caption        = The banner of the Zhentarim circa [[1489 DR]].
+| name           = Zhentarim
+| alt_spelling   = 
+| aliases        = Black Network<ref name="FRCS3e-p281" /><br /> Black Robes ([[Bedine]])<ref name="EE:A-p3">{{Cite book/Elminster's Ecologies/Anauroch|3}}</ref><br />Keepers<ref name="ab-p205">{{Cite book/Azure Bonds|205}}</ref><br />Zheeks<ref name="ab-p235">{{Cite book/Azure Bonds|235}}</ref><br/>Zhentarians<ref name="RoA-p60">{{Cite book/Ruins of Adventure|60}}</ref>
+| type           = 
+| base           = [[Darkhold]]<ref name="SCAG-p78" /> <br/> {{former}} <br /> [[Zhentil Keep]], [[Moonsea]]<ref name="LoD-p96"/> <br/> [[Citadel of the Raven]]<ref name="RoZK-CB-p36" /> <br/> [[Stormwatch]]<ref name="FRCG-p282" />
+| leadertitle    = 
+| leader         = [[Pereghost]]<ref name="SCAG-p78" /> <br /> {{former}} <br /> [[Fzoul Chembryl]]<ref name="LoD-p96"/> <br/> [[Manshoon]] (founder)<ref name="LoD-p96"/> and [[Sememmon]]<ref name="RoZK:CB-p32" />
+| symbol         = Silhouette of a winged snake biting a coin<ref name="Factions" /><ref name="WDH-p24-p44-p157-p159">{{Cite book/Waterdeep: Dragon Heist|24,44,157,159}}</ref> {{former}} <br /> Dark skull emitting black rays on a golden disc<ref name="FRCG-p282" /> <br/> Black scepter emitting green rays on gold disc, clutched in the talons of a black wyrm<ref name="LoD-p96"/> {{Former}} Stylized spearhead bearing white disc with scrawled Z in [[Dethek]]<ref name="LoD-p96"/>
+| favored deity  = [[Bane]] {{former}} [[Cyric]]
+| favored weapon = 
+| domains        = 
+| formed         = [[1261 DR]]<ref name="LoD-p96" /><ref name="tGHotR-p128" />
+| disbanded      = 
+| basicrefs      = <ref name="LoD-p96">{{Cite book/Lords of Darkness|96}}</ref>
+| members        = At least 10,000 c. [[1372 DR]]<ref name="LoD-p96"/>
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{alignment grid|off|off|off|off|off|off|on|on|off}}<ref name="LoD-p96"/>
+| races          = 
+| memrefs        = 
+| event1         = 
+| date1          = 
+| event2         = 
+| date2          = 
+| event3         = 
+| date3          = 
+| event4         = 
+| date4          = 
+| leader1        = 
+| leaderyear1    = 
+| leader2        = 
+| leaderyear2    = 
+| leader3        = 
+| leaderyear3    = 
+| leader4        = 
+| leaderyear4    = 
+| leader5        = 
+| leaderyear5    = 
+| leadertable    = 
+| histrefs       = 
+| allegiances    = 
+| enemies        = [[Harpers]], [[Lords' Alliance]], [[Cult of the Dragon]], the [[Rundeen]], [[Netheril]]
+| relrefs        = <ref name="LoD-p98"/>
+| showmembers    = yes
+| orgname        = the Zhentarim
+}}
+The '''Zhentarim''' ({{Pronounce|zz|HENT|ah|rim|refs=<ref name="FRCS1e-CR-p92">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|92}}</ref>}}) also known as the '''Black Network''',<ref name="FRCS3e-p281">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|281}}</ref> was a mercenary company and greater mercantile organization in [[Faerûn]],<ref name="SCAG-p78">{{Cite book/Sword Coast Adventurer's Guide|78}}</ref> who, over their 200 years of existence, had a storied history as a cadre of self-serving [[thieves]], spies, [[assassin]]s, and malevolent [[wizard]]s,<ref name="SCAG-p77">{{Cite book/Sword Coast Adventurer's Guide|77}}</ref> who for a time, were indentured by their leaders to serve dark gods [[Bane]]<ref name="FRCS3e-p282">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|282}}</ref> and [[Cyric]].<ref name="C&D-p9">{{Cite book/Cloak & Dagger|9}}</ref> Over the decades, the organization experienced several leaps and bounds in terms of successes,<ref name="RoZK:CB-p34" /> but also major misfortune, particularly for their historical strongholds around the [[Moonsea]].<ref name="FRCG-p151">{{Cite book/Forgotten Realms Campaign Guide|151}}</ref> As of [[1489 DR]] the Zhentarim was headquartered in the [[Western Heartlands]], at [[Darkhold|Darkhold Castle]], nestled in the [[Darkhold Vale|valley of the same name]].<ref name="SCAG-p78" />
+{{quote|As distasteful as [[Hillsfar]]'s policies might be, you can hardly expect us to deal with the baby-slaying Keepers. I've heard that they plight their troth with succubi, eat the brains of elves, and worship gods so black they make [[Moander]] seem nice. Their names are feared as far south as my native land. And the council who rules them, the Zhentarim, are twice as dark as the Keepers.|[[Akabar Bel Akash]]<ref name="ab-p205" />}}
+{{TOC limit|3}}
+==Aims & Goals==
+As an extension of the will of the dark wizard [[Manshoon]], the Zhentarim was initially formed as a mercenary company to support his rule over the [[Moonsea]] with the aim of spreading that control over all of Faerûn.<ref name="CaD-p32">{{Cite book/Cloak & Dagger|32}}</ref> After he recruited the faithful of Bane, unscrupulous merchants and lesser [[mage]]s to his cause,<ref name="RoZK:CB-p15">{{Cite book/Ruins of Zhentil Keep/Campaign Book|15}
+
+=== LINKED WIKI PAGE (first 5000 chars): Faerûn
+
+{{Location
+| title       = 
+| image          = Sword-Coast-Map HighRes-Compressed.jpg
+| caption        = Map of the Sword Coast and surrounding areas in western Faerûn in [[1489 DR]]
+| name           = Faerûn
+| aliases        = The Great Island <small>(for [[Northlander]])</small><ref name="TN.GttSF-p16">{{Cite book/The North: Guide to the Savage Frontier|16}}</ref>
+| type           = Continent
+| size           = 
+| capital        = 
+|demonym         = Faerûnian<ref name="WotW">{{Cite polyhedron/74/The Everwinking Eye: Words To The Wise}}</ref>
+| area           = [[Toril]]
+| languages      = 
+| races          = 
+| religion       = 
+| currency       = 
+| population1    = 
+| popyear1       = 
+| population2    = 
+| popyear2       = 
+| population3    = 
+| popyear3       = 
+| imports        = 
+| exports        = 
+| alignment      = 
+| allegiances    = 
+| government     = 
+| rulertype      = 
+| ruler1         = 
+| ruleryear1     = 
+| ruler2         = 
+| ruleryear2     = 
+| ruler3         = 
+| ruleryear3     = 
+| ruler4         = 
+| ruleryear4     = 
+| ruler5         = 
+| ruleryear5     = 
+| rulertable     =
+| usethe         = 
+| useon          = 
+| inhabitants    = yes
+| locations      = yes
+| organizations  = yes
+| settlements    = yes
+| events         = yes
+| food and drink = yes
+| items          = yes
+}}
+'''Faerûn''' ({{Pronounce|fay|ROON|refs=<ref name="FRCS2e-r-p4">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|4}}</ref>|audio=Faerûn.ogg}} {{Pronounce|FAY|er|OON|primary stress=3|refs=<ref name="FRCS1e-DM-p4">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|4}}</ref>|alt=yes}}) was a major continent on the planet of [[Toril]].<ref name="FRCS-p5">{{Cite book/Forgotten Realms Campaign Setting|5}}</ref><ref name="TFRA-p1">{{Cite book/The Forgotten Realms Atlas|1-3}}</ref><ref group="note">As the key setting of the ''[[Forgotten Realms]]'', the majority of official ''Forgotten Realms'' material covers this continent, and it has had more attention than any other area of the planet.</ref>
+{{quote|''Someone should have dared, long ago, and done so as often as it took to break you of this serenely wrong view of the ways of the world. Hear this, [[Narantha Crownsilver|Narantha]], and hear it well: Faerûn is not going to change to your will. Either you must change to dwell in it, or it will break you.''|[[Florin Falconhand]] of the [[Knights of Myth Drannor]]<ref name="soe-p72">{{Cite book/Swords of Eveningstar/Hardcover 2006|72}}</ref>}}
+
+==Etymology==
+The word "Faerûn" was a modified version of "Faerie", the name of the homeland of ancient [[elves]]. The term was coined by [[Durothil (prince)|Durothil]], prince of [[Tintageer]], [[Faerie]].<ref name="e:ioe-p97">{{Cite book/Evermeet: Island of Elves/MMP|97}}</ref>
+
+==Geography==
+{{main|Portal:Geography}}
+The continent included terrain that was as varied as any other. Besides the exterior coastline to the west and south, the most dominant feature on the continent was the [[Sea of Fallen Stars]]. This was an irregular inland sea that kept the interior lands fertile, connected the west and east regions of Faerûn and served as a major trade route for many of the bordering nations.<ref name="TFRA-p1" /><ref name="FRCS-p142">{{Cite book/Forgotten Realms Campaign Setting|142}}</ref>
+
+Next in significance was the [[Shaar]], a broad region of grasslands in the south that,<ref name="FRCS-p196">{{Cite book/Forgotten Realms Campaign Setting|196}}</ref> together with the Lake of Steam, separated the area around the inland sea from the coastal nations at the southern edge of the continent. To the east, Faerûn was bordered by a vast region of steppes from [[Kara-Tur]],<ref name="FRCS-p230">{{Cite book/Forgotten Realms Campaign Setting|230}}</ref> and in the north were massive glaciers ([[Pelvuria]] and [[Reghed]]) and tundra.<ref name="TFRA-p1" /> South of the continent, separated by the [[Great Sea]], was the sub-tropical land of [[Zakhara]].<ref name="FRCS-p230"/>
+
+The continent included the following geographic regions.<ref group="note">The following division of Faerûn by compass directions was developed for organizational purposes on the Forgotten Realms Wiki, and is not closely reflected by descriptions in source text. In particular, terms like "the North" and "the South" in the sources can be much more wide-ranging in scope, and as ambiguous, than what is defined here.</ref>
+
+===Northwest===
+[[File:Northwest faerun 250.gif|thumb|right|200px|''Northwest Faerûn'']]
+{{main|Northwest Faerûn}}
+A region of wilderness, difficult winter weather, [[orc]] hordes, and barbarian tribes, this region was generally referred to as "The North", which also contained most of the "[[Sword Coast North]]". It was a mostly untamed region that lay between the large [[Anauroch]] desert in the east and the expansive [[Sea of Swords]] in the west, north of the [[High Moor]].<ref name="TFRA-p1" /><ref name="FRCS-p165">{{Cite book/Forg
+
+=== LINKED WIKI PAGE (first 5000 chars): Mystra
+
+{{GA}}{{see also|Mystryl|Mystra (Midnight)}}
+{{Deity
+| image               = Mystra cover.jpg
+| caption             = 
+| name                = Mystra
+| title               = The Lady of Mysteries<ref name="SCAG5e-p21,35,125-126">{{Cite book/Sword Coast Adventurer's Guide|21, 35, 125-126}}</ref><ref name="CotR-13">{{Cite book/Cyclopedia of the Realms|13}}</ref><ref name="FRCS2e.RtR-47">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (Revised)/Running the Realms|47}}</ref><ref name="FRA-27">{{Cite book/Forgotten Realms Adventures|27}}</ref> <br /> The Mother of All Magic<ref name="SCAG5e-p21,35,125-126" /><ref name="FA-128">{{Cite book/Faiths & Avatars|128}}</ref> <br />Mistress of Magic<ref name="ElMotM-p122" /><br/> Our Lady of Spells<ref name="SCAG5e-p21,35,125-126" /><ref name="FA-128" /><br />The Mother of Mystery<ref name="por2">{{Cite game/Pool of Radiance: Ruins of Myth Drannor}}</ref><br/>Lady Magic<ref name="cru-p30">{{Cite book/Crucible|30}}</ref><br/>Lady of Magic<ref name="cru-p31">{{Cite book/Crucible|31}}</ref><br/>Lady of Might<ref name="ElMotM-p122" /><br/>One True Spell<ref name="ElMotM-p122">{{Cite book/Elminster: The Making of a Mage/MMP|122|7}}</ref><br/>Goddess of Magic<ref name="cru-p35">{{Cite book/Crucible|35}}</ref><br />{{Derogatory}} The Whore<ref>{{Cite book/Prince of Lies|176,319}}</ref><br/>The Harlot<ref name="cru-p160,194">{{Cite book/Crucible|160,194}}</ref>
+| adjective           = Mystran<ref name="FA-p130">{{Cite book/Faiths & Avatars|130}}</ref>
+| symbol              = A blue-white star<ref name="CotR-13" />
+| aspects             = Ri'dea'mystra<ref name="SFS2e-p56">{{Cite book/Sea of Fallen Stars|56}}</ref> 
+| pantheon            = [[Faerûnian pantheon]]
+| servedby            = [[Azuth]]<ref name="CotR-17">{{Cite book/Cyclopedia of the Realms|17}}</ref>
+| gender              = Feminine
+| died                = [[1358 DR]]<ref name="Shadow-21">{{Cite book/Shadowdale (adventure)|21}}</ref>
+| portfolio           = [[Magic]], Spells, [[The Weave]]
+| worshipers          = [[Bard]]s, [[wizard]]s, seekers of arcane lore, mostly [[human]]<ref name="FA-129">{{Cite book/Faiths and Avatars|129}}</ref>
+| mortalrace          = [[Human]]<ref name="N.EoM-12">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|12}}</ref>
+| mortalsex           = Female<ref name="N.EoM-12" />
+| mortalhomes         = [[Netheril]]<ref name="N.EoM-12" />
+| apotheosis          = {{Yearlink|-339}}<ref name="N.EoM-12" />
+| power5e             = 
+| alignment5e         = 
+| symbol5e            = 
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = 
+| domains5e           = 
+| worshipers5e        = 
+
+| channel divinity5e  = 
+| holy days5e         = 
+| class5e             = 
+| refs5e              = 
+| power4e             = 
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = 
+| power3e             = 
+| alignment3e         = 
+| symbol3e            = 
+| homeplane3e         = 
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = 
+| domains3e           = 
+| worshipers3e        = 
+| cleric alignments3e = 
+| favored weapon3e    = 
+| holy days3e         = 
+| class3e             = 
+| refs3e              = 
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Lawful neutral]]
+| symbol2e            = Blue-white star
+| homeplane2e         = [[Nirvana]]
+| realm2e             = 
+| serves2e            = 
+| servedby2e          = [[Azuth]]
+| portfolio2e         = Magic
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = 
+| refs2e              = <ref name="FRCS2e.RtR-47"/><ref name="FA-128"/>
+| power1e             = [[Greater deity]]
+| alignment1e         = [[Lawful neutral]]
+| symbol1e            = Blue-white star
+| homeplane1e         = [[Nirvana]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = [[Azuth]]
+| portfolio1e         = Magic
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="CotR-13" /><ref>{{Cite book/Cyclopedia of the Realms|17}}</ref>
+| animals             = 
+| plants              = 
+| monsters            = 
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  = 
+| church              = yes
+| temples             = yes
+}}
+'''Mystra''' ({{Pronounce|MISS|trah|audio=Mystra.ogg|refs=<ref name="CotR-13" /><ref>{{Cite book/Forgotten Realms Campaign Setting 3rd edition|247}}</ref><ref name="FP3e-p50">{{Cite book/Faiths and Pantheons|50}}</ref>}}) was a [[greater deit
+
+=== LINKED WIKI PAGE (first 5000 chars): Time of Troubles
+
+{{Event
+| image       = AvatarCrisis.png
+| caption     = Depiction of the Arrival of the avatars to Toril.
+| name        = Time of Troubles
+| partof      = 
+| othernames  = 
+| type        = Cataclysm
+| deity       = 
+| location    = [[Toril]]
+| date        = [[1358 DR]]
+| duration    = 
+| schedule    = 
+| frequency   = 
+| basicrefs   = <ref name="GHR3e-p142">{{Cite book/The Grand History of the Realms|142}}</ref>
+| observedby  = 
+| affected    = 
+| activities  = 
+| first       = 
+| cause       = Theft of the [[Tablets of Fate]]
+| responsible = [[Ao]]
+| subevents   = 
+| outcome     = Significant rearrangement of the [[Faerûnian pantheon]]
+| histrefs    = <ref name="GHR3e-p142" />
+}}
+The '''Time of Troubles''' was a cataclysmic time period in the chronology of [[Faerûn]]. Taking place during the {{YearlinkName|1358}},<ref name="FRCS-p271">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|271}}</ref> the Time of Troubles was a period during which the [[deities]] of [[Faerûn]] were forced to walk the earth in their mortal [[avatar]] forms. Several major deities died during the Time of Troubles (see [[#Deaths, Ascensions, and Resurrections|Deaths, Ascensions, and Resurrections]]) and a handful of mortals rose to divinity.<ref name="FRCS-p264">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|264}}</ref>
+
+==Etymology==
+Other names that this cataclysmic period was known by included '''the Arrival''',<ref name="FRCS-p271" /> the '''Avatar Crisis''', the '''Godswar''',<ref name="FRCS-p271" /><ref name="P&P-p3">{{Cite book/Powers & Pantheons|3}}</ref><ref name="F&A-p23">{{Cite book/Faiths & Avatars|23}}</ref> the '''Time of the Avatars''', the '''Fall of the Gods''', and the '''Intervention of Ao'''.<ref name="P&P-p3" />
+
+==Summary==
+The Time of Troubles was precipitated by an attempt by the gods [[Bane]] and [[Myrkul]] to steal the [[Tablets of Fate]] from the overdeity [[Ao]]. Angry at the gods for their habitual pursuit of power and negligence toward their mortal faithful,<ref name="FRCS-p264"/> Lord Ao relegated every god (except for the guardian god [[Helm]], who was selected to protect the gates to the heavens<ref name="SD-p1">{{Cite book/Shadowdale/MMP (1989)|1-8|0}}</ref>) to walk among their followers on Toril.<ref name="FRCS-p264"/> This included the gods of [[pantheon]]s far removed from Faerûn, such as the [[Kara-Turan pantheon]] and [[Maztican pantheon]].<ref name="PBF">{{Cite web/theedverse/2018-10-13 - Time of Troubles - Pantheons Beyond Faerûn}}</ref>
+
+The immediate effects of this edict were threefold. First, [[divine magic]] (spells granted to [[cleric]]s by their [[deity|patron deities]]) ceased to function altogether<ref name="Siege">{{Cite book/Siege of Darkness}}</ref> unless the cleric was within {{SI|1|mile|k|long=yes}} of their deity's avatar. Second, [[Magic|arcane magic]] (a force channeled from the [[Weave]] by [[wizard]]s and [[sorcerer]]s) ceased to be regulated by its steward, [[Mystra]], and became dangerously unpredictable.<ref name="FRCS-p264"/> Third, the characteristically immortal and aloof deities were now vulnerable (though still devastatingly powerful) and dwelling among the civilizations of Faerûn.<ref name="FRCS-p265">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|265}}</ref>
+
+==History==
+* Ao cast the gods down in the early evening of [[Kythorn 15]].<ref name="TFRA-p128" />
+* Helm destroyed Mystra for attempting to ascend the Celestial Stairway on [[Midsummer]].<ref name="TFRA-p128" />
+* Bane and the Celestial Stairway were destroyed on [[Flamerule 18]].<ref name="TFRA-p128" />
+* Myrkul brought Bane back to Toril and he possessed [[Fzoul Chembryl]] on [[Flamerule 25]].<ref name="TFRA-p128" />
+* Bane and Torm destroyed each other on [[Eleasis 13]].<ref name="TFRA-p128" />
+* Cyric slew Bhaal on [[Eleint 26]].<ref name="TFRA-p128" />
+* Myrkul was slain by Midnight on [[Marpenoth 15]].<ref name="TFRA-p129" />
+* Midnight and Cyric ascended to godhood on Marpenoth 15.<ref name="TFRA-p129" />
+{{sectstub}}
+
+Thanks to the efforts of [[Midnight]], [[Cyric]], [[Kelemvor]], and the cleric [[Adon]], Ao recovered the Tablets of Fate. However, the Overgod himself destroyed the tablets, grinding them into powder.<ref name="Wat-p331">{{Cite book/Waterdeep|331-332}}</ref> This act unraveled the laws of [[Realmspace]] and began the chaotic period of time known as the [[Era of Upheaval]].<ref name="Youtube">{{Cite web|url=https://www.youtube.com/watch?v=eAoq-vwWHHg|title=What is the Sundering? (Part 1)|accessmonthday=September 7th|accessyear=2017|author=[[Ed Greenwood]],  [[Erin M. Evans]], [[Paul S. Kemp]], [[R.A. Salvatore]], [[Richard Lee Byers]], [[Troy Denning]], [[James Wyatt]] |date=August 21th, 2012}}</ref>
+
+==Deaths, Ascensions, and Resurrections==
+===Deaths===
+The Time of Troubles was a time of significant turnover among the gods of the [[Faerûnian pantheon]].<ref name="FRCS-p265"/> Several deities were "destroyed" (see below) during this period. The followi
+
+=== LINKED WIKI PAGE (first 5000 chars): Spellplague
+
+{{Event
+| image       = Sanitorium - Mark Winters.jpg
+| caption     = Victims of the Spellplague.
+| name        = Spellplague
+| partof      = 
+| othernames  = Blue Breath of Change 
+| type        = Cataclysm
+| deity       = 
+| location    = [[Abeir]] and [[Toril]]
+| date        = [[1385 DR]]–[[1395 DR]]
+| duration    = 10 years 
+| schedule    = 
+| frequency   = 
+| basicrefs   = <ref name="SCAG5e-p17">{{Cite book/Sword Coast Adventurer's Guide|17}}</ref>
+| observedby  = 
+| affected    = 
+| activities  = 
+| first       = 
+| cause       = Death of [[Mystra (Midnight)|Mystra]]
+| responsible = [[Cyric]] and [[Shar]]
+| subevents   = 
+| outcome     = Global turmoil, temporary destruction of the [[Weave]]
+| histrefs    = <ref name="SCAG5e-p17" />
+}}
+The '''Spellplague''', called the '''Blue Breath of Change''' by the inhabitants of [[Abeir]],<ref name="FRCG-p200">{{Cite book/Forgotten Realms Campaign Guide|200}}</ref> was a disaster that struck [[Realmspace]] and even the [[planes]] themselves on the date of [[Tarsakh 29]] in the {{YearlinkName|1385}}, and was caused by [[Mystra (Midnight)|Mystra]]'s assassination at the hands of [[Cyric]] and [[Shar]].<ref name="FRCG-p50">{{Cite book/Forgotten Realms Campaign Guide|50}}</ref><ref name="Ud-p64">{{Cite book/Undead|64}}</ref> It continued for a decade, leading to the [[Wailing Years]], during which [[arcane magic]] ceased to function and the planet of [[Toril]] was transformed.<ref name="TWY">{{Cite dragon/362/Countdown to the Realms: Spellplague: The Wailing Years}}</ref>
+
+{{Quote|In the infamous, calamitous year of [[1385 DR]], a conspiracy between the goddess of darkness, Shar, and the god of trickery, Cyric, sought to end Mystra's control over the Weave and influence over the realms by cravenly assassinating her. But instead of merely breaking the goddess of magic's dominance, her death threw the Weave into utter chaos and collapse. Magic spells faltered, or failed entirely. Countless spellcasters were killed or driven insane. A vast storm of blue flame arose from the [[Mhair Jungles]] and swept the continent, churning and reshaping the land, and leaving whole regions devastated.|''[[Magical Histories]], Volume 2: The Spellplague''<ref name="BGIII">{{Cite game/Baldur's Gate III}}</ref>}}
+
+==Omens==
+{{Quote|''"The white queen is troubled but can't say why. The black queen hates the white and gives the assassin a black coat. The assassin steals upon the white queen. She can't see him gliding through the shadows. The sword screams. The white queen falls. Her city falls. Stones fall in the cavern to crush the soothsayer. The tree burns and thrashes in agony. Branches break. Branches twist and grow together..."''|A vision of the Spellplague from the [[diviner]] [[Yaphyll]]<ref name="Ud-p7">{{Cite book/Undead|7}}</ref>}}
+
+In her vision, the diviner Yaphyll referred to Mystra as the white queen and to Shar, goddess of the night, as the black queen. Cyric, god of murder, was the assassin;<ref name="Ud-p75">{{Cite book/Undead|75}}</ref> [[Savras]], the god of divination, was the soothsayer,{{speculation}}, and [[Dweomerheart|the city]], cavern and [[World Tree cosmology|tree]] symbolized the ordered structures of magic crumbling into chaos.<ref name="Ud-p75"/>
+
+==Origins==
+The most popular and widely accepted theory about the origins of the Spellplague was that this calamity was caused by the death of Mystra, the [[god]]dess of [[Magic]]. For eons, magic had been bound within Mystra's [[Weave]], the universal structure of arcane forces, and her death tore the Weave apart and unleashed the [[raw magic]] contained within it, creating the cataclysm that was later known as the Spellplague.<ref name="FRCG-p50"/><ref name="NV">{{Cite game/Neverwinter}}</ref>
+
+Other scholars, however, didn't consider this to be a logical explanation. Historically, two earlier incarnations of Mystra had died before only to be reborn, and the Weave maintained its hold over the power of magic for the duration of her deaths. In these scholars' views, the truth would never be fully known to mortals, and perhaps not even to the [[god]]s.<ref name="NV"/><ref name="PoS-p79">{{Cite book/Plague of Spells|79}}</ref>
+
+Around [[1396 DR]], the sentient [[construct]] [[Cynosure (construct)|Cynosure]] theorized that the escape of an entity named the [[Carnis|Traitor]] from its confinement in the dungeons of [[Stardeep]], around the same time Mystra was murdered, may have also influenced the Spellplague's virulent onslaught.<ref name="PoS-p79"/>
+
+Around [[1479 DR]], scholars and sages who studied the [[Neverwinter/Chasm|Chasm]] of [[Neverwinter]], such as [[Rhazzad]], believed the [[aboleth]]s of the [[Abolethic Sovereignty]] may have been the actual creators of the Spellplague, although there were no definite proof.<ref name="NV"/>
+
+==The Plague==
+Mystra's death caused the Weave to collapse and, without the Weave, the [[Shadow Weave]] was unable to be maintained and collapsed as well. The breakdown of the Weave
+
+=== LINKED WIKI PAGE (first 5000 chars): Lathander
+
+{{Deity
+| image               = Lathander p39-1-.jpg
+| caption             = A depiction of the Morninglord.
+| name                = Lathander
+| title               = Morninglord<ref name="CotR-11">{{Cite book/Cyclopedia of the Realms|11}}</ref><ref name="FA-90">{{Cite book/Faiths and Avatars|90}}</ref><ref name="RtR-46-47">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (Revised)/Running the Realms|46-47}}</ref><ref name="OHG-169">{{Cite book/On Hallowed Ground|169}}</ref><ref name="FP-37">{{Cite book/Faiths & Pantheons|37}}</ref><ref name="FRCS-244">{{Cite book/FRCS|244}}</ref><ref name="SCAG5e-p32">{{Cite book/Sword Coast Adventurer's Guide|32}}</ref><ref name="HoF-p111">{{Cite book/Forgotten Realms: Heroes of Faerûn|111}}</ref><br />Commander of Creativity<ref name="FA-90" /><ref name="RtR-46-47" /><br />Inspiration's Dawn<ref name="SCAG5e-p32" /><ref name="HoF-p111"/><br />The Rose-and-Gold God<ref name="SCAG5e-p32" /><ref name="HoF-p111"/><br />Bringer of the Dawn<ref name="EotB3"/><br />Lord of Birth and Renewal<ref name="EotB3"/><br />Patron to Spring and Eternal Youth<ref name="EotB3"/><br />Mentor of Self-Perfection<ref name="EotB3"/>
+| adjective           = Lathanderian<ref name="FA-92">{{Cite book/Faiths & Avatars|92}}</ref>, Lathanderite<ref name="elFR-p149">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|149}}</ref>
+| aspects             = [[Amaunator]]
+| primordial          = 
+| pantheon            = [[Faerûnian pantheon]]
+| gender              = Masculine
+| died                = 
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Elysium]] ([[Eronia]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Dawn, beginnings, birth, creativity, renewal, spring, youth
+| domains5eR          = 
+| worshipers5eR       = Aristocrats, athletes, merchants, youths
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,111">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,111}}</ref>
+| power5e             = 
+| alignment5e         = [[Neutral good]]
+| symbol5e            = Road traveling into a sunrise
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Dawn, renewal
+| domains5e           = [[Life domain|Life]], [[Light domain|Light]]
+| worshipers5e        = Merchants, travelers
+| channel divinity5e  = ''[[Preserve life]]''<br />''[[Radiance of the dawn]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="PHB5e-p294">{{Cite book/Player's Handbook 5th edition|60-61,294}}</ref><ref name="SCAG5e-p32" />
+| power4e             = 
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = 
+| power3e             = [[Greater deity]]
+| alignment3e         = [[Neutral good]]
+| symbol3e            = Sunrise made of pink, red, and yellow gems
+| homeplane3e         = [[House of Nature]]
+| realm3e             = [[Morninglory]]
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Athletics, birth, creativity, dawn, renewal, self-perfection, spring, vitality, youth
+| domains3e           = [[Chastity domain|Chastity]], [[Glory domain|Glory]], [[Good domain|Good]], [[Nobility domain|Nobility]], [[Protection domain|Protection]], [[Radiance domain|Radiance]], [[Renewal domain|Renewal]], [[Strength domain|Strength]], [[Sun domain|Sun]], [[Zeal domain|Zeal]]
+| mantles3e           = {{Mantles|Good|Life|Light and Darkness|Time}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = Aristocrats, artists, athletes, merchants, [[Sun Soul|Sun Soul monks]], the young
+| cleric alignments3e = {{alignment grid|on|on|on|off|off|off|off|off|off}}
+| favored weapon3e    = "[[Dawnspeaker]]" ([[light mace|light]] or [[heavy mace]])
+| holy days3e         = Any dawn, Midsummer morning, the equinoxes
+| class3e             = {{class table|edition=3e|[[Cleric]]|20|[[Divine champion]]|5|[[Fighter]]|20}}
+| refs3e              = <ref name="FP-37-38">{{Cite book/Faiths & Pantheons|37-38}}</ref><ref name="FRCS-234-235">{{Cite book/FRCS|234-235}}</ref><ref name="FRCS-244-245">{{Cite book/FRCS|244-245}}</ref><ref name="PGtF-158-159">{{Cite book/PGtF|158-159}}</ref><ref name="PGtF-p189">{{Cite book/Player's Guide to Faerûn|189}}</ref><ref name="D355-26">{{Cite dragon/355/Seven Saintly Domains|26}}</ref><ref>{{Cite dragon/321/The Limitless Light: A Tour of the Plane of Radiance|68}}</ref>
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Neutral good]]
+| symbol2e            = A simple rosy pink disk
+
+=== LINKED WIKI PAGE (first 5000 chars): Shar
+
+{{Deity
+| image               = <gallery>
+Shar 5.5.png|5.5e
+Shar.jpg|3e
+</gallery>
+| caption2            = Various depictions of Shar.
+| name                = Shar
+| title               = Mistress of the Night<ref name="CotR-p14" /><ref name="FRA-30" /><ref name="FRCS2e-Cards" /><ref name="F&A-p138" /><ref name="FRCS3e-p249" /><ref name="FaP-p58" /><ref name="FRCG4e-p76" /><ref name="FRPG4e-p152" /><ref name="SCAG5e-p21,36-37" /><ref name="HoF-p120">{{Cite book/Forgotten Realms: Heroes of Faerûn|120}}</ref><br /> The Lady of Loss<ref name="CotR-p14" /><ref name="FRCS2e-Cards" /><ref name="F&A-p138" /><ref name="FRCS3e-p249" /><ref name="FaP-p58" /><br /> Nightsinger<ref name="F&A-p138" /><ref name="TWoN-p55" /><ref name="OHG-p170" /><br /> The Nightbringer<ref name="cru-p30">{{Cite book/Crucible|30}}</ref> Singer of Eternal Night<ref name="POD2" /><br/> Dark Lady<ref name="FRA-30" /><ref name="SCAG5e-p21,36-37" /><ref name="HoF-p120"/><br /> Dark Goddess<ref name="FRCS3e-p249" /><ref name="FaP-p58" /><br/> Dark Deity<ref name="FRCS3e-p249" /><br/> Goddess of Loss<ref name="cru-p30" /><br/> Mistress of Pain<ref name="POD2">{{Cite game/Pool of Radiance: Ruins of Myth Drannor}}</ref><br/> God of Thieves (in Netheril)<ref name="mc">{{Cite book/Mortal Consequences}}</ref><br/> The Unseen Lady (in Netheril)<ref name="TWoN-p55" /><br/> The Dark Traitor<ref name="TWoN-p55" /><br/> The Shadowy Seductress<ref name="TWoN-p55" /><br/> Our Lady of Loss<ref name="SCAG5e-p21,36-37" /><ref name="HoF-p120"/><br/>Lady of Sorrows<ref name="bg3" />
+| adjective           = Sharran<ref name="F&A-p138" />
+| aspects             = [[Ibrandul]]<ref name="F&A-p138" /><br/>[[Eshowdow]]<ref name="F&P">{{Cite book/Faiths and Pantheons|109}}</ref><ref name="RoF">{{Cite book/Races of Faerûn|106}}</ref>
+| status              = 
+| primordial          = 
+| pantheon            = [[Faerûnian pantheon]], {{former}} [[Netherese pantheon]]
+| home                = 
+| formerhomes         = 
+| gender              = Feminine
+| died                = 
+| basicrefs           = <ref name="CotR-p14" /><ref name="FRA-30" /><ref name="RtR-p48" /><ref name="F&A-p138" /><ref name="TWoN-p55" /><ref name="OHG-p170" /><ref name="FRCS3e-p249" /><ref name="FaP-p58" /><ref name="FRCG4e-p76" /><ref name="FRPG4e-p152" /><ref name="SCAG5e-p21,36-37" />
+| mortalrace          = 
+| mortalsex           = 
+| mortalhomes         = 
+| apotheosis          = 
+| mortalrefs          = 
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Hades]] ([[Niflheim]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Darkness, loss, night, secrets, forgetfulness
+| domains5eR          = 
+| worshipers5eR       = Anyone suffering pain or loss
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,120">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,120}}</ref>
+| power5e             = 
+| alignment5e         = [[Neutral evil]]
+| symbol5e            = Black disk with a purple border
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Darkness, loss, night, secrets, forgetfulness
+| domains5e           = [[Death domain|Death]], [[Trickery domain|Trickery]]
+| worshipers5e        = Miners, those seeking to forget
+| channel divinity5e  = ''[[Touch of death]]''<br />''[[Invoke duplicity]]''<br />''[[Cloak of shadows (channel divinity)|Cloak of shadows]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="PHB5e-p62-63,294">{{Cite book/Player's Handbook 5th edition|62-63,294}}</ref><ref name="SCAG5e-p21,36-37">{{Cite book/Sword Coast Adventurer's Guide|21,36-37}}</ref><ref name="DMG5e-p96-97">{{Cite book/Dungeon Master's Guide 5th edition|96-97}}</ref>
+| power4e             = [[Greater deity]]
+| alignment4e         = [[Evil]]
+| symbol4e            = A black disk with a purple border
+| dominion4e          = [[Towers of Night]]
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = Shadows<ref name="HotDQ-61">{{Cite book/Hoard of the Dragon Queen|61}}</ref>
+| domains4e           = [[Darkness domain|Darkness]], [[Knowledge domain|Knowledge]], [[Undeath domain|Undeath]]
+| worshipers4e        = Anarchists, [[assassins]], avengers, [[Order of the Dark Moon|dark moon]] [[monks]], nihilists, [[rogues]], [[shadow adept]]s, [[shadowcaster]]s, and [[shadowdancer]]s
+| cleric alignments4e = {{alignment grid|off|off|off|off|off|off|on|on|on}}
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCG4e-p76">{{Cite book/Forgotten Realms Campaign Guide|76}}</ref><ref name="FRCG4e-80,240">{{Cite book/Forgotten Realms Campaign Guide|80,240}}</ref><ref name="FRPG4e-p152">{{Cite book/Forgotten Realms Player's Guide|152}}</re
+
+=== LINKED WIKI PAGE (first 5000 chars): Cult of the Dragon
+
+{{otheruses4|the semi-religious organization|the 2nd edition sourcebook|Cult of the Dragon (sourcebook)}}
+{{Organization
+| image          = <gallery>
+Cult of the Dragon Symbol - Heroes of Faerûn.png|5.5e
+Cult of the Dragon 4e.jpg|4e
+Cult_of_the_Dragon.jpg|3e
+Cult of the Dragon 2e.jpg|2e
+</gallery>
+| caption2       = Symbol of the Cult of the Dragon.
+| name           = Cult of the Dragon
+| aliases        = Wearers of Purple<ref name="LoD-p19" /><br/>Followers of the Scaly Way<ref name="DoF-p52" /><br/>Dragon Cult<ref name="DoF-p52" />
+| type           = Secret society,<ref name="DoF-p52" /><ref name="RtR-p60" /><ref name="FRCS-p272" /> [[beast cult]],<ref name="RtR-p60" /> magical cabal, mercantile and criminal organization<ref name="FRCG-p246" />
+| base           = [[Well of Dragons]], {{former}} None<ref name="LoD-p19" />
+| leadertitle    = 
+| leader         = {{split table|[[Sammaster]]|[[902 DR|902]]–[[916 DR]]|[[Algashon Nathaire]]|916–[[1018 DR]]|[[Tuelhalva Drakewings]]|972–1018 DR|Sammaster|[[1373 DR]]|[[The Triumvirate]]|[[1374 DR]]–?|[[Severin Silrajin]]|1480s [[DR]]<ref name="HotDQ-p5" />}}
+| symbol         = A black flame with eyes burning above a dragon's claw<ref name="LoD-p19" /><ref name="FRCS-p272" /><ref name="FRCS2e-Cards" />
+| favored deity  = No official deity;<ref name="LoD-p19" /> [[Bane]], [[Shar]], [[Talos]], [[Talona]], [[Velsharoon]],<ref name="LoD-p19" /><ref name="FRCS-p272" /> [[Cyric]], [[Gargauth]], [[Malar]],<ref name="LoD-p19" /><ref name="FRCS-p272" /> [[Tiamat]]<ref name="LoD-p19" /><ref name="FRCS-p272" /><ref name="HotDQ-p5"/>
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="LoD-p19" /><ref name="DoF-p52" /><ref name="FRCS-p272" /><ref name="FRCG-p246" /><ref name="DMSotR-p38" /><ref name="RtR-p25" />
+| members        = Almost 1,000 c. 1372 DR<ref name="LoD-p19" /><br/>5,730 c. 1374 DR<ref name="DoF-p52" />
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{alignment grid|off|off|off|off|off|on|off|on|on}}<ref name="LoD-p19" /><br/>{{alignment grid|off|off|off|off|off|off|on|on|on}}<ref name="DoF-p52" />
+| races          = 
+| memrefs        = 
+| event1         = 
+| date1          = 
+| event2         = 
+| date2          = 
+| event3         = 
+| date3          = 
+| event4         = 
+| date4          = 
+| leader1        = 
+| leaderyear1    = 
+| leader2        = 
+| leaderyear2    = 
+| leader3        = 
+| leaderyear3    = 
+| leader4        = 
+| leaderyear4    = 
+| leader5        = 
+| leaderyear5    = 
+| leadertable    = 
+| histrefs       = 
+| allegiances    = Many evil [[dragons]]<ref name="LoD-p21">{{Cite book/Lords of Darkness|21}}</ref>
+| enemies        = [[Harpers]];<ref name="FRCS-p272" /><ref name="LoD-p22">{{Cite book/Lords of Darkness|22}}</ref> churches of [[Mystra]], [[Lathander]], [[Torm]], and [[Tyr]]<ref name="FRCS-p272" />
+| relrefs        = 
+| showmembers    = yes
+| orgname        = the Cult of the Dragon
+}}
+The '''Cult of the Dragon''', also called the '''Dragon Cult''' and the '''Followers of the Scaly Way'''<ref name="DoF-p52" /> and, by the early 1370s DR, the '''Wearers of Purple''', was a semi-religious [[evil]] organization venerating [[undead]] [[dragons]], or [[dracoliches]], founded by [[Sammaster]], a powerful [[wizard]] and former [[Chosen of Mystra]] like [[Elminster]] and [[Khelben "Blackstaff" Arunsun]]. Their belief was that dracoliches were destined to one day rule [[Faerûn]] and beyond and that it was their purpose to help this come to pass.<ref name="LoD-p19">{{Cite book/Lords of Darkness|4,18-19}}</ref><ref name="DoF-p52">{{Cite book/Dragons of Faerûn|52-54}}</ref><ref name="FRCS-p272">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|272-273}}</ref><ref name="FRCG-p246">{{Cite book/Forgotten Realms Campaign Guide|246-247}}</ref><ref name="HotDQ-p5">{{Cite book/Hoard of the Dragon Queen|5}}</ref><ref name="DMSotR-p38">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|38}}</ref><ref name="RtR-p25">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|25-26}}</ref><ref name="FRCG-p155" /><ref name="TRoT-p8">{{Cite book/The Rise of Tiamat|8-9}}</ref> They were considered to be a secret society<ref name="DoF-p52" /><ref name="RtR-p60" /><ref name="FRCS-p272" /> or a [[beast cult]], albeit an overly large and powerful one,<ref name="RtR-p60">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|60}}</ref><ref name="FRCS-p272" /><ref name="CotR-p16">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|16}}</ref> and as a mercantile and criminal enterprise.<ref name="FRCG-p246" />
+{{TOC limit|3}}
+==Dogma==
+===Sammaster's Teachings===
+{{fq
+| text   = And naught will be left save shattered thrones with no rulers. But the dead dragons shall rule the world entire, and…
+| source = Sammaster's translation of Maglas's ''Chronicle of Years to Come''<ref name="CotD-p1">{{Cite boo
+
+=== LINKED WIKI PAGE (first 5000 chars): Marking the years
+
+{{Roll of years|1|Sunrise|nocat=true}}
+''Example conversion between the years for [[1 DR]]''
+
+Years (winters)<ref name="GTotR-p22" /> are referred to by names, each name consistent across the Realms. Each kingdom or city-state numbers years differently, usually to measure the reign of a dynasty or the current monarch, or since the founding of the country. The result is a hodgepodge of overlapping numbers that serve to confuse the ordinary person and frustrate the sage. The widespread differing year dates include the following:
+
+==Methods of Reckoning==
+===Dalereckoning (DR)===
+Dalereckoning is taken from the {{YearlinkName|1}}, when the [[Standing Stone]] was raised by the [[elves]] of [[Cormanthyr]] and the [[human]]s of the [[Dalelands]]. Since this time, humans were permitted by the [[Elven Court]] to settle in the more open regions of the forests. In some texts, primarily those which do not have direct ties to Dalesfolk history, Dalereckoning is called Freeman's Reckoning (FR). The calendar is widely used in [[Faerûn]] but has not spread beyond its shores.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Cormyr Reckoning (CR)===
+[[Cormyr]] Reckoning begins at the foundation of [[House Obarskyr]], the dynasty that still rules that land. The 25-year gap between Cormyr Reckoning and Dalereckoning has caused much of the confusion regarding elder days. Timelines and calendars of the period often use DR designators, but place the founding of Cormyr at 1 DR instead of [[26 DR]]. This is understandable, given that the two reckonings are from two nearby parties and spread by a third (the merchants of Sembia), but it causes learned sages to slam their heads violently against their desks trying to figure things out.<ref name="GTotR-p22">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22}}</ref><ref name="TGHotR-p4">{{Cite book/The Grand History of the Realms|4}}</ref>
+
+===Tethyreckoning (TR)===
+Tethyreckoning begins with Founding Year, Year 0 TR, in {{Yearlink|-212}}, when [[Darrom Ithal]] of [[Clan Ithal]] retook the city of [[Myratma]] from the [[Calimshan|Calishites]] in the [[Battle of the Purple Marches]] and was crowned king of [[Tethyr]] by the clans. This dating system was rarely used outside of official legal documents in Tethyr.<ref name="LoI1-T-p25">{{Cite book/Lands of Intrigue/Tethyr|25}}</ref>
+
+===Northreckoning (NR)===
+Used in the City of [[Waterdeep]], Northreckoning dates from the year [[Ahghairon]] became the first [[Lords of Waterdeep|Lord of Waterdeep]] ([[1032 DR]]). A more archaic system called Waterdeep Years (WY) dates from the supposed first use of Waterdeep as a trading post. This reckoning is now largely abandoned except in ancient texts.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Mulhorand Calendar (MC)===
+One of the oldest calendars in use in the Realms, this ancient scheme of record-keeping dates from the founding of [[Skuld]], the City of Shadows, reputedly by a [[Mulhorand]]i god.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Netheril Year Calendar (NY)===
+Used by the [[Netherese]], it places 0 NY on {{Yearlink|-3859}}, when several villages on the shore of the [[Narrow Sea]] combined for mutual protection, forming the [[Alliance of Seventon]], which later became [[Netheril]].<ref name="NEoM-p5">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|5}}</ref> The Netheril Year calendar was created by [[Nether]] to celebrate the union.<ref name="TGHotR-27">{{Cite book/The Grand History of the Realms|27}}</ref>
+
+===Present Reckoning (PR)===
+In an attempt to get a handle on the various number systems in use, a new type of reckoning has been implemented with the approval of such worthies as [[Khelben "Blackstaff" Arunsun]] of Waterdeep and [[Vangerdahast]] of Cormyr and carried abroad by the [[Harpers]]. All year-dates trace back to the [[Time of Troubles]] in the {{YearlinkName|1358}}, as year 0.<ref name="GTotR-p22-23">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22-23}}</ref>
+
+===Amnian Calendar===
+The local calendar of [[Amn]] was based on the founding of [[Athkatla]] and the opening of its market on [[Shieldmeet]] in {{YearlinkName|100}}, which served as year 0. However, the Amnian calendar was largely irrelevant and rarely used outside of some official documents, with the vast majority of the population using Dalereckoning instead.<ref name="LoI2-A-p19">{{Cite book/Lands of Intrigue/Amn|19}}</ref>
+
+===Impilturan Calendar===
+The old calendar of [[Impiltur]] was the primary reckoning tradition in the so-called [[Demonlands]], including [[Damara]], the [[Great Dale]], Impiltur, [[Narfell]], and [[Vaasa]]. It began with the founding of the kingdom of Impiltur, which in Dalereckoning occurred in the {{YearlinkName|-74}}.<ref name="DunMag.177-p77">{{Cite dungeon/177/Realmslore: Vaasa|77}}</ref><ref name="tGHotR-p58">{{Cite book/The Grand History of the Realms|58}}</ref
+
+=== LINKED WIKI PAGE (first 5000 chars): Delaan Winterhound
+
+{{DEFAULTSORT:Winterhound, Delaan}}
+{{Person
+| image          = 
+| caption        = 
+| name           = Delaan Winterhound
+| true name      = 
+| alt_spelling   = 
+| titles         =
+| aliases        = 
+| nicknames      = 
+| home           = [[Nesmé]], [[Savage Frontier]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Half-elf]]
+| ethnicity      =
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = 
+| basicrefs      =<ref name="tRoT-p13">{{Cite book/The Rise of Tiamat|13}}</ref>
+| reckoning      = DR
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| alignment      = 
+| class          = 
+| rules          = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Neutral good]]
+| class5e        = 
+| refs5e         = <ref name="tRoT-p13" /> 
+}}
+'''Delaan Winterhound''' was a chief ranger of the [[Emerald Enclave]] and their main delegate at the [[Council of Waterdeep]].<ref name="tRoT-p13" />
+
+==Personality==
+Delaan preferred the wild spaces of the [[North]] and felt uncomfortable in [[Waterdeep]]. He believed that the [[Cult of the Dragon]] needed to be stopped, as they caused too much destruction that would unbalanced nature's equilibrium. However, his primary concern was the natural order.<ref name="tRoT-p13" />
+
+==History==
+Delaan lived in the northern wilderness. Once a year, he visited his friend in [[Nesmé]].
+
+When the menace of [[Severin Silrajin]]'s [[Cult of the Dragon]] became global, Delaan was chosen as the leading delegate at the Council of Waterdeep. Eventually, he was able to call on the help of [[treants]] against the Cult if he was impressed by the adventurers recruited to stop the Cult<ref name="tRoT-p13" />
+
+==Relationship==
+Delaan had a [[winter wolf]] companion called [[Loska]]. He was also good friend of the famed treant [[Turlang]] of the [[High Forest]].<ref name="tRoT-p13" />
+
+==Appendix==
+===Appearances===
+:;Adventures
+::''[[The Rise of Tiamat]]''
+
+===References===
+{{refs}}
+[[Category:Half-elves]]
+[[Category:Rangers]]
+[[Category:Members of the Emerald Enclave]]
+[[Category:Members of the Council of Waterdeep]]
+[[Category:Inhabitants of Nesmé]]
+[[Category:Inhabitants of the Savage Frontier]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Council of Waterdeep
+
+{{Organization
+| image          = Council of Waterdeep.jpg
+| caption        = Councilors discussing how to best get ahead of the Dragon Cult.
+| name           = Council of Waterdeep
+| aliases        = 
+| type           = Council
+| base           = [[Lords' Palace]], [[Waterdeep]]
+| leader         = 
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 1480s [[DR]]
+| disbanded      = Same
+| basicrefs      = <ref name="RoT-p6" /><ref name="RoT-p20" />
+| members        = Delegates from the [[Lords' Alliance]], [[Order of the Gauntlet]], [[Emerald Enclave]], [[Harpers]], and the [[Zhentarim]].
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = 
+| memrefs        = <ref name="RoT-p11" /><ref name="RoT-p12" /><ref name="RoT-p13" /><ref name="RoT-p16" />
+| allegiances    = 
+| enemies        = [[Cult of the Dragon]]
+| relrefs        = <ref name="RoT-p6" />
+| showmembers    = yes
+| orgname        = the Council of Waterdeep
+}}
+The '''Council of Waterdeep''' was a conciliary body formed in the 1480s [[DR]],{{ToD-time}} tasked with meeting the rising threat the [[Cult of the Dragon]] posed to the people of the [[Sword Coast]] and [[the North]].<ref name="RoT-p6">{{Cite book/The Rise of Tiamat|6}}</ref>
+
+==Organization==
+The council was attended by delegates from five of the most influential and powerful factions of [[West Faerûn|the west]] and the North. These 'Five Factions'<ref name="ToD.9">{{Cite web/Tyranny of Dragons: Online Comic 9}}</ref> included the league of city-states known as the [[Lords' Alliance]],<ref name="RoT-p13" /> the knights of the [[Order of the Gauntlet]],<ref name="RoT-p12" /> [[druid]]s of the [[Emerald Enclave]],<ref name="RoT-p13">{{Cite book/The Rise of Tiamat|13}}</ref> agents of the [[Harpers]],<ref name="RoT-p11">{{Cite book/The Rise of Tiamat|11}}</ref> and the merchant-mercenaries of the [[Zhentarim]].<ref name="RoT-p16" />
+
+As the largest and arguably most influential of the factions—representing several of the largest city-states of [[Faerûn]]—delegates of the Lords' Alliance held seven seats on the Council of Waterdeep.<ref name="RoT-p14">{{Cite book/The Rise of Tiamat|14}}</ref> The other factions held either a single seat,<ref name="RoT-p13" /> or only a few. Each delegate was accompanied by their own retinue of aides.<ref name="RoT-p19" />
+
+==Activities==
+The Council of Waterdeep held four sessions<ref name="RoT-p19" /> during which the cult,<ref name="RoT-p5" /> and their [[chromatic dragon]] allies arose as an ever-increasing threat to the Realms.<ref name="RoT-p5" /> During each of their meetings, representatives of each faction measured how the council's actions aligned with their own interests, and weighed what resources they could pledge to the cause. A single band of [[adventurer]]s served as an intermediary of sorts between the Five Factions, trying to balance the needs and ideologies of any one group with those of the others.<ref name="RoT-p19" />
+
+==Base of Operations==
+The council held their sessions within the [[Lords' Palace]] in [[Waterdeep/Castle Ward|Castle Ward]] of [[Waterdeep]].<ref name="RoT-p20" />
+
+==History==
+===Formation===
+The preliminary events that led to the Council of Waterdeep's founding was the campaign by the Cult of the Dragon to amass a hoard of wealth sufficient enough to appease [[Tiamat]], the Goddess of Dragons . Cult members and their [[storm giant]] accomplice [[Blagothkus]] attempted to transport that wealth aboard [[Skyreach Castle]] to the [[Well of Dragons]] in preparation for the [[ritual]] that would grant Tiamat admittance to [[Faerûn]].<ref name="HDQ-p77">{{Cite book/Hoard of the Dragon Queen|77}}</ref> Unfortunately for Tiamat and her cultists, a band of adventurers thwarted that plot and moved back the timeline for their ritual.<ref name="RoT-p20" />
+
+Not long after Skyreach Castle was neutralized, agents of the cult sounded the ancient draconic artifact known as the ''[[Draakhorn]]''.<ref name="RoT-p19" /><ref name="RoT-p20" /> The horn's booming call was heard all across the Sword Coast and the North.<ref name="RoT-p19" /> It was perceived as a call-to-action for dragons across the wester,<ref name="RoT-p20" /> and was a grim sign of the conflict just on the horizon.<ref name="RoT-p19" />
+
+The true catalyst of the council's formation however was the murder of the [[Masked Lord]] of Waterdeep, [[Arthagast Ulbrinter]], at the hands of the dragon cultists. Lord Ulbrinter was husband to [[Remi Haventree]], a devoted agent of the Harpers. Channeling her anguish into a righteous cause, Remi vowed to dismantle the Cult of the Dragon and rallied members of the Five Factions of the Sword Coast.<ref name="RoT-p20">{{Cite book/The Rise of Tiamat|20}}</ref><ref name="ToD.9" /> As the threat posed by the cult became apparent, delegates from each of the factions were dispatched in secret<ref name="RoT-p19">{{Cite book/The Rise of Tiamat|19}}</ref> to the Lords' Palace in
+
+=== LINKED WIKI PAGE (first 5000 chars): The Rise of Tiamat
+
+{{DEFAULTSORT:Rise of Tiamat, The}}
+{{otheruses4|the 5{{th}} edition adventure module|the module from the ''[[Neverwinter (game)|Neverwinter]]'' video game|Neverwinter: Rise of Tiamat}}
+{{Book
+| image       = RiseOfTiamat.jpg
+| caption     = Cover of ''The Rise of Tiamat''.
+| code        = 
+| title       = The Rise of Tiamat
+| author      = [[Wizards RPG Team]]
+| editor       = [[Scott Fitzgerald Gray]]
+| cover_artist = [[Tyler Jacobson]]
+| inter_artist = [[John-Paul Balmet]], [[Nicole Cardiff]], [[Guido Kuip]], [[Marcel Mercado]], [[Bryan Syme]]
+| cartography  = [[Jared Blando]]
+| publisher   = [[Wizards of the Coast]]
+| released    = October 21, 2014
+| realm year  = 1480s [[DR]]{{ToD-time}}
+| reprinted   =
+| type        = Adventure
+| binding     = Hardcover
+| pages       = 96
+| isbn10      = 0786965657
+| isbn13      = 978-0786965657
+| series      = [[Tyranny of Dragons]]
+| preceded_by = ''[[Hoard of the Dragon Queen]]''
+| followed_by = 
+| Roll20number = 
+| EAN-UPC      = 
+| Booksamillion= 
+}}
+'''''The Rise of Tiamat''''', designed by [[Kobold Press]] and the [[Wizards RPG Team]], is an adventure module set in the [[Forgotten Realms]] using the ''[[Dungeons & Dragons]]'' 5th edition ruleset. It focuses on the [[Cult of the Dragon]]'s efforts to summon [[Tiamat]], the goddess of [[chromatic dragon]]s. ''The Rise of Tiamat'' is a principal work in the [[Tyranny of Dragons]] storyline, and serves as a direct sequel to the adventure module ''[[Hoard of the Dragon Queen]]''.
+
+{{quote|'''Avert the Cataclysmic Return of Tiamat in this Adventure for the World’s Greatest Roleplaying Game.'''
+
+The Cult of the Dragon leads the charge in an unholy crusade to bring Tiamat back to the Realms, and the situation grows more perilous for good people with each passing moment. The battle becomes increasingly political as opportunities to gather allies and gain advantage present themselves. From Waterdeep to the Sea of Moving Ice to Thay, it is a race against Evil. Succeed or succumb to the oppression of draconic tyranny. Win or lose, things will never be the same again.}}
+
+==Index==
+{{IndexLink|Click here for page index}}
+===Characters===
+:{{P|[[Arauthator]]|5, 24-37, 94}} • {{P|[[Barking Seal]]|27-28}} • {{P|[[Bolo]]|39}} • {{P|[[Bonecarver]]|27-30}} • {{P|[[Cheela Flegsteel]]|7}} • {{P|[[Chuth]]|5, 38, 48-53, 94}} • {{P|[[Connerad Brawnanvil]]|15, 21-23, 60, 94}} • {{P|[[Cylanestriel]]|7}} • {{P|[[Dagult Neverember]]|14-15, 17, 20-23, 94}} • {{P|[[Dala Silmerhelve]]|20, 24-25, 60}} • {{P|[[Delaan Winterhound]]|13, 21, 48}} • {{P|[[Diderius]]|40-46}} • {{P|[[Galin]]|48-50}} • {{P|[[Galvan]]|9, 38}} • {{P|[[Harshnag]]|11}} • {{P|[[Ilda]]|40, 43-45}} • {{P|[[Iskander]]|9, 62-64, 66, 69-71, 73-74}} • {{P|[[Isteval]]|13, 16, 21-23, 94}} • {{P|[[Jorgen Pawl]]|9, 62, 69, 70, 71}} • {{P|[[Laeral Silverhand]]|14-15, 21-23, 94}} • {{P|[[Lerustah Half-face]]|25-27}} • {{P|[[Leosin Erlanthar]]|5, 12, 18-21, 39, 94}} • {{P|[[Maccath]]|5, 24-27, 29, 30, 33-35, 37}} • {{P|[[Marfulb]]|29, 35, 37}} • {{P|[[Melandrach]]|9, 15, 21-23, 48, 53, 59, 94}} • {{P|[[Mend-nets]]|32}} • {{P|[[Naergoth Bladelord]]|9, 81, 83, 90-91}} • {{P|[[Neronvain]]|5-6, 9, 15, 19, 21, 38, 48-53, 91, 94}} • {{P|[[Nymmurh]]|20, 60-61}} • {{P|[[Ontharr Frume]]|5, 12-13, 15-16, 20-21, 94}} • {{P|[[Orcaheart]]|27-28}} • {{P|[[Otaaryliakkarnos]]|21, 58-61}} • {{P|[[Rath Modar]]|4-5, 7, 9-10, 56, 75, 77, 83, 85-87, 91, 94}} • {{P|[[Remallia Haventree]]|12, 20-21}} • {{P|[[Rian Nightshade]]|17, 21-22}} • {{P|[[Severin Silrajin]]|4-6, 8-13, 20, 38, 47, 53, 56, 59, 61-63, 74-79, 81, 83, 85-88, 92, 94}} • {{P|[[Taern Hornblade]]|15-16, 21-22, 94}} • {{P|[[Taraz]]|73}} • {{P|[[Ulder Ravengard]]|15, 20, 22-23, 94}} • {{P|[[Varramzord|Varram]]|5-6, 9-10, 17, 19, 21, 38-39, 41, 44-45, 47, 94}} • {{P|[[Volmer]]|7}} • {{P|[[Yggran]]|7}}
+
+::{{Refonly}}
+::<small>{{P|[[Alagarthas]]|15, 48}} • {{P|[[Alustriel]]|16}} • {{P|[[Arthagast Ulbrinter]]|19-20}} • {{P|[[Arveiaturace]]|25, 33}} • {{P|[[Asmodeus]]|10}} • {{P|[[Banak Brawnanvil]]|15}} • {{P|[[Bel]]|10}} • {{P|[[Grandfather Tree]]|22}} • {{P|[[Hoondarrh]]|8}} • {{P|[[Jamna Gleamsilver]]|17}} • {{P|[[Loska]]|13}} • {{P|[[Meltharond]]|25}} • {{P|[[Methrammar Aerasumé]]|16}} • {{P|[[Rezmir]]|5, 9, 38, 94}} • {{P|[[Sammaster]]|8, 59}} • {{P|[[Szass Tam]]|6-7, 9-10, 59, 75-77, 88}} • {{P|[[Turlang]]|13}} • {{P|[[Xonthal]]|63-64, 66, 69-74}} • {{P|[[Zariel]]|10, 44}}</small>
+
+===Creatures===
+:{{P|[[awakened tree]]|50}} • {{P|[[blue dragon]]|6, 55, 63, 69, 74}} • {{P|[[barbed devil]]|85}} • {{P|[[bearded devil]]|39, 44}} • {{P|[[behir]]|33}} • {{P|[[bone devil]]|7}} • {{P|[[chimera]]|42}} • {{P|[[chromatic dragon]]|4, 6, 9, 11, 13-14, 20-22, 56, 59, 61, 79, 85-88, 93-94}} • {{P|[[clay golem]]|43}} • {{P|[[cloud giant]]|32}} • {{P|[[devil]]|7, 10, 12, 15, 21, 44, 62, 79, 85-87}} • {{P|[[dog]]|20, 26-28}} • {{P|[[dwarf]]|7, 9, 15, 21, 27, 39, 44, 47, 60-61}} • {{P|[[elf]]|7, 12, 15, 21, 38, 48-50, 52-53, 59, 77, 91}} • {{P|[[ettercap]]|50}}
+
+=== LINKED WIKI PAGE (first 5000 chars): Storm King's Thunder
+
+{{Otheruses4|the 5th edition adventure|the [[Neverwinter (game)|''Neverwinter'']] expansion campaign|Neverwinter: Storm King's Thunder}}
+{{Book
+| image        = StormKingsThunder.jpg
+| caption      = Cover of Storm King's Thunder
+| code         = 
+| title        = Storm King's Thunder
+| author       = 
+| editor       = [[Jeremy Crawford]]<br/>[[Kim Mohan]]<br/>[[Michele Carter]]| publisher    = [[Wizards of the Coast]]
+| type         = Adventure
+| languages    = 
+| reprinted    = 
+| cover_artist = [[Tyler Jacobson]]
+| inter_artist = 
+| cartography  = [[Jared Blando]], [[Will Doyle]], [[Jason Engle]], [[Lee Moyer]], [[Christopher Perkins]], [[Mike Schley]]
+| realm year   = After [[1485 DR]]
+| edition1     = <!-- leave blank if there is only one -->
+| binding1     = Hardcover
+| released1    = September 2016
+| pages1       = 256
+| isbn10-1     = 0786966009
+| isbn13-1     = 978-0786966004
+| cite1        = 
+| edition2     = 
+| binding2     = 
+| released2    = 
+| pages2       = 
+| isbn10-2     = 
+| isbn13-2     = 
+| cite2        = 
+| edition3     = 
+| binding3     = 
+| released3    = 
+| pages3       = 
+| isbn10-3     = 
+| isbn13-3     = 
+| cite3        = 
+| edition4     = 
+| binding4     = 
+| released4    = 
+| pages4       = 
+| isbn10-4     = 
+| isbn13-4     = 
+| cite4        = 
+| edition5     = 
+| binding5     = 
+| released5    = 
+| pages5       = 
+| isbn10-5     = 
+| isbn13-5     = 
+| cite5        = 
+| series       = 
+| preceded_by  = 
+| followed_by  = 
+| Roll20number = 442479
+| EAN-UPC      = 
+| Booksamillion= 
+}}
+'''''Storm King's Thunder''''' is a 5th-edition [[Dungeons & Dragons]] adventure set in the [[Savage Frontier]] region of the <span style="font-variant:small-caps;">[[Forgotten Realms]]</span>. It takes four to six characters from levels 1&ndash;5 up through level 10.<ref name="SKT-7">{{Cite book/Storm King's Thunder|7}}</ref>
+
+{{Quote|<big>'''''To Fight Giants, You Must Be Giant'''''</big>
+
+''Ages ago, [[giant]]s and [[dragon]]s waged war across the Savage Frontier. These battles are long forgotten by the human civilizations of today, but ancient relics remain. And now, the land shudders once more with the thunder of giant footsteps.''
+
+''[[Hill giant]]s raid farms for food and livestock, as [[stone giant]]s lay waste to settlements in their path. [[Frost giant]]s plunder coastal towns, as [[fire giant]]s gather slaves. [[Cloud giant]] castles drift across the sky, casting ominous shadows on the cities of [[the North]]. But no threat compares to the wrath of the [[storm giant]]s, who stand betrayed.''
+
+''Puny adventurers must rise to the challenge, gather their strength, unlock the power of ancient runes, and take the fight to the giants' doorsteps. Only then can they discover a hidden evil fomenting a war between giants and small folk. Only then can they forge an alliance to end the war before it begins.''
+
+''A Dungeons & Dragons<sup>&reg;</sup> adventure for characters of levels 1&ndash;10. For use with the fifth edition ''[[Player's Handbook 5th edition|Player's Handbook]]''<sup>&reg;</sup>, ''[[Monster Manual 5th edition|Monster Manual]]''<sup>&reg;</sup>, and ''[[Dungeon Master's Guide 5th edition|Dungeon Master's Guide]]''<sup>&reg;</sup>.''
+}}
+
+==Chronology==
+This adventure takes place after the events described in ''[[Hoard of the Dragon Queen]]'' and ''[[The Rise of Tiamat]]'', but does not directly depend on them.<ref name="SKT-8">{{Cite book/Storm King's Thunder|8}}</ref> It is not set in a particular year, but is assumed to be after the [[1485 DR|Year of the Iron Dwarf's Vengeance, 1485 DR]], and the [[orc]] conflict known as the [[War of the Silver Marches]].<ref name="SKT-13">{{Cite book/Storm King's Thunder|13}}</ref> One possible year is the [[1491 DR|Year of the Scarlet Witch, 1491 DR]], as the cloud giant castle that hovers over [[Waterdeep]] during the adventure is similar to the one featured in the novel ''[[Death Masks]]''. The novel, which takes place around Mirtul of 1491 DR, mentions that giants have been observed all over the Sword Coast backlands.<ref>[[Ed Greenwood]] (2016-06-07). ''Death Masks''. ([[Wizards of the Coast]]), p. ?. ISBN [[Special:BookSources/0-7869-6593-2|0-7869-6593-2]].</ref>
+
+==Contents==
+* Introduction
+* Chapter 1: A Great Upheaval
+* Chapter 2: Rumblings
+* Chapter 3: The Savage Frontier
+* Chapter 4: The Chosen Path
+* Chapter 5: Den of the Hill Giants
+* Chapter 6: Canyon of the Stone Giants
+* Chapter 7: Berg of the Frost Giants
+* Chapter 8: Forge of the Fire Giants
+* Chapter 9: Castle of the Cloud Giants
+* Chapter 10: Hold of the Storm Giants
+* Chapter 11: Caught in the Tentacles
+* Appendix A: Linked Adventures
+* Appendix B: Magic Items
+* Appendix C: Creatures
+* Appendix D: Special NPCs
+* Figures
+* Maps
+
+==Index==
+{{IndexLink|Click here for page index}}
+===Characters===
+:;Dragons: {{P|[[Anaxaster]]|73}} • {{P|[[Arauthator]]|100,106}} • {{P|[[Arveiaturace]]|92,'''93''',106}} • {{P|[[Charvekkanathor]]|235}} • {{P|[[Chezzaran]]|73}} • {{P|[[Clarion (dragon)
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep: Dragon Heist
+
+{{Book
+| image        = Waterdeep-dragon-heist.png
+| caption      = 
+| code         = 
+| title        = Waterdeep: Dragon Heist
+| author       = [[Christopher Perkins]], [[James Haeck]], [[James Introcaso]], [[Adam Lee]], [[Matthew Sernett]]
+| editor       = [[Michele Carter]], [[Scott Fitzgerald Gray]], [[Kim Mohan]]
+| publisher    = [[Wizards of the Coast]]
+| type         = Adventure
+| languages    = <small>
+* English (original)
+* French (''Waterdeep: Le Vol Des Dragons'')
+* German (''Waterdeep: Drachenraub'')
+* Italian (''Waterdeep: Il Furto dei Dragoni'')
+* Russian (''Вотердип: Драконий куш'')
+* Spanish (''Waterdeep: El Golpe de los Dragones'')</small>
+| reprinted    = 
+| cover_artist = [[Tyler Jacobson]]
+| inter_artist = [[Mark Behm]], [[Eric Belisle]]
+| cartography  = [[Dyson Logos]]<br/>[[Jason A. Engle]] (poster map)
+| realm year   = [[1492 DR]]{{WDH-time}}
+| edition1     = 
+| binding1     = Hardcover
+| released1    = September 18, 2018
+| pages1       = 224
+| isbn10-1     = 
+| isbn13-1     = 978-0-7869-6625-7
+| cite1        = 
+| edition2     = 
+| binding2     = 
+| released2    = 
+| pages2       = 
+| isbn10-2     = 
+| isbn13-2     = 
+| cite2        = 
+| edition3     = 
+| binding3     = 
+| released3    = 
+| pages3       = 
+| isbn10-3     = 
+| isbn13-3     = 
+| cite3        = 
+| edition4     = 
+| binding4     = 
+| released4    = 
+| pages4       = 
+| isbn10-4     = 
+| isbn13-4     = 
+| cite4        = 
+| edition5     = 
+| binding5     = 
+| released5    = 
+| pages5       = 
+| isbn10-5     = 
+| isbn13-5     = 
+| cite5        = 
+| series       = 
+| preceded_by  = 
+| followed_by  = ''[[Waterdeep: Dungeon of the Mad Mage]]''
+| Roll20number = 442484
+| EAN-UPC      = 9780786966257
+| Booksamillion= https://www.dpbolvw.net/click-101530721-13599892?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDd-Waterdeep-Dragon-Heist-Hc%2FWizards-Coast%2F9780786966257&cjsku=9780786966257
+| Booktopia    = https://booktopia.kh4ffx.net/WyBZ0P
+}}'''''Waterdeep: Dragon Heist''''' is a 5{{th}}-edition ''[[Dungeons & Dragons]]'' adventure that takes place in the city of [[Waterdeep]]. The adventure runs through levels 1&ndash;5 and is followed by the adventure ''[[Waterdeep: Dungeon of the Mad Mage]]''.
+
+{{Quote|<big>'''''Welcome to Waterdeep'''''</big>
+
+''Famed explorer [[Volothamp Geddarm]] needs you to complete a simple quest. Thus begins a mad romp through the wards of Waterdeep as you uncover a villainous plot involving some of the city's most influential figures.''
+
+''A grand urban caper awaits you. Pit your skill and bravado against villains the likes of which you've never faced before, and let the [[dragon (coin)|dragon]] hunt begin!''
+
+''A Dungeons & Dragons<sup>&reg;</sup> adventure for characters of levels 1&ndash;5. For use with the fifth edition ''[[Player's Handbook 5th edition|Player's Handbook]]''<sup>&reg;</sup>, ''[[Monster Manual 5th edition|Monster Manual]]''<sup>&reg;</sup>, and ''[[Dungeon Master's Guide 5th edition|Dungeon Master's Guide]]''<sup>&reg;</sup>.''
+}}
+
+==Chronology==
+The adventure takes place after the events described in ''[[Hoard of the Dragon Queen]]'', ''[[The Rise of Tiamat]]'', ''[[Princes of the Apocalypse]]'',<ref name="WDH5e-p38-39">{{Cite book/Waterdeep: Dragon Heist|38-39}}</ref> and ''[[Tomb of Annihilation]]'',<ref name="WDH5e-p5">{{Cite book/Waterdeep: Dragon Heist|5}}</ref> but does not directly depend on them. It is not set in a particular year, but is assumed to be the [[1492 DR|Year of Three Ships Sailing, 1492 DR]] (see note).
+
+==Contents==
+* Pronunciation Guide
+* Introduction
+* Chapter 1: A Friend in Need
+* Chapter 2: Trollskull Alley
+* Chapter 3: Fireball
+* Chapter 4: Dragon Season
+* Chapter 5: Spring Madness
+* Chapter 6: Hell of a Summer
+* Chapter 7: Maestro's Fall
+* Chapter 8: Winter Wizardry
+* Chapter 9: Volo's Waterdeep Enchiridion
+* Appendix A: Magic Items
+* Appendix B: Monsters and NPCs
+* Appendix C: Handouts
+
+==Index==
+{{IndexLink|Click here for page index}}
+===Characters===
+:;Dragonborn: {{P|[[Rishaal]]|33}} • {{P|[[Thrakkus]]|57,60,64}} • {{P|[[Valetta]]|47}}
+:;Dwarves: {{P|[[Ahmaergo]]|100,'''193'''}} • {{P|[[Elaspra Ulmarr]]|69-70}} • {{P|[[Istrid Horn]]|17,42,'''199'''}} • {{P|[[Jarbokken Frostbeard]]|78}} • {{P|[[Morana Huldark]]|82}} • {{P|[[Noska Ur'gray]]|66,100,'''213'''}} • {{P|[[Ott Steeltoes]]|34,100,'''214'''}} • {{P|[[Thorvin Twinbeard]]|100,101,'''216'''}} • {{P|[[Ulkoria Stonemarrow]]|42}} • {{P|[[Zemk]]|28}}
+:;Elves: {{P|[[Arannis Nur'zekk]]|101}} • {{P|[[Beldar Tlabbath]]|101}} • {{P|[[Davil Starsong]]|17,20,37,39,40,'''199-200'''}} • {{P|[[Draknafein Uriss]]|101}} • {{P|[[Fala Lefaliir]]|32,45,49}} • {{P|[[Fel'rekt Lafeen]]|15,34,72,'''201'''}} • {{P|[[Jarlaxle Baenre]]|6,11,14,15,35,37,48,49,57,60,63-64,67,75,101,'''206'''}} • {{P|[[Krebbyg Masq'il'yr]]|15,34,72,'''202'''}} • {{P|[[Nar'l Xibrindas]]|15,34,63-64,100,101,'''211'''}} • {{P|[[Remallia Haventree]]|16,30,37,68,69,74,76,'''214-215'''}} • {{P|[[Rylvar Tlabbath]]|101}} • {{P|[[Soluun Xibrindas]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Baldur's Gate III
+
+{{Computer game
+| image        = 
+<gallery>
+BG3 logo 1.png|Main
+BG3 logo 2.png|Alternate
+</gallery>
+| caption      = 
+| name         = Baldur's Gate III
+| realm year   = [[Eleasis 21]] or [[Uktar]], [[1492 DR]]{{BG3-time}}
+| developer    = [[Wikipedia:Larian Studios|Larian Studios]]
+| publisher    = Larian Studios
+Sony Interactive Entertainment LLC (PS5)
+| distributor  = 
+| designer     = 
+| released     = October 6th, 2020 (Early access),<br/ > August 3rd 2023 (PC),<br/ >September 6th 2023 (PS5),<br/ >December 8th 2023 (Xbox Series X<nowiki>|</nowiki>S)
+| genre        = Adventure, RPG, Strategy
+| modes        = Single-player<br/ >Multi-player (Online, local, up to 4 players)<br/ >Co-op (Online, local)
+| ratings      = 17 Mature<br/ >PEGI 18
+| series       = ''[[Baldur's Gate series]]''
+| prequel      = ''[[Baldur's Gate II: Shadows of Amn]]''
+| sequel       = 
+| remake       = 
+| original     = 
+| modules      = 
+| engine       = Divinity Engine 4.0
+| version      = 
+| platforms    = PC (GOG, Steam)<br/ >PlayStation 5<br/ >Mac<br/ >Xbox Series X/S
+| media        = Digital<br/ >Blu ray
+| requirements = Windows 10 64-bit, Intel i5-4690 / AMD FX 4350, 8 GB RAM, Nvidia GTX 780 / AMD Radeon R9 280X, DirectX 11, 70 GB storage space
+| GOG          = https://www.kqzyfj.com/click-101530721-15297138?url=https%3A%2F%2Fwww.gog.com%2Fen%2Fgame%2Fbaldurs_gate_iii%3FcurrencyCode%3DUSD%26countryCode%3DUS&cjsku=1456460669
+}}
+'''''Baldur's Gate III''''' is a computer game released by [[Wikipedia:Larian Studios|Larian Studios]] and is the third main game in the [[Baldur's Gate series]]. It is based on a highly modified version of the [[Dungeons & Dragons|5{{th}}-edition Dungeons & Dragons]] rule set and is set after the ''[[Baldur's Gate: Descent into Avernus]]'' tabletop adventure. It was first released as an early access game, after which other races, classes, features, and the rest of the story was added.
+{{Quote
+|An ancient [[evil]] has returned to [[Baldur's Gate]], intent on devouring it from the inside out. The fate of [[Faerûn]] lies in your hands. Alone, you may resist. But together, you can overcome.
+}}
+
+==Gameplay==
+[[File:Final bg3 sidebar.png|thumb|right|273px|''The companions and origin characters of ''Baldur's Gate III.]]
+''Baldur's Gate III'' is a role-playing video game that features both single-player and cooperative multiplayer modes. It allows players to generate one or more characters and assemble a party, which can include pre-generated characters provided by the game, to engage with the narrative. Additionally, the game offers the option for players to use their characters in online cooperative play, collaborating with others to form a party. The game takes characters from levels 1 to 12.
+
+The game employs a constrained free-floating camera system, enabling gameplay through various perspectives, from a complete third-person viewpoint to an isometric top-down angle. Its user interface supports input via both mouse and keyboard as well as controller configurations. Across these interfaces, players have the capacity to execute spells and combat maneuvers, oversee inventory, access the map, view statistics of both player and companion characters, and interact with numerous gameplay components, including allies and adversaries.
+
+The majority of the game's mechanics and spells originate from the ''Dungeons & Dragons''. However, modifications and omissions have been made to accommodate the transition to a role-playing video game format.
+
+The game provides support for modifications. A wide range of mods, developed by the community, are accessible, enabling players to alter numerous facets of the game.
+
+===Characters===
+The player creates their character, including their race and class from the ''[[Player's Handbook 5th edition|Player's Handbook]]''. The game comprises 12 character classes, each further divided into 46 subclasses, with each class emphasizing a distinct facet of the combat system. Additionally, the game facilitates the selection of multiple classes for a single character through a feature known as multiclassing, enabling players to develop their characters in diverse and unique manners. The ranger class is largely modified, and some subclasses are essentially new, such as the Wildheart barbarian subclass that replaces the Totem Warrior.
+
+The character also chooses a background from the standard 5{{th}}-edition list, their ability scores, and skills they are proficient in. Players also have the option to craft a character from the beginning, select from six pre-designed "Origins" character, or opt for a customizable seventh origin character termed The [[Dark Urge]]. If an "Origins" character is not selected, they may still be available as a party member. The game has a tutorial system to introduce the players to the basic mechanics.
+
+;Origin Characters
+[[File:Karlach BG3.jpg|276px|thumb|right|''[[Karlach]].'']]
+* [[Lae'zel]], voiced by [[Devora Wilde]], a [[githyanki]] [[fighter]]; 
+* [[Shadowhea
+
