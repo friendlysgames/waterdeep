@@ -6,7 +6,7 @@
 >
 > - Hear the rank named and ask Savra how each benefit works.
 > - Learn how to ask Savra to fight beside the party in one operation during each quest.
-> - Meet Brother Osric Wickersham, who lends one mundane weapon or suit of armor from the Order's armory each tenday.
+> - Meet Warden Osric Wickersham, who lends one mundane weapon or suit of armor from the Order's armory each tenday.
 > - Learn how to ask one of three temples for a briefing each tenday.
 >
 > Only the member is addressed. Companions who are not Order of the Gauntlet members wait in the nave of the Halls and gain nothing.
@@ -30,7 +30,7 @@ At noon on the day after the member reaches Renown 3, a **Priest Acolyte** in a 
 >
 > - Savra files each rank with the Order's clerk, and Brother Hallin Ostrel enters it on the roll. Marcheon is the first rank that lets a member put the Order's strength to work, and Savra takes it seriously.
 > - Her accompaniment is real, and she fights as a Knight. The rotation of Knights and Priests who answer to her serve the Halls and the wards, so Savra herself is the one who can be spared for the field.
-> - The armory is a locked room in the east annex, stocked from gifts and from gear the Order's dead no longer need. Brother Osric Wickersham keeps the book and the key.
+> - The armory is a locked room in the east annex, stocked from gifts and from gear the Order's dead no longer need. Warden Osric Wickersham keeps the book and the key.
 > - The priests of the three temples tell what their parishioners volunteer. Tyr's law forbids them to give a name, so every briefing is a pattern.
 > - Nobody in this Event names the Cassalanters, a pact, a devil or the master of the Splinter. The briefings hold no more than the lists below.
 
@@ -140,13 +140,13 @@ A Marcheon operation counts as Savra fighting beside the member for **Savra's Pa
 
 > [!readaloud]
 >
-> Savra knocks twice on the heavy door, and a bolt slides back from the inside. A stooped man in a lay brother's grey tunic looks out at you over the rim of a lantern. Behind him, racks of swords, spears and mail stand in rows along the walls, and each one carries a numbered tag.
+> Savra knocks twice on the heavy door, and a bolt slides back from the inside. A stooped man in a lay warden's grey tunic looks out at you over the rim of a lantern. Behind him, racks of swords, spears and mail stand in rows along the walls, and each one carries a numbered tag.
 >
-> > "I'm Brother Osric Wickersham, and you'll want something to carry," he says. "Tell me what you need, and I'll write it in the book while you watch."
+> > "I'm Warden Osric Wickersham, and you'll want something to carry," he says. "Tell me what you need, and I'll write it in the book while you watch."
 
 > [!social]**The Keeper of the Armory**
 >
-> Brother Osric Wickersham (Lawful Good, Tethyrian Human, he/him) :: a stooped lay brother in his sixties with ink on his cuffs and the armory key on a cord at his neck.
+> Warden Osric Wickersham (Lawful Good, Tethyrian Human, he/him) :: a stooped lay warden in his sixties with ink on his cuffs and the armory key on a cord at his neck.
 >
 > Osric counts each item aloud as he hands it over and writes it in a ledger in a slow, careful hand. He speaks plainly and does not swear. He is fond of the gear in his care and says "Mind it" when he gives anything out.
 >
@@ -172,7 +172,7 @@ A Marcheon operation counts as Savra fighting beside the member for **Savra's Pa
 
 > [!exploration]**Borrowing Gear**
 >
-> - **Contact:** the member gives their name to Brother Osric at the armory door in the east annex, which is open from dawn to dusk. Brother Haldric Wence, the door-warden, sends anyone who asks.
+> - **Contact:** the member gives their name to Warden Osric at the armory door in the east annex, which is open from dawn to dusk. Brother Haldric Wence, the door-warden, sends anyone who asks.
 > - **The loan:** one mundane weapon, one shield or one suit of armor each tenday, taken from the 2024 equipment list. The loan is free, and the item stays with the member until the next visit.
 > - **Notice and fitting:** the table below gives the notice and the fitting time for each category, and the member collects the item when the fitting is done.
 > - **Returns:** the member brings the previous item back, serviceable, at the next visit, and a ruined item is replaced at its listed price. No new loan is made while an old one is out.
@@ -247,7 +247,7 @@ The rank event awards no Renown. Each Marcheon member earns further Renown from 
 
 ### Aftermath
 
-The member can tell companions everything Savra said. Savra's accompaniment, the armory and the briefings stay individual benefits. Brother Haldric, Brother Osric and the temples' door-wardens will not act on a request a companion makes in the member's name.
+The member can tell companions everything Savra said. Savra's accompaniment, the armory and the briefings stay individual benefits. Brother Haldric, Warden Osric and the temples' door-wardens will not act on a request a companion makes in the member's name.
 
 A member whose Renown later falls keeps the rank, and all three benefits pause until the Renown is restored. A member marked **Quietly Reassigned** keeps the armory and the briefing, loses Savra's offer and her follow-up, and may still ask for her in writing.
 
@@ -273,4 +273,4 @@ Savra Belabranta names an Order of the Gauntlet member a Marcheon. She explains 
 
 ## Summary
 
-We were named Marcheons of the Order of the Gauntlet, and Savra Belabranta told each of us what the rank would do. She will fight beside us in one operation in every quest if we ask, and Brother Osric will lend us a weapon or armor every tenday. Three temples will also give us a briefing each tenday, though only as patterns and never with a name.
+We were named Marcheons of the Order of the Gauntlet, and Savra Belabranta told each of us what the rank would do. She will fight beside us in one operation in every quest if we ask, and Warden Osric will lend us a weapon or armor every tenday. Three temples will also give us a briefing each tenday, though only as patterns and never with a name.

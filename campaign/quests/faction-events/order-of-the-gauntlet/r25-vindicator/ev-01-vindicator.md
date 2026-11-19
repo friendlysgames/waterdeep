@@ -17,7 +17,7 @@
 > - Dame Rhosyn is the fourth Vindicator named in the Book of the Fallen, and the only one still alive. She and Sir Anselm stand as the witnesses, and Sir Merrick is on duty at the Field Ward gate.
 > - The inquiry is a clerk's job done with care. Savra reads the exhibit as a magistrate would and writes down what it proves, and she adds no suspicion of her own.
 > - Savra does not know what the family worships. Where a report says devil worship, it says so because the exhibit and the member's sworn account show it.
-> - The +1 weapons came from a cache that the Order took from a diabolist's cellar in the Dock Ward three years ago. Brother Osric Wickersham keeps them in a locked rack in the armory.
+> - The +1 weapons came from a cache that the Order took from a diabolist's cellar in the Dock Ward three years ago. Warden Osric Wickersham keeps them in a locked rack in the armory.
 > - Nobody in this Event names the master of the Splinter or the carnival fleet's owner. Savra says "the Splinter" or "the other cell" until **Manshoon Named** is marked for the listener. She says "the carnival fleet" until **Jarlaxle Unmasked** is marked.
 
 ### The Note at Noon
@@ -204,13 +204,13 @@ When the team arrives for its operation, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Brother Osric Wickersham comes in from the armory passage with a long rack and sets it across the end of the table. A sword, an axe, a hammer and a bow lie on it, each tagged with a number.
+> Warden Osric Wickersham comes in from the armory passage with a long rack and sets it across the end of the table. A sword, an axe, a hammer and a bow lie on it, each tagged with a number.
 >
 > > "These came out of a cache we took from a diabolist's cellar three years ago. The Order kept them for someone who would carry them into the field. Choose one now, and it is yours to keep and not borrowed."
 
 > [!exploration]**Choosing a Weapon**
 >
-> - **The choice:** the member chooses one weapon from the table at the meeting, and Brother Osric writes it in the book. Savra chooses for a member who cannot decide, according to how that member fights.
+> - **The choice:** the member chooses one weapon from the table at the meeting, and Warden Osric writes it in the book. Savra chooses for a member who cannot decide, according to how that member fights.
 > - **The bonus:** each is a +1 weapon (Uncommon). It gives a +1 bonus to attack rolls and damage rolls made with it, and it counts as magical. Proficiency works as normal, so a member should choose a weapon they know how to use.
 > - **Permanent:** the member keeps the weapon for good. A lost weapon is not replaced, and no second weapon is given.
 > - **Who else:** the member only. The weapon is the member's to carry, and a request for one made by a companion is ignored.

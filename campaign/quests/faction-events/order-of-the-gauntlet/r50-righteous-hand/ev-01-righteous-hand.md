@@ -275,8 +275,8 @@ When the other witnesses have gone, Savra sits on the altar steps with a folded 
 >
 > Each Righteous Hand who signs the Mandate can send one aid call for every Undermountain level they enter.
 >
-> - **Contact:** the member writes the level, the place and the request, signs it and presses their pin into the wax. A carrier takes it up the stairs to Brother Teodric Naal, a Priest Acolyte who sits at a back table of the Yawning Portal from dawn to dusk.
-> - **Delay:** Brother Teodric takes the note to Brother Haldric the same day. The answer reaches the named level's arrival stair after three days plus one day for every three levels of depth, rounded up.
+> - **Contact:** the member writes the level, the place and the request, signs it and presses their pin into the wax. A carrier takes it up the stairs to Deacon Teodric Naal, a Priest Acolyte who sits at a back table of the Yawning Portal from dawn to dusk.
+> - **Delay:** Deacon Teodric takes the note to Brother Haldric the same day. The answer reaches the named level's arrival stair after three days plus one day for every three levels of depth, rounded up.
 > - **The Mobilization:** the member may ask for the force, which spends the quest's one operation. A member who used it on the surface cannot call it below in the same quest.
 > - **The Priests:** the member may ask instead for Mother Odessa and Father Nolan. They hold the arrival stair for one day and one night and carry any dead or wounded up to the Halls on request.
 > - **Limit:** one aid call for each level the member enters, spent when the answer arrives. A level the member leaves and enters again gives no second call.
