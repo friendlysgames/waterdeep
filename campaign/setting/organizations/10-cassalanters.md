@@ -98,9 +98,9 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 ## Cross-References
 
 - **Cassalanters** (Factions Guide): response teams, outposts, escalation, revelation list
-- **Cassalanters** (Villains): personality phases, relationships, goals
+- **The Cassalanters** (Villains): personality phases, relationships, goals
 - **Asmodeus** (Deities): the creditor and the cult's god
-- **Era 5: A Debt in Blood** (History): how the bargain was made
+- **A Debt in Blood** (History): how the bargain was made
 - **Victoro Cassalanter**, **Ammalia Cassalanter**, **Willifort Crowelle**, **Osvaldo Cassalanter**, **Terenzio Cassalanter**, **Elzerina Cassalanter**, **Seffia Naelryke**, **Caladorn Cassalanter** (Notable Figures): the principal household
 - **Vessa** (Notable Figures): Jarlaxle's spy in the family's social circle
 - **Cassalanter Villa**, **Fireball!**, **Faction Outposts** (Quests): where the family appears
