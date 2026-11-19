@@ -76,7 +76,7 @@ House Gralhund is a minor noble house of Waterdeep that trades in arms and hired
 - **The Masked Lords** (aggrieved): The Lords passed Yalah over after the killings of 1491 DR, and the house means to learn their identities and weaknesses and take a seat by force of leverage.
 - **The Open Lord** (neutral): [research] No source gives a dealing between Laeral Silverhand and the house. The grievance is with the Masked Lords.
 - **The City Watch** (neutral): [research] No source gives the house a standing arrangement with the Watch.
-- **The Neverember family** (enemy, quietly): The house watches Renaer Neverember through its agents, treats Dagult Neverember's agent Dalakhar as a target, and paid for the seizure of Renaer.
+- **The Neverember family** (enemy): The house watches Renaer Neverember through its agents, treats Dagult Neverember's agent Dalakhar as a target, and paid for the seizure of Renaer.
 - **House Amcathra** (old rival): The two houses fought over the blade trade in 1372 DR. [research] Whether the rivalry survives is unsourced.
 
 ## Key Members
