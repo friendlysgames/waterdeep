@@ -29,6 +29,8 @@ PAGES = {
  'bregan-daerthe': ([], ["Bregan D'aerthe", 'Jarlaxle Baenre'], ["Bregan D'aerthe", "Bregan D\u2019aerthe"]),
  'xanathars-guild': ([], ["Xanathar's Thieves' Guild", 'Xanathar'], ["Xanathar's Guild", "Xanathar Guild", 'Xanathar']),
  'zhentarim': ([], ['Zhentarim', 'Black Network', 'Manshoon'], ['Zhentarim', 'Black Network', 'Manshoon']),
+ 'gralhunds': ([], ['Gralhund', 'Orond Gralhund', 'Yalah Gralhund', 'Gralhund Villa', 'Gralhund Villa Bloodbath'], ['Gralhund', 'Yalah', 'Orond', 'Hrabbaz']),
+ 'city-watch': ([], ['City Watch (Waterdeep)', 'Waterdeep Watch', 'Griffon Cavalry', 'Watchful Order of Magists and Protectors'], ['City Watch', 'the Watch', 'Waterdeep Watch', 'City Guard', 'Griffon Cavalry', 'Watch Palace']),
 }
 # Campaign paths whose lines are NOT searched: the per-mission faction events mention each faction thousands of times.
 SKIP = ('campaign/quests/faction-events/', 'campaign/structure/arc-a', 'campaign/structure/arc-b', 'campaign/structure/arc-c', 'campaign/structure/arc-d')
