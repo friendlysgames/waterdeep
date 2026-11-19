@@ -94,7 +94,7 @@ The Doom Raiders are a Zhentarim cell of former adventurers who run ordinary bus
 
 - **Doom Raiders** (Factions Guide): Grand Game stance, quest hooks, first meeting, renown and ranks, missions
 - **Manshoon's Zhentarim** (Organizations) and **Manshoon** (Villains): the other Zhentarim cell, which this page never speaks for
-- **Era 4: The Founding of Chains** (History): the Black Network in Waterdeep and the two cells
+- **The Founding of Chains** (History): the Black Network in Waterdeep and the two cells
 - **Davil Starsong**, **Yagra Stonefist**, **Istrid Horn**, **Skeemo Weirdbottle**, **Tashlyn Yafeera**, **Ziraj the Hunter**, **Senna Vael** (Notable Figures): the cell's leaders and its plant
 - **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Kolat Towers**, **Vault of Dragons** (Quests): where the cell appears
 - **Dock Ward** and **Trades Ward** (Gazetteer): Istrid's warehouse, the safe house and Weirdbottle's Concoctions

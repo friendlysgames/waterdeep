@@ -99,7 +99,7 @@ The Emerald Enclave is an organization of druids, rangers and survivalists who w
 - **Sir Ambrose Everdawn** (Notable Figures): the knight who partners with the Enclave in the City of the Dead
 - **Southern Ward**, **Castle Ward** (Gazetteer): Phaulkonmere, and the water table that Jeryth watches
 - **The Stone of Golorr and the Eyes** (Lore): the presence that the Stone woke
-- **Cassalanters**, **Manshoon's Zhentarim** (Organizations): the infernal influence and the Splinter that the Enclave senses without naming
+- **The Cassalanters**, **Manshoon's Zhentarim** (Organizations): the infernal influence and the Splinter that the Enclave senses without naming
 - **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Vault of Dragons** (Quests): where the Enclave appears
 - **Emerald Enclave First Meeting**, **The Water Table Stirs**, **The Fouled Channel**, **The Dreamer's Reach** (Faction Events): the first meeting and the water-table thread
 

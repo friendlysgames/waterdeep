@@ -42,7 +42,7 @@ Characters who join the Gray Hands — the entry tier of Force Grey — are not 
 
 ## Key Members
 
-- **Vajra Safahr** — Tethyrian human archmage, lawful neutral. Blackstaff of Waterdeep, commander of Force Grey. See the **Vajra Safahr** page in Notable Figures.
+- **Vajra Safahr** — Tethyrian human archmage, lawful neutral. Blackstaff of Waterdeep, commander of Force Grey. See the **Vajra Safahr, the Blackstaff** page in Notable Figures.
 
 ## Grand Game Agenda
 
@@ -81,7 +81,7 @@ Force Grey is Waterdeep's deniable cadre of elite adventuring agents, commanded 
 ## Cross-References
 
 - **Force Grey** (Factions Guide): Grand Game stance, quest hooks, First Meeting, renown and ranks, missions
-- **Vajra Safahr** (Notable Figures): the Blackstaff and commander of Force Grey
+- **Vajra Safahr, the Blackstaff** (Notable Figures): the Blackstaff and commander of Force Grey
 - **Meloon Wardragon** (Notable Figures): an active member and Vajra's friend
 - **Laeral Silverhand** (Notable Figures): the Open Lord who can order Force Grey into action
 - **The Open Lord and the Masked Lords**, **The City Watch** (Governance and Guilds): the authority Force Grey serves and the force whose limits it covers

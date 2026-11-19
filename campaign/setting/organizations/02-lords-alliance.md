@@ -58,7 +58,7 @@ The Lords' Alliance is a coalition of rulers and operatives from Waterdeep and t
 
 > [!gamemaster]**GM Notes**
 >
-> - **What Is Actually True:** At campaign start, Laeral believes the vault is in Neverwinter, and she does not know the Stone has resurfaced or that four villain factions are active. **Fentree's Ledger** corrects her intelligence.
+> - **Laeral's intelligence:** At campaign start, Laeral believes the vault is in Neverwinter, and she does not know the Stone has resurfaced or that four villain factions are active. **Fentree's Ledger** corrects her intelligence.
 > - **The Splinter and Manshoon's name:** Say "the Splinter" in front of players. Use Manshoon's name only for a member for whom **Manshoon Named** is marked.
 > - **Origins:** The wiki dates the coalition to 1325 DR and says it formed to oppose the growing influence of the Black Network in the North, the Shadow Thieves of Amn, orc hordes and Northlander raiders (Forgotten Realms Wiki, *Lords' Alliance*; the orc and raider clause cites the *Sword Coast Adventurer's Guide*, 5e). The same page says that, depending on who is asked, the Alliance is a strong coalition or an unsteady pact of political powers. After the Silver Marches collapsed in 1488 DR, it turned inward and began restricting new members from beyond the North (Forgotten Realms Wiki, *Lords' Alliance*, citing the *Sword Coast Adventurer's Guide*, 5e).
 > - **Leadership:** The wiki names Laeral as the Alliance's leader from 1488 DR. The campaign keeps her as its highest authority in the city, although her Notable Figures page files her under the City of Waterdeep.
