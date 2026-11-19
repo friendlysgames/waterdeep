@@ -120,7 +120,7 @@ The fight begins when the party steps into the court. The cart devil, the one ne
 > To begin, the devils hold the east roofline and the window ledges and fire their Tail Spines at the nearest armed character. They use Flyby to leave reach without provoking Opportunity Attacks.
 >
 > During combat, the devils:
-> - Use Infernal Fork on a character within reach and Tail Spine, which has a range of 20 feet, on anyone beyond it.
+> - Use Infernal Fork on a character within reach and Tail Spine, which has a normal range of 20 feet and a long range of 80 feet, on anyone beyond it.
 > - Send no more than two attacks at one character in a round, and never attack a creature at 0 hit points.
 > - Send the cart devil to the ground in round 2, where it attacks Harrow Dene with its Infernal Fork unless it has been drawn off. Harrow has half cover, which gives him AC 12.
 > - Spend one attack a round on Savra when she stands in the open, because she looks like the greatest threat.

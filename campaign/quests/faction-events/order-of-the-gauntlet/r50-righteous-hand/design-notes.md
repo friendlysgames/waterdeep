@@ -14,10 +14,10 @@ The Vault branch is cut. Sister Valdra appears nowhere, as the Session 45 ruling
 
 ## Invented Names and Open Items
 
-Invented: Isaldric Veyne, Sir Aldwin Dunhallow, Dame Corra Whitlock, Sir Gavric Ferrel, Sir Alaric Pryor, Mother Odessa Leck, Father Nolan Bray and Brother Teodric Naal. Each was grep-checked against `campaign/` with no collision. Dame Rhosyn Cullane, Sir Anselm Greave and Sir Merrick Tollwood come from **Vindicator**, Brother Haldric Wence and Father Corwen Thale from the First Meeting, and Brother Hallin Ostrel from **The Tithe**. Dunhallow's twelve-year tenure, the fever and the six years are invented, and the death does not overlap the Book of the Fallen in **Vindicator**. The Veyne, Mobilization and Mandate lines have no voice profiles and are voiced from the event text.
+Invented: Isaldric Veyne, Sir Aldwin Dunhallow, Dame Corra Whitlock, Sir Gavric Ferrel, Sir Alaric Pryor, Mother Odessa Leck, Father Nolan Bray and Deacon Teodric Naal. Each was grep-checked against `campaign/` with no collision. Dame Rhosyn Cullane, Sir Anselm Greave and Sir Merrick Tollwood come from **Vindicator**, Brother Haldric Wence and Father Corwen Thale from the First Meeting, and Brother Hallin Ostrel from **The Tithe**. Dunhallow's twelve-year tenure, the fever and the six years are invented, and the death does not overlap the Book of the Fallen in **Vindicator**. The Veyne, Mobilization and Mandate lines have no voice profiles and are voiced from the event text.
 
 Also invented are the list of cities that honor the writ, the six-day-plus rule for an aid call, the round-3 arrival of the reserve Knights and the courier's table at the Yawning Portal. The four Mad Mage seeds come from the adventure at levels 15, 21, 22 and 23.
 
 For the out-of-scope log:
 - `arc-j-vault-of-dragons.md` and the Righteous Hand reader line should not expect a Vault branch from this Event.
-- The 2024 *Resurrection* penalty text and the rule that the body must be intact were not re-read from the spell data, and the Event relies on the mechanics reference.
+- The 2024 *Resurrection* text was read from the spell data. The penalty is -4 to D20 Tests, reduced by 1 per Long Rest, and the spell restores missing body parts, so the Event states no intact-body rule.

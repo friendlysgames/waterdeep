@@ -153,13 +153,13 @@ The members and their companions have from 19:30 until the hearing opens to prep
 >
 > The Halls give the party two wards, and neither changes the roster.
 >
-> - **Spirit Guardians:** Either Priest can cast *Spirit Guardians* (spell save DC 13) as an action on that Priest's first turn. The 15-foot emanation halves the speed of the devil inside it. The devil takes 3d8 radiant damage, or half on a successful Wisdom save, when it enters or starts its turn there. A Priest who stands beside the exhibit holds the devil off it while concentrating.
+> - **Spirit Guardians:** Either Priest can cast *Spirit Guardians* (spell save DC 13) once, as an action on that Priest's first turn. The 15-foot emanation moves with the Priest and halves the speed of the devil inside it. The devil makes a Wisdom saving throw when the emanation enters its space, when it enters the emanation and when it ends its turn there, and it makes this save only once per turn. On a failed save it takes 3d8 radiant damage, or half as much on a success. A Priest who stands beside the exhibit makes every approach to it costly while concentrating.
 > - **The vestry door:** A character who stands 10 feet or more inside the vestry is out of the devil's melee reach. *Hurl Flame* still reaches through the open door, and the devil keeps firing at any character it can see.
 > - **Effect:** With the wards in play the devil spends its early rounds crossing the aura and the door, which shortens the fight. The Day Cost and the band do not change.
 
 > [!exploration]**The Strongroom Scroll**
 >
-> At 18:00 Brother Hallin Ostrel brings a *Spell Scroll* of *Banishment* from the Order's strongroom. It is a Level 4 scroll with spell save DC 15, and only a character whose class lists *Banishment* can read it.
+> At 18:00 Brother Hallin Ostrel brings a *Spell Scroll* of *Banishment* from the Order's strongroom. It is a Level 4 scroll with spell save DC 15, and only a character whose class lists *Banishment* can read it. A reader who cannot yet cast 4th-level spells must also succeed on a DC 14 ability check with their spellcasting ability, or the spell vanishes from the scroll with no effect.
 >
 > - **The devil's save:** Its Charisma saving throw is +8, and *Magic Resistance* gives it Advantage, so the scroll lands about 9 times in 100.
 > - **A character's own cast:** A spell save DC of 14 lands about 6 times in 100, a DC of 15 about 9 and a DC of 16 about 12.

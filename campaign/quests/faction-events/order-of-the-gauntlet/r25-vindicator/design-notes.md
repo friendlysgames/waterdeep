@@ -17,7 +17,7 @@ The rank no longer mentions the Lords unless **Order Recognized** is marked, bec
 Invented: Dame Rhosyn Cullane, Sir Anselm Greave and Sir Merrick Tollwood (the Strike Team), and Sir Aldous Fenmore, Dame Joslyn Wardle and Sir Hadrian Strake (the dead Vindicators). Each was grep-checked against `campaign/` with no collision. "Anselm" appears only in `docs/plans/order-of-the-gauntlet-research/05-consistency-audit.md` as a suggested armory name that no event used. Rhosyn is voiced from the event text, since no profile exists. The years in the Book fall inside the fifteen-year span, and the cause of each death is invented.
 
 For the out-of-scope log:
-- `items.json` has no generic +1 weapon, so the +1 bonus, the Uncommon rarity and the nine weapon names are unverified. The bonus text is the 2024 rule as recalled, not read from the data.
+- The generic **+1 Weapon** lives in `magicvariants.json` (XDMG): Uncommon, a +1 bonus to attack and damage rolls. The Uncommon rarity and the bonus match the Event, and all nine weapon names are 2024 Player's Handbook weapons.
 - The mechanics reference calls the safe house's ward "Trade Ward". This event writes "Trades Ward", the form used in the Marcheon briefings.
 - The Brisenne row uses the alias from the **The Black Viper Investigation** draft, and the Gysheer row reads **Intelligence Shared**, which that mission's final text must still write.
 - **Righteous Hand** names the same cache weapon in its draft, and its provenance line should follow this event's.

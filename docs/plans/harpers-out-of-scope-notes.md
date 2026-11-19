@@ -942,3 +942,6 @@ The companion pages are fixed: the Factions Guide `05`, the organization page `0
 - Table-heavy pages (the Factions Guide `05`, organization page `04`) sit at 10–18% short sentences from table cells and list items.
 - M5 narration averages 21.9 words, and the M2/M3 GM averages sit at 16–17.
 - No voice profiles exist for the recurring Order minor NPCs (Brother Hallin, Brother Haldric, Father Corwen, Gysheer, Pell, Gaxly, Ilmeth, Kelso's crew, Rhosyn Cullane, Isaldric Veyne).
+
+### Session 51
+The user accepted the section 4 readings and the section 5 invented names. The "Brother" cluster is retitled: Brother Osric Wickersham (r03) is now Warden Osric Wickersham, and Brother Teodric Naal (r50) is now Deacon Teodric Naal. Brother Haldric Wence and Brother Hallin Ostrel keep their titles. "Savra is Neutral Good, Tethyrian" supersedes the section 3 note that calls her Lawful Good Human. The Gralhund Villa Order hook now states suspicion only, and the s02 design notes already read "Halls of Justice".
