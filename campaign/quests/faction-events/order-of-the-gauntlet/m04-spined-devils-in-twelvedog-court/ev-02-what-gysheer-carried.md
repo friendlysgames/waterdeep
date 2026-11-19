@@ -43,7 +43,7 @@ Three leads each give the address on Aveen Street, and any one is enough. A fail
 
 ### The Hearing
 
-Savra holds the hearing in a bare room off the east annex at the third bell past noon, and she asks the bench for a priest. Sister Ilvane Haste, a priest of Tyr with grey in her hair, reads from the Halls' scroll of *Zone of Truth*. A party cleric can cast the spell instead.
+Savra holds the hearing in a bare room off the east annex at the third bell past noon, and she asks the bench for a priest. Sister Ilvane Haste, a priest of Tyr with grey in her hair, reads from the Halls' Level 2 scroll of *Zone of Truth*, which has spell save DC 13. A party cleric can cast the spell instead.
 
 > [!readaloud]
 >

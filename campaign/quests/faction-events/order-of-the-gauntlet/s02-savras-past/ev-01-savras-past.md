@@ -110,7 +110,7 @@ The east annex stands behind the main hall of the Halls of Justice, and the side
 > This is background for the GM, and Savra gives it only in pieces.
 >
 > - The Howling Hatred was an elemental air cult that worked in Waterdeep until 1491 DR, about a year ago. It served Yan-C-Bin, the Prince of Evil Air, and preached that walls, contracts and gold kept the world from his wind.
-> - Its ranks ran from Initiate through Windwalker to Windcaller, and a few ordained leaders sat above them. The rank names are invented for this campaign.
+> - Its ranks ran from Initiate through Windwalker to Windcaller, and a few ordained leaders sat above them. The rank names are invented for this campaign. [research]
 > - It met in a derelict Dock Ward tower for its last two years. Member offerings could not have paid for the tower, so money came from outside.
 > - The cult was defeated in the north, and the Order's chapter in Waterdeep arrested the remaining agents within a tenday. The high priest was never found, and no Watch record names the source of the money.
 > - It is not active during the campaign, and its surviving members scattered or recanted.

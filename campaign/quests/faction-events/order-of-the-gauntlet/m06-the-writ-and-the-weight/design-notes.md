@@ -21,6 +21,6 @@ The restored draft gave the Priests 5th-level spell access and *Banishment* at D
 - Magistrate Odrane Belcast and Sister Merrin Oakhollow are invented. A search of `campaign/` for "Odrane", "Belcast", "Merrin" and "Oakhollow" found no match. Father Corwen Thale, Brother Hallin Ostrel and Brother Haldric Wence come from the finished Order pages.
 - The Halls of Justice is the Castle Ward temple of Tyr, as the First Meeting fixes it. The nave stands for r25's "main chamber".
 - The bailiff is the Horned Devil's title only. No devil has a name in this mission.
-- The scroll is Level 4 (DC 15, about 9 percent). The scroll reading rule for a class list is unverified, and so is the 2024 *Spirit Guardians* wording.
+- The scroll is Level 4 (DC 15, about 9 percent). The scroll reading rule (spell list, plus a DC 14 check for a reader who cannot cast 4th-level spells), the 2024 *Spirit Guardians* wording and the *Hallow* "can't willingly enter" text were read from the 2024 spell and item data.
 - The villa results come from `arc-g`, which is unconverted, as are **Vault of Dragons** and the readers of both outcomes.
 - `arc-j-vault-of-dragons.md` line 49 still says "If Mission 6 succeeded" and should read **Order Recognized**.

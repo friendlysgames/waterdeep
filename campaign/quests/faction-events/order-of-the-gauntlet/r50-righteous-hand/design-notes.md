@@ -20,4 +20,4 @@ Also invented are the list of cities that honor the writ, the six-day-plus rule 
 
 For the out-of-scope log:
 - `arc-j-vault-of-dragons.md` and the Righteous Hand reader line should not expect a Vault branch from this Event.
-- The 2024 *Resurrection* penalty text and the rule that the body must be intact were not re-read from the spell data, and the Event relies on the mechanics reference.
+- The 2024 *Resurrection* text was read from the spell data. The penalty is -4 to D20 Tests, reduced by 1 per Long Rest, and the spell restores missing body parts, so the Event states no intact-body rule.

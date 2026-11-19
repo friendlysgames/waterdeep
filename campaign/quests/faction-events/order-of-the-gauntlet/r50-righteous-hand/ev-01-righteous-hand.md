@@ -219,12 +219,13 @@ If **Savra's Past Known** is marked for the member, read or paraphrase the follo
 > Each Righteous Hand holds one pledge, recorded in their name on the Order's roll and on the altar.
 >
 > - **What it is:** one casting of *Resurrection*, a 7th-level spell that takes 1 hour, cast by Isaldric Veyne.
+> - **What it can do:** it revives a creature that has been dead no more than a century, did not die of old age and was not Undead. It closes all mortal wounds and restores missing body parts.
 > - **The diamond:** the Order buys the diamond, which must be worth 1,000 gp or more, and the spell consumes it.
 > - **Who:** the member, or one companion or ally whose name the member gives Brother Hallin in writing before the need arises.
 > - **Limit:** one casting for each member, spent when the casting finishes.
 > - **Delivery:** the body must be carried to the Halls of Justice on foot, up the stairs, because teleportation and *word of recall* fail below the city.
 > - **Contact:** whoever carries the body asks Brother Haldric Wence at the door, and he sends for Veyne at once.
-> - **Casting:** Veyne casts it within a day of the body's arrival, in the nave, and the Order asks nothing of the person it returns.
+> - **Casting:** Veyne casts it within a day of the body's arrival, in the nave, and the Order asks nothing of the person it returns. The returned person has a -4 penalty to D20 Tests, and the penalty drops by 1 each time they finish a Long Rest.
 > - **Loss rule:** if the member's Renown falls below 50, the pledge stays on the roll and the Order will not fund the casting until the Renown returns.
 
 ### The Mandate
