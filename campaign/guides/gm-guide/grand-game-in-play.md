@@ -1,6 +1,6 @@
 # The Grand Game in Play
 
-The Grand Game doesn't wait. While the party rests, the factions are moving: issuing orders, reading intelligence, replenishing losses, and adjusting to whatever the PCs did last session. Between sessions, use this routine to keep four active villain factions coherent without rebuilding them from scratch each session. For the reference tables (faction knowledge at campaign start, the full escalation tier table, and the inter-faction operations matrix), see **Running the Villains**.
+The Grand Game doesn't wait. While the party rests, the factions are moving: issuing orders, reading intelligence, replenishing losses, and adjusting to whatever the PCs did last session. Between sessions, use this routine to keep four active villain factions coherent without rebuilding them from scratch each session. For the reference tables (faction knowledge at campaign start, the full escalation tier table, and the inter-faction operations matrix), see **Running the Villains**. Two non-villain reactor factions, **The Open Lord's Watch** and **House Gralhund**, sit outside this four-faction routine. Run each from its Factions guide page, which says when it acts and how its escalation moves.
 
 ## The Tenday Faction Check
 
@@ -101,3 +101,5 @@ He can also be reasoned with, and even joined. Membership opens during **Trollsk
 - [Xanathar's Guild](../factions/09-xanathars-guild.md) — response teams, revelation list
 - [Manshoon's Zhentarim](../factions/10-manshoons-zhentarim.md) — response teams
 - [The Cassalanters](../factions/11-cassalanters.md) — response teams, revelation list
+- [The Open Lord's Watch](../factions/12-open-lords-watch.md) — non-villain reactor faction; response team, escalation, when the Watch backs down
+- [House Gralhund](../factions/13-house-gralhund.md) — non-villain reactor faction; response team, escalation
