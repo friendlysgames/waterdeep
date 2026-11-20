@@ -90,7 +90,7 @@ Each entry gives the stance on Ches 1, 1492 DR.
 - **Manshoon's Zhentarim (enemy):** The Splinter has infiltrated the cell and acts on Harper information, though the Harpers do not know that the Splinter is Manshoon's cell. Manshoon counts the Harpers among his long list of powerful enemies, and the wiki describes a century of war between the two organizations.
 - **The Cassalanters (neutral, suspicious):** The Harpers have watched the family's charitable work for years and found nothing, which they find suspicious. Mirt suspects the family's money and has no proof. The Harpers do not know what the family hides.
 - **House Gralhund (neutral `[research]`):** No campaign file records dealings. The Gralhund villa houses Black Network resources, which gives the Harpers a reason to keep watch on it.
-- **The Open Lord's Watch (neutral `[research]`):** The Commander of the Watch answers to Laeral, and Mirt advises her, so the Harpers reach the Watch through Mirt and not through the stations.
+- **The Open Lord's Watch (ally, through Mirt):** The Commander of the Watch answers to Laeral, and Mirt advises her, so the Harpers reach the Watch through Mirt and not through the stations.
 - **The Open Lord and the Masked Lords (ally):** Mirt is a Masked Lord and Laeral's closest adviser, and Laeral knows both facts. The wiki lists the Lords of Waterdeep among the bodies aligned with the Harpers' mission and says Laeral was once a Harper herself (Forgotten Realms Wiki, *Harpers*, edition not stated).
 
 ## Key Members
@@ -162,7 +162,7 @@ The Harpers are a loose confederation of bards, sages and do-gooders who work to
 - **Thorvin Twinbeard**, **Laeral Silverhand** (Notable Figures): the secret Harper inside Xanathar's Guild and the Open Lord Mirt advises
 - **Mielikki**, **Eilistraee**, **Deneir** (Deities): the wiki ties the Harpers to each of them, and no campaign file names a Harper god
 - **The Open Lord and the Masked Lords** (Governance): Mirt's office and Laeral's knowledge of it
-- **The Lords' Alliance**, **The Emerald Enclave**, **The Order of the Gauntlet**, **Force Grey**, **The Doom Raiders**, **Bregan D'aerthe**, **Xanathar's Guild**, **Manshoon's Zhentarim**, **The Cassalanters** (Organizations): the factions in Relationships
+- **The Lords' Alliance**, **The Emerald Enclave**, **The Order of the Gauntlet**, **Force Grey**, **The Zhentarim (Doom Raiders)**, **Bregan D'aerthe**, **Xanathar's Guild**, **Manshoon's Zhentarim**, **The Cassalanters** (Organizations): the factions in Relationships
 - **The Grand Game** and **What Each Faction Knows at Start** (The Grand Game): how information moves between the factions
 - **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Vault of Dragons** (Quests): where the faction appears
 
