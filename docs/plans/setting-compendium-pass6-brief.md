@@ -60,6 +60,10 @@ Today a page is: H1, Gamemaster's Summary, Roleplaying Information, Character In
 
 **Drafters**, per page: the file written; facts that could not be sourced; judgment calls; conflicts with both `file:line`; sentences removed and where each now lives; every other file found wrong (do not edit it). Do not commit. State that `voicecheck.py` was not run.
 
-## Open rulings that touch this pass (with the user)
+## User rulings (Session 53; they bind every page)
 
-Yalah and the Stone (`guides/factions/13-house-gralhund.md`), Hrabbaz alive or dead (`ev-09-aftermath.md:44` against `ev-06:37` and `ev-04:79`), Key Members labels for Zelifarn, Bonnie and Nessa Vayle, and Ott Steeltoes's prisoner or fishkeeper status. Drafters leave the affected lines as they stand and list the conflict under Conflicts until the user rules.
+- **Ott Steeltoes.** "Captured, then later becomes fishkeeper." On Ches 1, 1492 DR Ott is captured and held at the Interrogation House. The fishkeeper post is a later state, routed to **Xanathar's Lair**. His page keeps the fishkeeper details as Roleplaying text and says which state is day one; the pilot drafter lists how the Persona and Relationships lines were reconciled. The word "later" leaves open when he returns to the fish (after a rescue, or by Guild ruling); the pilot reports the options and does not decide.
+- **Yalah and the Stone.** "Keep both branches." Bregan D'aerthe (**Jarlaxle Informed** marked) and the Open Lord (not marked) both stay on `guides/factions/13-house-gralhund.md`. `guides/factions/03-lords-alliance.md:9` now names Yalah as the one early route by which Laeral learns of the Stone. Day-one pages still say Laeral does not know.
+- **Hrabbaz.** "He can stand down or step aside, both can be true." The two lines describe one behavior and need no change. `ev-09-aftermath.md:44` ("Hrabbaz is dead") stays as the default-raid outcome, so his page shows him alive on day one and routes the death to **Gralhund Villa**. His species ("half-orc" or "orog") stays open and is listed under Conflicts.
+- **Key Members labels.** "Keep and note the tie." Zelifarn, Bonnie and Nessa Vayle stay on the organization pages, which already note the looser tie (`07-bregan-daerthe.md:103`, `01-harpers.md:101` and `:105`). Their figure pages keep their own labels.
+- **Not asked, following the recommendation:** figures stay in the Draft Notes callouts; the Lords' Alliance page governs honest failure and reinstatement; Khafeyta Murzan stays "Mulhorandi"; Savra's embroidery line (`ev-09-aftermath.md:112`) stays.

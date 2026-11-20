@@ -18,7 +18,7 @@ Binding for every `prose-drafter` agent drafting a Pass 6 page. Read `setting-co
 ## Page specifics
 
 - **Quest-time lines:** arrests, missions, captures, rescues, deaths and "once the party" wording are restated as day-one facts or routed. The pages most affected are Davil, Tashlyn, Yagra, Skeemo and Senna Vael (`doom-raiders`), Chirada and Hurv Taldred (`gralhunds`), Yalah (`01-yalah-gralhund.md:21`) and Bonnie (`04-bonnie.md:6` and `:25`).
-- **Open rulings:** Ott's prisoner or fishkeeper status, Hrabbaz alive or dead, Yalah and the Stone, and the Zelifarn, Bonnie and Nessa Vayle labels are with the user. Keep the existing wording and list the conflict.
+- **User rulings (Session 53):** read "User rulings" in the brief. Ott is captured on day one and becomes fishkeeper later; Yalah's Stone has both branches; Hrabbaz stands down or steps aside and is alive on day one; Zelifarn, Bonnie and Nessa Vayle keep their own labels. Hrabbaz's species is still open: list it under Conflicts.
 - **Villain figures** (Xanathar, Manshoon, the Cassalanters, Jarlaxle): the Villains page owns phases, goals and relationships. Link to it and do not copy it.
 - **Zardoz Zord:** J.B. Nevercott and Captain Zardoz Zord are two figures in any public Overview.
 
