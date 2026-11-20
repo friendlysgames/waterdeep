@@ -166,6 +166,7 @@ All guide files are structuring drafts; prose-writing pass deferred to final pol
 | `02-harpers.md` … `07-doom-raiders.md` | Player factions: Grand Game Stance, Quest Hooks, First Meeting (summary + link to its event), Renown & Ranks, Missions |
 | `08-bregan-daerthe.md` | Player and villain faction: the player-faction sections plus Response Teams, Outposts, Escalation, Revelation List |
 | `09-xanathars-guild.md`, `10-manshoons-zhentarim.md`, `11-cassalanters.md` | Villain factions: Response Teams, Outposts, Escalation, Revelation List |
+| `12-open-lords-watch.md`, `13-house-gralhund.md` | Non-player reactor factions (no renown, ranks or missions): Grand Game Stance, Response Team, Escalation, Revelation List |
 
 The Bestiary (custom monster and boss stat blocks) is not yet drafted.
 
@@ -186,7 +187,7 @@ All setting files are structuring drafts.
 | `villains/cassalanters.md` | Background, 3 phases (Phase 3 dated to Founders' Day), relationships, goals, children timing note, Overview |
 | `villains/jarlaxle.md` | Background, Zardoz Zord phase + adversary/ally tracks, relationships, goals, entry and activation GM Notes (**Jarlaxle Unmasked**, per-character **BD Contact Severed**), Overview |
 | `notable-figures/` | 123 NPC pages in 15 group folders (trollskull-community, independents-allies, independents-adversaries, city-officials, harpers, lords-alliance, emerald-enclave, order-of-the-gauntlet, force-grey, doom-raiders, bregan-daerthe, xanathars-guild, manshoons-zhentarim, cassalanters, gralhunds). One page per NPC: H1, `> [!gamemaster]**Gamemaster's Summary**` box, ## Roleplaying Information, ## Character Information, ## Overview. |
-| `organizations/` | 10 faction pages: 01-harpers through 10-cassalanters. Lore only: Operations, Key Members, Grand Game Agenda, Overview. Game mechanics (stance, hooks, first meeting, renown, missions, response teams, outposts, escalation, revelation lists) live in the **Factions Guide**. |
+| `organizations/` | 12 faction pages: 01-harpers through 12-house-gralhund (the player and villain factions, then the Open Lord's Watch and House Gralhund). Lore only, as of Ches 1, 1492 DR: History, Beliefs, Structure, Methods and Tactics, Relationships, Key Members, Grand Game Agenda (player factions), Overview, GM callouts. Game mechanics (stance, hooks, first meeting, renown, missions, response teams, outposts, escalation, revelation lists) live in the **Factions Guide**. |
 
 **Gazetteer** (`campaign/gazetteer/waterdeep/`): one page per ward (Castle, Sea, North, Trades, Southern, Dock, Field), each a structuring draft with At a Glance, Landmarks, Characters of Interest, Life in the Ward, Overview and Read Aloud anchors. The former `waterdeep-lore.md` outline is retired (Pass 3); the table at the end of the **Waterdeep** page's Draft Notes shows where each of its bullets went, and older pages still cite it by line as the retired outline. Rulings that bind these pages are in `docs/plans/setting-compendium-pass3-brief.md`; the files still to retarget are in `docs/plans/setting-compendium-pass3-closeout.md`.
 
