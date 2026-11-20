@@ -6,7 +6,7 @@ For history, politics, and their place in Waterdeep, see the **Lords' Alliance**
 
 The Lords' Alliance wants the 500,000 gold pieces returned to Waterdeep's city treasury. In Laeral Silverhand's framing, the gold was taxed from Waterdhavian citizens and merchants, and Lord Neverember's ouster doesn't change who owns it. She will see it recovered and properly disbursed, and she will credit those who made the recovery possible, but she won't bend institutional procedure to do it.
 
-At campaign start, Laeral is three moves behind. Jalester's field reports and the Watch's contacts have placed the vault somewhere in Neverwinter. She doesn't know that the Stone of Golorr has resurfaced in Waterdeep or that all four villain factions are circling it. Characters who share intelligence early change the shape of her involvement. Those who keep her in the dark find her arriving at **Vault of Dragons** as an uncertain variable rather than an ally.
+At campaign start, Laeral is three moves behind. Jalester's field reports and the Watch's contacts have placed the vault somewhere in Neverwinter. She doesn't know that the Stone of Golorr has resurfaced in Waterdeep or that all four villain factions are circling it. The one route by which she can learn of it early is House Gralhund: Yalah can approach the Open Lord with the Stone as collateral (**House Gralhund** in this guide). Characters who share intelligence early change the shape of her involvement. Those who keep her in the dark find her arriving at **Vault of Dragons** as an uncertain variable rather than an ally.
 
 Two outcomes move her faster. **Ledger Delivered** shows her where the gold lies. **LA Grand Game Escalated** tells her who holds the Stone and who is racing for it.
 
