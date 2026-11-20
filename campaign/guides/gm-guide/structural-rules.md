@@ -6,7 +6,7 @@ The campaign contains two distinct Zhentarim factions. Conflating them is a prep
 
 **The Doom Raiders** are Davil Starsong's cell — a player-joinable faction that presents a public face of legitimate business and moderate criminal enterprise. They operate openly, hold meetings in taverns, and recruit adventurers. They don't acknowledge Manshoon's cell as legitimate Zhentarim, and they surface during **Trollskull Alley** as the first Zhentarim contact the party encounters.
 
-**Manshoon's Zhentarim** are the villain faction. They operate from Kolat Towers, conduct assassinations, and maintain mind-controlled servants. Manshoon regards the Doom Raiders as deserters who stole his name.
+**Manshoon's Zhentarim** are the villain faction. They operate from Kolat Towers, prefer to capture rather than kill, and maintain mind-controlled servants. Manshoon regards the Doom Raiders as deserters who stole his name.
 
 These two cells won't cooperate. If their operations overlap, they actively undermine each other. When a scene involves "the Zhentarim," know which cell is present. The distinction should become apparent to attentive players during **Trollskull Alley** — earlier encounters with the Doom Raiders' professionalism make Manshoon's operatives land harder when they appear.
 
@@ -15,7 +15,7 @@ These two cells won't cooperate. If their operations overlap, they actively unde
 
 ## Faction Response Teams
 
-Each villain faction maintains mobile squads — groups of 2–4 members deployed when the party hits faction assets. Response teams are reactive, not proactive: they investigate intrusions, follow up on flagged activity, and act on orders from faction lieutenants.
+Each villain faction maintains mobile squads — groups of 2–4 members deployed when the party hits faction assets. Response teams are reactive, not proactive: they investigate intrusions, follow up on flagged activity, and act on orders from faction lieutenants. **The Open Lord's Watch** and **House Gralhund** each field a response team too, but they are non-villain reactor factions and follow the rules on their own Factions guide pages.
 
 **Deployment triggers.** A response team activates when the party intrudes on a faction asset, when faction surveillance flags their activity, or when a lieutenant issues direct orders after receiving a report. These triggers are independent. One faction's response doesn't automatically alert others; factions don't share intelligence freely. Party actions that become visible citywide — Watch involvement, a public confrontation on a main thoroughfare — may reach several factions simultaneously, but covert intrusions rarely do.
 
@@ -121,3 +121,5 @@ Three rules hold. The victim can't be a PC. The victim isn't chosen for your nar
 - [Manshoon's Zhentarim](../factions/10-manshoons-zhentarim.md) — response team roster
 - [Cassalanters](../factions/11-cassalanters.md) — response team roster and Revelation List
 - [Trollskull Alley ev-07: The Twin Parades](../../quests/act-i/trollskull-alley/ev-07-the-twin-parades.md) — fireball victim designation, nimblewright sighting
+- [The Open Lord's Watch](../factions/12-open-lords-watch.md) — non-villain reactor faction; response team and escalation
+- [House Gralhund](../factions/13-house-gralhund.md) — non-villain reactor faction; response team and escalation

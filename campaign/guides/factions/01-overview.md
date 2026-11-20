@@ -46,6 +46,15 @@ Each faction operates as an ongoing relationship. Contacts push for information,
 | [10 Manshoon's Zhentarim](10-manshoons-zhentarim.md) | Response Teams, Outposts, Escalation, Revelation List |
 | [11 Cassalanters](11-cassalanters.md) | Response Teams, Outposts, Escalation, Revelation List |
 
+### Minor Factions
+
+| Page | Contents |
+|------|----------|
+| [12 The Open Lord's Watch](12-open-lords-watch.md) | Grand Game Stance, Response Team, Escalation, Revelation List, Quest Hooks: how the City Watch reacts to the party for the Open Lord |
+| [13 House Gralhund](13-house-gralhund.md) | Grand Game Stance, Response Team, Escalation, Revelation List, Quest Hooks: a minor noble house after the Stone and the vault's gold |
+
+These two are non-player reactor factions. Characters cannot join them, and they have no renown, ranks or missions. They are not villain factions, so they have no outposts and no row in the escalation table in **Running the Villains**.
+
 ## Cross-References
 
 - [GM Guide: Player Factions Overview](../gm-guide/player-factions-overview.md) — contacts, agendas, BD recruitment, conflicting loyalties, non-player factions
