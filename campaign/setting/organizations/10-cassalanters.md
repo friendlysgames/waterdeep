@@ -168,7 +168,7 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 - **The Open Lord's Fall** (History): Neverember's removal and the ruin it caused
 - **Victoro Cassalanter**, **Ammalia Cassalanter**, **Willifort Crowelle**, **Osvaldo Cassalanter**, **Terenzio Cassalanter**, **Elzerina Cassalanter**, **Seffia Naelryke**, **Caladorn Cassalanter** (Notable Figures): the principal household
 - **Vessa** (Notable Figures): Jarlaxle's spy in the family's social circle
-- **The Harpers**, **The Lords' Alliance**, **The Emerald Enclave**, **The Order of the Gauntlet**, **Force Grey**, **The Doom Raiders**, **Bregan D'aerthe**, **Xanathar's Guild**, **Manshoon's Zhentarim**, **House Gralhund**, **The Open Lord's Watch** (Organizations): the factions in Relationships
+- **The Harpers**, **The Lords' Alliance**, **The Emerald Enclave**, **The Order of the Gauntlet**, **Force Grey**, **The Zhentarim (Doom Raiders)**, **Bregan D'aerthe**, **Xanathar's Guild**, **Manshoon's Zhentarim**, **House Gralhund**, **The Open Lord's Watch** (Organizations): the factions in Relationships
 - **The Open Lord and the Masked Lords** and **The Guilds** (Governance and Guilds): Caladorn, the loan contracts
 - **Sea Ward** (Gazetteer): the villa's ward, the Counting House and the Foundation
 - **Cassalanter Villa**, **Fireball!**, **Faction Outposts** (Quests): where the family appears
