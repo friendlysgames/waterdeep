@@ -140,7 +140,7 @@ Force Grey is Waterdeep's deniable cadre of elite adventuring agents, commanded 
 - **Laeral Silverhand**, **Mirt**, **Ulkoria Stonemarrow** (Notable Figures): the Open Lord who can order Force Grey into action, her advisor and a Watchful Order Masked Lord
 - **The Open Lord and the Masked Lords**, **The City Watch** (Governance and Guilds): the authority Force Grey serves and the force whose limits it covers
 - **A City Watching Itself** (History): Laeral, Vajra and the unauthorized missions
-- **The Harpers**, **The Lords' Alliance**, **The Emerald Enclave**, **The Order of the Gauntlet**, **The Doom Raiders**, **Bregan D'aerthe**, **Xanathar's Guild**, **Manshoon's Zhentarim**, **The Cassalanters**, **House Gralhund**, **The Open Lord's Watch** (Organizations): the factions in Relationships
+- **The Harpers**, **The Lords' Alliance**, **The Emerald Enclave**, **The Order of the Gauntlet**, **The Zhentarim (Doom Raiders)**, **Bregan D'aerthe**, **Xanathar's Guild**, **Manshoon's Zhentarim**, **The Cassalanters**, **House Gralhund**, **The Open Lord's Watch** (Organizations): the factions in Relationships
 - **Castle Ward** (Gazetteer): Blackstaff Tower
 - **Fireball!**, **Gralhund Villa**, **Xanathar's Lair**, **Cassalanter Villa**, **Vault of Dragons** (Quests): where Force Grey appears
 

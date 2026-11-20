@@ -144,7 +144,7 @@ The Emerald Enclave is an organization of druids, rangers and survivalists who w
 - **City of the Dead**, **Undermountain and Skullport** (Geography): the Enclave's gardeners and its three routes to Level 1
 - **A Debt in Blood**, **The Open Lord's Fall** (History): the infernal influence the Enclave senses, and the Council of Waterdeep
 - **The Stone of Golorr and the Eyes** (Lore): the presence that the Stone woke
-- **The Harpers**, **The Lords' Alliance**, **The Order of the Gauntlet**, **Force Grey**, **The Doom Raiders**, **Bregan D'aerthe**, **Xanathar's Guild**, **Manshoon's Zhentarim**, **The Cassalanters**, **House Gralhund**, **The Open Lord's Watch** (Organizations): the factions on the Relationships list
+- **The Harpers**, **The Lords' Alliance**, **The Order of the Gauntlet**, **Force Grey**, **The Zhentarim (Doom Raiders)**, **Bregan D'aerthe**, **Xanathar's Guild**, **Manshoon's Zhentarim**, **The Cassalanters**, **House Gralhund**, **The Open Lord's Watch** (Organizations): the factions on the Relationships list
 - **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Vault of Dragons** (Quests): where the Enclave appears
 
 > [!gamemaster]**Draft Notes**

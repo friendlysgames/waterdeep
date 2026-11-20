@@ -66,14 +66,14 @@ House Gralhund is a minor noble house of Waterdeep that trades in arms and hired
 - **Manshoon's Zhentarim** (ally of convenience): The Zhentarim use the villa as a shield and refuge, and the house uses them to learn the Lords' identities. Yalah considers Urstul Floxin an underling and hides that from Manshoon's side.
 - **The Doom Raiders** (neutral, with a paid source): Skeemo Weirdbottle has fed intelligence to the Gralhunds and Manshoon's cell since well before Ches 1. The cell as a whole has no dealings with the house.
 - **Xanathar's Guild** (neutral, watched): The house traced Dalakhar into the Guild and did not know the Guild held the Stone.
-- **Bregan D'aerthe** (customer): Jarlaxle's company sold the house nimblewright NW-02. Each nimblewright feeds a crystal ball aboard the *Scarlet Marpenoth*, so every sale doubles as a listening post. [research] No source says whether the house knows this.
-- **The Cassalanters** (hidden co-religionists): The Gralhunds and the Cassalanter household belong to the same Asmodean cult, and a Cassalanter journal lists "Inform Y.G." beside the Cassalanter mausoleum. Nobody outside the household and the cult knows this.
+- **Bregan D'aerthe** (neutral, customer): Jarlaxle's company sold the house nimblewright NW-02. Each nimblewright feeds a crystal ball aboard the *Scarlet Marpenoth*, so every sale doubles as a listening post. [research] No source says whether the house knows this.
+- **The Cassalanters** (ally, hidden co-religionists): The Gralhunds and the Cassalanter household belong to the same Asmodean cult, and a Cassalanter journal lists "Inform Y.G." beside the Cassalanter mausoleum. Nobody outside the household and the cult knows this.
 - **The Harpers** (neutral): [research] No source gives a day-one dealing between the Harpers and the house.
 - **The Lords' Alliance** (neutral): [research] No source gives a day-one dealing.
 - **The Emerald Enclave** (neutral): The Enclave monitors a minor ley line under the villa and has no known dealings with the family.
 - **The Order of the Gauntlet** (neutral): [research] No source gives a day-one dealing.
 - **Force Grey** (neutral): [research] No source gives a day-one dealing.
-- **The Masked Lords** (aggrieved): The Lords passed Yalah over after the killings of 1491 DR, and the house means to learn their identities and weaknesses and take a seat by force of leverage.
+- **The Masked Lords** (rival, aggrieved): The Lords passed Yalah over after the killings of 1491 DR, and the house means to learn their identities and weaknesses and take a seat by force of leverage.
 - **The Open Lord** (neutral): [research] No source gives a dealing between Laeral Silverhand and the house. The grievance is with the Masked Lords.
 - **The City Watch** (neutral): [research] No source gives the house a standing arrangement with the Watch.
 - **The Neverember family** (enemy): The house watches Renaer Neverember through its agents, treats Dagult Neverember's agent Dalakhar as a target, and paid for the seizure of Renaer.
