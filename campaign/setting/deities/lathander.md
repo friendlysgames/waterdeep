@@ -110,7 +110,7 @@ Lathander, the Morninglord, is the god of dawn, birth and renewal. People across
 - `sources/adventure-wdmm.json`: Keresta and the Spires of the Morning (lines 48631 and 50537).
 - `campaign/gazetteer/waterdeep/castle-ward.md`: the Spires as a Castle Ward temple, lines 31, 164 and 166.
 - `campaign/setting/history/09-timekeeping-and-the-festival-calendar.md`: Rhyestertide and Sornyn (lines 60, 101 and 108).
-- `campaign/setting/organizations/10-cassalanters.md` (lines 19 and 57) and `campaign/setting/notable-figures/cassalanters/01-victoro-cassalanter.md` (line 23): Victoro's public worship and the cover.
+- `campaign/setting/organizations/10-cassalanters.md` (lines 34 and 110) and `campaign/setting/notable-figures/cassalanters/01-victoro-cassalanter.md` (line 23): Victoro's public worship and the cover.
 - `campaign/quests/faction-events/bregan-daerthe/m05-the-theaters-back-room/ev-01-the-theaters-back-room.md` (lines 337 and 343) and `overview.md` (line 26): Brimel Crestfall.
 - `campaign/setting/deities/asmodeus.md`, `siamorphe.md`, `tyr.md` and `zariel.md`: the cover, the 1385 DR account of Cyric's capture and Zariel's service as a solar, kept consistent with this page.
 - Forgotten Realms Wiki, Lathander (editions and books tagged on the page): rank, personality, relations, clergy titles, orders, favored sayings, Waterdeep temple, the 1345 DR unrest, the 916 DR battle, Tyche, the Second Sundering and the Amaunator question. Forgotten Realms Wiki, Cyric, Tyr, Zariel and Amaunator: the 1385 DR imprisonment of Cyric, Zariel as a former solar under him, and the Amaunator aspect and heresy. The wiki is paraphrased, never quoted.

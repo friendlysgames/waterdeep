@@ -98,7 +98,7 @@ Waukeen, the Coinmaiden, is the god of trade and wealth, and merchants, caravan 
 - `campaign/setting/history/09-timekeeping-and-the-festival-calendar.md`: Waukeentide and Sornyn (lines 68, 83, 108 and 117).
 - the retired Waterdeep outline: the Trades Ward guild halls, the eighteen guilds and the Waukeentide galas (lines 17, 31 and 45).
 - `campaign/structure/arc-g-cassalanter-villa.md` (active structure document, lines 73 to 79): the three Waukeentide events at the villa.
-- `campaign/setting/organizations/10-cassalanters.md` (line 57): the public galas.
+- `campaign/setting/organizations/10-cassalanters.md` (line 63): the public galas.
 - `campaign/setting/notable-figures/doom-raiders/03-istrid-horn.md` (lines 14 and 26): Vergadain. `campaign/setting/notable-figures/cassalanters/01-victoro-cassalanter.md`: Victoro's public worship of Lathander.
 - `campaign/gazetteer/waterdeep/castle-ward.md`: no Waukeen temple.
 - `campaign/setting/deities/lathander.md` (Sornyn, Holyhands House) and `helm.md` (the Celestial Stairway), kept consistent with this page.
@@ -122,7 +122,7 @@ Waukeen, the Coinmaiden, is the god of trade and wealth, and merchants, caravan 
 
 > [!gamemaster]**Draft Notes**
 >
-> - **Wiki claim, unused:** The wiki lists Waukeen, Siamorphe and Asmodeus as the Cassalanters' favored deities (`campaign/setting/organizations/10-cassalanters.md:61` and `:116`). This page does not repeat it. It would put a deity of the secret on a public-facing power, against the Cassalanter secrecy rule, and the campaign's public cover is Lathander for Victoro and Siamorphe for the house. The Cassalanters page already records the conflict, and `campaign/setting/deities/siamorphe.md:126` lists the same claim as not used.
+> - **Wiki claim, unused:** The wiki lists Waukeen, Siamorphe and Asmodeus as the Cassalanters' favored deities (`campaign/setting/organizations/10-cassalanters.md:114`). This page does not repeat it. It would put a deity of the secret on a public-facing power, against the Cassalanter secrecy rule, and the campaign's public cover is Lathander for Victoro and Siamorphe for the house. The Cassalanters page already records the conflict, and `campaign/setting/deities/siamorphe.md:126` lists the same claim as not used.
 > - **Conflict, title and gender:** FRHoF titles her "God of trade" and uses "she" throughout (bundle `5etools.md:3` and `:7`). PHB and SCAG say "Goddess of trade" (bundle `5etools.md:14` and `:24`). The page uses the FRHoF title and feminine pronouns.
 > - **Conflict, plane:** FRHoF gives the Outlands. The wiki's 3e row gives Brightwater and its 4e row the Eternal Sun (bundle `wiki.txt:87` and `:72`). The page follows FRHoF and gives the others under Her realm.
 > - **Conflict, research note against the files:** The Batch A note says a Grep for "Obaya" in `campaign/` returned no hit (note line 161). `campaign/guides/gm-guide/design-notes-running-the-campaign.md:118` names Obaya Uday among the single-scene eyewitnesses with no Notable Figures page, in a list headed "These NPCs appear in quests". No quest file names her, so that line is stale or refers to a quest not yet written.

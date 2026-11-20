@@ -142,7 +142,7 @@ A party found inside Gralhund Villa when the Watch arrives is questioned and det
 
 ## Cross-References
 
-- **The Open Lord's Watch** organization page: lore, tenets and key members
+- **The Open Lord's Watch** organization page: lore, beliefs and key members
 - **The City Watch** (Governance): ranks, posts, patrols, the Guard, the Griffon Cavalry and the Watchful Order
 - **The Open Lord and the Masked Lords** (Governance): the Commander of the Watch's superior and the Lords who press the Watch
 - **Running the Villains** (GM Guide): the four escalation tiers

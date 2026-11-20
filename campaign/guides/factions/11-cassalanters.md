@@ -99,7 +99,7 @@ The Cassalanters' escalation runs through the four tiers above, and their stance
 
 ## Cross-References
 
-- **Cassalanters** organization page: operations, key members, lore overview
+- **Cassalanters** organization page: history, beliefs, structure, methods and tactics, relationships, key members, lore overview
 - **Running the Villains** (GM Guide): Grand Game overview, villain escalation framework
 - **The Grand Game in Play** (GM Guide): between-sessions faction procedure
 - **Factions** guide overview
