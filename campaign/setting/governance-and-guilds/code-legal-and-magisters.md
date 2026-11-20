@@ -74,7 +74,7 @@ Waterdeep's laws rest on the Code Legal, a body of custom and precedent that any
 - `campaign/gazetteer/waterdeep/castle-ward.md` lines 27, 52 and 180: the Code Legal at the Palace, magister courts and black robes.
 - `campaign/setting/notable-figures/city-officials/02-barnibus-blastwind.md` and `03-saeth-cromley.md`, `force-grey/01-vajra-safahr-the-blackstaff.md`, `doom-raiders/05-tashlyn-yafeera.md`.
 - Faction events: `campaign/quests/faction-events/order-of-the-gauntlet/m05-the-shrine-on-aveen-street/overview.md` line 21, `ev-01-the-shrine-on-aveen-street.md` lines 29 and 69 and `design-notes.md` line 26. `force-grey/m05-the-legates-eyes/ev-02-the-extraction.md` line 186. `force-grey/m06-smoke-in-the-tower/ev-01-smoke-in-the-tower.md` line 240. `lords-alliance/m02-the-exiles-return/overview.md` line 21 and `design-notes.md` line 33. `lords-alliance/r10-stingblade/ev-01-stingblade.md` lines 122-124. `doom-raiders/s01-davils-arrest/ev-01-davils-arrest.md` line 107.
-- `campaign/setting/organizations/10-cassalanters.md` line 24 and `campaign/setting/deities/asmodeus.md` line 81: the temple offense.
+- `campaign/setting/organizations/10-cassalanters.md` line 39 and `campaign/setting/deities/asmodeus.md` line 81: the temple offense.
 - `campaign/setting/history/01-ahghairons-gifts.md` lines 62-63 and 142: the Code Legal's missing author and date.
 - Pass 3 research notes, `code-legal-and-magisters` section of `docs/plans/setting-compendium-research-notes/pass3/batch-governance.md`.
 

@@ -76,7 +76,7 @@ Full mission write-ups are in the **Faction Events** quest journals.
 
 ## Cross-References
 
-- **Harpers** organization page (lore): who the Harpers are, operations, key members, Grand Game agenda
+- **Harpers** organization page (lore): who the Harpers are, history, beliefs, structure, methods and tactics, relationships, key members, Grand Game agenda
 - [Harpers Faction Events](../../quests/faction-events/harpers/) — six missions (The Talking Mare through The Stone's Other Master), first meeting, standalone events, rank-up events
 - **Factions** guide overview: all player factions, renown system, conflicting loyalties
 - Notable Figures: **Mirt**, **Remallia "Remi" Haventree**, **Mattrim "Threestrings" Mereg**, **Bonnie**, **Corene Wyldath**, **Variel Duskwhisper**, **Corvin Vayle**, **Nessa Vayle**, **Maxeene**

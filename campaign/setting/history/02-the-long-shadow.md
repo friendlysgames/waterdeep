@@ -89,7 +89,7 @@ Xanathar's Guild is the largest criminal organization in Waterdeep and, accordin
 
 - `campaign/setting/history.md`, the Era 2 block (lines 22-27): every fact on this page that is not tagged to another source.
 - `campaign/setting/villains/xanathar.md`: the Background bullets, the Zushaxx and Kirukesai ruling, pronouns, the Nar'l grell, the Manshoon war (lines 21-28, 56-58).
-- `campaign/setting/organizations/08-xanathars-guild.md`: Ahmaergo's role (line 40), the Nihiloor domination (line 42), public face (Overview, line 55).
+- `campaign/setting/organizations/08-xanathars-guild.md`: Ahmaergo's role (lines 43 and 101), the Nihiloor domination (lines 24 and 129), public face (Overview, line 116).
 - `campaign/setting/notable-figures/xanathars-guild/` (Xanathar, Ahmaergo, Nar'l Xibrindas, Nihiloor, Ott Steeltoes): name verification and the Nar'l tenure.
 - the retired Waterdeep outline line 21: Skullport's depth and jurisdiction.
 - `campaign/structure/arc-f-xanathars-lair.md` lines 9 and 167 and 346: the envoys and the Eye, area X33, the Undermountain thread.
@@ -153,7 +153,7 @@ Xanathar's Guild is the largest criminal organization in Waterdeep and, accordin
 > - **Conflicts:** "A century" (`history.md` line 24; `xanathar.md` line 22) against about 135 years on the wiki and "stretching back centuries" in `arc-f` line 167. The Span follows the wiki.
 > - **Conflicts:** Kirukesai is not Zushaxx's predecessor. The wiki order is the original, Kirukesai, others, Xandulzrithral, Izulktur, Zushaxx. The docx merges "Zushaxx/The Eye" into one figure.
 > - **Conflicts:** "Survive precisely because they have no ambitions" (`history.md` line 27) against "hiding their ambitions behind obedience" (`xanathar.md` line 28) and common treachery (`adventure-wdh.json` line 32757). The page follows `xanathar.md`.
-> - **Settled by the user (Session 47):** Nar'l's tenure is one year, placed in 1491 DR (`adventure-wdh.json` line 32323; the wiki dates it 1491 DR). `03-narl-xibrindas.md` line 21 and `08-xanathars-guild.md` line 41 now say one year, placed in 1491 DR. The eleven years (`arc-f` line 17; `arc-h` line 15) are stale.
+> - **Settled by the user (Session 47):** Nar'l's tenure is one year, placed in 1491 DR (`adventure-wdh.json` line 32323; the wiki dates it 1491 DR). `03-narl-xibrindas.md` line 21 and `08-xanathars-guild.md` line 23 now say one year, placed in 1491 DR. The eleven years (`arc-f` line 17; `arc-h` line 15) are stale.
 > - **Settled by the user (Session 47):** Who knows the crypt. `arc-f` line 167 says only Nar'l among the Guild's members, and the published room has Xanathar visiting it. The ruling that the remix overrides the room leaves Nar'l as the one who knows, and the page words this as "of the Guild's own people".
 > - **Conflicts:** The Stone. The published entry has Xanathar's spies stealing the Stone "a few years ago" and Xanathar opening the vault before a dragon drove it out (`adventure-wdh.json` line 32760), and has the Stone vanish during merger talks (lines 472-474). The campaign has Eye #1 arrive with Manshoon's envoys three months before the fireball (`arc-f` line 9), and the vault is unopened. The page follows the campaign.
 > - **Conflicts:** The Undermountain adventure has the Zhentarim, called the Black Network, trying to drive the Guild out of Skullport through Rizzeryl (`adventure-wdmm.json` line 6578). Which of the two Zhentarims is meant is not settled.

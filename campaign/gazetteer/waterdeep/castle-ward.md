@@ -214,7 +214,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 - `sources/Appendix_B_-_Player_Factions.md` (lines 446-451): the Halls of Justice oath scene.
 - `sources/Act_III_Arc_E.md` and `5. Faction Outposts.pdf`: Yellowspire and Terasse Estate.
 - `campaign/setting/notable-figures/`: Durnan, Mirt, Laeral Silverhand, Vajra Safahr, Saeth Cromley, Barnibus Blastwind, Savra Belabranta, Amath Sercent and Keln Trigos (alignment, species, affiliation and the GM notes).
-- `campaign/setting/organizations/03-emerald-enclave.md` (line 68): Illuun and the water table.
+- `campaign/setting/organizations/03-emerald-enclave.md` (line 111): Illuun and the water table.
 - Quest and faction-event journals under `campaign/quests/`: Finding Floon, Trollskull Alley, Fireball!, Gralhund Villa, and the Doom Raiders, Bregan D'aerthe, Harpers, Order of the Gauntlet and Emerald Enclave events.
 - Research note `ward-castle-research.md` (scratchpad): compiled the above and the unsettled-field list.
 - Forgotten Realms Wiki, Castle Ward (2e *City of Splendors*, *Adventurer's Guide to the City*): boundaries, 1035 DR founding, the six statues, Market position, temples, residences.

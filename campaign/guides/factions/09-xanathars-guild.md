@@ -1,6 +1,6 @@
 # Xanathar's Guild
 
-Game mechanics for running Xanathar's Guild as a villain faction. For lore, operations, and key members, see the **Xanathar's Guild** organization page.
+Game mechanics for running Xanathar's Guild as a villain faction. For lore, structure, methods and tactics, and key members, see the **Xanathar's Guild** organization page.
 
 ## Response Teams
 
@@ -104,7 +104,7 @@ Each entry names the document or discovery and, in parentheses, where it is foun
 
 ## Cross-References
 
-- **Xanathar's Guild** organization page: operations, key members, overview
+- **Xanathar's Guild** organization page: history, beliefs, structure, methods and tactics, relationships, key members, overview
 - **Running the Villains** in the GM Guide
 - **The Grand Game in Play** in the GM Guide
 - **Factions** guide overview

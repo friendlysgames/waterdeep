@@ -158,7 +158,7 @@ Dagult Neverember, a wealthy noble who built his fortune in trade, was Open Lord
 > - **Conflicts:** The name of Renaer's mother. The Alexandrian and `arc-j` say Alethea Brandath, the Patreon material says Alathea, and the wiki says Brandarth. This page follows the campaign.
 > - **Conflicts:** The Cassalanter link to the embezzlement is not in the published adventure. The Alexandrian author's backstory supports it, as the Era 5 page's Draft Notes record.
 > - **Conflicts:** The wiki puts a separate million-gold laundering scheme with House Margaster in 1487 and 1488 DR. The campaign knows only the 500,000 gp, and this page leaves the scheme out.
-> - **Routed facts:** Laeral's belief that the vault is in Neverwinter (`organizations/02-lords-alliance.md` line 61) belongs on **A City Watching Itself**. The wiki also says Mystra tasked Laeral with the office, which belongs on **Laeral Silverhand**.
+> - **Routed facts:** Laeral's belief that the vault is in Neverwinter (`organizations/02-lords-alliance.md` line 115) belongs on **A City Watching Itself**. The wiki also says Mystra tasked Laeral with the office, which belongs on **Laeral Silverhand**.
 > - **Routed facts:** Dalakhar's 1492 DR mission, the Ches 20 theft and his death on Ches 22 belong on **The Players Arrive**.
 > - **Routed facts:** The wiki and the published adventure (p.131) record a hostile rivalry between Neverember and Jarlaxle over Luskan's Lords' Alliance bid. It belongs on **Bregan D'aerthe's Long Road** and the Jarlaxle villain page.
 > - **Routed facts:** Renaer's 1479 DR rescue of Vajra at Blackstaff Tower (Patreon, per the findings note) belongs on **Renaer Neverember**.
