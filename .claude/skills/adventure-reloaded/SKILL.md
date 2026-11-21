@@ -369,6 +369,12 @@ One file per named NPC in the Notable Figures setting compendium. File naming: z
 
 [Resonance, Emotions, Motivations, Inspirations paragraphs — VERBATIM from source]
 
+### Voice
+
+[The figure's profile from the character-voices skill: tagline, Sound, Sentence shape, Word choice, Swearing, Personality in speech, Quirks, Signature phrases, Never, Sample lines]
+
+(Pass 6 pages also carry a name tag, `## Background`, `## Personality` and `## Connections` before the Overview; see `docs/plans/setting-compendium-pass6-brief.md`.)
+
 ## Character Information
 
 [Persona, Morale, Relationships paragraphs — VERBATIM from source]
