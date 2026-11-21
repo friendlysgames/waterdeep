@@ -35,7 +35,7 @@ The North Ward is the part of Waterdeep that goes home in the evening, a ward of
 
 > [!gamemaster]**Secret**
 >
-> - Manshoon's Zhentarim keep a safe house and interrogation center on Brindul Alley. Avareen Windrivver and Zorbog Jyarkoth run it, three black flying snakes nest near the ceiling as couriers, and Ott Steeltoes, a captured Xanathar's Guild agent, is strapped to the rack in the back room. Avareen carries a pass-amulet to Kolat Towers, and the Kolat Towers structure doc describes the house as a field office connected to the towers by a teleportation circle.
+> - Manshoon's Zhentarim keep a safe house and interrogation center on Brindul Alley. Avareen Windrivver and Zorbog Jyarkoth run it, three black flying snakes nest near the ceiling as couriers, and a rack and an arcane circle fill the back room. Avareen carries a pass-amulet to Kolat Towers, and the Kolat Towers structure doc describes the house as a field office connected to the towers by a teleportation circle.
 > - A party that searched Urstul Floxin's effects at Gralhund Villa holds documents that name the alley. Any other party can find the house by canvassing the ward for a day (DC 14 Investigation, no faction membership needed), and Zhentarim response teams carry orders to take their prisoners here.
 > - Samara, a prisoner in **Xanathar's Lair**, says Manshoon's organization is based in a tower in the North Ward. That is a misdirection from overheard talk. Kolat Towers stands in the Southern Ward, and the Interrogation House is the Zhentarim site that a North Ward search turns up.
 > - The Cassalanters keep an Asmodean shrine on Aveen Street, which runs along the line between the Field Ward and the North Ward. The main house on the North Ward side looks like an ordinary residence, and a chandler's cellar on the Field Ward side opens into it. Below it a Hell cyst, a pinprick of Hell on the Material Plane, powers a summoning circle that calls two imps every nine days.
@@ -258,7 +258,7 @@ Sensory anchors for the GM to build the passage from (not written out):
 - **Harpers**: Ulbrinter Villa and the rented lodging.
 - **Cassalanters**: the Asmodean Shrine on Aveen Street.
 - **Order of the Gauntlet**: the shrine mission.
-- **Xanathar's Guild**: the guild whose agent, Ott Steeltoes, is held in the Interrogation House.
+- **Xanathar's Guild**: the guild whose agent Ott Steeltoes keeps Xanathar's pet fish.
 - **Kolat Towers**: the structure that the Interrogation House answers to.
 - **Faction Outposts**: the quest that visits both hidden sites.
 

@@ -18,16 +18,17 @@ The page count stays 123 (the rebuild plan's 122 is stale). Missing figures (Elm
 
 ## Target shape
 
-Today a page is: H1, Gamemaster's Summary, Roleplaying Information, Character Information, Overview. The new page, in order:
+Today a page is: H1, Gamemaster's Summary, Roleplaying Information, Character Information, Overview. The new page, in order (Background added at the user's request, Session 53):
 
 1. `# Name`, then `> Structuring draft.`
 2. `> [!gamemaster]**Gamemaster's Summary**`: keep the existing bullets (stat block, affiliation, featured in). Fix the affiliation label against the faction's organization page and the group folder. Add a bullet for the Factions Guide or Villains page where one exists.
 3. Name tag: `**Name** (Alignment, Species, pronouns)`, taken from the existing summary line and the source.
-4. `## Personality`: what the world sees, in plain words, built from the old Persona and Overview. Major NPCs get a full section; minor NPCs get two or three sentences.
-5. `## Connections`: who the figure answers to, who answers to it and who it dislikes, as day-one facts. Major NPCs get a bulleted list with bold names; minor NPCs get one line.
-6. `## Overview`: the player-safe public face, two to four sentences, 21 words or fewer each, no punchline closer, nothing about the Stone, the Eyes, the vault or a secret allegiance.
-7. The GM block: `## Roleplaying Information` and `## Character Information`, moved verbatim (see ruling 3), then `#### Secret` only where a hidden fact changes play.
-8. `**Tone:**`, then `---`, `## Source References`, `## Cross-References` (bold names only), one `> [!gamemaster]**Draft Notes**` callout with Research, Conflicts, Settled and Routed to quests bullets.
+4. `## Background`: the figure's history up to Ches 1, 1492 DR, in plain words (see ruling 15). Where the page or a Villains page already has a history, move it here verbatim. Major NPCs get several paragraphs; minor NPCs get a short paragraph.
+5. `## Personality`: what the world sees, in plain words, built from the old Persona and Overview. Major NPCs get a full section; minor NPCs get two or three sentences.
+6. `## Connections`: who the figure answers to, who answers to it and who it dislikes, as day-one facts. Major NPCs get a bulleted list with bold names; minor NPCs get one line.
+7. `## Overview`: the player-safe public face, two to four sentences, 21 words or fewer each, no punchline closer, nothing about the Stone, the Eyes, the vault or a secret allegiance.
+8. The GM block: `## Roleplaying Information` and `## Character Information`, moved verbatim (see ruling 3), then `#### Secret` only where a hidden fact changes play.
+9. `**Tone:**`, then `---`, `## Source References`, `## Cross-References` (bold names only), one `> [!gamemaster]**Draft Notes**` callout with Research, Conflicts, Settled and Routed to quests bullets.
 
 ## Rulings and calls (the main session made these; they bind every page)
 
@@ -45,6 +46,7 @@ Today a page is: H1, Gamemaster's Summary, Roleplaying Information, Character In
 12. **Sources.** Campaign decisions outrank the published adventure, which outranks the wiki. Wiki lines are paraphrased with the edition tagged. Nothing is invented; an unsourced detail carries `[research]`.
 13. **Line citations are fragile.** Cite a page and section name in new work.
 14. **Final prose is in universe.** Source References, Draft Notes and `[research]` tags are scaffolding for the later prose pass.
+15. **Background (user, Session 53).** "We also need a background/history section for each npc there. Where one exists, use it. If NPC is created, create one. If NPC doesn't have much, expand it so it makes sense." Every page gets a `## Background` of day-one history (campaign-start rule: nothing from quest time). Where a history exists (a Villains page `## Background`, the old Persona, Relationships or Overview), move it verbatim. Where it is thin, expand it from the research bundles in `sources/research/`, then the adventure files and Alexandrian PDFs, then the wiki. A modest inference that makes the history cohere carries `[research]`; an invented plot fact is never allowed. A page created later is born with a Background. Report what was moved and what was added.
 
 ## Inputs
 
@@ -62,8 +64,8 @@ Today a page is: H1, Gamemaster's Summary, Roleplaying Information, Character In
 
 ## User rulings (Session 53; they bind every page)
 
-- **Ott Steeltoes.** "Captured, then later becomes fishkeeper." On Ches 1, 1492 DR Ott is captured and held at the Interrogation House. The fishkeeper post is a later state, routed to **Xanathar's Lair**. His page keeps the fishkeeper details as Roleplaying text and says which state is day one; the pilot drafter lists how the Persona and Relationships lines were reconciled. The word "later" leaves open when he returns to the fish (after a rescue, or by Guild ruling); the pilot reports the options and does not decide.
+- **Ott Steeltoes.** "At the beginning of the campaign ott is free. Then he gets kidnapped." On Ches 1, 1492 DR Ott is free and tends Sylgar. The Zhentarim kidnap him during the campaign (motive: they were trying to locate the Eye, `guides/factions/10-manshoons-zhentarim.md:25`), so the kidnap is a quest event routed to **Faction Outposts**. No file dates it and the page dates nothing. How **Xanathar's Lair** treats a kidnapped Ott is for that conversion. The Bregan D'aerthe mission "Guarding Ott Steeltoes" (`Appendix_C_-_Player_Faction_Missions.md:1531`) is a separate quest event.
 - **Yalah and the Stone.** "Keep both branches." Bregan D'aerthe (**Jarlaxle Informed** marked) and the Open Lord (not marked) both stay on `guides/factions/13-house-gralhund.md`. `guides/factions/03-lords-alliance.md:9` now names Yalah as the one early route by which Laeral learns of the Stone. Day-one pages still say Laeral does not know.
-- **Hrabbaz.** "He can stand down or step aside, both can be true." The two lines describe one behavior and need no change. `ev-09-aftermath.md:44` ("Hrabbaz is dead") stays as the default-raid outcome, so his page shows him alive on day one and routes the death to **Gralhund Villa**. His species ("half-orc" or "orog") stays open and is listed under Conflicts.
+- **Hrabbaz.** "He can die or stand down." The outcome depends on how the confrontation runs. He stands down when Yalah looks at him or Orond is held (`ev-03:68`, `ev-05:51`, `ev-06:37`, `ev-07:39`) and steps aside when Fel'rekt holds Orond (`ev-04:79`). He dies when he holds G16 against Fel'rekt (`ev-06:55`, `ev-07:65`). `ev-09-aftermath.md:44` is conditional on that fight. His page shows him alive on day one and routes both branches to **Gralhund Villa**. His species ("half-orc" or "orog") stays open and is listed under Conflicts.
 - **Key Members labels.** "Keep and note the tie." Zelifarn, Bonnie and Nessa Vayle stay on the organization pages, which already note the looser tie (`07-bregan-daerthe.md:103`, `01-harpers.md:101` and `:105`). Their figure pages keep their own labels.
 - **Not asked, following the recommendation:** figures stay in the Draft Notes callouts; the Lords' Alliance page governs honest failure and reinstatement; Khafeyta Murzan stays "Mulhorandi"; Savra's embroidery line (`ev-09-aftermath.md:112`) stays.

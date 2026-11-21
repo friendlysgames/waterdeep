@@ -41,7 +41,7 @@ At quest's end, confirm what the party has. Cross-check against the Event Outcom
 
 ### Bad Time to Be a Zhent
 
-By the morning of Ches 25th, the City Watch has sealed Gralhund Villa and begun processing twenty-three bodies. Lord Gralhund is in shock; Hrabbaz is dead. No Stone, no nimblewright, no Floxin.
+By the morning of Ches 25th, the City Watch has sealed Gralhund Villa and begun processing twenty-three bodies. Lord Gralhund is in shock. Hrabbaz is dead if he held G16 against Fel'rekt, and alive if he stood down. No Stone, no nimblewright, no Floxin.
 
 The broadsheet (**Gralhund Villa Bloodbath**) runs within forty-eight hours. The Watch begins a city-wide crackdown on the Black Network, arresting known and suspected Zhentarim regardless of cell affiliation, legitimate business or not.
 

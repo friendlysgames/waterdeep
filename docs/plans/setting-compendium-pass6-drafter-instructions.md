@@ -11,14 +11,15 @@ Binding for every `prose-drafter` agent drafting a Pass 6 page. Read `setting-co
 
 1. Read the brief's "Target shape" and compare the pilot page with the old page. List what the old page lacks (name tag, Personality, Connections, Tone, Source References, Draft Notes) before you write.
 2. Move text first, then add. Roleplaying Information and Character Information keep their wording except for retargets, the rulings in the brief and the removal of quest-time lines. Diff your result against the old page and check that every other sentence survived.
-3. Draft the name tag, Personality and Connections from the old Persona, Relationships and Overview and from the notes. Each new claim takes a source or `[research]`.
+3. Draft the name tag, Background, Personality and Connections from the old Persona, Relationships and Overview and from the notes. Each new claim takes a source or `[research]`.
+3a. Background (brief ruling 15): move an existing history verbatim, expand a thin one from the bundles, adventure files, Alexandrian PDFs and wiki, tag any inference `[research]`, and report what was moved and what was added. Day-one history only.
 4. Write the Overview last, from the public facts only.
 5. Fill Source References with files and lines for campaign sources, and with the page title and edition for wiki sources. Fill Draft Notes with Research, Conflicts, Settled and Routed to quests.
 
 ## Page specifics
 
 - **Quest-time lines:** arrests, missions, captures, rescues, deaths and "once the party" wording are restated as day-one facts or routed. The pages most affected are Davil, Tashlyn, Yagra, Skeemo and Senna Vael (`doom-raiders`), Chirada and Hurv Taldred (`gralhunds`), Yalah (`01-yalah-gralhund.md:21`) and Bonnie (`04-bonnie.md:6` and `:25`).
-- **User rulings (Session 53):** read "User rulings" in the brief. Ott is captured on day one and becomes fishkeeper later; Yalah's Stone has both branches; Hrabbaz stands down or steps aside and is alive on day one; Zelifarn, Bonnie and Nessa Vayle keep their own labels. Hrabbaz's species is still open: list it under Conflicts.
+- **User rulings (Session 53):** read "User rulings" in the brief. Ott is free and tends Sylgar on day one and is kidnapped during the campaign; Yalah's Stone has both branches; Hrabbaz can die or stand down depending on the confrontation and is alive on day one; Zelifarn, Bonnie and Nessa Vayle keep their own labels. Hrabbaz's species is still open: list it under Conflicts.
 - **Villain figures** (Xanathar, Manshoon, the Cassalanters, Jarlaxle): the Villains page owns phases, goals and relationships. Link to it and do not copy it.
 - **Zardoz Zord:** J.B. Nevercott and Captain Zardoz Zord are two figures in any public Overview.
 
