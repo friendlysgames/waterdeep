@@ -2,6 +2,7 @@
 
 Page: `campaign/setting/notable-figures/xanathars-guild/03-narl-xibrindas.md`
 Brief: `docs/plans/setting-compendium-pass6-brief.md`
+Repo paths below are relative to `/home/user/waterdeep`. Scratchpad paths are absolute.
 Ruling used: Nar'l is Xanathar's only advisor and a Bregan D'aerthe plant placed in the Guild in 1491 DR, a year before Ches 1, 1492 DR (`campaign/setting/organizations/08-xanathars-guild.md:23`). His secret allegiance is GM-only. The Overview shows only the advisor.
 
 Method and caveats:
@@ -9,7 +10,7 @@ Method and caveats:
 - Published adventure: `sources/adventure-wdh.json`, quoted as the JSON string. Tags such as `{@creature ...}` are left as written. JSON escapes are shown as plain quotes.
 - Alexandrian PDFs: this session has no shell, so `pdftotext` could not run. The PDFs were read as rendered page images with the Read tool. Every PDF quote is marked **[img]** and is a transcription. Check it against `pdftotext -layout` before any quote goes into prose. Printed page numbers come first, PDF page in brackets.
 - The Alexandrian spelling is "N'arl" in the PDFs and Appendix D, and "Nar'l" in the campaign and adventure. Quotes keep each source's spelling.
-- Wiki: `scratchpad/wiki-xg/Nar_l_Xibrindas.txt` (read, lines 1 to 104). `scratchpad/wiki-xg/Narl_Xibrindas.txt` returned NOT FOUND. Bundle copies: `sources/research/pass5-bundles/xanathars-guild/wiki.txt` and `sources/research/pass5-bundles/bregan-daerthe/wiki.txt`. Most wiki lines print no edition. Editions come from the citation key and are marked inferred where so.
+- Wiki: `/tmp/claude-0/-home-user-waterdeep/a51d8faf-477c-574c-b157-e1f22664bc3c/scratchpad/wiki-xg/Nar_l_Xibrindas.txt` (read, lines 1 to 104), cited below as `Nar_l_Xibrindas.txt`. `.../wiki-xg/Narl_Xibrindas.txt` returned NOT FOUND. Bundle copies: `sources/research/pass5-bundles/xanathars-guild/wiki.txt` and `sources/research/pass5-bundles/bregan-daerthe/wiki.txt`. Most wiki lines print no edition. Editions come from the citation key and are marked inferred where so.
 - House Xorlarrin and Soluun Xibrindas were searched only in `sources/SOURCE_GUIDE.md`, the adventure, the Alexandrian PDFs and appendices, the campaign, and the `sources/research/` bundles, as the caller set. The scratchpad `fandom-dump` folder is outside that set and was not searched.
 - Source rank used: campaign files, then the published adventure, then the Alexandrian PDFs and appendices, then the wiki.
 - No file was edited except this notes file. The page was not written. Nothing was committed.
@@ -31,7 +32,7 @@ Method and caveats:
 
 **Wiki, the house (wiki only; the paragraph carries no citation, the nearby History paragraph cites WDH5e-p211)**
 > "The family's house was destroyed and only Nar'l and his elder brother [[Soluun Xibrindas|Soluun]] survived. They decided to join [[Bregan D'aerthe]]."
-> — `scratchpad/wiki-xg/Nar_l_Xibrindas.txt:68` (History; edition 5e inferred from the citation at `:70`)
+> — `Nar_l_Xibrindas.txt:68` (History; edition 5e inferred from the citation at `:70`)
 
 **Adventure, the pronunciation (5e)**
 > "{@creature Nar'l Xibrindas|WDH}" with the pronunciation "NAR-ul zeh-BRIN-das" on the next line
@@ -325,7 +326,7 @@ The page body (lines 11 to 29) narrates no quest event. All of it is day-one (se
 **Featured-in list (line 7), item by item**
 - **Faction Outposts**: supported. `campaign/structure/arc-e-faction-outposts.md:185`: "*Intel Yield.* Nar'l's correspondence is the primary entry path to Xanathar's Lair via the guildsign trail." Also `:165`, `:183`, `:351`, `:491`.
 - **Xanathar's Lair**: supported. `campaign/structure/arc-f-xanathars-lair.md:17`, `:43`, `:107`, `:169`, `:184`, `:198`.
-- **Sea Maidens Faire**: supported. `campaign/structure/arc-h-sea-maidens-faire.md:15`: "...placed Nar'l Xibrindas inside the Xanathar's Guild a year earlier, in 1491." (rest of the sentence covers: "Jarlaxle understood the Eye's significance better than any other faction in the Grand Game, which is why he was not rushing.")
+- **Sea Maidens Faire**: supported. `campaign/structure/arc-h-sea-maidens-faire.md:15`: "...the same network that had placed Nar'l Xibrindas inside Xanathar's Guild a year earlier, in 1491." (the sentence begins "The Eye had reached him the night before Ches 1, through Bregan D'aerthe intelligence work — ")
 - **The Wazoo Affair**: stale. `campaign/quests/faction-events/bregan-daerthe/m02-the-wazoo-affair/design-notes.md:35`: "`campaign/setting/notable-figures/xanathars-guild/03-narl-xibrindas.md` line 8 lists **The Wazoo Affair** under Nar'l's \"Featured in\". Nar'l no longer appears here."
 - **The Betrayal Pitch**: the mission is cut. `m02-the-wazoo-affair/design-notes.md:39`: "- **Kreb Drops the Cover** and **Contact Severed** no longer read the cut Betrayal Pitch, and **Kreb Drops the Cover** reads **Wazoo Exposé Published**." And `campaign/quests/faction-events/bregan-daerthe/s02-kreb-drops-the-cover/design-notes.md:40`: "still lists **The Betrayal Pitch** under \"Featured in\", although the mission is cut."
 - **The Compromised Eye**: supported. `campaign/quests/faction-events/bregan-daerthe/m04-the-compromised-eye/overview.md:17`.
@@ -413,7 +414,7 @@ The page body (lines 11 to 29) narrates no quest event. All of it is day-one (se
 
 **D10. Crypt and cache knowledge: who knows which room**
 - Campaign: "Nar'l Xibrindas is the only current Guild member who knows this room exists." (`campaign/structure/arc-f-xanathars-lair.md:167`, room X33)
-- Campaign, settled: "- Of the Guild's own people, only Nar'l knows the room exists." (`campaign/setting/history/02-the-long-shadow.md:82`); "Settled by the user (Session 47): Who knows the crypt." (`history/02-the-long-shadow.md:157`)
+- Campaign, the crypt line: "The crypt of previous Xanathars (area X33 of **Xanathar's Lair**) shows that the title is claimed through murder. Of the Guild's own people, only Nar'l knows the room exists." (`campaign/setting/history/02-the-long-shadow.md:82`); "Settled by the user (Session 47): Who knows the crypt." (`history/02-the-long-shadow.md:157`)
 - Adventure, a different room (X36, the cache): "The only other individual who knows about this room is {@creature Thorvin Twinbeard|wdh}" (`sources/adventure-wdh.json:18165`).
 - Adventure, the crypt X33: "{@creature Xanathar|WDH} (see {@adventure appendix B|WDH|12}), if present, is gazing somberly at the tombs of past Xanathars." (`sources/adventure-wdh.json:18027`); X33 header at `:18014`.
 - Alexandrian Lair p.91 [img]: "Xanathar doesn't allow anyone to enter the Area X33 and most don't even know what's in there, but some know that there's a secret door connecting the Arena (X6) and \"whatever Xanathar has hidden down there\"."
@@ -463,7 +464,7 @@ The page body (lines 11 to 29) narrates no quest event. All of it is day-one (se
 - `campaign/setting/the-grand-game/the-grand-game.md:91`: "> - **Left open (brief ruling 14), none settled here:** Nihiloor's domination of Xanathar, Nar'l's tenure, Ott Steeltoes, the \"something vast and dreaming\" seed and the Doom Raiders and Enclave Trades Ward lines are not touched." (rest of the line covers: "The page says only that Nar'l reports to Jarlaxle by *sending* spell.") Stale on the tenure, which is settled at `history/02:156`.
 - `campaign/setting/villains/jarlaxle.md:179`: "> - **Calls applied:** Left open per ruling 13: Nar'l's tenure (the page gives none), Nihiloor's domination of Xanathar, Ott Steeltoes and the Doom Raiders and Enclave Trades Ward lines." Stale: the Nar'l page gives one year, placed 1491 DR.
 - `campaign/setting/villains/manshoon.md:139`: "> - **Left open (brief call 13):** Nihiloor's domination of Xanathar, Nar'l Xibrindas's tenure, Ott Steeltoes, the \"something vast and dreaming\" seed, and the Doom Raiders and Enclave Trades Ward lines. None is stated on this page." Stale on the tenure.
-- `campaign/gazetteer/waterdeep/southern-ward.md:260`: "> - **Names with no page:** Brimel Crestfall, Marra Selby, Vaelle Lurval, Volkarr Kibbens, Urlaster Ghann, Pippa Underbough, Tolliver Greenbottle, Marda Goodbarrel, Blossom and Dasher Snobeedle, Tessaly Brightwater, Dessa Voll, Ruid, Duhlark and Alcedor Kolat, Nar'l Xibrindas (his page was not opened) and Istrid Horn's courier cache." (rest of the line lists the names with no page.) Stale: the Nar'l page exists.
+- `campaign/gazetteer/waterdeep/southern-ward.md:260`: "> - **Names with no page:** Brimel Crestfall, Marra Selby, Vaelle Lurval, Volkarr Kibbens, Urlaster Ghann, Pippa Underbough, Tolliver Greenbottle, Marda Goodbarrel, Blossom and Dasher Snobeedle, Tessaly Brightwater, Dessa Voll, Ruid, Duhlark and Alcedor Kolat, Nar'l Xibrindas (his page was not opened) and Istrid Horn's courier cache." (rest of the line covers: "Brimel, Vaelle and the Kolat brothers appear as plain text.") Stale: the Nar'l page exists.
 - `campaign/gazetteer/waterdeep/dock-ward.md:310`: "> - **Names with no page:** Xoblob, Gorra, Ilsa Dalloway, Harl Pimm, Captain Staget, Heldar, Rongquan Mystere and Kreb Sorrush (aliases of Jarlaxle and Krebbyg), Wenna Tarrow, Nella Fen, Ostrin Brindle, Tarn Hobble, Piers Hobb, Mirsa, Garrit Moll, Tobiah Ashby, Sarna, the Peabody family and Nar'l Xibrindas appear as plain text." Stale: the Nar'l page exists.
 - `campaign/quests/faction-events/bregan-daerthe/m04-the-compromised-eye/design-notes.md:16`: "- Nar'l's tenure is a year, as WDH says, and not the three years in the Notable Figures page or the eleven in **Xanathar's Lair**." The Notable Figures page says one year now (`03-narl-xibrindas.md:21`), so "three years" is stale wording. The "eleven" is stale as in D4.
 - `campaign/quests/faction-events/bregan-daerthe/m02-the-wazoo-affair/design-notes.md:35` (the Featured-in line; see D7).
@@ -528,7 +529,7 @@ The page body (lines 11 to 29) narrates no quest event. All of it is day-one (se
 
 ## Not readable
 
-- `scratchpad/wiki-xg/Narl_Xibrindas.txt`: NOT FOUND (the tool returned a one-line NOT FOUND).
+- `Narl_Xibrindas.txt` in the scratchpad `wiki-xg` folder: NOT FOUND (the tool returned a one-line NOT FOUND).
 - `sources/Other remix files/*.docx`: not opened (the tools cannot read .docx). `SOURCE_GUIDE.md` names no Nar'l-specific entry for them, but the Jarlaxle guide (`SOURCE_GUIDE.md:690`: "Jarlaxle's personality, tactics, goals, and the Bregan D'aerthe operation") and "The Waterdavian's Guide to Waterdeep NPCs" (`SOURCE_GUIDE.md:695`: "Broad NPC reference") could mention Nar'l. Name them to the orchestrator for extraction.
 - Alexandrian PDFs read in this pass, all pages: `11. Lair  Xanathar’s Lair.pdf` (9 pages), `5. Faction Outposts.pdf` (13 pages), `17. Outpost and Lair Revelation Lists.pdf` (4 pages), `1. The Villains.pdf` (7 pages; no Nar'l), `21. Faction Reports of the Grand Game.pdf` (13 pages; no Nar'l). Not opened: the rest of the PDF set (for example `6. Faction Response Teams.pdf`, which carries the response-team Directive documents; `SOURCE_GUIDE.md:350`). The rest were not searched by content.
 - All PDF quotes are **[img]** transcriptions. Check each against `pdftotext -layout` before prose use.
