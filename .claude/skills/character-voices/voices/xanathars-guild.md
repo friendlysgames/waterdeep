@@ -31,12 +31,12 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 
 - **Sound:** A precise, clipped dwarven voice, dry and formal, like a bookkeeper reading a ledger.
 - **Sentence shape:** Orderly, administrative sentences: procedures, schedules, disciplinary outcomes. It's polite phrasing throughout, deliberately (a break from `ember-voice` speech), and he never contracts.
-- **Word choice:** Bureaucratic cruelty: "disciplinary procedure", "requisition", "regrettable but necessary". He calls the Xanathar "the Master" with complete reverence. Minotaurs he discusses with the zeal of a collector.
+- **Word choice:** Bureaucratic cruelty: "disciplinary procedure", "requisition", "regrettable but necessary". He calls Xanathar "the Master" with complete reverence. Minotaurs he discusses with the zeal of a collector.
 - **Swearing:** *Never · Plain · n/a.* Profanity is disorderly. Cruelty is his vocabulary instead.
 - **Personality in speech:** Smug authority and methodical cruelty. He describes punishments in procedural detail. His obsession with minotaurs surfaces as sudden animated enthusiasm, then he returns to calm.
 - **Quirks:** He consults a list before answering. He mentions minotaur anatomy unprompted. He thanks people for their cooperation before hurting them.
 - **Signature phrases:** "Procedure must be followed." / "The Master is not to be disturbed." / "Thank you for your cooperation."
-- **Never:** He never raises his voice, never questions the Xanathar, and never lets disorder pass.
+- **Never:** He never raises his voice, never questions Xanathar, and never lets disorder pass.
 - **Sample lines:**
   - *Greeting:* "You are not on the list. That is regrettable. State your business, and do not touch the minotaur."
   - *Business:* "Deliveries are to be made at the second bell to the lower stair. Late deliveries are subject to disciplinary procedure."
@@ -90,7 +90,7 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 - **Personality in speech:** Aggressive boredom and simple loyalty. He enjoys violence and says so. He's fond of his rust monster in a blunt, affectionate way.
 - **Quirks:** He cranks his crossbow arm while talking. He offers people's weapons to his rust monster. He takes insults as instructions.
 - **Signature phrases:** "Boss says." / "Rusty's hungry." / "Target."
-- **Never:** He never negotiates, never thinks twice, and never disobeys the Xanathar.
+- **Never:** He never negotiates, never thinks twice, and never disobeys Xanathar.
 - **Sample lines:**
   - *Greeting:* "You. Target? Boss says maybe."
   - *Business:* "Boss says hurt you. I hurt you. Simple."
