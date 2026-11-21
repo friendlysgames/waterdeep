@@ -140,7 +140,7 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 - **Sound:** A soft, reassuring bedside voice, gentle and unhurried.
 - **Sentence shape:** Calm, kind, clinical sentences, instructions and reassurance. He answers questions about the "other service" with polite non-answers.
 - **Word choice:** Medical and discreet: "patient", "treatment", "no need to tell me how it happened". He calls everyone "friend".
-- **Swearing:** *Stingy · Plain · Clipped.* Once, quietly, when a patient dies on his table.
+- **Swearing:** *Stingy · Plain · Clipped.* Once, under his breath, when a patient dies on his table.
 - **Personality in speech:** Professional pride and deliberate ignorance. His care for patients is real. Indifference to what happens after they leave shows as a change of subject.
 - **Quirks:** He says "No need to tell me" before anyone explains anything. He washes his hands while talking.
 - **Signature phrases:** "No need to tell me." / "You'll mend." / "That's not my department."
