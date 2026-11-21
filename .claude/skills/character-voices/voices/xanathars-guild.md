@@ -49,9 +49,9 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 
 - **Sound:** A soft, precise, even voice, always slightly lower than it needs to be.
 - **Sentence shape:** Careful, qualified sentences with no commitment. He says less than he knows. Under private pressure, fast, clipped bargaining.
-- **Word choice:** Advisor's diplomacy with the Xanathar: "a prudent course", "the Master's wisdom". Contempt shows only in careful word choices. He never names Jarlaxle.
+- **Word choice:** Advisor's diplomacy with Xanathar: "a prudent course", "the Master's wisdom". Contempt shows only in careful word choices. He never names Jarlaxle.
 - **Swearing:** *Stingy · Plain · Clipped.* Only alone, or with someone he's bargaining for his life with: a tight, frightened "fuck".
-- **Personality in speech:** Nervous calculation behind practised competence. He flatters the Xanathar while despising it. Growing terror shows as over-precise answers. Self-preservation comes out as offers.
+- **Personality in speech:** Nervous calculation behind practised competence. He flatters Xanathar while despising it. Growing terror shows as over-precise answers. Self-preservation comes out as offers.
 - **Quirks:** He glances at the grell before answering. He phrases every statement so it can be denied later.
 - **Signature phrases:** "A prudent course." / "The Master sees further than I." / "What would you offer?"
 - **Never:** He never says Jarlaxle's name, never commits to a side, and never speaks freely near the grell.
