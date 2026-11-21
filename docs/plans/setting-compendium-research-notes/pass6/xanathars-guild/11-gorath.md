@@ -10,7 +10,7 @@ Method and caveats:
 - Published adventure: `sources/adventure-wdh.json`, quoted as the JSON string. JSON escapes (`\"`) are shown as plain quotes. `{@creature ...}` tags are left as written.
 - Alexandrian PDFs: this session has no shell, so `pdftotext` could not run. Every PDF quote below was transcribed from the rendered page image. Each is marked **[PDF image]** and needs a `pdftotext -layout` check before any prose use. Cite as printed page with PDF page in brackets.
 - Appendices: `sources/Appendix_C_-_Player_Faction_Missions.md` and `sources/Appendix_D_-_Running_the_Tavern.md` are markdown and were read as text.
-- Wiki: `scratchpad/wiki-xg/Gorath.txt`. **This is a different figure** (a Kara-Tur spirit). It is quoted in section D only so the drafter does not import it. `Gorathil.txt` is not in the `wiki-xg/` folder, so it was not searched.
+- Wiki: `scratchpad/wiki-xg/Gorath.txt`. **This is a different figure** (a Kara-Tur spirit). It is quoted in section E3 only so the drafter does not import it. `Gorathil.txt` is not in the `wiki-xg/` folder, so it was not searched.
 - Source rank used: campaign files, then the published adventure, then the Alexandrian PDFs and appendices, then the wiki.
 - No file was edited except this notes file. The page was not written.
 
@@ -23,14 +23,14 @@ Method and caveats:
 3. **What he commands (day one):** a team of four duergar, sent "when someone needs to be taught a lesson" (same two sources). Korgstrod Uxgulm's team is second and Noska Ur'gray's is third.
 4. **No Gorath-specific source** gives his species, his stat block, his alignment, his birth, his background, his faith, his belongings or his time in post. The campaign states "Duergar, lawful evil" for him on the Guild page and on his own page, with no source behind it (see B).
 5. **Quest state, to route:** the party-triggered tavern visits (Trollskull Manor guide and Appendix D), the escalation paragraphs (Factions Guide and `arc-e`), the structure-doc Notable Figures list (`arc-f`), and the Guild's Terasse escalation. See C and E.
-6. **Conflicts to decide:** the Factions Guide escalation paragraph and the Factions Guide tier table disagree on which tier sends Gorath (D5). The voice profile says he "never threatens directly" while the sourced ultimatum is an ultimatum (D7). The Guild page cites *Dragon Heist* for Gorath, and the adventure does not name him (D6).
+6. **Conflicts to decide:** the Factions Guide escalation paragraph and the Factions Guide tier table disagree on which tier sends Gorath (D5). The voice profile says he "never threatens directly" while the sourced visit ends in an ultimatum (D7). The Guild page cites *Dragon Heist* for Gorath, and the adventure does not name him (D6).
 
 ---
 
 ## A. Background facts by theme
 
 ### A1. Origin, family, former life
-No source gives any. Searched: the target page, the Guild organization page, all `campaign/setting/notable-figures/xanathars-guild/` pages, `campaign/setting/history/`, `campaign/setting/lore/`, `sources/adventure-wdh.json` (no hits for Gorath), `Appendix_B`, `Appendix_C`, `Act_III_Arc_D.md`, `Act_III_Arc_E.md`, the wiki pages in `wiki-xg/` (only `Gorath.txt` names Gorath, and it is the other figure). See F1.
+No source gives any. Searched: the target page, the Guild organization page, all `campaign/setting/notable-figures/xanathars-guild/` pages, `campaign/setting/history/`, `campaign/setting/lore/`, `sources/adventure-wdh.json` (no hits for Gorath), `Appendix_B`, `Appendix_C`, `Act_III_Arc_D.md`, `Act_III_Arc_E.md`, and the wiki pages in `wiki-xg/` (only `Gorath.txt` names Gorath, and it is the other figure). See F1.
 
 ### A2. How he joined and rose in the Guild
 Team role, the only rise-related statement for him:
@@ -40,7 +40,7 @@ Team role, the only rise-related statement for him:
 > "GORATH: Gorath is the leader of a small team of duergar. His team is sent in one when someone needs to be taught a lesson."
 > — **[PDF image]** `sources/6. Faction Response Teams.pdf`, printed p.54 [PDF p.6], "Xanathar Response Teams"
 
-The general entry test, which the page does not apply to Gorath. The campaign says nothing Gorath-specific:
+The general entry test. No Gorath-specific entry is recorded anywhere; this is the only rise-related text on the Guild page:
 > "- **Crime Is the Entry Fee:** Anyone can join, but an applicant must first pass a test that always involves a serious crime. The crime might be murdering a member who failed Xanathar, kidnapping a Waterdhavian, collecting a ransom or looting a warehouse. After that, advancement depends on wiles and on the ability to dispose of rivals, and the competition is fierce and often deadly."
 > — `campaign/setting/organizations/08-xanathars-guild.md:32`
 
@@ -53,7 +53,7 @@ The Guild page places the response teams, not ranks:
 > "Ott Steeltoes keeps Sylgar, and Gorath and Korgstrod Uxgulm lead duergar in the field (*Dragon Heist*, 5e; Notable Figures)."
 > — `campaign/setting/organizations/08-xanathars-guild.md:43` (see D6 on the citation)
 
-The published adventure's list of the Guild's important underlings does not include him (the list is the full set of underlings the adventure names):
+The published adventure's list of the Guild's important underlings does not include him (the list is what the adventure calls its important underlings):
 > "{@creature Xanathar|WDH} relies on underlings for advice, information, and day-to-day oversight of the Xanathar Guild. The following important underlings are described in appendix B:"
 > — `sources/adventure-wdh.json:15066`
 
@@ -119,7 +119,7 @@ The team's look in the tavern visit (describes the team, not Gorath alone):
 > — `campaign/guides/trollskull-manor/09-response-teams-at-the-tavern.md:19`
 
 ### A7. How long in post
-None. The Factions Guide gives the team order, not a start date. The only time reference is the Trollskull tenday table, which is quest timing (C, row 9).
+None. The Factions Guide gives the team order, not a start date. The only time reference is the Trollskull tenday table, which is quest timing (E2).
 
 ### A8. Conduct as the sources describe it (party-triggered visits; these are quest-time, see C)
 Appendix D, the early visit:
@@ -155,7 +155,9 @@ Motto of the Guild's visits (Appendix D heading line):
 > "*The Xanathar Guild does not negotiate. It sends lessons.*"
 > — `sources/Appendix_D_-_Running_the_Tavern.md:1515`
 
-Trollskull guide's version of the same motto: "*The Guild does not negotiate. It sends lessons.*" (`campaign/guides/trollskull-manor/09-response-teams-at-the-tavern.md:17`).
+Trollskull guide's version of the same motto:
+> "*The Guild does not negotiate. It sends lessons.*"
+> — `campaign/guides/trollskull-manor/09-response-teams-at-the-tavern.md:17`
 
 ---
 
@@ -189,7 +191,7 @@ Trollskull guide's version of the same motto: "*The Guild does not negotiate. It
 
 **Stat block**
 - Campaign, current page: "Stat block: **Duergar**." (`11-gorath.md:5`)
-- Alexandrian, team: "4 **duergar** (MM p. 122)" — **[PDF image]** `sources/6. Faction Response Teams.pdf`, printed p.54 [PDF p.6], under "GORATH". This is the team's block.
+- Alexandrian, team: "4 duergar (MM p. 122)" — **[PDF image]** `sources/6. Faction Response Teams.pdf`, printed p.54 [PDF p.6], under "GORATH". This is the team's block.
 - Alexandrian, stat reference: "Duergar – MM p. 122" — **[PDF image]** `sources/11. Lair  Xanathar’s Lair.pdf`, printed p.91 [PDF p.9], "STAT REFERENCE".
 - No source gives a separate stat block for Gorath.
 
@@ -244,13 +246,13 @@ Rank used: campaign files first, then the published adventure, then the Alexandr
 
 **D2. Species of Gorath himself.** Not a flat conflict. The campaign says "Duergar" for him (`08:110`, `11:5`). The Factions Guide says his team is duergar (`factions/09:9`). The Alexandrian says "a small team of duergar" (**[PDF image]** printed p.54 [PDF p.6]). Korgstrod's species is in the adventure (`adventure-wdh.json:11987`) and Gorath's is not. Campaign outranks Alexandrian, so "Duergar" stands for the campaign, but the drafter should know no source states it for Gorath personally. [research]
 
-**D3. Stat block.** Not a flat conflict. The Notable page's "Stat block: **Duergar**." (`11:5`) matches the team block "4 **duergar** (MM p. 122)" (**[PDF image]** printed p.54 [PDF p.6]). Gorath himself has no block of his own in any source.
+**D3. Stat block.** Not a flat conflict. The Notable page's "Stat block: **Duergar**." (`11:5`) matches the team block "4 duergar (MM p. 122)" (**[PDF image]** printed p.54 [PDF p.6]). Gorath himself has no block of his own in any source.
 
-**D4. Venue of the "tavern" (day-one setting vs party-triggered visits).** The Persona says Gorath "walks into the tavern" (`11:21`). Every source places the tavern visits in Trollskull Manor and ties them to party action (`campaign/guides/trollskull-manor/09-response-teams-at-the-tavern.md:21`-`:24`; `sources/Appendix_D_-_Running_the_Tavern.md:1519`-`:1522`). On Ches 1 the manor is not yet the party's (`sources/Appendix_D_-_Running_the_Tavern.md:1506` is the design note; the Trollskull Alley and Trollskull Manor quests are the source of the deed). The Persona line does not name the manor. The drafter must decide whether the setting page names a tavern.
+**D4. Venue of the "tavern" (day-one setting vs party-triggered visits).** The Persona says Gorath "walks into the tavern" (`11:21`). Every source places the tavern visits in Trollskull Manor and ties them to party action (`campaign/guides/trollskull-manor/09-response-teams-at-the-tavern.md:21`-`:24`; `sources/Appendix_D_-_Running_the_Tavern.md:1519`-`:1522`). The manor becomes the party's through the Dragon Heist chapter 2 deed: "In Chapter 2 of the Dragon Heist campaign, the PCs are rewarded with the deed to an abandoned inn named Trollskull Manor." (**[PDF image]** `sources/27. Addendum A Night in Trollskull Manor.pdf`, printed p.178 [PDF p.1]). The Persona line does not name the manor. The drafter must decide whether the setting page names a tavern.
 
 **D5. Which escalation tier sends Gorath.** Two campaign statements disagree.
 - Gorath at Suspicious: "| Suspicious | Gazer scouts; Nihiloor processes captured intelligence. First team (Gorath's duergar) deployed as a warning |" (`campaign/guides/factions/09-xanathars-guild.md:72`) and "| **Xanathar's Guild** | Normal operations | Gazer scouts; Nihiloor processes captured intelligence. First team: Gorath's duergar, deployed as a warning | Second team: Korgstrod Uxgulm's squad (half-ogre + gazer) | Third team: Noska Ur'gray's bugbear squad with orders to eliminate. Xanathar takes personal interest; lair incursions trigger Eye-ray responses |" (`campaign/guides/gm-guide/running-the-villains.md:49`; header at `:47`: "| Faction | Unaware | Suspicious | Alert | Lockdown |").
-- Gorath at Alert, after a second hit: "***Escalation.*** Xanathar moves to Suspicious (Tier 2). If a second Xanathar outpost has already been hit, it moves directly to Alert (Tier 3), and Gorath's team deploys within 2 days to the last known party location. **Founders' Day Clock: 2–4 days.**" (`campaign/guides/factions/09-xanathars-guild.md:35`) and "Xanathar moves directly to Alert (Tier 3) and Gorath's response team deploys to the last known party location within 2 days." (`campaign/structure/arc-e-faction-outposts.md:155`, the full sentence ending "...within 2 days.").
+- Gorath at Alert, after a second hit: "***Escalation.*** Xanathar moves to Suspicious (Tier 2). If a second Xanathar outpost has already been hit, it moves directly to Alert (Tier 3), and Gorath's team deploys within 2 days to the last known party location. **Founders' Day Clock: 2–4 days.**" (`campaign/guides/factions/09-xanathars-guild.md:35`) and, in the Faction Outposts structure doc: "**Escalation: Xanathar moves to Suspicious (Tier 2).** If a second Xanathar outpost has already been hit, Xanathar moves directly to Alert (Tier 3) and Gorath's response team deploys to the last known party location within 2 days." (`campaign/structure/arc-e-faction-outposts.md:155`).
 - Both are campaign files. The two tables and the two escalation paragraphs cannot both be right. The orchestrator decides.
 
 **D6. The *Dragon Heist* citation.** The Guild page cites the adventure for Gorath: "Ott Steeltoes keeps Sylgar, and Gorath and Korgstrod Uxgulm lead duergar in the field (*Dragon Heist*, 5e; Notable Figures)." (`campaign/setting/organizations/08-xanathars-guild.md:43`). The adventure has no Gorath (no hit for `Gorath` in `sources/adventure-wdh.json`), and its list of important underlings omits him (`:15066`-`:15076`). The adventure names Korgstrod as "the duergar leader" (`:11987`). The citation for Gorath is unsupported. The Guild page's "Dragon Heist" citation is therefore stale for Gorath.
@@ -261,7 +263,7 @@ Rank used: campaign files first, then the published adventure, then the Alexandr
 
 **D9. Ahmaergo labelled duergar in Appendix C (not Gorath; label drift).** "2 = Ahmaergo (duergar; inspection; DC 15 Deception to pass as authorized)" (`sources/Appendix_C_-_Player_Faction_Missions.md:1887`). The Guild page says "- **Ahmaergo** (DH p. 195) — Shield dwarf majordomo, lawful evil." (`campaign/setting/organizations/08-xanathars-guild.md:101`). The adventure says "{@creature Ahmaergo|WDH}, dwarf majordomo" (`sources/adventure-wdh.json:15071`). Shown because the label "duergar" is used loosely across the Guild.
 
-**D10. The wiki's Gorath is a different figure.** Not a conflict to resolve. The wiki page is the Kara-Tur spirit (see section E, wiki). Its infobox and lead line are quoted there so the drafter can see the collision.
+**D10. The wiki's Gorath is a different figure.** Not a conflict to resolve. See E3, where the wiki's infobox and lead line are quoted so the drafter can see the collision.
 
 **D11. Early visit called "dwarves" and "duergar" in two sources.** "Four dwarves come in at the same time" (`sources/Appendix_D_-_Running_the_Tavern.md:1527`) and "Four duergar, same time, sit at two tables covering door and stair." (`campaign/guides/trollskull-manor/09-response-teams-at-the-tavern.md:26`). Same visit, two words. No real conflict.
 
@@ -279,8 +281,8 @@ Rank used: campaign files first, then the published adventure, then the Alexandr
 - `sources/Appendix_C_-_Player_Faction_Missions.md:1887` — Ahmaergo as duergar (D9).
 
 ### E2. Routed quest references (quest-time, with the files where they already live)
-- Trollskull Manor guide, active-visit and triggers: `campaign/guides/trollskull-manor/09-response-teams-at-the-tavern.md:15`-`:30` (the whole Gorath section). Quote for the trigger list, line 21-24: "**Triggers:** - Party has discovered, looted, or interfered with a Xanathar outpost or operation - A Guild plant as staff (Tobrin Ashvale, Grevik Nass) has been exposed - Party has the Stone of Golorr or an Eye and the Guild knows it" — `campaign/guides/trollskull-manor/09-response-teams-at-the-tavern.md:21`-`:24`.
-- Trollskull patron table, Slot for the tenday after Gralhund Villa: "| First tenday after **Gralhund Villa** | Renaer Neverember, Floon Blagmaar, Yagra Stonefist (at the bar, or on the door if she is the Bouncer) | 8: Xanathar's Guild (Gorath's Duergar) | The Stone has changed hands. The first villain visit tells the party they're now players in the Grand Game. |" — `campaign/guides/trollskull-manor/06-tavern-time.md:28`
+- Trollskull Manor guide, the whole Gorath section: `campaign/guides/trollskull-manor/09-response-teams-at-the-tavern.md:15`-`:30`. The trigger list, lines 21-24: "**Triggers:**" then "- Party has discovered, looted, or interfered with a Xanathar outpost or operation", "- A Guild plant as staff (Tobrin Ashvale, Grevik Nass) has been exposed", "- Party has the Stone of Golorr or an Eye and the Guild knows it" — `campaign/guides/trollskull-manor/09-response-teams-at-the-tavern.md:21`-`:24`.
+- Trollskull patron table, slot for the tenday after Gralhund Villa: "| First tenday after **Gralhund Villa** | Renaer Neverember, Floon Blagmaar, Yagra Stonefist (at the bar, or on the door if she is the Bouncer) | 8: Xanathar's Guild (Gorath's Duergar) | The Stone has changed hands. The first villain visit tells the party they're now players in the Grand Game. |" — `campaign/guides/trollskull-manor/06-tavern-time.md:28`
 - Appendix D, the whole profile: `sources/Appendix_D_-_Running_the_Tavern.md:1513`-`:1541`.
 - Appendix D, design note: `sources/Appendix_D_-_Running_the_Tavern.md:1506`.
 - Factions Guide, the kit and first-encounter rule: `campaign/guides/factions/09-xanathars-guild.md:7` (quoted in A6).
@@ -292,9 +294,8 @@ Rank used: campaign files first, then the published adventure, then the Alexandr
 - Quest events, Gorath's team as a response (quest-time): `campaign/quests/faction-events/bregan-daerthe/r03-soldier/ev-01-soldier.md:146`: "> - **Gorath's team:** "Watch for Gorath's crew next, four duergar who enjoy hurting people. They're who the Guild sends first when somebody needs a lesson."" — `campaign/quests/faction-events/doom-raiders/r03-wolf/ev-01-wolf.md:125`: "> - **Xanathar's Guild:** Gorath with four duergar, then Korgstrod Uxgulm with a half-ogre and a gazer, then Noska Ur'gray with six bugbears and a gazer. When all three have been beaten, the answer says the guild has no crew left to send on the street and that the next move will be Xanathar's own." — `campaign/quests/faction-events/lords-alliance/r25-warduke/ev-01-warduke.md:193`: "> | Xanathar's Guild | First | A leader and four fighters from underground stock, sent to teach a lesson | Gorath's team |"
 - Alexandrian GM tip, a timed visit in an example schedule: **[PDF image]** "First, take 5 minutes between sessions to think about what each faction is going to do next. Some of those things won't affect the PCs; some will. Make a list of those and when they'll happen: Gorath will come to Trollskull Manor at 5pm on the 10th. Souun Xibrindas will target one of the PCs for assassination with a sniper team at 10am on the 11th. And so forth." — `sources/6. Faction Response Teams.pdf`, printed p.50 [PDF p.2] (a GM example, not a date for the campaign; the month is not given).
 - Alexandrian, the first or second team's directive: **[PDF image]** as quoted in A4 — `sources/6. Faction Response Teams.pdf`, printed p.54 [PDF p.6]. Its routing: `campaign/guides/factions/09-xanathars-guild.md:7`.
-- Alexandrian, Noska's notes on the team order: `campaign/setting/notable-figures/xanathars-guild/05-noska-urgray.md:22`, `:35`, `:98`.
+- Notable, Noska (parallel page), team order: `campaign/setting/notable-figures/xanathars-guild/05-noska-urgray.md:22`, `:35`, `:98`. Noska's relationships line: "**Relationships.** Noska is an enforcer of Xanathar's Guild, the third response team leader, and a shield dwarf whose crossbow-arm, rust monster pet, and bathtub bed constitute a complete portrait of his priorities." (`campaign/setting/notable-figures/xanathars-guild/05-noska-urgray.md:76`).
 - Notable, Korgstrod (parallel page): `campaign/setting/notable-figures/xanathars-guild/10-korgstrod-uxgulm.md:5`, `:25`.
-- Notable, Noska (parallel page): `campaign/setting/notable-figures/xanathars-guild/05-noska-urgray.md:76`: "**Relationships.** Noska is an enforcer of Xanathar's Guild, the third response team leader, and a shield dwarf whose crossbow-arm, rust monster pet, and bathtub bed constitute a complete portrait of his priorities."
 
 ### E3. Wiki, the other Gorath (not this figure)
 Source: `scratchpad/wiki-xg/Gorath.txt`. The wiki's own infobox:
@@ -350,7 +351,7 @@ Edition: none printed on these lines. The citation keys are *Kara-Tur: The Easte
 ## Not found
 
 Searched for "Gorath" (and "duergar" where the team is meant) in:
-- `sources/adventure-wdh.json`: no hit for `Gorath`. "duergar" hits at lines 2784, 2786, 7126, 8288, 11983, 11987, 12015 (Zemk, the Guild duergar at the Nar'l retrieval, Korgstrod, Thorvin's workshop guard). None names Gorath. The "important underlings" list (`:15066`-`:15076`) omits him.
+- `sources/adventure-wdh.json`: no hit for `Gorath`. "duergar" hits include lines 2784, 2786, 7126, 8288, 11983, 11987 and 12015 (Zemk, the Guild duergar at the Nar'l retrieval, Korgstrod, Thorvin's workshop guard). None names Gorath. The "important underlings" list (`:15066`-`:15076`) omits him.
 - `sources/SOURCE_GUIDE.md`: no hit for `Gorath`. Lines `:29`, `:83`, `:88`, `:343` name Xanathar, duergar in the dungeon level, and the Guild's internal politics, but not Gorath.
 - `sources/Appendix_B_-_Player_Factions.md`: no hit.
 - `sources/Appendix_C_-_Player_Faction_Missions.md`: no Gorath. The only "duergar" line is `:1887` (Ahmaergo, D9).
@@ -361,8 +362,8 @@ Searched for "Gorath" (and "duergar" where the team is meant) in:
 - `docs/`: Gorath appears only in research notes and the pronouns table (E1) and in `docs/index.html` (generated; not read).
 - `.claude/skills/character-voices/voices/xanathars-guild.md`: `### Gorath` at `:191`-`:205`.
 - `scratchpad/wiki-xg/`: only `Gorath.txt` names Gorath.
-- Alexandrian PDFs read: `5. Faction Outposts.pdf` (pp.36–48, all 13 pages; Gorath not named), `6. Faction Response Teams.pdf` (pp.49–56; Gorath at p.54 [PDF p.6] and the GM tip at p.50 [PDF p.2]), `7. Other Response Teams.pdf` (pp.57–61, all 5 pages; not named), `11. Lair  Xanathar’s Lair.pdf` (pp.83–91, all 9 pages; not named; the duergar appear only as "2 duergar" at p.89 [PDF p.7] and as the stat reference "Duergar – MM p. 122" at p.91 [PDF p.9]), `17. Outpost and Lair Revelation Lists.pdf` (pp.121–124; not named), `27. Addendum A Night in Trollskull Manor.pdf` (pp.178–189; not named, the response-team section at p.188 [PDF p.11] is generic), `29. Addendum Timelines  Starting the Campaign.pdf` (pp.225–226, both pages; not named), `21. Faction Reports of the Grand Game.pdf` (pp.142–154, all 13 pages; handwritten reports; not named), `1. The Villains.pdf` (pp.13–16 of 4 read; the Xanathar section at p.15 [PDF p.3] is about Xanathar, Gorath not named).
-- **Not read page by page:** `2. Other Factions.pdf`, `3. Player Character Factions.pdf`, `4. Gralhund Villa.pdf`, `8. The Eyes of the Stone.pdf`, `9. Lair – Sea Maidens Faire.pdf`, `10. Lair  Cassalanter Villa.pdf`, `12. Lair  Zhentarim – Kolat Towers.pdf`, `13. Clues and Timelines.pdf`, `14. Finding Floon.pdf`, `15`, `16`, `18`, `19`, `20`, `22`–`26`, `28`, `30`. None of the campaign files derived from them names Gorath. Check with `pdftotext` before drawing a negative conclusion from these.
+- Alexandrian PDFs read: `5. Faction Outposts.pdf` (pp.36–48, all 13 pages; Gorath not named), `6. Faction Response Teams.pdf` (pp.49–56; Gorath at p.54 [PDF p.6] and the GM tip at p.50 [PDF p.2]), `7. Other Response Teams.pdf` (pp.57–61, all 5 pages; not named), `11. Lair  Xanathar’s Lair.pdf` (pp.83–91, all 9 pages; not named; the duergar appear only as "2 duergar" at p.89 [PDF p.7] and as the stat reference "Duergar – MM p. 122" at p.91 [PDF p.9]), `17. Outpost and Lair Revelation Lists.pdf` (pp.121–124; not named), `27. Addendum A Night in Trollskull Manor.pdf` (pp.178–189; not named, and the response-team section at p.188 [PDF p.11] is generic), `29. Addendum Timelines  Starting the Campaign.pdf` (pp.225–226, both pages; not named), `21. Faction Reports of the Grand Game.pdf` (pp.142–154, all 13 pages; handwritten reports; not named), `1. The Villains.pdf` (pp.13–16, the first four pages; the Xanathar section at p.15 [PDF p.3] is about Xanathar, and Gorath is not named there; later pages not read).
+- **Not read page by page:** `2. Other Factions.pdf`, `3. Player Character Factions.pdf`, `4. Gralhund Villa.pdf`, `8. The Eyes of the Stone.pdf`, `9. Lair – Sea Maidens Faire.pdf`, `10. Lair  Cassalanter Villa.pdf`, `12. Lair  Zhentarim – Kolat Towers.pdf`, `13. Clues and Timelines.pdf`, `14. Finding Floon.pdf`, `15. The Nimblewright Investigation.pdf`, `16. Backtracking Dalakhar  Kalain.pdf`, `18. Golorr Artifacts.pdf`, `19. The Brandath Crypts.pdf`, `20. The Vault.pdf`, `22. How the Remix Works.pdf`, `23`–`26`, `28`, `30`. None of the campaign files derived from them names Gorath. Check with `pdftotext` before drawing a negative conclusion from these.
 - `sources/Other remix files/`: see Not readable.
 
 ---
@@ -370,7 +371,7 @@ Searched for "Gorath" (and "duergar" where the team is meant) in:
 ## Not readable
 
 - `sources/Other remix files/*.docx` were not opened (no tool for .docx). `sources/SOURCE_GUIDE.md` lists an NPC guide for the Waterdavian's notes that may name Gorath: "The Waterdavian's Guide to Waterdeep NPCs (my notes of a bunch of NPCs all in one place, before I made the more cleaned up NPC Guides).docx" (`sources/SOURCE_GUIDE.md:695`). It is a "Broad NPC reference", so it might hold Gorath. The drafter should extract it and check it for "Gorath" before writing the Background. No other .docx in the guide names Xanathar's Guild.
-- **[PDF image] quotes:** every PDF quote above was read from the rendered page image (no text layer). Run `pdftotext -layout` on `5. Faction Outposts.pdf`, `6. Faction Response Teams.pdf`, `11. Lair  Xanathar’s Lair.pdf`, `17. Outpost and Lair Revelation Lists.pdf` and `27. Addendum A Night in Trollskull Manor.pdf` before any quote goes into prose.
+- **[PDF image] quotes:** every PDF quote above was read from the rendered page image (no text layer). Run `pdftotext -layout` on `5. Faction Outposts.pdf`, `6. Faction Response Teams.pdf`, `11. Lair  Xanathar’s Lair.pdf`, `17. Outpost and Lair Revelation Lists.pdf`, `27. Addendum A Night in Trollskull Manor.pdf` and `29. Addendum Timelines  Starting the Campaign.pdf` before any quote goes into prose.
 - `Gorathil` (the other wiki page the caller named) is not in `scratchpad/wiki-xg/`, so it was not read.
 
 ## Not run
