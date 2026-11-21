@@ -246,7 +246,7 @@ Campaign: no file mentions the familiar. The page omits it.
 
 **Keln Trigos and Ahmaergo**: see A3, `campaign/guides/factions/09-xanathars-guild.md:29` and `:43`.
 
-**Ott Steeltoes**: no link to Grinda in any file. The page of Ott's own Notable Figures entry does not name her, and no Notable Figures page names her except Noska's (E5).
+**Ott Steeltoes**: no link to Grinda in any file found. A grep of `campaign/` for "Grinda" and "Garloth" returns no Ott line, and no Notable Figures page other than Grinda's and Noska's names her (E5).
 
 **Obliteros (shark)** and **Zelifarn (dragon)**: see A2 and A4.
 
