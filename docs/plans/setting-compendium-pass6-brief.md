@@ -27,7 +27,7 @@ Today a page is: H1, Gamemaster's Summary, Roleplaying Information, Character In
 5. `## Personality`: what the world sees, in plain words, built from the old Persona and Overview. Major NPCs get a full section; minor NPCs get two or three sentences.
 6. `## Connections`: who the figure answers to, who answers to it and who it dislikes, as day-one facts. Major NPCs get a bulleted list with bold names; minor NPCs get one line.
 7. `## Overview`: the player-safe public face, two to four sentences, 21 words or fewer each, no punchline closer, nothing about the Stone, the Eyes, the vault or a secret allegiance.
-8. The GM block: `## Roleplaying Information` and `## Character Information`, moved verbatim (see ruling 3), then `#### Secret` only where a hidden fact changes play.
+8. The GM block: `## Roleplaying Information` (Resonance, Emotions, Motivations, Inspirations, then `### Voice` from the figure's profile; see ruling 16) and `## Character Information`, moved verbatim (see ruling 3), then `#### Secret` only where a hidden fact changes play.
 9. `**Tone:**`, then `---`, `## Source References`, `## Cross-References` (bold names only), one `> [!gamemaster]**Draft Notes**` callout with Research, Conflicts, Settled and Routed to quests bullets.
 
 ## Rulings and calls (the main session made these; they bind every page)
@@ -47,6 +47,7 @@ Today a page is: H1, Gamemaster's Summary, Roleplaying Information, Character In
 13. **Line citations are fragile.** Cite a page and section name in new work.
 14. **Final prose is in universe.** Source References, Draft Notes and `[research]` tags are scaffolding for the later prose pass.
 15. **Background (user, Session 53).** "We also need a background/history section for each npc there. Where one exists, use it. If NPC is created, create one. If NPC doesn't have much, expand it so it makes sense." Every page gets a `## Background` of day-one history (campaign-start rule: nothing from quest time). Where a history exists (a Villains page `## Background`, the old Persona, Relationships or Overview), move it verbatim. Where it is thin, expand it from the research bundles in `sources/research/`, then the adventure files and Alexandrian PDFs, then the wiki. A modest inference that makes the history cohere carries `[research]`; an invented plot fact is never allowed. A page created later is born with a Background. Report what was moved and what was added.
+16. **Voice (user, Session 53).** "RP Guidance should also hold Voice information." The page keeps the heading `## Roleplaying Information` and adds `### Voice` after Inspirations, copied verbatim from the figure's profile in `.claude/skills/character-voices/voices/<group>.md`: the italic tagline, then Sound, Sentence shape, Word choice, Swearing, Personality in speech, Quirks, Signature phrases, Never and Sample lines. The Swearing line stays (adult table, real profanity in speech). A quest-time clause in a profile gets the same day-one restatement as ruling 3; change the skill's profile to match and report each change. A figure with no profile gets one drafted in the same format by the rules in the `character-voices` skill, and the report says so. Xanathar is "it" in narration, never in a figure's speech tag.
 
 ## Inputs
 

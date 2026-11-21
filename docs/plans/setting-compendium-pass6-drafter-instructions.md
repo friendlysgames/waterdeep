@@ -5,6 +5,7 @@ Binding for every `prose-drafter` agent drafting a Pass 6 page. Read `setting-co
 ## Inputs
 
 - The target file (path in your task): its old text moves into the new shape.
+- The figure's voice profile in `.claude/skills/character-voices/voices/<group>.md` (brief ruling 16).
 - Your research note in `docs/plans/setting-compendium-research-notes/pass6/<folder>/<page>.md`, the faction's organization page, the Villains page where one exists, the Factions Guide page and the quest events named in the summary. The notes are Haiku output and a few quotes are misplaced: open the cited file and line before you use a name, date, alignment or pronoun.
 
 ## Work order
@@ -13,6 +14,7 @@ Binding for every `prose-drafter` agent drafting a Pass 6 page. Read `setting-co
 2. Move text first, then add. Roleplaying Information and Character Information keep their wording except for retargets, the rulings in the brief and the removal of quest-time lines. Diff your result against the old page and check that every other sentence survived.
 3. Draft the name tag, Background, Personality and Connections from the old Persona, Relationships and Overview and from the notes. Each new claim takes a source or `[research]`.
 3a. Background (brief ruling 15): move an existing history verbatim, expand a thin one from the bundles, adventure files, Alexandrian PDFs and wiki, tag any inference `[research]`, and report what was moved and what was added. Day-one history only.
+3b. Voice (brief ruling 16): copy the figure's profile into `### Voice` under Roleplaying Information, restate any quest-time clause as a day-one fact, and report each change so the main session can update the skill's profile to match. If no profile exists, draft one in the same format and say so.
 4. Write the Overview last, from the public facts only.
 5. Fill Source References with files and lines for campaign sources, and with the page title and edition for wiki sources. Fill Draft Notes with Research, Conflicts, Settled and Routed to quests.
 

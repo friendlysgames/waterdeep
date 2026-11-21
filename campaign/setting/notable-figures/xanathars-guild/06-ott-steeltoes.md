@@ -52,6 +52,23 @@ Ott Steeltoes is a dwarf of Xanathar's Guild who tends Sylgar, the goldfish that
 
 **Inspirations.** When playing Ott, channel Wormtail (*Harry Potter*), Gollum (*The Lord of the Rings*, the devoted caretaker), and Smithers (*The Simpsons*).
 
+### Voice
+
+*A frightened, fish-obsessed cultist in an eyestalk hat who'll tell you everything once he trusts you.*
+
+- **Sound:** A reedy, nervous dwarven voice that squeaks when stressed.
+- **Sentence shape:** Rushed, anxious rambling full of fish details, and then, once he trusts you, a flood of precise intelligence.
+- **Word choice:** Fish-keeping (water temperature, feeding schedules), with Zuggtmoy's fungal piety muttered under it. He calls Xanathar "the Master" in terror, and Sylgar "the little lord".
+- **Swearing:** *Casual · Plain · Phrase.* Frightened little curses ("Oh shit, oh shit, the water's too cold").
+- **Personality in speech:** Low-grade terror and absurd pride. He's convinced every Sylgar will be the one that dies on his watch. His Zuggtmoy devotion comes out as mushroom-flavoured calm. His relief when someone who is not from Xanathar shows up is gushing.
+- **Quirks:** He adjusts the eyestalk hat when nervous. He tries to "send" thoughts to Xanathar, visibly straining. He knows the fishbowl's weight exactly.
+- **Signature phrases:** "The little lord's fine, he's fine, he's fine." / "Six thousand pounds, that bowl." / "Zuggtmoy keep me."
+- **Never:** He never admits to replacing a fish, never harms Sylgar, and never stays loyal once someone offers a way out.
+- **Sample lines:**
+  - *Greeting:* "You're not from the Master? Oh, thank the Lady of Rot. Is the little lord alright? Is he swimming?"
+  - *Business:* "Guard change is third bell, two beholder-kin on the north stair, and the bowl weighs six thousand pounds, don't try to move it."
+  - *Under pressure:* "Oh shit, oh shit, he'll blame me, he always blames me!"
+
 ## Character Information
 
 **Persona.** To the world, Ott Steeltoes is the dwarf with the beholder-eyestalk hat who tends the fish and sleeps under the bowl. To anyone he trusts, he is terrified, forthcoming, and full of accurate information about Xanathar's Lair — including guard schedules, trap locations, and the fact that the large fishbowl weighs 6,000 pounds. Deep down, he has known for years that Xanathar will eventually blame him for something, and he is increasingly grateful to anyone who provides a reasonable exit.
@@ -114,4 +131,5 @@ Ott Steeltoes is a dwarf of Xanathar's Guild who tends Sylgar, the goldfish that
 > - **Routed to quests:** Ott in the Lair (`campaign/structure/arc-f-xanathars-lair.md:339`) and the patron row "Xanathar's Lair | Ott Steeltoes" (`guides/trollskull-manor/06-tavern-time.md:46`).
 > - **Changed sentences:** Four clauses in the verbatim blocks were restated as day-one facts. Resonance: "and unexpected usefulness once rescued" became "and unexpected usefulness, because he knows the Lair well and shares what he knows with anyone he trusts". Persona: "To those who free him from the Interrogation House, he is grateful, terrified, and full of accurate information" became "To anyone he trusts, he is terrified, forthcoming, and full of accurate information". Relationships: "a Zhentarim prisoner at the Interrogation House, " was removed, and "for anyone who rescues him and asks the right questions about the Lair" became "for anyone he trusts who asks the right questions about the Lair".
 > - **Stale lines in other files, not edited:** `notable-figures/manshoons-zhentarim/06-avareen-windrivver.md:25` calls Avareen "Ott Steeltoes's current jailer". `deities/maglubiyet.md:121` names Ott as "the fishkeeper the bugbears hunt in **Three Nights**". `organizations/08-xanathars-guild.md:191` cites this page's old lines 21 and 25, which have moved. `campaign/quests/faction-events/bregan-daerthe/m03-three-nights/` says "dried" eyestalks.
+> - **Voice:** Moved from `.claude/skills/character-voices/voices/xanathars-guild.md` (Ott Steeltoes). Restated as day-one facts, here and in the voice doc: the tagline ("if you get him out" became "once he trusts you"), Sentence shape ("once rescued, a flood of precise, grateful intelligence" became "once he trusts you, a flood of precise intelligence"), Personality in speech ("His relief at rescue is gushing" became "His relief when someone who is not from Xanathar shows up is gushing", matching Emotions), and "the Xanathar" became "Xanathar" in Word choice and Quirks. "Never stays loyal once someone offers a way out" is an attitude, not a quest event, and stays. The Business sample line ("Guard change is third bell, two beholder-kin on the north stair") is unsourced, like "guard schedules, trap locations" in Persona `[research]`.
 > - **Not run:** `voicecheck.py` has not been run on this page.

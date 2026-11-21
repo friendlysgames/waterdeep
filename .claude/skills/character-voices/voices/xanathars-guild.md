@@ -99,14 +99,14 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 ---
 
 ### Ott Steeltoes
-*A frightened, fish-obsessed cultist in an eyestalk hat who'll tell you everything if you get him out.*
+*A frightened, fish-obsessed cultist in an eyestalk hat who'll tell you everything once he trusts you.*
 
 - **Sound:** A reedy, nervous dwarven voice that squeaks when stressed.
-- **Sentence shape:** Rushed, anxious rambling full of fish details, and then, once rescued, a flood of precise, grateful intelligence.
-- **Word choice:** Fish-keeping (water temperature, feeding schedules), with Zuggtmoy's fungal piety muttered under it. He calls the Xanathar "the Master" in terror, and Sylgar "the little lord".
+- **Sentence shape:** Rushed, anxious rambling full of fish details, and then, once he trusts you, a flood of precise intelligence.
+- **Word choice:** Fish-keeping (water temperature, feeding schedules), with Zuggtmoy's fungal piety muttered under it. He calls Xanathar "the Master" in terror, and Sylgar "the little lord".
 - **Swearing:** *Casual · Plain · Phrase.* Frightened little curses ("Oh shit, oh shit, the water's too cold").
-- **Personality in speech:** Low-grade terror and absurd pride. He's convinced every Sylgar will be the one that dies on his watch. His Zuggtmoy devotion comes out as mushroom-flavoured calm. His relief at rescue is gushing.
-- **Quirks:** He adjusts the eyestalk hat when nervous. He tries to "send" thoughts to the Xanathar, visibly straining. He knows the fishbowl's weight exactly.
+- **Personality in speech:** Low-grade terror and absurd pride. He's convinced every Sylgar will be the one that dies on his watch. His Zuggtmoy devotion comes out as mushroom-flavoured calm. His relief when someone who is not from Xanathar shows up is gushing.
+- **Quirks:** He adjusts the eyestalk hat when nervous. He tries to "send" thoughts to Xanathar, visibly straining. He knows the fishbowl's weight exactly.
 - **Signature phrases:** "The little lord's fine, he's fine, he's fine." / "Six thousand pounds, that bowl." / "Zuggtmoy keep me."
 - **Never:** He never admits to replacing a fish, never harms Sylgar, and never stays loyal once someone offers a way out.
 - **Sample lines:**
