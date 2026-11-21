@@ -117,21 +117,20 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 ---
 
 ### Thorvin Twinbeard
-*An irritable dwarf engineer who hates his work and has been waiting three years for someone to tell.*
+*An irritable dwarf engineer who hates his work and has kept a Harper secret for three years.*
 
 - **Sound:** A gruff, grumbling dwarven voice that drops to a hurried whisper around the gazer.
-- **Sentence shape:** Short, irritable brush-offs in public. In private, rushed technical instructions, precise and grateful.
+- **Sentence shape:** Short, irritable brush-offs in public. In private, rushed technical talk, precise and low.
 - **Word choice:** Engineering: tolerances, pressure, "load", "smokepowder". Harper code words when safe. He calls his creations "the damned things".
 - **Swearing:** *Casual · Pearls · Phrase.* Mostly dwarven grumbling, then a gem: "I've built things for gods-cursed madmen before, but never one who'd wear the result as a hat."
-- **Personality in speech:** Stressed and reluctant. His engineering pride sneaks through even about terrible machines. Hope makes him talk fast.
+- **Personality in speech:** Stressed and reluctant. His engineering pride sneaks through even about terrible machines. Fear of the gazer makes him talk fast.
 - **Quirks:** He glances at the gazer and changes the subject mid-sentence. He calls the pulverizer "unfinished", pointedly.
-- **Signature phrases:** "No questions." / "Unfinished. Deliberately." / "Place it there, and run."
-- **Never:** He never finishes the pulverizer, never talks openly with the gazer present, and never stays for the explosion.
+- **Signature phrases:** "No questions." / "Unfinished. Deliberately."
+- **Never:** He never finishes the pulverizer, never talks openly with the gazer present, and never stays to die for his employer.
 - **Sample lines:**
   - *Greeting:* "No questions. I don't answer questions. Go away."
-  - *Business (privately):* "Nar'l hid the smokepowder behind the third cistern. Put it against the north pillar, and you'll bring the whole damned hall down."
-  - *Under pressure:* "That's my cue. Good luck, and fuck this place."
-
+  - *Business (privately):* "Maintenance inspection, upper level. Yes, again. The damned things don't oil themselves, and I'll thank you to keep your voice down while that thing's floating about."
+  - *Under pressure:* "I'm not dying for that thing. I'm up those stairs, and fuck whatever it builds next."
 ---
 
 ### Keln Trigos
