@@ -14,8 +14,8 @@ Method and caveats:
 
 ## Key findings for the drafter
 
-- **The "Tier 1 outpost keeper" label has no source.** It appears only on the target page at line 25. No file uses "Tier 1" for an outpost or a person. In the campaign, "Tier" numbers the escalation tiers and starts at 2 (Suspicious), 3 (Alert) and 4 (Lockdown) (`campaign/structure/arc-e-faction-outposts.md:155`, `:171`, `:213`; `campaign/guides/factions/10-manshoons-zhentarim.md:31`). The Unaware tier has no number in `campaign/guides/gm-guide/running-the-villains.md:47`. The word "keeper" came from an older Guild page Contacts line that said "(outpost keepers)" (see E2). The current Guild page no longer uses it.
-- **Day-one core, supported by three campaign files and the Alexandrian PDF:** Keln is a tiefling priest, neutral evil, who runs the Terasse Estate, a rowhouse on Elsambul's Lane in the Castle Ward. The estate offers healing behind a passphrase and is also a gladiatorial gathering point. The campaign and the PDF agree on this.
+- **The "Tier 1 outpost keeper" label has no source.** It appears only on the target page at line 25. No file uses "Tier 1" for an outpost or a person. In the campaign, "Tier" numbers the escalation tiers and starts at 2 (Suspicious), 3 (Alert) and 4 (Lockdown) (`campaign/structure/arc-e-faction-outposts.md:155`, `:171`, `:213`; `campaign/guides/factions/10-manshoons-zhentarim.md:31`). The Unaware tier has no number in `campaign/guides/gm-guide/running-the-villains.md:47`. An older Guild page Contacts line also used the words "(outpost keepers)" (quoted at E2). The current Guild page no longer uses them.
+- **Day-one core, supported by the campaign files and the Alexandrian PDF:** Keln is a tiefling priest, neutral evil, who runs the Terasse Estate, a rowhouse on Elsambul's Lane in the Castle Ward. The estate offers healing behind a passphrase and is also a gladiatorial gathering point. The campaign and the PDF agree on this.
 - **Quest-time material on the page:** the "outpost keeper" and "Tier 1" label, the Morale line that has Keln send a message to Xanathar (this is the Faction Outposts Getaway step, `campaign/structure/arc-e-faction-outposts.md:155`), and the "gladiatorial transport route" manager line (no source gives Keln that role; see D6).
 
 ---
@@ -38,13 +38,13 @@ No Keln-specific entry. The general membership test is the only sourced route:
 > "- **Crime Is the Entry Fee:** Anyone can join, but an applicant must first pass a test that always involves a serious crime. The crime might be murdering a member who failed Xanathar, kidnapping a Waterdhavian, collecting a ransom or looting a warehouse. After that, advancement depends on wiles and on the ability to dispose of rivals, and the competition is fierce and often deadly."
 > — `campaign/setting/organizations/08-xanathars-guild.md:32`
 
-The published ranks are listed as "Eyestalker, Agent of the Eye, Eye Ray, Guild Boss and Hand of the Eye" (`campaign/setting/organizations/08-xanathars-guild.md:45`). Keln is not placed on the ladder anywhere.
+The published ranks are listed as "The published ranks for members, from lowest to highest, are Eyestalker, Agent of the Eye, Eye Ray, Guild Boss and Hand of the Eye" (`campaign/setting/organizations/08-xanathars-guild.md:45`). Keln is not placed on the ladder anywhere.
 
 Role labels, by source:
-> "- **Keln Trigos** (priest) + 2 **guards** + 3 Guild agents (**thug** stat block)."
-> — `campaign/guides/factions/09-xanathars-guild.md:33` (Roster, Terasse Estate)
+> "***Roster.*** Keln Trigos (**priest**) + 2 **guards** + 3 Guild agents (**thug** stat block)."
+> — `campaign/guides/factions/09-xanathars-guild.md:33` (Terasse Estate entry, Roster)
 
-> "**Keln Trigos (priest)**" is not used in full; the phrase is: "Step 5 — Getaway. Keln Trigos (priest) and his guards raise the alarm when any objective area is breached"
+> "*Step 5 — Getaway.* Keln Trigos (priest) and his guards raise the alarm when any objective area is breached: the trap door seals from below, the front door bars, and a flying snake courier carries word to the Lair."
 > — `campaign/structure/arc-e-faction-outposts.md:155` (Faction Outposts, Step 5; quest-state, see C)
 
 > "It is occupied by a Xanatharian operative named Keln Trigos, a tiefling **priest** (MM p. 348)."
@@ -73,7 +73,7 @@ Guild organization page:
 
 Factions Guide, Terasse Estate entry:
 > "A modest rowhouse secretly owned by Xanathar, the Terasse Estate operates on two levels — both under the same roof, both accessible by passphrase, and neither officially connected. Keln Trigos runs a healing operation for Guild agents on the upper floors. Below it, the estate serves as one of Waterdeep's gladiatorial gathering points: those who want to attend the fights in Xanathar's Lair report here; staff ply them with exotic food, then blindfold them and escort them through an underground dock to caverns near Skullport."
-> — `campaign/guides/factions/09-xanathars-guild.md:21` (rest of the Terasse entry covers the Areas; see A4 and A6)
+> — `campaign/guides/factions/09-xanathars-guild.md:21` (the rest of the Terasse entry covers the Areas; see A4 and A6)
 
 Alexandrian, printed p.42 [PDF p.7]:
 > "TERASSE ESTATE (Castle Ward, Elsambul's Lane): The Terasse Estate is a modest rowhouse residence in the Castle Ward which is secretly owned by Xanathar. It is occupied by a Xanatharian operative named Keln Trigos, a tiefling **priest** (MM p. 348). Keln sometimes provides healing services to injured Xanatharians, but the house is more notable because it's a designated gladiatorial gathering point: Those who wish to attend the gladiatorial combats in Xanathar's Lair must go to one of these gathering points (there are several throughout the city, some heading through the sewers to X1, others following the route described below) in order to be escorted, as a group, to the games (and back)."
@@ -85,7 +85,7 @@ Factions Guide, Area 1:
 > "**Area 1 — Front Door.** Two passphrases control entry. For healing services: "I heard the red hand was hot." For gladiatorial gatherings: "the bawdy star shines bright tonight.""
 > — `campaign/guides/factions/09-xanathars-guild.md:23`
 
-Structure doc, Step 2 and 3:
+Structure doc, Step 2:
 > "*Step 2 — Case the Target.* A modest, unremarkable rowhouse. Two kinds of visitors come: those seeking healing (legitimate front), and those attending gladiatorial events in Xanathar's Lair. Two passphrases control entry: "I heard the red hand was hot" accesses the healing operation; "the bawdy star shines bright tonight" gets a guest past the front rooms."
 > — `campaign/structure/arc-e-faction-outposts.md:149`
 
@@ -108,7 +108,7 @@ Keln is not in `campaign/setting/deities/` (no hit). Grep for Keln across `campa
 
 Alexandrian, Areas 3, 4 and 6-7 (printed pp.42-43 [PDF pp.7-8]):
 > "Area 3 – Kitchen: A large rug of reddish scales covers the floor here. This can be thrown back to reveal a trap door with a narrow staircase leading down to an underground dock. Those heading to the gladiatorial gatherings will be blindfolded before being led down the stairs, and the blindfolds will remain in place until the boat arrive at another secret dock in the caverns near Skullport. This dock connects to a passage which intersects the one leading from Area X4 of Xanathar's Lair to the Guts & Garter in Skullport."
-> — `sources/5. Faction Outposts.pdf`, printed p.42 [PDF p.7] / printed p.43 [PDF p.8] (transcribed from image)
+> — `sources/5. Faction Outposts.pdf`, printed p.42 [PDF p.7] / printed p.43 [PDF p.8] (transcribed from image; the Area 3 entry is on printed p.43)
 
 > "Area 4 – Storeroom: Trigost's larder and healing supplies."
 > — Alexandrian, printed p.43 [PDF p.8] (the source spells the name "Trigost's")
@@ -167,13 +167,15 @@ Ahmaergo's role on the Guild page:
 > "**Gladiatorial fights.** The arena in the lair holds tournaments before an audience, and the Terasse Estate is one of the places where that audience gathers. The games continue because the arena revenue continues (see GM Notes)."
 > — `campaign/setting/organizations/08-xanathars-guild.md:73`
 
-**Vosk** (a Guild spy whose report reaches Keln; quest text, see D2 and E5):
+**Vosk** (a Guild spy whose report reaches Keln; quest text, see D2 and D9):
 > "Unknown to Maxeene — and to the party, unless they notice — a Xanathar Guild **Spy** named Vosk has been watching Maxeene for the past three days."
 > — `sources/Appendix_C_-_Player_Faction_Missions.md:110` (Arc H-1, Scene 5)
 
 **Harko** (a cipher note from a Guild courier, "K"; quest text):
-> "**Harko's Coat.** In the inside left pocket is a folded note written in Xanathar Guild cipher. ... reference a Guild contact by the letter K, meeting "at the eastern staircase" at a time that is two days away. K is Keln Trigos, based at the Terasse Estate on Elsambul's Lane."
-> — `sources/Appendix_C_-_Player_Faction_Missions.md:519` (Arc LA-2, "Finding Harko"; the decoded note is quest content)
+> "**Harko's Coat.** In the inside left pocket is a folded note written in Xanathar Guild cipher."
+> — `sources/Appendix_C_-_Player_Faction_Missions.md:519` (Arc LA-2, "Finding Harko")
+> "The decoded contents identify two upcoming "disruption targets" — a specific intersection in the Trades Ward and a named warehouse in the Dock Ward — and reference a Guild contact by the letter K, meeting "at the eastern staircase" at a time that is two days away. K is Keln Trigos, based at the Terasse Estate on Elsambul's Lane."
+> — same line `:519` (the decoded note is quest content; the sentence about the decoded contents is the second quote)
 
 No source links Keln to Nar'l Xibrindas, Nihiloor, Ott Steeltoes, Thorvin Twinbeard or Noska Ur'gray. Searched by folder: `campaign/setting/notable-figures/xanathars-guild/` names Keln only in its own page and in `02-ahmaergo.md:134` (routed).
 
@@ -181,7 +183,7 @@ No source links Keln to Nar'l Xibrindas, Nihiloor, Ott Steeltoes, Thorvin Twinbe
 
 The published adventure gives the lair's entrance as the Castle Ward sewer staircase and does not name the estate:
 > "Bregan D'aerthe knows that the safest route to the beholder's lair is a secret staircase in the sewers of the Castle Ward."
-> — `sources/adventure-wdh.json:15149` (rest of the line covers Nar'l and the Bregan D'aerthe source; the grep output cut the line's opening)
+> — `sources/adventure-wdh.json:15149` (the same JSON string continues with Nar'l and the Bregan D'aerthe source; the grep output cut the line's opening)
 
 > "Characters are most likely to enter {@creature Xanathar|WDH}'s lair by this route: a spiral staircase accessible from the Castle Ward's sewers and hidden behind a secret door."
 > — `sources/adventure-wdh.json:17063`
@@ -219,10 +221,10 @@ The published adventure gives the lair's entrance as the Castle Ward sewer stair
 
 **Stat block: Priest** (label consistent; edition unclear)
 - Current page: "Stat block: **Priest**." — `08-keln-trigos.md:5`
-- Factions Guide: "Keln Trigos (**priest**) + 2 **guards** + 3 Guild agents (**thug** stat block)." — `campaign/guides/factions/09-xanathars-guild.md:33`
+- Factions Guide: "***Roster.*** Keln Trigos (**priest**) + 2 **guards** + 3 Guild agents (**thug** stat block)." — `campaign/guides/factions/09-xanathars-guild.md:33`
 - Structure doc: "Keln Trigos (priest)" — `campaign/structure/arc-e-faction-outposts.md:155`
 - Alexandrian: "a tiefling **priest** (MM p. 348)" — printed p.42 [PDF p.7]. The source prints "MM" with no edition. The orchestrator should confirm which Monster Manual page 348 belongs to before the stat block is cited.
-- The Lair PDF's stat reference (printed p.91 [PDF p.9]) does not list the priest. Its list is "Ahmaergo – DH p. 193 ... Ott Steeltoes – dwarf cultist, MM p. 345 (DH p. 214)" and does not include Keln.
+- The Lair PDF's stat reference (printed p.91 [PDF p.9]) does not list the priest. Its list includes "Ott Steeltoes – dwarf cultist, MM p. 345 (DH p. 214)" and does not include Keln.
 
 **Affiliation: Xanathar's Guild** (no conflict)
 - Current page: "**Affiliation:** Xanathar's Guild" — `08-keln-trigos.md:6`
@@ -242,18 +244,18 @@ Current page: `campaign/setting/notable-figures/xanathars-guild/08-keln-trigos.m
 |---|---|---|---|---|
 | 1 | L5 | "*Tiefling priest (Xanathar's Guild), neutral evil, he/him*. Stat block: **Priest**." | Day-one. Consistent (B). | `08-xanathars-guild.md:107`; `castle-ward.md:85`; Alexandrian p.42 |
 | 2 | L6 | "**Affiliation:** Xanathar's Guild" | Day-one. | `08-xanathars-guild.md:107` |
-| 3 | L7 | "**Featured in:** **Faction Outposts**, **Xanathar's Lair**" | Quest references. Faction Outposts: `campaign/structure/arc-e-faction-outposts.md:143` to `:157` (4A). Xanathar's Lair: `campaign/structure/arc-f-xanathars-lair.md:337` (Scene 4, the Terasse outpost) and `:339` (Notable Figures list). Keln does not appear in the Lair PDF text or rosters (printed pp.83 to 91 read). See D9. | as stated |
+| 3 | L7 | "**Featured in:** **Faction Outposts**, **Xanathar's Lair**" | Quest references. Faction Outposts: `campaign/structure/arc-e-faction-outposts.md:143` to `:157` (4A). Xanathar's Lair: `campaign/structure/arc-f-xanathars-lair.md:337` (Scene 4, the Terasse outpost) and `:339` (Notable Figures list). Keln does not appear in the Lair PDF text or rosters (printed pp.83 to 91 read). See D8. | as stated |
 | 4 | L11 | "**Resonance.** Keln should inspire surface comfort with his healer's professional warmth; growing unease as the clinic's real purpose becomes clear; and cold realization that the blindfolded guests never ask where they are going." | Day-one. "blindfolded guests" is in the Factions Guide. | `campaign/guides/factions/09-xanathars-guild.md:21`; Alexandrian p.43 (Area 3) |
-| 5 | L13 | "**Emotions.** Keln most often feels efficient professional pride, the specific calm of someone who has decided knowing less is safer, practical care for the patients he actually heals, and clinical indifference to what happens after they leave his care." | Day-one. RP text, no source needed beyond the role. | `castle-ward.md:85` ("runs it and asks no questions about how his patients were hurt") |
+| 5 | L13 | "**Emotions.** Keln most often feels efficient professional pride, the specific calm of someone who has decided knowing less is safer, practical care for the patients he actually heals, and clinical indifference to what happens after they leave his care." | Day-one. RP text; the clinic's no-questions stance is sourced. | `castle-ward.md:85` ("runs it and asks no questions about how his patients were hurt") |
 | 6 | L15 | "**Motivations.** Keln wants to run the Terasse Estate operation smoothly, provide Xanathar with a reliable healing and transport service, and avoid becoming interesting to anyone with authority." | Day-one for the estate and healing. "transport service" is not Keln's role in any source (D6). | `campaign/guides/factions/09-xanathars-guild.md:21` (blindfolding is done by "staff") |
 | 7 | L17 | "**Inspirations.** When playing Keln, channel Nucky Thompson (*Boardwalk Empire*), Dr. Jacoby (*Twin Peaks*, the professional with a sideline), and the coroner in any crime procedural who is more helpful than he ought to be." | Not a fact. Keep as the GM block. | n/a |
 | 8 | L21 (a) | "**Persona.** To the world, Keln Trigos runs a quiet healing operation in a Castle Ward rowhouse and asks no questions about how you got hurt." | Day-one. | `castle-ward.md:85` |
 | 9 | L21 (b) | "To those who know the passphrases, the building runs two entirely separate services that have never been officially linked, and both function without incident." | Day-one in substance. "never been officially linked" paraphrases "neither officially connected". | `campaign/guides/factions/09-xanathars-guild.md:21` ("both accessible by passphrase, and neither officially connected") |
 | 10 | L21 (c) | "Deep down, he has worked for Xanathar long enough to understand what happens to people the Guild stops using, and he is therefore very reliable." | Day-one attitude. The basis ("what happens to people the Guild stops using") has a partial source; "long enough" has none. | `campaign/setting/organizations/08-xanathars-guild.md:34` ("Underlings Are Disposable"); no source for his tenure (F4, F9) |
-| 11 | L23 (a) | "In a fight, Keln uses priestly spells to hold ground, calls his guards, and sends a message to Xanathar." | Mixed. "calls his guards" is the Factions Guide roster (2 guards). "sends a message to Xanathar" is the Faction Outposts Getaway, a quest-state breach response. "priestly spells" has no source. | Guards: `campaign/guides/factions/09-xanathars-guild.md:33`. Message: `campaign/structure/arc-e-faction-outposts.md:155` ("a flying snake courier carries word to the Lair"). Spells: none (F7). |
+| 11 | L23 (a) | "In a fight, Keln uses priestly spells to hold ground, calls his guards, and sends a message to Xanathar." | Mixed. "calls his guards" follows the Factions Guide roster (2 guards). "sends a message to Xanathar" is the Faction Outposts Getaway, a quest-state breach response. "priestly spells" has no source. | Guards: `campaign/guides/factions/09-xanathars-guild.md:33`. Message: `campaign/structure/arc-e-faction-outposts.md:155` ("a flying snake courier carries word to the Lair"). Spells: none (F7). |
 | 12 | L23 (b) | "He does not run — the building is his responsibility." | No source. | none (F8) |
-| 13 | L25 (a) | "**Relationships.** Keln is the Tier 1 outpost keeper of Xanathar's Guild (Terasse Estate, Elsambul's Lane, Castle Ward)," | "Tier 1" is unsourced (Key findings; D1). "outpost keeper" is an old Guild Contacts label (E2). The estate, lane and ward are day-one (B, A3). | `castle-ward.md:90` ("keeps the Terasse outpost"); `08-xanathars-guild.md:55` |
-| 14 | L25 (b) | "the manager of the gladiatorial transport route (healing services and Lair access under the same roof)," | Quest-adjacent and unsourced for Keln. The Factions Guide gives the blindfolding to "staff". "healing services and Lair access under the same roof" paraphrases the Factions Guide's "both under the same roof". | `campaign/guides/factions/09-xanathars-guild.md:21` ("both under the same roof"; "staff ply them ... then blindfold them"); D6 |
+| 13 | L25 (a) | "**Relationships.** Keln is the Tier 1 outpost keeper of Xanathar's Guild (Terasse Estate, Elsambul's Lane, Castle Ward)," (line 25 continues in rows 14 and 15) | "Tier 1" is unsourced (Key findings; D1). "outpost keeper" is an old Guild Contacts label (E2). The estate, lane and ward are day-one (B, A3). | `castle-ward.md:90` ("keeps the Terasse outpost"); `08-xanathars-guild.md:55` |
+| 14 | L25 (b) | "the manager of the gladiatorial transport route (healing services and Lair access under the same roof)," | Quest-adjacent and unsourced for Keln. The Factions Guide gives the blindfolding to "staff". "healing services and Lair access under the same roof" paraphrases the Factions Guide's "both under the same roof". | `campaign/guides/factions/09-xanathars-guild.md:21` ("both under the same roof"; "staff ply them with exotic food, then blindfold them"); D6 |
 | 15 | L25 (c) | "and the keeper of two passphrases that access very different services." | Day-one. The passphrases are the estate's. "keeper" is the gazetteer's word for holding them ("He holds two passphrases"). | `castle-ward.md:90`; `campaign/guides/factions/09-xanathars-guild.md:23` (two services, D4) |
 | 16 | L29 | "Keln Trigos runs a quiet healing clinic in a Castle Ward rowhouse, offering professional medical care with no questions asked about how you got hurt." | Day-one. Overview is 25 words; the brief caps it at 21 (drafter). | `castle-ward.md:85` |
 
@@ -280,7 +282,7 @@ The profile has no "Tier", no breach, no capture and no Event Outcome. No profil
 - Operative: "a Xanatharian operative named Keln Trigos" — Alexandrian printed p.42 [PDF p.7]
 - Lieutenant: "a Xanathar Guild lieutenant named Keln Trigos" — `sources/Appendix_C_-_Player_Faction_Missions.md:116` (quest text, Arc H-1)
 - Guild contact: "Keln Trigos (Guild contacts in the city)" — `campaign/setting/organizations/08-xanathars-guild.md:8`
-- Higher source: the campaign (priest, `:107` and `factions/09:33`). "lieutenant" in Appendix C is a quest mission's aside; the orchestrator decides whether it matters.
+- Higher source: the campaign (priest, `08-xanathars-guild.md:107` and `factions/09-xanathars-guild.md:33`). "lieutenant" in Appendix C is a quest mission's aside; the orchestrator decides whether it matters.
 
 **D3. Location: Castle Ward against the Dock Ward**
 - Castle Ward: "A rowhouse on Elsambul's Lane in the Castle Ward" — `campaign/setting/organizations/08-xanathars-guild.md:55`; "(Castle Ward, Elsambul's Lane)" — `campaign/guides/factions/09-xanathars-guild.md:17`; "*Castle Ward, Elsambul's Lane.*" — `campaign/structure/arc-e-faction-outposts.md:145`; Alexandrian printed p.42 [PDF p.7]; Appendix C: "the Terasse Estate on Elsambul's Lane" — `sources/Appendix_C_-_Player_Faction_Missions.md:116`.
@@ -290,7 +292,7 @@ The profile has no "Tier", no breach, no capture and no Event Outcome. No profil
 **D4. What the passphrases open**
 - Gazetteer: "one opens the clinic's gladiator transport route, and the other opens the route to the Lair." — `campaign/gazetteer/waterdeep/castle-ward.md:90`
 - Factions Guide: "For healing services: "I heard the red hand was hot." For gladiatorial gatherings: "the bawdy star shines bright tonight."" — `campaign/guides/factions/09-xanathars-guild.md:23`
-- Structure doc: "the gladiatorial passphrase gets a guest past the front rooms" (quote in A4: "gets a guest past the front rooms") — `campaign/structure/arc-e-faction-outposts.md:149`
+- Structure doc: "gets a guest past the front rooms" (the gladiatorial passphrase, in full in A4) — `campaign/structure/arc-e-faction-outposts.md:149`
 - Alexandrian: "one for healing services ("I heard the red hand was hot") and another for the gladiatorial gatherings ("the bawdy star shines bright tonight")" — printed p.42 [PDF p.7]
 - Higher source: the Factions Guide, the structure doc and the Alexandrian agree: the second passphrase opens the gathering, not the Lair route. The gazetteer's wording is the outlier. The orchestrator decides which to follow for the page; the page's Persona (`08-keln-trigos.md:21`) follows neither exactly.
 
@@ -307,28 +309,28 @@ The profile has no "Tier", no breach, no capture and no Event Outcome. No profil
 - Alexandrian: "Those heading to the gladiatorial gatherings will be blindfolded before being led down the stairs" — printed p.43 [PDF p.8]. No named subject.
 - Guild page, current: "manages the audience that gathers there for the gladiatorial fights" — `campaign/setting/organizations/08-xanathars-guild.md:107`.
 - Guild page, Draft Notes (stale quote of an earlier Key Members line): "manages the gladiatorial audience transports to the Lair" — `campaign/setting/organizations/08-xanathars-guild.md:194`. The current line 107 no longer contains that wording. The pass5 note quoted the earlier line at `docs/plans/setting-compendium-research-notes/pass5/xanathars-guild.md:179`.
-- Higher source: the Guild page's current line 107 (campaign). It does not say he runs transports. The page's "manager of the gladiatorial transport route" is a stale wording. The Draft Notes line 194 is stale.
+- Higher source: the Guild page's current line 107 (campaign). It does not say he runs transports. The page's "manager of the gladiatorial transport route" is stale wording. The Draft Notes line 194 is stale.
 
 **D7. Where the gathering route goes (quest-state; route only, not day-one)**
 - To "caverns near Skullport": "escort them through an underground dock to caverns near Skullport" — `campaign/guides/factions/09-xanathars-guild.md:21`; Alexandrian printed p.43: "the blindfolds will remain in place until the boat arrive at another secret dock in the caverns near Skullport" [PDF p.8].
-- To "Area X4": "Optional: follow a guest being transported to the gladiatorial event. ... transported by boat to Area X4 of Xanathar's Lair." — `campaign/structure/arc-e-faction-outposts.md:153`. The Lair PDF gives the same X4 route: "(also via X4, but almost certainly arriving in X6 before you'll have a chance to slip away)" — printed p.86 [PDF p.4]. Alexandrian printed p.43 says the dock "connects to a passage which intersects the one leading from Area X4" — not the same as entering X4.
+- To "Area X4": "Optional: follow a guest being transported to the gladiatorial event." and "transported by boat to Area X4 of Xanathar's Lair." — `campaign/structure/arc-e-faction-outposts.md:153`. The Lair PDF gives the same X4 route: "(also via X4, but almost certainly arriving in X6 before you'll have a chance to slip away)" — printed p.86 [PDF p.4]. Alexandrian printed p.43 says the dock "connects to a passage which intersects the one leading from Area X4" — not the same as entering X4.
 - To "Area X1": "escorted blind to Area X1 as if attending the gladiatorial fights." — `sources/Appendix_C_-_Player_Faction_Missions.md:1877` (Arc FG-4, Force Grey M4 "Destroy the Intellect Factory", Scene 2). Alexandrian printed p.42: "some heading through the sewers to X1, others following the route described below".
 - Higher source: the Alexandrian Lair PDF (X4 for the audience route, printed p.86) and the Factions Guide (caverns near Skullport). The X1 line is in Appendix C. The orchestrator decides. The page needs only "a route to the Lair".
 
 **D8. "Lair" as a featured quest**
 - "Featured in: Faction Outposts, Xanathar's Lair" — `08-keln-trigos.md:7`
-- The Lair PDF (printed pp.83 to 91) names no Keln, no Terasse and no gathering point except "gladiatorial gathering points throughout the city" (printed p.83). The roster lists (printed pp.89 and 90) have no Keln. The only campaign support is the list at `campaign/structure/arc-f-xanathars-lair.md:339`.
+- The Lair PDF (printed pp.83 to 91) names no Keln and no Terasse. It names "gladiatorial gathering points throughout the city" (printed p.83). The roster lists (printed pp.89 and 90) have no Keln. The only campaign support is the list at `campaign/structure/arc-f-xanathars-lair.md:339`.
 
 **D9. The Vosk line in the Harpers design note**
 - "Both sources leave the watcher a minor Xanathar's Guild Spy named Vosk, who reports to Keln Trigos." — `campaign/quests/faction-events/harpers/m01-the-talking-mare/design-notes.md:5`
-- The design note says "Both sources" (Appendix C and Dragon Heist). The published adventure has no Vosk (grep of `sources/adventure-wdh.json`, no match). Only Appendix C names Vosk. The design note's "Dragon Heist" attribution is not supported.
+- The design note says "Both sources" (Appendix C and Dragon Heist). The published adventure has no Vosk (grep of `sources/adventure-wdh.json`, no match). Among the sources searched, only Appendix C (`:110` to `:128`) and this design note name Vosk. The design note's "Dragon Heist" attribution is not supported by the adventure text.
 
 **D10. Source guide describes the Xanathar outposts differently**
 - "**Xanathar Guild outposts:**" lists "Dock Ward gambling den", "Sewer monitoring station near Trollskull Alley" and "Underdock warehouse" — `sources/SOURCE_GUIDE.md:208` to `:211`.
 - The Alexandrian PDF's Xanathar outposts are the Terasse Estate, Grinda Garloth's and the Orb Confectioners sewer hideout (printed pp.42 to 44 [PDF pp.7 to 9]). None of the SOURCE_GUIDE items matches. The PDF is the source; the guide's list is stale.
 
 **D11. Estate ownership wording**
-- "secretly owned by Xanathar" — Alexandrian printed p.42 [PDF p.7]; "that Xanathar secretly owns" — `campaign/setting/organizations/08-xanathars-guild.md:55`; "a modest rowhouse secretly owned by Xanathar" — `campaign/guides/factions/09-xanathars-guild.md:21`. Consistent. No conflict.
+- "secretly owned by Xanathar" — Alexandrian printed p.42 [PDF p.7]; "that Xanathar secretly owns" — `campaign/setting/organizations/08-xanathars-guild.md:55`; "A modest rowhouse secretly owned by Xanathar" — `campaign/guides/factions/09-xanathars-guild.md:21`. Consistent. No conflict.
 
 ---
 
@@ -344,22 +346,21 @@ The profile has no "Tier", no breach, no capture and no Event Outcome. No profil
 - `campaign/gazetteer/waterdeep/southern-ward.md:74`: "- Hook: **Faction Outposts** treats it as an encounter-plus outpost. A letter there threatens the mechanical beholder's delivery to Terasse Estate, and correspondence with Nar'l Xibrindas gives guildsigns that lead toward **Xanathar's Lair**." (quest hook on a setting page)
 - `campaign/gazetteer/waterdeep/southern-ward.md:220`: "- **Castle Ward**: Yellowspire, Terasse Estate and the water table that Jeryth watches."
 - `campaign/setting/geography/waterdeep.md:39`: a table row for Castle Ward lists "Terasse Estate" among its sites.
-- `campaign/setting/geography/waterdeep.md:100`: a table row "**Faction Outposts** | Yellowspire and Terasse Estate, the Zhentarim house on Brindul Alley and the shrine on Aveen Street ..." (quest routing on a setting page)
+- `campaign/setting/geography/waterdeep.md:100`: a table row "**Faction Outposts** | Yellowspire and Terasse Estate, the Zhentarim house on Brindul Alley and the shrine on Aveen Street ..." (quest routing on a setting page; the row continues past the quoted part)
 - `campaign/setting/geography/undermountain-and-skullport.md:124`, `:135`, `:164`: the trapdoor and the Castle Ward cross-reference; `:164` is a "Routed facts" line.
 
 ### E2. Guild page (`campaign/setting/organizations/08-xanathars-guild.md`)
 
-- Contacts label changed since the Pass 5 snapshot. The Pass 5 note quotes the earlier line: "- **Contacts:** **Ahmaergo**, **Keln Trigos**, **Grinda Garloth** (outpost keepers); **Gorath**, **Korgstrod Uxgulm**, **Noska Ur'gray** (response team leaders)" — `docs/plans/setting-compendium-research-notes/pass5/xanathars-guild.md:174` (quoting `08-xanathars-guild.md:6`). The current line 8 says "(Guild contacts in the city)". So the "outpost keeper" wording came from this older label.
+- Contacts label changed since the Pass 5 note. The Pass 5 note quotes the earlier line: "- **Contacts:** **Ahmaergo**, **Keln Trigos**, **Grinda Garloth** (outpost keepers); **Gorath**, **Korgstrod Uxgulm**, **Noska Ur'gray** (response team leaders)" — `docs/plans/setting-compendium-research-notes/pass5/xanathars-guild.md:174` (quoting `08-xanathars-guild.md:6`). The current line 8 says "(Guild contacts in the city)".
 - Draft Notes line 194 quotes Key Members, Keln as "manages the gladiatorial audience transports to the Lair." The current line 107 differs (D6). Stale.
 - Line 53, "**The three outposts.**", is a day-one heading on a lore page; the drafter may need to consider the word "outpost" as a location label. This is a page-wide term, not a Keln-only line.
-- Line 147 (Sources): "`campaign/guides/factions/09-xanathars-guild.md` (lines 21, 53): the Terasse Estate's cellar and the sweets shop, as places only". Current line numbers in the Factions Guide still match (21, 53).
+- Line 147 (Sources): "`campaign/guides/factions/09-xanathars-guild.md` (lines 21, 53): the Terasse Estate's cellar and the sweets shop, as places only". The Factions Guide line numbers still match (21, 53).
 
 ### E3. Factions Guide and structure doc (quest-state)
 
 - `campaign/guides/factions/09-xanathars-guild.md:17` to `:35` (Terasse Estate entry), `:88` to `:90` and `:102` (Revelation List), `:112` (Notable Figures list).
 - `campaign/structure/arc-e-faction-outposts.md:143` to `:157` (4A), with "Keln Trigos (priest) and his guards raise the alarm" at `:155`.
 - `campaign/structure/arc-e-faction-outposts.md:149` (passphrases) and `:153` (Operation objectives).
-- `campaign/guides/factions/10-manshoons-zhentarim.md`: not about Keln; no hit.
 
 ### E4. Other campaign references (day-one or setting)
 
@@ -374,7 +375,7 @@ The profile has no "Tier", no breach, no capture and no Event Outcome. No profil
   - "> - The cipher note in his coat is a Guild courier's note that names "K", who is Keln Trigos of the Terasse Estate. Nobody in this mission can know that." — `overview.md:28`
   - "> - The cipher note names "K" and an eastern staircase on Elsambul's Lane. K is Keln Trigos of the Terasse Estate, and nobody in this Event can know that yet." — `ev-01-the-exiles-return.md:22`
   - "- **Terasse Cipher Taken** — mark when a member gives Jalester Harko's cipher note, decoded or not. Read by **Faction Outposts** (unconverted) as a fourth path into the Terasse Estate, by the eastern staircase on Elsambul's Lane." — `ev-01-the-exiles-return.md:512`
-- **Harpers M1, the Vosk watcher**: `sources/Appendix_C_-_Player_Faction_Missions.md:110` to `:128` (Arc H-1, Scene 5 and "If the Party Notices Vosk"); `campaign/quests/faction-events/harpers/m01-the-talking-mare/design-notes.md:5`. The reporting line (`:116`) is quest text. The Keln page may not use it as a Connections fact without a route (orchestrator's call).
+- **Harpers M1, the Vosk watcher**: `sources/Appendix_C_-_Player_Faction_Missions.md:110` to `:128` (Arc H-1, Scene 5 and "If the Party Notices Vosk"); `campaign/quests/faction-events/harpers/m01-the-talking-mare/design-notes.md:5`. The reporting line (`Appendix_C:116`) is quest text. The Keln page may not use it as a Connections fact without a route (orchestrator's call).
 - **Doom Raiders LA-4, Ziraj's offer (Copper Alley)**: `sources/Appendix_C_-_Player_Faction_Missions.md:654` (Ziraj's header), `:660` and `:681`: "The Terasse Estate intelligence, if Ziraj's trade was accepted, is a Grand Game bonus clue."
 - **Force Grey M4, the gathering-point route**: `sources/Appendix_C_-_Player_Faction_Missions.md:1875` to `:1877` (Arc FG-4, Scene 2). "**The Gathering Point Route** (if the party has a Guild passphrase from any investigation): through one of the Terasse Estate gathering points, escorted blind to Area X1 as if attending the gladiatorial fights."
 
