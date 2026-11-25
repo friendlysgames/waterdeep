@@ -71,9 +71,8 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Never:** He never kills when there's another option, never abandons Kreb, and never mocks surface folk.
 - **Sample lines:**
   - *Greeting:* "Hi! Fel'rekt. That's Kreb. We're with the captain, sort of. Mostly. It's complicated."
-  - *Business:* "We go in quiet, we take the ledger, nobody has to die. That's the plan. I like that plan."
+  - *Business:* "We go in quiet, we take what we came for, nobody has to die. That's the plan. I like that plan."
   - *Under pressure:* "Drop it! Please drop it, I really don't want to shoot you!"
-
 ---
 
 ### Krebbyg Masq'il'yr ("Kreb Sorrush")
@@ -107,9 +106,8 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Never:** He never lies, never breaks a trade, and never understands why people keep secrets.
 - **Sample lines:**
   - *Greeting:* "Hello! Hello, boat people! You're new! Tell me something I don't know!"
-  - *Business:* "Three things about the city, and I'll tell you where the fancy ship keeps its guards at night. Fair trade!"
+  - *Business:* "Three things about the city, and I'll tell you what I found down in the wrecks. Fair trade!"
   - *Under pressure:* "Bad people! Bad! I'm telling the captain!" (and he dives)
-
 ---
 
 ### Fenerus Stormcastle
