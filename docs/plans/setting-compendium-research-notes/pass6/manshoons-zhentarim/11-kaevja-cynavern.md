@@ -310,7 +310,7 @@ These are for the drafter's Background and personal goals (brief ruling 17). Eac
 > "**Motivations.** Kaevja wants to earn her continued place in Manshoon's organization, protect the sanctum against unauthorized entry, and cast the sending that accelerates reinforcements before she is incapacitated."
 > — `campaign/setting/notable-figures/manshoons-zhentarim/11-kaevja-cynavern.md:15`
 
-**Her temper and protocols** (voice profile)
+**Her temper and protocols** (voice profile, Swearing and Personality)
 > "**Swearing:** *Triggered · Plain · Phrase.* When a situation outruns her protocols (\"Shit, that's not in the protocol.\")."
 > — `.claude/skills/character-voices/voices/manshoons-zhentarim.md:195`
 
@@ -349,10 +349,9 @@ Every other file:line where Kaevja appears, with the line copied (grep output, t
 - `:184` (Draft Notes): "... Kaevja's Thayan past, ... come from the published adventure alone and have no Notable Figures page." (see E1)
 
 **Campaign, Manshoon page** (`campaign/setting/notable-figures/manshoons-zhentarim/01-manshoon.md`)
-- `:60` (see D3)
+- `:60` (see A3, D3)
 - `:115` (no name; "The man in Kolat Towers is the clone who hid in Undermountain ..."; see A2)
-- `:147` "- **Sidra Romeir**, **Urstul Floxin**, ... **Kaevja Cynavern**, **Havia Quickknife**, ... (Notable Figures): the cell's lieutenants, household and sites" (see D3)
-- `:264`-`:265` (pass-6 research notes, not the page): quotes `sources/adventure-wdh.json:29993` as "Adventure, Kaevja (recruitment)".
+- `:147` "- **Sidra Romeir**, **Urstul Floxin**, ..., **Kaevja Cynavern**, **Havia Quickknife**, ... (Notable Figures): the cell's lieutenants, household and sites" (see D3)
 
 **Campaign, Sidra page** (`campaign/setting/notable-figures/manshoons-zhentarim/04-sidra-romeir.md`)
 - `:40` (see A6)
@@ -375,17 +374,18 @@ Every other file:line where Kaevja appears, with the line copied (grep output, t
 - `.claude/skills/character-voices/voices/manshoons-zhentarim.md:189`-`:203` (the Kaevja block; see B, C and G)
 - `.claude/skills/character-voices/SKILL.md:34`: "| `voices/manshoons-zhentarim.md` | Manshoon, Floxin, Vevette, Sidra, Agorn, Avareen, Zorbog, Amath, Vira, Manafret, Kaevja, Havia, Mookie, Yorn |"
 
-**Docs** (planning and research notes; none edited)
+**Docs (planning and research notes; none edited)**
 - `docs/plans/npc-pronouns-table-group-c.md:55` (see B)
 - `docs/plans/faerun-ethnicities-research.md:339`, `:471` (see D8)
 - `docs/plans/setting-compendium-research-notes/pass5/zhentarim.md:131` and `:260`: "... Result: matches." and "The drafter must drop or source the Kaevja sentence." (see D1 and D2)
+- `docs/plans/setting-compendium-research-notes/pass6/manshoons-zhentarim/01-manshoon.md:264`-`:265` (pass-6 Manshoon research notes, not the page: "Adventure, Kaevja (recruitment):" and the quote of `sources/adventure-wdh.json:29993`)
 - `docs/plans/setting-compendium-research-notes/pass6/manshoons-zhentarim/04-sidra-romeir.md:220`, `:231` ("**D11. Kaevja's posting**: campaign says \"sanctum counterpart in E3\""), `:247`, `:249` (the arc-i timer lines)
 - `docs/plans/setting-compendium-research-notes/pass6/manshoons-zhentarim/03-vevette-blackwater.md:105`, `:121`, `:336` (the E3 sentence, the same text as `arc-i-kolat-towers.md:150`)
 - `docs/plans/setting-compendium-research-notes/pass6/manshoons-zhentarim/05-agorn-fuoco.md:126` (the sleeping room; see A3)
 - `docs/plans/setting-compendium-research-notes/pass6/manshoons-zhentarim/06-avareen-windrivver.md:318` and `07-zorbog-jyarkoth.md:261` (the K22 thugs line, `arc-i-kolat-towers.md:175`)
 
 **Sources**
-- `sources/adventure-wdh.json`: `:25` (Pronunciation Guide), `:173`-`:174` (pronunciation), `:26763` (capture offer), `:26847` (keys; Havia and Manshoon and Manafret), `:28156` (Sidra's ring), `:28200` (Manafret's ring), `:28822` (Teleporter Rings), `:29909`, `:29957`, `:29959`, `:29960`, `:29988` (E3 header), `:29992`, `:29993`, `:29994`, `:29998`, `:29999`, `:30002`, `:30183` (Havia and Mookie as "female lightfoot halflings"), `:30192`, `:30199` (E11 header), `:30212`, `:30215`, `:30220`, `:30223` (Havia's comb), `:32215`, `:32216`, `:32217`, `:3922` (Esloon Bezant; Kossuth page)
+- `sources/adventure-wdh.json`: `:25` (Pronunciation Guide), `:173`-`:174` (pronunciation), `:26763` (capture offer; D3), `:26847` (keys; Havia, Manshoon and Manafret Cherryport), `:28156` (Sidra's ring), `:28200` (Manafret's ring), `:28822` (Teleporter Rings), `:29909`, `:29957`, `:29959`, `:29960`, `:29988` (E3 header), `:29992`, `:29993`, `:29994`, `:29998`, `:29999`, `:30002`, `:30183` (Havia and Mookie as "female lightfoot halflings"), `:30192`, `:30199` (E11 header), `:30212`, `:30215`, `:30220`, `:30223` (Havia's comb), `:32215`, `:32216`, `:32217`, `:3922` (Esloon Bezant; Kossuth page)
 - `sources/SOURCE_GUIDE.md:35` (see E1)
 - `sources/12. Lair  Zhentarim – Kolat Towers.pdf`, printed pp. 94, 95, 96 (see B, D2, D3, D4)
 
