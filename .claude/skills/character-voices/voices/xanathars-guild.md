@@ -170,21 +170,20 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 ---
 
 ### Korgstrod Uxgulm
-*A pompous duergar boss convinced his own unworthiness is why the Stone won't work.*
+*A pompous duergar boss who rules his kobolds by shouting and is forever hunting for his whip.*
 
 - **Sound:** A harsh, commanding, grinding voice, raised for his kobolds.
-- **Sentence shape:** Barked orders and self-important statements. There's a brooding, self-critical muttering whenever the Stone comes up.
-- **Word choice:** Military authority and duergar contempt: "discipline", "unworthy", "weaklings". He calls the kobolds "vermin" and the Stone "the prize".
+- **Sentence shape:** Barked orders and self-important statements. There's a brooding, self-critical muttering whenever something in the hideout goes wrong.
+- **Word choice:** Military authority and duergar contempt: "discipline", "unworthy", "weaklings". He calls the kobolds "vermin".
 - **Swearing:** *Punctuation · Colourful · Tirade.* Duergar bile ("Lick-spittle, dung-born vermin, fetch the whip!"). Tirade: "Lick-spittle, dung-born, scale-shedding, whip-losing, tunnel-farting, surface-sucking, gutless little shit-lizards, WHERE IS MY WHIP?"
-- **Personality in speech:** Brute authority and thwarted ambition. The fake Stone's failure is his personal spiritual crisis, which he discusses earnestly.
-- **Quirks:** The kobolds keep asking about a whip, and he keeps shouting at them. He holds the Stone and concentrates visibly.
-- **Signature phrases:** "Discipline!" / "I am not yet worthy." / "Where is the whip?"
-- **Never:** He never suspects the Stone is fake, never shows weakness to subordinates, and never finds the whip.
+- **Personality in speech:** Brute authority and thwarted ambition. He is frustrated that he runs a cellar when he wants Xanathar's favor, and he discusses it earnestly.
+- **Quirks:** The kobolds keep asking about a whip, and he keeps shouting at them.
+- **Signature phrases:** "Discipline!" / "Weaklings." / "Where is the whip?"
+- **Never:** He never shows weakness to subordinates, and never finds the whip.
 - **Sample lines:**
-  - *Greeting:* "Kneel before the keeper of the prize, surface-worms."
-  - *Business:* "When I am worthy, the Stone will speak. Until then, it goes nowhere."
+  - *Greeting:* "Kneel before the master of this cellar, surface-worms."
+  - *Business:* "This is a Guild cellar, and nothing leaves it without my say. State your business."
   - *Under pressure:* "Vermin! To me! Somebody find the fucking whip!"
-
 ---
 
 ### Gorath
