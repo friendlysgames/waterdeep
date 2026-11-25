@@ -152,18 +152,17 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 *A precise, exacting tiefling head chef who runs his kitchen like a war and plans the Founders' Day menu like a campaign.*
 
 - **Sound:** A sharp, clipped, commanding voice pitched to carry over a kitchen.
-- **Sentence shape:** Terse kitchen commands and precise culinary judgements. After discovery: calm, cold certainty.
-- **Word choice:** Kitchen military: "service", "stations", "mise en place", "the menu". He calls intruders "pests".
+- **Sentence shape:** Terse kitchen commands and precise culinary judgements. Among the cult: calm, cold certainty.
+- **Word choice:** Kitchen military: "service", "stations", "mise en place", "the menu". He calls anyone who wanders into his kitchen "pests".
 - **Swearing:** *Punctuation · Colourful · Tirade.* Kitchen-grade filth at his staff ("Who plated this? A blind fucking goat?"). Never in front of guests. Tirade: "Who plated this? You under-seasoned, over-reduced, lumpy-sauced, cold-plated, knife-dropping, onion-weeping, pan-scorching cunt of a commis, get out of my kitchen and take your shame with you!"
 - **Personality in speech:** Professional pride and contempt. Anyone who asks about the menu without understanding it gets a withering answer. Publicly, the Founders' Day feast is simply his masterpiece.
-- **Quirks:** He tastes everything before answering. One word from him and every knife rises.
+- **Quirks:** He tastes everything before answering. He keeps a command word that raises the kitchen's knives.
 - **Signature phrases:** "Service!" / "The menu is not your concern." / "Pests."
 - **Never:** He never serves a flawed dish, never discusses the feast's purpose, and never lets anyone in the kitchen uninvited.
 - **Sample lines:**
   - *Greeting:* "Out of my kitchen. Guests eat in the hall."
   - *Business:* "The Founders' Day menu is the finest work of my life. It is not your concern."
-  - *Under pressure:* "Pests." (every knife rises)
-
+  - *Under pressure:* "Pests." (when he judges someone a threat, the knives rise at his word)
 ---
 
 ### Seffia Naelryke
