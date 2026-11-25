@@ -8,7 +8,7 @@ Model notes: `docs/plans/setting-compendium-research-notes/pass6/xanathars-guild
 Ruling used: Ches 1, 1492 DR. Amath keeps Yellowspire in the Castle Ward, keeps its teleportation circle to Kolat Towers, and is Agorn Fuoco's partner. Quest-time events at Yellowspire (the Faction Outposts heist, **The Yellowspire Job**, the Skeemo chase, the Shan Chien rite, the Stone, Agorn's betrayal) are routed in sections C and E, not written as day-one. Two Zhentarims: Amath is Manshoon's cell, never the Doom Raiders.
 
 Method and caveats:
-- Campaign files: Read and Grep. Quotes are copied from tool output. Where a Grep line was cut in the output, the line was re-read with Read `offset` and `limit`. Where a quote is a part of a longer line, the rest is named in brackets.
+- Campaign files: Read and Grep. Quotes are copied from tool output. Where a Grep line was cut in the output, the line was re-read with Read `offset` and `limit`. Where a quote is part of a longer line, the rest is named in brackets.
 - Published adventure: `sources/adventure-wdh.json`, quoted as the JSON string. `{@creature ...}` and similar tags are left as written. JSON escapes are shown as plain quotes.
 - Alexandrian PDFs: this session has no shell, so `pdftotext` could not run. The PDF quotes were transcribed from rendered page images. Each carries the printed page and the PDF page in brackets. Check every one against `pdftotext -layout` before any prose use. The images print the surname as "Seccent", not "Sercent" (see D1).
 - Wiki: `/tmp/claude-0/-home-user-waterdeep/a51d8faf-477c-574c-b157-e1f22664bc3c/scratchpad/wiki-manshoons-zhentarim/08-amath-sercent.txt`, cited as `wiki 08-amath-sercent.txt:NN`, using the file's own line numbers. No edition is printed on the body lines. The infobox fields `alignment5e`, `class5e` and `refs5e` and the citation key `WDH5e-p79` place the entries in 5e, which is inferred.
@@ -95,7 +95,7 @@ Birth, origin, training, family and former life: no source. See F1.
 
 **Adventure, the tower and the work (5e). The first sentence is quest framing ("The characters have learned"); the rest is a standing description.**
 > "The characters have learned that the {@item Stone of Golorr|WDH} is with Amath Sercent, a priest of Bane who is allied with {@creature Manshoon|WDH}. She and her acolytes reside in Yellowspire, a Castle Ward tower so named because its bricks have a pale yellow tinge to them. Amath is in the midst of converting the tower into a temple of Bane. A teleportation circle in the basement allows for swift transport to and from Kolat Towers and {@creature Manshoon|WDH}'s extradimensional sanctum."
-> — `sources/adventure-wdh.json:9741` (the opening of the "Old Tower: Winter" encounter, page 79; the first sentence is the quest frame)
+> — `sources/adventure-wdh.json:9741` (the opening of the "Old Tower: Winter" encounter, page 79)
 
 **Adventure, the house at worship (5e)**
 > "Amath and her followers assemble here for worship but sleep elsewhere. When the characters first arrive, all five have gathered in prayer on the upper floor of the tower ({@area O3|1ac}). Three black {@creature flying snake||flying snakes} nest in the rafters and join any battle here."
@@ -200,9 +200,7 @@ Birth, origin, training, family and former life: no source. See F1.
 > "Amath was an ally of Manshoon's [[Zhentarim]].<ref name="WDH5e-p79" /> She had a relationship with the [[Zhent]] spy Agorn Fuoco.<ref name="WDH5e-p76">{{Cite book/Waterdeep: Dragon Heist|76}}</ref>"
 > — `wiki 08-amath-sercent.txt:73`
 
-**Adventure, the alliance (5e)**
-> "Amath Sercent (LE female Mulan {@creature priest}) ..."
-(not used; see A3 for the adventure's "a priest of Bane who is allied with {@creature Manshoon|WDH}" at `sources/adventure-wdh.json:9741`.)
+**Adventure, the alliance (5e)**: `sources/adventure-wdh.json:9741`, quoted in A3 ("a priest of Bane who is allied with {@creature Manshoon|WDH}").
 
 **Campaign, the Splinter's field offices (Organization page)**
 > "- **The hub and spokes:** The Splinter is built as a hub with spokes. Kolat Towers in the Southern Ward is the command center, and the Interrogation House on Brindul Alley in the North Ward and Yellowspire in the Castle Ward are its field offices. Yellowspire holds a teleportation circle that leads to the Towers, and the Towers stand in the Southern Ward. Teleportation circles also link the Towers to the Interrogation House (**Southern Ward**)."
@@ -234,7 +232,7 @@ Birth, origin, training, family and former life: no source. See F1.
 
 **Campaign, the key ring (quest-time mission file)**
 > "Amath keeps her key ring on her belt, and a character who lifts it with a successful DC 15 Dexterity (Sleight of Hand) check while she is speaking can open the door without a roll."
-> — `campaign/quests/faction-events/doom-raiders/m05-the-yellowspire-job/ev-01-the-yellowspire-job.md:247` (rest of the passage covers the circle chamber's door)
+> — `campaign/quests/faction-events/doom-raiders/m05-the-yellowspire-job/ev-01-the-yellowspire-job.md:247` (the sentence sits in a paragraph about the circle chamber's door)
 
 No source gives her a personal object of her own.
 
@@ -328,7 +326,7 @@ The current page is `campaign/setting/notable-figures/manshoons-zhentarim/08-ama
 - Adventure, the pronunciation table: `"Amath Sercent",` / `"AH-math SER-sent"` (`sources/adventure-wdh.json:61-62`).
 - Adventure, the Blood Wedding paragraph: "his companion, Amath Sercent (LE female Mulan {@creature priest} of Bane)" (`sources/adventure-wdh.json:9133`).
 - Campaign, the Bane draft note: "> - **Settled, Amath's surname:** The published adventure spells it "Sercent" (`sources/adventure-wdh.json:61-62`, `:7635`, `:9133`, `:9741`, `:9748`), and its pronunciation table gives "AH-math SER-sent". The campaign now uses "Sercent" everywhere, including `campaign/setting/notable-figures/manshoons-zhentarim/08-amath-sercent.md`, `castle-ward.md:79` and `09-manshoons-zhentarim.md:103`. This page uses "Sercent"." (`campaign/setting/deities/bane.md:127`)
-- Campaign, one quest overview still uses the other spelling: "- **Amath Sercent** (Manshoon's Zhentarim): keeper of Yellowspire, whose acolytes bar the door behind Skeemo." is at `campaign/quests/faction-events/doom-raiders/m04-silencing-skeemo/overview.md:59`, and it reads "Amath Seccent" in the file (line 59 is "- **Amath Seccent** (Manshoon's Zhentarim): keeper of Yellowspire, whose acolytes bar the door behind Skeemo.").
+- Campaign, one quest overview still uses the other spelling: "- **Amath Seccent** (Manshoon's Zhentarim): keeper of Yellowspire, whose acolytes bar the door behind Skeemo." (`campaign/quests/faction-events/doom-raiders/m04-silencing-skeemo/overview.md:59`)
 - Alexandrian, 5. Faction Outposts, printed p.46 [PDF p.11], image transcription: "It is occupied by Amath Seccent (LE female Mulan **priest**), a Banite priestess allied with Manshoon, and her four **acolytes**."
 - Alexandrian, 6. Faction Response Teams, printed p.55 [PDF p.7], image transcription: "Agorn is friends with Amath Seccent (see Yellowspire in Part 3B: Faction Outposts), but he will gladly sell her out, too, revealing the existence of the teleportation circle in Yellowspire."
 - Higher source: the campaign ("Sercent"), which the adventure also uses. The Alexandrian and one quest overview use "Seccent".
@@ -345,7 +343,7 @@ The current page is `campaign/setting/notable-figures/manshoons-zhentarim/08-ama
 **D3. Who held the Stone of Golorr**
 - Adventure: "Agorn was moved to perpetrate this act by the play he saw at the theater and by his lady friend, Amath Sercent, to whom he entrusted the Stone of Golorr." (`sources/adventure-wdh.json:7635`)
 - Adventure: "Amath has the {@item Stone of Golorr|WDH} in her pocket. She is expecting {@creature Manshoon|WDH} or his simulacrum to arrive and retrieve it shortly." (`sources/adventure-wdh.json:9751`)
-- Adventure: "The characters must fight Amath and her acolytes to get the {@item Stone of Golorr|WDH}." (`sources/adventure-wdh.json:9769`; the rest of the paragraph covers the simulacrum's arrival)
+- Adventure: "The characters must fight Amath and her acolytes to get the {@item Stone of Golorr|WDH}." (`sources/adventure-wdh.json:9769`; rest of the paragraph covers the simulacrum's arrival)
 - Wiki: "She kept custody of the Stone while waiting for the arrival of Manshoon." (`wiki 08-amath-sercent.txt:70`, citing WDH5e p.79)
 - Campaign, the settled reading: "**Settled, the Stone of Golorr:** `castle-ward.md:85` and `08-amath-sercent.md:26` no longer say Amath holds or was entrusted with the Stone. The Gralhund Villa journal governs where the Stone is, and the party has it by **Faction Outposts** (`campaign/structure/arc-e-faction-outposts.md:45`). The mission files for the tower never mention it, and this page leaves the Stone out." (`campaign/setting/deities/bane.md:130`; its line references are stale, see E1)
 - Campaign: "The Stone of Golorr, now in the party's possession, reveals the three-Eye structure." (`campaign/structure/arc-e-faction-outposts.md:45`)
@@ -433,9 +431,9 @@ The current page is `campaign/setting/notable-figures/manshoons-zhentarim/08-ama
   - `:227`: "*Step 4 — The Operation.* Primary objective: locate and document the permanent teleportation circle to Kolat Towers. The circle is active. Stepping through it immediately means arriving at Kolat Towers unannounced and unprepared — a one-way trip that bypasses the force field, which is Yellowspire's entire value to Manshoon."
   - `:231`: "*Step 5 — Getaway.* Amath fights with conviction; acolytes are less committed. Agorn flees. **Escalation: Manshoon moves to Suspicious (Tier 2) if the Interrogation House has not been hit; moves to Lockdown (Tier 4) if it has.** Agorn carries word to surviving Zhentarim contacts if he escapes. Response teams redeploy within 1d4 days."
 - **The Yellowspire Job** (Doom Raiders mission 5), `campaign/quests/faction-events/doom-raiders/m05-the-yellowspire-job/ev-01-the-yellowspire-job.md`: the ledger; the coded letters in "a locked drawer in Amath's writing desk" (`:271`); the coin in the call bowl (`:215`); `:22` ("Amath has been warned."); `:408` ("If Amath is dead, Tashlyn adds that the Watch will find the bodies within a day or two.").
-- **Silencing Skeemo**, `campaign/quests/faction-events/doom-raiders/m04-silencing-skeemo/ev-02-the-chase.md:151`: "This is Yellowspire, home of Amath Sercent and her four acolytes, and the door bars from inside within one round."
-- **Silencing Skeemo**, `campaign/quests/faction-events/doom-raiders/m04-silencing-skeemo/ev-03-the-reckoning.md:196` (Tashlyn's questioning of Skeemo): "If Skeemo is held alive, Tashlyn questions him for three days. What he gives her is small and real: the name of the hand that collects his letters, the coded knock that opens Yellowspire's door, and a warning about the northeast plate in the teleportation circle room."
-- **Shan Chien**: `sources/adventure-wdh.json:9750` (the rite and the abduction); the Organization page leaves him out: "Samara Strongbones (the published Zhentarim spy among Xanathar's prisoners), Beldan Rusk, Thrakkus the butcher and Shan Chien are left out because the campaign files tie them to quests or have not adopted them." (`campaign/setting/organizations/09-manshoons-zhentarim.md:183`)
+- **Silencing Skeemo**, `campaign/quests/faction-events/doom-raiders/m04-silencing-skeemo/ev-02-the-chase.md:151`: "This is Yellowspire, home of Amath Sercent and her four acolytes, and the door bars from inside within one round." (rest of the paragraph covers the cellar circle and the DC 15 Strength check)
+- **Silencing Skeemo**, `campaign/quests/faction-events/doom-raiders/m04-silencing-skeemo/ev-03-the-reckoning.md:196` (Tashlyn's questioning of Skeemo): "If Skeemo is held alive, Tashlyn questions him for three days. What he gives her is small and real: the name of the hand that collects his letters, the coded knock that opens Yellowspire's door, and a warning about the northeast plate in the teleportation circle room. She gives the members the last two when **The Yellowspire Job** begins."
+- **Shan Chien**: `sources/adventure-wdh.json:9750` (the rite and the abduction). The Organization page leaves him out: "Samara Strongbones (the published Zhentarim spy among Xanathar's prisoners), Beldan Rusk, Thrakkus the butcher and Shan Chien are left out because the campaign files tie them to quests or have not adopted them." (`campaign/setting/organizations/09-manshoons-zhentarim.md:183`)
 - **Factions Guide, Yellowspire revelations**: `campaign/guides/factions/10-manshoons-zhentarim.md:69`: "- Threatening Agorn Fuoco: he sells out Amath Sercent to save himself (Response Team: Agorn Fuoco)".
 - **Alexandrian, 17. Outpost and Lair Revelation Lists**, printed p.124 [PDF p.4] (image transcription): "Threatening Agorn Fuoco; he'll sell out his friend to save his own life (Response Team: Agorn Fuoco)".
 - **Alexandrian, 5. Faction Outposts**, printed p.46 [PDF p.11] (image transcription): "GM Note: If the Gralhunds are still active in the Grand Game, one of their agents, Chirada, may be keeping Yellowspire under observation from a small apartment across the street."
@@ -457,10 +455,10 @@ The current page is `campaign/setting/notable-figures/manshoons-zhentarim/08-ama
 7. **Her acolytes.** Four in every source (`sources/adventure-wdh.json:9748`; `campaign/guides/factions/10-manshoons-zhentarim.md:43`). No names, no backgrounds. The adventure's "LE male and female acolytes of mixed ethnicities" (`:9748`) is the only description.
 8. **Her personal want beyond the post.** The Notable Motivations (`08-amath-sercent.md:15`) give only the cell's goal. No source gives her a personal want.
 9. **A fear, a loss, a grudge of her own.** None sourced. The only grudge-like line is Avareen's contempt for her rites (`campaign/guides/factions/10-manshoons-zhentarim.md:39`, quoted in A7), which is Avareen's, not Amath's.
-10. **The Shan Chien rite's origin and start.** Adventure: "Amath has been using this ritual..." (`sources/adventure-wdh.json:9750`). No start date. Quest-time.
+10. **The Shan Chien rite's origin and start.** Adventure: "Amath has been using this ritual to \"turn\" broadsheet publishers" (`sources/adventure-wdh.json:9750`). No start date. Quest-time.
 11. **Her view of Manshoon and his clones.** No source records what she thinks of Manshoon personally. The wiki gives "an ally of Manshoon's [[Zhentarim]]" (`wiki 08-amath-sercent.txt:73`); the campaign gives "support Manshoon's operations where they serve Bane's interests" (`08-amath-sercent.md:15`).
 12. **Whether she knows Manshoon is a clone.** No source. Do not assume her knowledge.
-13. **Rorik Halvars.** A name in the mission file only: "- Rorik Halvars, whom she claims to know slightly." (`ev-01-the-yellowspire-job.md:225`). The GM Guide's design notes call him "mercenary name used as cover in **The Yellowspire Job** — too peripheral" (`campaign/guides/gm-guide/design-notes-running-the-campaign.md:128`). He has no Notable page. Do not add him as a Notable Figure.
+13. **Rorik Halvars.** A name in the mission file only: "- Rorik Halvars, whom she claims to know slightly." (`ev-01-the-yellowspire-job.md:225`). The GM Guide's design notes call him "mercenary name used as cover in **The Yellowspire Job**" and mark him "too peripheral" (`campaign/guides/gm-guide/design-notes-running-the-campaign.md:128`). He has no Notable page. Do not add him as a Notable Figure.
 14. **Her acolytes' whereabouts when she is out.** Not sourced. The chandler's remark: "The chandler adds that the priestess has never once left the tower after dark." (`ev-01-the-yellowspire-job.md:135`)
 15. **Agorn's presence frequency.** Conflicting (D5). The drafter must not state a frequency.
 16. **Whether the conversion is done.** Conflicting (D6).
@@ -490,13 +488,12 @@ Quoted exactly. Each is a source fact the drafter must not contradict in a Backg
 - "genuine devotion to Bane that she does not experience as devotion so much as alignment" (`campaign/setting/notable-figures/manshoons-zhentarim/08-amath-sercent.md:13`)
 - "She is committed to Bane in a way that does not feel like devotion to her, only alignment, and she treats weakness with controlled contempt." (`ev-01-the-yellowspire-job.md:221`)
 - "She speaks of Bane as "the Black Hand" with serene reverence." (`.claude/skills/character-voices/voices/manshoons-zhentarim.md:143`)
-- "They are a devotion, and my acolytes are very particular about them." (`ev-01-the-yellowspire-job.md:239`, her answer to "What is this place?"; the first part of the answer is quoted next)
+- "It is the House of Tyranny, though the neighbors think it's a private home, and I prefer that they do. We keep it as a house of worship, and I hope you will forgive the handprints. They are a devotion, and my acolytes are very particular about them." (`ev-01-the-yellowspire-job.md:239`, her answer to "What is this place?")
 
 **Pride, privacy and habit**
-- "It is the House of Tyranny, though the neighbors think it's a private home, and I prefer that they do." (`ev-01-the-yellowspire-job.md:239`)
+- "It is the House of Tyranny, though the neighbors think it's a private home, and I prefer that they do." (`ev-01-the-yellowspire-job.md:239`; repeated in full above)
 - "I find that people who ask who else comes here generally intend to visit them next, so I make a habit of not answering." (`ev-01-the-yellowspire-job.md:243`)
-- "Amath is composed and correct. She speaks in courteous, complete sentences and never raises her voice." (`ev-01-the-yellowspire-job.md:221`)
-- "She receives guests as though she were hosting a tea, and any hostility reads as a small breach of manners." (`ev-01-the-yellowspire-job.md:221`)
+- "Amath is composed and correct. She speaks in courteous, complete sentences and never raises her voice." (`ev-01-the-yellowspire-job.md:221`; the same paragraph continues with "She receives guests as though she were hosting a tea, and any hostility reads as a small breach of manners." and "The handprints on the walls are the only thing in the tower she mentions with warmth.")
 - "The chandler adds that the priestess has never once left the tower after dark." (`ev-01-the-yellowspire-job.md:135`, a neighbor's remark)
 
 **Grudges and friction**
@@ -516,11 +513,11 @@ Losses: none sourced. Fears: none sourced. Places: Yellowspire ("the House of Ty
 
 ## Cross-references (every other file and line where the topic appears)
 
-Campaign (complete list from a campaign-wide Grep for `Amath`, `Sercent`, `Seccent` and `Yellowspire`, 57 files):
+Campaign (a campaign-wide search for `Amath`, `Sercent`, `Seccent` and `Yellowspire` found 57 files; the list below gives the lines copied in this pass).
 
 Notable Figures:
 - `campaign/setting/notable-figures/manshoons-zhentarim/01-manshoon.md:59` (quoted in A6), `:147` (cell's lieutenants list)
-- `campaign/setting/notable-figures/manshoons-zhentarim/02-urstul-floxin.md` (Yellowspire line; not read in full in this pass)
+- `campaign/setting/notable-figures/manshoons-zhentarim/02-urstul-floxin.md` (names Yellowspire; line not copied in this pass)
 - `campaign/setting/notable-figures/manshoons-zhentarim/03-vevette-blackwater.md:10`, `:107` (Featured in, The Yellowspire Job)
 - `campaign/setting/notable-figures/manshoons-zhentarim/05-agorn-fuoco.md:7`, `:15`, `:21` (capture line), `:25` (partner)
 - `campaign/setting/notable-figures/gralhunds/05-chirada.md:11`, `:25`
@@ -535,15 +532,15 @@ History, lore, deities, geography:
 - `campaign/setting/history/04-the-founding-of-chains.md:69` (hub and spoke), `:110`, `:159` (wrong ward note, E1), `:165`
 - `campaign/setting/history/08-the-players-arrive.md:32` ("with the Interrogation House in the North Ward and Yellowspire in the Castle Ward as field offices")
 - `campaign/setting/lore/stone-of-golorr-and-the-eyes.md:176` (the Chirada letter)
-- `campaign/setting/deities/bane.md:7`, `:8`, `:9`, `:10`, `:57`, `:62`, `:64` to `:66`, `:72`, `:73`, `:81`, `:84` to `:86`, `:97`, `:100`, `:101`, `:117`, `:119`, `:127`, `:128`, `:129`, `:130`, `:138`
+- `campaign/setting/deities/bane.md:7`, `:8`, `:9`, `:10`, `:57`, `:62`, `:64` to `:66`, `:72`, `:73`, `:81`, `:84` to `:86`, `:97`, `:100`, `:101`, `:117`, `:119`, `:127` to `:130`, `:138`
 - `campaign/setting/deities/corellon-larethian.md:9`, `:82`, `:116`
 - `campaign/setting/geography/waterdeep.md:39` (Castle Ward), `:100` (Faction Outposts), `:104` (Kolat Towers)
 - `campaign/setting/the-grand-game/what-each-faction-knows-at-start.md:8`, `:25`
 
 Gazetteer:
 - `campaign/gazetteer/waterdeep/castle-ward.md:11`, `:12`, `:32`, `:75` to `:82`, `:202`, `:215`, `:235`, `:240`, `:241`, `:267`, `:274`
-- `campaign/gazetteer/waterdeep/southern-ward.md:58` ("Teleportation circles link the towers to Yellowspire in the Castle Ward and to the Interrogation House in the North Ward."), `:220` ("Castle Ward: Yellowspire, Terasse Estate and the water table that Jeryth watches.")
-- `campaign/gazetteer/waterdeep/trades-ward.md:212` ("Castle Ward: the Market, the God Catcher and Yellowspire."), `:254` (Conflicts note: "Dragon Heist and the campaign place Yellowspire in the Castle Ward.")
+- `campaign/gazetteer/waterdeep/southern-ward.md:58` ("Teleportation circles link the towers to Yellowspire in the Castle Ward and to the Interrogation House in the North Ward."), `:220` ("Castle Ward**: Yellowspire, Terasse Estate and the water table that Jeryth watches.")
+- `campaign/gazetteer/waterdeep/trades-ward.md:212` ("Castle Ward**: the Market, the God Catcher and Yellowspire."), `:254` (Conflicts note: "Dragon Heist and the campaign place Yellowspire in the Castle Ward.")
 - `campaign/gazetteer/waterdeep/dock-ward.md:10`, `:91`, `:305` (Chirada's letter; "She is wrong about where the Eye went.")
 
 Guides:
@@ -563,14 +560,14 @@ Quests:
 - `campaign/quests/act-ii/fireball/ev-06-the-death-mark.md:52`, `:58`
 - `campaign/quests/act-ii/gralhund-villa/ev-03-daytime-infiltration.md:77`, `:105`; `ev-03b-the-front-door.md:102`; `ev-09-aftermath.md:36`; `flowchart.md:98`
 - `campaign/quests/faction-events/doom-raiders/m04-silencing-skeemo/`: `ev-02-the-chase.md:5`, `:10`, `:20`, `:149`, `:151`, `:153`, `:159`, `:163`, `:164`; `ev-03-the-reckoning.md:83`, `:129`, `:196`, `:204`, `:206`, `:207`, `:208`, `:212`; `overview.md:25`, `:33`, `:51`, `:59` (spelling "Seccent"), `:64`; `design-notes.md:13`, `:21`; `ev-01-the-approach.md:18`
-- `campaign/quests/faction-events/doom-raiders/m05-the-yellowspire-job/`: `ev-01-the-yellowspire-job.md:1`, `:20`, `:22`, `:74`, `:126`, `:135`, `:139`, `:143` to `:147`, `:151` to `:155`, `:163`, `:167`, `:212`, `:215`, `:219`, `:221`, `:223` to `:229`, `:239`, `:243`, `:247`, `:265`, `:271`, `:273`, `:275`, `:281`, `:283`, `:303`, `:324`, `:334`, `:408`, `:419`, `:420`, `:428`, `:432`; `ev-02-the-debrief.md:7`, `:19` to `:23`, `:67`, `:75`, `:117`, `:143`, `:149`, `:197`, `:199` to `:201`; `overview.md`, `design-notes.md` (Yellowspire lines in the folder)
+- `campaign/quests/faction-events/doom-raiders/m05-the-yellowspire-job/`: `ev-01-the-yellowspire-job.md:1`, `:20`, `:22`, `:74`, `:126`, `:135`, `:139`, `:143` to `:147`, `:151` to `:155`, `:163`, `:167`, `:211` to `:215`, `:219`, `:221`, `:223` to `:229`, `:239`, `:243`, `:247`, `:265`, `:271`, `:273`, `:275`, `:281`, `:283`, `:303`, `:324`, `:334`, `:408`, `:419`, `:420`, `:428`, `:432`; `ev-02-the-debrief.md:7`, `:19` to `:23`, `:67`, `:75`, `:117`, `:143`, `:149`, `:197`, `:199` to `:201`; `overview.md:56`; `design-notes.md` (Yellowspire lines in the folder, not copied)
 - `campaign/quests/faction-events/doom-raiders/m06-zirajis-last-hunt/overview.md:5`, `:56`; `ev-01-zirajis-last-hunt.md:24`; `design-notes.md:5`, `:19`
 - `campaign/quests/faction-events/doom-raiders/r10-viper/design-notes.md:15`
 - `campaign/quests/faction-events/doom-raiders/s02-davils-return/ev-01-davils-return.md:11`, `:258`, `:302`, `:307`; `design-notes.md:13`
 
 Locations:
 - `campaign/locations/gralhund-villa/g12-family-library.md:13`
-- `campaign/locations/sea-maidens-faire/02-heartbreaker-officers-cabin.md` (Yellowspire or Amath named; line not copied in this pass)
+- `campaign/locations/sea-maidens-faire/02-heartbreaker-officers-cabin.md` (names Yellowspire or Amath; line not copied in this pass)
 
 Sources:
 - `sources/adventure-wdh.json:61-62`, `:7598`, `:7635`, `:7655`, `:9133`, `:9152`, `:9741`, `:9748`, `:9749`, `:9750`, `:9751`, `:9769`
@@ -621,7 +618,7 @@ From `.claude/skills/character-voices/voices/manshoons-zhentarim.md` lines 138 t
 - Campaign, the organization page: "Two cells operate in Waterdeep, and Davil Starsong's **Doom Raiders** are the player-joinable one, covered on the organization page **The Zhentarim (Doom Raiders)**. Manshoon's splinter is a completely separate organization that peeled off from the Doom Raiders' local network when he returned to Waterdeep `[research]`, and the two groups dislike each other. Anyone who deals with the Zhentarim through Davil is dealing with the Doom Raiders and not with Manshoon. The villains on this page answer only to Manshoon." (`campaign/setting/organizations/09-manshoons-zhentarim.md:19`)
 - Campaign, Bane page: "- **Yellowspire and the Zhentarim split:** Amath is allied with Manshoon's cell, the splinter that peeled off the Doom Raiders' network. The Doom Raiders are the other Zhentarim cell and are at war with it." (`campaign/setting/deities/bane.md:81`, the first two sentences of the bullet; the rest is in E3)
 - Voice doc: "> **Two Zhentarims:** these characters never talk as if they were the Doom Raiders, and never refer to Davil's people as colleagues. To them, Davil's cell is "the old guard" at best." (`.claude/skills/character-voices/voices/manshoons-zhentarim.md:5`)
-- Campaign, the Doom Raiders' view of the tower: "| **Faction Outposts** | The Doom Raiders have been watching Yellowspire, Manshoon's Castle Ward relay point, for two months." (`campaign/guides/factions/07-doom-raiders.md:31`, a Doom Raiders page; quest-time)
+- Campaign, the Doom Raiders' view of the tower: "| **Faction Outposts** | The Doom Raiders have been watching Yellowspire, Manshoon's Castle Ward relay point, for two months. Tashlyn has schematics. She has been waiting for someone capable of going inside. Mission 5 is the operational payoff of that patience. |" (`campaign/guides/factions/07-doom-raiders.md:31`, a Doom Raiders page; quest-time)
 - Conclusion for the drafter: Amath is Manshoon's cell. The Doom Raiders are the people who break into her tower in the mission files.
 
 ---
@@ -633,12 +630,12 @@ Terms searched: `Amath`, `Sercent`, `Seccent`, `Yellowspire`, `Banite`, `Agorn` 
 Files searched:
 - `campaign/` (Grep, `files_with_matches` across the whole tree, 57 files; then content searches on the subsets listed in the cross-references).
 - `campaign/setting/notable-figures/manshoons-zhentarim/` (all pages).
-- `campaign/setting/villains/manshoon.md` (searched; one line at `:33`). `campaign/setting/villains/xanathar.md` and `jarlaxle.md`: not in the 57-file list, so no Amath or Yellowspire line.
+- `campaign/setting/villains/manshoon.md` (one line at `:33`). `campaign/setting/villains/xanathar.md` and `jarlaxle.md`: not in the 57-file list, so no Amath or Yellowspire line.
 - `campaign/setting/history/` and `lore/` (grep).
 - `campaign/gazetteer/waterdeep/castle-ward.md` (full read) and the other gazetteer pages (grep).
 - `campaign/guides/factions/10-manshoons-zhentarim.md` (full read); `07-doom-raiders.md`, `12-open-lords-watch.md`, `13-house-gralhund.md` (grep).
 - `campaign/structure/arc-e-faction-outposts.md` (grep and lines 190 to 235 read); `arc-i-kolat-towers.md` (grep). `arc-f-xanathars-lair.md`: no Amath or Yellowspire line.
-- `campaign/quests/` (grep, all of it; the m05 folder read in full for Amath lines).
+- `campaign/quests/` (grep, all of it; the m05 folder read for Amath lines).
 - `sources/adventure-wdh.json` (grep for Amath, Sercent, Yellowspire, Banite, Agorn Fuoco; relevant ranges read).
 - `sources/Appendix_B`, `Appendix_C`, `Appendix_D` (grep); `Act_III_Arc_D.md` and `Act_III_Arc_E.md` (grep and one line read); `sources/SOURCE_GUIDE.md` (grep).
 - `sources/research/pass5-bundles/zhentarim/wiki.txt` (grep, no hit); `sources/research/pass4-bundles/manshoon/campaign-hits.txt` (grep; stale hits in E2).
