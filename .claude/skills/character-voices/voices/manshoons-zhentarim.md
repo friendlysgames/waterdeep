@@ -76,10 +76,9 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Signature phrases:** "Water?" / "Your business, guest?" / "Hands where I can see them."
 - **Never:** She never panics, never gives up the rings, and never wonders why she outlasted the others.
 - **Sample lines:**
-  - *Greeting:* "You made it through the field, so you're expected. Water? Your business, guest?"
+  - *Greeting:* "The field keeps the riffraff out, so you're expected. Water? Your business, guest?"
   - *Business:* "The ring goes to whoever replaces the last one. That's how it works here."
   - *Under pressure:* "Hands where I can see them. I've done this longer than you've been alive."
-
 ---
 
 ### Agorn Fuoco
