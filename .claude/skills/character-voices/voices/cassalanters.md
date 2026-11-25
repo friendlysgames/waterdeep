@@ -112,7 +112,6 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
   - *Greeting:* "Do you fight monsters? Real ones? Can I come?"
   - *Business:* "Mother said a word to Crowelle I don't know. 'Feast.' She said it like it was scary. Why is a feast scary?"
   - *Under pressure:* "Get away from my brother! I'm a knight!"
-
 ---
 
 ### Tissina Khyret
