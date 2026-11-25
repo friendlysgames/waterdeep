@@ -43,10 +43,13 @@ Voice profile, on asking about hometowns (campaign, no source):
 
 ### A2. How he joined and rose
 
-Adventure, the two halflings as a pair and their loyalty:
+Adventure, the two halflings as a pair and their loyalty (the first sentence of the entry):
 
-> "Two female lightfoot halflings—{@creature Zhent Martial Arts Adept|wdh|Havia Quickknife} and {@creature Zhent Martial Arts Adept|wdh|Mookie Plush}—believe that {@creature Manshoon|WDH} is the rightful leader of the Zhentarim. They serve him fearlessly, and will sacrifice themselves to ensure that his plans come to fruition. They are {@creature martial arts adept|VGM|martial arts adepts} (see {@adventure appendix B|WDH|12}), with these changes:"
+> "Two female lightfoot halflings—{@creature Zhent Martial Arts Adept|wdh|Havia Quickknife} and {@creature Zhent Martial Arts Adept|wdh|Mookie Plush}—believe that {@creature Manshoon|WDH} is the rightful leader of the Zhentarim."
 > — `sources/adventure-wdh.json:30183` (keyed area E10, "Zhents", page 160; the E10 heading is at `:30164`)
+
+> "They serve him fearlessly, and will sacrifice themselves to ensure that his plans come to fruition."
+> — `sources/adventure-wdh.json:30183` (the next sentence in the same entry)
 
 Adventure, the teleporter rings they carry:
 
@@ -146,7 +149,7 @@ No source gives Mookie a god. The Yondalla page says so for him by name:
 Alignment agrees across all four sources.
 
 **Species**
-> "Two female lightfoot halflings—..." (the full line is quoted in A2)
+> "Two female lightfoot halflings—{@creature Zhent Martial Arts Adept|wdh|Havia Quickknife} and {@creature Zhent Martial Arts Adept|wdh|Mookie Plush}—believe that {@creature Manshoon|WDH} is the rightful leader of the Zhentarim."
 > — `sources/adventure-wdh.json:30183` (species is "lightfoot halfling"; "female" is discussed under pronouns)
 
 > "They have these racial traits: They are Small, and their walking speed is 25 feet. They can move through the space of a Medium or larger creature. They have advantage on saving throws against being {@condition frightened}. They speak Common and Halfling."
@@ -158,8 +161,8 @@ Page:
 > "- *Lightfoot halfling adept, lawful evil, he/him*. Stat block: **Adept**."
 > — `campaign/setting/notable-figures/manshoons-zhentarim/13-mookie-plush.md:5` (no source tag)
 
-Adventure (the only gendered line for him):
-> "Two female lightfoot halflings—{@creature Zhent Martial Arts Adept|wdh|Havia Quickknife} and {@creature Zhent Martial Arts Adept|wdh|Mookie Plush}—believe that..."
+Adventure (the only gendered line for him, the first sentence of the pair entry, quoted in full above):
+> "Two female lightfoot halflings—{@creature Zhent Martial Arts Adept|wdh|Havia Quickknife} and {@creature Zhent Martial Arts Adept|wdh|Mookie Plush}—believe that {@creature Manshoon|WDH} is the rightful leader of the Zhentarim."
 > — `sources/adventure-wdh.json:30183` (the word "female" applies to both halflings named in the sentence)
 
 Adventure, the sanctum's other female NPC, stated explicitly (for contrast):
@@ -193,7 +196,7 @@ Adventure:
 > "They have 49 ({@dice 11d6 + 11}) hit points each."
 > — `sources/adventure-wdh.json:30188`
 
-Alexandrian: "martial arts adepts, DH p. 209" (`sources/12. Lair  Zhentarim – Kolat Towers.pdf`, printed p. 95; quoted in full above).
+Alexandrian: "martial arts adepts, DH p. 209" (`sources/12. Lair  Zhentarim – Kolat Towers.pdf`, printed p. 95, quoted in full above).
 
 Havia's page uses the same label:
 > "- *Lightfoot halfling adept, lawful evil, she/her*. Stat block: **Adept**."
@@ -211,10 +214,10 @@ The page narrates no capture, rescue, death, mission or "once the party" event. 
 
 | # | Line | Sentence (exact) | Status | Where the fact already lives |
 |---|---|---|---|---|
-| 1 | L11 | "...then immediate revision, because the warmth does not change the outcome." | Play note; no event | none needed |
+| 1 | L11 | "Mookie should inspire unexpected warmth on first encounter — he has the approachable affect of someone who thinks the situation can still be friendly — and then immediate revision, because the warmth does not change the outcome." | Play note; no event | none needed |
 | 2 | L21 | "Deep down, he found what he was looking for when Manshoon offered him a place, and the finding resolved him completely." | Backstory with no source; not a quest event. Needs F2 | none (campaign text only) |
-| 3 | L23 | "Mookie fights to death, like Havia, but with a quality of sad inevitability..." | Combat conduct; sourced in part | `sources/adventure-wdh.json:30183` ("will sacrifice themselves to ensure that his plans come to fruition") |
-| 4 | L25 | "...the sort of NPC whose death, if the party pauses on it, feels like waste rather than victory." | Conditional play note. Names no death event; drafter decides whether it stays | none (campaign text only) |
+| 3 | L23 | "Mookie fights to death, like Havia, but with a quality of sad inevitability he brings to the engagement — not cruelty, not rage, just commitment." | Combat conduct; sourced in part | `sources/adventure-wdh.json:30183` ("will sacrifice themselves to ensure that his plans come to fruition") |
+| 4 | L25 | "Mookie is paired with Havia Quickknife in E10, a halfling adept whose warm manner makes him in some ways more unsettling than a straightforwardly violent opponent, and the sort of NPC whose death, if the party pauses on it, feels like waste rather than victory." | Conditional play note. Names no death event; drafter decides whether it stays | none (campaign text only) |
 
 The Kolat Towers quest structure names E10 and the pair, and gives them combat behavior. Routed reference only:
 > "**E10 — Audience Chamber.** Havia Quickknife + Mookie Plush, two halfling adepts who serve as Manshoon's household fanatics. Both fight to death. They are the sanctum's most physically capable non-spellcasting combatants — trained in martial arts, faster than their size suggests, and entirely loyal. They are also the least tactically sophisticated opponents in the sanctum; they attack in a straight line and do not retreat."
@@ -226,7 +229,7 @@ The Kolat Towers quest structure names E10 and the pair, and gives them combat b
 
 **D1. Pronouns: he/him against "female"**
 - Page: "*Lightfoot halfling adept, lawful evil, he/him*." — `campaign/setting/notable-figures/manshoons-zhentarim/13-mookie-plush.md:5`
-- Adventure: "Two female lightfoot halflings—{@creature Zhent Martial Arts Adept|wdh|Havia Quickknife} and {@creature Zhent Martial Arts Adept|wdh|Mookie Plush}—..." — `sources/adventure-wdh.json:30183`
+- Adventure: "Two female lightfoot halflings—{@creature Zhent Martial Arts Adept|wdh|Havia Quickknife} and {@creature Zhent Martial Arts Adept|wdh|Mookie Plush}—believe that {@creature Manshoon|WDH} is the rightful leader of the Zhentarim." — `sources/adventure-wdh.json:30183`
 - Havia's page, the same pair: "*Lightfoot halfling adept, lawful evil, she/her*." — `campaign/setting/notable-figures/manshoons-zhentarim/12-havia-quickknife.md:5`
 - Alexandrian: no gender printed for either halfling (`sources/12. Lair  Zhentarim – Kolat Towers.pdf`, printed p. 95).
 - Voice profile: he/him throughout (`.claude/skills/character-voices/voices/manshoons-zhentarim.md:227` to `:234`).
@@ -251,7 +254,7 @@ Stale (not edited):
 - `campaign/structure/arc-i-kolat-towers.md:320`: "- **Notable Figures** — Existing profiles: Manshoon, Sidra Romeir, Manafret Cherryport, Vevette Blackwater, Agorn Fuoco, Urstul Floxin, Lady Gondafrey, Skeemo Weirdbottle. New profiles needed: Kaevja Cynavern, Havia Quickknife, Mookie Plush, Yorn the Terror." The Mookie profile now exists, so this line is out of date.
 
 Routed (where the Kolat Towers facts live; quest pending conversion):
-- `campaign/structure/arc-i-kolat-towers.md:112` (raid scope: "Full operational content for both locations: Kolat Towers (K-series areas) and the extradimensional sanctum (E-series areas).").
+- `campaign/structure/arc-i-kolat-towers.md:112` ("**Purpose.** The raid itself. Step 5 of the heist framework. Full operational content for both locations: Kolat Towers (K-series areas) and the extradimensional sanctum (E-series areas).").
 - `campaign/structure/arc-i-kolat-towers.md:160` (E10, quoted in C).
 - `sources/adventure-wdh.json:29960` (the sanctum alarm list, see A3).
 
