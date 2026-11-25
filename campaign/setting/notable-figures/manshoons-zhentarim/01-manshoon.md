@@ -1,11 +1,76 @@
 # Manshoon
 
+> Structuring draft.
+
 > [!gamemaster]**Gamemaster's Summary**
 >
 > - *Vaasan human wizard (clone), lawful evil, he/him*. Stat block: **Mage (with modifications)**.
-> - **Affiliation:** Manshoon's Zhentarim
-> - **Villain profile:** see **Manshoon** in Villains
+> - **Affiliation:** Manshoon's Zhentarim. He leads this cell and has no part in Davil Starsong's Doom Raiders.
+> - **Villain profile:** see **Manshoon** in Villains (phases, relationships and goals)
+> - **Faction pages:** the **Manshoon's Zhentarim** page in the Factions Guide (response teams, outposts, escalation and revelation list) and the **Manshoon's Zhentarim** page in Organizations (lore)
 > - **Featured in:** **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**; **The Talking Mare**, **The Dead Drop**, **The Doppelganger Auditions**, **A Friend's House**, **The Stone's Other Master**, **The Poisoned Delivery**, **Silencing Skeemo**, **The Yellowspire Job**, **Ziraj's Last Hunt**, **The Exile's Return**, **The Red Wizard's Price**, **An Audience with the Open Lord**, **Consulting Hlam**, **Smoke in the Tower**, **The Undercliff Scarecrows**, **The Doppelganger Problem**, **The Fouled Channel**, **Breaking Up the Brawl**
+
+**Manshoon** (Lawful evil, Vaasan human, he/him)
+
+## Background
+
+Manshoon was born in Zhentil Keep in 1229 DR and founded the Zhentarim, also called the Black Network, in 1261 DR (Forgotten Realms Wiki, citing *The Grand History of the Realms* and *Ruins of Zhentil Keep*; the wiki does not tag their editions) `[research: wiki only]`. The published adventure calls the original "one of the founders", and the campaign keeps that wording (**The Founding of Chains**). He became one of the city's lords, and the Banite priest Fzoul Chembryl joined him in 1263 DR (**The Founding of Chains**).
+
+The wiki gives him a family before the Network. His father was Harlshoon, the first lord of Zhentil Keep, and Manshoon went out as a young adventurer with his brother Asmuth and with Chess, the son of their father's chief rival, to prove that all three were worthy of lordships (Forgotten Realms Wiki, *Manshoon*, citing *Ruins of Zhentil Keep*; edition not tagged) `[research: wiki only]`. While the three were away the rival poisoned Harlshoon, and two opportunists took the lordships (same page) `[research: wiki only]`. In a barrow Manshoon had a hand blown off when he grabbed for a sword, and he traded a wand taken from other adventurers to have it restored, keeping their spellbook because the sword's magic had made him want to study the Art (same page) `[research: wiki only]`. On the road home he made sure that Asmuth, who had been blinded in the barrow, fell from a bridge. He and Chess then killed the usurper with their childhood friend Fzoul and claimed their council seats (same page) `[research: wiki only]`. The wiki says he did not know that Chess had defected before the killing `[research: wiki only]`.
+
+The wiki names no mother `[research: wiki only]`. She was a Zhentil Keep woman who taught her sons their letters herself, and a fever took her in four days while Manshoon was still a boy `[design]`. He watched the stonecutters seal her place in the family vault under the keep's old hall `[design]`. It was the first death he saw, and it showed him that a body can fail with no warning `[design]`.
+
+He built the stasis clone spell as insurance against his enemies, and the wiki says he died many times and always came back in a new body (Forgotten Realms Wiki, citing *Ed Greenwood Presents Elminster's Forgotten Realms* and the novel *Crown of Fire*; editions not tagged) `[research: wiki only]`. Her death was the first thing he meant the spell to answer `[design]`.
+
+In 1370 DR Fzoul Chembryl and Lord Orgauth killed him and found themselves facing a dozen or more clones. Each clone believed he was the real Manshoon and felt driven to kill the others, and the fights are the Manshoon Wars (Forgotten Realms Wiki, 3e *Forgotten Realms Campaign Setting* p. 283) `[research: wiki only]`. The published adventure says a mishap woke every clone at once (5e *Waterdeep: Dragon Heist*). Three clones survived the wars. One rejoined the Zhentarim and conceded leadership to Fzoul, one became the vampire Orbakh in Westgate, and one took refuge in Undermountain with Halaster (Forgotten Realms Wiki, 3e *Forgotten Realms Campaign Setting* pp. 282-283) `[research: wiki only]`. The published adventure agrees that at least three survive and says the clone now in Waterdeep is the one that hid in Undermountain (5e *Waterdeep: Dragon Heist*).
+
+Halaster Blackcloak captured the Undermountain clone after a brief spell duel and amputated his left arm at the elbow. Magic could not regrow it, so Manshoon crafted an artificial arm and hand for himself (5e *Waterdeep: Dragon Heist*). The severed forearm remains in Undermountain as an undead guardian (5e *Waterdeep: Dungeon of the Mad Mage*, Level 9, area 1a). The man in Waterdeep is a clone of a clone, a body activated in Undermountain when the Manshoon before it died, as the clone network was designed to do. Halaster tolerated him for a time out of professional curiosity before taking the arm, and the clone fled upward carrying a staff of power he had smuggled in (**Kolat Towers** quest opener).
+
+As far as he knows, no other clone has lost a limb, so the missing arm is the one mark that sets his body apart from theirs `[design]`. He takes it as proof that this body lived through something the others did not, and so as his claim to be the true Manshoon `[design]`. The hand he lost in the barrow he bought back with a stolen wand, and Halaster's cut is the first loss he has never been able to buy back `[design]`. He fits the artificial arm each morning before he sees anyone, and he lets no servant do it for him `[design]`.
+
+Kolat Towers is a crumbling pair of towers in the Southern Ward, built by the Kolat brothers and abandoned years ago. A force field with the properties of a wall of force still surrounds them. Manshoon rarely leaves, and he uses a teleportation circle when he must, so nobody sees him enter or leave (5e *Waterdeep: Dragon Heist*; **Kolat Towers** quest opener). Neighbors can see the force field and the light of *continual flame* spells in the windows, and most believe the towers are abandoned or haunted by the Kolat brothers. Manshoon posts no visible guards because he wants that belief to hold (5e *Waterdeep: Dragon Heist*).
+
+He spent about two years building the Splinter, a cell that bears his name and works independently of the Zhentarim's surviving leadership. It is hub and spoke, with Kolat Towers as the command center and the Interrogation House in the North Ward and Yellowspire in the Castle Ward as field offices linked by teleportation circles. A pass-amulet system lets him revoke anyone's access from the towers (**Kolat Towers** quest opener). He took a large part of the local network the Doom Raiders had built, and through it learned that Lord Neverember had used the local Zhentarim's resources to embezzle the vault's gold (Alexandrian Remix, *The Villains*, p. 16). On Ches 1, 1492 DR the cell holds Kolat Towers, Yellowspire and the Interrogation House, and it fights Xanathar's Guild in the Dock Ward (**Manshoon's Zhentarim**).
+
+His agents stole the Neverwinter Eye from the Protector's Enclave. About Nightal 1491 DR (derived), his envoys brought it to Xanathar as a gift, and Xanathar killed them and kept it as Eye #1 (**Running the Villains**; **The Long Shadow**). The street war in the Dock Ward began from that day, and Manshoon holds no Eye (**Manshoon's Zhentarim**; **Running the Villains**).
+
+He blackmails two Masked Lords. Corylus Thann is held over a scandal, and Jelenn Urmbrusk is held through a debt to a Splinter front, and their votes follow his preferences. The ledger documenting these arrangements lies in an arcane-locked drawer in his study, with a list of the Masked Lords whose identities he knows (**Kolat Towers** quest opener; 5e *Waterdeep: Dragon Heist*, which has Jelenn already in debt to him).
+
+He has a long list of powerful enemies, among them the Harpers, Elminster, Halaster and the Blackstaff. They would move against him if they learned he was in Waterdeep, so he operates in the shadows for now (5e *Waterdeep: Dragon Heist*). He can have only one simulacrum at a time, and he uses it as a subordinate to command Zhentarim minions in the field. If it is destroyed he makes another, and the snow figure in the sarcophagus is part of the material component. He customized the spell to give the copy more hit points and less spellcasting (5e *Waterdeep: Dragon Heist*). The simulacrum in Kolat Towers rests ice-preserved in area E7, with half his hit points and no spell slots of 6th level or higher (**Kolat Towers** quest opener).
+
+Beyond death, he fears a betrayal he does not see coming `[design]`. Since Chess's defection he has tested everyone he works with, and he has tested every lieutenant in the cell except Sidra Romeir `[design]`. He has never tested her, and part of his reason is that he does not want to learn the answer `[design]`.
+
+**Personal goals.** Manshoon wants Halaster to know which Manshoon he maimed `[design]`. Halaster took the arm as if one more clone had come to the duel, and Manshoon wants to stand in front of him once, with the artificial hand in plain view, and be recognized as the one who lost it `[design]`. He also wants to stand in the family vault under Zhentil Keep and find his mother's place whole `[design]`. The Shadovar razed what remained of the city in 1383 DR, and he reads every report of the efforts to rebuild it himself before it goes to anyone else `[design]`. Last, he wants a winter with no business, in which he reads the ten rare volumes he took from Duhlark Kolat's collection in order `[design]`. He has promised himself that winter in both of the winters since he took the towers, and each time something has come up `[design]`.
+
+## Personality
+
+To most of Waterdeep, Manshoon does not exist. The towers he lives in pass for abandoned or haunted, nobody sees him come or go, and the crews who work for him will not say who gives the orders.
+
+Those who meet him see a handsome young man in elegant robes, whose long black hair partly hides an angelic face, and they learn only afterward that he is far older than he looks. He is courteous and unhurried. He lays out a person's options and what each one will cost, and he does not raise his voice. He flexes the artificial hand before he decides something, he corrects small errors in what people say about him, and he puts on a mask before he meets his followers.
+
+His anger is rare, aimed at one person at a time, and as calm as the rest of him. He prefers a prisoner to a corpse because a prisoner answers questions, and he keeps his teams light on muscle so that nobody looks at them twice. He reads a great deal and keeps a sizable library, including ten rare volumes he took from Duhlark Kolat's collection. He insists that he is the one Manshoon.
+
+## Connections
+
+- **Manshoon's Zhentarim:** He is the cell's only master, and nobody stands between him and his lieutenants. He runs it from Kolat Towers, and he has no part in Davil Starsong's Doom Raiders.
+- **Sidra Romeir:** His most trusted lieutenant, who runs the ground floor of Kolat Towers and holds the teleporter rings. He has never tested her loyalty.
+- **Urstul Floxin:** His chief field operative, who leads the street crews. Orders reach Urstul through a code and a chain of dead drops, and he does not name the man behind them.
+- **Vevette Blackwater** and **Agorn Fuoco:** Two more lieutenants. Vevette coordinates strike teams from Kolat Towers and leads the forces that fight Xanathar's Guild, and Agorn is a bard whom Manshoon raised quickly through the ranks after he made a good impression.
+- **Amath Sercent:** The Banite priestess at Yellowspire, who supports his operations where they serve Bane. The teleportation circle in her cellar is a second way into Kolat Towers.
+- **Kaevja Cynavern**, **Havia Quickknife**, **Mookie Plush**, **Manafret Cherryport** and **Yorn the Terror:** His household in Kolat Towers and the sanctum behind it. Kaevja watches the entrance, Havia and Mookie keep his audience chamber, Manafret cooks, and Yorn keeps the household afraid of its master.
+- **Avareen Windrivver** and **Zorbog Jyarkoth:** They keep the Interrogation House, where the cell takes its prisoners.
+- **Vira Solkan:** His plant inside Blackstaff Tower.
+- **Jelenn Urmbrusk:** One of the two Masked Lords he blackmails. The other is Corylus Thann.
+- **House Gralhund:** An ally of convenience that lends the cell a villa and takes its intelligence. **Yalah Gralhund** uses his Zhentarim as her spy network and does not know that he is their master.
+- **Xanathar:** Its Guild killed his envoys and kept the Eye they carried. The street war in the Dock Ward has run since then, and Xanathar's kill order on him has failed twice.
+- **The Zhentarim (Doom Raiders):** He regards them as deserters who stole his name `[research]`, and he works to dismantle their people and the network they built. He never counts them as colleagues.
+- **Jarlaxle Baenre** (Villains): The only Grand Game player he takes seriously `[research]`.
+- **The Harpers**, Elminster and **Vajra Safahr, the Blackstaff:** Powerful enemies who would move against him if they learned he was in Waterdeep.
+- Halaster Blackcloak: The Mad Mage, who took his left arm.
+
+## Overview
+
+Zhentarim crews with flying snake tattoos work Waterdeep's back streets, and they are hostile to Davil Starsong's Doom Raiders. The crews take prisoners, and none of them will say who gives the orders. Street talk says that one master stands behind them, though nobody who repeats it can put a name to him.
 
 ## Roleplaying Information
 
@@ -17,6 +82,26 @@
 
 **Inspirations.** When playing Manshoon, channel Magneto (*X-Men*), Emperor Palpatine (*Star Wars*), and Moriarty (*Sherlock Holmes*).
 
+### Voice
+
+*A centuries-old wizard who speaks with perfect courtesy and treats every consequence as already decided.*
+
+- **Sound:** A cultured, cool, perfectly modulated voice, never raised, precise in every consonant. His artificial arm clicks faintly when he gestures.
+- **Sentence shape:** Long, calm, flawless sentences built like proofs. He states the other person's options for them, then the consequence of each.
+- **Word choice:** Scholarly and imperial: "inevitable", "an arrangement", "the Weave", "my city" (said as a correction). He calls the party by name once he's learned it, and the simulacra he has made "the others".
+- **Swearing:** *Never · Plain · n/a.* Profanity is for people who lack better words. His rare anger is precise and calm, and more frightening for it.
+- **Personality in speech:** Cold patience, contempt and certainty. He negotiates from strength and is calm about consequences in a way that should unsettle. His frustrated pride about the arm and Halaster surfaces as one clipped, bitter sentence, then composure again.
+- **Phases:**
+  - **The Shadow (Ches 1, 1492 DR):** never heard. Only his lieutenants speak, and they won't name him.
+  - **Later moods:** the Architect is courteous, patient and terrifyingly reasonable, and when he is cornered the courtesy thins but never breaks. Both are keyed to the quest phases on **Manshoon** (Villains).
+- **Quirks:** He flexes the artificial hand before a decision. He corrects small inaccuracies in what others say about him. He insists he is "the one Manshoon".
+- **Signature phrases:** "Let us be reasonable." / "That outcome is already decided." / "There is only one Manshoon."
+- **Never:** He never loses his temper, never pleads, and never admits a clone is anything but an imposter.
+- **Sample lines:**
+  - *Greeting:* "Sit. Let us be reasonable, since the alternative is so wasteful."
+  - *Business:* "There is a door in this city I intend to open, and you could help. I can make that profitable for you, or brief. The choice is genuinely yours."
+  - *Under pressure:* "Halaster took an arm. You will not get the rest."
+
 ## Character Information
 
 **Persona.** To the world, Manshoon does not exist; he is never seen entering or leaving Kolat Towers, using a teleportation circle for all movement. To those he trusts, he is a surviving clone of one of the Zhentarim's founders who fled Undermountain after Halaster amputated his left arm, crafted an artificial replacement, and now orchestrates a bid for total control of Waterdeep. Deep down, he claims to be the one true Manshoon, as all surviving clones do. He creates simulacra of himself and takes great pains to conceal his identity.
@@ -25,6 +110,84 @@
 
 **Relationships.** Manshoon is the leader of the Zhentarim splinter cell, the employer of Urstul Floxin, Sidra Romeir, and Vevette Blackwater, a blackmailer of Masked Lords Jelenn Urmbrusk and Corylus Thann, and a clone-wizard whose response teams are deliberately the weakest in muscle because drawing attention is the one mistake he will not make twice.
 
-## Overview
+> [!gamemaster]**Secret**
+>
+> The man in Kolat Towers is the clone who hid in Undermountain, and the Manshoon a party meets first may be his simulacrum, which fights as his decoy while he leaves. The stasis clone spell is a separate insurance against dying for good. His name belongs to the members of his cell, and the street crews do not use it.
 
-A name the party does not have yet. The hard-edged Zhentarim operatives working Waterdeep's streets answer to someone, and none of them will say who.
+**Tone:** Plain and procedural in the GM text, with a courteous, guarded Personality and an Overview in which the cell is a street presence with no face. The narrator treats Manshoon's patience and his rare anger as real, and keeps the clone, the Weave and the simulacrum inside the GM sections.
+
+---
+
+## Source References
+
+- `campaign/setting/notable-figures/manshoons-zhentarim/01-manshoon.md` (previous version): Gamemaster's Summary, Roleplaying Information and Character Information, moved with the changes listed in Draft Notes; the old Overview, rebuilt as Personality and the new Overview
+- `campaign/setting/villains/manshoon.md` (lines 21, 25-40, 61-65, 69 and 74-75): the Background, moved with the changes in Draft Notes; the relationship facts restated and not copied; the phases (lines 45-53) and goals (lines 80-82) are not copied
+- `campaign/setting/organizations/09-manshoons-zhentarim.md` (lines 31-34, 38-46, 52-59, 65-67, 81-92 and 113): the day-one cell, the sites, the lieutenants, the stances toward other factions, the Overview and the GM Notes
+- `campaign/setting/history/04-the-founding-of-chains.md` (lines 30, 42-48, 68 and 138-140): the city's lords, Fzoul's arrival in 1263 DR, the stasis clone, the clone wars, the two-year build, the dates
+- `campaign/setting/history/06-the-open-lords-fall.md` (line 135) and `campaign/setting/lore/stone-of-golorr-and-the-eyes.md` (lines 40 and 44): the envoys and Eye #1, and that Manshoon holds no Eye
+- `campaign/guides/gm-guide/running-the-villains.md` (lines 21 and 30): Eye #1 and Eye #3
+- `campaign/structure/arc-i-kolat-towers.md` (lines 9, 13, 15, 17 and 19), pending conversion to the **Kolat Towers** quest journal: the clone of a clone, Halaster's curiosity, the staff of power, the two-year build, the simulacrum in E7 and the blackmail
+- `campaign/setting/notable-figures/manshoons-zhentarim/04-sidra-romeir.md` (lines 17 and 25): Sidra's service and the untested loyalty, and the page's `[design]` backstory, kept consistent
+- `campaign/setting/notable-figures/manshoons-zhentarim/02-urstul-floxin.md` (line 36): the code and the dead drops
+- `campaign/gazetteer/waterdeep/southern-ward.md` (line 139): the name-tag line (lawful evil, Vaasan human, he/him)
+- `sources/adventure-wdh.json` (lines 1445, 26738, 28552, 29981, 30150, 30250-30264, 32215-32219 and 32227): the fractured Zhentarim, his enemies, the apprentices, the masks, the library, the appearance and habits, the clone's account and the simulacrum
+- `sources/adventure-wdmm.json` (lines 24359, 26119, 26129 and 26133): Level 9, area 1a, the severed forearm
+- `sources/1. The Villains.pdf`, p. 16: the Doom Raiders' network and the embezzlement (as quoted at `campaign/setting/villains/manshoon.md` line 34)
+- Forgotten Realms Wiki, Manshoon (3e *Forgotten Realms Campaign Setting*; *The Grand History of the Realms*, *Ruins of Zhentil Keep*, *Ed Greenwood Presents Elminster's Forgotten Realms* and *Crown of Fire*, editions not tagged): birth, family and early life, the stasis clone spell, the clone wars: `sources/research/pass4-bundles/manshoon/wiki.txt` lines 80-84 (early life), 89 (stasis clone) and 94-103 (the clones), and `sources/research/pass5-bundles/zhentarim/wiki.txt` lines 434-489
+- `.claude/skills/character-voices/voices/manshoons-zhentarim.md` (Manshoon): the Voice block
+- `docs/plans/setting-compendium-pass6-brief.md` (rulings 15 to 17): the Background, the Voice block and the `[design]` backstory and Personal goals
+- `docs/plans/setting-compendium-research-notes/pass6/manshoons-zhentarim/01-manshoon.md`: the quotes and conflicts behind this page
+
+## Cross-References
+
+- **Manshoon** (Villains): the three phases, the relationship table and the goals, which this page does not copy
+- **Manshoon's Zhentarim** (Factions Guide): response teams, outposts, escalation, revelation list
+- **Manshoon's Zhentarim** (Organizations): the cell's lore and Key Members
+- **The Zhentarim (Doom Raiders)** (Organizations) and **Davil Starsong** (Notable Figures): the other Zhentarim cell, which never counts as his colleagues
+- **Sidra Romeir**, **Urstul Floxin**, **Vevette Blackwater**, **Agorn Fuoco**, **Amath Sercent**, **Kaevja Cynavern**, **Havia Quickknife**, **Mookie Plush**, **Manafret Cherryport**, **Yorn the Terror**, **Avareen Windrivver**, **Zorbog Jyarkoth** and **Vira Solkan** (Notable Figures): the cell's lieutenants, household and sites
+- **Jelenn Urmbrusk** and **Yalah Gralhund** (Notable Figures): the Masked Lord he holds a debt over and the house that uses his crews
+- **Jarlaxle Baenre** (Villains) and **Xanathar** (Villains): the wary peer and the rival
+- **The Founding of Chains**, **The Long Shadow** and **The Open Lord's Fall** (History): the clone history, the Eye chain and the street war
+- **The Stone of Golorr and the Eyes** (Lore): Eye #1 and who holds an Eye
+- **The Open Lord and the Masked Lords** (Governance and Guilds): the Masked Lords he blackmails
+- **Running the Villains** and **Structural Rules** (GM Guide): the villain reference tables and the Two Zhentarims rule
+- **Undermountain and Skullport** (Geography): Level 9 and the arm
+- **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons** (Quests): where Manshoon and his cell appear in play
+- **Zhentarim Warehouse** (Location): the Candle Lane warehouse the cell used
+
+> [!gamemaster]**Draft Notes**
+>
+> - **Research:** The 1229 DR and 1261 DR dates, the family, the barrow, the stasis clone spell and the 1370 DR clone wars are wiki only (*Manshoon*, citing the books named in the Background; the wiki prints no edition on most of them, and the Background says so). The campaign history (`history/04-the-founding-of-chains.md:30`) adds that he became one of the city's lords and that Fzoul joined in 1263 DR. The wiki's names Harlshoon, Asmuth and Chess, and the childhood friendship with Fzoul, stay wiki only and tagged. Left out: Calkontor, the usurpers' names, the murder of the adventurers, the Black Cloaks, the Moonsea trade routes, the pledge to Bane, the patron deity Mystra (1e), the Citadel of the Raven and the 1357 DR death.
+> - **Research:** The wiki's early-life account gives the barrow and the wand with no year, and no campaign file dates it. The Background gives none.
+> - **Settled:** Alignment is lawful evil (`gazetteer/waterdeep/southern-ward.md:139`; the wiki infobox for 1e, 3e and 5e). The adventure prints none. Species is Vaasan human, a Faerûn ethnicity (`southern-ward.md:139`; wiki infobox "Vaasan"; `sources/adventure-wdh.json:30250` "handsome young male human"). Pronouns are he/him (the same sources and `adventure-wdh.json:30255`).
+> - **Settled:** The Overview shows a Zhentarim presence and a rumor of a master only. It names no clone, no Weave, no simulacrum and no Eye, and states no name for him. The old Overview ("A name the party does not have yet") was the **Manshoon Named** gate in prose and is gone.
+> - **Settled:** The Two Zhentarims rule holds. He leads Manshoon's cell, and the Connections bullet says he never counts the Doom Raiders as colleagues.
+> - **Conflicts:** Stat block. The Summary keeps the label **Mage (with modifications)** from the previous version, and no source gives it. The wiki infobox has a 5e class table "Wizard 18" and challenge 13 (`sources/research/pass4-bundles/manshoon/wiki.txt` lines 62-63), the Alexandrian Kolat Towers PDF (book p. 95) says "Manshoon – DH p. 209" with no class, and the published adventure prints only the simulacrum's CR 8 (`adventure-wdh.json:32233`).
+> - **Conflicts:** Corylus Thann's leverage. `arc-i-kolat-towers.md:19` has him supply Guild intelligence "in exchange for the ledger's continued privacy". The published adventure and the Org page have him pay hush money (`adventure-wdh.json:30294`; `organizations/09-manshoons-zhentarim.md:66`). The Background says only that he is "held over a scandal" (`villains/manshoon.md:37`) and settles neither.
+> - **Conflicts:** The Cassalanters. `villains/manshoon.md:65` and `organizations/09-manshoons-zhentarim.md:89` say an arrangement with them "could have given him leverage", which implies knowledge of what the family hides and sits against Cassalanter secrecy (brief ruling 7). The page does not write the sentence, and the two files are for the main session to settle.
+> - **Conflicts:** The vault plan. `villains/manshoon.md:80` has the contingency "destroy the vault rather than cede it", `lore/stone-of-golorr-and-the-eyes.md:44` has the plan "let someone else open the vault and then take it from them", and the published adventure has the Wizard-King plan (`adventure-wdh.json:32219`). The Motivations line is verbatim, and the page states no vault plan.
+> - **Conflicts:** Orbakh. The Background keeps the Villains page's "one became the vampire Orbakh in Westgate" (`villains/manshoon.md:28`; `history/04-the-founding-of-chains.md:44`). The wiki's later 4e account has the Undermountain clone die in the Spellplague and only Orbakh remain (`sources/research/pass4-bundles/manshoon/wiki.txt` line 108), and `history/04-the-founding-of-chains.md:160` overrules it with the published adventure. Whether Orbakh belongs on a day-one page is left to the main session.
+> - **Conflicts:** The teleport habit. The Persona (kept verbatim) says he uses "a teleportation circle for all movement", and the adventure and the Background say "when he must" (`adventure-wdh.json:32218`; `villains/manshoon.md:31`).
+> - **Conflicts:** "Full Council majority" (Motivations, kept verbatim) is sourced nowhere else. "Council of Guildmasters" appears only at `arc-i-kolat-towers.md:19`.
+> - **Conflicts:** The simulacrum. The adventure has Urstul Floxin take orders from "Manshoon's current simulacrum" (`adventure-wdh.json:32644`), `arc-i-kolat-towers.md:17` says it "has never been activated outside of tests" and is seven years old, which predates the clone's arrival at line 13, and `villains/manshoon.md:69` says Urstul knows only a code and dead drops. The page states the dead-drop line and not the age.
+> - **Conflicts:** Who holds an Eye. The Alexandrian Kolat Towers PDF (book pp. 92, 94 and 96) and `8. The Eyes of the Stone.pdf` p. 62 put an Eye in Kolat Towers, and the campaign has him hold none (`running-the-villains.md:30`; `arc-i-kolat-towers.md:57`). The page follows the campaign.
+> - **Conflicts:** The goal. The published adventure's Wizard-King plan and Halaster's destruction (`adventure-wdh.json:32219`) against the campaign's Weave goal (`villains/manshoon.md:80`). The Villains page owns the goals, so the Background moves its line 38 here and does not state a goal.
+> - **Conflicts:** Wards. The adventure puts Kolat Towers in the Trades Ward at `adventure-wdh.json:560` and the Southern Ward at `:32218`, and puts the Interrogation House in the Trades Ward at `:7174`. The campaign settled the Southern Ward and the North Ward (`history/04-the-founding-of-chains.md:153`; `gazetteer/waterdeep/north-ward.md:272`).
+> - **Conflicts:** Halaster's reason. The adventure says "for reasons unknown" (`adventure-wdh.json:32217`), and the campaign says "professional curiosity" (`arc-i-kolat-towers.md:13`). The Background follows the campaign.
+> - **Conflicts:** The wiki's own Waterdeep account (a Wizard-King plan from Kolat Towers, with the arm kept and reanimated by Halaster) is not the campaign's, and the wiki's early life makes Fzoul a childhood friend while the campaign has him join in 1263 DR. The page follows the campaign and tags the wiki lines.
+> - **Routed to quests:** The night before Ches 1, 1492 DR, when Urstul Floxin's thugs seized Renaer Neverember and Floon Blagmaar, pried the locket open at the Candle Lane warehouse and lost it to Xanathar's Guild's raid, and when Bregan D'aerthe agents lifted Eye #3. Lives in `campaign/quests/act-i/finding-floon/ev-03-zhentarim-warehouse.md:9`, `campaign/locations/zhentarim-warehouse/area-overview.md` and `organizations/09-manshoons-zhentarim.md:33`. The Villains line 36 is not carried onto this page.
+> - **Routed to quests:** The arrests of Zhentarim crews after street brawls (`villains/manshoon.md:90`; `organizations/09-manshoons-zhentarim.md:91` and `:113`). The old Overview's arrest clause is dropped, and the crews take prisoners.
+> - **Routed to quests:** The reveal of his name, identity and motive across three quests. The name comes at the Interrogation House in **Faction Outposts** (`guides/factions/10-manshoons-zhentarim.md:23`; `structure/arc-e-faction-outposts.md:207-211` and `:479`; `villains/manshoon.md:9`, which also carries **Manshoon Named**). The identity comes at **Kolat Towers** (`structure/arc-i-kolat-towers.md:213`). The motive comes at **Vault of Dragons**. The Villains line 41 is not carried onto this page.
+> - **Routed to quests:** The **Manshoon Destroyed**, **Manshoon Simulacrum Only** and **Manshoon Alive** Event Outcomes live in `structure/arc-i-kolat-towers.md:255-261` and are read in `structure/arc-j-vault-of-dragons.md:34` and `:210`. His sunglobe as a Vault item lives at `arc-j-vault-of-dragons.md:118`.
+> - **Routed to quests:** The Dalakhar capture attempt and the raid on the villa (`quests/act-ii/fireball/ev-01-the-fireball.md:184`; `quests/act-ii/gralhund-villa/ev-04-the-zhentarim-raid.md:98`; `ev-09-aftermath.md:40`), the parallel strike on the *Scarlet Marpenoth* (`structure/arc-h-sea-maidens-faire.md:202` and `:278`), the capture of Ott Steeltoes (`guides/factions/10-manshoons-zhentarim.md:25`, **Faction Outposts**), and his offer to the characters who reach him (`adventure-wdh.json:30256`; `villains/manshoon.md:76`).
+> - **Changed sentences (Background, moved from `villains/manshoon.md:25-41`):** Line 35, "His envoys brought it to Xanathar three months before the fireball, and Xanathar killed them and kept it as Eye #1" became "About Nightal 1491 DR (derived), his envoys brought it to Xanathar as a gift, and Xanathar killed them and kept it as Eye #1" (the fireball is a quest event, and the date matches `history/06-the-open-lords-fall.md:135`). "The street war in the Dock Ward began from that day" is added from `organizations/09-manshoons-zhentarim.md:32`. The final clause of line 36, "Manshoon holds no Eye", is kept and the rest of line 36 is routed. Line 30, "The campaign makes the man in Waterdeep a clone of a clone, a body activated..." became "The man in Waterdeep is a clone of a clone, a body activated..." Line 29 gained "Level 9" in the Mad Mage citation (`adventure-wdmm.json:26133` area 1a; `:24359`). Line 40, "The campaign's simulacrum rests ice-preserved in area E7" became "The simulacrum in Kolat Towers rests ice-preserved in area E7". Lines 25-40 became paragraphs, in a new order, and line 25 gained the 1263 DR sentences from `history/04-the-founding-of-chains.md:30`. Line 38 (the published goal) and line 41 (the staged reveal) are not on the page.
+> - **Changed sentences (verbatim blocks):** Summary: the Affiliation bullet gained "He leads this cell and has no part in Davil Starsong's Doom Raiders", the Villains bullet gained "(phases, relationships and goals)", and a Factions Guide and Organizations bullet was added. Resonance, Emotions, Motivations, Inspirations, Persona, Morale and Relationships are unchanged. The old Overview was replaced.
+> - **Voice:** Moved from `.claude/skills/character-voices/voices/manshoons-zhentarim.md` (Manshoon, lines 9-27). Restated as day-one facts here, and the profile needs the same edits. Phases, "The Shadow (Acts I–II)" became "The Shadow (Ches 1, 1492 DR)", and the Architect and Cornered bullets became one "Later moods" bullet that names no act and points to the Villains page. Greeting, "You've been very persistent. Sit. Let us be reasonable, since the alternative is so wasteful." became "Sit. Let us be reasonable, since the alternative is so wasteful." (the persistence is a quest-time fact). Business, "You hold a key to a door I intend to open." became "There is a door in this city I intend to open, and you could help." (the party holds no key on Ches 1). Sound, Sentence shape, Word choice, Swearing, Personality in speech, Quirks, Signature phrases, Never and the Under-pressure line are unchanged. The group intro at line 3 of the profile ("None of them will say Manshoon's name before Phase 2") also needs a day-one restatement, for example "on Ches 1, 1492 DR".
+> - **Design:** Each `[design]` sentence, so it can be reviewed or struck.
+>   - Background, the mother: a Zhentil Keep woman who taught her sons their letters; a fever that took her in four days while he was a boy; the stonecutters sealing her place in the family vault under the keep's old hall; the first death he saw and the lesson that a body can fail with no warning; her death as the first thing he meant the stasis clone spell to answer.
+>   - Background, the arm: no other clone known to have lost a limb, so the arm sets his body apart; the arm as his claim to be the true Manshoon; the hand he bought back in the barrow against the one he cannot; the arm fitted each morning with no servant's help.
+>   - Background, the fear: a betrayal he does not see coming; no one trusted untested since Chess's defection; Sidra Romeir never tested, partly because he does not want the answer.
+>   - Personal goals: Halaster to know which Manshoon he maimed and to recognize him with the hand in plain view; the family vault found whole under Zhentil Keep, with the rebuilding reports read first by him; a winter with no business to read Duhlark Kolat's ten volumes in order, promised in both winters since he took the towers.
+> - **Check:** The new text stays consistent with these sourced facts. The mother and the vault are nameless, and the wiki names no mother (`sources/research/pass4-bundles/manshoon/wiki.txt` line 80). The Shadovar razing of 1383 DR and the rebuilding efforts match `organizations/09-manshoons-zhentarim.md:27`, and the Keep is not rebuilt on Ches 1. He claims to be the one true Manshoon (Emotions, Persona), so the arm is evidence for the claim and not a doubt about it. The ten volumes are from `adventure-wdh.json:30150`. Sidra's loyalty is untested "because testing it would mean he does not already know the answer" (`04-sidra-romeir.md:25`), and she has served about two years (`04-sidra-romeir.md:17`), so the winters since he took the towers are two. No goal restates the Villains page's goals (the Stone, the Weave, the underworld, the simulacrum). No new Notable Figure is named, no plot hook needs a new quest event, and Halaster's recognition is a wish and not a scene. The Cassalanters, the Weave and the Event Outcomes do not appear in the new sentences.
+> - **Stale lines in other files, not edited:** `villains/manshoon.md:137` says the Notable page states no pronouns, and it states he/him. `villains/manshoon.md:90` (Overview) and `organizations/09-manshoons-zhentarim.md:91` and `:113` carry the arrest clause. `villains/manshoon.md:35` and `:36` still say "three months before the fireball" and carry the warehouse raid. `villains/manshoon.md:125` runs two Draft Notes bullets together on one line. `organizations/09-manshoons-zhentarim.md:182` says `gm-guide/structural-rules.md:9` mentions assassinations, and the line does not. `gazetteer/waterdeep/castle-ward.md:131`, `southern-ward.md:48` and `:141`, `history/04-the-founding-of-chains.md:84` and `:92`, `deities/bane.md:73`, and `guides/factions/03-lords-alliance.md:13`, `04-emerald-enclave.md:13`, `05-order-of-the-gauntlet.md:13` and `06-force-grey.md:11` carry **Manshoon Named** gating text. `gazetteer/waterdeep/north-ward.md:40` carries Samara's quest-time misdirection. `history/08-the-players-arrive.md:65` carries the arrests. `sources/SOURCE_GUIDE.md:135` still says he means to eliminate the Doom Raiders. `organizations/09-manshoons-zhentarim.md:11` lists four quests where the Villains page lists ten. `notable-figures/manshoons-zhentarim/13-mookie-plush.md:5` says he/him against the adventure's two female halflings (`adventure-wdh.json:30183`), and `03-vevette-blackwater.md:5` says lawful evil against the adventure's chaotic evil (`:30120`).
+> - **Not run:** `voicecheck.py` has not been run on this page.
