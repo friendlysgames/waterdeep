@@ -146,7 +146,6 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
   - *Greeting:* "Oh, visitors! Have you seen two little rascals, one's a dragon and one's a knight?"
   - *Business:* "I keep them safe, and I keep them counted. That's all a nana does, dear."
   - *Under pressure:* "Lambs, come here, come to Nana, quickly now."
-
 ---
 
 ### Jandar Chergoba
