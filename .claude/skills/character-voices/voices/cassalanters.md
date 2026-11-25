@@ -182,7 +182,6 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
   - *Greeting:* "This is private property. No visitors."
   - *Business:* "Three witnesses. Two handled. The third is a problem I'm solving."
   - *Under pressure:* "Arn. Do it."
-
 ---
 
 ### Arn Xalrondar
