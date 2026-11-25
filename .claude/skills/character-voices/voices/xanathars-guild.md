@@ -209,7 +209,7 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 - **Sentence shape:** Short, practical kitchen sentences. He doesn't make small talk and deflects personal questions with food.
 - **Word choice:** Kitchen talk: pass, service, "table four", dishes by name. He calls patrons by their tables.
 - **Swearing:** *Casual · Plain · Phrase.* Kitchen swearing, behind the pass, never in the dining room ("Shit, the stock's burnt.").
-- **Personality in speech:** Professional pride and attention. His interest in patron patterns shows as casual questions about who's joining whom for supper. Guilt he doesn't examine surfaces as extra care with the party's food.
+- **Personality in speech:** Professional pride and attention. His interest in patron patterns shows as casual questions about who's joining whom for supper. Guilt he doesn't examine surfaces as extra care with the food that goes to the tables he is watching.
 - **Quirks:** He calls orders by table number. He watches the room from the kitchen window while he talks.
 - **Signature phrases:** "Table four wants the lamb." / "Food's up." / "Joining anyone tonight?"
 - **Never:** He never talks about the Guild, never serves bad food, and never lingers in the dining room.
@@ -217,7 +217,6 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
   - *Greeting:* "Evening. The fish is good tonight."
   - *Business:* "Big party tomorrow? I'll need to know numbers. Who's coming?"
   - *Under pressure:* "I just cook. Let me finish service."
-
 ---
 
 ### Tobrin Ashvale

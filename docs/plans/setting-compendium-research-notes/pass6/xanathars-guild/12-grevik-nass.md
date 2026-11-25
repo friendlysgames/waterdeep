@@ -1,7 +1,7 @@
 # Pass 6 research notes: Grevik Nass
 
 Page: `campaign/setting/notable-figures/xanathars-guild/12-grevik-nass.md`
-Brief: `docs/plans/setting-compendium-pass6-brief.md` (rulings 1 to 16; ruling 15 Background, ruling 17 personal goals as relayed by the coordinator)
+Brief: `docs/plans/setting-compendium-pass6-brief.md` (rulings 1 to 16; ruling 15 Background; ruling 17 personal goals as relayed by the coordinator)
 Ruling used: Ches 1, 1492 DR. Grevik is a Xanathar's Guild operative with no Ches 1 post. He is placed in Trollskull Manor only when the party opens the Master Cook post. That placement is a quest event and is routed, not day-one (see C and D).
 
 Method and caveats:
@@ -101,8 +101,8 @@ Tobrin Ashvale is the only named figure tied to Grevik:
 > "**Relationships.** Tobrin is an operative of Xanathar's Guild embedded as the tavern's bartender, one of the Guild's two Trollskull infiltrators alongside Grevik Nass, and the trigger for the Guild's escalating response conditions (detailed in the **Trollskull Manor** guide); when the party crosses a threshold, Tobrin makes the call."
 > — `campaign/setting/notable-figures/xanathars-guild/13-tobrin-ashvale.md:25`
 
-> "| 5 | **Tobrin Ashvale** | NE Chondathan human | ... | Xanathar's Guild watcher. No combat mission; reporting role only. No version of his employment benefits the party. | 10 gp | No Revenue bonus. After 2 tendays: Guild has patron profile and party schedule. |"
-> — `campaign/guides/trollskull-manor/03-staff-and-hiring.md:48` (abridged cells marked `...`; the row is quoted in full there)
+> "| 5 | **Tobrin Ashvale** | NE Chondathan human | Deliberately forgettable — medium height, build, hair, clothes. Glances around the taproom with the casual interest of someone memorizing a room. \"I like the North Ward. Quiet. I'm looking for something steady.\" Functionally competent. DC 14 Insight detects watchful quality behind professional calm. DC 16 Investigation of one Castle Ward reference reveals it has been under Xanathar's Guild protection for two years. If dismissed: Guild sends a replacement within 3 tendays — not bar staff this time. | Xanathar's Guild watcher. No combat mission; reporting role only. No version of his employment benefits the party. | 10 gp | No Revenue bonus. After 2 tendays: Guild has patron profile and party schedule. |"
+> — `campaign/guides/trollskull-manor/03-staff-and-hiring.md:48`
 
 No source ties Grevik to Ahmaergo, Nar'l, Noska, Gorath, Keln Trigos, Nihiloor or Xanathar. Tobrin's Appendix D entry gives the Guild's reason for placing watchers in tavern staff:
 
@@ -183,7 +183,7 @@ Current page: `campaign/setting/notable-figures/xanathars-guild/12-grevik-nass.m
 
 ### C2. Quest-time clauses in the voice profile
 
-Voice profile: `.claude/skills/character-voices/voices/xanathars-guild.md:209-223`. Quoted in full in D8 and G. Quest-time clauses: **none found**. Every line describes a standing habit or a pre-quest state (kitchen speech, table numbers, the kitchen window, what he never does). The only event-shaped line is the sample "*Business:* \"Big party tomorrow? I'll need to know numbers. Who's coming?\"" (`voices/xanathars-guild.md:222`), which is ordinary kitchen talk and is not a trigger.
+Voice profile: `.claude/skills/character-voices/voices/xanathars-guild.md:209-223`. Quest-time clauses: **none found**. Every line describes a standing habit or a pre-quest state (kitchen speech, table numbers, the kitchen window, what he never does). The only event-shaped line is the sample "*Business:* \"Big party tomorrow? I'll need to know numbers. Who's coming?\"" (`voices/xanathars-guild.md:222`), which is ordinary kitchen talk and is not a trigger.
 
 ---
 
@@ -231,7 +231,7 @@ Rank used: campaign files first, then the published adventure, then the Alexandr
 - Higher source: the campaign guide. He does not appear in person, but a visit is triggered by his exposure. The page's Featured-in line should say so, or it is wrong.
 
 **D8. Alexandrian PDF 27 cook roster against Appendix D**
-- PDF 27, printed p.183 [PDF p.6], section "COOKS": the names are "Isgrigg & Dupere", "Turgattan Thornhammer" and "Reynardo Greenleaf" (transcribed from the page image; check with pdftotext). Grevik is not on this list. (Read in full, PDF pages 1 to 20 and 1 to 20 only; see Not readable.)
+- PDF 27, printed p.183 [PDF p.6], section "COOKS": the names are "Isgrigg & Dupere", "Turgattan Thornhammer" and "Reynardo Greenleaf" (transcribed from the page image; check with pdftotext). Grevik is not on this list. (PDF pages 1 to 20 were read; see Not readable.)
 - Appendix D, the Master Cook candidates, names Grevik as candidate 5 (`sources/Appendix_D_-_Running_the_Tavern.md:500`), and the campaign guide follows Appendix D (`campaign/guides/trollskull-manor/03-staff-and-hiring.md:107`).
 - Higher source: the campaign guide. The two Alexandrian rosters differ, and only Appendix D names Grevik.
 
@@ -306,7 +306,7 @@ The drafter may add a Background and personal goals (ruling 15, ruling 17) but m
 
 Each inference is tagged `[research]` in the Background. None is a plot fact. Where no inference is safe, the note says so.
 
-1. **Birth, family, home ward, upbringing.** No source. Suggested: leave unnamed. If a home is needed, "a Dock Ward or Field Ward cook's family" is too specific. Prefer nothing.
+1. **Birth, family, home ward, upbringing.** No source. Suggested: leave unnamed. Prefer nothing.
 2. **Where he learned to cook.** Only "eight years" (`:504`). Suggested [research]: "trained in working kitchens for eight years before the Guild approached him." This keeps the eight years as his claim.
 3. **How and when the Guild recruited him.** Only "the Guild selected him in part because a mediocre chef draws attention" (`:507`) and the general entry test (`08-xanathars-guild.md:32`). Suggested [research]: he passed the Guild's entry test, which "always involves a serious crime" (`:32`), and the crime is not named.
 4. **Rank.** The ladder is at `08-xanathars-guild.md:45`; he is not placed. Suggested [research]: a Guild operative without a rung, since the Guild's own page calls him only "Half-orc cook".
@@ -391,10 +391,10 @@ Searched for `Grevik`, `Nass`, `Master Cook`, `cook`, `kitchen`, `Trollskull`, `
 - `sources/Appendix_C_-_Player_Faction_Missions.md`: no `Grevik`. The only half-orc informant (`:101`) is a woman and is not Grevik.
 - `sources/Act_III_Arc_E.md`: no `Grevik`; no `Field Ward` (count 0).
 - `sources/Appendix_D_-_Running_the_Tavern.md`: `Grevik` at `:500`–`:515`, `:1521`; Tobrin's parallel entry at `:190`–`:201`.
-- `sources/27. Addendum A Night in Trollskull Manor.pdf` (PDF pages 1 to 20, printed pp.178 to 197): no Grevik. Staffing (printed p.182, "The PCs will also need to hire staff: A bartender, barmaids, and cooks.") and COOKS (printed p.183) list other cooks (D8). Patron profiles from printed p.192 to 197 (Tally, Embric, Avi, Fala, Vincent, Rishaal, the start of Hammond) name no Grevik. PDF pages after 20 were not read (E).
-- `sources/5. Faction Outposts.pdf` (13 PDF pages): read PDF pages 1–2, 7–8 and 9–13 (printed pp.36–37, 42–48). Xanathar outposts (Terasse Estate, printed pp.42–43; Grinda Garloth, p.43; Orb Confectioners, pp.44) name no Grevik and no Trollskull or Field Ward front. The Zhentarim Interrogation House (p.45) and Yellowspire (p.46) also name no Grevik. PDF pages 3–6 (printed pp.38–41, Bregan D'aerthe and Seven Masks) were not read; they sit before the Xanathar section.
+- `sources/27. Addendum A Night in Trollskull Manor.pdf` (PDF pages 1 to 20, printed pp.178 to 197): no Grevik. Staffing (printed p.182, "The PCs will also need to hire staff: A bartender, barmaids, and cooks.") and COOKS (printed p.183) list other cooks (D8). Patron profiles from printed p.192 to 197 (Tally, Embric, Avi, Fala, Vincent, Rishaal, the start of Hammond) name no Grevik. PDF pages after 20 were not read (see Not readable).
+- `sources/5. Faction Outposts.pdf` (13 PDF pages): read PDF pages 1–2, 7–8 and 9–13 (printed pp.36–37, 42–48). Xanathar outposts (Terasse Estate, printed pp.42–43; Grinda Garloth, p.43; Orb Confectioners, p.44) name no Grevik and no Trollskull or Field Ward front. The Zhentarim Interrogation House (p.45) and Yellowspire (p.46) also name no Grevik. PDF pages 3–6 (printed pp.38–41, Bregan D'aerthe and Seven Masks) were not read; they sit before the Xanathar section.
 - `sources/17. Outpost and Lair Revelation Lists.pdf` p.123 [PDF p.3]: Xanathar's Lair revelations (`LAIR: XANATHAR'S LAIR`) list "Rescuing Ott Steeltoes", "A Note Regarding Gladiatorial Weapons", "Gladiatorial Gathering Point (Terasse Estate)" and "Correspondence with N'arl Xibrindas". No Grevik, no Trollskull revelation.
-- `sources/11. Lair  Xanathar’s Lair.pdf`: not read in full. It covers the lair, not staff; no Grevik expected. Not checked.
+- `sources/11. Lair  Xanathar’s Lair.pdf`: not read. It covers the lair, not staff; no Grevik expected. Not checked.
 - `sources/SOURCE_GUIDE.md`: no `Grevik`. The Trollskull entries point to `campaign/guides/trollskull-manor/03-staff-and-hiring.md:48`, `:57`, `:107` (`SOURCE_GUIDE.md:298`), so the guide itself is listed for Grevik.
 - Wiki: `scratchpad/wiki-xg/Grevik_Nass.txt` = `NOT FOUND`. `scratchpad/wiki-xg/*` (15 files): no `Grevik` or `Nass`. `sources/research/pass5-bundles/xanathars-guild/wiki.txt`: no `Grevik`, `Nass`, `cook` or `Trollskull` for the Guild wiki. Other `sources/research/**/wiki.txt`: no `Grevik`.
 - `docs/plans/setting-compendium-research-notes/pass5/xanathars-guild.md`: Key Members check only.
