@@ -2,8 +2,10 @@
 
 Research only. No page was written. Every quote was copied from a tool result in this pass. Line numbers come from `Read` or `Grep` output, or from the stated printed page.
 
+Scratchpad root used below: `/tmp/claude-0/-home-user-waterdeep/a51d8faf-477c-574c-b157-e1f22664bc3c/scratchpad`
+
 Method and source status:
-- The scratchpad wiki extract `/tmp/claude-0/-home-user-waterdeep/a51d8faf-477c-574c-b157-e1f22664bc3c/scratchpad/wiki-manshoons-zhentarim/04-sidra-romeir.txt` reads, in full: "NOT FOUND" (line 1). Confirmed below.
+- The wiki extract `/tmp/claude-0/-home-user-waterdeep/a51d8faf-477c-574c-b157-e1f22664bc3c/scratchpad/wiki-manshoons-zhentarim/04-sidra-romeir.txt` reads, in full: "NOT FOUND" (line 1). Confirmed below.
 - The Alexandrian PDFs are image pages. Quotes from them were transcribed by reading the page image, not from a text layer. Each PDF quote is flagged **[check with pdftotext]**. Printed page numbers are given.
 - No shell was available, so `pdftotext` was not run.
 
@@ -12,14 +14,14 @@ Method and source status:
 ## Wiki check (NOT FOUND confirmed)
 
 - `sources/research/**/wiki*.txt`: a Grep for `Sidra|Romeir` restricted to `wiki*.txt` returns no files.
-- Scratchpad `fandom-dump/forgottenrealms_pages_current.xml` (a Forgotten Realms Wiki dump): the only hit is one index line. It is not an article on Sidra. Location: `…/scratchpad/fandom-dump/forgottenrealms_pages_current.xml:3744333`. Quote:
+- Wiki dump `/tmp/claude-0/-home-user-waterdeep/a51d8faf-477c-574c-b157-e1f22664bc3c/scratchpad/fandom-dump/forgottenrealms_pages_current.xml` (a Forgotten Realms Wiki dump): the only hit is one index line. It is not an article on Sidra. Location: line 3744333. Quote:
   > "{{P|[[Savra Belabranta]]|39,48}} • {{P|[[Seffia Naelryke]]|70}} • {{P|[[Sembra Vashir]]|78}} • {{P|[[Shan Chien]]|79}} • {{P|[[Sidra Romeir]]|148,149}}"
-  > — `scratchpad/fandom-dump/forgottenrealms_pages_current.xml:3744333` (the Humans entry of the "Characters" index of the *Waterdeep: Dragon Heist* article; the numbers are *Dragon Heist* pages 148 and 149)
+  > — `…/scratchpad/fandom-dump/forgottenrealms_pages_current.xml:3744333` (the Humans entry of the "Characters" index of the *Waterdeep: Dragon Heist* article; the numbers are *Dragon Heist* pages 148 and 149)
 
   The article is the 5e adventure. Its text at line 3744301 reads, in part:
   > "For use with the fifth edition"
-  > — `scratchpad/fandom-dump/forgottenrealms_pages_current.xml:3744301`
-- `scratchpad/wiki-manshoons-zhentarim/`: `01-manshoon.txt` to `14-yorn-the-terror.txt`. Only `04-sidra-romeir.txt` is a NOT FOUND stub.
+  > — `…/scratchpad/fandom-dump/forgottenrealms_pages_current.xml:3744301`
+- `…/scratchpad/wiki-manshoons-zhentarim/`: `01-manshoon.txt` to `14-yorn-the-terror.txt`. Only `04-sidra-romeir.txt` is a NOT FOUND stub.
 - Conclusion: no wiki article on Sidra. The only wiki fact is the index entry above (DH pages 148–149).
 
 ---
@@ -254,7 +256,7 @@ The current page is `campaign/setting/notable-figures/manshoons-zhentarim/04-sid
 **E4. No Sidra in the revelation lists**
 - Factions Guide: `campaign/guides/factions/10-manshoons-zhentarim.md`, section "## Revelation List" (lines 58–78), read in full. No entry names Sidra. The guide's only Sidra mention is line 54 (E3).
 - Alexandrian `sources/17. Outpost and Lair Revelation Lists.pdf`, printed p. 124 (Zhentarim Locations) [check with pdftotext]: the headings "ZHENTARIM INTERROGATION HOUSE", "YELLOWSPIRE" and "LAIR: KOLAT TOWERS" carry entries that name no Sidra. The Kolat entries are "Xanathar's Report on the Grand Game (Xanathar's Lair)", "Cassalanter's Report on the Grand Game (Cassalanter Villa)", "Teleportation circle (Yellowspire)", "Capturing Agorn Fuoco (Response Team: Agorn Fuoco)" and "Questioning Samara (Xanathar's Lair)".
-- The pass 5 notes say the opposite: "Urstul, Sidra and Agorn carry the revelation-list items named in the Factions Guide (Section 5)." (`docs/plans/setting-compendium-research-notes/pass5/zhentarim.md:136`). Neither file supports this.
+- The pass 5 notes make a claim the two files do not support: "Urstul, Sidra and Agorn carry the revelation-list items named in the Factions Guide (Section 5)." (`docs/plans/setting-compendium-research-notes/pass5/zhentarim.md:136`).
 
 **E5. Stale citation in another file**
 - `docs/plans/faerun-ethnicities-research.md:334` cites the summary line as `04-sidra-romeir.md:6`. The summary line is line 5 (`04-sidra-romeir.md:5`).
@@ -369,7 +371,7 @@ For each gap: the sourced facts the drafter must stay consistent with, then a su
 - `campaign/setting/notable-figures/manshoons-zhentarim/01-manshoon.md:26` (E6)
 - `campaign/setting/notable-figures/manshoons-zhentarim/04-sidra-romeir.md:1`, `:5`, `:6`, `:7`, `:11`, `:13`, `:15`, `:17`, `:21`, `:23`, `:25`, `:29` (the page itself)
 - `campaign/setting/notable-figures/manshoons-zhentarim/11-kaevja-cynavern.md:25` (D11)
-- `campaign/setting/organizations/09-manshoons-zhentarim.md:8`, `:15`, `:19`, `:41`, `:46`, `:54`, `:60`, `:71`, `:97`, `:99`, `:152` (Sidra cited at `:8`, `:41`, `:54`, `:71`, `:97`, `:152`; the rest are for context)
+- `campaign/setting/organizations/09-manshoons-zhentarim.md`: Sidra at `:8`, `:41`, `:54`, `:71`, `:97`, `:152`; context lines `:15`, `:19`, `:46`, `:60`, `:99`
 - `campaign/setting/villains/manshoon.md:33`, `:65`, `:74`, `:116`, `:125`
 - `campaign/structure/arc-i-kolat-towers.md:15`, `:101`, `:102`, `:104`, `:122`, `:174`, `:176`, `:184`, `:320`
 - `campaign/setting/the-grand-game/what-each-faction-knows-at-start.md:8`, `:25`
@@ -377,18 +379,18 @@ For each gap: the sourced facts the drafter must stay consistent with, then a su
 - `docs/plans/npc-pronouns-table-group-c.md:48`
 - `docs/plans/setting-compendium-research-notes/pass5/zhentarim.md:136`, `:188`, `:254`, `:260`
 - `sources/SOURCE_GUIDE.md:35`
-- `sources/Appendix_D_-_Running_the_Tavern.md:1320`: "1. Lights have been seen in Kolat Towers, the Zhentarim's abandoned wizard's tower in the Southern Ward. She mentions this as though it were a footnote. It is not a footnote." (no Sidra; cross-reference to the Towers' reputation)
+- `sources/Appendix_D_-_Running_the_Tavern.md:1320`: "1. Lights have been seen in Kolat Towers, the Zhentarim's abandoned wizard's tower in the Southern Ward. She mentions this as though it were a footnote. It is not a footnote." (no Sidra; the Towers' reputation)
 - `sources/adventure-wdh.json`: `:297`, `:298`, `:560`, `:1443`, `:1446`, `:13377`, `:26763`, `:28137`, `:28145`, `:28155`, `:28156`, `:28514`, `:28523`, `:28822`, `:29957`, `:29988`, `:29992`, `:32215`, `:32218`
 - `sources/12. Lair  Zhentarim – Kolat Towers.pdf`, printed pp. 94–95 (Sidra entries) [check with pdftotext]
 - `sources/1. The Villains.pdf` printed p. 16 (no Sidra) and `sources/17. Outpost and Lair Revelation Lists.pdf` printed p. 124 (no Sidra) [check with pdftotext]
-- `scratchpad/fandom-dump/forgottenrealms_pages_current.xml:3744301`, `:3744333` (wiki index only)
+- Wiki dump, index only: `…/scratchpad/fandom-dump/forgottenrealms_pages_current.xml:3744301`, `:3744333`
 
 ---
 
 ## J. Not found
 
 Searched for `Sidra` or `Romeir`, or for the content listed:
-- Wiki: `sources/research/**/wiki*.txt` (no hits); `scratchpad/wiki-manshoons-zhentarim/` (only `04-sidra-romeir.txt`, a NOT FOUND stub); `scratchpad/fandom-dump/forgottenrealms_pages_current.xml` (one index line, no article).
+- Wiki: `sources/research/**/wiki*.txt` (no hits); `…/scratchpad/wiki-manshoons-zhentarim/` (only `04-sidra-romeir.txt`, a NOT FOUND stub); the wiki dump (one index line, no article).
 - Published adventure: `sources/adventure-wdh.json` (all hits listed in I). No line gives Sidra's birthplace, family, age, faith, a teacher, or how she joined. No line names a lieutenant she served under.
 - Alexandrian markdown: a Grep for `Sidra|Romeir|Kolat|teleporter` across `sources/*.md` finds no Sidra hit in `Act_III_Arc_D.md`, `Act_III_Arc_E.md`, `Appendix_B_-_Player_Factions.md`, `Appendix_C_-_Player_Faction_Missions.md`, or `Appendix_D_-_Running_the_Tavern.md`.
 - Alexandrian PDFs read in full for Sidra: `12. Lair  Zhentarim – Kolat Towers.pdf` (5 pages; printed 92–96); `1. The Villains.pdf` (7 pages; printed 13–19; no Sidra; the Zhentarim section is printed p. 16); `5. Faction Outposts.pdf` (13 pages; printed 36–48; the Zhentarim outposts are printed pp. 45–46; no Sidra); `17. Outpost and Lair Revelation Lists.pdf` (4 pages; printed 121–124; no Sidra).
