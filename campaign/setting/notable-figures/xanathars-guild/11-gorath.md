@@ -9,7 +9,7 @@
 > - **Faction pages:** the **Xanathar's Guild** page in the Factions Guide (response teams, outposts, escalation and revelation list) and the **Xanathar's Guild** page in Organizations (lore)
 > - **Featured in:** **Faction Outposts**, **Xanathar's Lair**
 
-**Gorath** (Lawful evil, duergar, he/him) `[research]`
+**Gorath** (Lawful evil, duergar, he/him)
 
 ## Background
 
