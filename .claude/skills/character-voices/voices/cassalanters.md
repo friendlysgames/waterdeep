@@ -226,14 +226,13 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Word choice:** Service basics: orders, tables, "anything else?".
 - **Swearing:** *Stingy · Plain · Clipped.* Never at work.
 - **Personality in speech:** Professional neutrality. Her watchfulness shows only in how well she remembers. Mild contempt for the work is well hidden.
-- **Quirks:** She gets every order right the first time. She goes still if Sister Valdra walks in.
+- **Quirks:** She gets every order right the first time. She goes still if someone who has seen her at a Cassalanter function walks in.
 - **Signature phrases:** "Anything else?" / "Same as last time?"
-- **Never:** She never draws attention, never slips, and never acknowledges Valdra.
+- **Never:** She never draws attention, never slips, and never acknowledges anyone who recognizes her.
 - **Sample lines:**
   - *Greeting:* "Same as last time? Cider and the pie?"
   - *Business:* "The gentleman in blue comes Thursdays. Sits with the half-elf. Anything else?"
   - *Under pressure:* "Excuse me, I'm needed in the kitchen."
-
 ---
 
 ### Caladorn Cassalanter
