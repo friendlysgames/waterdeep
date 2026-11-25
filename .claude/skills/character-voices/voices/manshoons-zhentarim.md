@@ -192,10 +192,9 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Signature phrases:** "Breach, E3." / "Rational choice." / "Reinforcements inbound."
 - **Never:** She never lets the Sending go uncast, never hesitates, and never pretends loyalty is sentiment.
 - **Sample lines:**
-  - *Greeting:* "Breach." (she's already casting)
-  - *Business (Sending):* "Breach at E3, four intruders, armed, one caster. Mask discharged. Request immediate reinforcement. Holding."
+  - *Greeting:* "Breach." (she begins casting as she says it)
+  - *Business (Sending):* "Breach at E3, intruders inside, armed, one caster. Request immediate reinforcement. Holding."
   - *Under pressure:* "Shit, that's not in the protocol. Fall back to E4."
-
 ---
 
 ### Havia Quickknife
@@ -213,7 +212,6 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
   - *Greeting:* "No further."
   - *Business:* (silence)
   - *Under pressure:* "For him."
-
 ---
 
 ### Mookie Plush
