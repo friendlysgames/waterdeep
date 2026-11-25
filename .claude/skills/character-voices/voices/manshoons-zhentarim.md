@@ -229,7 +229,6 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
   - *Greeting:* "Oh, hi! Where are you all from? I love meeting people."
   - *Business:* "I wish you'd come on a different day, honestly. The boss needs me, though."
   - *Under pressure:* "Aw, shit, sorry, friend. Hold still, it's quicker."
-
 ---
 
 ### Yorn the Terror
