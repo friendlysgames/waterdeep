@@ -147,12 +147,12 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 ---
 
 ### Vira Solkan
-*A quiet junior arcanist whose unremarkable manner is six weeks of careful acting.*
+*A quiet junior arcanist whose unremarkable manner is careful acting.*
 
 - **Sound:** A soft, slightly shy voice, easily talked over.
-- **Sentence shape:** Short, modest, competent answers in cover. Exposed, a cold, clear, businesslike voice replaces it.
-- **Word choice:** Junior-arcanist deference ("I'm only on the second-floor rotation"). Exposed, operational: "activation", "extraction".
-- **Swearing:** *Stingy · Plain · Clipped.* None in cover. A single cold "fuck" when she's exposed.
+- **Sentence shape:** Short, modest, competent answers in cover. Under pressure, a cold, clear, businesslike voice replaces it.
+- **Word choice:** Junior-arcanist deference ("I'm only on the second-floor rotation"). Under pressure, operational: "extraction", "exit".
+- **Swearing:** *Stingy · Plain · Clipped.* None in cover. A single cold "fuck" under real pressure.
 - **Personality in speech:** Practised stillness. She disappears into competence. Private contempt for the Tower's complacency leaks as a too-precise answer about wards.
 - **Quirks:** She apologises for being in the way. She stays late and says she likes the quiet.
 - **Signature phrases:** "I'm only junior." / "I like the quiet." / "It's nothing, really."
@@ -160,8 +160,7 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Sample lines:**
   - *Greeting:* "Oh, sorry, am I in your way? I'm only on the second-floor rotation."
   - *Business (cover):* "The wards? I wouldn't know much about them. I just log the readings."
-  - *Under pressure (exposed):* "Fuck. Well, you're too late, it's already in place."
-
+  - *Under pressure:* "Fuck. Who told you to ask me that?"
 ---
 
 ### Manafret Cherryport
@@ -179,7 +178,6 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
   - *Greeting:* "Oh! Visitors! Have you eaten, dear? Sit, sit, there's lamb and a lovely pudding."
   - *Business:* "Shall I tell Lord Manshoon you've arrived? He does like to know."
   - *Under pressure:* "Oh, burnt biscuits, you're not guests at all, are you?"
-
 ---
 
 ### Kaevja Cynavern
