@@ -34,13 +34,13 @@ He keeps a collection of black flying snakes as couriers and talks to them more 
 ## Connections
 
 - **Manshoon:** The master Floxin answers to. Orders reach him through a code and a chain of dead drops (**Manshoon**, Villains), and he will not name the man behind them.
-- **The cell's street crews:** The thugs and spies Floxin leads. Five of them seized Renaer Neverember and Floon Blagmaar the night before Ches 1, and Xanathar's Guild killed the cell's agents in the warehouse where they held the two men.
+- **The cell's street crews:** The thugs and spies Floxin leads. Five of them seized Renaer Neverember and Floon Blagmaar the night before Ches 1.
 - **Yalah Gralhund:** She pays for the contingent, treats it as her spy network and treats Floxin as an underling. She does not know that Manshoon is the cell's master.
 - **Orond Gralhund:** He believes that the local leaders of the Black Network, with Floxin chief among them, are simply residents of his family's villa. He knows nothing of the wizard's clone.
 - **Dalakhar:** The gnome whose movements Floxin's team is tracking.
 - **Renaer Neverember** and **Floon Blagmaar:** The two men his thugs seized the night before Ches 1. The failed seizure sits badly with Floxin.
 - **The Zhentarim (Doom Raiders):** The older cell, which despises Manshoon's cell and will not cooperate with it. Davil Starsong's people believe that Floxin leads the rival cell, and he does not.
-- **Xanathar's Guild:** The enemy in the Dock Ward brawls, and the force that killed his agents at the Candle Lane warehouse.
+- **Xanathar's Guild:** The enemy in the Dock Ward brawls.
 - Hyustus Staget: The Dock Ward captain who had a detail on him and pulled it. Staget does not share what he knows with strangers.
 - His brother and his mother: His brother drowned at the quay of a northern village, and Floxin still wants to learn who ordered it. His mother lives on in that village and does not know what he does `[design]`. Neither is named.
 

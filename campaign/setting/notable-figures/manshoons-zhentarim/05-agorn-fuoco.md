@@ -35,7 +35,7 @@ In the field he sends his thugs ahead and hangs back himself, and he leaves at t
 
 - **Manshoon:** The wizard he serves, who raised him quickly after a good first impression. The adventure counts him with Vevette Blackwater among Manshoon's most trusted followers (*Dragon Heist*, 5e). See **Manshoon** in Villains for the wizard's plans.
 - **Amath Sercent:** His romantic partner, who keeps Yellowspire in the Castle Ward as a Banite priestess allied with Manshoon. Agorn visits her there from dusk to midnight on some evenings.
-- **Vevette Blackwater:** The other lieutenant who leads a field team, and the one he shares the towers' sleeping quarters with. No source records how he feels about her `[research]`.
+- **Vevette Blackwater:** The other lieutenant who leads a field team, and the one he shares the Zhent quarters behind the towers with. No source records how he feels about her `[research]`.
 - **Urstul Floxin:** The chief field operative, who reviews the field reports that Agorn and **Avareen Windrivver** file. No source records a rivalry between them `[research]`.
 - **Sidra Romeir:** The lieutenant who runs the ground floor of Kolat Towers.
 - **His thugs:** Three or four hired thugs who work under him. He sends them into danger and hangs back.

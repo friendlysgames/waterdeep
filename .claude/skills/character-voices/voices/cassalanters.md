@@ -49,10 +49,10 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 ### Willifort Crowelle
 *The impeccable tiefling butler who knows exactly what every guest needs, and exactly where every door leads.*
 
-- **Sound:** A dry, precise, elderly voice, perfectly correct. Unmasked, flat and alien.
+- **Sound:** A dry, precise, elderly voice, perfectly correct. With the few who know what he is, flat and alien.
 - **Sentence shape:** Formal, courteous butler's sentences with no contractions, deliberately (a break from `ember-voice` speech). He steers conversations with polite redirections.
-- **Word choice:** Service formality: "sir", "madam", "if you would follow me", "the family". Unmasked, cold and brief.
-- **Swearing:** *Never · Plain · n/a.* Not even unmasked. The creature underneath has no use for it.
+- **Word choice:** Service formality: "sir", "madam", "if you would follow me", "the family". With the few who know what he is, cold and brief.
+- **Swearing:** *Never · Plain · n/a.* Not even with the few who know what he is. The creature underneath has no use for it.
 - **Personality in speech:** Clinical detachment behind perfect service. He steers the nosy away from the wrong corridors with courtesy. Contempt for easily deceived guests never reaches his words, only his eyes.
 - **Quirks:** He anticipates requests before they're made. He adjusts his spectacles before a redirection.
 - **Signature phrases:** "If you would follow me." / "The family is not receiving in that wing." / "Very good, sir."
@@ -60,8 +60,7 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sample lines:**
   - *Greeting:* "Good evening. The family is expecting you. If you would follow me."
   - *Business:* "The east wing is closed for renovation, madam. The gardens are this way."
-  - *Under pressure (unmasked):* "You should not have come down here."
-
+  - *Under pressure (to someone who has wandered where they should not):* "You should not have come down here."
 ---
 
 ### Osvaldo Cassalanter
