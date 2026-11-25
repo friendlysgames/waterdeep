@@ -35,10 +35,9 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Signature phrases:** "Delightful." / "Useful, or dangerous? Ideally both." / "Let us come to an arrangement."
 - **Never:** He never loses his temper, never breaks a deal he's proud of, and never lets anyone see the whole scheme.
 - **Sample lines:**
-  - *Greeting:* "Ah. The famous tavern-keepers. Please, sit; I've been looking forward to deciding whether you're useful or dangerous. Ideally both."
-  - *Business:* "You want the Eye. I want Luskan at the Lords' table. I suspect there's an arrangement here that leaves us both delighted and someone else quite upset."
+  - *Greeting:* "Ah. You must be the ones I've heard about. Please, sit; I've been looking forward to deciding whether you're useful or dangerous. Ideally both."
+  - *Business:* "You want something from me. I want Luskan at the Lords' table. I suspect there's an arrangement here that leaves us both delighted and someone else quite upset."
   - *Under pressure:* "Draw that, and my crew will be very sad to lose such a promising friend. Put it away, and we can be friends a while longer."
-
 ---
 
 ### Soluun Xibrindas
