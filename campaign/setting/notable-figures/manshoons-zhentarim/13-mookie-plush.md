@@ -31,7 +31,7 @@ On Ches 1, 1492 DR Mookie receives every visitor to the audience chamber the way
 
 To most people who have met him, Mookie Plush is the friendlier of the two halflings who keep Manshoon's audience chamber. He smiles easily, asks about your family and your road, and sounds sorry when something unpleasant has to happen. His warmth is real, and it has no bearing on what he does next.
 
-He calls Manshoon the boss and says that the boss needs him, and he says it cheerfully. He greets Havia Quickknife's visitors and his own in the same way, and he writes down where each of them is from.
+He calls Manshoon the boss and says that the boss needs him, and he says it cheerfully. He asks every visitor where they are from, and he writes the answer down.
 
 ## Connections
 
@@ -73,7 +73,7 @@ Mookie Plush is a cheerful lightfoot halfling who asks everyone he meets for a n
 
 ## Character Information
 
-**Persona.** To the world, Mookie Plush is the friendlier of the two halflings in the audience chamber — he smiles easily, seems genuinely interested in who the party is, and gives a distinct impression that he would rather this did not have to happen. To anyone who probes this affect, it does not crack because there is nothing beneath it to crack: he is genuinely warm, genuinely loyal, and genuinely willing to kill everyone in the room. Deep down, he found what he was looking for when Manshoon offered him a place, and the finding resolved him completely.
+**Persona.** To the world, Mookie Plush is the friendlier of the two halflings in the audience chamber — he smiles easily, seems genuinely interested in who a visitor is, and gives a distinct impression that he would rather this did not have to happen. To anyone who probes this affect, it does not crack because there is nothing beneath it to crack: he is genuinely warm, genuinely loyal, and genuinely willing to kill everyone in the room. Deep down, he found what he was looking for when Manshoon offered him a place, and the finding resolved him completely.
 
 **Morale.** Mookie fights to death, like Havia, but with a quality of sad inevitability he brings to the engagement — not cruelty, not rage, just commitment. He does not retreat. He does not negotiate. He occasionally says something kind in the middle of something terrible.
 
@@ -125,5 +125,5 @@ Mookie Plush is a cheerful lightfoot halfling who asks everyone he meets for a n
 >   - Personal goals: finding the younger brother and returning the doll with the pearls inside; asking travelers for hometowns to hear the village's name; a stone for the mother's grave on the fenced lot and the savings toward the keepers' fee.
 >   - Personality and Connections: the ledger habit in Personality, and the entry for the younger brother.
 > - **Check:** The new text stays consistent with these sourced facts. He and Havia keep E10, hold that Manshoon is the rightful leader, will sacrifice themselves, wear teleporter rings and sleep in E11 (`adventure-wdh.json:30183`, `:30192`, `:30212`), and the chest holds a tiny halfling doll with a pouch of five 100 gp pearls (`:30224`). It names no city, no clan hold, no named relative and no new Notable Figure. It claims nothing about Havia beyond the pairing, the shared quarters and the rings. It places no secret, Event Outcome, Eye or Cassalanter matter on the page, and Mookie's warmth and his willingness to kill stay as Emotions and Motivations have them.
-> - **Stale lines in other files, not edited:** `campaign/structure/arc-i-kolat-towers.md:320` lists the Mookie Plush profile as "new profiles needed", and the profile exists. `docs/plans/npc-pronouns-table-group-c.md:57` rests its "High" on the page's prose. `campaign/setting/notable-figures/manshoons-zhentarim/12-havia-quickknife.md:25` (previous version) calls Mookie's death a play note by implication only and needs no change.
+> - **Stale lines in other files, not edited:** `campaign/structure/arc-i-kolat-towers.md:320` lists the Mookie Plush profile as "new profiles needed", and the profile exists. `docs/plans/npc-pronouns-table-group-c.md:57` rests its "High" on the page's prose.
 > - **Not run:** `voicecheck.py` has not been run on this page, and `pdftotext` was not available.
