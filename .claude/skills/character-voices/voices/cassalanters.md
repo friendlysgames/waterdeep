@@ -9,29 +9,31 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 ### Victoro Cassalanter
 *A charming, gracious banker-philanthropist whose perfect manners never crack, until the day they do.*
 
-- **Sound:** A warm, cultured half-elf baritone with an easy smile in it. In his later moods (see Phases below), the warmth thins into tired, deliberate precision.
-- **Sentence shape:** Public: generous, flowing, gracious sentences, compliments and invitations. In his later moods: measured, reasoned, technically true statements, and a fracture that shows as unfinished sentences.
-- **Word choice:** Public: philanthropy, Lathander's light, "our city's less fortunate", "my darling twins". In his later moods: contract language ("the terms", "the clause", "the price"). He never says "Osvaldo" if he can avoid it.
-- **Swearing:** *Stingy · Plain · Clipped.* Never in public. In his later moods, a single broken "Damn it all," or worse, when his children are threatened, and it's the moment he fractures.
-- **Personality in speech:** Calculated charm and paternal desperation. His love for his children is real and audible. He says only true things and leaves out the one that matters (the feast). In his later moods he starts to fracture where Ammalia holds.
+- **Sound:** A warm, cultured half-elf baritone with an easy smile in it. After discovery, the warmth thins into tired, deliberate precision.
+- **Sentence shape:** Public: generous, flowing, gracious sentences, compliments and invitations. After discovery: measured, reasoned, technically true statements, and a fracture that shows as unfinished sentences.
+- **Word choice:** Public: philanthropy, Lathander's light, "our city's less fortunate", "my darling twins". After discovery: contract language ("the terms", "the clause", "the price"). He never says "Osvaldo" if he can avoid it.
+- **Swearing:** *Stingy · Plain · Clipped.* Never in public. After discovery, a single broken "Damn it all," or worse, when his children are threatened, and it's the moment he fractures.
+- **Personality in speech:** Calculated charm and paternal desperation. His love for his children is real and audible. After discovery he says only true things and leaves out the one that matters (the feast). He's starting to fracture where Ammalia holds.
 - **Phases:**
-  - **The Generous Patrons (Ches 1, 1492 DR):** warm and at ease.
-  - **Later moods:** the Desperate Parents have the mask off and are reasoned, tired, and pleading through dignity. The Hosts of Founders' Day have a terrible calm and take any genuine alternative at once, without haggling. Both are keyed to the quest phases on **The Cassalanters** (Villains).
+  - **The Generous Patrons:** warm and at ease.
+  - **The Desperate Parents:** the mask is off; he's reasoned, tired, and pleading through dignity.
+  - **The Sacrificers:** a terrible calm. He'll take any genuine alternative at once, without haggling.
 - **Quirks:** He taps the ruby-tipped cane when thinking. He smiles before bad news. He turns the talk to his children whenever he can.
 - **Signature phrases:** "Lathander's light on you." / "What can we do for the city?" / "Everything I've told you is true."
 - **Never:** Publicly, he never lets anything slip about devils or pacts. He never goes to the attic, and never says the number of the feast's victims aloud.
 - **Sample lines:**
   - *Greeting (public):* "Welcome, welcome! Lathander's light on you. Please, the twins have been dying to meet real adventurers."
   - *Business (public):* "The orphanage needs a new roof before winter. Whatever you're looking for, perhaps we can help each other."
-  - *Later mood (Desperate Parents):* "Everything I've told you is true. My children's souls were promised. I am trying to buy them back. What would you have done?"
+  - *After discovery:* "Everything I've told you is true. My children's souls were promised. I am trying to buy them back. What would you have done?"
+
 ---
 
 ### Ammalia Cassalanter
 *An exquisite, hard-bargaining noblewoman whose composure never breaks, even when it should.*
 
 - **Sound:** A clear, elegant, controlled voice with a negotiator's edge. It softens completely with the twins.
-- **Sentence shape:** Poised, precise sentences and probing questions. She sets terms before others know they're negotiating. In her later moods (the phases on **The Cassalanters** in Villains): steady, cold and entirely in control.
-- **Word choice:** Public: gardens, butterflies, society, charity, "a fair arrangement". In her later moods: planning language ("the feast", "the timetable", "what must be done").
+- **Sentence shape:** Poised, precise sentences and probing questions. She sets terms before others know they're negotiating. After discovery: steady, cold and entirely in control.
+- **Word choice:** Public: gardens, butterflies, society, charity, "a fair arrangement". After discovery: planning language ("the feast", "the timetable", "what must be done").
 - **Swearing:** *Never · Plain · n/a.* Her control is total. The one crack is a softened voice reading stories in the attic.
 - **Personality in speech:** Shrewd calculation and maternal desperation. She makes the plans and speaks like it. Her grief for Osvaldo is channelled into ruthlessness and is never spoken aloud to outsiders.
 - **Quirks:** She names butterflies by species mid-conversation. She asks one question that shows she's researched the listener.
@@ -40,16 +42,17 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sample lines:**
   - *Greeting (public):* "You must be the tavern owners. I've heard wonderful things. Walk with me; the garden's lovely at this hour."
   - *Business (public):* "I drive a hard bargain, I'm told. Shall we come to terms, and see if the rumour's true?"
-  - *Later mood:* "You think I'm a monster. I'm a mother with a deadline. Offer me something better, and I'll take it this instant."
+  - *After discovery:* "You think I'm a monster. I'm a mother with a deadline. Offer me something better, and I'll take it this instant."
+
 ---
 
 ### Willifort Crowelle
 *The impeccable tiefling butler who knows exactly what every guest needs, and exactly where every door leads.*
 
-- **Sound:** A dry, precise, elderly voice, perfectly correct. Unmasked, flat and alien.
+- **Sound:** A dry, precise, elderly voice, perfectly correct. With the few who know what he is, flat and alien.
 - **Sentence shape:** Formal, courteous butler's sentences with no contractions, deliberately (a break from `ember-voice` speech). He steers conversations with polite redirections.
-- **Word choice:** Service formality: "sir", "madam", "if you would follow me", "the family". Unmasked, cold and brief.
-- **Swearing:** *Never · Plain · n/a.* Not even unmasked. The creature underneath has no use for it.
+- **Word choice:** Service formality: "sir", "madam", "if you would follow me", "the family". With the few who know what he is, cold and brief.
+- **Swearing:** *Never · Plain · n/a.* Not even with the few who know what he is. The creature underneath has no use for it.
 - **Personality in speech:** Clinical detachment behind perfect service. He steers the nosy away from the wrong corridors with courtesy. Contempt for easily deceived guests never reaches his words, only his eyes.
 - **Quirks:** He anticipates requests before they're made. He adjusts his spectacles before a redirection.
 - **Signature phrases:** "If you would follow me." / "The family is not receiving in that wing." / "Very good, sir."
@@ -57,8 +60,7 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sample lines:**
   - *Greeting:* "Good evening. The family is expecting you. If you would follow me."
   - *Business:* "The east wing is closed for renovation, madam. The gardens are this way."
-  - *Under pressure (unmasked):* "You should not have come down here."
-
+  - *Under pressure (to someone who has wandered where they should not):* "You should not have come down here."
 ---
 
 ### Osvaldo Cassalanter
