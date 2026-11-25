@@ -152,7 +152,7 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 ---
 
 ### Grinda Garloth
-*An eccentric salvage wizard who talks about nothing but the harbour floor and rents her diving machine to anyone.*
+*An eccentric salvage wizard who talks about nothing but the harbor floor and rents her diving machine to anyone.*
 
 - **Sound:** A brisk, excitable voice that speeds up whenever anything underwater is mentioned.
 - **Sentence shape:** Technical rambling about the Apparatus and the wreck, with brisk price quotes.
@@ -163,10 +163,9 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 - **Signature phrases:** "Forty-seven fathoms." / "The lobster's available." / "Client list is proprietary."
 - **Never:** She never discloses a client, never turns down paying work, and never stops thinking about the wreck.
 - **Sample lines:**
-  - *Greeting:* "Customers! Good. You want the lobster? Forty gold a day, and you don't touch the levers."
+  - *Greeting:* "Customers! Good. You want the lobster? Reasonable rates, and you don't touch the levers."
   - *Business:* "Who else rented it? Proprietary. What did they want? Also proprietary. Do you know anything about the old dragon turtle wreck?"
   - *Under pressure:* "Get in the lobster, now, and hold your breath!"
-
 ---
 
 ### Korgstrod Uxgulm
