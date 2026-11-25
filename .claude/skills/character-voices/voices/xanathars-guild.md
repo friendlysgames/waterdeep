@@ -192,15 +192,14 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 - **Sentence shape:** A short, complete message delivered once, deliberately (a break from `ember-voice` speech). He doesn't repeat himself or answer follow-up questions.
 - **Word choice:** Plain and exact. He orders something good at the bar by name. He calls the recipient by name, which is itself the threat.
 - **Swearing:** *Never · Plain · n/a.* He finds raised voices and curses equally unprofessional.
-- **Personality in speech:** Professional calm. He is the announcement, and he knows the consequence comes after. His contempt for escalation shows in how softly he speaks.
+- **Personality in speech:** Professional calm. He is the announcement, and he knows the consequence comes after. His contempt for escalation shows in how evenly he speaks.
 - **Quirks:** He leaves exact coin. He says the message, finishes his drink, and goes.
 - **Signature phrases:** "I'll say this once." / "That's the message." / "Good ale."
 - **Never:** He never threatens directly, never repeats himself, and never starts the fight.
 - **Sample lines:**
   - *Greeting:* "The dark ale, please. Good ale."
-  - *Business:* "I'll say this once. The Xanathar knows what you took from the sewers. Return it by the new moon. That's the message."
+  - *Business:* "I'll say this once. Xanathar knows what you did. That's the message."
   - *Under pressure:* "I'm leaving now. I'd let me."
-
 ---
 
 ### Grevik Nass
