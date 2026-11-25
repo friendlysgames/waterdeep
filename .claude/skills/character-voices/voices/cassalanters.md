@@ -118,8 +118,8 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 *Ammalia's composed tiefling attendant, who anticipates every need a little too precisely.*
 
 - **Sound:** A soft, poised, deferential voice.
-- **Sentence shape:** Short, courteous sentences and quiet offers. After discovery: calm, devout certainty.
-- **Word choice:** Public: service ("my lady", "may I bring you…"). After discovery: devotion, spoken of Ammalia and her faith in the same breath.
+- **Sentence shape:** Short, courteous sentences and quiet offers. Among the cult: calm, devout certainty.
+- **Word choice:** Public: service ("my lady", "may I bring you…"). Among the cult: devotion, spoken of Ammalia and her faith in the same breath.
 - **Swearing:** *Never · Plain · n/a.*
 - **Personality in speech:** Attentive devotion. She notices threats first and says so to Ammalia in a murmur. Publicly, her faith sounds like simple loyalty.
 - **Quirks:** She offers something before it's asked for. She positions herself at Ammalia's shoulder.
@@ -129,7 +129,6 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
   - *Greeting:* "Welcome. May I bring you something to drink? My lady will be with you shortly."
   - *Business:* "My lady is not taking appointments this tenday. I can pass on a message."
   - *Under pressure:* "My lady, behind me. Something's amiss."
-
 ---
 
 ### Laiba "Nana" Rosse
