@@ -11,7 +11,7 @@ Method and caveats:
 - No shell. Campaign files, the adventure JSON and the wiki were searched with Read, Grep and Glob.
 - Published adventure: `sources/adventure-wdh.json`, quoted as the JSON string. JSON escapes (`\"`) are shown as plain quotes. Tags such as `{@creature ...}` are left as written.
 - Alexandrian PDF: `sources/12. Lair  Zhentarim – Kolat Towers.pdf` (five pages, printed pp. 92 to 96, PDF pp. 1 to 5). Read as rendered images with the Read tool's `pages` parameter. Every PDF quote below is a transcription from the image and must be checked with `pdftotext -layout` before any prose use. The Alexandrian names Yorn on printed pp. 94 and 95 only.
-- Wiki: NOT FOUND. Searched every `sources/research/**/wiki.txt` (Grep glob `*wiki*.txt`) for "Yorn the", "Terror" and "half-orc enforcer". No Yorn entry matched. The only "Yorn" hit in the wiki bundles is "Yornar" (a Mielikki item, `sources/research/pass2-bundles/mielikki/wiki.txt:251`), which is a different name. The scratchpad wiki extract `wiki-manshoons-zhentarim/14-yorn-the-terror.txt` also reads NOT FOUND.
+- Wiki: NOT FOUND. Searched every `sources/research/**/wiki.txt` (Grep glob `*wiki*.txt`) for "Yorn the", "Terror" and "half-orc enforcer". No Yorn entry matched. The only "Yorn" hit in the wiki bundles is "Yornar" (a Mielikki item, `sources/research/pass2-bundles/mielikki/wiki.txt:251`), a different name. The scratchpad wiki extract `wiki-manshoons-zhentarim/14-yorn-the-terror.txt` also reads NOT FOUND.
 - Source rank used: campaign files, then the published adventure, then the Alexandrian PDFs and appendices, then the wiki.
 - No file was edited except this notes file. The page was not written.
 
@@ -21,7 +21,7 @@ Method and caveats:
 
 1. **Location conflict.** The page places him "stationed in the extradimensional sanctum" (line 25) and "stationed in Kolat Towers' extradimensional sanctum" (line 29). The published adventure places him in K7, the Reading Room on the second level of the Main Tower, and says "He has never visited Manshoon's extraplanar sanctum" (`sources/adventure-wdh.json:28320`, `:28328`, `:28348`). The Alexandrian places him in K7 too (printed p. 94). See D1.
 2. **Stat block conflict.** The page says "Stat block: **Gladiator**." (line 5). The adventure says "a half-orc {@creature thug}" (`:28340`), and the Alexandrian says "half-orc thug, MM p. 350" (printed p. 95). A brief ruling says to keep Gladiator "unless the file already explains it" (`docs/plans/deities-user-rulings-brief.md:24`). No campaign file explains it. See D2.
-3. **Behavior conflict.** The page says "He does not explain himself" (line 21) and "does not retreat" (line 23). The adventure says "he's happy to chat with them about the inhabitants and the layout of Kolat Towers" when he thinks the party is no threat, and "values his own well-being above all else" (`:28348`). See D3.
+3. **Behavior conflict.** The page says "He does not explain himself" (line 21) and "Yorn does not retreat and does not stop." (line 23). The adventure says "he's happy to chat with them about the inhabitants and the layout of Kolat Towers" when he thinks the party is no threat, and "values his own well-being above all else" (`:28348`). See D3.
 4. **Pronouns agree.** The page says `he/him` (line 5), and the adventure's pronouns for him are "He" (`:28345`, `:28348`).
 5. **Quest-time mechanic.** Line 25 refers to "the reinforcement timer", which is a Kolat Towers quest mechanic (`campaign/structure/arc-i-kolat-towers.md:112`). Routed in C.
 6. **Ring.** Only the Alexandrian gives him a teleporter ring (asterisk, printed p. 94). The adventure's K7 entry does not mention one. See D4.
@@ -99,7 +99,7 @@ Level and access (K6, page 150):
 > "A stone landing with no railings has a door leading to {@area K7|3ea} and a stone spiral staircase descending to {@area K4|3e1}."
 > — `sources/adventure-wdh.json:28285`
 
-Adventure, the sanctum and its access (K7, page 150):
+Adventure, his disposition and the sanctum (K7, page 150):
 
 > "{@creature Yorn|wdh} values his own well-being above all else. He is initially indifferent toward intruders. If {@creature Yorn|WDH} believes the characters aren't a threat, he's happy to chat with them about the inhabitants and the layout of Kolat Towers. He has never visited {@creature Manshoon|WDH}'s extraplanar sanctum, but he does know that the teleportation circle in {@area K22|40b} is the way to get there."
 > — `sources/adventure-wdh.json:28348`
@@ -126,7 +126,7 @@ Alexandrian, the roster (printed p. 94, image transcription; the row band places
 
 Alexandrian, the plans (printed p. 93, image transcription), which exclude K7 from the pre-renovation tower:
 
-> "- Does not include areas K7, K8, K12, K13, or K14."
+> "Does not include areas K7, K8, K12, K13, or K14."
 > — `sources/12. Lair  Zhentarim – Kolat Towers.pdf`, printed p. 93 [PDF p. 2]
 
 Alexandrian, what the thugs know (printed p. 95, image transcription; Yorn is "half-orc thug" in both sources):
@@ -160,9 +160,9 @@ Campaign, the gloves (no source):
 ### A5. Relationships to other named figures
 
 - **Manshoon:** "He has never visited Manshoon's extraplanar sanctum" (`sources/adventure-wdh.json:28348`). The adventure says nothing else about Yorn and Manshoon.
-- **Kaevja Cynavern, Havia Quickknife, Mookie Plush:** not named together with Yorn in any source. Yorn is absent from the sanctum alarm list (`:29957` to `:29960`).
-- **Manafret Cherryport:** Combat in K7 "draws the attention of Manafret Cherryport in K3" (`:28349`).
-- **Sidra Romeir's two thugs:** the adventure says "two subordinates (LE male Tethyrian human {@creature thug||thugs})" (`sources/adventure-wdh.json:28155`). These are Sidra's own, in K2. Yorn is a half-orc thug in K7, a separate entry. The campaign gives Yorn no tie to Sidra.
+- **Kaevja Cynavern, Havia Quickknife, Mookie Plush:** not named with Yorn in any source. Yorn is absent from the sanctum alarm list (`:29957` to `:29960`).
+- **Manafret Cherryport:** combat in K7 "draws the attention of Manafret Cherryport in K3" (`:28349`).
+- **Sidra Romeir's two thugs:** the adventure says Sidra is "and two subordinates (LE male Tethyrian human {@creature thug||thugs})" in K2 (`sources/adventure-wdh.json:28155`). Those are Sidra's own. Yorn is a half-orc thug in K7, a separate entry. The campaign gives Yorn no tie to Sidra.
 - **Lady Gondafrey, Urstul Floxin:** no link in any source.
 
 ### A6. Faith
@@ -204,16 +204,14 @@ Page:
 > "- *Half-orc enforcer, neutral evil, he/him*. Stat block: **Gladiator**."
 > — `campaign/setting/notable-figures/manshoons-zhentarim/14-yorn-the-terror.md:5` (no source tag)
 
-Adventure (no gender noun; the pronoun is "He" throughout the entry):
-> "He has these racial traits: When reduced to 0 hit points, he drops to 1 hit point instead..."
-> — `sources/adventure-wdh.json:28345` ("He" as printed; the sentence continues "...He speaks Common and Orc." as quoted in A1)
+Adventure (no gender noun; the entry uses "He" for him):
+> "He has these racial traits: When reduced to 0 hit points, he drops to 1 hit point instead (but can't do this again until he finishes a long rest). He has darkvision out to a range of 60 feet. He speaks Common and Orc."
+> — `sources/adventure-wdh.json:28345`
 
 > "{@creature Yorn|wdh} values his own well-being above all else. He is initially indifferent toward intruders."
 > — `sources/adventure-wdh.json:28348`
 
 Alexandrian: no gender printed for Yorn (printed p. 95, "Yorn the Terror – half-orc thug").
-
-Voice profile: "Sound: A low, flat, patient voice, rarely heard." (`.claude/skills/character-voices/voices/manshoons-zhentarim.md:245`). No pronoun there.
 
 Pronoun table, the prior check (it rests on the page's own prose, not a source):
 > "| Yorn the Terror | manshoons-zhentarim/14-yorn-the-terror.md:5 | he/him | prose ("the people who gave it to him", "he uses his physicality as a weapon") | High |"
@@ -233,7 +231,7 @@ Alexandrian:
 > "Yorn the Terror – half-orc thug, MM p. 350; see DH p. 150"
 > — `sources/12. Lair  Zhentarim – Kolat Towers.pdf`, printed p. 95 [PDF p. 4]
 
-Brief ruling on the label (not a source):
+Brief ruling on the label (a plan document, not a source):
 > "20. **Yorn the Terror.** Dragon Heist prints him as a half-orc thug, neutral evil (adventure-wdh.json:28339-28348). The page says "Human enforcer". No design reason: make him a half-orc in 14-yorn-the-terror.md, arc-i-kolat-towers.md, 09-manshoons-zhentarim.md, and the mielikki.md and gruumsh.md mentions if they say otherwise. Keep the Gladiator stat block unless the file already explains it."
 > — `docs/plans/deities-user-rulings-brief.md:24`
 
@@ -249,18 +247,17 @@ The page narrates no capture, rescue, death, mission or "once the party" event. 
 |---|---|---|---|---|
 | 1 | L21 | "To Manshoon's lieutenants, he is the asset deployed when a situation has moved past the point at which conversation is the primary tool." | Day-one; sourced in part | `campaign/setting/organizations/09-manshoons-zhentarim.md:68` |
 | 2 | L21 | "To the world — specifically to anyone brought into the sanctum who is about to be questioned — Yorn the Terror is the fact of what is going to happen." | Day-one role; the location clause conflicts with the Interrogation House in the organization page (D1 and D5) | `organizations/09-manshoons-zhentarim.md:68` |
-| 3 | L23 | "a party that attempts to escape will discover that the corridor behind them has become a different kind of problem." | Play note; no event | none needed |
-| 4 | L23 | "a party that can match his damage output can defeat him" | Play note; no event | none needed |
-| 5 | L25 | "...a threat that compounds significantly if encountered late in the operation when the reinforcement timer has already thinned the party's resources." | Quest mechanic. The reinforcement timer is a Kolat Towers mechanic, not a day-one fact | `campaign/structure/arc-i-kolat-towers.md:112`, `:180` (see below) |
+| 3 | L23 | "He does not negotiate mid-combat, but a party that can match his damage output can defeat him; a party that attempts to escape will discover that the corridor behind them has become a different kind of problem." | Play note; no event | none needed |
+| 4 | L25 | "Yorn is a Manshoon Splinter enforcer stationed in the extradimensional sanctum whose role in the organization is the maintenance of internal fear as much as the exercise of direct violence, and a threat that compounds significantly if encountered late in the operation when the reinforcement timer has already thinned the party's resources." | Quest mechanic (the reinforcement timer) and a location conflict (D1) | `campaign/structure/arc-i-kolat-towers.md:112`, `:180` (below) |
 
 Routed mechanic, the timer (Kolat Towers, pending conversion):
-> "Once combat begins in the towers, the reinforcement timer starts, and the primary strategic variable becomes speed."
+> "**Purpose.** The raid itself. Step 5 of the heist framework. Full operational content for both locations: Kolat Towers (K-series areas) and the extradimensional sanctum (E-series areas). Unlike the prior lair heists — which offer genuine stealth windows throughout the operation — Kolat Towers compresses the stealthy phase to the approach and entry. Once combat begins in the towers, the reinforcement timer starts, and the primary strategic variable becomes speed."
 > — `campaign/structure/arc-i-kolat-towers.md:112`
 
 > "| 30 min | External reinforcements — Agorn's team or replacement spy + 4 thugs — arrive at the perimeter with fresh pass-amulets. The party is fighting the entire remaining Splinter cell. |"
 > — `campaign/structure/arc-i-kolat-towers.md:180`
 
-The Yorn page's own "reinforcement timer" wording is the only place Yorn meets this mechanic. No file ties Yorn to the timer.
+The Yorn page's "reinforcement timer" wording is the only place Yorn meets this mechanic. No file ties Yorn to the timer.
 
 ---
 
@@ -271,7 +268,7 @@ The Yorn page's own "reinforcement timer" wording is the only place Yorn meets t
 - Organization page: "and Yorn the Terror is the enforcer who maintains the household's fear of its master" under "The sanctum:" — `campaign/setting/organizations/09-manshoons-zhentarim.md:55`
 - Adventure: "{@creature Yorn|wdh} is a half-orc {@creature thug}" in K7, the reading room (`sources/adventure-wdh.json:28320` to `:28340`); "He has never visited {@creature Manshoon|WDH}'s extraplanar sanctum" (`:28348`); not in the sanctum alarm list (`:29957` to `:29960`).
 - Alexandrian: "Area K7 – Reading Room" in the same row band as "Yorn the Terror*" (printed p. 94).
-- Campaign structure document: no Yorn entry in `campaign/structure/arc-i-kolat-towers.md`; line 320 only says "New profiles needed: Kaevja Cynavern, Havia Quickknife, Mookie Plush, Yorn the Terror."
+- Campaign structure document: no Yorn entry in `campaign/structure/arc-i-kolat-towers.md`; line 320 says only "New profiles needed: Kaevja Cynavern, Havia Quickknife, Mookie Plush, Yorn the Terror."
 - Higher source: the campaign outranks the adventure, but the campaign's sanctum placement has no source. The orchestrator decides. The adventure's K7 placement and the Alexandrian's agree with each other.
 
 **D2. Stat block: "Gladiator" against "thug"**
@@ -286,20 +283,20 @@ The Yorn page's own "reinforcement timer" wording is the only place Yorn meets t
 - Adventure: "If {@creature Yorn|WDH} believes the characters aren't a threat, he's happy to chat with them about the inhabitants and the layout of Kolat Towers." — `sources/adventure-wdh.json:28348`
 - Page: "Yorn does not retreat and does not stop." — `campaign/setting/notable-figures/manshoons-zhentarim/14-yorn-the-terror.md:23`
 - Adventure: "{@creature Yorn|wdh} values his own well-being above all else." — `sources/adventure-wdh.json:28348`
-- The adventure's lines are about how he acts before any fight. The page's lines are about combat. They can both hold; the orchestrator decides how far the page follows the adventure.
+- The adventure's lines describe how he acts before any fight. The page's lines describe combat. Both can hold. The orchestrator decides how far the page follows the adventure.
 
 **D4. Teleporter ring**
 - Alexandrian, printed p. 94: "Yorn the Terror*" with "* Has a teleporter signet ring." (`sources/12. Lair  Zhentarim – Kolat Towers.pdf`)
-- Adventure, K7 entry (`sources/adventure-wdh.json:28339` to `:28358`): no ring. The adventure gives rings to Havia and Mookie (`:30192`) and to Sidra (`:28156`: "Sidra wears a {@item teleporter ring|WDH} (see \"Teleporter Rings\").").
-- Campaign: silent on Yorn; "his brass teleporter rings ... go only to his most trusted servants" (`campaign/setting/organizations/09-manshoons-zhentarim.md:41`).
+- Adventure, K7 entry (`sources/adventure-wdh.json:28339` to `:28358`): no ring. The adventure gives rings to Havia and Mookie (`:30192`) and to Sidra ("Sidra wears a {@item teleporter ring|WDH} (see \"Teleporter Rings\").", `:28156`).
+- Campaign: silent on Yorn. "his brass teleporter rings, each bearing a stylized M, go only to his most trusted servants" (`campaign/setting/organizations/09-manshoons-zhentarim.md:41`).
 
 **D5. Where he is questioned (campaign-internal)**
-- Organization page: "The cell takes prisoners and questions them at the Interrogation House, and Yorn the Terror is the asset it uses" (`campaign/setting/organizations/09-manshoons-zhentarim.md:68`).
-- Yorn's page: "anyone brought into the sanctum who is about to be questioned" (`campaign/setting/notable-figures/manshoons-zhentarim/14-yorn-the-terror.md:21`).
-- The two campaign lines place the questioning in different buildings. The Interrogation House is in the North Ward (`campaign/setting/organizations/09-manshoons-zhentarim.md:53`, `:57`).
+- Organization page: "The cell takes prisoners and questions them at the Interrogation House, and Yorn the Terror is the asset it uses when a conversation has stopped working" (`campaign/setting/organizations/09-manshoons-zhentarim.md:68`).
+- Yorn's page: "To the world — specifically to anyone brought into the sanctum who is about to be questioned — Yorn the Terror is the fact of what is going to happen." (`campaign/setting/notable-figures/manshoons-zhentarim/14-yorn-the-terror.md:21`)
+- The two campaign lines place the questioning in different buildings. The Interrogation House is on Brindul Alley in the North Ward (`campaign/setting/organizations/09-manshoons-zhentarim.md:57`).
 
 **D6. Old version: "human"** (stale, not a current conflict)
-- `docs/plans/deities-user-rulings-brief.md:24`: 'The page says "Human enforcer".'
+- `docs/plans/deities-user-rulings-brief.md:24`: The page says "Human enforcer".
 - `sources/research/pass4-bundles/manshoon/campaign-hits.txt:819`: "The campaign's Notable Figure makes him human (see Draft Notes)". This is a snapshot of an older `gruumsh.md` line.
 - Current file: "The campaign's Notable Figure makes him a half-orc as well, so the book fits the Kolat Towers room." (`campaign/setting/deities/gruumsh.md:74`).
 
@@ -311,12 +308,12 @@ Stale (not edited):
 - `campaign/setting/deities/gruumsh.md:124`: "`campaign/setting/notable-figures/manshoons-zhentarim/14-yorn-the-terror.md:6` now makes him a half-orc enforcer with the Gladiator stat block." The summary line is line 5, not 6. Line citation drift.
 - `campaign/structure/arc-i-kolat-towers.md:320`: "New profiles needed: Kaevja Cynavern, Havia Quickknife, Mookie Plush, Yorn the Terror." The Yorn profile exists, so this line is out of date.
 - `docs/plans/npc-pronouns-table-group-c.md:58`: "| Yorn the Terror | manshoons-zhentarim/14-yorn-the-terror.md:5 | he/him | prose (...) | High |". Its "High" rests on the page's prose.
-- `docs/plans/setting-compendium-research-notes/pass5/zhentarim.md:134` quotes the summary line as "Stat block: **Gladiator**." (the pass 5 check). That check is out of date on the stat block but not on the label.
+- `docs/plans/setting-compendium-research-notes/pass5/zhentarim.md:134` quotes the summary line as "- *Half-orc enforcer, neutral evil, he/him*. Stat block: **Gladiator**." and records the check as "Result: matches."
 
 Routed (quest pending conversion):
-- `campaign/structure/arc-i-kolat-towers.md:112` (raid scope; the reinforcement timer line is at `:112`).
+- `campaign/structure/arc-i-kolat-towers.md:112` (the reinforcement timer line, quoted in C).
 - `campaign/structure/arc-i-kolat-towers.md:180` (the 30-minute row).
-- `campaign/structure/arc-i-kolat-towers.md:320` and `:321` (Notable Figures and Bestiary notes; `:321` reads "Standard stat blocks needed: Havia Quickknife, Mookie Plush.").
+- `campaign/structure/arc-i-kolat-towers.md:321` ("Standard stat blocks needed: Havia Quickknife, Mookie Plush.").
 
 Other pages that name him (read, not edited):
 - `campaign/setting/organizations/09-manshoons-zhentarim.md:55`, `:68`, `:109` (quoted above).
@@ -332,7 +329,7 @@ For each gap: the sourced facts the drafter must stay consistent with.
 
 **F1. Birth, clan or tribe, childhood, home, age.** No source. Consistent facts: "half-orc" (`sources/adventure-wdh.json:28340`); "He speaks Common and Orc." (`:28345`). The Volo's gift "For Yorn. I hope you find the orc chapter illuminating!" (`:28339`) is a note from an unnamed author; the adventure names no sender.
 
-**F2. The epithet "the Terror".** Who gave it, when and why: none. The adventure uses only the name, "Yorn the Terror" (`:28339`). The page's "not self-applied" and "the professionals who gave it to him" (lines 11 and 29) have no source. Do not give the epithet an origin story that contradicts "the Terror" as a name the adventure uses.
+**F2. The epithet "the Terror".** Who gave it, when and why: none. The adventure uses only the name, "Yorn the Terror" (`:28339`). The page's "not self-applied" and "the professionals who gave it to him" (lines 11 and 29) have no source. Any origin story the drafter writes must not contradict the name the adventure uses.
 
 **F3. The "Gladiator" career.** No source. The stat block label is the only trace (page line 5; `docs/plans/deities-user-rulings-brief.md:24`). The adventure gives him the thug block with a racial trait (`:28340`, `:28345`).
 
@@ -350,7 +347,7 @@ For each gap: the sourced facts the drafter must stay consistent with.
 
 **F10. Age, first day in post, lifespan.** None.
 
-**F11. Fear and the household.** The sourced role is "the maintenance of internal fear" (`campaign/setting/organizations/09-manshoons-zhentarim.md:55`) and "keeps the household afraid of its master" (`campaign/setting/notable-figures/manshoons-zhentarim/01-manshoon.md:60`). The reason he does it, and what he feels about it, are open.
+**F11. Fear and the household.** The sourced role is "the maintenance of internal fear" (`campaign/setting/organizations/09-manshoons-zhentarim.md:55` gives "maintains the household's fear of its master"; `campaign/setting/notable-figures/manshoons-zhentarim/01-manshoon.md:60` gives "keeps the household afraid of its master"). The reason he does it, and what he feels about it, are open.
 
 ---
 
@@ -362,7 +359,7 @@ Each line is an exact quote. Use these for the Background and Personal goals (br
 > "{@creature Yorn|wdh} values his own well-being above all else. He is initially indifferent toward intruders. If {@creature Yorn|WDH} believes the characters aren't a threat, he's happy to chat with them about the inhabitants and the layout of Kolat Towers. He has never visited {@creature Manshoon|WDH}'s extraplanar sanctum, but he does know that the teleportation circle in {@area K22|40b} is the way to get there."
 > — `sources/adventure-wdh.json:28348`
 
-**G2. A gift he keeps.**
+**G2. A gift from an author.**
 > "{@creature Yorn|wdh} the Terror is reading a copy of {@book Volo's Guide to Monsters|vgm}, autographed on the title page by the author with an added note that reads, in Common: \"For {@creature Yorn|WDH}. I hope you find the orc chapter illuminating!\""
 > — `sources/adventure-wdh.json:28339`
 
@@ -370,11 +367,7 @@ Each line is an exact quote. Use these for the Background and Personal goals (br
 > "{@creature Yorn|wdh} carries 36 cp, 20 sp, 12 gp, 8 taols, and a gem-studded ivory toothpick (worth 25 gp) in a pouch."
 > — `sources/adventure-wdh.json:28358`
 
-**G4. The reading room is his.** The adventure places him in a comfortable room with "Large framed pictures of cities and landscapes", "a worn, blood-spattered rug", "a pair of rocking chairs, a couch, and an ottoman" (`sources/adventure-wdh.json:28329`). The blood on the rug is in the source.
-> "Large framed pictures of cities and landscapes hang on the walls, and a worn, blood-spattered rug covers the floor. Other furnishings include a pair of rocking chairs, a couch, and an ottoman."
-> — `sources/adventure-wdh.json:28329`
-
-**G5. Campaign-only inner-life lines (no source; they must not be contradicted).**
+**G4. Campaign-only inner-life lines (no source; they must not be contradicted).**
 > "Yorn most often feels steady patience, a physical readiness he carries the way other people carry stillness, satisfaction in his particular utility to Manshoon's operation, and a focused clarity that descends once he understands a situation is no longer going to be avoided."
 > — `campaign/setting/notable-figures/manshoons-zhentarim/14-yorn-the-terror.md:13` (Emotions)
 
@@ -384,8 +377,8 @@ Each line is an exact quote. Use these for the Background and Personal goals (br
 > "Deep down, he has been called "the Terror" long enough that he has stopped thinking of it as a name and started thinking of it as a description."
 > — `campaign/setting/notable-figures/manshoons-zhentarim/14-yorn-the-terror.md:21` (Persona)
 
-> "Steady patience and focused clarity once talk has failed. His silence is the terror."
-> — `.claude/skills/character-voices/voices/manshoons-zhentarim.md:249` (Personality in speech)
+> "Personality in speech: Steady patience and focused clarity once talk has failed. His silence is the terror."
+> — `.claude/skills/character-voices/voices/manshoons-zhentarim.md:249` (the profile's own wording, after its "- **Personality in speech:**" label)
 
 ---
 
