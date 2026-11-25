@@ -107,9 +107,8 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Never:** He never lies, never breaks a trade, and never understands why people keep secrets.
 - **Sample lines:**
   - *Greeting:* "Hello! Hello, boat people! You're new! Tell me something I don't know!"
-  - *Business:* "Three things about the city, and I'll tell you where the fancy ship keeps its guards at night. Fair trade!"
+  - *Business:* "Three things about the city, and I'll tell you what I found down in the wrecks. Fair trade!"
   - *Under pressure:* "Bad people! Bad! I'm telling the captain!" (and he dives)
-
 ---
 
 ### Fenerus Stormcastle
