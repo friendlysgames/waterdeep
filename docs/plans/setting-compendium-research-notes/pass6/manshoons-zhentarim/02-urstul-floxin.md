@@ -8,6 +8,7 @@ Method and limits:
 - The file `docs/plans/setting-compendium-research-notes/pass6/manshoons-zhentarim/06-ott-steeltoes.md` does not exist at the path the generic instructions give. The Ott notes that do exist are at `docs/plans/setting-compendium-research-notes/pass6/xanathars-guild/06-ott-steeltoes.md`. Sections A to G below follow the generic instructions.
 - Model pages `campaign/setting/notable-figures/xanathars-guild/09-grinda-garloth.md` and `11-gorath.md` were not opened. They are format inputs for the drafter.
 - `sources/adventure-wdh.json` line numbers come from Grep and Read output. Wiki line numbers come from the extracted text file. PDF quotes were transcribed from page images and are flagged for a `pdftotext` check.
+- Cross-reference lists in the last sections are locators. Every line quoted in A to G was checked against tool output; the locator lines were located with Grep or Read but are not all copied out.
 - Edition: the published adventure is 5e *Waterdeep: Dragon Heist*. The wiki cites WDH 5e p. 216 for the infobox.
 
 ## Summary of the day-one state (Ches 1, 1492 DR)
@@ -205,7 +206,7 @@ Method and limits:
 > — `campaign/setting/organizations/09-manshoons-zhentarim.md:42`
 
 > "He talks to his flying snakes more gently than to people. He jabs a finger at whoever he's talking to."
-> — `campaign/skills`: `.claude/skills/character-voices/voices/manshoons-zhentarim.md:39` (voice doc, Quirks)
+> — `.claude/skills/character-voices/voices/manshoons-zhentarim.md:39` (voice doc, Quirks)
 
 ---
 
@@ -308,14 +309,14 @@ Note: the pass 5 notes say "Campaign governs; the Doom Raiders text must not use
 > "He never names Manshoon unless magically compelled, never backs down in public, and never trusts a person over a snake." — `.claude/skills/character-voices/voices/manshoons-zhentarim.md:41`
 > "won't divulge it or the name of his master, {@creature Manshoon|WDH}, unless he's magically compelled to do so." — `sources/adventure-wdh.json:5952`
 > "Floxin will not name Manshoon. Not under Intimidation, not under magical compulsion, not with a blade at his throat. He does not know the name — he knows a code and a set of dead-drop locations." — `campaign/quests/act-ii/gralhund-villa/ev-05-the-guest-suite.md:33`
-> "Floxin does not name his master. ... DC 14 Insight during any interrogation of Floxin confirms this genuinely: he knows a dead-drop chain and a code, not a name or a face." — `campaign/quests/act-ii/gralhund-villa/design-notes.md:37` (the ellipsis joins two sentences of the same paragraph)
+> "DC 14 Insight during any interrogation of Floxin confirms this genuinely: he knows a dead-drop chain and a code, not a name or a face." — `campaign/quests/act-ii/gralhund-villa/design-notes.md:37` (the sentence before it reads "Floxin does not name his master.")
 > "he cannot name Manshoon, because he knows only a code and a chain of dead drops." — `campaign/setting/villains/manshoon.md:69`
 The page and the voice profile follow the published adventure on compulsion. The Gralhund quest journal removes the compulsion exception.
 
 **D4. How he takes orders.**
 > "Urstul takes his orders from {@creature Manshoon|WDH}'s current simulacrum, which comes and goes from House Gralhund by way of a teleportation circle (connected to the circle in Kolat Towers)." — `sources/adventure-wdh.json:32644`
 > "Urstul received his orders directly from a [[simulacrum]] of Manshoon." — `scratchpad/wiki-manshoons-zhentarim/02-urstul-floxin.txt:81`
-> "He knows a code and a set of dead-drop locations. ... He knows the shape of the operation and the chain of command stopped at a contact he never saw face to face. Manshoon stays invisible." — `campaign/quests/act-ii/gralhund-villa/ev-05-the-guest-suite.md:33` (joined from two sentences of the same paragraph)
+> "He knows the shape of the operation and the chain of command stopped at a contact he never saw face to face. Manshoon stays invisible." — `campaign/quests/act-ii/gralhund-villa/ev-05-the-guest-suite.md:33`
 > "In the published adventure he takes his orders from Manshoon's simulacrum, and in the campaign he cannot name Manshoon" — `campaign/setting/villains/manshoon.md:69`
 
 **D5. The teleportation circle and flying snakes in G15b.**
@@ -341,7 +342,7 @@ The Gralhund quest journal's Event Outcomes list "Floxin Alive" and "Floxin Capt
 **D8. Warrant and whereabouts after the raid.**
 > "A warrant has been issued for Urstul's arrest, but his current whereabouts are unknown. Even magical scrying has failed to reveal his location." — `sources/adventure-wdh.json:4034`
 > "The Zhent leader, {@creature Urstul Floxin|wdh}, was among those who got away. He's still at large. The Watch plans to step up its search for him." — `sources/adventure-wdh.json:4837`
-> "> - **Warrant.** Only if Floxin is Alive: the Watch has issued a warrant for him, his whereabouts are unknown, and scrying has failed to find him." — `campaign/quests/faction-events/doom-raiders/s01-davils-arrest/ev-01-davils-arrest.md:115`
+> "> - **The warrant.** Only if Floxin is Alive: the Watch has issued a warrant for him, his whereabouts are unknown, and scrying has failed to find him." — `campaign/quests/faction-events/doom-raiders/s01-davils-arrest/ev-01-davils-arrest.md:115`
 > "No Stone, no nimblewright, no Floxin." — `campaign/quests/act-ii/gralhund-villa/ev-09-aftermath.md:44`
 
 **D9. Harper identification.**
@@ -357,7 +358,7 @@ The Yellowspire lead (`ev-06:52`) and the Gralhund residence (D1) are in conflic
 **D11. Challenge rating.**
 > "| challenge5e    = 8" — `scratchpad/wiki-manshoons-zhentarim/02-urstul-floxin.txt:58`
 > "reducing his challenge rating to 3 (700 XP)" — `sources/adventure-wdh.json:5952` (wounded, no poison; quest-time)
-> "- Urstul Floxin (50 hp, no poison, CR 3) in the guest suite corridor" — `campaign/quests/act-ii/gralhund-villa/overview.md:40` (quest-time; the line begins "**Night state:**")
+> "Night state:** Urstul Floxin (50 hp, no poison, CR 3) in the guest suite corridor; Hurv Taldred as shadow + 2 mastiff-shadows in the yard; 1–2 surviving Zhent thugs in the great hall and upstairs foyer; Hrabbaz; Yalah; the household nimblewright." — `campaign/quests/act-ii/gralhund-villa/overview.md:40` (quest-time)
 Not a conflict on the base stat. The page gives no CR. Do not give CR 3 as his base.
 
 **D12. Timing of the kidnapping.**
@@ -416,7 +417,7 @@ For each gap, the sourced facts the drafter must stay consistent with.
 4. **Rise and rank history.** No source. Sourced: "highest-ranking member of the Zhentarim squad stationed at House Gralhund" (`sources/adventure-wdh.json:32644`) and "chief field operative" (`campaign/setting/organizations/09-manshoons-zhentarim.md:58`). Consistency: D2 (leader versus not leader).
 5. **Former punishment.** `sources/adventure-wdh.json:30041`: "He is being punished for allowing the {@item Stone of Golorr|WDH} to slip through his fingers (during the events of chapter 3)." Quest-time, Kolat Towers. Not day one.
 6. **Faith or god.** No source gives him a deity or rites. The organization page's Beliefs section says "The campaign files give the cell no creed, oath or rites." (`campaign/setting/organizations/09-manshoons-zhentarim.md:46`). Consistency: none.
-7. **Friends, lovers, companions.** No source for Floxin. Named underlings are Bashekk Ortallis and Wern Malkrave (`campaign/quests/act-ii/fireball/ev-01-the-fireball.md:94`), who died in the blast (`overview.md:44` of the same quest, "Bashekk Ortallis / Wern Malkrave (deceased)" in `campaign/quests/act-ii/fireball/overview.md:44`). Consistency: a backstory may not make them alive.
+7. **Friends, lovers, companions.** No source for Floxin. Named underlings are Bashekk Ortallis and Wern Malkrave (`campaign/quests/act-ii/fireball/ev-01-the-fireball.md:94`), who are listed as "(deceased)" in `campaign/quests/act-ii/fireball/overview.md:44`. Consistency: a backstory may not make them alive.
 8. **Fears.** No source names a fear. Sourced: "desperate cunning when cornered" (`02-urstul-floxin.md:13`). Quest-time: "Floxin is not a martyr" (`sources/Act_III_Arc_E.md:596`).
 9. **Personal goals beyond the Stone.** No source. Sourced faction goal: "Urstul wants to recover the Stone of Golorr for Manshoon, maintain operational control of the field team, and survive encounters with the party by any means necessary, including hostage-taking." (`02-urstul-floxin.md:15`). Consistency: Motivations and Emotions stay verbatim (ruling 3). A personal goal must not reveal or change the Stone, the Eyes, Manshoon's name, any Event Outcome or the Grand Game balance (ruling 17). The Gralhund and Doom Raiders files make his fate depend on the raid, so a goal should not depend on his survival past Ches 1. Anything invented carries `[design]`.
 10. **Where he sleeps on Ches 1.** Conflict (D1). No tie-breaker in the sources.
@@ -443,7 +444,7 @@ These are the source facts that hint at habits, loyalty, grudges or a person he 
 - Loyalty (day one, wiki, with a quest-time clause): "Urstul was truly loyal to Manshoon, even after being punished." — `scratchpad/wiki-manshoons-zhentarim/02-urstul-floxin.txt:78`
 - Grudge (quest-time, Alexandrian aftermath): "Floxin does not forget and does not forgive. He will be looking for them." — `sources/Act_III_Arc_E.md:892`
 - Self-preservation (quest-time, Alexandrian): "He would rather live and plan than die heroically over a Stone he no longer has any certainty about." — `sources/Act_III_Arc_E.md:596`
-- Watchfulness (quest-time): "He is focused." — `campaign/quests/act-ii/gralhund-villa/ev-05-the-guest-suite.md:18` (the sentence is "Floxin is at the G15b door, shoulder into the wood, boot following, reading each impact for where the barricade is weakest. He is focused.")
+- Watchfulness (quest-time): "Floxin is at the G15b door, shoulder into the wood, boot following, reading each impact for where the barricade is weakest. He is focused." — `campaign/quests/act-ii/gralhund-villa/ev-05-the-guest-suite.md:18`
 - Luggage (quest-time, Gralhund Villa G15): "Floxin's luggage occupies the wardrobe — traveling clothes, a locked case (DC 14 thieves' tools) that holds a set of thieves' tools, a hand-drawn map of the North Ward with three properties marked (none of them Gralhund Villa), and a folded document in cipher." — `campaign/locations/gralhund-villa/g15-guest-suite.md:21`
 - Coat (quest-time): "Floxin's traveling coat is on the rack — it has been there since Ches 22nd; he wasn't permitted to take it when Yalah had him disarmed." — `campaign/locations/gralhund-villa/g15-guest-suite.md:11`
 - Yalah's view of him (day one): "without Manshoon discovering she considers Urstul an underling" — `campaign/setting/notable-figures/gralhunds/01-yalah-gralhund.md:15`
@@ -457,7 +458,7 @@ No source gives him a place or person he cares about, a lost love, a child, a de
 
 Campaign setting and guides:
 - `campaign/setting/organizations/09-manshoons-zhentarim.md:33`, `:42`, `:58`, `:64`, `:90`, `:100`, `:169` (quoted in A, B, D).
-- `campaign/setting/organizations/12-house-gralhund.md:49`, `:66`, `:158`, `:172` (`:158`: "- **Conflicts:** Urstul and Yalah, who is the underling." `:172`: "- **Routed to quests:** Yalah taking the Stone from Urstul Floxin at sword-point (`01-yalah-gralhund.md:21`, `north-ward.md:73`, `adventure-wdh.json:4804`). It belongs to **Gralhund Villa**, and the two day-one notes should be reworded.").
+- `campaign/setting/organizations/12-house-gralhund.md:49`, `:66`, `:158`, `:172`. `:158`: "- **Conflicts:** Urstul and Yalah, who is the underling." `:172`: "- **Routed to quests:** Yalah taking the Stone from Urstul Floxin at sword-point (`01-yalah-gralhund.md:21`, `north-ward.md:73`, `adventure-wdh.json:4804`). It belongs to **Gralhund Villa**, and the two day-one notes should be reworded."
 - `campaign/setting/organizations/11-open-lords-watch.md:25` (quoted in A).
 - `campaign/setting/organizations/06-doom-raiders.md:39`, `:88`, `:115` (quoted in A).
 - `campaign/setting/organizations/01-harpers.md:177` (quoted in D9).
