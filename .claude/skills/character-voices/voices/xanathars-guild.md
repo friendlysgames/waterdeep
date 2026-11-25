@@ -229,7 +229,7 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 - **Personality in speech:** Practised, deployed warmth. His calculation shows only in how precisely he remembers. Contempt for patrons who overshare never reaches his voice.
 - **Quirks:** He greets people with their usual and a detail ("How's the sister's wedding?"). He wipes the same spot on the bar when listening hard.
 - **Signature phrases:** "The usual?" / "How'd that thing go, with the…?" / "This one's on the house."
-- **Never:** He never shows the flat calm in public, never asks directly about the party's plans, and never forgets a name.
+- **Never:** He never shows the flat calm in public, never asks directly about a patron's plans, and never forgets a name.
 - **Sample lines:**
   - *Greeting:* "Back again! Dark ale, and how did it go with the moneylender? Last time you were worried."
   - *Business:* "Busy night. Who was the fellow in grey you were talking to? Looked like a serious sort."
