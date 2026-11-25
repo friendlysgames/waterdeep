@@ -108,9 +108,8 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Never:** She never raises her voice, never hurries, and never gives anyone a reason to doubt her.
 - **Sample lines:**
   - *Greeting:* "Please come in. Sit. This will go more smoothly if you're comfortable."
-  - *Business:* "Who gave you the map? Let's try that again. Who gave you the map?"
+  - *Business:* "Who told you about this house? Let's try that again. Who told you about this house?"
   - *Under pressure:* "Zorbog."
-
 ---
 
 ### Zorbog Jyarkoth
@@ -128,7 +127,6 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
   - *Greeting:* "Hello. What's your name?"
   - *Business:* "Avareen says hold you. I hold you."
   - *Under pressure:* "Done."
-
 ---
 
 ### Amath Sercent
