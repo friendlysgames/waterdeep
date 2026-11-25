@@ -63,7 +63,7 @@ Havia Quickknife is a small halfling woman who stands with the balance of a trai
 - **Personality in speech:** Settled conviction. She has no ambivalence and no exit plan, and the voice has none either.
 - **Quirks:** She shifts her stance instead of answering.
 - **Signature phrases:** "No further." / "For him."
-- **Never:** She never negotiates, never retreats, and never explains.
+- **Never:** She never negotiates or retreats, and she never explains.
 - **Sample lines:**
   - *Greeting:* "No further."
   - *Business:* (silence)
