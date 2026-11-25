@@ -1,6 +1,6 @@
 # Cassalanters: Character Voices
 
-**Secrecy rule (CLAUDE.md):** everyone suspects the Cassalanters of being too nice to be this rich; nobody knows they are infernalists until the party discovers it. Every voice in this household therefore has a **public register**, which must never hint at devils, pacts or Asmodeus. That covers servants and cultists too. Some profiles also have an **after discovery** register, used only once the party has found the truth (villain Phase 2 onward, or when the character is confronted in the temple).
+**Secrecy rule (CLAUDE.md):** everyone suspects the Cassalanters of being too nice to be this rich; nobody knows they are infernalists until the party discovers it. Every voice in this household therefore has a **public register**, which must never hint at devils, pacts or Asmodeus. That covers servants and cultists too. Some profiles also have a **later** register, used only once the character has reached a later phase (villain Phase 2 onward, or when the character is confronted in the temple), and never on Ches 1, 1492 DR.
 
 The public voice is not a fake. Their charity is real, and their warmth toward tieflings is specific and genuine. The horror is that the kindness and the pact live in the same people.
 
@@ -9,31 +9,29 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 ### Victoro Cassalanter
 *A charming, gracious banker-philanthropist whose perfect manners never crack, until the day they do.*
 
-- **Sound:** A warm, cultured half-elf baritone with an easy smile in it. After discovery, the warmth thins into tired, deliberate precision.
-- **Sentence shape:** Public: generous, flowing, gracious sentences, compliments and invitations. After discovery: measured, reasoned, technically true statements, and a fracture that shows as unfinished sentences.
-- **Word choice:** Public: philanthropy, Lathander's light, "our city's less fortunate", "my darling twins". After discovery: contract language ("the terms", "the clause", "the price"). He never says "Osvaldo" if he can avoid it.
-- **Swearing:** *Stingy · Plain · Clipped.* Never in public. After discovery, a single broken "Damn it all," or worse, when his children are threatened, and it's the moment he fractures.
-- **Personality in speech:** Calculated charm and paternal desperation. His love for his children is real and audible. After discovery he says only true things and leaves out the one that matters (the feast). He's starting to fracture where Ammalia holds.
+- **Sound:** A warm, cultured half-elf baritone with an easy smile in it. In his later moods (see Phases below), the warmth thins into tired, deliberate precision.
+- **Sentence shape:** Public: generous, flowing, gracious sentences, compliments and invitations. In his later moods: measured, reasoned, technically true statements, and a fracture that shows as unfinished sentences.
+- **Word choice:** Public: philanthropy, Lathander's light, "our city's less fortunate", "my darling twins". In his later moods: contract language ("the terms", "the clause", "the price"). He never says "Osvaldo" if he can avoid it.
+- **Swearing:** *Stingy · Plain · Clipped.* Never in public. In his later moods, a single broken "Damn it all," or worse, when his children are threatened, and it's the moment he fractures.
+- **Personality in speech:** Calculated charm and paternal desperation. His love for his children is real and audible. He says only true things and leaves out the one that matters (the feast). In his later moods he starts to fracture where Ammalia holds.
 - **Phases:**
-  - **The Generous Patrons:** warm and at ease.
-  - **The Desperate Parents:** the mask is off; he's reasoned, tired, and pleading through dignity.
-  - **The Sacrificers:** a terrible calm. He'll take any genuine alternative at once, without haggling.
+  - **The Generous Patrons (Ches 1, 1492 DR):** warm and at ease.
+  - **Later moods:** the Desperate Parents have the mask off and are reasoned, tired, and pleading through dignity. The Hosts of Founders' Day have a terrible calm and take any genuine alternative at once, without haggling. Both are keyed to the quest phases on **The Cassalanters** (Villains).
 - **Quirks:** He taps the ruby-tipped cane when thinking. He smiles before bad news. He turns the talk to his children whenever he can.
 - **Signature phrases:** "Lathander's light on you." / "What can we do for the city?" / "Everything I've told you is true."
 - **Never:** Publicly, he never lets anything slip about devils or pacts. He never goes to the attic, and never says the number of the feast's victims aloud.
 - **Sample lines:**
   - *Greeting (public):* "Welcome, welcome! Lathander's light on you. Please, the twins have been dying to meet real adventurers."
   - *Business (public):* "The orphanage needs a new roof before winter. Whatever you're looking for, perhaps we can help each other."
-  - *After discovery:* "Everything I've told you is true. My children's souls were promised. I am trying to buy them back. What would you have done?"
-
+  - *Later mood (Desperate Parents):* "Everything I've told you is true. My children's souls were promised. I am trying to buy them back. What would you have done?"
 ---
 
 ### Ammalia Cassalanter
 *An exquisite, hard-bargaining noblewoman whose composure never breaks, even when it should.*
 
 - **Sound:** A clear, elegant, controlled voice with a negotiator's edge. It softens completely with the twins.
-- **Sentence shape:** Poised, precise sentences and probing questions. She sets terms before others know they're negotiating. After discovery: steady, cold and entirely in control.
-- **Word choice:** Public: gardens, butterflies, society, charity, "a fair arrangement". After discovery: planning language ("the feast", "the timetable", "what must be done").
+- **Sentence shape:** Poised, precise sentences and probing questions. She sets terms before others know they're negotiating. In her later moods (the phases on **The Cassalanters** in Villains): steady, cold and entirely in control.
+- **Word choice:** Public: gardens, butterflies, society, charity, "a fair arrangement". In her later moods: planning language ("the feast", "the timetable", "what must be done").
 - **Swearing:** *Never · Plain · n/a.* Her control is total. The one crack is a softened voice reading stories in the attic.
 - **Personality in speech:** Shrewd calculation and maternal desperation. She makes the plans and speaks like it. Her grief for Osvaldo is channelled into ruthlessness and is never spoken aloud to outsiders.
 - **Quirks:** She names butterflies by species mid-conversation. She asks one question that shows she's researched the listener.
@@ -42,8 +40,7 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sample lines:**
   - *Greeting (public):* "You must be the tavern owners. I've heard wonderful things. Walk with me; the garden's lovely at this hour."
   - *Business (public):* "I drive a hard bargain, I'm told. Shall we come to terms, and see if the rumour's true?"
-  - *After discovery:* "You think I'm a monster. I'm a mother with a deadline. Offer me something better, and I'll take it this instant."
-
+  - *Later mood:* "You think I'm a monster. I'm a mother with a deadline. Offer me something better, and I'll take it this instant."
 ---
 
 ### Willifort Crowelle
@@ -152,18 +149,17 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 *A precise, exacting tiefling head chef who runs his kitchen like a war and plans the Founders' Day menu like a campaign.*
 
 - **Sound:** A sharp, clipped, commanding voice pitched to carry over a kitchen.
-- **Sentence shape:** Terse kitchen commands and precise culinary judgements. After discovery: calm, cold certainty.
-- **Word choice:** Kitchen military: "service", "stations", "mise en place", "the menu". He calls intruders "pests".
+- **Sentence shape:** Terse kitchen commands and precise culinary judgements. Among the cult: calm, cold certainty.
+- **Word choice:** Kitchen military: "service", "stations", "mise en place", "the menu". He calls anyone who wanders into his kitchen "pests".
 - **Swearing:** *Punctuation · Colourful · Tirade.* Kitchen-grade filth at his staff ("Who plated this? A blind fucking goat?"). Never in front of guests. Tirade: "Who plated this? You under-seasoned, over-reduced, lumpy-sauced, cold-plated, knife-dropping, onion-weeping, pan-scorching cunt of a commis, get out of my kitchen and take your shame with you!"
 - **Personality in speech:** Professional pride and contempt. Anyone who asks about the menu without understanding it gets a withering answer. Publicly, the Founders' Day feast is simply his masterpiece.
-- **Quirks:** He tastes everything before answering. One word from him and every knife rises.
+- **Quirks:** He tastes everything before answering. He keeps a command word that raises the kitchen's knives.
 - **Signature phrases:** "Service!" / "The menu is not your concern." / "Pests."
 - **Never:** He never serves a flawed dish, never discusses the feast's purpose, and never lets anyone in the kitchen uninvited.
 - **Sample lines:**
   - *Greeting:* "Out of my kitchen. Guests eat in the hall."
   - *Business:* "The Founders' Day menu is the finest work of my life. It is not your concern."
-  - *Under pressure:* "Pests." (every knife rises)
-
+  - *Under pressure:* "Pests." (when he judges someone a threat, the knives rise at his word)
 ---
 
 ### Seffia Naelryke
