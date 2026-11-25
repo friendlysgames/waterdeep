@@ -15,17 +15,15 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Swearing:** *Never · Plain · n/a.* Profanity is for people who lack better words. His rare anger is precise and calm, and more frightening for it.
 - **Personality in speech:** Cold patience, contempt and certainty. He negotiates from strength and is calm about consequences in a way that should unsettle. His frustrated pride about the arm and Halaster surfaces as one clipped, bitter sentence, then composure again.
 - **Phases:**
-  - **The Shadow (Acts I–II):** never heard. Only his lieutenants speak, and they won't name him.
-  - **The Architect (Acts II–III):** revealed, courteous, patient and terrifyingly reasonable.
-  - Cornered at **Kolat Towers**, the courtesy thins, but it never breaks.
+  - **The Shadow (Ches 1, 1492 DR):** never heard. Only his lieutenants speak, and they won't name him.
+  - **Later moods:** the Architect is courteous, patient and terrifyingly reasonable, and when he is cornered the courtesy thins but never breaks. Both are keyed to the quest phases on **Manshoon** (Villains).
 - **Quirks:** He flexes the artificial hand before a decision. He corrects small inaccuracies in what others say about him. He insists he is "the one Manshoon".
 - **Signature phrases:** "Let us be reasonable." / "That outcome is already decided." / "There is only one Manshoon."
 - **Never:** He never loses his temper, never pleads, and never admits a clone is anything but an imposter.
 - **Sample lines:**
-  - *Greeting:* "You've been very persistent. Sit. Let us be reasonable, since the alternative is so wasteful."
-  - *Business:* "You hold a key to a door I intend to open. I can make that profitable for you, or brief. The choice is genuinely yours."
+  - *Greeting:* "Sit. Let us be reasonable, since the alternative is so wasteful."
+  - *Business:* "There is a door in this city I intend to open, and you could help. I can make that profitable for you, or brief. The choice is genuinely yours."
   - *Under pressure:* "Halaster took an arm. You will not get the rest."
-
 ---
 
 ### Urstul Floxin
