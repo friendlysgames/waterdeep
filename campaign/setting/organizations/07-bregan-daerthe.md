@@ -5,7 +5,7 @@
 > [!gamemaster]**Gamemaster's Summary**
 >
 > - **Campaign role:** Player faction and villain faction; a drow mercenary company operating the Sea Maidens Faire carnival, holding Eye #3 and running a city-wide intelligence network.
-> - **Contacts:** **Jarlaxle Baenre** / "Zardoz Zord" (primary, Sea Maidens Faire); **Krebbyg Masq'il'yr** / "Kreb Sorrush" (street contact, Seven Masks Theater)
+> - **Contacts:** **Jarlaxle Baenre** (primary; the public faces are J.B. Nevercott and Captain Zardoz Zord, Sea Maidens Faire); **Krebbyg Masq'il'yr** / "Kreb Sorrush" (street contact, Seven Masks Theater)
 > - **Villain profile:** see **Jarlaxle Baenre** in Villains
 > - **Mechanics:** Grand Game stance, quest hooks, First Meeting, renown and ranks, missions, response teams, outposts, escalation and revelation list are on the **Bregan D'aerthe** page in the Factions Guide
 > - **Featured in:** **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Sea Maidens Faire**, **Vault of Dragons**
@@ -96,7 +96,7 @@ Each entry gives the stance on Ches 1, 1492 DR.
 
 ## Key Members
 
-- **Jarlaxle Baenre / "Zardoz Zord"** — Drow swashbuckler, chaotic neutral. Leader of Bregan D'aerthe; operates in Waterdeep as carnival master Zardoz Zord. See the **Jarlaxle Baenre** page in Notable Figures.
+- **Jarlaxle Baenre** — Drow swashbuckler, chaotic neutral. Leader of Bregan D'aerthe; operates in Waterdeep through two public faces, the haberdasher J.B. Nevercott and the carnival master Captain Zardoz Zord. See the **Jarlaxle Baenre** page in Notable Figures.
 - **Soluun Xibrindas** — Drow gunslinger, neutral evil. Stalks and murders elven and half-elven audience members after shows at the Seven Masks Theater. Jarlaxle is aware and hasn't yet decided what to do about it. See the **Soluun Xibrindas** page in Notable Figures.
 - **Fel'rekt Lafeen** — Drow gunslinger, neutral good, and BD lieutenant. One of Jarlaxle's most trusted men, he is the close friend and operational partner of Krebbyg Masq'il'yr and keeps his heritage to himself. See the **Fel'rekt Lafeen** page in Notable Figures.
 - **Krebbyg Masq'il'yr** — Drow gunslinger, chaotic neutral, and logistics lieutenant. Operates as "Kreb Sorrush" at the Seven Masks Theater. Collects messages from Fenerus Stormcastle's house every two days and carries them to the *Scarlet Marpenoth*. See the **Krebbyg Masq'il'yr** page in Notable Figures.
