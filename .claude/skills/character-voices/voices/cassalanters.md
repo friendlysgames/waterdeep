@@ -190,15 +190,14 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sentence shape:** Short, deferential agreements, then, alone and under pressure, a sudden, firm decision.
 - **Word choice:** Deference ("Seffia says"), and plain certainty when he acts.
 - **Swearing:** *Casual · Plain · Phrase.* Nervous curses, until he decides.
-- **Personality in speech:** Subordinate devotion that turns into initiative. He's proud of the spined-devil decision and won't be talked out of it.
+- **Personality in speech:** Subordinate devotion that turns into initiative. He's proud of the calls he makes alone and won't be talked out of them.
 - **Quirks:** He checks for Seffia before answering.
 - **Signature phrases:** "Seffia says." / "The mission required it." / "I made the right call."
-- **Never:** He never questions Seffia to her face, never regrets the devil, and never speaks of his faith to outsiders.
+- **Never:** He never questions Seffia to her face, never regrets a decision once he has made it, and never speaks of his faith to outsiders.
 - **Sample lines:**
   - *Greeting:* "Seffia's not here. You should go."
   - *Business:* "The mission required it. I made the right call."
   - *Under pressure:* "Shit. Shit. No, I've got this. I've decided."
-
 ---
 
 ### Rella Asp
