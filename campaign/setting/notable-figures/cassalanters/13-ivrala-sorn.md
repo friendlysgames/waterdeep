@@ -13,13 +13,13 @@
 
 ## Background
 
-Ivrala Sorn is a Chondathan human woman of about forty, with dark hair silvered at the temples. She dresses practically but well, and she has the composure of someone trained to be unobtrusive. She names the Neverember and Adarbrent households among her former employers and the Cassalanter household as her most recent one, for four years. She reports to **Willifort Crowelle** as a social operative, and the Cassalanters put her forward for the Trollskull Manor server post because the floor of a taproom is where the real conversations happen.
+Ivrala Sorn is a Chondathan human woman of about forty, with dark hair silvered at the temples. She dresses practically but well, and she has the composure of someone trained to be unobtrusive. She names the Neverember and Adarbrent households among her former employers and the Cassalanter household as her most recent one, for four years. She reports to **Willifort Crowelle** as a social operative, and the Cassalanters plan to put her forward for a server post at Trollskull Manor, because the floor of a taproom is where the real conversations happen.
 
 Ivrala grew up in a Chondathan river port, where her mother kept the linen room of a merchant house `[design]`. From the age of nine she carried trays at the house's dinners, and she learned that people say what they like in front of someone who is holding a tray `[design]`. She kept what she heard in her head, because a servant with a notebook is a servant who gets searched `[design]`. When she was nineteen the merchant house failed, and her mother was put out with a month's wages `[design]`. Ivrala took the house's reference and went north to find service in Waterdeep, and she has sent money to her mother ever since `[design]`.
 
 In the Cassalanter household she served as a person who is meant to be forgotten, and she did it well `[design]`. Willifort noticed in her second year that she never mislaid a guest's name or habits, and he gave her a second duty beside the first `[design]`. She keeps the habit of listening because it has served her since childhood, and she takes real pride in the service itself `[design]`. After years in quiet houses she finds a taproom loud and shallow, and she hides the opinion `[design]`.
 
-On Ches 1, 1492 DR Ivrala is not yet employed at Trollskull Manor. She is one of the server candidates who come to its door when the manor opens a position.
+On Ches 1, 1492 DR Ivrala holds no post at Trollskull Manor. She is one of the server candidates listed in **Staff and Hiring**.
 
 **Personal goals.** Ivrala wants her mother settled in a small house of her own with a garden and a stove that draws well `[design]`. Her mother lives in a rented room in a river town and writes twice a year, and Ivrala sets aside part of every wage toward the house `[design]`. She also wants a post that nobody reassigns her from `[design]`. Her words at an interview are "I would like something steady", and she means a room of her own with a window over a street, where she can sit without anyone counting what she sees `[design]`.
 
@@ -64,11 +64,11 @@ Ivrala Sorn is a composed woman of about forty with dark hair silvered at the te
 
 ## Character Information
 
-**Persona.** To the world, Ivrala Sorn is a reliable, professional server who arrives on time, keeps orders correct, and remembers patron preferences. To those who know what they are looking at, she is a Cassalanter operative who will report on Trollskull Manor's regulars, their faction affiliations, and who is drinking with whom once she is hired. Deep down, Sister Valdra has seen her face in Cassalanter Villa's staff quarters, and she would recognize it.
+**Persona.** To the world, Ivrala Sorn is a reliable, professional server who arrives on time, keeps orders correct, and remembers patron preferences. To those who know what they are looking at, she is a Cassalanter operative who reports to Willifort Crowelle on who visits a room, what they discuss and whom they trust. Deep down, Sister Valdra has seen her face in Cassalanter Villa's staff quarters, and she would recognize it.
 
 **Morale.** In a fight, Ivrala exits immediately and sends a report. She does not fight.
 
-**Relationships.** Ivrala is a Cassalanter intelligence operative placed as a Trollskull Manor server candidate, a person who reports to Willifort Crowelle and will send him word of patron activity once hired, recognizable to Sister Valdra on a DC 13 Perception check when both are present, and a staff candidate in the **Trollskull Manor** guide.
+**Relationships.** Ivrala is a Cassalanter intelligence operative put forward as a Trollskull Manor server candidate, a person who reports to Willifort Crowelle on what she hears where she serves, recognizable to Sister Valdra on a DC 13 Perception check when both are present, and a staff candidate in the **Trollskull Manor** guide.
 
 > [!gamemaster]**Secret**
 >

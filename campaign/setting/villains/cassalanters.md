@@ -55,7 +55,7 @@ Victoro and Ammalia Cassalanter are loving parents and secret diabolists, the he
 |-----|------|----------------------|
 | Victoro and Ammalia (each other) | Co-conspirators | The marriage is real; decision made together, burden carried together; Ammalia makes the final calls; Victoro has stopped questioning this |
 | Osvaldo | Eldest child (transformed) | Chain devil imprisoned in C24 (the soundproofed villa attic); Ammalia visits weekly, sitting outside the pentagram to read aloud while Osvaldo spits curses at her and weeps; Victoro has not visited in months |
-| Terenzio and Elzerina | Surviving children | Twins, eight years old; don't know about the bargain; first appear at the **Trollskull Alley** Grand Opening, before PCs investigate the villa |
+| Terenzio and Elzerina | Surviving children | Twins, eight years old; don't know about the bargain; tutored at home and not seen in public outside the household |
 | Asmodeus | Creditor | The terms are fixed; Asmodeus does not negotiate with mortals who have already signed |
 | The Harpers | Watchers | Ammalia knows the Harpers monitor their charitable work; their genuine goodness has kept the surveillance clean for years `[research]` |
 | The PCs | Unplanned variable | Either a catastrophe (exposure) or a solution (alternative path); the Cassalanters will tell the truth if they believe the PCs can help |
@@ -73,7 +73,7 @@ Victoro and Ammalia Cassalanter are loving parents and secret diabolists, the he
 
 ## Key Design Note
 
-Terenzio and Elzerina must appear before **Cassalanter Villa**. They first appear at the **Trollskull Alley** Grand Opening, where Ammalia brings them with their nanny, Nana Rosse, and the party meets them again in the villa. The Grand Opening marks the Event Outcome **Cassalanter Twins Met** when any character speaks with either twin. Once the PCs have met the children, the Founders' Day deadline becomes personal rather than abstract.
+Terenzio and Elzerina have not been seen in public outside the household, and they do not know about the bargain. Their nanny, Nana Rosse, is with them at every hour but one. The quest files hold when and where anyone outside the household first meets them.
 
 ## Overview
 

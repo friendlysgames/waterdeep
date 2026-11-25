@@ -137,15 +137,14 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Sentence shape:** Long, aggrieved, theatrical complaints full of stage terminology. When someone finally listens, he gets eager and specific.
 - **Word choice:** Old theatre vocabulary: "the house", "blocking", "my stage", "philistines". He calls the drow "the new management" with disdain.
 - **Swearing:** *Stingy · Euphemist · Clipped.* Old-fashioned and prim ("Blasted", "confounded"), then one real "damn them" he's proud of.
-- **Personality in speech:** Proprietary outrage and anxiety. He's specific about grievances: the machinery in the basement, the secret door he didn't build, the handwriting that isn't Tethyrian. He's thrilled when anyone takes him seriously.
+- **Personality in speech:** Proprietary outrage and anxiety. He's specific about grievances: the drow who come and go at irregular hours, the dressing room they use, the false name on the playbills. He's thrilled when anyone takes him seriously.
 - **Quirks:** He critiques the party's diction. He moves props to make a point. He sighs dramatically.
 - **Signature phrases:** "My stage!" / "Project, for pity's sake!" / "Finally, someone who listens."
 - **Never:** He never lets bad acting pass, never leaves the theatre, and never believes "Rongquan Mystere".
 - **Sample lines:**
   - *Greeting:* "You there! Project! I can't hear you from the gallery, and I've no body, so that's saying something."
-  - *Business:* "There is a machine in my basement, Lantanese, hideous, and a door I never built, and a man whose handwriting is no more Tethyrian than I am alive."
+  - *Business:* "There are drow in my dressing room at all hours, and a man on the playbills whose name is no more real than I am alive."
   - *Under pressure:* "Not my stage! Not my blasted stage!"
-
 ---
 
 ### Quilm
