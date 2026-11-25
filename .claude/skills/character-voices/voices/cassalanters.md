@@ -213,12 +213,11 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Personality in speech:** Professional focus and patience. Her interest in who dines with whom goes beyond any cook's curiosity, and it shows in how specific her questions are.
 - **Quirks:** She reads the reservation ledger while talking. She asks who is expected tomorrow.
 - **Signature phrases:** "Who's expected tomorrow?" / "The fish is excellent tonight." / "Leave the kitchen to me."
-- **Never:** She never rushes, never cooks badly, and never reveals the commission.
+- **Never:** She never rushes, never cooks badly, and never reveals her other work.
 - **Sample lines:**
   - *Greeting:* "Rella Asp. Master Cook. My references are on the table."
   - *Business:* "Who's expected this tenday? I like to plan the menu around the guests."
   - *Under pressure:* "I'm just the cook. Let me finish service."
-
 ---
 
 ### Ivrala Sorn
