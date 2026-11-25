@@ -22,7 +22,7 @@ Kirukesai, a beholder slaver who led the Agents of the Eye in Skullport, worked 
 
 Other beholders held the title after the Eye. Xandulzrithral retired in peace rather than risk being overthrown, and Izulktur replaced itself with Zushaxx about 1466 DR (Forgotten Realms Wiki, *Xanathar (Zushaxx)*, citing *Dungeon* #206; edition not tagged) `[research: wiki only]`. Zushaxx spent its first year reading the library its predecessors had gathered, and the reading gave it a hunger for information (same page) `[research: wiki only]`.
 
-The current Xanathar is a beholder named Zushaxx, and its pronouns are "it". Kirukesai was one of the previous Xanathars. The Forgotten Realms Wiki confirms both names: Zushaxx is the Xanathar of 1492 DR, and Kirukeskai claimed the title in the 14th century, in 1372 DR (the wiki spells it Kirukeskai; the campaign spells it Kirukesai).
+The current Xanathar is a beholder named Zushaxx, and its pronouns are "it". Kirukesai was one of the previous Xanathars. The Forgotten Realms Wiki confirms both names: Zushaxx is the Xanathar of 1492 DR, and Kirukeskai claimed the title in the 14th century, in 1372 DR (the wiki spells it Kirukeskai; the campaign spells it Kirukesai; edition not tagged) `[research: wiki only]`.
 
 The current Xanathar believes it is the original. This belief is now structural to the Guild's identity rather than correctable. How the belief arose is not settled in any source.
 
@@ -36,7 +36,7 @@ The event that shaped it came while it was still young `[design]`. The elder tha
 
 Besides Sylgar, what Xanathar loves is paper `[design]`. It reads the Guild's ledgers and informants' reports through the night, with its eyestalks muttering over different pages, and it is calmest when two informants have given it the same account `[design]`. The first Sylgar arrived in a tank among a shipment of tribute from a Dock Ward trader who wanted a favor, and it was the only thing in the shipment that wanted nothing `[design]`. Xanathar refused the trader's favor, sent him away and kept the fish `[design]`. A fish cannot plot against it or be bought by someone else, and to Xanathar there has only ever been one Sylgar `[design]`.
 
-Skullport is the Guild's undercity foundation: the shadow city beneath Waterdeep, outside city jurisdiction, processing everything the surface economy won't handle. The Guild's relationship to Skullport is the relationship between a city and its sewers. The Yawning Portal well drops to Undermountain Level 1, and Skullport is connected to Undermountain Level 3, two levels below it (the wiki's Sargauth Level). The Dock Ward is the Guild's primary surface territory.
+Skullport is the Guild's undercity foundation: the shadow city beneath Waterdeep, outside city jurisdiction, processing everything the surface economy won't handle. The Guild's relationship to Skullport is the relationship between a city and its sewers. The Yawning Portal well drops to Undermountain Level 1, and Skullport is connected to Undermountain Level 3, two levels below it (the wiki's Sargauth Level; edition not tagged) `[research: wiki only]`. The Dock Ward is the Guild's primary surface territory.
 
 By 1492 DR Zushaxx has taken the whole of Skullport. The businesses that remain pay the Guild for protection, a rival beholder named Nerozar who challenged it for lordship has lost, and the Guild keeps watch posts on the upper levels of Undermountain (*Dungeon of the Mad Mage*, 5e, as summarized in **The Long Shadow**).
 

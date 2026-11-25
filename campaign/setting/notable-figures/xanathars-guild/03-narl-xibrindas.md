@@ -31,7 +31,7 @@ By Ches 1, 1492 DR Xanathar has noticed that something is off with its advisor. 
 
 ## Personality
 
-In the lair, Nar'l is the drow who stands near Xanathar and answers when it asks. He speaks in a soft, even voice and qualifies what he says so that none of it can be held against him later, and he glances at his grell before he answers a question. Xanathar treats him as proof of its own generosity toward outsiders, because he is the only drow in the lair (**Xanathar's Lair** structure notes).
+In the lair, Nar'l is the drow who stands near Xanathar and answers when it asks. He speaks in a soft, even voice and qualifies what he says so that none of it can be held against him later, and he glances at his grell before he answers a question. Xanathar treats him as proof of its own generosity toward outsiders, because he is the only drow at liberty in the lair (**Xanathar's Lair** structure notes).
 
 Behind the manner he is nervous and conniving, and the nervousness has grown since Xanathar began to suspect him (*Dragon Heist*, 5e). He puts his own safety ahead of his allies' and keeps his options open in case he has to betray Bregan D'aerthe to save himself. He despises Xanathar's delusions and hides the contempt in careful phrasing while he flatters the beholder. His brother Soluun thinks him a weakling.
 

@@ -27,7 +27,7 @@ Nearly everything else that he has built for the lair works as intended, and tha
 
 He is a paid Harper informant and has been one for three years. He reports on Xanathar's plans as well as he can, and he uses maintenance inspections to cover secret meetings with Harper spies in Skullport and elsewhere (*Dragon Heist*, 5e; **Undermountain and Skullport**). He keeps the coin that the Harpers pay him in a bank far from the beholder's prying eyes, and Mirt knows his secret (*Dragon Heist*, 5e).
 
-He agreed for reasons of his own `[design]`. Not long after the corridor, a Harper spy sat down beside him at a parts stall in Skullport, bought him a drink and asked what the Guild meant to do with a machine that did exactly as it was told `[design]`. Thorvin said that he did not know and went back to work, and he returned to the same stall the next time that his inspections took him to Skullport `[design]`. He believes that the Guild will fall in the end, and he wants to be able to say that he was handing information to its enemies when it did `[design]`. He has never spent any of the Harpers' coin, because he means it for his family `[design]`.
+He agreed for reasons of his own `[design]`. Not long after the corridor, a Harper spy sat down beside him at a parts stall in Skullport, bought him a drink and asked what the Guild meant to do with a machine that did exactly as it was told `[design]`. Thorvin said that he did not know and went back to work, and he returned to the same stall the next time that his inspections took him to Skullport `[design]`. He believes that the Guild will fall in the end, and he wants to be able to say that he was handing information to its enemies when it did `[design]`. The Harpers' coin sits in the bank, unspent, toward the workshop that he wants for his family `[design]`.
 
 He is one of two people who know about the secret room that Nar'l Xibrindas found in the lair, and he has not told Xanathar about it. He also helped Nar'l identify the structurally unstable parts of the lair (*Dragon Heist*, 5e; **Nar'l Xibrindas**).
 
@@ -56,7 +56,7 @@ Under the irritation he takes real pride in good engineering, and the pride slip
 
 ## Overview
 
-Thorvin Twinbeard is the chief engineer and trapsmith of Xanathar's Guild, an irritable dwarf employed to maintain its mechanical constructs and devices. He takes no questions about his methods or his employers. He wears iron-rimmed spectacles and carries a heavy wrench that doubles as a club.
+Thorvin Twinbeard is the chief engineer and trapsmith of Xanathar's Guild, an irritable dwarf who maintains its mechanical constructs and devices. He takes no questions about his methods or his employers. He wears iron-rimmed spectacles and carries a heavy wrench that doubles as a club.
 
 ## Roleplaying Information
 
