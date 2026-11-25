@@ -59,9 +59,8 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Never:** She never admits a crime, never works for less than she thinks she's worth, and never runs without flair.
 - **Sample lines:**
   - *Greeting:* "Well, aren't you lovely. Come to arrest me? You'll need a reason, darling."
-  - *Business:* "I took it because I was asked to. Who asked is a matter for my advocate."
-  - *Under pressure:* "Catch me on those rooftops, if you can." (her hair flares, and she's gone)
-
+  - *Business:* "I do what I'm asked to do. Who asked is a matter for my advocate."
+  - *Under pressure:* "Catch me on the rooftops, if you can." (her hair flares, and she's gone)
 ---
 
 ### Sidra Romeir
