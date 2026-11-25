@@ -82,7 +82,7 @@ Amath Sercent is a Mulan priest of Bane who keeps an old tower of pale yellow br
 
 > [!gamemaster]**Secret**
 >
-> Amath keeps a Banite cell for Manshoon's Zhentarim, and the Overview shows only a polite neighbor with a tower. The teleportation circle in her cellar leads to Kolat Towers. Few outside the cell know either fact.
+> Amath keeps a Banite cell for Manshoon's Zhentarim, and the Overview shows only a priest of Bane who keeps an old tower. The teleportation circle in her cellar leads to Kolat Towers. Few outside the cell know either fact.
 
 **Tone:** Plain and procedural in the GM text, with a grave courtesy in Personality and the Overview. The narrator treats her faith and her feeling for Agorn as real and plays her calm for neither a joke nor a threat.
 
