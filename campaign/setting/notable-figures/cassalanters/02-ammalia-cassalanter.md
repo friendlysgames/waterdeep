@@ -32,7 +32,7 @@ Ammalia's charity in the Field Ward feeds hundreds, and her charity picks the gu
 
 To most of Waterdeep, Ammalia Cassalanter is a well-mannered noblewoman, well read and well traveled, and exceptionally shrewd. She is known for driving a hard bargain, and she has banked enough goodwill in the city to win favor with a magistrate. Her butterfly garden is the most beautiful in Waterdeep, and she supervises her youngest children at play there.
 
-She names butterflies by species in the middle of a conversation, and she asks one question that shows she has researched the person she is talking to. Her voice softens completely with the twins. The adventure calls her vainglorious, and she expects to be admired for her garden and her charity.
+She names butterflies by species in the middle of a conversation, and she asks one question that shows she has researched the person she is talking to. Her voice softens completely with the twins. She is vainglorious and expects to be admired for her garden and her charity.
 
 She is often out on business with Victoro, and the two of them return an hour before dinner.
 
@@ -42,6 +42,7 @@ She is often out on business with Victoro, and the two of them return an hour be
 - **Osvaldo Cassalanter:** Her eldest son, a chain devil in the attic. She visits him weekly and reads to him from outside the shielding circle.
 - **Terenzio Cassalanter** and **Elzerina Cassalanter:** The twins. She supervises them at play in the garden, and they know nothing of the pact.
 - **Willifort Crowelle:** The butler who knows everything that happens in the villa. He reports to Ammalia, runs household security and directs the spy and the poisoner.
+- **Seffia Naelryke** and **Arn Xalrondar:** The field pair at the Converted Windmill in the Southern Ward. Ammalia visits twice a month, alone, in a hired cab with the curtains drawn (**Southern Ward**, Gazetteer).
 - **Tissina Khyret:** Her personal attendant and the family's chief housemaid, who joined the cult because Ammalia asked her to.
 - **Laiba "Nana" Rosse:** The twins' caretaker, who joined the cult to stay close to the children.
 - **Jandar Chergoba:** The head chef, who sees that the poison at the feast is distributed correctly.
@@ -91,6 +92,7 @@ Ammalia Cassalanter is a noblewoman and wizard known for driving a hard bargain.
 >
 > - **The pact:** Ammalia and Victoro traded the souls of their three children to Asmodeus for wealth and political access. She found the way through infernal research, and she makes the final calls for the family and the cult.
 > - **The feast:** On Founders' Day, Flamerule 1, she plans to poison ninety-nine of one hundred guests to collect the souls that the buy-out clause demands. The twins' ninth birthday, Flamerule 11, is the date the contract falls due.
+> - **The Windmill:** The Converted Windmill is an Asmodean shrine and a fallback site for the cult (**Southern Ward**, Gazetteer). Nobody outside the household and the cult knows what Ammalia's visits there are for.
 > - **Who knows:** Nobody outside the household and the cult. Everyone else suspects the family and knows nothing more. Jarlaxle is the one exception, through **Vessa**, and he tells no member of Bregan D'aerthe who has not worked it out.
 
 **Tone:** Plain and procedural in the GM text, with a poised and courteous Personality and an Overview that shows only the garden and the bargain-maker. The narrator treats Ammalia's love for her children and her plan for the feast as two facts and takes neither side.
@@ -140,6 +142,7 @@ Ammalia Cassalanter is a noblewoman and wizard known for driving a hard bargain.
 > - **Conflicts:** Osvaldo's age. `adventure-wdh.json:20039` shows a "teenage son" and `:20330` a "Twelve-year-old Osvaldo". The campaign has him nine when taken and twelve now (`history/05-a-debt-in-blood.md:49`), and the page follows it.
 > - **Conflicts:** The Black Viper. `Appendix_C_-_Player_Faction_Missions.md:1013` has a rumor that the Black Viper is Ammalia's hidden twin, and `quests/faction-events/order-of-the-gauntlet/m02-the-black-viper-investigation/overview.md:26` calls the story false. The page gives her no twin.
 > - **Settled:** The old Persona's "shares the same pact" is a GM fact. It stays in Character Information and the Secret callout and never appears in the Overview, and the Stone, the vault and the Eye are not on this page.
+> - **Settled:** "Vainglorious" is the adventure's word for her (`adventure-wdh.json:31715`). Personality states the trait plainly, with no source talk in the body.
 > - **Routed to quests:** Her warmth at the **Trollskull Alley** Grand Opening and the Twin Parades booth (`quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:52-58`; `ev-07-the-twin-parades.md:52`), the dinner invitation (`quests/act-ii/fireball/ev-05-the-cassalanter-dinner.md:6-15`), the Theater's Back Room rumor (`m05-the-theaters-back-room/ev-01-the-theaters-back-room.md:358`), her fight behavior (`structure/arc-g-cassalanter-villa.md:245`) and the feast on the day itself (`adventure-wdh.json:22915-22919`; `structure/arc-g-cassalanter-villa.md:19`). The Morale line stays on the page as a standing disposition, and the fight it describes lives in the structure document.
 > - **Changed sentences (Background, moved from `villains/cassalanters.md:23-29`):** Line 28, "On Flamerule 1 Ammalia invites one hundred of Waterdeep's poorest to the villa lawn and serves ninety-nine of them wine laced with midnight tears" became "On Flamerule 1 Ammalia means to invite one hundred of Waterdeep's poorest to the villa lawn and to serve ninety-nine of them wine laced with midnight tears" (a plan, not an event). The bankruptcy, bargain, terms, buy-out, window and Harpers bullets became paragraphs. The Osvaldo and charity sentences come from `history/05-a-debt-in-blood.md:50` and `:55-59` and `organizations/10-cassalanters.md:28`.
 > - **Changed sentences (verbatim blocks):** Resonance: "sympathy when the party sees her with the twins in the butterfly garden, and cold dread when they learn she is the one planning the poisoned feast" became "sympathy in anyone who sees her with the twins in the butterfly garden, and cold dread in anyone who learns she is the one planning the poisoned feast". Emotions, Motivations, Inspirations, Persona, Morale and Relationships are unchanged. The Overview ran 33 words in one sentence and is now three sentences of 21 words or fewer.
