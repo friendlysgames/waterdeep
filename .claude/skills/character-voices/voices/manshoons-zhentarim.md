@@ -137,14 +137,13 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Word choice:** Hierarchy and order: "obedience", "strength", "your place". She speaks of Bane as "the Black Hand" with serene reverence. She calls outsiders "those who have not yet chosen".
 - **Swearing:** *Never · Plain · n/a.* Disorder offends her.
 - **Personality in speech:** Absolute calm and contempt for weakness. She's measured and courteous toward those who might still convert. Her cruelty is stated like policy.
-- **Quirks:** She touches a painted handprint as she speaks. She offers the party a choice she has already made for them.
+- **Quirks:** She touches a painted handprint as she speaks. She offers a visitor a choice she has already made for them.
 - **Signature phrases:** "Order is mercy." / "Choose your place." / "The Black Hand holds all things."
 - **Never:** She never loses composure, never shows doubt, and never raises her voice.
 - **Sample lines:**
   - *Greeting:* "Welcome to Yellowspire. Please don't be alarmed by the walls. They are simply honest."
   - *Business:* "You may serve, or you may be removed. Both serve the Black Hand, in the end."
   - *Under pressure:* "Kneel, and this ends kindly. Order is mercy."
-
 ---
 
 ### Vira Solkan
