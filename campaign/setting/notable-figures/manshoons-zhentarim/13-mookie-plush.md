@@ -73,7 +73,7 @@ Mookie Plush is a cheerful lightfoot halfling who asks everyone he meets for a n
 
 ## Character Information
 
-**Persona.** To the world, Mookie Plush is the friendlier of the two halflings in the audience chamber — he smiles easily, seems genuinely interested in who the party is, and gives a distinct impression that he would rather this did not have to happen. To anyone who probes this affect, it does not crack because there is nothing beneath it to crack: he is genuinely warm, genuinely loyal, and genuinely willing to kill everyone in the room. Deep down, he found what he was looking for when Manshoon offered him a place, and the finding resolved him completely.
+**Persona.** To the world, Mookie Plush is the friendlier of the two halflings in the audience chamber — he smiles easily, seems genuinely interested in who a visitor is, and gives a distinct impression that he would rather this did not have to happen. To anyone who probes this affect, it does not crack because there is nothing beneath it to crack: he is genuinely warm, genuinely loyal, and genuinely willing to kill everyone in the room. Deep down, he found what he was looking for when Manshoon offered him a place, and the finding resolved him completely.
 
 **Morale.** Mookie fights to death, like Havia, but with a quality of sad inevitability he brings to the engagement — not cruelty, not rage, just commitment. He does not retreat. He does not negotiate. He occasionally says something kind in the middle of something terrible.
 
