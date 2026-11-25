@@ -4,14 +4,14 @@ Page: `campaign/setting/notable-figures/cassalanters/05-terenzio-cassalanter.md`
 Brief: `docs/plans/setting-compendium-pass6-brief.md`
 Model format: `docs/plans/setting-compendium-research-notes/pass6/xanathars-guild/06-ott-steeltoes.md`
 Companion: `docs/plans/setting-compendium-research-notes/pass6/cassalanters/06-elzerina-cassalanter.md` (the shared household facts are repeated in both files so each drafter has them in one place)
-Ruling used: Ches 1, 1492 DR. Terenzio is eight, is not in the cult and does not know the bargain. His first appearance is the Trollskull Alley Grand Opening (`campaign/setting/villains/cassalanters.md:76`). The Grand Opening paragraph on the page is quest-time (section C).
+Ruling used: Ches 1, 1492 DR. Terenzio is eight, is not in the cult and does not know the bargain. His first appearance is the Trollskull Alley Grand Opening (`campaign/setting/villains/cassalanters.md:76`). The Grand Opening sentence on the page is quest-time (section C).
 
 Method and caveats:
 - Campaign files: Read and Grep. Quotes are copied from tool output. Line numbers are file lines.
-- Published adventure: `sources/adventure-wdh.json`, quoted as the JSON string. Tags such as `{@creature ...}` are left as written. JSON escapes are shown as plain quotes. Line numbers were checked with a one-line Read.
+- Published adventure: `sources/adventure-wdh.json`, quoted as the JSON string. Tags such as `{@creature ...}` are left as written. JSON escapes are shown as plain quotes. Each line number was checked by a one-line Read or by a grep that printed it.
 - Alexandrian PDFs: no shell, so `pdftotext` could not run. `1. The Villains.pdf` (PDF pp.6-7, printed pp.18-19) and `10. Lair  Cassalanter Villa.pdf` (PDF pp.1-6, printed pp.77-82) were read as page images. Those quotes are transcriptions. Check them with `pdftotext -layout` before prose use.
-- Correction to the Ammalia notes (`docs/plans/setting-compendium-research-notes/pass6/cassalanters/02-ammalia-cassalanter.md`): the "aren't members of their parents' cult" line is at `sources/adventure-wdh.json:18418`, not `:18417`. Line 18417 is the opening `"entries": [` of that block.
-- Wiki: no Terenzio page exists (section A10).
+- Correction to the Ammalia notes (`docs/plans/setting-compendium-research-notes/pass6/cassalanters/02-ammalia-cassalanter.md`): the line "The Cassalanter twins aren't members of their parents' cult" is at `sources/adventure-wdh.json:18418`, not `:18417`. Line 18417 is the opening `"entries": [` of that block.
+- Wiki: no Terenzio page exists (section A9).
 - Source rank: campaign, then the published adventure, then the Alexandrian PDFs and appendices, then the wiki.
 - Not run: `voicecheck.py`. The page was not written. This notes file is the only file written.
 
@@ -19,10 +19,10 @@ Method and caveats:
 
 ## Findings that change how the page is written
 
-1. **Age and birthday.** The age "eight" is derived from the campaign's Flamerule 11 birthday. The adventure gives no current age, only that the twins "turn nine years old a mere ten days after Founders' Day" (`sources/adventure-wdh.json:18294`). The campaign quest text states the age: "The twins are eight years old and turn nine on Flamerule 11." (`campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:66`).
-2. **Pronouns.** "he/him" is sourced in campaign files only (`ev-06-the-grand-opening.md:79`; `campaign/locations/cassalanter-villa/area-overview.md:48`). The adventure's only hint is a possessive: "by his sister" (`sources/adventure-wdh.json:20497`), which is about Terenzio.
+1. **Age and birthday.** "Eight" is derived from the campaign's Flamerule 11 birthday. The adventure gives no current age; it says the twins "turn nine years old a mere ten days after Founders' Day" (`sources/adventure-wdh.json:18294`). The campaign quest text states the age: "The twins are eight years old and turn nine on Flamerule 11." (`campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:66`).
+2. **Pronouns.** "he/him" is sourced in campaign files only (`ev-06-the-grand-opening.md:79`; `campaign/locations/cassalanter-villa/area-overview.md:48`). The adventure's only hint is a possessive, "his sister", which refers to Terenzio (`sources/adventure-wdh.json:20497`).
 3. **Unsourced labels.** "lawful good" and the stat block "Commoner (child)" have no adventure, wiki or Alexandrian source. "Tethyrian human" is campaign-only.
-4. **Quest-time text on the page.** The Grand Opening paragraph (L27) is quest-time and should be routed to **Trollskull Alley**. The Resonance clause "as you understand his parents' bargain" (L11) depends on the party learning the truth; it needs a day-one restatement.
+4. **Quest-time text on the page.** The Grand Opening sentence (L27) is quest-time and should be routed to **Trollskull Alley**. The Resonance clause "as you understand his parents' bargain" (L11) depends on the party learning the truth and needs a day-one restatement.
 5. **The chase location conflicts.** The page puts the chase "around the library" (L21). The adventure's chase is in C18, the Twins' Bedroom (`sources/adventure-wdh.json:20497`, under the C18 header at `:20484`). C3 is the library, where the twins ride the sliding ladders (`:20042`, under the C3 header at `:20028`).
 6. **Overview length.** The Overview (L31) is one sentence of 30 words. The brief limit is 21 words per sentence.
 
@@ -42,12 +42,12 @@ Method and caveats:
 > — `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:66` (quest journal)
 
 > "Terenzio and Elzerina are eight years old and turn nine on Flamerule 11."
-> — `campaign/locations/cassalanter-villa/area-overview.md:67` (the full line continues: "Nana Rosse is with them in every row below except where the table says otherwise. The twins know nothing of the contract, the temple, or the feast, and nothing in the villa tells them they are in danger. Terenzio believes his brother Osvaldo is away at school. Nana Rosse is warm with the party and says nothing of the household's secrets. She reports where the twins have been and who they met to the household every evening, and she does not think of that as spying.")
+> — `campaign/locations/cassalanter-villa/area-overview.md:67` (the paragraph goes on: "The twins know nothing of the contract, the temple, or the feast, and nothing in the villa tells them they are in danger." See A3 and A5.)
 
-> "Around strangers, Terenzio becomes suspicious and meek, while Elzerina seems brash and outgoing." (with the rest of the paragraph covering the twins' freedom and the tour of the house)
-> — `sources/adventure-wdh.json:18418`
+> "**Derived:** The twins are eight years old (the published text gives no age)."
+> — `campaign/setting/villains/cassalanters.md:134`
 
-The adventure gives no age and no birth date for either child. The derived year and its arithmetic are noted in `campaign/setting/villains/cassalanters.md:134` ("**Derived:** The twins are eight years old (the published text gives no age).").
+The adventure gives no age and no birth date for either child. Its nearest line is "The souls of the younger twins, Terenzio and Elzerina, will be taken when they turn nine years old." (`sources/adventure-wdh.json:31715`, Appendix B, Ammalia).
 
 ### A2. Parents and family
 
@@ -55,14 +55,13 @@ The adventure gives no age and no birth date for either child. The derived year 
 > — `campaign/setting/organizations/10-cassalanters.md:47` (Structure, "The family")
 
 > "Victoro and Ammalia's eldest son disappeared three years ago when the family was on the verge of bankruptcy. They have two surviving children, young twins named Terenzio and Elzerina."
-> — `sources/adventure-wdh.json:18403` (Ch. 6 lore, "Cassalanter Lore")
+> — `sources/adventure-wdh.json:18403` (Ch. 6 lore)
 
 > "Ammalia sitting with baby Terenzio and Elzerina in her lap while Victoro reads them a fairy tale"
-> — `sources/adventure-wdh.json:20331` (Portraits, wedding and family portrait captions)
+> — `sources/adventure-wdh.json:20331` (Portraits, family portrait caption)
 
-> "- **The family:** ..." (see above)
-
-The wiki's infobox lists Terenzio as a child of both parents: "| children       = [[Elzerina Cassalanter]]<br /> [[Osvaldo Cassalanter]]<br /> [[Terenzio Cassalanter]]" (`sources/research/pass4-bundles/cassalanters/wiki.txt:38`, Victoro infobox; repeated at `:151`, Ammalia infobox). Edition: the infobox cites the Dragon Heist 5e pages (`WDH5e-p193-194`) on the Ammalia infobox.
+> "| children       = [[Elzerina Cassalanter]]<br /> [[Osvaldo Cassalanter]]<br /> [[Terenzio Cassalanter]]"
+> — `sources/research/pass4-bundles/cassalanters/wiki.txt:38` (Victoro infobox; the same line is at `:151`, Ammalia infobox). The line prints no edition.
 
 ### A3. Brother Osvaldo and the cover story
 
@@ -76,10 +75,10 @@ The wiki's infobox lists Terenzio as a child of both parents: "| children       
 > — `campaign/setting/organizations/10-cassalanters.md:35`
 
 > "To everyone but his parents, Osvaldo was studying in a faraway city."
-> — `sources/research/pass4-bundles/cassalanters/wiki.txt:512` (Osvaldo wiki page, Activities; cites WDH5e-p116; edition 5e per the key)
+> — `sources/research/pass4-bundles/cassalanters/wiki.txt:512` (Osvaldo wiki page, Activities; the key is `WDH5e-p116`, so 5e by the key)
 
-> "Terenzio says his father is looking for missing dragons and that something howls in the attic sometimes, which he thinks is a dragon." (quoted from the area overview's "What they know" paragraph; see A6)
-> — `campaign/locations/cassalanter-villa/area-overview.md:104`
+> "Terenzio says his father is looking for missing dragons and that something howls in the attic sometimes, which he thinks is a dragon."
+> — `campaign/locations/cassalanter-villa/area-overview.md:104` (the paragraph "What they know")
 
 ### A4. The pact and the children's place in it
 
@@ -116,18 +115,18 @@ The wiki's infobox lists Terenzio as a child of both parents: "| children       
 > "- **Settled:** The pact covers three children (Osvaldo, taken, and the twins), per **A Debt in Blood**. The inline tag is dropped."
 > — `campaign/setting/organizations/10-cassalanters.md:181`
 
-The wiki gives the same bargain: "Terenzio Cassalanter|Terenzio] and [[Elzerina Cassalnter|Elzerina]], their youngest twins, were also scheduled to be taken by the [[archdevil]] when they turned nine years old in [[1492 DR]],{{Waterdeep-time}} to be transformed into [[lemure]]s." (`sources/research/pass4-bundles/cassalanters/wiki.txt:189`, Ammalia page, History; cites WDH5e-p193-194 and p.130). Read it with the wiki's own spelling ("Cassalnter" is the wiki's link typo).
+The wiki gives the same bargain, with its markup left as written:
+
+> "In [[1489 DR]],<ref name=\"WDH5e-p116\" />{{Waterdeep-time}} the couple signed a contract with Asmodeus, in which they agreed to give up the souls of their children in exchange for power, good health, and long life. Their eldest son, Osvaldo, was taken immediately and transformed into a [[chain devil]]. [[Terenzio Cassalanter|Terenzio]] and [[Elzerina Cassalnter|Elzerina]], their youngest twins, were also scheduled to be taken by the [[archdevil]] when they turned nine years old in [[1492 DR]],{{Waterdeep-time}} to be transformed into [[lemure]]s."
+> — `sources/research/pass4-bundles/cassalanters/wiki.txt:189` (Ammalia page, History; the first sentence's key is `WDH5e-p116`, and the paragraph's second key is `WDH5e-p193-194`; 5e by the keys). "Cassalnter" is the wiki's own link spelling.
 
 ### A5. Household and cult status
 
 > "The Cassalanter twins aren't members of their parents' cult and have no other friends, since they are privately tutored and rarely allowed to leave the estate. Around strangers, Terenzio becomes suspicious and meek, while Elzerina seems brash and outgoing. Both children are incredibly excited to meet friendly strangers and treat their \"new friends\" to a trip around the house. They help the characters sneak through the villa, since the children know they aren't supposed to have guests."
 > — `sources/adventure-wdh.json:18418`
 
-> "Neither twin belongs to the cult, and both have been told that Osvaldo attends school in a faraway city (*Dragon Heist*, 5e)."
-> — `campaign/setting/organizations/10-cassalanters.md:35` (the full bullet is in A3)
-
 > "Terenzio and Elzerina have places in the house that their parents have forbade them from visiting-and that they are excited to explore, now that they have friends to accompany them. These locations are as follows:"
-> — `sources/adventure-wdh.json:18446` (rest of the passage is the list of rooms; the list is not reproduced here)
+> — `sources/adventure-wdh.json:18446` (the list of rooms follows and is not reproduced)
 
 > "**Terenzio and Elzerina Cassalanter** (Tethyrian human children, he/him and she/her; eight, turning nine on Flamerule 11) and **Laiba \"Nana\" Rosse** (tiefling cult fanatic, she/her): The twins follow the schedule under **The Cassalanter Twins** below and are with Nana Rosse at all times except from 4 to 5 on a day with no event. They are never in C22, C23, C24, the basement, or the temple."
 > — `campaign/locations/cassalanter-villa/area-overview.md:48`
@@ -136,15 +135,18 @@ The wiki gives the same bargain: "Terenzio Cassalanter|Terenzio] and [[Elzerina 
 > — `campaign/structure/arc-g-cassalanter-villa.md:129`
 
 > "The children do not know this. They think they are showing their new friends a secret."
-> — `campaign/structure/arc-g-cassalanter-villa.md:131` (the paragraph continues: "Using the children as guides is mechanically powerful. They know the layout. Servants do not question their movements. A child leading a \"new friend\" through the house bypasses most social exposure checks. The cost is moral: the party is exploiting children whose souls are forfeit. The children do not know this.")
+> — `campaign/structure/arc-g-cassalanter-villa.md:131` (the sentence before it reads "The cost is moral: the party is exploiting children whose souls are forfeit.")
 
-Nana Rosse, the twins' caretaker:
+> "Neither twin belongs to the cult, and both have been told that Osvaldo attends school in a faraway city (*Dragon Heist*, 5e)."
+> — `campaign/setting/organizations/10-cassalanters.md:35` (the full bullet is in A3)
+
+Nana Rosse, the twins' caretaker and tutor:
 
 > "Laiba \"Nana\" Rosse is the twins' tiefling caretaker and tutor, a cult fanatic whose devotion to the children and devotion to the cult are inseparable in her own understanding, and the person who knows the twins' daily movements better than anyone else in the villa."
 > — `campaign/setting/notable-figures/cassalanters/08-laiba-nana-rosse.md:25`
 
-> "\"Laiba \"Nana\" Rosse\", better known as \"Nana,\" is the caretaker and private tutor for Terenzio and Elzerina, and she does her best to keep track of their every move. Even so, the two often sneak away from her watchful eye."
-> — `sources/adventure-wdh.json:18501` (the JSON string reads `{@creature Laiba \"Nana\" Rosse|wdh|Laiba Rosse}, better known as \"Nana,\"`; the tag is left as written)
+> "{@creature Laiba \"Nana\" Rosse|wdh|Laiba Rosse}, better known as \"Nana,\" is the caretaker and private tutor for Terenzio and Elzerina, and she does her best to keep track of their every move. Even so, the two often sneak away from her watchful eye."
+> — `sources/adventure-wdh.json:18501` (the tag is left as written)
 
 > "- **Laiba \"Nana\" Rosse** (cult fanatic, the twins' caretaker) — loves Terenzio and Elzerina fiercely. Joined the cult to stay close to the children when the Cassalanters began restricting household access. She knows the gatherings happen, has seen the robes. She does not know about Osvaldo or the Founders' Day plan. If she learns the children are in danger — from any source — she turns immediately. No check required. She provides: the twins' daily routine, which rooms they frequent, which doors are always locked, and that \"something terrible\" lives in the attic."
 > — `campaign/structure/arc-g-cassalanter-villa.md:97`
@@ -152,20 +154,18 @@ Nana Rosse, the twins' caretaker:
 > "Laiba \"Nana\" Rosse (Tutor/Caretaker) – tiefling cult fanatic, MM p. 345 (DH p. 117)"
 > — `sources/10. Lair  Cassalanter Villa.pdf`, printed p.82 [PDF p.6] (page image transcription)
 
-> "Nana Rosse sleeps in C17 next door and does not attend cult gatherings." (from the table row "From 9, every night | C18 | Asleep.")
-> — `campaign/locations/cassalanter-villa/area-overview.md:83`
-
 > "She reports where the twins have been and who they met to the household every evening, and she does not think of that as spying."
 > — `campaign/locations/cassalanter-villa/area-overview.md:67`
 
-> "- **Chain of command:** ..." (not about the children; omitted)
+> "| From 9, every night | C18 | Asleep. Nana Rosse sleeps in C17 next door and does not attend cult gatherings. |"
+> — `campaign/locations/cassalanter-villa/area-overview.md:83` (table row)
 
 ### A6. Daily routine and the villa rooms
 
 > "C3 (library), C16 (piano room), C17 (playroom), and C18 (the twins' bedroom) have no page in this journal. The table gives everything the party needs from them. From the end of the piano lesson until supper, Terenzio wears his dragon costume and Elzerina wears a knight's helm and carries her wooden sword."
 > — `campaign/locations/cassalanter-villa/area-overview.md:69`
 
-Day schedule rows for Terenzio (the whole table is at `area-overview.md:73`-`:83`; the rows that name him or both twins are quoted):
+The day-schedule table is `area-overview.md:73`-`:83`. The rows that name the twins:
 
 > "| Dawn to 10 | C16 | At a piano lesson. Elzerina plays and Terenzio roars along. Nana Rosse sits beside the piano with her crochet. |"
 > "| 10 to noon | C3 | Riding the sliding ladders along the shelves. Nana Rosse sits in an armchair and counts them aloud. |"
@@ -190,16 +190,16 @@ Day schedule rows for Terenzio (the whole table is at `area-overview.md:73`-`:83
 Adventure room entries for the children:
 
 > "If Terenzio and Elzerina are here, they're playing on the sliding ladders."
-> — `sources/adventure-wdh.json:20042` (C3 Library, header `"name": "C3. Library"` at `:20028`)
+> — `sources/adventure-wdh.json:20042` (C3 Library; header `"name": "C3. Library"` at `:20028`)
 
 > "If Terenzio and Elzerina are here. Terenzio is dressed in a crude dragon costume and is being chased around the room by his sister, who is wearing a knight's helm and swinging a wooden sword."
-> — `sources/adventure-wdh.json:20497` (C18 Twins' Bedroom, header at `:20484`)
+> — `sources/adventure-wdh.json:20497` (C18 Twins' Bedroom; header `"name": "C18. Twins' Bedroom"` at `:20484`)
 
 > "Terenzio and Elzerina have heard howling coming from the attic two or three times in their lives and are curious about what lurks there."
 > — `sources/adventure-wdh.json:20634` (C23 Attic Landing)
 
-> "If Terenzio and Elzerina are here, they are frolicking in the garden. If {@creature Ammalia Cassalanter|WDH} (see {@adventure appendix B|WDH|12}) is here, she's watching the children or tending to her garden. ..."
-> — `sources/adventure-wdh.json:20684` (C25 Butterfly Garden; the rest of the entry covers the six raven imps)
+> "If Terenzio and Elzerina are here, they are frolicking in the garden."
+> — `sources/adventure-wdh.json:20684` (C25 Butterfly Garden; the same entry then covers the six raven imps)
 
 Alexandrian children's-location roll, printed p.81 [PDF p.5] (page image transcription):
 
@@ -208,9 +208,9 @@ Alexandrian children's-location roll, printed p.81 [PDF p.5] (page image transcr
 
 > "1 | Area C3, playing on the sliding ladders."
 > "4 | Area C18, playing make-believe in costumes (see area description)."
-> — same file, printed p.81 (table "D6 / CHILDREN'S LOCATION")
+> — same file, printed p.81 (the table headed "D6 / CHILDREN'S LOCATION")
 
-Location pages (quoted for the children's habits; the rooms are part of the day-one villa layout):
+Location pages (habits; the rooms are part of the day-one layout):
 
 > "On a day with no event, Terenzio lies on the floor of the third-floor corridor from 4 to 5, looking through the gap under the door's lower hinge. His father gets very cross when he finds him there. A party member who reaches the door in that hour finds him, and he greets them as described in **The Cassalanter Twins** in the **Cassalanter Villa Area Overview**. Then he whispers: \"There's a knight in there. It never moves. I think it's asleep.\""
 > — `campaign/locations/cassalanter-villa/04-victoros-office.md:33`
@@ -224,23 +224,23 @@ Location pages (quoted for the children's habits; the rooms are part of the day-
 > "Lissette the upstairs maid mentions hearing Ammalia crying after she visits \"the top floor.\" The twins' caretaker Nana Rosse knows \"something terrible\" lives in the attic. Neither has been inside."
 > — `campaign/locations/cassalanter-villa/08-osvaldos-prison.md:35`
 
-> "Terenzio has nightmares about \"the thing upstairs.\""
-> — `campaign/structure/arc-g-cassalanter-villa.md:113` (Bressa's entry, a non-cult nursemaid: "Knows the children's schedule, favorite hiding places in the villa, and that Terenzio has nightmares about \"the thing upstairs.\" If told the truth: panics, then steadies — the children come first.")
+> "Knows the children's schedule, favorite hiding places in the villa, and that Terenzio has nightmares about \"the thing upstairs.\" If told the truth: panics, then steadies — the children come first."
+> — `campaign/structure/arc-g-cassalanter-villa.md:113` (Bressa, nursemaid, human female, 20s; the entry opens "assists Nana Rosse with the twins during daytime hours.")
 
 ### A7. The Trollskull Alley Grand Opening (first appearance; quest-time event)
 
-Campaign ruling on the first appearance (day-one placement, stated in a setting page; see D3 for the Alexandrian variant):
+Campaign placement, in a setting page (see E1 for the quest text it carries):
 
 > "Terenzio and Elzerina must appear before **Cassalanter Villa**. They first appear at the **Trollskull Alley** Grand Opening, where Ammalia brings them with their nanny, Nana Rosse, and the party meets them again in the villa. The Grand Opening marks the Event Outcome **Cassalanter Twins Met** when any character speaks with either twin. Once the PCs have met the children, the Founders' Day deadline becomes personal rather than abstract."
-> — `campaign/setting/villains/cassalanters.md:76` (contains a quest Event Outcome and a "once the PCs" clause; see E1)
+> — `campaign/setting/villains/cassalanters.md:76`
 
 > "| Terenzio and Elzerina | Surviving children | Twins, eight years old; don't know about the bargain; first appear at the **Trollskull Alley** Grand Opening, before PCs investigate the villa |"
 > — `campaign/setting/villains/cassalanters.md:58`
 
-> "- **Settled by the user (Session 51):** The key design note needed the twins in **Trollskull Alley**, and no file in `campaign/quests/` named Terenzio or Elzerina. `ev-06-the-grand-opening.md` had Ammalia attend alone, and the note handed the GM a decision (\"should identify … when the children will first be visible\"), which zero-prep forbids. The twins now first appear at the Grand Opening, with their nanny Nana Rosse, in a fixed scene, and the party meets them again in the villa."
-> — `campaign/setting/villains/cassalanters.md:132`
+> "**Settled by the user (Session 51):** The key design note needed the twins in **Trollskull Alley**, and no file in `campaign/quests/` named Terenzio or Elzerina. ... The twins now first appear at the Grand Opening, with their nanny Nana Rosse, in a fixed scene, and the party meets them again in the villa."
+> — `campaign/setting/villains/cassalanters.md:132` (Draft Notes; the omitted middle sentences are about the Ammalia scene and the zero-prep rule, and are quoted in full at that line)
 
-The Grand Opening scene itself (quest journal, quoted for the routing):
+The Grand Opening scene (quest journal, quoted for routing):
 
 > "Ammalia arrives without Lord Cassalanter. She brings her twins, Terenzio and Elzerina, and their tiefling nanny, Nana Rosse. She is warm, generous, and interested in the party as people. She stays two hours, learns everyone's name, and leaves with the social grace that makes a room feel larger after she's gone. She is a diabolist counting the days to Founders' Day. Play none of it."
 > — `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:54`
@@ -255,7 +255,7 @@ The Grand Opening scene itself (quest journal, quoted for the routing):
 > — `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:95`
 
 > "Terenzio's dragon has a long neck and a great many teeth, and Elzerina is adding a knight with a very large sword."
-> — `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:114` (the sentence is inside the scene paragraph that begins "The twins are kneeling on two stools at the end of the bar")
+> — `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:114`
 
 > "Terenzio accepts either answer cheerfully. If the party says yes, the drawing stays in the corner of the slate until someone wipes it. Near the end of the evening, Ammalia tells the twins to thank the owners, takes a child's hand in each of hers and leaves, with Nana Rosse a step behind."
 > — `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:118`
@@ -263,11 +263,8 @@ The Grand Opening scene itself (quest journal, quoted for the routing):
 > "Mark **Cassalanter Twins Met** when any character speaks with Terenzio or Elzerina."
 > — `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:120`
 
-> "Trollskull Manor opened to the public after twelve days of renovation. ..." (not reproduced; the line mentions the twins and their nanny)
-> — `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:159`
-
 > "After twelve days of renovation, six guilds, seven factions, and a gladiatorial tournament, the party opened Trollskull Manor. Full house on opening night. Ammalia Cassalanter attended, stayed two hours, learned everyone's name, and was exactly as warm as the wine she sent. She brought her eight-year-old twins and their nanny, and the twins spent the evening drawing on the specials slate. Durnan sent a message through Threestrings. A merchant from the harbor bottom came and went without giving his name."
-> — `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:151` (the line is a Chronicle or journal line; it is quest-time)
+> — `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:151` (quest journal; quest-time)
 
 The Fireball dinner (quest-time; the children are kept away):
 
@@ -285,18 +282,12 @@ The Fireball dinner (quest-time; the children are kept away):
 > "Elzerina is Terenzio's twin and the bolder of the two, forfeit to Asmodeus alongside her brother on their ninth birthday, Flamerule 11, 1492 DR (she is eight now), and a child who suspects something is wrong in this house without knowing what."
 > — `campaign/setting/notable-figures/cassalanters/06-elzerina-cassalanter.md:25` (her page; the bond is shared)
 
-### A9. Nursemaid and the staff who know the children
+### A9. Wiki and research bundles (no Terenzio page)
 
-> "**Bressa** (nursemaid, human female, 20s) — assists Nana Rosse with the twins during daytime hours. Knows the children's schedule, favorite hiding places in the villa, and that Terenzio has nightmares about \"the thing upstairs.\" If told the truth: panics, then steadies — the children come first."
-> — `campaign/structure/arc-g-cassalanter-villa.md:113`
-
-> "- **Marchello** ..." (not about the children; omitted)
-
-### A10. Wiki (no Terenzio page)
-
-- `scratchpad/wiki-cassalanters/05-terenzio-cassalanter.txt` reads "NOT FOUND" (the scratchpad path is `/tmp/claude-0/-home-user-waterdeep/a51d8faf-477c-574c-b157-e1f22664bc3c/scratchpad/wiki-cassalanters/05-terenzio-cassalanter.txt`).
+- `/tmp/claude-0/-home-user-waterdeep/a51d8faf-477c-574c-b157-e1f22664bc3c/scratchpad/wiki-cassalanters/05-terenzio-cassalanter.txt` reads "NOT FOUND".
 - `sources/research/pass4-bundles/cassalanters/wiki.txt`: the page headers are Victoro (`:5`), Ammalia (`:118`), Caladorn (`:350`), Osvaldo (`:438`) and the family page (`:536`). No Terenzio or Elzerina header exists. The twins appear only inside those pages, at `:38`, `:76`, `:151`, `:189`, `:193`, `:470`, `:504`, `:580`.
-- `sources/research/pass3-bundles/north-ward/wiki.txt:1028`: "the younger twins Elzerina and Terenzio were scheduled to be taken on the occasion of their 9th birthday, one tenday after Founders' Day of 1492." (cites WDH5e-p115-116; edition 5e per the key)
+- `sources/research/pass4-bundles/cassalanters/wiki.txt:580` (the family page, History; key `WDH5e-p115-116`): "the younger twins Elzerina and Terenzio were scheduled to be taken on the occasion of their 9{{th}} birthday, one [[tenday]] after [[Founders' Day]] of {{Yearlink|1492}}."
+- `sources/research/pass3-bundles/north-ward/wiki.txt:1028`: the same sentence, with the same markup.
 
 ---
 
@@ -320,19 +311,15 @@ The Fireball dinner (quest-time; the children are kept away):
 
 **Adventure (pronoun clue only; no alignment, species or stat block for the twins)**
 > "Terenzio is dressed in a crude dragon costume and is being chased around the room by his sister, who is wearing a knight's helm and swinging a wooden sword."
-> — `sources/adventure-wdh.json:20497` (the masculine possessive "his sister" refers to Terenzio)
+> — `sources/adventure-wdh.json:20497` (the possessive "his sister" refers to Terenzio)
 > "Around strangers, Terenzio becomes suspicious and meek, while Elzerina seems brash and outgoing."
 > — `sources/adventure-wdh.json:18418` (no pronoun, no race)
 
-**Adventure, the twins' Appendix entry or index:** none. The adventure's Appendix B has no entry for either child (the index runs to Ammalia at `sources/adventure-wdh.json:31711` and Osvaldo at `:32470`). Grep for "Terenzio" and "Elzerina" in the adventure returned no Appendix entry.
+**Adventure, Appendix B:** no entry for either child. The Ammalia entry is at `sources/adventure-wdh.json:31711`-`:31719`, and the Osvaldo index entry is at `:32470`. A search for "Terenzio" and "Elzerina" in the adventure found no Appendix entry.
 
 **Wiki:** no page. No race, alignment or stat block for either child.
 
-**Alexandrian stat reference**, printed p.82 [PDF p.6] (page image transcription; full list read):
-> "Cooks – commoners, MM p. 345" / "Cultists – MM p. 345" / "Guard – MM p. 347" / "Servants – commoners, MM p. 345" / "Imps – MM p. 76" / "Oslando Cassalanter – chain devil, MM p. 72" / "Jandar Chergoba (Head Chef) – tiefling cult fanatic, MM p. 345 (DH p. 117)" / "Laiba \"Nana\" Rosse (Tutor/Caretaker) – tiefling cult fanatic, MM p. 345 (DH p. 117)"
-> No entry for Terenzio or Elzerina. The "Commoner (child)" label on the page has no source.
-
-**Stat block, summary:** "Commoner (child)" is unsourced. The only children's-stat reference in the Alexandrian Lair is the absence above.
+**Alexandrian stat reference**, printed p.82 [PDF p.6] (page image transcription; the whole list was read): "Cooks – commoners, MM p. 345", "Cultists – MM p. 345", "Guard – MM p. 347", "Servants – commoners, MM p. 345", "Imps – MM p. 76", "Oslando Cassalanter – chain devil, MM p. 72", "Jandar Chergoba (Head Chef) – tiefling cult fanatic, MM p. 345 (DH p. 117)", "Laiba \"Nana\" Rosse (Tutor/Caretaker) – tiefling cult fanatic, MM p. 345 (DH p. 117)". No entry for Terenzio or Elzerina. The "Commoner (child)" label on the page has no source.
 
 ---
 
@@ -343,49 +330,48 @@ Page lines: L5 summary, L11 Resonance, L13 Emotions, L15 Motivations, L17 Inspir
 | # | Line | Sentence (exact) | Status | Where the fact already lives |
 |---|---|---|---|---|
 | 1 | L5 | "*Tethyrian human child, lawful good, he/him*. Stat block: **Commoner (child)**." | Day-one label. "lawful good" and "Commoner (child)" are unsourced (B) | `ev-06-the-grand-opening.md:79` (alignment, pronouns); no stat source |
-| 2 | L6 | "**Affiliation:** The Cassalanters (non-cultist)" | Day-one | `organizations/10-cassalanters.md:35` |
-| 3 | L7 | "**Featured in:** Trollskull Alley, Cassalanter Villa, Cassalanter Villa (location)" | Quest references in the summary, kept per brief | `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:54`; `campaign/locations/cassalanter-villa/area-overview.md:48` |
-| 4 | L11 | "**Resonance.** Terenzio should inspire immediate protectiveness; delight at his dragon-costume earnestness; and creeping dread as you understand his parents' bargain makes him forfeit on his ninth birthday, Flamerule 11. He is eight now." | "as you understand his parents' bargain" depends on the party's discovery (campaign-start rule). Restate as a day-one dread (for example, the GM knows the bargain, the boy does not) or route. The forfeit fact is day-one: `villains/cassalanters.md:25` | `campaign/setting/villains/cassalanters.md:25` |
-| 5 | L13 | "**Emotions.** Terenzio most often feels uncomplicated curiosity, physical joy in play, trust in the adults he knows, the particular bravery of a child who has never had reason to doubt that he is loved, and restless impatience to grow up enough to have adventures." | Day-one temperament. "trust in the adults he knows" fits `sources/adventure-wdh.json:18456` ("repeat what their parents have told them") | `sources/adventure-wdh.json:18456` |
-| 6 | L15 | "**Motivations.** Terenzio wants to play with his sister, explore the parts of the villa his parents told him not to explore, and eventually become someone who could go in the attic." | Day-one. "parts of the villa his parents told him not to explore" matches `sources/adventure-wdh.json:18446` | `sources/adventure-wdh.json:18446` |
+| 2 | L6 | "**Affiliation:** The Cassalanters (non-cultist)" | Day-one | `campaign/setting/organizations/10-cassalanters.md:35` |
+| 3 | L7 | "**Featured in:** Trollskull Alley, Cassalanter Villa, Cassalanter Villa (location)" | Quest references in the summary; kept per brief | `ev-06-the-grand-opening.md:54`; `area-overview.md:48` |
+| 4 | L11 | "**Resonance.** Terenzio should inspire immediate protectiveness; delight at his dragon-costume earnestness; and creeping dread as you understand his parents' bargain makes him forfeit on his ninth birthday, Flamerule 11. He is eight now." | "as you understand his parents' bargain" depends on the party's discovery (campaign-start rule). Restate as a day-one dread or route. The forfeit itself is day-one | `campaign/setting/villains/cassalanters.md:25` |
+| 5 | L13 | "**Emotions.** Terenzio most often feels uncomplicated curiosity, physical joy in play, trust in the adults he knows, the particular bravery of a child who has never had reason to doubt that he is loved, and restless impatience to grow up enough to have adventures." | Day-one temperament. "trust in the adults he knows" fits `sources/adventure-wdh.json:18456` | `:18456` |
+| 6 | L15 | "**Motivations.** Terenzio wants to play with his sister, explore the parts of the villa his parents told him not to explore, and eventually become someone who could go in the attic." | Day-one. "parts of the villa his parents told him not to explore" matches `sources/adventure-wdh.json:18446` | `:18446` |
 | 7 | L17 | "**Inspirations.** When playing Terenzio, channel Simba (*The Lion King*), Hiccup (*How to Train Your Dragon*, before he found the dragon), and Bastian (*The Neverending Story*)." | Not a fact | n/a |
 | 8 | L21 | "**Persona.** To the world, Terenzio is a boy in a dragon costume being chased around the library by his sister with a wooden sword. To those who speak with him, he knows his parents are looking for \"missing dragons,\" he has heard howling from the attic two or three times, and he thinks his brother Osvaldo must be doing very well at school by now. Deep down, he has decided that whatever is in the attic is probably a dragon, and he considers this exciting rather than frightening." | Day-one. "library" conflicts with the adventure's C18 (D1). "missing dragons" `:18455`; "howling" `:20634`; "school" `:18456` | `sources/adventure-wdh.json:18455`, `:18456`, `:20497`, `:20634` |
-| 9 | L23 | "**Morale.** Terenzio runs to Nana Rosse if frightened by anything he cannot interpret as a game." | Borderline. A fright-and-escape rule in a Morale block, with no source for Terenzio. Nana's protective role is day-one (`area-overview.md:106`), but the running is a combat-type reaction. Decision for the orchestrator (see H1) | `campaign/locations/cassalanter-villa/area-overview.md:106`; `campaign/structure/arc-g-cassalanter-villa.md:305` (the fight-time Elzerina detail) |
-| 10 | L25 | "**Relationships.** Terenzio is one of the twins (alongside Elzerina), forfeit to Asmodeus on his ninth birthday, Flamerule 11, 1492 DR (he is eight now), a child who trusts his parents completely, and a boy who is curious about the attic for entirely innocent reasons." | Day-one. "a child who trusts his parents completely" has no direct source; the trust is the page's own (see L13) | `campaign/setting/villains/cassalanters.md:25`; `sources/adventure-wdh.json:18418` |
-| 11 | L27 | "At the **Trollskull Alley** Grand Opening, Terenzio arrives in his dragon costume with Ammalia and Nana Rosse, roars at the party, and draws a dragon on the tavern's specials slate." | **Quest-time** (a named quest event). Route to **Trollskull Alley**, ev-06 | `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:54`, `:79`, `:95`, `:114`, `:118` |
-| 12 | L31 | "Terenzio Cassalanter is one of the family's young twins, currently best known for wearing a dragon costume around the villa while being chased by his sister with a wooden sword." | Day-one. **30 words** in one sentence (brief limit 21). Overview is public-face | `campaign/locations/cassalanter-villa/area-overview.md:65`-`:69` (habit); `ev-06-the-grand-opening.md:79` |
+| 9 | L23 | "**Morale.** Terenzio runs to Nana Rosse if frightened by anything he cannot interpret as a game." | Borderline. A fright-and-escape rule in a Morale block, with no source for Terenzio. Nana's protective role is day-one (`area-overview.md:106`). The running is a combat-type reaction. Decision for the orchestrator (H1) | `area-overview.md:106`; `arc-g-cassalanter-villa.md:305` |
+| 10 | L25 | "**Relationships.** Terenzio is one of the twins (alongside Elzerina), forfeit to Asmodeus on his ninth birthday, Flamerule 11, 1492 DR (he is eight now), a child who trusts his parents completely, and a boy who is curious about the attic for entirely innocent reasons." | Day-one. "a child who trusts his parents completely" has no direct source; the trust is the page's own (see L13) | `villains/cassalanters.md:25`; `sources/adventure-wdh.json:18418` |
+| 11 | L27 | "At the **Trollskull Alley** Grand Opening, Terenzio arrives in his dragon costume with Ammalia and Nana Rosse, roars at the party, and draws a dragon on the tavern's specials slate." | **Quest-time** (a named quest event). Route to **Trollskull Alley**, ev-06 | `ev-06-the-grand-opening.md:54`, `:79`, `:95`, `:114`, `:118` |
+| 12 | L31 | "Terenzio Cassalanter is one of the family's young twins, currently best known for wearing a dragon costume around the villa while being chased by his sister with a wooden sword." | Day-one. **30 words** in one sentence (brief limit 21) | `area-overview.md:65`-`:69`; `ev-06-the-grand-opening.md:79` |
 
-**Voice profile quest-time clauses** (`.claude/skills/character-voices/voices/cassalanters.md`, Terenzio at lines 85-99; the file's secrecy header at line 3 says "Some profiles also have an **after discovery** register, used only once the party has found the truth"):
+**Voice profile** (`.claude/skills/character-voices/voices/cassalanters.md`, Terenzio at lines 85-99). The file's secrecy header (line 3) says "Some profiles also have an **after discovery** register, used only once the party has found the truth". Terenzio's profile has none. The clauses that need a decision under ruling 16:
+- Line 99, sample "Under pressure": "Elzi! Elzi, run! I'll be the dragon!" This is a danger line, so it is combat-time. Decision for the orchestrator.
+- Line 92, Personality in speech: "Curious and trusting. He happily repeats what he's heard about \"missing dragons\" and the howling. His bravery shows as wanting to see the attic." Day-one.
+- Line 98, sample "Business": "Father's looking for missing dragons. And there's howling in the attic, sometimes. I think it's a dragon too." Day-one (`sources/adventure-wdh.json:18455`, `:20634`).
 
-> "- **Under pressure:**" is not in Terenzio's profile; the line is the sample line: "  - *Under pressure:* \"Elzi! Elzi, run! I'll be the dragon!\"" (`.claude/skills/character-voices/voices/cassalanters.md:99`)
+**Children's fates** (quest-time resolutions; route them, do not write them as day-one):
 
-Clauses that need a decision under ruling 16:
-- Line 99 (sample, "Under pressure"): "Elzi! Elzi, run! I'll be the dragon!" — a danger line. Combat-time. Decision for the orchestrator.
-- Terenzio's profile has no after-discovery register (lines 85-99 contain none). Quoted for the drafter: "- **Personality in speech:** Curious and trusting. He happily repeats what he's heard about \"missing dragons\" and the howling. His bravery shows as wanting to see the attic." (line 92; day-one).
-- Line 98 (sample, "Business"): "Father's looking for missing dragons. And there's howling in the attic, sometimes. I think it's a dragon too." — day-one (`sources/adventure-wdh.json:18455`, `:20634`).
+> "And the ninety-nine — the Cassalanters will still attempt the feast unless the party explicitly addresses this. The sacrifice clause is separate from the gold clause."
+> — `campaign/structure/arc-g-cassalanter-villa.md:147` (the paragraph headed "**Path 1 — Help the Cassalanters Find the Gold (Cooperative).**")
 
-**Children's fates** (quest-time resolutions; route, do not write as day-one):
+> "The children's souls are freed without the gold payment or the ninety-nine sacrifices. Osvaldo's chain devil form dissolves — he dies, but his soul is freed."
+> — `campaign/structure/arc-g-cassalanter-villa.md:149` (the paragraph headed "**Path 2 — Destroy the Infernal Contract (Mace of Disruption).**")
 
-> "Path 1 — Help the Cassalanters Find the Gold (Cooperative). ... And the ninety-nine — the Cassalanters will still attempt the feast unless the party explicitly addresses this. The sacrifice clause is separate from the gold clause."
-> — `campaign/structure/arc-g-cassalanter-villa.md:147` (the paragraph starts "**Path 1 — Help the Cassalanters Find the Gold (Cooperative).**")
+> "The party does not intervene before Founders' Day. Ninety-nine die. The children's souls are saved by the completed ritual."
+> — `campaign/structure/arc-g-cassalanter-villa.md:155` (the paragraph headed "**Path 3 — Let the Sacrifice Happen.**")
 
-> "**Path 2 — Destroy the Infernal Contract (Mace of Disruption).** ... The children's souls are freed without the gold payment or the ninety-nine sacrifices. Osvaldo's chain devil form dissolves — he dies, but his soul is freed."
-> — `campaign/structure/arc-g-cassalanter-villa.md:149`
+> "The children's souls are forfeit — Asmodeus claims them on their birthday. They become lemures. Cost: the children die."
+> — `campaign/structure/arc-g-cassalanter-villa.md:157` (the paragraph headed "**Path 4 — Expose the Cassalanters.**")
 
-> "**Path 3 — Let the Sacrifice Happen.** The party does not intervene before Founders' Day. Ninety-nine die. The children's souls are saved by the completed ritual."
-> — `campaign/structure/arc-g-cassalanter-villa.md:155`
-
-> "**Path 4 — Expose the Cassalanters.** ... The children's souls are forfeit — Asmodeus claims them on their birthday. They become lemures. Cost: the children die."
-> — `campaign/structure/arc-g-cassalanter-villa.md:157` (the sentence "Cost: the children die." is in the same paragraph)
-
-> "If the Cassalanters fail to obtain the {@item Stone of Golorr|WDH}, the following events don't come to pass. As a consequence, Terenzio and Elzerina are transformed into {@creature lemure||lemures} as their souls are forfeit ten days after Founders' Day. Shattered by their failure and their loss, Victoro and {@creature Ammalia Cassalanter|WDH} vow to destroy those who thwarted them."
+> "If the Cassalanters fail to obtain the {@item Stone of Golorr|WDH}, the following events don't come to pass. As a consequence, Terenzio and Elzerina are transformed into {@creature lemure||lemures} as their souls are forfeit ten days after Founders' Day."
 > — `sources/adventure-wdh.json:22888` (see D4)
 
 > "The Cassalanters' ritual to save Terenzio and Elzerina plays out here (see \"Special Events\")."
 > — `sources/adventure-wdh.json:22811`
 
-> "While Ammalia plays host, Victoro instructs his cultists to remove the sacks of gold from House Cassalanter's vault ({@area C29|330}) and hurl them into the sacrificial bowl ({@area A7|345}). ... Victoro summons a {@creature barbed devil} and informs it that payment has been made in full. The devil declares (in Infernal) that the payment is \"satisfactory\" and informs Victoro that the souls of Terenzio and Elzerina will not be taken to the Nine Hells."
-> — `sources/adventure-wdh.json:22918` (Day of the Damned; the passage is partly quoted)
+> "Standing before the statue of Asmodeus in the temple, Victoro summons a {@creature barbed devil} and informs it that payment has been made in full."
+> — `sources/adventure-wdh.json:22918` (Day of the Damned)
+
+> "The devil declares (in Infernal) that the payment is \"satisfactory\" and informs Victoro that the souls of Terenzio and Elzerina will not be taken to the Nine Hells."
+> — `sources/adventure-wdh.json:22918` (the same entry)
 
 > "The Cassalanters don't fear being arrested, since they have faith that their wealth, reputations, and contacts will keep them out of prison. They do fear the ticking clock of Founders' Day. They plead for the characters to allow them to carry out their plan, if only to save Terenzio's and Elzerina's lives."
 > — `sources/adventure-wdh.json:18528`
@@ -401,48 +387,48 @@ Confrontation (quest-time; not Background):
 > "The confrontation should feel tragic. These are desperate parents who chose a monstrous path. Ammalia reading to her chain-devil son. Victoro unable to visit the attic. Elzerina stepping between Terenzio and anything that frightens him. These details humanize without excusing."
 > — `campaign/structure/arc-g-cassalanter-villa.md:305`
 
-> "Ammalia (9th-level spellcaster ...)" — not about the children; omitted.
-
 ---
 
 ## D. Conflicts
 
 **D1. Where the chase happens: the library against C18**
 - Page, L21: "being chased around the library by his sister with a wooden sword" (`campaign/setting/notable-figures/cassalanters/05-terenzio-cassalanter.md:21`).
-- Adventure, C18 Twins' Bedroom: "Terenzio is dressed in a crude dragon costume and is being chased around the room by his sister, who is wearing a knight's helm and swinging a wooden sword." (`sources/adventure-wdh.json:20497`; header `"name": "C18. Twins' Bedroom"` at `:20484`).
-- Campaign area overview: "C3 (library), C16 (piano room), C17 (playroom), and C18 (the twins' bedroom)" and "5 to 6 | C18 | Playing make-believe in costume." (`campaign/locations/cassalanter-villa/area-overview.md:69`, `:80`). The library is "Riding the sliding ladders along the shelves" (`:76`).
-- Higher source: the adventure and the campaign's area overview both put the costume chase in C18. The page's "library" is the outlier.
+- Adventure, C18 Twins' Bedroom: "Terenzio is dressed in a crude dragon costume and is being chased around the room by his sister, who is wearing a knight's helm and swinging a wooden sword." (`sources/adventure-wdh.json:20497`; header at `:20484`).
+- Campaign area overview: "C3 (library), C16 (piano room), C17 (playroom), and C18 (the twins' bedroom) have no page in this journal." (`campaign/locations/cassalanter-villa/area-overview.md:69`); "| 5 to 6 | C18 | Playing make-believe in costume. |" (`:80`); "| 10 to noon | C3 | Riding the sliding ladders along the shelves. Nana Rosse sits in an armchair and counts them aloud. |" (`:76`).
+- Higher source: the adventure and the area overview both put the costume chase in C18. The page's "library" is the outlier.
 
 **D2. Cursed at birth against the parents' contract**
 - Alexandrian, printed p.19 [PDF p.7] (image transcription): "Lady Cassalanter introduces her husband and they tell the PCs a modified version of their plight: The twins were cursed at their birth by Asmodean cultists to lose their souls on their ninth birthday." (`sources/1. The Villains.pdf`)
 - Adventure: "Three years ago, they traded away the souls of their children to escape financial ruin." (`sources/adventure-wdh.json:18294`)
-- Campaign: "Victoro and Ammalia Cassalanter are loving parents and secret diabolists, ... who traded their three children's souls to Asmodeus three years ago." (`campaign/setting/villains/cassalanters.md:16`)
-- Higher source: the campaign and the adventure. The "cursed at birth" version is noted as left out at `campaign/setting/villains/cassalanters.md:135` ("The Alexandrian claim that the twins were cursed at birth (`1. The Villains.pdf` p.19, from a page image)").
+- Campaign: "Victoro and Ammalia Cassalanter are loving parents and secret diabolists, the heads of a Waterdhavian noble house who traded their three children's souls to Asmodeus three years ago." (`campaign/setting/villains/cassalanters.md:16`)
+- Higher source: the campaign and the adventure. The "cursed at birth" version is recorded as left out at `campaign/setting/villains/cassalanters.md:135`: "The Alexandrian claim that the twins were cursed at birth (`1. The Villains.pdf` p.19, from a page image)."
 
 **D3. Where the children first meet the party**
 - Alexandrian, printed p.19 (image transcription): "They are given an opportunity to \"accidentally\" meet the Cassalanters' children, who come running into the Entrance Hall (C1) while the PCs are waiting." (`sources/1. The Villains.pdf` PDF p.7)
 - Campaign, the Session 51 user ruling: "The twins now first appear at the Grand Opening, with their nanny Nana Rosse, in a fixed scene, and the party meets them again in the villa." (`campaign/setting/villains/cassalanters.md:132`)
-- Higher source: the campaign (user ruling). The Alexandrian meeting is in the Entrance Hall on arrival at the estate and is not used.
+- Higher source: the campaign (user ruling). The Alexandrian meeting in the Entrance Hall is not used.
 
 **D4. What triggers the children's transformation**
 - Adventure: "If the Cassalanters fail to obtain the {@item Stone of Golorr|WDH}, the following events don't come to pass. As a consequence, Terenzio and Elzerina are transformed into {@creature lemure||lemures} as their souls are forfeit ten days after Founders' Day." (`sources/adventure-wdh.json:22888`)
 - Campaign: "The soul half of the buy-out fails if the feast is stopped, whatever happens with the gold." (`campaign/setting/history/09-timekeeping-and-the-festival-calendar.md:91`)
-- Campaign: "Had the contract run its course, the twins were to become lemures" (`campaign/setting/organizations/10-cassalanters.md:129`, the Secret block; the sentence is inside the Osvaldo bullet).
+- Campaign, the Secret block: "Had the contract run its course, the twins were to become lemures (Forgotten Realms Wiki, Victoro Cassalanter, from *Dragon Heist*, 5e)." (`campaign/setting/organizations/10-cassalanters.md:129`, inside the Osvaldo bullet; the parenthesis is the wiki citation)
 - Campaign: "The children's souls are forfeit — Asmodeus claims them on their birthday. They become lemures." (`campaign/structure/arc-g-cassalanter-villa.md:157`)
-- Campaign differs on the trigger: the adventure ties the fate to the Stone, and the campaign ties it to the buy-out and the birthday. Higher source: the campaign. Route the trigger to **Cassalanter Villa**.
+- The adventure ties the fate to the Stone; the campaign ties it to the buy-out and the birthday. Higher source: the campaign. Route the trigger to **Cassalanter Villa**.
 
 **D5. Feast and birthday dates**
 - Alexandrian Lair, printed p.79 [PDF p.3] (image transcription): "TARSAKH 9th – LEIRUIN FEAST: This is the feast at which the Cassalanters poison 99 guests and perform the ritual necessary to save their children's souls (assuming they've managed to secure the gold from the Vault)." and "TARSAKH 11th – THE TWINS' BIRTHDAY: The twins' ninth birthday, on which Asmodeus will claim their souls."
-- Campaign: "| Flamerule 11 | The Cassalanter twins' ninth birthday | **Cassalanter Villa** | The contract falls due |" (`campaign/setting/history/09-timekeeping-and-the-festival-calendar.md:69`) and "| Flamerule 1 | Founders' Day | **Cassalanter Villa** | The Cassalanter feast. This is the party's real deadline |" (`:68`).
-- Higher source: the campaign calendar and the adventure's "ten days after Founders' Day" (`sources/adventure-wdh.json:18294`). The Lair dates are overruled (see also `campaign/setting/organizations/10-cassalanters.md:184` and `campaign/setting/villains/cassalanters.md:133`).
+- Campaign: "| Flamerule 1 | Founders' Day | **Cassalanter Villa** | The Cassalanter feast. This is the party's real deadline |" and "| Flamerule 11 | The Cassalanter twins' ninth birthday | **Cassalanter Villa** | The contract falls due |" (`campaign/setting/history/09-timekeeping-and-the-festival-calendar.md:68`-`:69`).
+- Higher source: the campaign calendar and the adventure's "ten days after Founders' Day" (`sources/adventure-wdh.json:18294`). The Lair dates are overruled (see `campaign/setting/organizations/10-cassalanters.md:184` and `campaign/setting/villains/cassalanters.md:133`).
 
 **D6. Age: "nine and seven" in a retired file**
 - Retired file, `campaign/structure/ch2-city-of-splendors.md:285`: "| Terenzio and Elzerina | Surviving children | Nine and seven years old; don't know about the bargain; should appear in Arc B before PCs investigate the villa |"
 - Campaign: "Terenzio and Elzerina are eight years old and turn nine on Flamerule 11." (`campaign/locations/cassalanter-villa/area-overview.md:67`)
 - Higher source: the campaign. The retired file is not to be used (CLAUDE.md, retired chapter files).
 
-**D7. Osvaldo's portrait captions (sibling context; from the Ammalia notes, not re-read here)**
-- The Ammalia notes give `sources/adventure-wdh.json:20039` ("teenage son, Osvaldo") against `:20330` ("Twelve-year-old Osvaldo"). Not re-read in this pass. Check before using.
+**D7. Osvaldo's age in the adventure's captions (sibling context)**
+- `sources/adventure-wdh.json:20039`: "Hanging on the north wall between two bookshelves is a 7-foot-tall portrait of Lord and Lady Cassalanter holding two infant children and standing beside their teenage son, Osvaldo. (This portrait conceals a secret door.)"
+- `sources/adventure-wdh.json:20330`: "Twelve-year-old Osvaldo holding a ceremonial rapier"
+- Campaign: "Osvaldo was nine when he was taken and is twelve now" (`campaign/setting/villains/cassalanters.md:25`). The captions conflict with each other; the campaign is higher.
 
 **D8. Who grabs the children in a fight (across pages; see H1)**
 - Terenzio page, L23: "Terenzio runs to Nana Rosse if frightened by anything he cannot interpret as a game."
@@ -451,120 +437,117 @@ Confrontation (quest-time; not Background):
 - Ammalia page, L24: "In a fight, Ammalia grabs the twins and runs."
 - Area overview, `:106`: "If a fight starts in a room with the twins, she takes both by the hand and leaves by the nearest door, placing herself between them and the party."
 - Structure doc, `:305` and `:485`: "Elzerina stepping between Terenzio and anything that frightens him."
-- Not a flat conflict, but four sources describe the household's response to a fight with the children. The drafter must pick one or route the scene.
+- Four sources describe the household's response to a fight with the children. The drafter must pick one or route the scene.
 
-**D9. Consistent items (no conflict found)**
-- Appendix C, printed p.? (`sources/Appendix_C_-_Player_Faction_Missions.md:1017`): "The Cassalanters have two children. There was no twin. Gaxly's source invented this story." Consistent with two living children (the twins). The quest scene is the Black Viper rumour (see Ammalia notes D6).
-- Lair printed p.82: "Ammalia is worried sick about her children, although they seem in perfect health." (servant rumour; `sources/10. Lair  Cassalanter Villa.pdf`, printed p.82). Consistent.
+**D9. Consistent items (checked, no conflict)**
+- Appendix C (`sources/Appendix_C_-_Player_Faction_Missions.md:1017`): "The Cassalanters have two children. There was no twin. Gaxly's source invented this story." Consistent with two living children (the twins). The scene is the Black Viper rumour (Ammalia notes, D6).
+- Lair, printed p.82 [PDF p.6] (servant questioning, a rumour): "Ammalia is worried sick about her children, although they seem in perfect health." Consistent.
 
 ---
 
 ## E. Stale lines in other files (not edited) and routed references
 
-**E1. Setting page with quest text (for the orchestrator; not edited)**
+**E1. Setting pages carrying quest text (for the orchestrator; not edited)**
 - `campaign/setting/villains/cassalanters.md:58`: "first appear at the **Trollskull Alley** Grand Opening, before PCs investigate the villa" (a quest placement in a relationships row).
-- `campaign/setting/villains/cassalanters.md:76`: "The Grand Opening marks the Event Outcome **Cassalanter Twins Met** when any character speaks with either twin. Once the PCs have met the children, the Founders' Day deadline becomes personal rather than abstract." (an Event Outcome and an "once the PCs" clause on a setting page; ruling 1 bars both).
+- `campaign/setting/villains/cassalanters.md:76`: "The Grand Opening marks the Event Outcome **Cassalanter Twins Met** when any character speaks with either twin. Once the PCs have met the children, the Founders' Day deadline becomes personal rather than abstract." (an Event Outcome and an "once the PCs" clause on a setting page; ruling 1 bars both)
 - `campaign/gazetteer/waterdeep/sea-ward.md:113`: "Osvaldo is a chain devil now, and the twins are told he is at school." (day-one; consistent)
 
 **E2. Retired and source-guide lines**
 - `campaign/structure/ch2-city-of-splendors.md:285` ("Nine and seven years old"): retired (D6).
-- `campaign/structure/ch2-city-of-splendors.md:296` ("The DM should identify during Arc B when the children will first be visible"): superseded by the Session 51 ruling (`campaign/setting/villains/cassalanters.md:132`).
+- `campaign/structure/ch2-city-of-splendors.md:296`: "**Key design note:** Terenzio and Elzerina must appear before Arc G. The DM should identify during Arc B when the children will first be visible." Superseded by `campaign/setting/villains/cassalanters.md:132`.
 - `sources/SOURCE_GUIDE.md:136`: "- **Cassalanters:** Victoro and Ammalia as desperate, sympathetic parents who bargained away their children's souls. Their agenda: recover the gold to buy back the children's souls before Founders' Day." (the contract falls due after Founders' Day; see D5)
 - `sources/SOURCE_GUIDE.md:326`: "- Five resolution paths for the children's pact (from the plan's Critical Design Decisions)" (the campaign's Cassalanter Villa text has four paths: `campaign/structure/arc-g-cassalanter-villa.md:147`, `:149`, `:155`, `:157`)
 
 **E3. Quest-time references that already live in the quest files (route, do not write as day-one)**
-- Trollskull Alley: `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:54`, `:58`, `:66`, `:79`, `:81`, `:83`, `:87`, `:91`, `:95`, `:114`, `:116`, `:118`, `:120`, `:138`, `:151`, `:159`; `campaign/quests/act-i/trollskull-alley/overview.md:43`, `:63`; `campaign/quests/act-i/trollskull-alley/flowchart.md:91`.
-- Fireball!: `campaign/quests/act-ii/fireball/ev-05-the-cassalanter-dinner.md:25`; `campaign/structure/arc-c-fireball.md` (the dinner; Ammalia's table).
-- Cassalanter Villa structure: `campaign/structure/arc-g-cassalanter-villa.md:21` (Nana's role), `:97` (Nana's entry), `:113` (Bressa), `:129` (The Twins), `:131` (children as guides), `:147`-`:157` (fates), `:305`, `:485`.
-- Cassalanter Villa location: `campaign/locations/cassalanter-villa/area-overview.md:65`-`:110` (The Cassalanter Twins); `01-entrance-hall.md:27`, `:29`; `02-garden-mudroom.md:31`; `04-victoros-office.md:33`, `:35`; `08-osvaldos-prison.md:35`; `09-butterfly-garden.md:27`, `:29`; `10-false-vault.md:17`; `11-wine-cellar.md:13`; `15-family-crypt.md:31`.
-- Bregan D'aerthe, the twins' rumours: `campaign/quests/faction-events/bregan-daerthe/m05-the-theaters-back-room/design-notes.md:7` ("...because it points at the children's pact and the twins are eight.") and `:11` ("She reads thoughts, which is how he learned of the Asmodean pact and the children's contract.").
+- Trollskull Alley: `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:54`, `:66`, `:79`, `:81`, `:87` ("- Monsters: Elzerina asks whether the party fights them and whether she can come."), `:91`, `:95`, `:101`, `:107`, `:109`, `:114`, `:116`, `:118`, `:120`, `:138`, `:151`, `:159`; `campaign/quests/act-i/trollskull-alley/overview.md:43`, `:63`; `flowchart.md:91`.
+- Fireball!: `campaign/quests/act-ii/fireball/ev-05-the-cassalanter-dinner.md:25`.
+- Cassalanter Villa structure: `campaign/structure/arc-g-cassalanter-villa.md:21`, `:97`, `:113`, `:129`, `:131`, `:147`, `:149`, `:155`, `:157`, `:305`, `:485`.
+- Cassalanter Villa location: `campaign/locations/cassalanter-villa/area-overview.md:65`-`:110`; `01-entrance-hall.md:27`, `:29`; `02-garden-mudroom.md:31`; `04-victoros-office.md:33`, `:35`; `07-ammalias-study.md:17`; `08-osvaldos-prison.md:35`; `09-butterfly-garden.md:27`, `:29`; `10-false-vault.md:17`; `11-wine-cellar.md:13`; `15-family-crypt.md:31`.
+- Bregan D'aerthe, the Vessa thought-reading: `campaign/quests/faction-events/bregan-daerthe/m05-the-theaters-back-room/design-notes.md:7` ("...because it points at the children's pact and the twins are eight.") and `:11` ("She reads thoughts, which is how he learned of the Asmodean pact and the children's contract.").
 
-**E4. Wiki and adventure (not edited)**
-- Wiki, Victoro page `:76`: "Terenzio Cassalanter|Terenzio] and [[Elzerina Cassalnter|Elzerina]], their youngest twins, were also scheduled to be taken by the [[archdevil]] when they turned nine years old in [[1492 DR]]" (the wiki's own spelling of Elzerina's link is "Cassalnter").
-- Wiki, Osvaldo page `:504` and `:580` (the Cassalanter family page): the twins "scheduled to be taken on the occasion of their 9th birthday, one [[tenday]] after [[Founders' Day]] of {{Yearlink|1492}}". Edition 5e per the key `WDH5e-p115-116`.
+**E4. Wiki (not edited)**
+- Wiki, Osvaldo page `:504` and family page `:580`: the twins were "scheduled to be taken" at nine (see A4 and A9 for the exact text). The Victoro page `:76` carries the same sentence with `{{WDH-time}}` as its date template.
 
 ---
 
 ## F. Gaps (what a Background would need that no source gives)
 
-1. **Birth date and birth place.** No source. Derived year 1483 DR (`campaign/setting/history/05-a-debt-in-blood.md:125`, "is stated by no source").
-2. **Race "human" and ethnicity "Tethyrian".** Campaign only (`ev-06-the-grand-opening.md:79`; `area-overview.md:48`). The adventure's Tethyrian hits are for other NPCs (for example `sources/adventure-wdh.json:1060`, `:13211`, `:8317`), and none is for a Cassalanter child. The wiki has no page.
+1. **Birth date and place.** No source. The derived year 1483 DR is "stated by no source" (`campaign/setting/history/05-a-debt-in-blood.md:125`).
+2. **Race "human" and ethnicity "Tethyrian".** Campaign only (`ev-06-the-grand-opening.md:79`; `area-overview.md:48`). The adventure's "Tethyrian" hits belong to other NPCs and families (for example `sources/adventure-wdh.json:1060`, the Amcathras family, and `:13211`, Arn and Seffia). None is for a Cassalanter child. The wiki has no page.
 3. **Alignment.** "lawful good" is campaign only (`ev-06-the-grand-opening.md:79`). The adventure gives no alignment for either child (`sources/adventure-wdh.json:18403`-`:18456`).
 4. **Stat block.** None. The Alexandrian stat reference has no entry (B).
-5. **Schooling.** Adventure: "they are privately tutored" (`sources/adventure-wdh.json:18418`); Nana is "the caretaker and private tutor" (`:18501`). The subjects are not given beyond "At a piano lesson" (`area-overview.md:75`) and the sliding ladders and playroom.
-6. **Friends.** "have no other friends" (`sources/adventure-wdh.json:18418`), against "now that they have friends to accompany them" (`:18446`, the party). Not a conflict, but no source gives a child friend.
+5. **Schooling.** Adventure: "privately tutored" (`sources/adventure-wdh.json:18418`); Nana is "the caretaker and private tutor" (`:18501`). The subjects are not given beyond "At a piano lesson" (`area-overview.md:75`) and the sliding ladders and playroom.
+6. **Friends.** "have no other friends" (`sources/adventure-wdh.json:18418`), against "now that they have friends to accompany them" (`:18446`, the party). No source gives a child friend.
 7. **The dragon costume and the belief in dragons.** The adventure gives "missing dragons" and "howling" (`:18455`, `:20634`); no source gives the costume's origin.
-8. **What the child does after the pact resolves.** The campaign gives the children's status for each path (`arc-g-cassalanter-villa.md:149`, `:155`, `:157`) and nothing about their lives afterward. Path 3 and Path 2 both say "saved" and "freed"; the page must not add more.
-9. **Relationship to Osvaldo beyond the cover story.** No source says Terenzio ever met Osvaldo. The adventure says they "don't recall" the school (`sources/adventure-wdh.json:18456`). The Osvaldo page says "the siblings he cannot see" (`campaign/setting/notable-figures/cassalanters/04-osvaldo-cassalanter.md:15`).
-10. **Relationship to Caladorn (grandfather).** No child-specific source. Caladorn is Victoro's father (`campaign/setting/organizations/10-cassalanters.md:123`), which makes him the twins' grandfather by inference `[research]`. Caladorn says the names once: "His voice does: \"Elzerina and Terenzio.\" He says the names once." (`campaign/locations/cassalanter-villa/15-family-crypt.md:31`).
-11. **Terenzio's own goals.** None sourced. The page's own Motivations (L15) give "eventually become someone who could go in the attic" and "play with his sister". Any `[design]` goal must not reveal the pact to him, must not put him in the attic or temple (`area-overview.md:48`, "They are never in C22, C23, C24, the basement, or the temple."), and must not change the Event Outcomes.
-12. **Whether he has seen his brother.** No source. The adventure says the twins "don't recall" the school.
-13. **Terenzio's fear of the attic.** The adventure says "Terenzio and Elzerina are too scared to ask" (`:18455`) about the missing dragons. No source says he fears the attic; the page says he finds it "exciting rather than frightening" (L21, page-own).
+8. **The children's lives after the resolution.** The campaign gives the children's status for each path (`arc-g-cassalanter-villa.md:149`, `:155`, `:157`) and nothing about their lives afterward.
+9. **Relationship with Osvaldo beyond the cover story.** No source says Terenzio ever met Osvaldo. The adventure says the twins "don't recall" which school (`sources/adventure-wdh.json:18456`).
+10. **Caladorn (grandfather).** No child-specific source. Caladorn is Victoro's father ("**Caladorn Cassalanter:** Victoro's father.", `campaign/setting/organizations/10-cassalanters.md:123`), so the twins' grandfather is an inference `[research]`. Caladorn says the names once: "His voice does: \"Elzerina and Terenzio.\" He says the names once." (`campaign/locations/cassalanter-villa/15-family-crypt.md:31`).
+11. **Terenzio's own goals.** None sourced. The page's own Motivations (L15) give "play with his sister" and "eventually become someone who could go in the attic". Any `[design]` goal must not reveal the pact to him, must not put him in the attic or the temple ("They are never in C22, C23, C24, the basement, or the temple.", `area-overview.md:48`), and must not change an Event Outcome.
+12. **Whether he has seen his brother.** No source.
+13. **Fear.** The adventure says the twins are "too scared to ask" about the missing dragons (`sources/adventure-wdh.json:18455`). No source says he fears the attic. The page says he finds it "exciting rather than frightening" (L21, page-own).
 
 ---
 
 ## G. Inner-life hints (exact quotes; the Background and personal goals must not contradict them)
 
 - **Curiosity about the attic.** "Terenzio and Elzerina have heard howling coming from the attic two or three times in their lives and are curious about what lurks there." — `sources/adventure-wdh.json:20634`
-- **Fear that he does not show.** "(What their parents plan to do with a bunch of scary, winged reptiles is beyond them, and Terenzio and Elzerina are too scared to ask.)" — `sources/adventure-wdh.json:18455`
+- **Fear he does not voice.** "(What their parents plan to do with a bunch of scary, winged reptiles is beyond them, and Terenzio and Elzerina are too scared to ask.)" — `sources/adventure-wdh.json:18455`
 - **Nightmares.** "Terenzio has nightmares about \"the thing upstairs.\"" — `campaign/structure/arc-g-cassalanter-villa.md:113`
 - **Shy with strangers.** "Around strangers, Terenzio becomes suspicious and meek, while Elzerina seems brash and outgoing." — `sources/adventure-wdh.json:18418`. "If the party did not mark it, both are shy and polite. Terenzio stays half behind Nana Rosse, and Elzerina steps forward." — `campaign/locations/cassalanter-villa/area-overview.md:98`
 - **Peeking at forbidden rooms.** "On a day with no event, Terenzio lies on the floor of the third-floor corridor from 4 to 5, looking through the gap under the door's lower hinge. His father gets very cross when he finds him there." — `campaign/locations/cassalanter-villa/04-victoros-office.md:33`
 - **Mother's butterflies.** "Mama's butterflies came on a ship. This one's a Monarch." — `campaign/locations/cassalanter-villa/09-butterfly-garden.md:29`. Ammalia's voice: "The Monarch is my favourite; it travels so far." — `.claude/skills/character-voices/voices/cassalanters.md:40`
 - **Dragon play with his sister.** "Terenzio is dressed in a crude dragon costume and is being chased around the room by his sister, who is wearing a knight's helm and swinging a wooden sword." — `sources/adventure-wdh.json:20497`
-- **Bravery and the parents' love.** Page L13 (own): "the particular bravery of a child who has never had reason to doubt that he is loved". Adventure: "The Cassalanter twins aren't members of their parents' cult" (`:18418`).
+- **Bravery and trust (page-own, L13).** "the particular bravery of a child who has never had reason to doubt that he is loved". The adventure's "repeat what their parents have told them" (`sources/adventure-wdh.json:18456`) is the only sourced trust.
 - **Joy in play.** "Terenzio roars, swishes his felt tail, and waits for your answer." — `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:95`
-- **Under pressure (voice).** "Elzi! Elzi, run! I'll be the dragon!" — `.claude/skills/character-voices/voices/cassalanters.md:99`. Flagged as combat-time (C).
-- **Nursemaid's fear for him.** "Terenzio has nightmares about \"the thing upstairs.\"" — `campaign/structure/arc-g-cassalanter-villa.md:113`
+- **Under pressure (voice).** "Elzi! Elzi, run! I'll be the dragon!" — `.claude/skills/character-voices/voices/cassalanters.md:99`. Combat-time (C).
 - **The family's warmth.** "The family's warmth toward the twins is real. Victoro and Ammalia carry the decision together, Ammalia makes the final calls, and Victoro has stopped questioning them." — `campaign/setting/history/05-a-debt-in-blood.md:73`
-- **Victoro's guilt.** "To allay his guilt, Victoro has forged a plan to win back the souls of his young twins, Terenzio and Elzerina." — `sources/adventure-wdh.json:32693`
-- **Ammalia's supervision.** "She allows her youngest children to play in the garden under her supervision." — `sources/adventure-wdh.json:31717` (Appendix B, Ammalia; quoted by the Ammalia notes, and checked against the Ammalia page L30 "supervising her youngest children at play")
+- **Victoro's guilt.** "To allay his guilt, Victoro has forged a plan to win back the souls of his young twins, Terenzio and Elzerina." — `sources/adventure-wdh.json:32692`
+- **Ammalia's supervision.** "She allows her youngest children to play in the garden under her supervision." — `sources/adventure-wdh.json:31717` (Appendix B, Ammalia; verified by a one-line Read)
 - **Nana's devotion, with a line she would cross.** "Laiba \"Nana\" Rosse, the twins' caretaker, is a cult fanatic who joined the cult to remain close to the children — she would betray the Cassalanters to save Terenzio and Elzerina." — `campaign/structure/arc-g-cassalanter-villa.md:21`
 - **Family memory.** "Ammalia sitting with baby Terenzio and Elzerina in her lap while Victoro reads them a fairy tale" — `sources/adventure-wdh.json:20331`
-- **The brother he misses.** Osvaldo's page (not Terenzio's): "the specific anguish of knowing his siblings are scheduled for the same fate" (`campaign/setting/notable-figures/cassalanters/04-osvaldo-cassalanter.md:13`).
-- **Pride in the drawing.** "Terenzio accepts either answer cheerfully." — `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:118`
+- **The brother he misses (Osvaldo's page).** "the specific anguish of knowing his siblings are scheduled for the same fate" — `campaign/setting/notable-figures/cassalanters/04-osvaldo-cassalanter.md:13`. "make contact with the siblings he cannot see" — same file, `:15`.
 
 ---
 
 ## H. Consistency with the household pages
 
-**H1. Fight responses (must agree across pages or route).**
+**H1. Fight responses (must agree across pages, or the scene is routed).**
 - Ammalia page L24: "In a fight, Ammalia grabs the twins and runs. She will spend Victoro's life to buy that retreat without hesitating, and her arcane magic is precise enough to cover an exit while collapsing a hallway behind her."
 - Nana page L23: "In a fight, Nana Rosse grabs the twins and places herself between them and the threat. She is more dangerous than she looks."
-- Elzerina page L23 (sister's page): "Elzerina does not run when frightened. She interposes herself between Terenzio and the threat and looks for a weapon."
-- Terenzio page L23 (own page): "Terenzio runs to Nana Rosse if frightened by anything he cannot interpret as a game."
-- Adventure, the joint defence rule (`sources/adventure-wdh.json:18525`): "Lord and Lady Cassalanter are formidable spellcasters and devoted to one another. If one is assailed within Cassalanter Villa, the other arrives as quickly as possible." (about the parents; the children are not mentioned)
-- The four pages cannot all be true at one fight. Ammalia's line is the one the Ammalia notes route to the structure doc (`arc-g-cassalanter-villa.md:245`).
+- Elzerina page L23: "Elzerina does not run when frightened. She interposes herself between Terenzio and the threat and looks for a weapon."
+- Terenzio page L23: "Terenzio runs to Nana Rosse if frightened by anything he cannot interpret as a game."
+- Adventure, the joint-defence rule (`sources/adventure-wdh.json:18525`): "Lord and Lady Cassalanter are formidable spellcasters and devoted to one another. If one is assailed within Cassalanter Villa, the other arrives as quickly as possible." The rule names the parents, not the children.
+- The Ammalia notes (D3) record that her Morale conflicts with this rule and route it. The four children's fight responses cannot all be true at one fight.
 
 **H2. Consistent items (checked against the household pages)**
-- Victoro page L16 (Motivations): "Victoro wants to save his younger twins from the Asmodean pact before their ninth birthday, acquire 999,999 gold pieces to fund the buy-out clause, and sacrifice 99 souls at the Founders' Day feast while maintaining his philanthropist reputation." — consistent with the twins' status.
-- Victoro page L22 (Persona): "...a genuine warmth toward his younger children..." — consistent.
-- Victoro page L26 (Relationships): "Terenzio and Elzerina (the twins, forfeit on their ninth birthday)" — consistent.
-- Ammalia page L26 (Relationships): "the mother of Osvaldo, Terenzio, and Elzerina" — consistent.
-- Ammalia page L16 (Motivations): "Ammalia wants to save the twins by any means necessary (including poisoning 99 people)" — consistent.
-- Osvaldo page L13 (Emotions): "the specific anguish of knowing his siblings are scheduled for the same fate" — consistent.
-- Osvaldo page L21 (Persona): "\"attending school in a faraway city,\" Terenzio and Elzerina were told" — consistent with the adventure at `:18456`.
-- Osvaldo page L25 (Relationships): "the reason Terenzio and Elzerina are forfeit on their ninth birthday, Flamerule 11, 1492 DR (the pact requires both 999,999 gp and ninety-nine souls)" — consistent.
-- Nana page L21 (Persona): "she reports the children's movements to the household every evening, without considering it a betrayal" — consistent with `area-overview.md:67`.
-- The organization page's Structure line 47: "Their twins, Terenzio and Elzerina, are eight years old." — consistent.
-- Affiliation: Terenzio "(non-cultist)" — consistent with the organization page Beliefs and Structure and the adventure at `:18418`.
+- Victoro page L16 (Motivations): "Victoro wants to save his younger twins from the Asmodean pact before their ninth birthday, acquire 999,999 gold pieces to fund the buy-out clause, and sacrifice 99 souls at the Founders' Day feast while maintaining his philanthropist reputation." Consistent.
+- Victoro page L22 (Persona): "a genuine warmth toward his younger children that makes the rest of what he is harder to see". Consistent.
+- Victoro page L26 (Relationships): "Terenzio and Elzerina (the twins, forfeit on their ninth birthday)". Consistent.
+- Ammalia page L16 (Motivations): "Ammalia wants to save the twins by any means necessary (including poisoning 99 people)". Consistent.
+- Ammalia page L26 (Relationships): "the mother of Osvaldo, Terenzio, and Elzerina". Consistent.
+- Osvaldo page L13 (Emotions): "the specific anguish of knowing his siblings are scheduled for the same fate". Consistent.
+- Osvaldo page L21 (Persona): "\"attending school in a faraway city,\" Terenzio and Elzerina were told". Consistent with `sources/adventure-wdh.json:18456`.
+- Osvaldo page L25 (Relationships): "the reason Terenzio and Elzerina are forfeit on their ninth birthday, Flamerule 11, 1492 DR (the pact requires both 999,999 gp and ninety-nine souls)". Consistent.
+- Nana page L21 (Persona): "she reports the children's movements to the household every evening, without considering it a betrayal". Consistent with `area-overview.md:67`.
+- Organization page, Structure (`:47`): "Their twins, Terenzio and Elzerina, are eight years old." Consistent.
+- Affiliation: "(non-cultist)" is consistent with `organizations/10-cassalanters.md:35` and `sources/adventure-wdh.json:18418`.
 
 **H3. Within the twins' pages**
 - Both pages give "Tethyrian human child, lawful good" (campaign only).
-- Both pages put the Grand Opening paragraph at L27 (quest-time).
-- Both pages give the Overview as a single sentence (Terenzio 30 words; Elzerina 36 words, counted by hand).
-- The Elzerina page's L25 "a child who suspects something is wrong in this house without knowing what" is not the adventure's "Neither knows the cruel fate that has befallen Osvaldo ... or suspects that a similar fate awaits them" (`sources/adventure-wdh.json:18456`). The two statements do not conflict (the children may suspect the house, not their own fate), but the drafter should keep the same line for both twins.
+- Both pages carry the Grand Opening sentence at L27 (quest-time).
+- Both Overviews are one sentence (Terenzio 30 words; Elzerina 36 words, counted by hand).
+- The Elzerina page's L25 says she "suspects something is wrong in this house without knowing what". The adventure says "Neither knows the cruel fate that has befallen Osvaldo ... or suspects that a similar fate awaits them" (`sources/adventure-wdh.json:18456`). The two do not conflict, because a child may sense that something is wrong without suspecting her own fate. Keep the same line for both twins.
 
 ---
 
 ## Cross-references (every other file:line where the topic appears)
 
-- `campaign/setting/organizations/10-cassalanters.md`: `:7`, `:23`, `:35`, `:36`, `:47`, `:97`, `:98`, `:118`, `:123`, `:128`, `:129`, `:131`, `:135`, `:181`, `:184`, `:198`
+- `campaign/setting/organizations/10-cassalanters.md`: `:7`, `:23`, `:35`, `:36`, `:47`, `:97`, `:98`, `:118`, `:123`, `:128`, `:129`, `:131`, `:181`, `:184`, `:198`
 - `campaign/setting/villains/cassalanters.md`: `:16`, `:25`, `:58`, `:76`, `:80`, `:132`, `:134`, `:135`
-- `campaign/setting/history/05-a-debt-in-blood.md`: `:9`, `:14`, `:23`, `:25`, `:26`, `:42`, `:43`, `:51`, `:64`, `:67`, `:73`, `:85`, `:125`, `:128`, `:133`
-- `campaign/setting/history/09-timekeeping-and-the-festival-calendar.md`: `:16`, `:24`, `:68`, `:69`, `:74`, `:91`
+- `campaign/setting/history/05-a-debt-in-blood.md`: `:9`, `:14`, `:23`, `:25`, `:42`, `:43`, `:51`, `:58`, `:64`, `:67`, `:73`, `:77`, `:85`, `:86`, `:96`, `:97`, `:114`, `:125`, `:128`, `:133`
+- `campaign/setting/history/09-timekeeping-and-the-festival-calendar.md`: `:16`, `:24`, `:68`, `:69`, `:91`
 - `campaign/setting/deities/asmodeus.md`: `:74`, `:75`, `:109`
-- `campaign/setting/deities/lliira.md`: `:8`, `:81` (the festival in the ten days before the birthday)
+- `campaign/setting/deities/lliira.md`: `:8`, `:81`
 - `campaign/setting/deities/waukeen.md`: `:72`
 - `campaign/gazetteer/waterdeep/sea-ward.md`: `:37`, `:113`
 - `campaign/guides/factions/11-cassalanters.md`: `:7`, `:107`
@@ -583,21 +566,19 @@ Confrontation (quest-time; not Background):
 - `campaign/locations/cassalanter-villa/15-family-crypt.md`: `:31`
 - `campaign/structure/arc-g-cassalanter-villa.md`: `:9`, `:11`, `:13`, `:17`, `:19`, `:21`, `:75`, `:97`, `:113`, `:129`, `:131`, `:147`, `:149`, `:155`, `:157`, `:305`, `:433`, `:485`
 - `campaign/structure/ch2-city-of-splendors.md` (retired): `:117`, `:285`, `:296`, `:375`, `:402`
-- `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md`: `:10`, `:54`, `:58`, `:62`, `:66`, `:73`, `:79`, `:81`, `:83`, `:87`, `:91`, `:95`, `:101`, `:107`, `:109`, `:114`, `:116`, `:118`, `:120`, `:138`, `:151`, `:159`
+- `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md`: `:10`, `:54`, `:62`, `:66`, `:73`, `:79`, `:81`, `:83`, `:87`, `:91`, `:95`, `:101`, `:107`, `:109`, `:114`, `:116`, `:118`, `:120`, `:138`, `:151`, `:159`
 - `campaign/quests/act-i/trollskull-alley/overview.md`: `:43`, `:63`
 - `campaign/quests/act-i/trollskull-alley/flowchart.md`: `:91`
 - `campaign/quests/act-ii/fireball/ev-05-the-cassalanter-dinner.md`: `:25`
-- `campaign/quests/faction-events/bregan-daerthe/m05-the-theaters-back-room/ev-01-the-theaters-back-room.md`: `:358` ("Madam Ammalia goes out alone twice a month in a hired cab with the curtains drawn.") (not about the twins)
 - `campaign/quests/faction-events/bregan-daerthe/m05-the-theaters-back-room/design-notes.md`: `:7`, `:11`
-- `campaign/quests/faction-events/order-of-the-gauntlet/m02-the-black-viper-investigation/` (no twin; see D9)
 - `campaign/setting/notable-figures/cassalanters/02-ammalia-cassalanter.md`: `:12`, `:16`, `:24`, `:26`, `:30`
 - `campaign/setting/notable-figures/cassalanters/01-victoro-cassalanter.md`: `:16`, `:22`, `:26`, `:30`
 - `campaign/setting/notable-figures/cassalanters/04-osvaldo-cassalanter.md`: `:13`, `:15`, `:21`, `:25`
 - `campaign/setting/notable-figures/cassalanters/08-laiba-nana-rosse.md`: `:11`, `:13`, `:15`, `:21`, `:23`, `:25`, `:27`, `:31`
 - `campaign/setting/notable-figures/cassalanters/14-caladorn-cassalanter.md`: `:15`, `:25`
-- `sources/adventure-wdh.json`: `:18294`, `:18296`, `:18403`, `:18405`, `:18414`, `:18418`, `:18446`, `:18455`, `:18456`, `:18501`, `:18528`, `:20028`, `:20042`, `:20331`, `:20484`, `:20497`, `:20634`, `:20684`, `:22811`, `:22888`, `:22918`, `:31715`, `:31717`, `:32693`
+- `sources/adventure-wdh.json`: `:18294`, `:18296`, `:18403`, `:18405`, `:18414`, `:18418`, `:18446`, `:18455`, `:18456`, `:18501`, `:18525`, `:18528`, `:20028`, `:20039`, `:20042`, `:20330`, `:20331`, `:20484`, `:20497`, `:20634`, `:20684`, `:22811`, `:22888`, `:22918`, `:31715`, `:31717`, `:32692`, `:32693`
 - `sources/1. The Villains.pdf`: PDF p.6 (printed p.18), PDF p.7 (printed p.19)
-- `sources/10. Lair  Cassalanter Villa.pdf`: PDF p.1 (printed p.77, portrait of the children); PDF p.3 (printed p.79, event schedule); PDF p.5 (printed p.81, children's location roll); PDF p.6 (printed p.82, stat reference, "Ammalia is worried sick...")
+- `sources/10. Lair  Cassalanter Villa.pdf`: PDF p.1 (printed p.77, the children in the garden picture); PDF p.3 (printed p.79, event schedule); PDF p.5 (printed p.81, children's location roll); PDF p.6 (printed p.82, stat reference and servant questioning)
 - `sources/SOURCE_GUIDE.md`: `:31`, `:136`, `:323`, `:326`, `:687`
 - `sources/Appendix_C_-_Player_Faction_Missions.md`: `:1017`
 - `sources/research/pass4-bundles/cassalanters/wiki.txt`: `:38`, `:76`, `:151`, `:189`, `:193`, `:470`, `:504`, `:512`, `:580`
@@ -608,27 +589,23 @@ Confrontation (quest-time; not Background):
 ## Not found
 
 Terms searched, and where:
-- "Terenzio", "Elzerina", "Elzi", "twins", "Twin" (not "Twin Parades"): `campaign/setting/` (all), `campaign/quests/` (all), `campaign/locations/` (all), `campaign/structure/` (all), `campaign/guides/` (all), `campaign/gazetteer/` (all). Found only the lines in the Cross-references.
-- "Terenzio|Elzerina" in `sources/research/*/wiki.txt` (all files): only `pass4-bundles/cassalanters/wiki.txt` and `pass3-bundles/north-ward/wiki.txt`.
-- "Terenzio|Elzerina" in `sources/adventure-wdh.json`: the Ch. 6 lore (`:18294`-`:18528`), C3, C16-C18, C23, C25, `:22811`, `:22888`, `:22918`, `:31715`, `:32693`. No Appendix B entry for either child.
-- "Terenzio|Elzerina|twins|Osvaldo|children" in `sources/*.md` (Act III Arc E, Appendix B, C, D, SOURCE_GUIDE): only Appendix C `:1017` and SOURCE_GUIDE `:31`, `:136`, `:323`-`:326`, `:687`. (Appendix D's "Vayle Twins" and Act III Arc E's Gralhund children are unrelated.)
-- "Commoner" and "lawful good" for the twins in `campaign/` and `sources/`: none for either child (`ev-06` `:79` only).
+- "Terenzio", "Elzerina", "Elzi", "twins": `campaign/setting/`, `campaign/quests/`, `campaign/locations/`, `campaign/structure/`, `campaign/guides/`, `campaign/gazetteer/` (all). Found only the lines in the cross-references.
+- "Terenzio" or "Elzerina" in `sources/research/*/wiki.txt`: only `pass4-bundles/cassalanters/wiki.txt` and `pass3-bundles/north-ward/wiki.txt`.
+- "Terenzio", "Elzerina", "twins", "Osvaldo", "children" in `sources/*.md` (Act III Arc E, Appendix B, C, D, SOURCE_GUIDE): only Appendix C `:1017` and SOURCE_GUIDE `:31`, `:136`, `:323`-`:326`, `:687`. The Appendix D "Vayle Twins" and the Act III Arc E Gralhund children are unrelated.
+- "Commoner" and "lawful good" for the twins in `campaign/` and `sources/`: only `ev-06-the-grand-opening.md:79` and the page itself.
 - "Tethyrian" for the twins in `sources/adventure-wdh.json`: none.
-- `campaign/gazetteer/waterdeep/` for the twins: `sea-ward.md:37`, `:113`; `castle-ward.md` and `north-ward.md` do not name them.
-- Wiki page for Terenzio or Elzerina: none (A10).
-- The Vault of Dragons (`campaign/structure/arc-j-vault-of-dragons.md`) and `arc-c-fireball.md` (except the dinner at `:208`-`:222`): no twin line found by grep.
-- Stat block for the children: none in the Lair stat reference (printed p.82), the adventure, the wiki or the campaign.
+- The Vault of Dragons quest (`campaign/structure/arc-j-vault-of-dragons.md`) and `arc-c-fireball.md`: no twin line found by grep.
+- A stat block for either child: none in the Alexandrian Lair stat reference, the adventure, the wiki or the campaign.
 
-Gaps (no source): birth date and place, race and ethnicity beyond the campaign's label, alignment, stat block, schooling subjects, the costume's origin, the children's friends, their life after the pact resolves, and any relationship between Terenzio and Osvaldo beyond the cover story. See F.
+Gaps (no source): birth date and place, race and ethnicity beyond the campaign's label, alignment, stat block, schooling subjects, the costume's origin, the children's friends, their life after the pact resolves, and any Terenzio-Osvaldo contact beyond the cover story. See F.
 
 ---
 
 ## Not readable
 
-- `sources/Other remix files/Cassalanters, their tragic backtstory, and Endgame setup.docx` (listed in `sources/SOURCE_GUIDE.md:687` as "Victoro & Ammalia backstory, the soul-pact timeline, the children's situation, endgame resolution paths"). The file exists (Glob confirmed) and cannot be opened with these tools. It is the most likely source for the children's situation and may settle F1, F5 and F9. Name it for the caller to extract.
-- `sources/Other remix files/*.docx` (others): not searched; `SOURCE_GUIDE.md` lists no other Cassalanter docx.
-- PDFs read as page images, not `pdftotext`: `sources/1. The Villains.pdf` (PDF pp.6-7) and `sources/10. Lair  Cassalanter Villa.pdf` (PDF pp.1-6). All PDF quotes need a `pdftotext -layout` check before prose use.
-- Not re-read in this pass: `sources/adventure-wdh.json:20039` and `:20330` (the Ammalia notes' portrait captions; see D7).
+- `sources/Other remix files/Cassalanters, their tragic backtstory, and Endgame setup.docx` (listed in `sources/SOURCE_GUIDE.md:687` as "Victoro & Ammalia backstory, the soul-pact timeline, the children's situation, endgame resolution paths"). The file exists (Glob confirmed) and cannot be opened with these tools. It is the most likely source for the children's situation and may settle F1, F8 and F9. Name it for the caller to extract.
+- `sources/Other remix files/*.docx` (others): not searched. `SOURCE_GUIDE.md` lists no other Cassalanter docx.
+- PDFs read as page images, not `pdftotext`: `sources/1. The Villains.pdf` (PDF pp.6-7) and `sources/10. Lair  Cassalanter Villa.pdf` (PDF pp.1-6). Every PDF quote needs a `pdftotext -layout` check before prose use.
 
 ## Not run
 
