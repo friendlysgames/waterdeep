@@ -79,11 +79,11 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 ---
 
 ### Agorn Fuoco
-*A vain, out-of-his-depth bard who starts selling everyone out the moment he's caught.*
+*A vain, out-of-his-depth bard who starts selling everyone out the moment he's threatened.*
 
 - **Sound:** A smooth, musical, slightly affected tenor. It cracks into a whine under pressure.
-- **Sentence shape:** Easy, self-absorbed small talk about art and society. Captured, a rapid stream of offers, from least to most useful.
-- **Word choice:** Artistic and social: performances, "delightful company", "a small favour". He calls his mother "Mama", and becomes briefly comprehensible when she's present.
+- **Sentence shape:** Easy, self-absorbed small talk about art and society. Threatened, a rapid stream of offers, from least to most useful.
+- **Word choice:** Artistic and social: performances, "delightful company", "a small favour". He calls his mother "Mama", and becomes briefly comprehensible when she comes up.
 - **Swearing:** *Casual · Plain · Phrase.* Whining curses ("Oh, fuck, oh, this is bad, this is so bad").
 - **Personality in speech:** Artistic self-absorption and passive compliance. He agrees with whoever is most persuasive in the room. His self-preservation is shameless.
 - **Quirks:** He hums when nervous. He offers information before anyone asks. He mentions his mother at inappropriate moments.
@@ -91,9 +91,8 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Never:** He never fights, never keeps a secret under pressure, and never admits he knew what he was doing.
 - **Sample lines:**
   - *Greeting:* "Ah, theatre-lovers? No? Pity. Delightful to meet you anyway."
-  - *Business (captured):* "Here, take the amulet. And I know an address. Amath, Yellowspire. And there's more, lots more, just don't hurt me."
+  - *Business (threatened):* "Here, take the amulet. And I know an address. Amath, Yellowspire. And there's more, lots more, just don't hurt me."
   - *Under pressure:* "Oh, fuck, fuck, fuck, let's be civilised, please."
-
 ---
 
 ### Avareen Windrivver
