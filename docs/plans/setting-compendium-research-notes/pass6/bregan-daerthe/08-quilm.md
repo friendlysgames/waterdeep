@@ -9,7 +9,7 @@ Voice profile: `.claude/skills/character-voices/voices/bregan-daerthe.md`, headi
 Method and caveats:
 - Campaign files: Read and Grep. Quotes are copied from tool output. Line numbers are file lines.
 - Published adventure `sources/adventure-wdh.json`: Grep for "Quilm": no match. Quilm is not in the adventure.
-- Alexandrian appendix `sources/Appendix_D_-_Running_the_Tavern.md`: Read. Lines 615 to 632 are the Quilm entry ("Candidate 5 — Quilm"). Quotes are copied from the file. HTML tags (`<p>`, `<em>`, `<div>`) are left as written.
+- Alexandrian appendix `sources/Appendix_D_-_Running_the_Tavern.md`: Read. Lines 615 to 632 are the Quilm entry ("Candidate 5 — Quilm"). Quotes are copied from the file. HTML tags (`<p>`, `<em>`) are left as written.
 - Alexandrian PDFs: `sources/5. Faction Outposts.pdf` printed pp.36 to 37 read as images; Quilm does not appear on those pages. Other PDFs not checked for Quilm (see Not readable).
 - Wiki: `/tmp/claude-0/-home-user-waterdeep/a51d8faf-477c-574c-b157-e1f22664bc3c/scratchpad/wiki-bregan-daerthe/08-quilm.txt` reads `NOT FOUND`. There is no wiki page for Quilm. Grep of `sources/research/pass5-bundles/bregan-daerthe/wiki.txt` and `adventure.txt` found no line naming Quilm.
 - Source rank used: campaign files, then the published adventure (none), then the Alexandrian appendix, then the wiki (none).
@@ -42,7 +42,7 @@ No source gives Quilm's origin, birthplace, age, family, or any life before the 
 
 **Campaign, the company's recruiting rule, the offer (Factions Guide, First Meeting)**
 > "Bregan D'aerthe recruits during **Trollskull Alley**. The offer extends to any party member."
-> — `campaign/guides/factions/08-bregan-daerthe.md:37`
+> — `campaign/guides/factions/08-bregan-daerthe.md:37` (rest of the paragraph covers the shadowing and the black card)
 
 Quilm's own recruitment is not sourced.
 
@@ -50,11 +50,11 @@ Quilm's own recruitment is not sourced.
 
 **Campaign, the weekly reports (organization page, the Waterdeep network)**
 > "**The Waterdeep network:** Ryvarra watches the well at the Yawning Portal from the balcony, and Quilm files a weekly intelligence report for Jarlaxle."
-> — `campaign/setting/organizations/07-bregan-daerthe.md:67` (rest of the paragraph covers Fenerus Stormcastle's house, a calligraphy shop, a tallyman and Filthy Meg)
+> — `campaign/setting/organizations/07-bregan-daerthe.md:67` (rest of the paragraph covers Fenerus Stormcastle's house, a calligraphy shop, a grain factor's tallyman, Filthy Meg, Grinda Garloth, Vessa and Nar'l Xibrindas)
 
 **Campaign, the weekly reports (organization page, Methods and Tactics)**
-> "**Gathering information:** Each nimblewright feeds a crystal ball aboard the *Scarlet Marpenoth*, so every sale is also a listening post. Nar'l reports by *Sending* spell, Ryvarra and Quilm file weekly reports, and Fenerus gathers coded messages from dead drops across the Trades Ward for Krebbyg to collect every two days."
-> — `campaign/setting/organizations/07-bregan-daerthe.md:75` (rest of the bullet covers the company's Drow Sign Language and the wiki's Blingdenstone contact)
+> "**Gathering information:** Each nimblewright feeds a crystal ball aboard the *Scarlet Marpenoth*, so every sale is also a listening post. Nar'l reports by *Sending* spell, Ryvarra and Quilm file weekly reports, and Fenerus gathers coded messages from dead drops across the Trades Ward for Krebbyg to collect every two days. Members use Drow Sign Language (*Waterdeep: Dragon Heist*, 5e), and the Faire's sailors speak to one another in odd hand signals (*Waterdeep: Dragon Heist*, 5e). The wiki says the company's contacts reached as far as the svirfneblin city of Blingdenstone (Forgotten Realms Wiki, *Bregan D'aerthe*, edition not stated)."
+> — `campaign/setting/organizations/07-bregan-daerthe.md:75`
 
 **Campaign, the key member entry (organization page)**
 > "- **Quilm** — Drow spy, neutral. A Bregan D'aerthe scout who files weekly intelligence reports to Jarlaxle. See the **Quilm** page in Notable Figures."
@@ -87,7 +87,7 @@ Nothing says what Quilm believes beyond that rule.
 
 ### A6. Standing in the company and rank (no source)
 
-No source gives Quilm a rank. The Factions Guide rank events do not name him (Grep of `campaign/quests/faction-events/bregan-daerthe/` for "Quilm": only the first-meeting design notes, quoted at E4). "Bregan D'aerthe scout" is his only label (`03-staff-and-hiring.md:78`, "Bregan D'aerthe scout.").
+No source gives Quilm a rank. The Factions Guide rank events do not name him (Grep of `campaign/quests/faction-events/bregan-daerthe/` for "Quilm": only the first-meeting design notes, quoted at E4). His only label is "Bregan D'aerthe scout." (`campaign/guides/trollskull-manor/03-staff-and-hiring.md:78`).
 
 ### A7. Signature belongings
 
@@ -111,7 +111,7 @@ No source gives Quilm a rank. The Factions Guide rank events do not name him (Gr
 **Pronouns: he/him**
 - Page: "*Drow spy (Bregan D'aerthe scout), neutral, he/him*." (`08-quilm.md:5`)
 - Appendix D: "N male drow" (`Appendix_D_-_Running_the_Tavern.md:616`). Pronouns in the entry: "He is not here for combat intelligence" (`:622`).
-- Staff guide: no pronoun. The table row uses no pronoun for Quilm.
+- Staff guide: no pronoun for Quilm.
 
 **Stat block: Spy (campaign only)**
 - Page: "Stat block: **Spy**." (`08-quilm.md:5`)
@@ -138,18 +138,18 @@ Current page: `campaign/setting/notable-figures/bregan-daerthe/08-quilm.md`. The
 | 2 | L6 | "**Affiliation:** Bregan D'aerthe" | Day-one. | `campaign/setting/organizations/07-bregan-daerthe.md:106` |
 | 3 | L7 | "**Featured in:** **Finding Floon**, **Trollskull Alley**" | Quest references. "Finding Floon" has no source (Findings 3). "Trollskull Alley" is supported only through the staff hiring (`ev-06-the-grand-opening.md:22`; `03-staff-and-hiring.md:78`). | A4 |
 | 4 | L11 | "**Resonance.** Quilm should inspire professional respect for his quiet competence; subtle unease if someone notices the recommendation letter's handwriting; and useful satisfaction when Bregan D'aerthe response team visits simply stop materializing." | Two clauses are event-time. "if someone notices the recommendation letter's handwriting" depends on the hiring card (Appendix D `:619`, `:624`). "when Bregan D'aerthe response team visits simply stop materializing" depends on his hire (staff `:78`). "professional respect for his quiet competence" is day-one. | `campaign/guides/trollskull-manor/03-staff-and-hiring.md:78`; `sources/Appendix_D_-_Running_the_Tavern.md:632` |
-| 5 | L13 | "**Emotions.** Quilm most often feels operational discipline, the particular stillness of a scout who has learned to be uninteresting, professional loyalty to Bregan D'aerthe, private amusement at the tavern work, and the patience of someone whose job is to be overlooked." | Mostly day-one. "private amusement at the tavern work" depends on the hire (the tavern job, A4). Appendix D: "He finds this process mildly interesting to observe." (`:622`) is the source for the amusement. | A3; A4 |
+| 5 | L13 | "**Emotions.** Quilm most often feels operational discipline, the particular stillness of a scout who has learned to be uninteresting, professional loyalty to Bregan D'aerthe, private amusement at the tavern work, and the patience of someone whose job is to be overlooked." | Mostly day-one. "private amusement at the tavern work" depends on the hire (A4). Appendix D: "He finds this process mildly interesting to observe." (`:622`) is the source for the amusement. | A3; A4 |
 | 6 | L15 | "**Motivations.** Quilm wants to maintain his position at the tavern, file the weekly intelligence reports Jarlaxle expects, and neutralize Bregan D'aerthe response team visits without exposing that he is doing so." | "maintain his position at the tavern" presupposes the hire (quest-time). "file the weekly intelligence reports Jarlaxle expects" is day-one (`07-bregan-daerthe.md:67`). "neutralize Bregan D'aerthe response team visits" depends on the hire (`03-staff-and-hiring.md:78`). | A3; A4 |
 | 7 | L17 | "**Inspirations.** When playing Quilm, channel Boba Fett (*Star Wars*), Leon (*Leon: The Professional*), and Varys (*Game of Thrones*, the useful invisible man)." | Not a fact. | n/a |
 | 8 | L21 | "**Persona.** To the world, Quilm is a drow who applied for the bouncer position with a handwritten recommendation and does the job without comment or complaint. To those who read the recommendation letter carefully, the handwriting is recognizably Jarlaxle's — the flourishes are distinctive, visible to any drow character or anyone who has previously seen his correspondence (DC 12 Investigation). Deep down, he filed his first intelligence report the evening he was hired and has not missed a week." | Quest-time: "applied for the bouncer position", "the recommendation letter", "the evening he was hired" (hire event; A4). "does the job without comment or complaint" presupposes the hire. The handwriting clue's check differs from Appendix D (D5). | A4; Appendix D `:624` |
 | 9 | L23 | "**Morale.** In a fight, Quilm removes threats to the tavern with the minimum force required. He does not escalate, and he does not explain." | Encounter behaviour. "removes threats to the tavern" presupposes the tavern job. No source gives Quilm's fighting. Appendix D gives only the hostile-party rule: "If the party is overtly hostile to Bregan D'aerthe, Quilm leaves without notice at the end of the tenday in which hostilities begin." (`Appendix_D:632`). | F3 |
 | 10 | L25 | "**Relationships.** Quilm is a Bregan D'aerthe scout placed as a Trollskull Manor bouncer candidate, the reason no Bregan D'aerthe response team visit materializes while he works there, a man whose recommendation from \"J\" contains Jarlaxle's handwriting, and a weekly intelligence source for Jarlaxle's Waterdeep network." | "placed as a Trollskull Manor bouncer candidate" (hire, quest-time); "the reason no Bregan D'aerthe response team visit materializes while he works there" (hire, quest-time, `:78`); "a man whose recommendation from \"J\" contains Jarlaxle's handwriting" (the hiring card, `:619`, `:624`); "a weekly intelligence source for Jarlaxle's Waterdeep network" (day-one, `07-bregan-daerthe.md:67`). | A3; A4 |
 | 11 | L27 | "## Overview" heading | Not a fact. | n/a |
-| 12 | L29 | "A drow bouncer candidate at Trollskull Manor who came with a handwritten recommendation, does the job without complaint, and keeps odd hours — he is professionally uninteresting, which is the point." | Public face. "bouncer candidate ... came with a handwritten recommendation, does the job" is event-time. "keeps odd hours" is day-one only if it is his habit; no source gives hours. About 30 words over one sentence, over the brief's 21-word limit. | A4 |
+| 12 | L29 | "A drow bouncer candidate at Trollskull Manor who came with a handwritten recommendation, does the job without complaint, and keeps odd hours — he is professionally uninteresting, which is the point." | Public face. "bouncer candidate ... came with a handwritten recommendation, does the job" is event-time. "keeps odd hours" has no source. One sentence of about 30 words, over the brief's 21-word limit. | A4 |
 
 **Voice profile (`.claude/skills/character-voices/voices/bregan-daerthe.md`, "### Quilm", lines 152 to 166)**
 
-The Quilm profile says it "breaks from `ember-voice` speech" (line 156). Its lines, with status:
+The Quilm profile calls its sentence shape "a deliberate break from `ember-voice` speech" (line 156). Its lines, with status:
 
 > "- **Sound:** A quiet, flat, unmemorable voice." — line 155 (day-one)
 
@@ -193,7 +193,7 @@ The Quilm profile says it "breaks from `ember-voice` speech" (line 156). Its lin
 **D3. "Former employer" or present service**
 - Voice profile: "Letter's from a former employer. Understood?" (`bregan-daerthe.md:165`)
 - Organization page: "A Bregan D'aerthe scout who files weekly intelligence reports to Jarlaxle." (`campaign/setting/organizations/07-bregan-daerthe.md:106`)
-- Page: "Quilm is a Bregan D'aerthe scout ..." (`08-quilm.md:25`)
+- Page: "Quilm is a Bregan D'aerthe scout placed as a Trollskull Manor bouncer candidate" (`08-quilm.md:25`)
 - Ranking: the campaign's organization page and page govern. "former employer" conflicts with present tense. Left for the orchestrator (voice profile line 165 needs a decision).
 
 **D4. "Featured in: Finding Floon"**
@@ -282,17 +282,17 @@ Not for the Background's invention, but must not be contradicted: "Neither of th
 ## Not found
 
 - **Wiki**: the extracted page reads `NOT FOUND` (the scratchpad file). Grep of `sources/research/pass5-bundles/bregan-daerthe/wiki.txt` and `adventure.txt`: no line for Quilm.
-- **Quilm in the campaign**: Grep for "Quilm" in `campaign/`: the page, the organization page (lines 67, 75, 106, 207), the Villains page (line 184), the staff guide (line 78), the first-meeting design notes (line 31). No match in `campaign/quests/act-i/`, `campaign/structure/`, `campaign/locations/`, `campaign/gazetteer/` (except the north ward reference to Trollskull Manor) or `campaign/guides/factions/`.
+- **Quilm in the campaign**: Grep for "Quilm" in `campaign/`: the page, the organization page (lines 67, 75, 106, 207), the Villains page (line 184), the staff guide (line 78), the first-meeting design notes (line 31). No match in `campaign/quests/act-i/`, `campaign/structure/`, `campaign/locations/`, `campaign/gazetteer/` or `campaign/guides/factions/`.
 - **Quilm in the sources**: Grep for "Quilm" in `sources/adventure-wdh.json`: none. In `sources/Appendix_B_-_Player_Factions.md` and `sources/Appendix_C_-_Player_Faction_Missions.md`: none. In `sources/Act_III_Arc_E.md`: none. In `sources/Appendix_D_-_Running_the_Tavern.md`: lines 615 to 632 (the entry) and no other line.
 - **"Finding Floon" and Quilm**: no match (D4).
 - **Hiring**: "candidate" in `campaign/quests/act-i/trollskull-alley/`: Yagra Stonefist (`ev-04-the-factions-come-calling.md:85`), not Quilm.
-- **Appendix F**: not in `sources/` (Glob `sources/Appendix_*` returns B, C and D only). Quilm may be in Appendix F as the "five bouncers" (E5).
+- **Appendix F**: not in `sources/` (Glob `sources/Appendix_*` returns B, C and D only). Quilm may be in Appendix F as one of the "five bouncers" (E5).
 - **Pass bundles**: `sources/research/pass4-bundles/jarlaxle/campaign-hits.txt:1391` to `:1393` and `sources/research/pass5-bundles/bregan-daerthe/campaign-hits.txt:302` to `:305` quote the old page text. They match the current page.
 
 ---
 
 ## Not readable
 
-- `sources/Other remix files/Jarlaxle Baenre NPC Guide.docx`: listed in `sources/SOURCE_GUIDE.md:690`. Not opened (`.docx` cannot be read). It may cover the company's bouncers or the Trollskull hire. Extract it and check for Quilm.
-- `sources/Other remix files/` (other `.docx`): the SOURCE_GUIDE lists no `.docx` for Trollskull Manor staff in its Quilm-relevant rows (Grep of `sources/SOURCE_GUIDE.md` for "Staff", "Candidate", "Bouncer"). `Lif and the Haunting of Trollskull Manor.docx` (`sources/SOURCE_GUIDE.md:691`) is listed for the Trollskull Manor guide and may mention staff. Not opened.
+- `sources/Other remix files/Jarlaxle Baenre NPC Guide.docx`: listed in `sources/SOURCE_GUIDE.md:690`. Not opened (`.docx` cannot be read with these tools). It may cover the company's bouncers or the Trollskull hire. Extract it and check for Quilm.
+- `sources/Other remix files/Lif and the Haunting of Trollskull Manor.docx`: listed in `sources/SOURCE_GUIDE.md:691` for the Trollskull Manor guide. Not opened. It may mention staff; no SOURCE_GUIDE row names Quilm.
 - Alexandrian PDFs not checked for Quilm: `sources/6. Faction Response Teams.pdf` (the Bregan response teams that Quilm neutralises), `sources/3. Player Character Factions.pdf`, `sources/17. Outpost and Lair Revelation Lists.pdf`. Not checked.

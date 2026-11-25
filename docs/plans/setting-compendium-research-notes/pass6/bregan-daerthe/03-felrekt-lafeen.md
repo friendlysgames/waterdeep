@@ -10,7 +10,8 @@ Wiki extract: `/tmp/claude-0/-home-user-waterdeep/a51d8faf-477c-574c-b157-e1f226
 Method and caveats:
 - Campaign files: Read and Grep. Quotes are copied from tool output. Line numbers are file lines.
 - Published adventure: `sources/adventure-wdh.json`, quoted as the JSON string. JSON escapes are shown as plain quotes. `{@creature ...}` tags are left as written. The `page` field of an entry is given where one exists.
-- Alexandrian PDFs: this session has no shell, so `pdftotext` could not run. Four PDFs were read as rendered page images and their quotes are transcriptions. Check exact wording with `pdftotext -layout` before any quote goes into prose:
+- Where a source sentence runs on past the quoted part, the quote ends at a sentence boundary and the rest of the passage is named in brackets. No quote is cut mid-sentence.
+- Alexandrian PDFs: no shell, so `pdftotext` could not run. Four PDFs were read as rendered page images and their quotes are transcriptions. Check exact wording with `pdftotext -layout` before any quote goes into prose:
   - `sources/5. Faction Outposts.pdf` (printed pp.36-37 = PDF pp.1-2). Read: PDF pp.1-2.
   - `sources/17. Outpost and Lair Revelation Lists.pdf` (printed p.122 = PDF p.2). Read: PDF p.2.
   - `sources/9. Lair – Sea Maidens Faire.pdf` (printed pp.68-70 = PDF pp.1-3). Read: PDF pp.1-3.
@@ -45,7 +46,7 @@ Method and caveats:
 
 **Wiki, lead (edition 5e, WDH5e-p15)**
 > "was one of the top agents of the [[Bregan D'aerthe]] in [[Waterdeep]] during the early 1490s [[DR]]."
-> — wiki line 64 (lead; the sentence opens "'''Fel'rekt Lafeen''' (" with a pronunciation template before this clause)
+> — wiki line 64 (the lead sentence opens with the name and a pronunciation template, which is not quoted)
 
 **Adventure, pronunciation key**
 > "{@creature Fel'rekt Lafeen|WDH}"
@@ -76,9 +77,9 @@ No source gives his birth year, birth name, home district, house, parents, or an
 
 **Wiki (wiki line 70)**: "Almost immediately, Jarlaxle was impressed with Fel'rekt, who volunteered for all the most dangerous missions."
 
-**Alexandrian Appendix B, the lieutenants**
+**Alexandrian Appendix B, the lieutenants (the joining section)**
 > "When one or more characters are drow, Jarlaxle has three lieutenants — **Fel'rekt Lafeen**, **Krebbyg Masq'il'yr**, and **Soluun Xibrindas** — shadow the party at a careful distance for several days."
-> — `sources/Appendix_B_-_Player_Factions.md:717` (the section on joining Bregan D'aerthe; this is a Trollskull-era recruitment passage)
+> — `sources/Appendix_B_-_Player_Factions.md:717`
 
 **Adventure, the recruitment watch (quest-time use; routed in E2)**
 > "If one or more characters are drow, {@creature Jarlaxle Baenre|WDH} has his lieutenants, three {@creature drow gunslinger|WDH|drow gunslingers}, shadow these potential new recruits while keeping a safe distance. {@creature Fel'rekt Lafeen|WDH} and {@creature Krebbyg Masq'il'yr|WDH} watch the characters at night, and {@creature Soluun Xibrindas|wdh} watches them during the day (doing his best to stay out of the sunlight)."
@@ -172,22 +173,22 @@ Fel'rekt's own faith is not stated in any source.
 **Jarlaxle (the employer)**
 > "Jarlaxle took a shine to Fel'rekt almost immediately, and the young drow has since become one of Jarlaxle's most loyal lieutenants."
 > — `sources/adventure-wdh.json:32002`
-> "A drow gunslinger and Jarlaxle's trusted lieutenant" — the page's Persona and Overview, `campaign/setting/notable-figures/bregan-daerthe/03-felrekt-lafeen.md:21` and `:29` (C rows 8 and 11)
+> "A drow gunslinger and Jarlaxle's trusted lieutenant" — the page's Overview, `campaign/setting/notable-figures/bregan-daerthe/03-felrekt-lafeen.md:29` (C row 11)
 
 **Fenerus's house (a Faction Outposts item, quest time)**
 > "- A surveillance report from Fel'rekt Lafeen on the Gralhund Villa observation post, noting Zhentarim presence and gazer activity nearby."
 > — `campaign/guides/factions/08-bregan-daerthe.md:90` (in the list of what the party finds at Fenerus Stormcastle's house)
 
-**The pier stall (the Faire's pier; the Ches 21 date is the Faire's, see D9)**
+**The pier stall (quest time; the Ches 21 date is the Faire's, see D9)**
 > "The Faire fleet ties up at the Dock Ward pier on the morning of Ches 21. From then on Fel'rekt Lafeen (Neutral Good, Drow, he/him), the young lieutenant who works the stall for the company's members, is there whenever the ramps are open."
-> — `campaign/quests/faction-events/bregan-daerthe/s04-contact-severed/ev-01-contact-severed.md:75` (quest time; the stall itself is the Factions Guide's "through Fel'rekt Lafeen", A2)
+> — `campaign/quests/faction-events/bregan-daerthe/s04-contact-severed/ev-01-contact-severed.md:75` (the passage continues with the scene's trigger; the stall as a service is the Factions Guide's "through Fel'rekt Lafeen", A2)
 
 ### A7. Rank, post and time in post
 
 - "one of Jarlaxle's most loyal lieutenants" (`sources/adventure-wdh.json:32002`).
 - "was one of the top agents of the [[Bregan D'aerthe]] in [[Waterdeep]] during the early 1490s [[DR]]." (wiki line 64)
 - "BD lieutenant" (`campaign/setting/organizations/07-bregan-daerthe.md:101`); "the captain's logistics lieutenant" (`campaign/quests/faction-events/bregan-daerthe/s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:134` and `m06-the-dive/ev-01-the-dive.md:63`). See D1.
-- Alexandrian Faction Outposts PDF, a report signed by him (transcription, PDF p.2, printed p.37): "– Fel'rekt Lafeen" (the report is about the Gralhund observation post; see A6).
+- Alexandrian Faction Outposts PDF, a report signed by him (transcription, PDF p.2, printed p.37): "A report from the Gralhund Villa observation team: 'Watchpost established in the manor south of the Gralhund Villa. ... – Fel'rekt Lafeen'" (the report is about the Gralhund observation post; see A6).
 
 ### A8. Habits
 
@@ -208,7 +209,7 @@ Fel'rekt's own faith is not stated in any source.
 **Alignment**
 - Campaign, the page: "*Drow gunslinger, neutral good, he/him*. Stat block: **Drow Gunslinger**." — `campaign/setting/notable-figures/bregan-daerthe/03-felrekt-lafeen.md:5`
 - Campaign, the org page: "- **Fel'rekt Lafeen** — Drow gunslinger, neutral good, and BD lieutenant." — `campaign/setting/organizations/07-bregan-daerthe.md:101`
-- Campaign, the quest event tag: "Fel'rekt Lafeen (Neutral Good, Drow, he/him) :: a bright young drow gunslinger and the captain's logistics lieutenant" — `campaign/quests/faction-events/bregan-daerthe/s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:134` (the same tag format is at `m06-the-dive/ev-01-the-dive.md:63`)
+- Campaign, the quest event tag: "Fel'rekt Lafeen (Neutral Good, Drow, he/him) :: a bright young drow gunslinger and the captain's logistics lieutenant, who would rather disarm anyone than hurt them and is never far from Krebbyg." — `campaign/quests/faction-events/bregan-daerthe/s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:134` (the same tag format is at `m06-the-dive/ev-01-the-dive.md:63`)
 - Adventure: "{@creature Fel'rekt Lafeen|WDH} is a neutral good {@creature drow gunslinger|WDH}." — `sources/adventure-wdh.json:32010`
 - Wiki: "| alignment5e    = [[Neutral good]]" — wiki line 59
 
@@ -221,13 +222,13 @@ Fel'rekt's own faith is not stated in any source.
 - Campaign: "he/him" (`campaign/setting/notable-figures/bregan-daerthe/03-felrekt-lafeen.md:5`).
 - Adventure: "Fel'rekt is a male drow who was born female." (`sources/adventure-wdh.json:32002`).
 - Wiki: "| sex            = Male <br />{{Former}} Female" — wiki line 13.
-- Campaign, the quest tags: "(Neutral Good, Drow, he/him)" (`campaign/quests/faction-events/bregan-daerthe/s04-contact-severed/ev-01-contact-severed.md:75`) and the same string in `s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:134`.
+- Campaign, the quest tags: "(Neutral Good, Drow, he/him)" (`campaign/quests/faction-events/bregan-daerthe/s04-contact-severed/ev-01-contact-severed.md:75`) and the same string at `s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:134`.
 
 **Stat block**
 - Campaign: "Stat block: **Drow Gunslinger**." — `campaign/setting/notable-figures/bregan-daerthe/03-felrekt-lafeen.md:5`
 - Adventure: "{@creature Fel'rekt Lafeen|WDH} is a neutral good {@creature drow gunslinger|WDH}." — `sources/adventure-wdh.json:32010` (Game Statistics, page 202)
 - Wiki: "| class5e        = [[Gunslinger]]" and "| refs5e         = <ref name=\"WDH5e-p201-202\">" — wiki lines 61-62.
-- No numeric stat block (CR, HP, AC) for the drow gunslinger appears in the sources read. The Bestiary is not drafted (`campaign/structure/arc-h-sea-maidens-faire.md:338`: "Stat blocks for Soluun, Fel'rekt, Krebbyg (drow gunslingers)").
+- No numeric stat block (CR, HP, AC) for the drow gunslinger appears in the sources read. The Bestiary is not drafted (`campaign/structure/arc-h-sea-maidens-faire.md:338`: "Stat blocks for Soluun, Fel'rekt, Krebbyg (drow gunslingers).").
 
 ---
 
@@ -239,14 +240,14 @@ Current page: `campaign/setting/notable-figures/bregan-daerthe/03-felrekt-lafeen
 |---|---|---|---|---|
 | 1 | L5 | "*Drow gunslinger, neutral good, he/him*. Stat block: **Drow Gunslinger**." | Day-one (B) | section B |
 | 2 | L6 | "- **Affiliation:** Bregan D'aerthe" | Day-one | `campaign/setting/organizations/07-bregan-daerthe.md:101` |
-| 3 | L7 | "- **Featured in:** **Gralhund Villa**, **Faction Outposts**, **Sea Maidens Faire**" | Quest-name list. It omits **Trollskull Alley** and **Bregan D'aerthe First Meeting** (E2). Keep as a list of quest names | `campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:26` and `:42` |
+| 3 | L7 | "- **Featured in:** **Gralhund Villa**, **Faction Outposts**, **Sea Maidens Faire**" | Quest-name list (not narrative). It omits **Trollskull Alley** and **Bregan D'aerthe First Meeting**, which feature him (E2) | `campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:26` |
 | 4 | L11 | "**Resonance.** Fel'rekt should inspire admiration for his courage in leaving a society that rejected him, endearment with his eager-to-prove-himself energy, and trust with his refusal to kill when any other option exists." | Day-one. Keep (ruling 3) | `sources/adventure-wdh.json:32002`, `:32003` |
 | 5 | L13 | "**Emotions.** Fel'rekt most often feels determined optimism, competitive enthusiasm, easy camaraderie with Krebbyg, genuine gratitude toward Jarlaxle, restless eagerness, and a stubborn refusal to let cruelty define him." | Day-one. Keep | `sources/adventure-wdh.json:32003`; voice profile line 69 |
 | 6 | L15 | "**Motivations.** Fel'rekt wants to prove himself worthy of Jarlaxle's confidence, protect Krebbyg (his closest friend), and demonstrate that leaving drow society made him stronger rather than weaker." | Day-one. Keep | A1, A6 |
 | 7 | L17 | "**Inspirations.** When playing Fel'rekt, channel Samwise Gamgee (*The Lord of the Rings*), Finn (*Star Wars*), and Sokka (*Avatar: The Last Airbender*)." | Not a fact. Keep | n/a |
 | 8 | L21 | "**Persona.** To the world, Fel'rekt is a drow gunslinger, one of Jarlaxle's most trusted lieutenants. To those he trusts, he was born female in a society that punishes male drow; he petitioned to join Bregan D'aerthe and Jarlaxle took an immediate shine to him. Deep down, he lacks the cruelty common to most drow and will not kill an adversary unless left with no other choice." | Day-one, except "a society that punishes male drow", which goes beyond the adventure (D4). "Jarlaxle took an immediate shine" follows the adventure's "took a shine ... almost immediately" | `sources/adventure-wdh.json:32002`; `campaign/setting/organizations/07-bregan-daerthe.md:42` |
-| 9 | L23 | "**Morale.** In a fight, Fel'rekt hurls himself into combat with verve, trading banter with Krebbyg at the enemies' expense. He volunteers for dangerous tasks first and disengages last." | Encounter behaviour, not a quest event. Brief ruling 3 keeps Morale verbatim. The drafter should know it is encounter-register | `sources/adventure-wdh.json:32002`, `:32003` |
-| 10 | L25 | "**Relationships.** Fel'rekt is one of Jarlaxle's most loyal lieutenants, the close friend and operational partner of Krebbyg Masq'il'yr, and the Bregan D'aerthe operative who led the team at Gralhund Villa." | The first two clauses are day-one. **"who led the team at Gralhund Villa" is quest time.** Restate without it, or remove it and route to **Gralhund Villa** (details below) | see the Gralhund list below |
+| 9 | L23 | "**Morale.** In a fight, Fel'rekt hurls himself into combat with verve, trading banter with Krebbyg at the enemies' expense. He volunteers for dangerous tasks first and disengages last." | Encounter behaviour, not a quest event. Brief ruling 3 keeps Morale verbatim; the drafter should know it is encounter-register | `sources/adventure-wdh.json:32002`, `:32003` |
+| 10 | L25 | "**Relationships.** Fel'rekt is one of Jarlaxle's most loyal lieutenants, the close friend and operational partner of Krebbyg Masq'il'yr, and the Bregan D'aerthe operative who led the team at Gralhund Villa." | The first two clauses are day-one. **"who led the team at Gralhund Villa" is quest time.** Restate without it, or remove it and route to **Gralhund Villa** (list below) | see the Gralhund list below |
 | 11 | L27-29 | "## Overview" / "A drow gunslinger and Jarlaxle's trusted lieutenant — eager to prove himself, reluctant to kill when any other option remains, and almost always accompanied by Krebbyg." | Day-one. **25 words** (brief limit 21). Draft a shorter Overview | `sources/adventure-wdh.json:32002`, `:32003` |
 
 Row 10, the Gralhund facts the drafter routes (all quest time):
@@ -267,7 +268,7 @@ Lines with status:
 - Line 71, "- **Signature phrases:** \"There's another way.\" / \"Kreb, behind me.\" / \"The captain trusts us.\"" — "Kreb, behind me." is an encounter cue (the register of Ott's "Closer"). Flag for the drafter.
 - Line 72, "- **Never:** He never kills when there's another option, never abandons Kreb, and never mocks surface folk." — day-one.
 - Line 74, sample *Greeting*: "Hi! Fel'rekt. That's Kreb. We're with the captain, sort of. Mostly. It's complicated." — day-one.
-- Line 75, sample *Business*: "We go in quiet, we take the ledger, nobody has to die. That's the plan. I like that plan." — **quest time**: "the ledger" is the nimblewright ledger, a Sea Maidens Faire item (`campaign/setting/villains/jarlaxle.md:56` and `sources/Act_III_Arc_D.md:394`). Flag; drop the ledger or reword.
+- Line 75, sample *Business*: "We go in quiet, we take the ledger, nobody has to die. That's the plan. I like that plan." — **quest time**: "the ledger" is the nimblewright ledger, a Sea Maidens Faire item (`sources/Act_III_Arc_D.md:394`: "the ledger is a significant intelligence find"; `campaign/setting/villains/jarlaxle.md:56`). Flag; drop the ledger or reword.
 - Line 76, sample *Under pressure*: "Drop it! Please drop it, I really don't want to shoot you!" — **encounter time**. Flag.
 
 ---
@@ -277,24 +278,25 @@ Lines with status:
 **D1. "Logistics lieutenant" versus "BD lieutenant"**
 - Org page, Fel'rekt: "- **Fel'rekt Lafeen** — Drow gunslinger, neutral good, and BD lieutenant." — `campaign/setting/organizations/07-bregan-daerthe.md:101`
 - Org page, Krebbyg: "- **Krebbyg Masq'il'yr** — Drow gunslinger, chaotic neutral, and logistics lieutenant." — `campaign/setting/organizations/07-bregan-daerthe.md:102`
-- Quest event, Fel'rekt: "a bright young drow gunslinger and the captain's logistics lieutenant, who would rather disarm anyone than hurt them" — `campaign/quests/faction-events/bregan-daerthe/s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:134`; and "a bright young drow gunslinger and the captain's logistics lieutenant, who counts his options off on his fingers" — `campaign/quests/faction-events/bregan-daerthe/m06-the-dive/ev-01-the-dive.md:63`
+- Quest event, Fel'rekt (s02): "Fel'rekt Lafeen (Neutral Good, Drow, he/him) :: a bright young drow gunslinger and the captain's logistics lieutenant, who would rather disarm anyone than hurt them and is never far from Krebbyg." — `campaign/quests/faction-events/bregan-daerthe/s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:134`
+- Quest event, Fel'rekt (m06): "Fel'rekt Lafeen (Neutral Good, Drow, he/him) :: a bright young drow gunslinger and the captain's logistics lieutenant, who counts his options off on his fingers and would rather disarm anyone than hurt them." — `campaign/quests/faction-events/bregan-daerthe/m06-the-dive/ev-01-the-dive.md:63`
 - Krebbyg's page: "Krebbyg is the close friend and operational partner of Fel'rekt Lafeen, Jarlaxle's logistics lieutenant (collecting messages from Fenerus Stormcastle for the Scarlet Marpenoth), and the operating cover manager of the Seven Masks Theater." — `campaign/setting/notable-figures/bregan-daerthe/04-krebbyg-masqilyr.md:25`
 - The org page's own Draft Notes: "**Conflicts:** Krebbyg's role. This page's Key Members line, kept verbatim, calls him \"logistics lieutenant\". `m06-the-dive/ev-01-the-dive.md:63` and `s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:134` call Fel'rekt \"the captain's logistics lieutenant\", and `04-krebbyg-masqilyr.md:25` is ambiguous about which of the two it means. The page says \"BD lieutenant\" for Fel'rekt, as before." — `campaign/setting/organizations/07-bregan-daerthe.md:189`
 - Not decided in the sources. The brief's ruling "Keep and note the tie" covers Zelifarn, Bonnie and Nessa Vayle only.
 
 **D2. Whether his heritage is visible to the public**
-- Campaign, the org page: "...and keeps his heritage to himself." — `campaign/setting/organizations/07-bregan-daerthe.md:101`
+- Campaign, the org page: "...and keeps his heritage to himself." — `campaign/setting/organizations/07-bregan-daerthe.md:101` (the full sentence is in A2)
 - Campaign, the page's Persona: "To the world, Fel'rekt is a drow gunslinger, one of Jarlaxle's most trusted lieutenants." — `campaign/setting/notable-figures/bregan-daerthe/03-felrekt-lafeen.md:21`
-- Alexandrian Trollskull appendix (transcription not needed; text file): "Fel'rekt does not disguise his heritage. He sits at the bar in the open, surface-dressed but with his coloring making no claim to anything it is not." — `sources/Appendix_D_-_Running_the_Tavern.md:1626`
+- Alexandrian Trollskull appendix: "Fel'rekt does not disguise his heritage. He sits at the bar in the open, surface-dressed but with his coloring making no claim to anything it is not." — `sources/Appendix_D_-_Running_the_Tavern.md:1626`
 - The sources do not say what "heritage" covers. The drafter has to choose one line for the Overview and Persona.
 
-**D3. Krebbyg's message pickup frequency**
+**D3. Krebbyg's message pickup frequency (this file's Fel'rekt cross-reference)**
 - Campaign, the org page: "Collects messages from Fenerus Stormcastle's house every two days and carries them to the *Scarlet Marpenoth*." — `campaign/setting/organizations/07-bregan-daerthe.md:102`
 - Campaign, Factions Guide: "Fenerus collects messages from dead drops throughout the Trades Ward and stores them at the house; Krebbyg picks them up every two days." — `campaign/guides/factions/08-bregan-daerthe.md:85`
 - Campaign, Trades Ward gazetteer: "Fenerus gathers messages from dead drops across the ward and stores them at the house, and Krebbyg Masq'il'yr collects them every two days." — `campaign/gazetteer/waterdeep/trades-ward.md:39`
 - Campaign, Faction Outposts structure doc: "Staking out the house and following Krebbyg Masq'il'yr (he visits every two days to drop or collect messages) leads directly to the Faire." — `campaign/structure/arc-e-faction-outposts.md:313`
-- Alexandrian PDF (transcription): "Krebbyg comes to collect messages from Fenerus once every 1d3 days." — `sources/5. Faction Outposts.pdf` PDF p.2 (printed p.37, "Following Krebbyg").
-- Higher rank: campaign ("every two days"). The Alexandrian "every 1d3 days" is the older source.
+- Alexandrian PDF (transcription): "Following Krebbyg: Krebbyg comes to collect messages from Fenerus once every 1d3 days." — `sources/5. Faction Outposts.pdf` PDF p.2 (printed p.37).
+- Higher rank: campaign ("every two days"). The Alexandrian "every 1d3 days" is the older source. Krebbyg notes, D2.
 
 **D4. How the page describes his origin**
 - Page Persona (L21): "he was born female in a society that punishes male drow" — `campaign/setting/notable-figures/bregan-daerthe/03-felrekt-lafeen.md:21`
@@ -304,7 +306,7 @@ Lines with status:
 - Higher rank: the adventure (published, above the wiki). "Punishes" is a stronger claim that no source makes.
 
 **D5. Where Artheyn Manor is in relation to the villa**
-- Gralhund quest journal: "Fel'rekt Lafeen's team occupies the empty Artheyn Manor directly across Saerdoun Street." — `campaign/quests/act-ii/gralhund-villa/ev-02-saerdoun-street.md:53`
+- Gralhund quest journal: "If the party marked **Jarlaxle Informed** in **Fireball!**, Fel'rekt Lafeen's team occupies the empty Artheyn Manor directly across Saerdoun Street." — `campaign/quests/act-ii/gralhund-villa/ev-02-saerdoun-street.md:53`
 - Gralhund design notes: "He does not mention that Fel'rekt Lafeen's team is already in Artheyn Manor, directly across the street." — `campaign/quests/act-ii/gralhund-villa/design-notes.md:31`
 - Campaign, the Villains page: "where Fel'rekt Lafeen's team takes the empty Artheyn Manor across Saerdoun Street" — `campaign/setting/villains/jarlaxle.md:25`
 - Alexandrian Gralhund file (older): "Jarlaxle already has Fel'rekt Lafeen's team in position at Artheyn Manor, directly north of Gralhund Villa." — `sources/Act_III_Arc_D.md:648`
@@ -339,10 +341,9 @@ Lines with status:
 - Alexandrian Gralhund file: "Fel'Rekt Lafeen, two additional Drow Gunslingers, and six Drow occupy a ground-floor watching post facing the villa's gate and an upper-floor observation room with sightlines to the balcony." — `sources/Act_III_Arc_E.md:74`
 - Higher rank: the quest journal. The two versions differ on which rooms the gunslingers hold; the total is similar.
 
-**D11. Trollskull tavern: the Trollskull appendix names him as the most common visitor**
+**D11. Trollskull tavern visitor (not a conflict in substance)**
 - Alexandrian appendix: "Fel'rekt Lafeen most often in the early campaign" — `sources/Appendix_D_-_Running_the_Tavern.md:1610`
-- Trollskull guide: "Fel'rekt Lafeen most often in the early campaign (Acts II–III)" — `campaign/guides/trollskull-manor/09-response-teams-at-the-tavern.md:83`-`:87` (the sentence is at line 87)
-- Not a conflict in substance. The two differ on the act range only.
+- Trollskull guide: "Fel'rekt Lafeen most often in the early campaign (Acts II–III)" — `campaign/guides/trollskull-manor/09-response-teams-at-the-tavern.md:87`. The two differ on the act range only.
 
 ---
 
@@ -350,56 +351,59 @@ Lines with status:
 
 **E1. Stale or conflicting lines in other files**
 - `campaign/gazetteer/waterdeep/dock-ward.md:320`: "Fel'rekt Lafeen has a Notable Figures page, but the page names him once in passing and does not link him." Stale: the page exists and is a full Notable page.
-- `campaign/gazetteer/waterdeep/trades-ward.md:38`: "Fenerus spies for Luskan. He followed Krebbyg once and knows where the messages go, but he has not worked out that the cloaked drow belong to Bregan D'aerthe." Conflicts with `campaign/setting/organizations/07-bregan-daerthe.md:104`: "Supposed to be a cut-out, but once followed Krebbyg after a pickup and knows the messages go to the Sea Maidens Faire." The Trades Ward line is also in `:40`: "Fenerus believes his contacts are Luskan agents." The Alexandrian PDF says "Fenerus once followed Krebbyg after Jarlaxle's lieutenant picked up the messages and knows that they're being taken to the Sea Maidens Faire." (PDF p.1, printed p.36, transcription). The Session 51 ruling at `campaign/setting/governance-and-guilds/guilds.md:122` settles Fenerus's knowledge in favour of the org page. That ruling cites the org page as line 103; the line is 104.
+- `campaign/gazetteer/waterdeep/trades-ward.md:38`: "Fenerus spies for Luskan. He followed Krebbyg once and knows where the messages go, but he has not worked out that the cloaked drow belong to Bregan D'aerthe." Also `:40`: "Fenerus believes his contacts are Luskan agents. He followed Krebbyg once and knows where the messages go, but he has not worked out that the cloaked drow belong to Bregan D'aerthe." These conflict with `campaign/setting/organizations/07-bregan-daerthe.md:104`: "Supposed to be a cut-out, but once followed Krebbyg after a pickup and knows the messages go to the Sea Maidens Faire." The Alexandrian PDF says "Fenerus once followed Krebbyg after Jarlaxle's lieutenant picked up the messages and knows that they're being taken to the Sea Maidens Faire." (PDF p.1, printed p.36, transcription). The Session 51 ruling at `campaign/setting/governance-and-guilds/guilds.md:122` settles Fenerus's knowledge in favour of the org page. That ruling cites the org page as line 103; the line is 104.
 - `campaign/setting/lore/stone-of-golorr-and-the-eyes.md:194`: "Hlam, Fel'rekt Lafeen and Kalain are named in passing and I did not open their pages (`bregan-daerthe/03-felrekt-lafeen.md` and `independents-allies/20-kalain.md` exist)." Stale: a research note that predates the page.
-- `sources/Appendix_B_-_Player_Factions.md:792`: "Safe house access aboard the *Hellraiser* or *Hellbreaker*." Appendix B spells the ship "Hellbreaker"; the Sea Maidens Faire files use "Heartbreaker" (`campaign/locations/sea-maidens-faire/05-scarlet-marpenoth.md` and `campaign/guides/factions/08-bregan-daerthe.md:56`). Not Fel'rekt's line, but it names his pier.
+- `sources/Appendix_B_-_Player_Factions.md:792`: "Safe house access aboard the *Hellraiser* or *Hellbreaker*." The campaign files spell the ship "Heartbreaker" (`campaign/guides/factions/08-bregan-daerthe.md:56`). Not Fel'rekt's line, but it names his pier.
 - `campaign/locations/sea-maidens-faire/area-overview.md:34`: "three drow gunslingers (U3, U4, U5)" — see D8.
 
 **E2. Routed quest references (the quest-time facts on the page)**
 
 Gralhund Villa (the quest that puts Fel'rekt's team on the page):
-- `campaign/quests/act-ii/gralhund-villa/ev-02-saerdoun-street.md:53-55` (Artheyn Manor team; **Jarlaxle Informed**)
-- `campaign/quests/act-ii/gralhund-villa/ev-04-the-zhentarim-raid.md:76` ("2. Fel'rekt Lafeen and four drow drop to the Balcony (G17) and enter the upper floor.") to `:83` ("**BD-affiliated PCs:** ... Fel'rekt acknowledges the PC with a nod when their paths cross.")
-- `campaign/quests/act-ii/gralhund-villa/ev-06-the-gralhund-confrontation-day.md:55` ("Fel'rekt enters through the glass doors to G16. Yalah reads this immediately...") and `:57` ("*\"Jarlaxle sends his regards. You have been following the same trail we have...\"*")
-- `campaign/quests/act-ii/gralhund-villa/ev-07-the-gralhund-confrontation-night.md:65`-`:67` (the night version)
-- `campaign/quests/act-ii/gralhund-villa/ev-08-the-rooftop-chase.md:21` ("**Bregan D'aerthe.** Fel'rekt's team exits via the rooftops. They move fast and know where they are going: a BD outpost in the Trades Ward (Fenerus Stormcastle).")
-- `campaign/quests/act-ii/gralhund-villa/ev-09-aftermath.md:44` ("...Hrabbaz is dead if he held G16 against Fel'rekt, and alive if he stood down.") — the sentence is cut at the first ellipsis for length: its full text is "By the morning of Ches 25th, the City Watch has sealed Gralhund Villa and begun processing twenty-three bodies. Lord Gralhund is in shock. Hrabbaz is dead if he held G16 against Fel'rekt, and alive if he stood down. No Stone, no nimblewright, no Floxin."
-- `campaign/quests/act-ii/gralhund-villa/ev-09-aftermath.md:118` ("**Bregan D'aerthe — BD Operative in Party (conditional — **Jarlaxle Informed**).** No back-room invitation. Fel'rekt's debrief arrives through the operative's established channel — a direct, brief message, not an open offer to the group.")
-- `campaign/structure/arc-d-gralhund-villa.md:248`-`:253` (the raid timeline, beats 2 to 7) and `:255` ("**BD-Affiliated PCs:** ...")
-- `campaign/locations/gralhund-villa/g17-balcony.md:9` ("**BD assault route:** During the BD assault sequence (*Jarlaxle Informed*), Fel'rekt Lafeen and four drow use this balcony as their entry point...")
-- `sources/Act_III_Arc_E.md:14` ("- Bregan D'Aerthe: Fel'Rekt Lafeen and a team of drow in the neighboring Artheyn Manor. They will act when the moment is right.") — the bullet in the file is HTML: "<li><strong>Bregan D'Aerthe:</strong> Fel'Rekt Lafeen and a team of drow in the neighboring Artheyn Manor. They will act when the moment is right.</li>"; also `:701` and `:729`.
+- `campaign/quests/act-ii/gralhund-villa/ev-02-saerdoun-street.md:53-55` (Artheyn Manor team; **Jarlaxle Informed**; quoted in C and D5)
+- `campaign/quests/act-ii/gralhund-villa/ev-04-the-zhentarim-raid.md:76`: "2. Fel'rekt Lafeen and four drow drop to the Balcony (G17) and enter the upper floor." (the raid beats run to `:81`; `:83`: "**BD-affiliated PCs:** If any party member belongs to Bregan D'aerthe, Jarlaxle's gunslingers extend their covering fire to include that character during the raid, sniping threats the PC is engaged with through the upper-floor windows. Fel'rekt acknowledges the PC with a nod when their paths cross.")
+- `campaign/quests/act-ii/gralhund-villa/ev-06-the-gralhund-confrontation-day.md:55`: "Fel'rekt enters through the glass doors to G16. Yalah reads this immediately: she retreats into G18 — the children's room — and locks the door from inside. Hrabbaz holds G16 against Fel'rekt, buying her the seconds she needs."
+- `campaign/quests/act-ii/gralhund-villa/ev-06-the-gralhund-confrontation-day.md:57`: "Before Fel'rekt moves toward the G18 door, he turns to the party. His voice is level and carries no threat: *\"Jarlaxle sends his regards. You have been following the same trail we have — which means you already know what is in that room and what it is worth. I am not here to fight you. What I am here for is behind that door.\"*"
+- `campaign/quests/act-ii/gralhund-villa/ev-07-the-gralhund-confrontation-night.md:59`, `:65` and `:67` (the night version of the same beats; `:67` is the same speech as ev-06:57)
+- `campaign/quests/act-ii/gralhund-villa/ev-08-the-rooftop-chase.md:21`: "**Bregan D'aerthe.** Fel'rekt's team exits via the rooftops. They move fast and know where they are going: a BD outpost in the Trades Ward (Fenerus Stormcastle)."
+- `campaign/quests/act-ii/gralhund-villa/ev-09-aftermath.md:44`: "By the morning of Ches 25th, the City Watch has sealed Gralhund Villa and begun processing twenty-three bodies. Lord Gralhund is in shock. Hrabbaz is dead if he held G16 against Fel'rekt, and alive if he stood down. No Stone, no nimblewright, no Floxin."
+- `campaign/quests/act-ii/gralhund-villa/ev-09-aftermath.md:118`: "**Bregan D'aerthe — BD Operative in Party (conditional — **Jarlaxle Informed**).** No back-room invitation. Fel'rekt's debrief arrives through the operative's established channel — a direct, brief message, not an open offer to the group."
+- `campaign/structure/arc-d-gralhund-villa.md:248`-`:253` (the raid timeline, beats 2 to 7) and `:255` ("**BD-Affiliated PCs:** If any party member belongs to Bregan D'aerthe, Jarlaxle's gunslingers extend their covering fire..." — the `:255` text differs from ev-04:83 in wording; both are quest time)
+- `campaign/locations/gralhund-villa/g17-balcony.md:9`: "**BD assault route:** During the BD assault sequence (*Jarlaxle Informed*), Fel'rekt Lafeen and four drow use this balcony as their entry point — dropping from the rooftops and coming through the glass doors into G16. If the party is on the balcony when this happens, Fel'rekt acknowledges them with a glance and continues without breaking stride."
+- `sources/Act_III_Arc_E.md:14` (the HTML bullet: "<li><strong>Bregan D'Aerthe:</strong> Fel'Rekt Lafeen and a team of drow in the neighboring Artheyn Manor. They will act when the moment is right.</li>"); also `:701` ("A DC 13 Wisdom (Perception) check spots Fel'Rekt Lafeen's team on the Artheyn roofline.") and `:729` ("Fel'Rekt Lafeen's team will make their move regardless of whether the characters are present. The only question is when.")
 
 Sea Maidens Faire (the ship and the stateroom):
-- `campaign/structure/arc-h-sea-maidens-faire.md:172` (U5) and `:275` ("**Jarlaxle Hostile** (combat, casualties among BD lieutenants): If the party killed Soluun, Fel'rekt, or Krebbyg...")
-- `sources/adventure-wdh.json:14782` ("Replace no-name drow gunslingers with {@creature Fel'rekt Lafeen|WDH}, {@creature Krebbyg Masq'il'yr|WDH}, and {@creature Soluun Xibrindas|wdh} if they are alive and free.")
+- `campaign/structure/arc-h-sea-maidens-faire.md:275`: "- **Jarlaxle Hostile** (combat, casualties among BD lieutenants): If the party killed Soluun, Fel'rekt, or Krebbyg, Jarlaxle's response escalates from professional to personal. He reaches for leverage before force, but he reaches harder. BD response teams become more aggressive in future encounters."
+- `sources/adventure-wdh.json:14782`: "If {@creature Jarlaxle Baenre|WDH} (see {@adventure appendix B|WDH|12}) is the villain, he arrives with three {@creature drow gunslinger|WDH|drow gunslingers} (see {@adventure appendix B|WDH|12}). Replace no-name drow gunslingers with {@creature Fel'rekt Lafeen|WDH}, {@creature Krebbyg Masq'il'yr|WDH}, and {@creature Soluun Xibrindas|wdh} if they are alive and free."
+- `sources/adventure-wdh.json:25120` (the armory safe; the three lieutenants know the combination)
 
 Faction events (the day-one page must not restate these):
-- `campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:26` ("The watchers are Jarlaxle's three lieutenants. Fel'rekt Lafeen and Krebbyg Masq'il'yr shadow the party from dusk until dawn...") and `:403` ("A young man named Fel'rekt Lafeen will keep a stall on the pier once the carnival ships tie up on the morning of the twenty-first...")
+- `campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:26`: "The watchers are Jarlaxle's three lieutenants. Fel'rekt Lafeen and Krebbyg Masq'il'yr shadow the party from dusk until dawn, and Soluun Xibrindas takes the day from shade and doorways." (the passage continues: "After dark Soluun also hunts elf and half-elf sailors in the Dock Ward on his own account, the subject of the Doom Raiders mission **The Dockside Killer**." and two more sentences)
+- `campaign/quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md:403`: "A young man named Fel'rekt Lafeen will keep a stall on the pier once the carnival ships tie up on the morning of the twenty-first, and he'll see you properly equipped." (the passage continues: the box office and the mate)
 - `campaign/quests/faction-events/bregan-daerthe/s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:134` and `:136` (see A4 and D1)
-- `campaign/quests/faction-events/bregan-daerthe/m06-the-dive/ev-01-the-dive.md:5` (Fel'rekt's watchers see the Guild dive team), `:56` and `:63`
-- `campaign/quests/faction-events/bregan-daerthe/s04-contact-severed/ev-01-contact-severed.md:75` and `:83` ("Hi, I'm Fel'rekt. You've probably seen me around Trollskull Alley without knowing who I was.")
-- `campaign/quests/faction-events/bregan-daerthe/s05-the-killers-fate/ev-01-the-killers-fate.md:503` ("Fel'rekt rows the members back to the south quay and leaves them on the steps.")
-- `campaign/quests/faction-events/bregan-daerthe/m03-three-nights/overview.md:23` ("Fel'rekt Lafeen watches from the roof of the Bent Nail each night and counts what comes through the doors. He does not interfere.")
-- `campaign/quests/faction-events/bregan-daerthe/m04-the-compromised-eye/ev-02-twelve-minutes.md:186` ("Fel'rekt waits in the street above with a covered cart. He helps Nar'l under a tarpaulin...")
-- `campaign/quests/faction-events/bregan-daerthe/r50-houseless-noble/ev-01-houseless-noble.md:55` ("Fel'rekt waits inside, and a closed cart takes the member and him down to the Dock Ward waterfront...")
-- `campaign/quests/faction-events/bregan-daerthe/s01-coin-pouches/ev-01-coin-pouches.md:63` ("Fel'rekt, who was watching the member for Bregan D'aerthe, saw him.")
+- `campaign/quests/faction-events/bregan-daerthe/m06-the-dive/ev-01-the-dive.md:5`: "This Combat and Exploration Event occurs after **Kolat Towers**, in the last hour of darkness. Fel'rekt Lafeen's watchers see a Xanathar's Guild dive team slip into the water beneath the old Faire pier at Smugglers' Dock." (the passage continues with the Event's end state); `:56` and `:63`
+- `campaign/quests/faction-events/bregan-daerthe/s04-contact-severed/ev-01-contact-severed.md:83`: "Hi, I'm Fel'rekt. You've probably seen me around Trollskull Alley without knowing who I was. I'm not allowed to sell you anything, or really to talk to you, because the captain says so, and I don't argue with the captain. Nobody's going to hurt you, I promise. We just don't deal with you any more."
+- `campaign/quests/faction-events/bregan-daerthe/s05-the-killers-fate/ev-01-the-killers-fate.md:503`: "Fel'rekt rows the members back to the south quay and leaves them on the steps."
+- `campaign/quests/faction-events/bregan-daerthe/m03-three-nights/overview.md:23`: "Fel'rekt Lafeen watches from the roof of the Bent Nail each night and counts what comes through the doors. He does not interfere." (the passage opens with Jarlaxle learning of the guest)
+- `campaign/quests/faction-events/bregan-daerthe/m04-the-compromised-eye/ev-02-twelve-minutes.md:186`: "Fel'rekt waits in the street above with a covered cart. He helps Nar'l under a tarpaulin, shakes everyone's hand in turn and drives the cart to the Faire's pier in the Dock Ward. He puts Nar'l aboard the *Heartbreaker*, and Nar'l says only that he is grateful."
+- `campaign/quests/faction-events/bregan-daerthe/r50-houseless-noble/ev-01-houseless-noble.md:55`: "Two Scouts in stagehands' aprons open the dressing room door. Fel'rekt waits inside, and a closed cart takes the member and him down to the Dock Ward waterfront, where a skiff lies at the south quay steps."
+- `campaign/quests/faction-events/bregan-daerthe/s01-coin-pouches/ev-01-coin-pouches.md:63`: "On the day of the Twin Parades, Dunstan followed the Beat 1 recipient into the Dock Ward and came within a street of the crate at Net and Dock before he lost them. Fel'rekt, who was watching the member for Bregan D'aerthe, saw him."
 
 Trollskull guide and appendix (the tavern visitor; not day-one):
 - `sources/Appendix_D_-_Running_the_Tavern.md:1610` (see D11)
-- `campaign/guides/trollskull-manor/09-response-teams-at-the-tavern.md:83`
+- `campaign/guides/trollskull-manor/09-response-teams-at-the-tavern.md:83` (heading "## Bregan D'aerthe — Fel'rekt Lafeen (or Another Lieutenant)")
 
 Factions Guide:
 - `campaign/guides/factions/08-bregan-daerthe.md:90` (see A6)
-- `campaign/guides/factions/08-bregan-daerthe.md:122` ("| Lockdown | Fel'rekt, Krebbyg, and Soluun deployed together. Jarlaxle intervenes personally, always with an offer rather than a fight. |")
+- `campaign/guides/factions/08-bregan-daerthe.md:122`: "| Lockdown | Fel'rekt, Krebbyg, and Soluun deployed together. Jarlaxle intervenes personally, always with an offer rather than a fight. |"
 
 Lore:
-- `campaign/setting/lore/stone-of-golorr-and-the-eyes.md:53` ("- **At Gralhund Villa:** The party takes the Stone from Yalah, or, if she surrenders it to Fel'rekt Lafeen, from the carrier in the rooftop chase. Holding it when the aftermath opens earns 1 Milestone Point and brings the party to Level 4.")
+- `campaign/setting/lore/stone-of-golorr-and-the-eyes.md:53`: "- **At Gralhund Villa:** The party takes the Stone from Yalah, or, if she surrenders it to Fel'rekt Lafeen, from the carrier in the rooftop chase. Holding it when the aftermath opens earns 1 Milestone Point and brings the party to Level 4."
 
 Wiki (quest time, not day-one):
-- wiki line 72: "In [[1492 DR]],{{WDH-time}} if Jarlaxle managed to obtain the ''[[Stone of Golorr]]'', then Fel'rekt and Krebbyg confronted some adventurers first in [[Mistshore]], where they had the support of the [[Lantanese]] mechanical [[dragon turtle]] [[Big Belchy]]..."
+- wiki line 72: "In [[1492 DR]],{{WDH-time}} if Jarlaxle managed to obtain the ''[[Stone of Golorr]]'', then Fel'rekt and Krebbyg confronted some adventurers first in [[Mistshore]], where they had the support of the [[Lantanese]] mechanical [[dragon turtle]] [[Big Belchy]],<ref name=\"WDH5e-p67\">{{Cite book/Waterdeep: Dragon Heist|67}}</ref> and again in the [[Dock Ward]].<ref name=\"WDH5e-p72\">{{Cite book/Waterdeep: Dragon Heist|72}}</ref>"
 
 Adventure (quest time, not day-one):
-- `sources/adventure-wdh.json:8513`: "{@creature Fel'rekt Lafeen|WDH} and {@creature Krebbyg Masq'il'yr|WDH} start out 40 feet ahead of their pursuers." (the chase; the Stone is carried by Fel'rekt at the chase's start)
+- `sources/adventure-wdh.json:8513`: "{@creature Fel'rekt Lafeen|WDH} and {@creature Krebbyg Masq'il'yr|WDH} start out 40 feet ahead of their pursuers. They do nothing but move on their turns, trying to put as much distance between themselves and the characters as possible. Fel'rekt has the {@item Stone of Golorr|WDH} at the start of the chase, but one drow gunslinger can pass the stone to the other as a reaction as long as the two drow are within 10 feet of each other."
 - `sources/adventure-wdh.json:7568`: "At the end of their pursuit, the characters corner {@creature Fel'rekt Lafeen|WDH} and {@creature Krebbyg Masq'il'yr|WDH} in Mistshore."
 
 ---
@@ -418,7 +422,7 @@ For each gap: what the sources say, and what the drafter must stay consistent wi
 
 **F5. Training with firearms.** Sourced only as "expert pistoleers, as skilled with their guns as the best archers are with their bows" (`sources/adventure-wdh.json:31995`) and "Lantanese pistols, bullets, and packets of smokepowder" (same line). The company's lieutenants are armed with Lantanese firearms that run on smokepowder (`campaign/setting/history/03-bregan-daerthes-long-road.md:69`). Where he learned to shoot is not sourced.
 
-**F6. Relationship with his employer before he joined.** None. The sourced fact is "Jarlaxle took a shine to Fel'rekt almost immediately" (`sources/adventure-wdh.json:32002`) and "Jarlaxle was impressed with Fel'rekt" (wiki line 70).
+**F6. Relationship with his employer before he joined.** None. The sourced facts are "Jarlaxle took a shine to Fel'rekt almost immediately" (`sources/adventure-wdh.json:32002`) and "Almost immediately, Jarlaxle was impressed with Fel'rekt, who volunteered for all the most dangerous missions." (wiki line 70).
 
 **F7. Losses, grudges, anyone he left behind.** None in any source.
 
@@ -441,7 +445,7 @@ For each gap: what the sources say, and what the drafter must stay consistent wi
 - "who volunteered for all the most dangerous missions." — wiki line 70
 - "Fel'rekt's footlocker contains 65 gp in a pouch, a comb carved from dragon bone (worth 5 gp), and a pair of obsidian dice (worth 25 gp)." — `sources/adventure-wdh.json:26440` (the footlocker in U5)
 - "He values Krebbyg's safety above his own." — `campaign/structure/arc-h-sea-maidens-faire.md:172`
-- "Fel'rekt argued that a contact who must wear a mask while taking messages will eventually slip" — `campaign/quests/faction-events/bregan-daerthe/s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:17` (quest time; shows a trait: caution about cover)
+- "Fel'rekt argued that a contact who must wear a mask while taking messages will eventually slip, so members who have delivered two jobs have earned the face." — `campaign/quests/faction-events/bregan-daerthe/s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:17` (quest time; shows a trait: caution about cover)
 - "He is warm toward the members and firm about discretion, because he knows what happens to drow the Watch catches." — `campaign/quests/faction-events/bregan-daerthe/s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md:136` (quest time; the trait is sourced)
 - "Deep down, he lacks the cruelty common to most drow and will not kill an adversary unless left with no other choice." — `campaign/setting/notable-figures/bregan-daerthe/03-felrekt-lafeen.md:21`
 - "Fel'rekt wants to prove himself worthy of Jarlaxle's confidence, protect Krebbyg (his closest friend), and demonstrate that leaving drow society made him stronger rather than weaker." — `campaign/setting/notable-figures/bregan-daerthe/03-felrekt-lafeen.md:15`
@@ -455,9 +459,9 @@ For each gap: what the sources say, and what the drafter must stay consistent wi
 - Birth year, birth name, home district, house, parents, family, age, date of joining, date of the sex change. Searched: `campaign/` (Grep for "Fel.?rekt" and "Lafeen"), `sources/adventure-wdh.json` (Grep for "Fel'rekt" and "Lafeen"), `sources/*.md` (Grep), `sources/research/` (Grep). No match gives any of these.
 - Former life and faith beyond the Lolth rule: the same search. Only `campaign/setting/history/03-bregan-daerthes-long-road.md:34` and `ev-01-kreb-drops-the-cover.md:136`.
 - Alexandrian PDFs for Fel'rekt. Read: `sources/5. Faction Outposts.pdf` (pp.1-2), `sources/17. Outpost and Lair Revelation Lists.pdf` (p.2), `sources/9. Lair – Sea Maidens Faire.pdf` (pp.1-3), `sources/1. The Villains.pdf` (p.5). Not read: `sources/4. Gralhund Villa.pdf`, `sources/3. Player Character Factions.pdf`, `sources/26. Addendum Other Collaborators.pdf`. Those may hold more BD text and were not checked for his name.
-- Wiki: no line on his birth, parentage, home or age. The infobox fields `age`, `dob`, `parents` and `siblings` are blank (wiki lines 18, 23, 31, 33).
+- Wiki: no line on his birth, parentage, home or age. The infobox fields `age` (wiki line 18), `dob` (line 23), `parents` (line 31) and `siblings` (line 33) are blank.
 
 ## Not readable
 
 - `sources/Other remix files/` (`.docx`): not opened. `sources/SOURCE_GUIDE.md:690` lists `Jarlaxle Baenre NPC Guide.docx` as the Jarlaxle persona source. Its lines are cited in `campaign/setting/history/03-bregan-daerthes-long-road.md:140` (the "third son" note). Not checked for Fel'rekt.
-- The `campaign/quests/faction-events/bregan-daerthe/` event files were read through Grep (the full files are too large to read whole). Quotes are exact Grep output.
+- The `campaign/quests/faction-events/bregan-daerthe/` event files and the Gralhund journal were read through Grep (the full files are too large to read whole). Quotes are exact Grep output.

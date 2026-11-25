@@ -2,7 +2,7 @@
 
 Page: `campaign/setting/notable-figures/bregan-daerthe/07-malkolm-brizzenbright.md`
 Brief: `docs/plans/setting-compendium-pass6-brief.md`
-Group folder: `bregan-daerthe`. Faction organization page: `campaign/setting/organizations/07-bregan-daerthe.md`. Villains page: none; `campaign/setting/villains/jarlaxle.md` does not name Malkolm (Grep).
+Group folder: `bregan-daerthe`. Faction organization page: `campaign/setting/organizations/07-bregan-daerthe.md`. Villains page: none; `campaign/setting/villains/jarlaxle.md` names Malkolm only as left out (line 184).
 Ruling used: Ches 1, 1492 DR. Malkolm is the non-hostile ghost of the Seven Masks Theater in the Dock Ward. He is an unknowing asset of Bregan D'aerthe and a witness to the theater's drow, not a combatant.
 Voice profile: `.claude/skills/character-voices/voices/bregan-daerthe.md`, heading `### Malkolm Brizzenbright` (line 134).
 
@@ -17,9 +17,9 @@ Method and caveats:
 
 ## Findings that change how the page is written
 
-1. **The ghost haunts the Dock Ward, not the Trades Ward.** The published adventure places the Seven Masks in the Dock Ward: "Jarlaxle is waiting for them at the Seven Masks Theater in the Dock Ward." (`sources/adventure-wdh.json:9066`). It puts a different theater, "the Brizzenbright", in the Trades Ward (`sources/adventure-wdh.json:9115`). The campaign's own settlement is "The Seven Masks Theater is published in the Dock Ward (`:9066`, `:12034`); the Brizzenbright is a separate Trades Ward theater in Dragon Heist's winter version. The Alexandrian *Faction Outposts* (the Seven Masks Theater entry) transplants his ghost into the Seven Masks as its founder, so the merge is the remix's." (`campaign/gazetteer/waterdeep/dock-ward.md:306`, "Settled (Session 51)"). The Alexandrian PDF supports the move (`sources/5. Faction Outposts.pdf`, printed p.37).
+1. **The ghost haunts the Dock Ward, not the Trades Ward.** The published adventure places the Seven Masks in the Dock Ward: "Jarlaxle is waiting for them at the Seven Masks Theater in the Dock Ward." (`sources/adventure-wdh.json:9066`). It puts a different theater, "the Brizzenbright", in the Trades Ward (`sources/adventure-wdh.json:9115`). The campaign's own settlement reads: "The Seven Masks Theater is published in the Dock Ward (`:9066`, `:12034`); the Brizzenbright is a separate Trades Ward theater in Dragon Heist's winter version. The Alexandrian *Faction Outposts* (the Seven Masks Theater entry) transplants his ghost into the Seven Masks as its founder, so the merge is the remix's." (`campaign/gazetteer/waterdeep/dock-ward.md:306`, "Settled (Session 51)"). The Alexandrian PDF supports the move (`sources/5. Faction Outposts.pdf`, printed p.37).
 2. **Death and species have thin sourcing.** "Dead for over thirty years" is sourced only to the Alexandrian PDF (printed p.37). No source gives a death year, cause, birthplace or ethnicity. "Chondathan" (page line 5) has no source at all and needs `[research]`. The page's "human" is also unsourced.
-3. **Two voice-profile clauses are removed claims that the skill still carries.** The gazetteer's Session 51 note says: "The 'secret door to the Vault of Dragons', the 'Lantanese machinery' and the handwriting claim were invented in an earlier session and are removed." (`campaign/gazetteer/waterdeep/dock-ward.md:306`). The voice profile still has "the machinery in the basement, the secret door he didn't build" (`.claude/skills/character-voices/voices/bregan-daerthe.md:141`) and "There is a machine in my basement, Lantanese, hideous, and a door I never built" (`:147`). The "handwriting that isn't Tethyrian" clause (`:141`, `:147`) is the third removed claim, and it is quest-time (see C). Drop these clauses from the profile and report the change (ruling 16). The page does not carry them.
+3. **Two voice-profile clauses are removed claims that the skill still carries.** The gazetteer's Session 51 note reads: "The "secret door to the Vault of Dragons", the "Lantanese machinery" and the handwriting claim were invented in an earlier session and are removed." (`campaign/gazetteer/waterdeep/dock-ward.md:306`). The voice profile still has "the machinery in the basement, the secret door he didn't build" (`.claude/skills/character-voices/voices/bregan-daerthe.md:141`) and "There is a machine in my basement, Lantanese, hideous, and a door I never built" (`:147`). The "handwriting that isn't Tethyrian" clause (`:141`, `:147`) is the third removed claim. Drop these clauses from the profile and report the change (ruling 16). The page does not carry them.
 4. **Spelling is mixed across sources.** The campaign page, the voice heading and the adventure use "Malkolm". The Alexandrian PDF (printed p.37) and `campaign/structure/arc-e-faction-outposts.md:446` use "Malcolm". Use "Malkolm" (the campaign and the adventure agree).
 
 ---
@@ -211,7 +211,7 @@ The Malkolm profile has no "after discovery" register. Its lines, with status:
 
 > "  - *Greeting:* \"You there! Project! I can't hear you from the gallery, and I've no body, so that's saying something.\"" — line 146 (encounter greeting; no quest-time clause)
 
-> "  - *Business:* \"There is a machine in my basement, Lantanese, hideous, and a door I never built, and a man whose handwriting is no more Tethyrian than I am alive.\"" — line 147. **Removed claims, still in the profile**, as line 141. "a man whose handwriting" is also quest-time (the handwritten letters are Seven Masks and recommendation items, see E5).
+> "  - *Business:* \"There is a machine in my basement, Lantanese, hideous, and a door I never built, and a man whose handwriting is no more Tethyrian than I am alive.\"" — line 147. **Removed claims, still in the profile**, as line 141. The Business line is the only one in the profile that presupposes an item; no current Seven Masks source supports a handwriting item at the theater (`dock-ward.md:306` removes the handwriting claim).
 
 > "  - *Under pressure:* \"Not my stage! Not my blasted stage!\"" — line 148 (day-one)
 
@@ -243,7 +243,8 @@ The Malkolm profile has no "after discovery" register. Its lines, with status:
 - Ranking: the campaign's Autumn rule governs. The page's play title has only the Alexandrian source and sits outside the Autumn bill. The drafter should decide the title or drop it, and report the choice.
 
 **D4. Spelling of the name**
-- "Malkolm": `sources/adventure-wdh.json:9115`, `:9122`, `:9123`; the campaign page; the voice heading (`bregan-daerthe.md:134`); `campaign/gazetteer/waterdeep/dock-ward.md:306` ("Dragon Heist spells the name 'Malkolm'").
+- "Malkolm": `sources/adventure-wdh.json:9115`, `:9122`, `:9123`; the campaign page; the voice heading (`bregan-daerthe.md:134`).
+- The gazetteer settles the spelling: "Dragon Heist spells the name \"Malkolm\" (`adventure-wdh.json:9115`) and the pages do too." (`campaign/gazetteer/waterdeep/dock-ward.md:306`).
 - "Malcolm": Alexandrian PDF printed p.37 (transcription); `campaign/structure/arc-e-faction-outposts.md:446` ("Profiles for Malcolm Brizzenbright").
 - Ranking: "Malkolm". Use "Malkolm".
 
@@ -252,7 +253,7 @@ The Malkolm profile has no "after discovery" register. Its lines, with status:
 
 **D6. Voice profile against the gazetteer's removed claims**
 - Voice profile: "the machinery in the basement, the secret door he didn't build, the handwriting that isn't Tethyrian" (`.claude/skills/character-voices/voices/bregan-daerthe.md:141`)
-- Gazetteer: "The \"secret door to the Vault of Dragons\", the \"Lantanese machinery\" and the handwriting claim were invented in an earlier session and are removed." (`campaign/gazetteer/waterdeep/dock-ward.md:306`)
+- Gazetteer: "The "secret door to the Vault of Dragons", the "Lantanese machinery" and the handwriting claim were invented in an earlier session and are removed." (`campaign/gazetteer/waterdeep/dock-ward.md:306`)
 - Ranking: the gazetteer's Session 51 settlement governs. The voice profile is stale on this point. Quoted in full at Finding 3.
 
 ---
@@ -275,7 +276,7 @@ This is Krebbyg's speech in a quest-time event. "since breakfast" and "knows exa
 
 **E5. Routed quest references (the page's Featured-in quests, and Malkolm's quest-time facts)**
 - `campaign/structure/arc-e-faction-outposts.md:321` to `:340` (7B, Seven Masks Theater mini-heist; no quest journal exists). The Malkolm paragraph at line 335 includes the testimony: "A party that treats him with respect earns his testimony: \"Rongquan\" is a false identity, drow use the dressing room at irregular hours, and he overheard a conversation about \"the Faire\" and \"cargo that must not be examined.\""
-- `campaign/structure/arc-e-faction-outposts.md:333`: "Stage Manager's Office (P6): *A Letter from K to J* — Krebbyg writing to Jarlaxle — warning that Fenerus's address has become known to a third party and recommending a new message drop." (the letter behind the voice's "handwriting" line, quest-time)
+- `campaign/structure/arc-e-faction-outposts.md:333`: "Stage Manager's Office (P6): *A Letter from K to J* — Krebbyg writing to Jarlaxle — warning that Fenerus's address has become known to a third party and recommending a new message drop." (a quest-time letter the party can find in the outpost; no source links it to Malkolm)
 - `campaign/structure/arc-e-faction-outposts.md:293` and `:295`: "Malkolm Brizzenbright's ghost is the emotional counterweight to both: a man who wanted none of this and got all of it." and "Malkolm Brizzenbright is the emotional surprise — a ghost who wants his theater run honestly."
 - `campaign/structure/arc-e-faction-outposts.md:451`: "Fenerus's decoded messages and Malkolm Brizzenbright's testimony are Three Clue Rule paths to the Faire as a heist target."
 - `campaign/structure/arc-h-sea-maidens-faire.md:335`: "Malkolm Brizzenbright's ghost testimony about \"Rongquan Mystere.\""
