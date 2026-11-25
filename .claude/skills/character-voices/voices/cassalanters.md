@@ -246,6 +246,6 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Signature phrases:** "Break the bargain." / "My house has fallen far." / "I do not ask for vengeance."
 - **Never:** He never asks for revenge, never lies, and never leaves A4a.
 - **Sample lines:**
-  - *Greeting:* "You carry her symbol. Then I may speak. Hear me, for I have waited three years for someone to."
-  - *Business:* "Destroy the effigy below. Break the bargain. I do not ask for vengeance on Victoro and — on Ammalia. Only that it ends."
+  - *Greeting:* "You carry her symbol. Then I may speak. Hear me, for I have waited long for someone to."
+  - *Business:* "Destroy the effigy below. Break the bargain. I do not ask for vengeance on Victoro and, on Ammalia. Only that it ends."
   - *Under pressure:* "Go, now. This house devours what it touches."
