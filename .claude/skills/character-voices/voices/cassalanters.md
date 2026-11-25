@@ -152,17 +152,18 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 *A precise, exacting tiefling head chef who runs his kitchen like a war and plans the Founders' Day menu like a campaign.*
 
 - **Sound:** A sharp, clipped, commanding voice pitched to carry over a kitchen.
-- **Sentence shape:** Terse kitchen commands and precise culinary judgements. Among the cult: calm, cold certainty.
-- **Word choice:** Kitchen military: "service", "stations", "mise en place", "the menu". He calls anyone who wanders into his kitchen "pests".
+- **Sentence shape:** Terse kitchen commands and precise culinary judgements. After discovery: calm, cold certainty.
+- **Word choice:** Kitchen military: "service", "stations", "mise en place", "the menu". He calls intruders "pests".
 - **Swearing:** *Punctuation · Colourful · Tirade.* Kitchen-grade filth at his staff ("Who plated this? A blind fucking goat?"). Never in front of guests. Tirade: "Who plated this? You under-seasoned, over-reduced, lumpy-sauced, cold-plated, knife-dropping, onion-weeping, pan-scorching cunt of a commis, get out of my kitchen and take your shame with you!"
 - **Personality in speech:** Professional pride and contempt. Anyone who asks about the menu without understanding it gets a withering answer. Publicly, the Founders' Day feast is simply his masterpiece.
-- **Quirks:** He tastes everything before answering. He keeps a command word that raises the kitchen's knives.
+- **Quirks:** He tastes everything before answering. One word from him and every knife rises.
 - **Signature phrases:** "Service!" / "The menu is not your concern." / "Pests."
 - **Never:** He never serves a flawed dish, never discusses the feast's purpose, and never lets anyone in the kitchen uninvited.
 - **Sample lines:**
   - *Greeting:* "Out of my kitchen. Guests eat in the hall."
   - *Business:* "The Founders' Day menu is the finest work of my life. It is not your concern."
-  - *Under pressure:* "Pests." (when he judges someone a threat, the knives rise at his word)
+  - *Under pressure:* "Pests." (every knife rises)
+
 ---
 
 ### Seffia Naelryke
@@ -225,14 +226,13 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Word choice:** Service basics: orders, tables, "anything else?".
 - **Swearing:** *Stingy · Plain · Clipped.* Never at work.
 - **Personality in speech:** Professional neutrality. Her watchfulness shows only in how well she remembers. Mild contempt for the work is well hidden.
-- **Quirks:** She gets every order right the first time. She goes still if Sister Valdra walks in.
+- **Quirks:** She gets every order right the first time. She goes still if someone who has seen her at a Cassalanter function walks in.
 - **Signature phrases:** "Anything else?" / "Same as last time?"
-- **Never:** She never draws attention, never slips, and never acknowledges Valdra.
+- **Never:** She never draws attention, never slips, and never acknowledges anyone who recognizes her.
 - **Sample lines:**
   - *Greeting:* "Same as last time? Cider and the pie?"
   - *Business:* "The gentleman in blue comes Thursdays. Sits with the half-elf. Anything else?"
   - *Under pressure:* "Excuse me, I'm needed in the kitchen."
-
 ---
 
 ### Caladorn Cassalanter
