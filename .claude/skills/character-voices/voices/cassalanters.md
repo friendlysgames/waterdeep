@@ -88,14 +88,13 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Word choice:** Child's adventure vocabulary: dragons, missing dragons, "my brother's at school", "Nana". He calls his sister "Elzi".
 - **Swearing:** *Never · Plain · n/a.* He'd be thrilled and horrified to hear anyone else do it.
 - **Personality in speech:** Curious and trusting. He happily repeats what he's heard about "missing dragons" and the howling. His bravery shows as wanting to see the attic.
-- **Quirks:** He roars at people as a greeting. He asks whether the party has seen a dragon.
+- **Quirks:** He roars at people as a greeting. He asks visitors whether they have seen a dragon.
 - **Signature phrases:** "RAWR!" / "Have you ever seen a dragon?" / "I think there's a dragon in the attic."
 - **Never:** He never suspects his parents, never lies, and never stays where he's told.
 - **Sample lines:**
   - *Greeting:* "RAWR! I'm a dragon! Have you ever seen a real one?"
   - *Business:* "Father's looking for missing dragons. And there's howling in the attic, sometimes. I think it's a dragon too."
-  - *Under pressure:* "Elzi! Elzi, run! I'll be the dragon!"
-
+  - *Under pressure:* "Nana! Nana, come quick, there's a noise and it isn't a game noise!"
 ---
 
 ### Elzerina Cassalanter
