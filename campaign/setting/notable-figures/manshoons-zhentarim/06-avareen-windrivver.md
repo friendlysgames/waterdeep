@@ -35,7 +35,7 @@ She does not raise her voice, and she does not hurt a prisoner more than the ans
 - **Urstul Floxin:** The chief field operative, who reviews the field reports that she and **Agorn Fuoco** file. No source records a rivalry or a friendship between them `[research]`.
 - **Manshoon:** The master whose directives reach the house by flying snake. She obeys him exactly and shows no loyalty beyond the work.
 - **Amath Sercent:** The Banite priestess at Yellowspire. Avareen despises the rite she uses, and she writes to her all the same, with the Interrogation House as her return address.
-- **Agorn Fuoco:** The other lieutenant who files field reports. He trades his pass-amulet to save himself, and Avareen would destroy hers first.
+- **Agorn Fuoco:** The other field operative who files reports. He trades his pass-amulet to save himself, and Avareen would destroy hers first.
 - **Zhentarim response teams:** Teams sent against enemies of the cell carry orders to bring prisoners to the house, and Avareen questions what they bring (**Manshoon's Zhentarim**, Factions Guide).
 - **Her mother and the partner:** The woman who kept the ledgers and died in a debt contract, and the man who took the coin. Avareen speaks of neither `[design]`.
 
