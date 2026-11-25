@@ -15,7 +15,7 @@
 
 Zorbog Jyarkoth is a large Turami human man, much older than Avareen Windrivver, dark-skinned and bald, with a half-missing ear and a short white beard (*Dragon Heist*, 5e). He lives with Avareen in the front room of the Interrogation House, a windowless house on Brindul Alley in the North Ward that serves the cell as a safe house and a field office (**Manshoon's Zhentarim**, Organizations). A rack and an arcane circle fill the back room, three black flying snakes nest near the ceiling, and the room holds no captive on Ches 1, 1492 DR (**Manshoon's Zhentarim**, Factions Guide). The two keep strange hours, and their neighbors have seen them come home at night with blood on their leather armor (*Dragon Heist*, 5e). Avareen holds the house's pass-amulet to Kolat Towers, and no source gives Zorbog one `[research]` (**Manshoon's Zhentarim**, Factions Guide).
 
-Zorbog was born to a Turami family on the southern shore of the Sea of Fallen Stars, where his father cut salt from the evaporation pans and sold it to the coasting boats `[design]`. He carried sacks from the age of nine, and at fourteen he was big enough to be hired as a guard on the salt caravans that went inland `[design]`. He cannot read or write, and he has never kept a stranger's name for longer than a day `[design]`.
+Zorbog was born to a Turami family on the southern shore of the Sea of Fallen Stars, where his father cut salt from the evaporation pans and sold it to the coasting boats `[design]`. He carried sacks from the age of nine, and at fourteen he was big enough to be hired as a guard on the salt caravans that went inland `[design]`. He cannot read, and he has never kept a stranger's name for longer than a day `[design]`.
 
 In his twenties a caravan master told him to watch a wagon `[design]`. A band of thieves came, and Zorbog chased them half a mile down the road, and he came back to find that a second band had driven the wagon away `[design]`. The master docked him a year's wage and beat him in front of the other guards, and told him that he should have stayed with the wagon as he was told `[design]`. Zorbog took that as the whole lesson, and since then he has done what he was told, once and in the order given `[design]`. His wife died of a fever when their daughter was small, and the girl grew up with her aunt on the shore while he worked the caravan roads `[design]`. He saw his daughter last at her wedding, and she thinks of him as a guard who is away `[design]`.
 
@@ -37,11 +37,11 @@ He waits for Avareen's instruction before he answers anything and does what she 
 - **Manshoon:** The master whose orders reach the house by flying snake. Zorbog knows them only as Avareen gives them to him `[design]`.
 - **Urstul Floxin:** The chief field operative, who reviews the house's field reports. No source records any dealing between him and Zorbog `[research]`.
 - **Zhentarim response teams:** Teams sent against enemies of the cell carry orders to bring prisoners to the house, and Zorbog holds what they bring (**Manshoon's Zhentarim**, Factions Guide).
-- **His daughter:** A married woman on the Turmish shore who believes her father is a guard who is away. Zorbog has not written to her, because he cannot write `[design]`.
+- **His daughter:** A married woman on the Turmish shore who believes her father is a guard who is away. Zorbog has not written to her, because he can write only his own name `[design]`.
 
 ## Overview
 
-Zorbog Jyarkoth is a large, bald man with a short white beard and a half-missing ear who lives in a windowless house on Brindul Alley. He shares the house with a pale, quiet woman named Avareen Windrivver, and the two keep odd hours. He answers a knock by asking the visitor's name. It is said that people who visit the house do not stay long.
+Zorbog Jyarkoth is a large, bald man with a short white beard and a half-missing ear who lives on Brindul Alley. He shares a windowless house with a pale, quiet woman named Avareen Windrivver, and the two keep odd hours. He answers a knock by asking the visitor's name. It is said that people who visit the house do not stay long.
 
 ## Roleplaying Information
 
@@ -124,7 +124,7 @@ Zorbog Jyarkoth is a large, bald man with a short white beard and a half-missing
 > - **Changed sentences:** None. Resonance, Emotions, Motivations, Inspirations, Persona, Morale and Relationships are unchanged, and the page had no quest-time sentence of its own. The Summary gains a Faction pages bullet.
 > - **Voice:** Copied from `.claude/skills/character-voices/voices/manshoons-zhentarim.md` (Zorbog Jyarkoth) with no change. The profile has no quest-time clause and no hedge adverb that `voicecheck.py` would flag.
 > - **Design:** Each `[design]` sentence, so it can be reviewed or struck.
->   - Background, upbringing: the Turami family on the southern shore of the Sea of Fallen Stars, the father's salt pans, carrying sacks from age nine, guarding salt caravans at fourteen, and not reading or writing or keeping names.
+>   - Background, upbringing: the Turami family on the southern shore of the Sea of Fallen Stars, the father's salt pans, carrying sacks from age nine, guarding salt caravans at fourteen, not reading, keeping no stranger's name, and writing only his own.
 >   - Background, the formative event: the caravan master's order to watch a wagon, the chase, the second band that drove it off, the docked wage and the beating, and the lesson to do what he is told once and in order. This is the root of his literal manner and of "never questions Avareen".
 >   - Background, the loss: his wife's fever, the daughter raised by her aunt, the last sight of her at her wedding, and her belief that he is a guard who is away.
 >   - Background, the career: drifting to Waterdeep, the brokers' back room, holding prisoners in the chair, Avareen asking for him by name, going with her to the cell for better pay, the house, and holding prisoners while she asks the questions.
