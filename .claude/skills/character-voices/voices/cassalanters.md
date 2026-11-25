@@ -69,16 +69,15 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sound:** A metallic, grinding roar. Now and then a twelve-year-old boy's cracked voice breaks through, and then it's gone.
 - **Sentence shape:** The devil: snarls and fragments. The boy: broken pleading, half-sentences, names.
 - **Word choice:** The devil: hunger and chains. The boy: "Mother", "please", his siblings' names, and questions about what happened to him.
-- **Swearing:** *Punctuation · Colourful · Tirade.* The devil is a torrent of filth at anyone who enters ("Come closer, you soft little cunt, let me wrap you in iron!"). The boy never swears. Tirade (the devil): "Come closer, you soft, bleating, chain-dodging, gutless, fucking meat, come closer so I can wrap you in iron and listen to you break!"
+- **Swearing:** *Punctuation · Colourful · Tirade.* The devil is a torrent of filth at whoever stands outside the circle, his mother included ("Come closer, you soft little cunt, let me wrap you in iron!"). The boy never swears. Tirade (the devil): "Come closer, you soft, bleating, chain-dodging, gutless, fucking meat, come closer so I can wrap you in iron and listen to you break!"
 - **Personality in speech:** Rage against confinement, with fragments of grief. The boy is desperate for contact with the twins.
 - **Quirks:** Chains rattle in time with the words. The boy's voice only breaks through at the name "Osvaldo".
 - **Signature phrases:** Devil: "Closer." / Boy: "Mother, please." / "Are they safe?"
 - **Never:** The devil never shows mercy. The boy never wants to hurt anyone.
 - **Sample lines:**
-  - *Greeting:* A roar, and chains striking the door.
-  - *The boy:* "Is that — please. Are Terenzio and Elzi safe? Tell me they're not coming here."
-  - *Under pressure:* "Closer! Closer, and I'll show you what she made me!"
-
+  - *Greeting:* A roar when the attic door opens, and the chains rattling against the beams.
+  - *The boy:* "Mother? Please. Are Terenzio and Elzi safe? Tell me they're not coming here."
+  - *Under pressure:* "Closer! Closer, and I'll show you what you made me!"
 ---
 
 ### Terenzio Cassalanter
