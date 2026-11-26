@@ -13,7 +13,7 @@ The Harpers mostly sound like people pretending to be someone else: a moneylende
   - **Business:** short, complete, declarative sentences with no ornament ("Sit. The first act is short.").
 
   He never explains more than he has to.
-- **Word choice:** Earthy and a little vulgar in public: food, wine, bodies, old debts. In business he uses plain words and a moneylender's vocabulary of debts, terms and favours owed. He calls younger people "lad" or "lass" and calls old friends by their first names.
+- **Word choice:** Earthy and a little vulgar in public: food, wine, bodies, old debts. In business he uses plain words and a moneylender's vocabulary of debts, terms and favors owed. He calls younger people "lad" or "lass" and calls old friends by their first names.
 - **Swearing:** *Punctuation · Artisan · Tirade.* Filthy and cheerful in public: "fuck", "shit" and bawdy jokes about bodies are part of the Old Wolf act. In business he doesn't swear at all, and the sudden absence of it is how people know he's serious. His public bawdry is a performance he's proud of: "May your cock rot, your ale turn and your creditors find you before your wife does." Tirade: "You wine-pissing, purse-pinching, velvet-arsed, gout-footed, bribe-sucking, chin-wobbling, three-faced Sea Ward cockwaffle, sit down before I sit on you."
 - **Personality in speech:** His generosity is loud and his calculation is quiet, and he switches between them mid-conversation without warning. Asked about his past, he says something that sounds like a joke and isn't. When he's genuinely fond of someone, the praise is brief and blunt ("Good man."). When he's pressed, he gets shorter, not louder.
 - **Quirks:** He refills glasses without asking. He tilts his head slightly while he recalculates. He will talk architecture with real enthusiasm if anyone gives him the opening. That's the one subject where business-Mirt gets wordy.
@@ -30,7 +30,7 @@ The Harpers mostly sound like people pretending to be someone else: a moneylende
 
 - **Sound:** A clear, cultured elven voice, measured and never raised. When she's displeased she becomes quieter and more precise.
 - **Sentence shape:** Complete, well-formed sentences with the occasional subordinate clause. She asks a great many questions, framed as courtesies.
-- **Word choice:** Refined but never cold. She remembers and uses details about the listener's life (a sister's name, an old injury). She addresses the party by name as soon as she has heard it once, and calls her agents "my dears" only in private.
+- **Word choice:** Refined but never cold. She remembers and uses details about the listener's life (a sister's name, an old injury). She addresses visitors by name as soon as she has heard it once, and calls her agents "my dears" only in private.
 - **Swearing:** *Never · Plain · n/a.* Never. A single "damn" from Remi would stop a room.
 - **Personality in speech:** Warmth is her method. Every kindness is also an assessment. Grief for Arthagast never enters her speech in front of others; if it's mentioned, she thanks the speaker and changes the subject gracefully. Authority comes through in how she makes requests: she never commands, and nobody refuses.
 - **Quirks:** She pours the tea herself. She pauses before answering a question she has decided not to answer, then answers a different one. She touches the silver raven figurine when she's thinking of her network.
@@ -55,18 +55,18 @@ The Harpers mostly sound like people pretending to be someone else: a moneylende
 - **Never:** He never brags, never names his employers, and never says anything unkind about Bonnie.
 - **Sample lines:**
   - *Greeting:* "Evening, friend. You're new. Don't request anything with a key change; I've only got the three strings and they're tired."
-  - *Business:* "I've drunk with them two years. I know what they are. I'd like anyone judging them to hear the whole of it first."
+  - *Business:* "I've drunk with them a long while. I know what they are. I'd like anyone judging them to hear the whole of it first."
   - *Under pressure:* "Shit. Keep your voice down and keep smiling. Half this room is listening and the other half's pretending not to."
 ---
 
 ### Bonnie
-*A bright, quick barmaid with a dry sense of humour about being whatever shape the moment needs.*
+*A bright, quick barmaid with a dry sense of humor about being whatever shape the moment needs.*
 
 - **Sound:** A warm, easy tavern voice that laughs readily. In private, with the mask off, it goes flatter and drier.
 - **Sentence shape:** Quick, friendly, medium-length sentences as the barmaid, with lots of questions about the listener. In private she's economical and practical, and has no time for speeches.
 - **Word choice:** Tavern-warm in public: "love", "dear", your usual order. In private: plain, businesslike, with dark jokes about faces and names.
 - **Swearing:** *Casual · Plain · Phrase.* Casual in private, dry and deadpan ("Well, shit."). Never in front of patrons.
-- **Personality in speech:** She makes every patron feel interesting by feeding their own words back to them. She is protective of the gang, and any threat to them makes her cool and direct. Her humour about her own nature is how she tests people: if they laugh, they're safe.
+- **Personality in speech:** She makes every patron feel interesting by feeding their own words back to them. She is protective of the gang, and any threat to them makes her cool and direct. Her humor about her own nature is how she tests people: if they laugh, they're safe.
 - **Quirks:** She remembers orders and uses them as greetings. She sometimes answers a question the other person hasn't asked yet (Read Thoughts), then covers with a laugh. She never uses the same name for herself twice in private.
 - **Signature phrases:** "The usual, love?" / "Faces are just work clothes." / "We're here to work, not to cause trouble."
 - **Never:** She never threatens first, never begs, and never talks about what she is in the Portal's main room.
@@ -116,7 +116,7 @@ The Harpers mostly sound like people pretending to be someone else: a moneylende
 - **Sound:** A quick, bright voice, nearly identical to his twin's and always slightly overlapping hers. Corvin is a touch lower and slower. Nessa is louder.
 - **Sentence shape:** Short, rapid back-and-forth: one says something, and the other contradicts or corrects it. Alone, each speaks in normal, efficient sentences.
 - **Word choice:** Service slang and sibling insults: tables, orders, "your side", "my side". They refer to each other in the third person while standing side by side ("He's wrong." / "She's always saying that.").
-- **Swearing:** *Punctuation · Colourful · Rant.* Constant, affectionate sibling swearing ("piss off", "you absolute shit"), always at each other and never at customers.
+- **Swearing:** *Punctuation · Colorful · Rant.* Constant, affectionate sibling swearing ("piss off", "you absolute shit"), always at each other and never at customers.
 - **Personality in speech:** Their competition is affection. When one is praised, the other claims half of it. Corvin goes suddenly specific and quiet when he's passing a message.
 - **Quirks:** Constant correction ("Three ales." / "Two ales and a cider."). Corvin taps the tray twice when he has a note for someone.
 - **Signature phrases:** Corvin: "Your usual table's free." / Both: "Package deal."
@@ -133,7 +133,7 @@ The Harpers mostly sound like people pretending to be someone else: a moneylende
 - **Sound:** A quick, bright voice, nearly identical to her twin's and always slightly overlapping his. Corvin is a touch lower and slower. Nessa is louder.
 - **Sentence shape:** Short, rapid back-and-forth: one says something, and the other contradicts or corrects it. Alone, each speaks in normal, efficient sentences.
 - **Word choice:** Service slang and sibling insults: tables, orders, "your side", "my side". They refer to each other in the third person while standing side by side ("He's wrong." / "She's always saying that.").
-- **Swearing:** *Punctuation · Colourful · Rant.* Constant, affectionate sibling swearing ("piss off", "you absolute shit"), always at each other and never at customers.
+- **Swearing:** *Punctuation · Colorful · Rant.* Constant, affectionate sibling swearing ("piss off", "you absolute shit"), always at each other and never at customers.
 - **Personality in speech:** Their competition is affection. When one is praised, the other claims half of it. Nessa's incuriosity is loud and deliberate ("Not asking. Don't care.").
 - **Quirks:** Constant correction ("Three ales." / "Two ales and a cider.").
 - **Signature phrases:** Nessa: "Not asking." / Both: "Package deal."
