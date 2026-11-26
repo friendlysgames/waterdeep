@@ -60,6 +60,8 @@ Today a page is: H1, Gamemaster's Summary, Roleplaying Information, Character In
 
 ## Reports
 
+18. **The Background is about the person, not the faction (user, Session 53).** "You have written backgrounds in such a way where you're not always sure if you're talking about the character or the faction they are a part of." In every Background paragraph the figure is the grammatical subject, named or "he/she/they", and a reader must always know whether a sentence says something about the person or about the group. Faction, household, guild or company facts (its history, its structure, what it does) go on the organization page and appear in the Background only as one short sentence that says what the group means for this person. Do not write "the family keeps...", "the household...", "the company..." as a sentence subject in a Background; write what the person did, saw, wanted or was told, and let the group be the place where it happened. Sentences about the group that a reader needs stay in Connections or on the faction pages. Check each Background paragraph for sentences whose subject is the group and move or recast them. A group member's rank, duties and post are person facts and stay.
+
 **Researchers**, per page: the quote and line for every alignment, species, pronoun and affiliation; every sentence that narrates a quest event, with the file where it already lives; conflicts quoting both sides; stale lines in other files. No paraphrase-only entries.
 
 **Drafters**, per page: the file written; facts that could not be sourced; judgment calls; conflicts with both `file:line`; sentences removed and where each now lives; every other file found wrong (do not edit it). Do not commit. State that `voicecheck.py` was not run.
