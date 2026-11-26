@@ -125,7 +125,6 @@ The Harpers mostly sound like people pretending to be someone else: a moneylende
   - *Greeting:* Nessa: "Table for four?" Corvin: "Five, she can't count." Nessa: "Five. Piss off, Corvin."
   - *Business:* Corvin: "The gentleman by the window left this for you. Said you'd know what it's about."
   - *Under pressure:* Nessa: "Right, we're leaving." Corvin: "We are definitely leaving."
-
 ---
 
 ### Nessa Vayle
@@ -159,5 +158,5 @@ The Harpers mostly sound like people pretending to be someone else: a moneylende
 - **Never:** She never uses human names she wasn't told, never understands politics, and never lies. She has no idea why anyone would.
 - **Sample lines:**
   - *Greeting:* "Oh, one of you can talk properly. How lovely. Is that an apple?"
-  - *Business:* "Two of them came out the side door after dark, both in grey, one limping on the left. They talked about a boat. Then the limping one stepped in something. Served him right."
+  - *Business:* "Three carters stopped here this morning, and they argued over the price of rope. The short one smelled of lamp oil and nerves. The oats at that yard are dreadful, by the way."
   - *Under pressure:* "I'm going now. I'm going quite fast. I'll tell you all about him later."
