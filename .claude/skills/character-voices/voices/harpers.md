@@ -109,7 +109,6 @@ The Harpers mostly sound like people pretending to be someone else: a moneylende
   - *Greeting:* "Evening. Pull up a chair if you like. I'll be playing a while."
   - *Business:* "Listen to the third song tonight. The one about the ferryman. Listen to what he carries."
   - *Under pressure:* "Hm. Time I was on the road, I think."
-
 ---
 
 ### Corvin Vayle
