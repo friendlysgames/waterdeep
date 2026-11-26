@@ -24,15 +24,15 @@
 
 - **Sound:** A deep, rough, steady voice. It speeds up with suppressed urgency when she's finally allowed to talk about the case.
 - **Sentence shape:** Short, practical sentences in her bouncer role. When she presents evidence, organised, numbered and precise, like a prosecutor.
-- **Word choice:** Guard's plainness and investigator's precision: "evidence", "witness", "on record". Tyr is "the Just God". She calls the servant whose story no one believed by name.
+- **Word choice:** Guard's plainness and investigator's precision: "evidence", "witness", "on record". Tyr is "the Just God". She gives the servant whose story no one believed a name only to someone she trusts.
 - **Swearing:** *Casual · Plain · Phrase.* Casual in her bouncer role ("Out, and take your shit with you."). Controlled when presenting the case.
 - **Personality in speech:** Focused determination and months of controlled anger. Relief at finally being heard makes her talk too fast. Her voice holds suspicion only (see the note below): "something is wrong in that house", never a named devil.
 - **Quirks:** She lays out evidence in order, with "one, two, three". She checks who else is listening before she starts.
 - **Signature phrases:** "I have it on record." / "Nobody believed her." / "One. Two. Three."
 - **Never:** She never exaggerates the evidence, never involves Savra officially, and never names what the Cassalanters worship, because she doesn't know.
 - **Sample lines:**
-  - *Greeting:* "Bouncer work, three silver a night. You look like trouble. Good trouble or the other kind?"
-  - *Business:* "Three things. One, a servant's story the Watch threw out. Two, a ledger. Three, what I saw at the villa gate. Something is wrong in that house."
+  - *Greeting:* "Bouncer work, six gold a tenday. You look like trouble. Good trouble or the other kind?"
+  - *Business:* "Three things. One, a servant's story the Watch threw out. Two, my notes on the family's gifts. Three, what I saw at the villa gate. Something is wrong in that house."
   - *Under pressure:* "Get behind the bar. Nobody touches the witness."
 
-> Note: Sister Valdra's Notable Figures page says her evidence links the villa "to Asmodeus worship". That conflicts with the CLAUDE.md Cassalanter secrecy rule (suspicion only, never knowledge). Her voice follows the rule. Fix the page.
+> Note: Sister Valdra's voice holds suspicion only, per the Cassalanter secrecy rule. Her page makes no link to Asmodeus.
