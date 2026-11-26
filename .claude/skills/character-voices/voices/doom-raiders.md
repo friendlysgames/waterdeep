@@ -81,14 +81,13 @@ The Doom Raiders are retired adventurers turned Zhentarim cell, and they still t
 - **Word choice:** Military and aristocratic: "competent", "adequate", "weak", "orders". She has contempt words for the unskilled ("amateurs"). She calls the party by surname or not at all.
 - **Swearing:** *Triggered · Colourful · Phrase.* Sharp and cutting, aimed at incompetence: "fucking amateurs", "shit work". Short, like everything else she says.
 - **Personality in speech:** Unfettered superiority. She states her own excellence as a fact. Quick temper shows in how much shorter she gets. Grudging respect for anyone who beats her comes out as one clipped word ("Adequate.") that she means as high praise.
-- **Quirks:** Her flying-snake messages are two or three words long. She finishes other people's explanations for them when they're too slow. She never sits during a briefing.
+- **Quirks:** Her messages are two or three words long. She finishes other people's explanations for them when they're too slow. She never sits during a briefing.
 - **Signature phrases:** "Adequate." / "Don't make me repeat it." / "Again."
-- **Never:** She never pleads, never praises lavishly, and never admits she misses Davil.
+- **Never:** She never pleads, never praises lavishly, and never admits she needs Davil's judgment.
 - **Sample lines:**
-  - *Greeting:* "You're late. Davil's gone. You report to me now."
+  - *Greeting:* "You're late. Davil's busy. Report to me."
   - *Business:* "Warehouse, Dock Ward, tonight. Take the ledger, leave the guards breathing. Questions? No. Good."
   - *Under pressure:* "Hold the fucking door. Anyone who runs, I'll find later."
-
 ---
 
 ### Ziraj the Hunter
