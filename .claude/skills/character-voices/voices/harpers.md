@@ -73,9 +73,8 @@ The Harpers mostly sound like people pretending to be someone else: a moneylende
 - **Never:** She never threatens first, never begs, and never talks about what she is in the Portal's main room.
 - **Sample lines:**
   - *Greeting:* "Dark ale and the stew, wasn't it? Sit down before Durnan sees you standing about."
-  - *Business:* "Five of us, all working, rent paid. We'd like it to stay that way. What would it take?"
+  - *Business:* "Five of us, all working, rent paid. We'd like it to stay that way. So what do you want from us?"
   - *Under pressure:* "I know what you're thinking. Literally. So let's skip to the part where you tell me what you want."
-
 ---
 
 ### Corene Wyldath
