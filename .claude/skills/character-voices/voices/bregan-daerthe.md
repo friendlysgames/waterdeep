@@ -191,7 +191,6 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
   - *Greeting:* "You look like people with a story. Sit, I'll play something, and you can decide whether to tell it."
   - *Business:* "I'll pass it to him. But I'll tell him what I think of you too, so be honest."
   - *Under pressure:* "Put that down, darling. I've ended better fights than this with a lute."
-
 ---
 
 ### Khafeyta Murzan
