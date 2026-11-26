@@ -2,7 +2,7 @@
 
 Page: `campaign/setting/notable-figures/city-officials/03-saeth-cromley.md`
 Brief: `docs/plans/setting-compendium-pass6-brief.md` (rulings 1 to 18; user rulings Session 53)
-Ruling used: Ches 1, 1492 DR. Brief ruling 2 sizes a page by role; no source names Saeth as a head, villain or lieutenant, so the size class is left to the orchestrator. Ruling 2 says minor NPCs get "two or three sentences" of Personality and "one line" of Connections; ruling 15 says minor NPCs get "at least two" Background paragraphs.
+Ruling used: Ches 1, 1492 DR. Brief ruling 2 sizes a page by role; no source names Saeth as a head, villain or lieutenant, so the size class is left to the orchestrator. Ruling 2 gives minor NPCs "two or three sentences" of Personality and "one line" of Connections; ruling 15 gives them "at least two" Background paragraphs.
 Organization page: `campaign/setting/organizations/11-open-lords-watch.md` (The Open Lord's Watch)
 Factions Guide: `campaign/guides/factions/12-open-lords-watch.md` (The Open Lord's Watch; Saeth appears only as a cross-reference and in Draft Notes)
 Governance: `campaign/setting/governance-and-guilds/city-watch.md`, `code-legal-and-magisters.md`
@@ -101,7 +101,7 @@ No source gives his birth, parentage, hometown, faith, age or how he came to Wat
 > — wiki line 68
 
 > "Saeth, like his friend [[Barnibus Blastwind]] of the [[Watchful Order of Magists and Protectors]], wanted solid evidence and testimonies before ordering arrests. He preferred to not have unauthorized people inside the crime scene.<ref name="WDH5e-p44-45" />"
-> — wiki line 65 (the wiki cites WDH p.44-45, the fireball scene; see F and C.)
+> — wiki line 65 (the wiki cites WDH p.44-45, the fireball scene; see F and C)
 
 **Barnibus Notable Figures page, Relationships**
 > "**Relationships.** Barnibus is an investigator for the Watchful Order of Magists and Protectors, the exclusive professional partner of Saeth Cromley (his only real friend), and the **Fireball!** investigator who examines the fireball scene."
@@ -169,14 +169,14 @@ No source gives his birth, parentage, hometown, faith, age or how he came to Wat
 - Summary: "he/him" — `03-saeth-cromley.md:5`
 - Adventure: "he has grown a bit lax in both matters now that he's officially retired." — `sources/adventure-wdh.json:32573`
 - Wiki: "| sex            = Male<ref name="WDH5e-p215">{{Cite book/Waterdeep: Dragon Heist|215}}</ref>" — wiki line 13
-- Page prose: "To those he trusts, he is Barnibus's translator" (Persona, `03-saeth-cromley.md:23`). Pronouns are not inferred and all sources agree on he/him.
+- Page prose: "To those he trusts, he is Barnibus's translator" (Persona, `03-saeth-cromley.md:23`). Pronouns are not inferred, and all sources agree on he/him.
 
 **Stat block**
 - Summary: "Stat block: **Warrior Veteran**." — `03-saeth-cromley.md:5`
 - Adventure: "{@creature Saeth Cromley|WDH} is an Illuskan human {@creature veteran}, with these changes:" followed by "Saeth is lawful good.", "He has a Charisma of 14 and Intimidation +4.", "He speaks Common." — `sources/adventure-wdh.json:32580-32586`. The adventure names no 2024 stat block and no CR.
 - Wiki: "| challenge5e    = 3" — wiki line 58; "| class5e        = [[Veteran]]" — wiki line 59; "| refs5e         = <ref name="WDH5e-p215" /><ref name="MM5e-p350">{{Cite book/Monster Manual 5th edition|350}}</ref>" — wiki line 60.
 - Mechanics reference: "| Veteran (Mirt NF, Saeth NF) | **Warrior Veteran** | 3 | XMM p.320. Mirt uses the WDH CR 9 record instead. |" — `docs/plans/harpers-mechanics-reference.md:571`
-- Stale 2014 label, Factions notes: "- **Saeth Cromley's page** (`city-officials/03-saeth-cromley.md`) carries the 2014 "Veteran" block." — `docs/plans/harpers-out-of-scope-notes.md:838`
+- Stale 2014 label, Harpers notes: "- **Saeth Cromley's page** (`city-officials/03-saeth-cromley.md`) carries the 2014 "Veteran" block." — `docs/plans/harpers-out-of-scope-notes.md:838`
 - Stale 2014 label, quest design note: "- Saeth Cromley's Notable Figures page lists the old **Veteran** stat block and should read **Warrior Veteran**." — `campaign/quests/faction-events/lords-alliance/m04-the-archer-above/design-notes.md:28`. The page now reads "Warrior Veteran" (line 5), so both notes are stale.
 
 **Pronunciation**
@@ -207,7 +207,7 @@ Current page: `campaign/setting/notable-figures/city-officials/03-saeth-cromley.
 | 6 | L27 | "Cromley is the retired partner and only friend of Barnibus Blastwind, a former sergeant of the City Watch (confirmed rank; not Watch Commander despite some in-text references)" | "retired partner" is day-one (wiki line 68; Barnibus page L25). "only friend" is Barnibus's page's wording. The parenthesis is a Draft Note inside the body. "not Watch Commander despite some in-text references": no source found that names him Commander (see D7). | `campaign/setting/notable-figures/city-officials/02-barnibus-blastwind.md:25`; `sources/adventure-wdh.json:31774` ("confiding only in") |
 | 7 | L27 | "and an Illuskan veteran with Charisma enough to coax information from anyone." | "Charisma 14" is the stat line. "from anyone" is an overreach. | `sources/adventure-wdh.json:32585`; `sources/adventure-wdh.json:32573` ("he is good at coaxing information out of them") |
 | 8 | L31 | "Saeth Cromley is a retired City Watch sergeant who works alongside Barnibus Blastwind on investigations, translating between the investigator's forensic reasoning and the common folk they need to interview." | Day-one in substance. 29 words (brief limit 21). | `sources/adventure-wdh.json:32573` ("Cromley helps Barnibus relate to the common folk") |
-| 9 | Voice L56 | "What the magistrate means is, somebody blew up a gnome in your street, and we'd like to know who." | Quest-time: the gnome blast. | `sources/adventure-wdh.json:4444` ("a City Watch sergeant named Saeth Cromley"); `sources/adventure-wdh.json:4453` (the gnome's identity; "Barnibus wants to find out the gnome's identity"); wiki line 73 ("In [[1492 DR]],{{WDH-time}} Saeth, together with Barnibus, was called in to investigate the blast that killed ten people in [[North Ward of Waterdeep|North Ward]], including the [[gnome]] [[Dalakhar]].") |
+| 9 | Voice L56 | "What the magistrate means is, somebody blew up a gnome in your street, and we'd like to know who." | Quest-time: the gnome blast. | `sources/adventure-wdh.json:4444` ("a City Watch {@creature sergeant|WDH} named {@creature Saeth Cromley|wdh}"); `sources/adventure-wdh.json:4454` ("Specifically, Barnibus wants to find out the gnome's identity and whether he was known to anyone."); wiki line 73 ("In [[1492 DR]],{{WDH-time}} Saeth, together with Barnibus, was called in to investigate the blast that killed ten people in [[North Ward of Waterdeep|North Ward]], including the [[gnome]] [[Dalakhar]].") |
 | 10 | Voice L57 | "Get down, sunshine. That's not a firework." | Reads as a scene line during an attack or blast. The drafter decides. | Same as row 9 (blast scene); `campaign/quests/act-ii/fireball/ev-01-the-fireball.md:36` ("and **Sergeant Saeth Cromley** appear with twenty constables and formally take charge.") |
 | 11 | Voice L51 | "He adjusts a badge he isn't technically supposed to wear anymore." | No day-one badge source (see row 3). | As row 3 |
 | 12 | Voice L48, L55, L56, L57 | "the magistrate" (Barnibus) | Title conflict, not quest-time (see D3). | `sources/adventure-wdh.json:31774` (no magistrate); `campaign/setting/governance-and-guilds/city-watch.md:61` ("The published adventure gives him no magistrate's office.") |
@@ -246,7 +246,7 @@ Current page: `campaign/setting/notable-figures/city-officials/03-saeth-cromley.
 - Adventure: "{@creature Barnibus Blastwind|wdh|Barnibus} works for the Watchful Order of Magists and  Protectors, investigating crimes that involve the use of  magic." — `sources/adventure-wdh.json:31774` (no title)
 - Governance: "The published adventure gives him no magistrate's office." — `campaign/setting/governance-and-guilds/city-watch.md:61`
 - Governance, Code Legal: "His Notable Figures page and the **Stingblade** event call him a magistrate, but the published adventure gives him no magistrate's title (campaign-only; see GM Notes)." — `campaign/setting/governance-and-guilds/code-legal-and-magisters.md:41`
-- The current Barnibus Notable Figures page does not say "magistrate" (line 25, quoted in A3).
+- The current Barnibus Notable Figures page does not say "magistrate" (a Grep of `02-barnibus-blastwind.md` returns no match; line 25 is quoted in A3).
 - Higher-ranked: the adventure (no title). The voice doc is the outlier. Not settled.
 
 **D4. Barnibus's species (affects Connections; not a Saeth fact)**
@@ -258,7 +258,7 @@ Current page: `campaign/setting/notable-figures/city-officials/03-saeth-cromley.
 **D5. Stat block label**
 - Summary, current: "Stat block: **Warrior Veteran**." — `03-saeth-cromley.md:5`
 - Stale, quest design note: "Saeth Cromley's Notable Figures page lists the old **Veteran** stat block" — `campaign/quests/faction-events/lords-alliance/m04-the-archer-above/design-notes.md:28`
-- Stale, notes file: "carries the 2014 "Veteran" block" — `docs/plans/harpers-out-of-scope-notes.md:838`
+- Stale, Harpers notes file: "carries the 2014 "Veteran" block" — `docs/plans/harpers-out-of-scope-notes.md:838`
 - Adventure has "veteran" with changes and no CR (`sources/adventure-wdh.json:32580`). Wiki CR 3 (wiki line 58).
 - Higher-ranked for the label: the mechanics reference (`docs/plans/harpers-mechanics-reference.md:571`) gives "Warrior Veteran | 3". The current page matches it.
 
@@ -269,7 +269,7 @@ Current page: `campaign/setting/notable-figures/city-officials/03-saeth-cromley.
 **D7. "Commander" (parenthesis on the page)**
 - Page, Relationships: "(confirmed rank; not Watch Commander despite some in-text references)" — `03-saeth-cromley.md:27`
 - Organization page: "**The Commander and the Open Lord:** The Commander of the Watch reports to the Open Lord (*Dragon Heist*, 5e), and no source names the Commander in 1492 DR." — `campaign/setting/organizations/11-open-lords-watch.md:42`
-- No source found calls Cromley "Commander." The "in-text references" the page mentions are not identified in any file I searched.
+- No source found calls Cromley "Commander." The "in-text references" the page mentions are not identified in any file searched.
 
 **D8. "Partner" versus "friend"**
 - Wiki: "Saeth had a working partnership with Barnibus." — wiki line 68
@@ -378,3 +378,7 @@ For each gap: what the sources say, and what the drafter must stay consistent wi
 
 - `sources/Other remix files/` `.docx` files cannot be opened. The one that may hold an NPC overview for this figure is `The Waterdavian's Guide to Waterdeep NPCs (my notes of a bunch of NPCs all in one place, before I made the more cleaned up NPC Guides).docx` (`sources/SOURCE_GUIDE.md:695`, "Broad NPC reference — use as a secondary source"). It may cover Saeth and was not read.
 - Alexandrian PDFs: text not extracted (see Not found).
+
+## Housekeeping
+
+- A stray file, `docs/plans/setting-compendium-research-notes/pass6/city-officials/03-saeth-cromley.md.tmp`, was created by mistake during this run. It contains the single word "placeholder". No delete tool was available. It should be removed before commit.
