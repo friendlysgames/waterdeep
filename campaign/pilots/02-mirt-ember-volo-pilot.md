@@ -1,4 +1,4 @@
-# Mirt (Ember × Volo pilot)
+# Mirt (Ember × Volo pilot, v4)
 
 - Occupation: Moneylender
 - Period: (Unknown - Present)
@@ -8,27 +8,51 @@
 
 Mirt, called the Old Wolf, is a moneylender and the closest advisor of Open Lord Laeral Silverhand. He is a man of great girth with small sharp eyes. He is said to have been a mercenary general of the North before he took to lending. I have called at his mansion three times and been told he was out (the porter was polite, and I took the hint).
 
-> *Mirt is also a Masked Lord of Waterdeep, Volo, and with Remallia Haventree he leads the Waterdeep Harpers. New members meet him first.*
+## Background
+
+The tales of his youth reach me secondhand, over several suppers, and I give them as I heard them. It is said that Mirt was born to a successful Coaster, one of the merchants who trade up and down the Sword Coast, and that he grew up on tales of heroism and set out to live one. He became a fighter and then, as I have said, a mercenary general of the North. In those years he was called Mirt the Merciless, a name he is said to answer with a laugh, and he made a fortune and a reputation as an adventurer and a philanderer. The money did not satisfy him. The story goes that he decided he wanted peace, and since nobody would hand it to him he would have to build it himself. Somewhere in those years he met Durnan, and the two became close companions.
+
+Mirt and Durnan went down the Well, the old entrance to Undermountain, of their own free will, which is rarer in that place than you might think. In 1302 DR they came back laden with treasure. A paladin who had adventured with them never came up again, and I could find nobody who would say more. Mirt is said to have learned one thing in the Well, that the plan of a dungeon tells who built it and why, and he has read every building that way since. It is whispered that both men used magic to extend their lives, and that they parted ways afterward. Mirt kept on adventuring, and Durnan built the Yawning Portal over the Well.
+
+Mirt built his mansion near the Naval Harbor with his share of the treasure and settled in Waterdeep to enjoy the peace he had wanted. He was bored within a month. Tavern talk has Khelben Arunsun and a second Lord inviting him to become a Lord of Waterdeep (a flourish, I judge, since the Lords wear masks and keep their names to themselves). He lends money from the mansion, and he is patient about repayment.
+
+> *It is no flourish, Volo. Mirt is a Masked Lord of Waterdeep. He owns a Lord's ensemble and wears it only to meet the other Masked Lords, and with Remallia Haventree he leads the Waterdeep Harpers. New members meet him first.*
 >
 > *~Elminster*
 
-### Personality
-
-Dear reader, the Old Wolf is loud by trade. He spends his days on politics and his nights on drink, he roars with laughter, and he is vulgar on purpose. I was fed at his table once and rate the duck five tankards and the company two daggers. His generosity has strings, since a loan from Mirt is repaid in favors more often than in coin. Ask about buildings and you will get an evening, for he reads a house by its plan, and I took nine pages of notes.
-
-### Connections
-
-Mirt and Durnan, who keeps the Yawning Portal, are said to have gone down the Well together and come up laden with treasure in 1302 DR. Mirt built his mansion near the Naval Harbor with his share, and I am told Durnan has refused every invitation to dine there. His wife, Asper, died some years ago, and he has since softened the glowering tower with finer work from her drawings. The house, I am assured, is complete.
+It is said that Mirt carried a baby named Asper out of a sacked city, and that she later became his wife and his heir. She died some years ago. He came home to Waterdeep after a long absence (I could learn neither where he had been nor why), and he has since softened the glowering, fortress-like tower of his mansion with finer work from her drawings. The rest of the house is rambling and has seen better days. The work on it, I am assured, is complete.
 
 > *It is not, Volo. Asper drew changes for the house, and Mirt has built all but the last, a gallery facing the harbor, which he has put off for two years.*
 >
 > *~Elminster*
 
-Rumor, and I stress rumor, has him receiving Harpers at dinner in a manor in the Sea Ward. He has never said a word against the Cassalanters, a rare restraint in Waterdeep.
+### Personality
 
-> *He has no proof, Volo. Mirt has kept a dossier on the Cassalanters for two years and suspects their money stood behind the Howling Hatred cult. He is also hunting a leak in his own cell, and he has not found Tobin Harrask.*
+Dear reader, the Old Wolf is loud by trade. He has a broad chest, a grey beard trimmed without much care, and a face that has been lived in. He spends his days on politics and his nights on drink, he roars with laughter, and he is vulgar on purpose. I was fed at his table once and rate the duck five tankards and the company two daggers. For all his bulk he is said to move with surprising speed when he must, and I have no wish to test it. Ask about his past and he gives an answer that sounds like a joke, and I laughed at it before I thought better. His generosity has strings, since a loan from Mirt is repaid in favors more often than in coin. Ask about buildings and you will get an evening, for he reads a house by its plan, and I took nine pages of notes.
+
+### Connections
+
+- **Laeral Silverhand.** The Open Lord counts Mirt her closest advisor and, I am told, knows him rather better than the rest of us do.
+- **Remallia "Remi" Haventree.** The sun elf Remallia Haventree is spoken of as his colleague, and those who know them say their working styles complement each other. Rumor, and I stress rumor, has him receiving Harpers at dinner in a manor in the Sea Ward.
+- **Durnan.** Durnan, who keeps the Yawning Portal, has refused every invitation to dine at the mansion for years. Mirt, it is said, never asks him what the two of them saw in the Well.
+- **Renaer Neverember.** The son of the former Open Lord is counted a friend by Mirt and Remallia alike, though I have not heard him called a Harper.
+- **The Cassalanters.** Mirt has never said a word against them, a rare restraint in Waterdeep.
+
+> *He has no proof, Volo. Mirt has kept a dossier on the Cassalanters for two years and suspects that their money stood behind the Howling Hatred cult about a year ago. He does not know what the family hides.*
 >
 > *~Elminster*
+
+- **Xanathar.** Mirt has dealt many times with the beholder who rules the Guild (it, as I have been firmly corrected), and I am told he knows where its lair is.
+- **Thorvin Twinbeard.** Rumor puts a dwarf engineer in the Guild's pay on friendly terms with Mirt, and I could get no more than that from anyone.
+- **The Splinter.** A cell of the Black Network that Mirt calls the Splinter is said to profit from whatever the Harpers learn, and he has no name, I hear, for whoever leads it.
+
+> *Every word of that is true, Volo, and it goes further. Mirt can find the lair, and he is the only Harper who knows that Thorvin Twinbeard reports to us from inside the Guild. The Splinter acts on Harper information because someone in Mirt's own cell is selling it. He has not found Tobin Harrask, a clerk in the records relay.*
+>
+> *~Elminster*
+
+- **Nihiloor.** The mind flayer's intellect devourers have taken three Harper agents, Mirt wants it dead, and by every account he has reason.
+- **The Blood Hawk Posse.** The brigands of the Amphail road have taken coin from Mirt, and their founder, Fenerus Stormcastle, now lights lamps in the Trades Ward.
+- **Asper.** His late wife drew the changes to his house, and he is said to be building from her drawings still.
 
 ## Overview
 
@@ -87,3 +111,9 @@ Mirt is a moneylender of great girth, known as the Old Wolf and counted as Open 
 > - He knows where Xanathar's lair is, because he has dealt with it many times, and he knows that Thorvin Twinbeard is a Harper informant inside the Guild.
 > - He is hunting the leak in his own cell. He does not know that it is Tobin Harrask, a clerk in the records relay, and he has no name for the Splinter's leader.
 > - Manshoon keeps Mirt on a list of five Masked Lords whose identities he knows. Corylus Thann and Jelenn Urmbrusk are the two he blackmails, and Mirt is not one of them.
+
+> [!gamemaster]**Personal Goals**
+>
+> - Mirt wants to finish the house as Asper drew it. He has built every change but the last, a gallery facing the harbor, and he has put that one off for two years.
+> - He wants one evening at his own table with Durnan, spent without a word about the Well. Durnan has turned down every invitation for years.
+> - Asper was his heir, and he has named no other. He wants to find someone to leave the house and the ledgers to, a person who will lend with patience and keep the favors straight.
