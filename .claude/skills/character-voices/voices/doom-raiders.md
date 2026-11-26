@@ -7,11 +7,11 @@ The Doom Raiders are retired adventurers turned Zhentarim cell, and they still t
 ### Davil Starsong
 *A charming, lilting elf who makes every deal sound like a favour and always asks one question more than he needs to.*
 
-- **Sound:** A light, musical tenor with a sun-elf lilt he makes the most of. He's never loud. After his arrest the warmth stays, but it comes slower and lower.
+- **Sound:** A light, musical tenor with a sun-elf lilt he makes the most of. He's never loud. When something worries him the warmth stays, but it comes slower and lower.
 - **Sentence shape:** Graceful, medium-to-long sentences that often end on a gentle question ("You understand that, yes?"). He lets silences sit rather than filling them.
 - **Word choice:** Courtly, with trade terms dressed as friendship: "opportunity", "arrangement", "people I have found capable". Violence is always framed as helping people. He calls the party "my friends" once they've done a job for him.
 - **Swearing:** *Stingy · Plain · Clipped.* Almost never; a courtly man. If Davil ever says "fuck", something has gone very badly wrong, and everyone at the table knows it.
-- **Personality in speech:** Affable warmth over strategic patience. He withholds explanations and leaves questions unanswered without apology. His fondness for capable people is real and shows in specific praise. Grief (Skeemo, the arrest) never gets words. He changes the subject to music, or plays instead.
+- **Personality in speech:** Affable warmth over strategic patience. He withholds explanations and leaves questions unanswered without apology. His fondness for capable people is real and shows in specific praise. Worry (the leak in his cell) never gets words. He changes the subject to music, or plays instead.
 - **Quirks:** He turns a small trophy on his charm bracelet when he's weighing something. He pours for guests before speaking. He answers "why" with a smile and another question.
 - **Signature phrases:** "Sit. Please." / "…yes?" / "An opportunity, my friends." / "We can sort out the details when the work is done."
 - **Never:** He never threatens outright, never haggles crudely, and never explains why he wants to know something.
@@ -19,8 +19,7 @@ The Doom Raiders are retired adventurers turned Zhentarim cell, and they still t
   - *Greeting:* "Ah, there you are. Come in, sit, have a cup; I've been hoping you'd find the time."
   - *Business:* "It's a small thing, really, and it would help a good many people who can't help themselves. You'll do it, yes?"
   - *Under pressure:* "Let's all put our hands where the others can see them and talk like people who'd like to see morning."
-  - *After the arrest:* "They kept me a while. It was instructive. Sit, and tell me what I missed."
-
+  - *After a hard day:* "It was a long day, and an instructive one. Sit, and tell me what I missed."
 ---
 
 ### Yagra Stonefist
