@@ -28,7 +28,7 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 
 - **Sound:** A smooth, light, amused drow voice, never raised, full of pleasure in its own phrasing.
 - **Sentence shape:** Elegant, balanced, often long sentences with a sting at the end. He answers questions with better questions and makes offers dressed as compliments.
-- **Word choice:** Courtly, cosmopolitan and playful: "delightful", "a small matter", "an arrangement of mutual convenience". He calls the party "my friends" when he means "my assets", and means both.
+- **Word choice:** Courtly, cosmopolitan and playful: "delightful", "a small matter", "an arrangement of mutual convenience". He calls the people he works with "my friends" when he means "my assets", and means both.
 - **Swearing:** *Stingy · Pearls · Phrase.* Elegant and rare, used for comic precision ("Well. That is what the humans call a clusterfuck.").
 - **Personality in speech:** Theatrical amusement over constant calculation. He tests every new contact aloud, useful or dangerous, and is visibly pleased to find them both. Contempt for fools who threaten him is swift and courteous. His loyalty to Bregan D'aerthe is framed as pragmatism.
 - **Quirks:** He adjusts his hat before a decisive line. He compliments an opponent sincerely in the middle of beating them. He laughs at his own schemes when they work.
@@ -43,7 +43,7 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 ### Soluun Xibrindas
 *A fanatical drow killer: cold, contemptuous and zealous for the captain, with every word soaked in hatred for surface elves.*
 
-- **Sound:** A low, flat, cold voice. It rises into fervour when he speaks of Jarlaxle or of Nar'l's weakness.
+- **Sound:** A low, flat, cold voice. It rises into fervor when he speaks of Jarlaxle or of Nar'l's weakness.
 - **Sentence shape:** Short, hard, contemptuous statements. He speaks to surface folk only in orders and insults. His zeal for the band comes out in longer, chanted sentences, the way other drow pray.
 - **Word choice:** Drow slurs for surface elves, hunting language ("prey", "the next one"), devotion to Jarlaxle and the band, and open contempt for Lolth and the matron houses that serve her. He calls his brother "the weak one", never by name.
 - **Swearing:** *Triggered · Colourful · Rant.* Vicious and contemptuous, aimed at surface elves and half-elves with slurs and profanity ("Filthy fucking surface-blood. You all smell of sunlight.").
@@ -75,16 +75,16 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 ---
 
 ### Krebbyg Masq'il'yr
-*A rash young drow who runs a theatre's bookings, switching between casting and conspiracy mid-sentence.*
+*A rash young drow who runs a theater's bookings, switching between casting and conspiracy mid-sentence.*
 
 - **Sound:** A quick, cheerful, slightly frantic voice, a stage manager's patter.
 - **Sentence shape:** Rapid run-on sentences that switch topics mid-flow ("the Tuesday matinee's full, did you bring the package, no, not you, the soprano").
-- **Word choice:** Theatre jargon (bookings, blocking, the house, the ghost), laid over gang talk. As Kreb Sorrush he calls everyone "darling".
+- **Word choice:** Theater jargon (bookings, blocking, the house, the ghost), laid over gang talk. As Kreb Sorrush he calls everyone "darling".
 - **Swearing:** *Punctuation · Colourful · Phrase.* Casual and constant backstage ("Where's the fucking soprano?").
-- **Personality in speech:** Reckless confidence and deference. He defers to Fel'rekt immediately on anything serious ("Ask Fel."). He gets bored with anything routine, and it's obvious. His pleasure in the theatre is real.
+- **Personality in speech:** Reckless confidence and deference. He defers to Fel'rekt immediately on anything serious ("Ask Fel."). He gets bored with anything routine, and it's obvious. His pleasure in the theater is real.
 - **Quirks:** He checks a schedule while talking. He complains about the ghost moving his props. He answers "What's the plan?" with "Fel?"
 - **Signature phrases:** "Ask Fel." / "The ghost moved it again." / "Darling."
-- **Never:** He never plans, never argues with Fel'rekt, and never lets anyone insult the theatre.
+- **Never:** He never plans, never argues with Fel'rekt, and never lets anyone insult the theater.
 - **Sample lines:**
   - *Greeting:* "Kreb Sorrush, bookings, how can I help, casting's on Tuesdays, sorry, darling, who sent you?"
   - *Business:* "You want in the back office? Ha, no. Ask Fel. Also the ghost hates you already, don't take it personally."
@@ -96,11 +96,11 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 
 - **Sound:** A high, chirping, echoing voice with the sound of water in it. It warbles when he's excited.
 - **Sentence shape:** Excited, rapid questions about the surface world, and short, precise bargains ("You tell me three things, I tell you one big thing!").
-- **Word choice:** Harbour words and wonder: ships, shiny things, "surface folk", "the captain". He calls ships by their names and people by what they're wearing.
+- **Word choice:** Harbor words and wonder: ships, shiny things, "surface folk", "the captain". He calls ships by their names and people by what they're wearing.
 - **Swearing:** *Never · Plain · n/a.* None. He picks up rude sailor words and uses them wrong and innocently ("Is that a fucking? What's a fucking?").
-- **Personality in speech:** Bright curiosity and friendliness. He's delighted by new information. He's proud of his harbour and says "my harbour" often.
+- **Personality in speech:** Bright curiosity and friendliness. He's delighted by new information. He's proud of his harbor and says "my harbor" often.
 - **Quirks:** He waves with a flipper. He repeats new words to learn them. He splashes when happy.
-- **Signature phrases:** "Tell me something I don't know!" / "My harbour!" / "Trade? Trade!"
+- **Signature phrases:** "Tell me something I don't know!" / "My harbor!" / "Trade? Trade!"
 - **Never:** He never lies, never breaks a trade, and never understands why people keep secrets.
 - **Sample lines:**
   - *Greeting:* "Hello! Hello, boat people! You're new! Tell me something I don't know!"
@@ -130,12 +130,12 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 
 - **Sound:** A reedy, theatrical, hollow voice with an actor-manager's diction, and a hiss when someone projects poorly.
 - **Sentence shape:** Long, aggrieved, theatrical complaints full of stage terminology. When someone finally listens, he gets eager and specific.
-- **Word choice:** Old theatre vocabulary: "the house", "blocking", "my stage", "philistines". He calls the drow "the new management" with disdain.
+- **Word choice:** Old theater vocabulary: "the house", "blocking", "my stage", "philistines". He calls the drow "the new management" with disdain.
 - **Swearing:** *Stingy · Euphemist · Clipped.* Old-fashioned and prim ("Blasted", "confounded"), then one real "damn them" he's proud of.
 - **Personality in speech:** Proprietary outrage and anxiety. He's specific about grievances: the drow who come and go at irregular hours, the dressing room they use, the false name on the playbills. He's thrilled when anyone takes him seriously.
-- **Quirks:** He critiques the party's diction. He moves props to make a point. He sighs dramatically.
+- **Quirks:** He critiques visitors' diction. He moves props to make a point. He sighs dramatically.
 - **Signature phrases:** "My stage!" / "Project, for pity's sake!" / "Finally, someone who listens."
-- **Never:** He never lets bad acting pass, never leaves the theatre, and never believes "Rongquan Mystere".
+- **Never:** He never lets bad acting pass, never leaves the theater, and never believes "Rongquan Mystere".
 - **Sample lines:**
   - *Greeting:* "You there! Project! I can't hear you from the gallery, and I've no body, so that's saying something."
   - *Business:* "There are drow in my dressing room at all hours, and a man on the playbills whose name is no more real than I am alive."
