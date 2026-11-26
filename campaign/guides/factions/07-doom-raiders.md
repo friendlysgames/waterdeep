@@ -8,11 +8,11 @@ The Doom Raiders are the legitimate Black Network in Waterdeep, and the faction 
 
 The half-million dragons are another matter. Efforts are underway to reclaim and rebuild Zhentil Keep, and the reforming Zhentarim Council is choosing its membership. That money could buy Davil's cell a seat at that table — genuine continental influence rather than the precarious position of a regional branch operation. Characters who recover the gold and deliver it to the Doom Raiders are buying their patrons into something much larger than one campaign.
 
-The Doom Raiders do not tell the party until Mission 4 forces the truth out. **Skeemo Weirdbottle has been a traitor from the start.** The Master of Magic has been feeding intelligence to Manshoon's cell and to House Gralhund since before the party was recruited. Everything the party has done for the faction has been visible to the Splinter. Davil has suspected something for months. Tashlyn confirmed it during his arrest.
+The Doom Raiders do not tell the party until Mission 4 forces the truth out. **Skeemo Weirdbottle has been a traitor from the start.** The Master of Magic has been feeding intelligence to Manshoon's cell and to House Gralhund since before the party was recruited. Everything the party has done for the faction has been visible to the Splinter.
 
 **What the Doom Raiders share proactively:**
 - Istrid Horn's lending operation is available to faction members at reasonable rates: up to 200 gp at Renown 1, up to 2,500 gp at Renown 10.
-- Tashlyn's City Guard position provides one piece of actionable Splinter intelligence per tenday at Renown 3+.
+- Tashlyn's bodyguard cover, and the City Guard captaincy it earned, provides one piece of actionable Splinter intelligence per tenday at Renown 3+.
 - Ziraj the Hunter can be requested for a single operation per quest, to be taken alive or quietly eliminated. He won't take suicidal assignments and doesn't argue about it.
 
 **What the Doom Raiders ask for:**
@@ -26,7 +26,7 @@ Davil's ideal outcome: the vault gold funds the Zhentarim Council bid, Manshoon'
 
 | Quest | Doom Raiders Hook |
 |-----|------------------|
-| **Fireball!** | Davil suspects Skeemo was monitoring Dalakhar's movements on behalf of House Gralhund before the fireball. He wants to know what the party saw at the blast site, specifically whether anyone was collecting from the bodies or watching the scene before the Watch arrived. He has a theory he isn't ready to name. |
+| **Fireball!** | Davil wants to know what the party saw at the blast site, specifically whether anyone was collecting from the bodies or watching the scene before the Watch arrived. He worries about a leak in his own cell and tells the party only that he wants to know who was watching. |
 | **Gralhund Villa** | Davil is arrested in the Watch's post-Gralhund crackdown on all Zhentarim operations. A flying snake delivers the first word: *"Davil is unavailable. Continue normal operations. Await further contact."* Tashlyn takes over. Her first direct message to the party: *"Keep a low profile. I'll be in touch."* She will not explain what that means. |
 | **Faction Outposts** | The Doom Raiders have been watching Yellowspire, Manshoon's Castle Ward relay point, for two months. Tashlyn has schematics. She has been waiting for someone capable of going inside. Mission 5 is the operational payoff of that patience. |
 | **Kolat Towers** | Davil has the pass-amulet distribution ledger (from Mission 5) and Ziraj's rooftop diagram (from Mission 6). Between them, the Doom Raiders can offer the party two independent paths through Kolat Towers' outer defenses, provided both missions are complete. This is the faction's contribution to **Kolat Towers**. |

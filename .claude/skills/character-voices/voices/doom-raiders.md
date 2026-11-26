@@ -5,11 +5,11 @@ The Doom Raiders are retired adventurers turned Zhentarim cell, and they still t
 ---
 
 ### Davil Starsong
-*A charming, lilting elf who makes every deal sound like a favour and always asks one question more than he needs to.*
+*A charming, lilting elf who makes every deal sound like a favor and always asks one question more than he needs to.*
 
 - **Sound:** A light, musical tenor with a sun-elf lilt he makes the most of. He's never loud. When something worries him the warmth stays, but it comes slower and lower.
 - **Sentence shape:** Graceful, medium-to-long sentences that often end on a gentle question ("You understand that, yes?"). He lets silences sit rather than filling them.
-- **Word choice:** Courtly, with trade terms dressed as friendship: "opportunity", "arrangement", "people I have found capable". Violence is always framed as helping people. He calls the party "my friends" once they've done a job for him.
+- **Word choice:** Courtly, with trade terms dressed as friendship: "opportunity", "arrangement", "people I have found capable". Violence is always framed as helping people. He calls people he does business with "my friends".
 - **Swearing:** *Stingy · Plain · Clipped.* Almost never; a courtly man. If Davil ever says "fuck", something has gone very badly wrong, and everyone at the table knows it.
 - **Personality in speech:** Affable warmth over strategic patience. He withholds explanations and leaves questions unanswered without apology. His fondness for capable people is real and shows in specific praise. Worry (the leak in his cell) never gets words. He changes the subject to music, or plays instead.
 - **Quirks:** He turns a small trophy on his charm bracelet when he's weighing something. He pours for guests before speaking. He answers "why" with a smile and another question.
@@ -32,7 +32,7 @@ The Doom Raiders are retired adventurers turned Zhentarim cell, and they still t
 - **Personality in speech:** Casual confidence, and friendly challenges as a way of saying hello. She tells awful facts about her own past without any weight, which unsettles people. Protectiveness makes her curt and urgent. When one of hers is in danger, she's all orders.
 - **Quirks:** She cracks her knuckles before speaking to strangers. She plants an elbow on the table and says "Arm first, talk after." She takes words literally and misses sarcasm, and doesn't care.
 - **Signature phrases:** "Arm first, talk after." / "Fair fight." / "Where is he?"
-- **Never:** She never lies to friends, never flatters, and never apologises for winning.
+- **Never:** She never lies to friends, never flatters, and never apologizes for winning.
 - **Sample lines:**
   - *Greeting:* "You're new. Sit. Arm first, talk after."
   - *Business:* "Davil wants you. Fuck knows why. I'll find out after I beat you."
@@ -46,7 +46,7 @@ The Doom Raiders are retired adventurers turned Zhentarim cell, and they still t
 - **Sentence shape:** Measured, complete, businesslike sentences with a pleasant finish. She states terms clearly and repeats them once.
 - **Word choice:** Banker's vocabulary: terms, interest, collateral, "arrangements". She invokes Vergadain in blessings and oaths. She calls debtors "dear" and never uses the word "threat".
 - **Swearing:** *Stingy · Plain · Clipped.* Never in business; the warmth is the weapon. She saves one cold "you stupid shit" for the day someone tries to cheat her.
-- **Personality in speech:** Warm professionalism is the trap. She sounds reasonable until the penalties. She shows disdain for bad financial judgement as gentle disappointment. Her pleasure in debt shows in how she lingers on the word "owe".
+- **Personality in speech:** Warm professionalism is the trap. She sounds reasonable until the penalties. She shows disdain for bad financial judgment as gentle disappointment. Her pleasure in debt shows in how she lingers on the word "owe".
 - **Quirks:** She taps the ledger with one finger when naming a figure. She blesses every signed agreement ("Vergadain smile on it"). She never raises her voice. The silence after a missed payment is her threat.
 - **Signature phrases:** "Vergadain smile on it." / "That's the arrangement, dear." / "I'm sure it won't come to that."
 - **Never:** She never names a penalty as violence, never forgives a debt, and never discusses her rates in front of other borrowers.
@@ -77,9 +77,9 @@ The Doom Raiders are retired adventurers turned Zhentarim cell, and they still t
 *A clipped, superior Calishite soldier who gives orders in as few words as possible and expects you to keep up.*
 
 - **Sound:** A sharp, controlled voice with an educated Calishite accent. Anger makes it quieter and faster, not louder.
-- **Sentence shape:** Terse imperatives and fragments. This is a deliberate break from `ember-voice`'s speech rhythm. She expects inference and doesn't repeat herself.
-- **Word choice:** Military and aristocratic: "competent", "adequate", "weak", "orders". She has contempt words for the unskilled ("amateurs"). She calls the party by surname or not at all.
-- **Swearing:** *Triggered · Colourful · Phrase.* Sharp and cutting, aimed at incompetence: "fucking amateurs", "shit work". Short, like everything else she says.
+- **Sentence shape:** Terse imperatives and fragments. She expects inference and doesn't repeat herself.
+- **Word choice:** Military and aristocratic: "competent", "adequate", "weak", "orders". She has contempt words for the unskilled ("amateurs"). She calls the people she meets by surname or not at all.
+- **Swearing:** *Triggered · Colorful · Phrase.* Sharp and cutting, aimed at incompetence: "fucking amateurs", "shit work". Short, like everything else she says.
 - **Personality in speech:** Unfettered superiority. She states her own excellence as a fact. Quick temper shows in how much shorter she gets. Grudging respect for anyone who beats her comes out as one clipped word ("Adequate.") that she means as high praise.
 - **Quirks:** Her messages are two or three words long. She finishes other people's explanations for them when they're too slow. She never sits during a briefing.
 - **Signature phrases:** "Adequate." / "Don't make me repeat it." / "Again."
@@ -94,7 +94,7 @@ The Doom Raiders are retired adventurers turned Zhentarim cell, and they still t
 *A huge, near-silent assassin whose reports are a few words long and whose gentleness is saved for one friend.*
 
 - **Sound:** A very deep, quiet rumble, barely above a whisper. With Fala, it softens and slows.
-- **Sentence shape:** Two to five words, always a deliberate break from `ember-voice` speech. He answers only what was asked. Long silences in between.
+- **Sentence shape:** Two to five words, always. He answers only what was asked. Long silences in between.
 - **Word choice:** Hunter's words: tracks, marks, numbers, directions. No names for enemies, only counts. He calls Fala by name, everyone else nothing.
 - **Swearing:** *Stingy · Plain · Clipped.* Rare, and a single word: "Shit." It means the plan has changed.
 - **Personality in speech:** Patient stillness. His loyalty shows in action, not words. The rare longer sentence is always about someone he protects. He kills because he's asked, and says so if asked why ("Davil asked.").
