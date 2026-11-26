@@ -6,7 +6,7 @@
 >
 > - *Draft horse with a permanent enchantment that lets her understand and speak Common, unaligned, she/her*. Stat block: **Beast (Intelligence 10)**.
 > - **Affiliation:** Harpers
-> - **Faction pages:** the **Harpers** page in the Factions Guide (Grand Game stance, quest hooks, first meeting, renown, ranks and missions) and **The Harpers** page in Organizations (lore)
+> - **Faction pages:** **The Harpers** page in the Factions Guide (Grand Game stance, quest hooks, first meeting, renown, ranks and missions) and **The Harpers** page in Organizations (lore)
 > - **Featured in:** **Trollskull Alley**, **The Talking Mare**
 
 **Maxeene** (Unaligned, draft horse, she/her)

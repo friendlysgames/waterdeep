@@ -528,7 +528,7 @@ Mirt is the WDH record (p.211), CR 9, AC 16, 153 HP. The block below is reformat
 
 ***Parry.*** *Trigger:* Mirt is hit by a melee attack roll while holding a melee weapon. *Response:* Mirt adds 2 to his AC against that attack, possibly causing it to miss.
 
-**Mirt's Power.** CR 9: **Tier 2 = 85**, Tier 3 = 70. The High-Power warning does not apply (85 is under twice a level-8 PC's 44, which is 88). His NF page names the block "Veteran with modifications"; the WDH record is the one used here.
+**Mirt's Power.** CR 9: **Tier 2 = 85**, Tier 3 = 70. The High-Power warning does not apply (85 is under twice a level-8 PC's 44, which is 88). His NF page now names the block "Mirt (WDH custom block, CR 9)", and the WDH record is the one used here.
 
 ### Spy ally Power
 
@@ -612,6 +612,6 @@ Checked against the records in `harpers-creatures.json` and `spells-xphb.json`.
 | Jarlaxle CR 15 | **Taken from the brief** | I could not read his WDH block in the data I was given. |
 | Orvyn Dall block | **Unverified** | No Notable Figures page found. Commoner assumed for the Force Grey M5 line. |
 | Sending stone (2024 item text) | **Unverified** | Not in the data. Plain description used: 25 words, one message each way per day. |
-| Mirt "Veteran with modifications" (NF page) | Disagrees with WDH | The WDH record is used. |
+| Mirt "Mirt (WDH custom block, CR 9)" (NF page) | Agrees with WDH | The WDH record is used. |
 | Wardragon's block | NF page | Warrior Veteran per the page; Azuredge not in the numbers. |
 | Maxeene white blaze | Brief | Not a mechanical matter. |
