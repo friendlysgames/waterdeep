@@ -149,15 +149,14 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Sentence shape:** A few plain words at a time. He answers what's asked and nothing else. This is a deliberate break from `ember-voice` speech.
 - **Word choice:** Bouncer basics: "out", "no", "calm down". He calls patrons "sir" or "ma'am" with no inflection.
 - **Swearing:** *Stingy · Plain · Clipped.* Minimal and flat ("Out. Now. Fuck off.").
-- **Personality in speech:** Operational discipline, cultivated dullness. His private amusement at tavern work shows only as the slightest pause.
+- **Personality in speech:** Operational discipline, cultivated dullness. His private amusement at door work shows only as the slightest pause.
 - **Quirks:** He doesn't volunteer his name unless asked twice. He says "Understood" and walks away.
 - **Signature phrases:** "Understood." / "Out." / "Not my business."
-- **Never:** He never mentions Jarlaxle, never explains the letter, and never draws attention to himself.
+- **Never:** He never mentions Jarlaxle, never explains the card, and never draws attention to himself.
 - **Sample lines:**
   - *Greeting:* "Evening."
-  - *Business:* "Letter's from a former employer. Understood?"
+  - *Business:* "Card's a reference. Understood?"
   - *Under pressure:* "Out. Now."
-
 ---
 
 ### Ryvarra
