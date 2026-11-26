@@ -21,9 +21,8 @@ The Harpers mostly sound like people pretending to be someone else: a moneylende
 - **Never:** He never begs, flatters, or uses a Harper code phrase in public, and never lets anyone see him hurry.
 - **Sample lines:**
   - *Greeting:* "Come in, come in, there's more fucking duck here than a man my size can decently finish, and gods know I've been trying for an hour. Sit."
-  - *Business:* "Three names. You'll watch them for a tenday and tell me who they meet. Nothing more."
+  - *Business:* "Three names. Find out who they meet and tell me. Nothing more."
   - *Under pressure:* "I heard you. Now be quiet a moment while I decide how bad this is."
-
 ---
 
 ### Remallia "Remi" Haventree
