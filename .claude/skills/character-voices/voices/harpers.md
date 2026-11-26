@@ -142,7 +142,6 @@ The Harpers mostly sound like people pretending to be someone else: a moneylende
   - *Greeting:* Nessa: "Table for four?" Corvin: "Five, she can't count." Nessa: "Five. Piss off, Corvin."
   - *Business:* Corvin: "The gentleman by the window left this for you. Said you'd know what it's about."
   - *Under pressure:* Nessa: "Right, we're leaving." Corvin: "We are definitely leaving."
-
 ---
 
 ### Maxeene
