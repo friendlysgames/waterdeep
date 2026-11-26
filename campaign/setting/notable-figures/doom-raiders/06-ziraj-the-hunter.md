@@ -13,9 +13,9 @@
 
 ## Background
 
-Ziraj the Hunter is a half-orc who wields an oversized bow that shoots correspondingly large arrows, and he is the Master of Assassination for the Black Network (*Dragon Heist*, 5e). The City Watch cannot say where he comes from or whether he has a home at all (*Dragon Heist*, 5e). The account below is the GM's alone, because Ziraj has told it whole to nobody `[design]`.
+Ziraj the Hunter is a half-orc who wields an oversized bow that shoots correspondingly large arrows, and he is the Master of Assassination for the Black Network (*Dragon Heist*, 5e). Ziraj comes from somewhere the City Watch cannot name, and it cannot say whether he has a home at all (*Dragon Heist*, 5e). The account below is the GM's alone, because Ziraj has told it whole to nobody `[design]`.
 
-Ziraj was left as an infant at the door of a trapper's cabin in forested hill country, and the old man who lived there raised him `[design]`. The trapper taught him to track, to make a bow and to take only what a table needs, and by the age of fourteen Ziraj stood a head taller than his teacher `[design]`. The nearest village stared whenever he came down for salt, and its children threw stones, so he learned to cross it by the ridgeline and the rooftops instead of the road `[design]`. When the old man died, Ziraj buried him behind the cabin, took his bow and his knife, and left the hills without telling anyone in the village `[design]`.
+Ziraj was left as an infant at the door of a trapper's cabin in forested hill country, and the old man who lived there raised him `[design]`. The trapper taught him to track, to make a bow and to take only what a table needs, and by the age of fourteen Ziraj stood a head taller than his teacher `[design]`. Ziraj drew stares from the nearest village whenever he came down for salt, and its children threw stones, so he learned to cross it by the ridgeline and the rooftops instead of the road `[design]`. When the old man died, Ziraj buried him behind the cabin, took his bow and his knife, and left the hills without telling anyone in the village `[design]`.
 
 For some years afterward he hired out as a scout and bowman, and he killed for coin `[design]`. One contract ended with a family dead who should not have been, and he has taken no coin for a killing since `[design]`. He decided then that he would kill only for the sake of someone he was loyal to and never on his own account `[design]`.
 
@@ -63,7 +63,7 @@ Ziraj the Hunter is a half-orc of conspicuous size and the Doom Raiders' Master 
 *A huge, near-silent assassin whose reports are a few words long and whose gentleness is saved for one friend.*
 
 - **Sound:** A very deep, quiet rumble, barely above a whisper. With Fala, it softens and slows.
-- **Sentence shape:** Two to five words, always a deliberate break from `ember-voice` speech. He answers only what was asked. Long silences in between.
+- **Sentence shape:** Two to five words, always. He answers only what was asked. Long silences in between.
 - **Word choice:** Hunter's words: tracks, marks, numbers, directions. No names for enemies, only counts. He calls Fala by name, everyone else nothing.
 - **Swearing:** *Stingy · Plain · Clipped.* Rare, and a single word: "Shit." It means the plan has changed.
 - **Personality in speech:** Patient stillness. His loyalty shows in action, not words. The rare longer sentence is always about someone he protects. He kills because he's asked, and says so if asked why ("Davil asked.").

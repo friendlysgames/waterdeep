@@ -37,7 +37,7 @@ He is lonely and does not feel sorry for himself. He thanks people formally for 
 
 ## Connections
 
-- **Laeral Silverhand:** The Open Lord, to whom he reports directly. She gave him and Faerrel their first work in the city, and his badge of the Watch returns to her if he loses it.
+- **Laeral Silverhand:** The Open Lord, to whom he reports directly. She put him and Faerrel to work as deputies and spies, and his badge of the Watch returns to her if he loses it.
 - **Mirt:** A friend, by the wiki's account, and Laeral's closest advisor `[research: wiki only]`.
 - **Elminster:** A friend, by the wiki's account, who befriended Jalester and Faerrel and brought them to Laeral `[research: wiki only]`.
 - **Durnan:** The keeper of the Yawning Portal, who knows whom Jalester works for and leaves him alone at the corner table.

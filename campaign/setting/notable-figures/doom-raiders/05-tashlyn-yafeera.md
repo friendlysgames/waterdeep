@@ -41,7 +41,7 @@ She respects anyone who can beat her in melee and despises everyone else, and sh
 - **Ziraj the Hunter:** The Master of Assassination, who kills only when a friend asks. Tashlyn is one of the four friends whose word counts (*Dragon Heist*, 5e).
 - **Yagra Stonefist:** Davil's bodyguard, who works the bar at the Yawning Portal. Yagra can arrange a meeting with Tashlyn in the City of the Dead or another quiet place (*Dragon Heist*, 5e).
 - **Istrid Horn** and **Skeemo Weirdbottle:** The other two Masters of the cell. No source gives Tashlyn a day-one opinion of either `[research]`.
-- **Vorondar Levelstone:** The dwarf magister at the South Gate whom she guards. She likes him and has earned his confidence, and the post she holds under him is her cover.
+- Vorondar Levelstone: The dwarf magister at the South Gate whom she guards. She likes him and has earned his confidence, and the post she holds under him is her cover.
 - **The City Guard:** The service in which she holds the rank of captain. The Watch keeps a file on the cell, and Captain Staget would let the Doom Raiders and Xanathar's Guild destroy each other (**The Open Lord's Watch**).
 - **Manshoon's Zhentarim:** The rival cell that peeled off part of the Doom Raiders' network. Tashlyn has sources inside it. The Doom Raiders believe Urstul Floxin leads it and have not heard Manshoon's name connected to it, and she is not a member of it (**Urstul Floxin**).
 - **Xanathar's Guild:** The criminal organization that wants to wipe out anyone it takes for a Zhentarim operative. She arms the cell against it.
@@ -67,9 +67,9 @@ Tashlyn Yafeera is a Calishite woman who serves as bodyguard to a dwarf magister
 *A clipped, superior Calishite soldier who gives orders in as few words as possible and expects you to keep up.*
 
 - **Sound:** A sharp, controlled voice with an educated Calishite accent. Anger makes it quieter and faster, not louder.
-- **Sentence shape:** Terse imperatives and fragments. This is a deliberate break from `ember-voice`'s speech rhythm. She expects inference and doesn't repeat herself.
-- **Word choice:** Military and aristocratic: "competent", "adequate", "weak", "orders". She has contempt words for the unskilled ("amateurs"). She calls the party by surname or not at all.
-- **Swearing:** *Triggered · Colourful · Phrase.* Sharp and cutting, aimed at incompetence: "fucking amateurs", "shit work". Short, like everything else she says.
+- **Sentence shape:** Terse imperatives and fragments. She expects inference and doesn't repeat herself.
+- **Word choice:** Military and aristocratic: "competent", "adequate", "weak", "orders". She has contempt words for the unskilled ("amateurs"). She calls the people she meets by surname or not at all.
+- **Swearing:** *Triggered · Colorful · Phrase.* Sharp and cutting, aimed at incompetence: "fucking amateurs", "shit work". Short, like everything else she says.
 - **Personality in speech:** Unfettered superiority. She states her own excellence as a fact. Quick temper shows in how much shorter she gets. Grudging respect for anyone who beats her comes out as one clipped word ("Adequate.") that she means as high praise.
 - **Quirks:** Her messages are two or three words long. She finishes other people's explanations for them when they're too slow. She never sits during a briefing.
 - **Signature phrases:** "Adequate." / "Don't make me repeat it." / "Again."
