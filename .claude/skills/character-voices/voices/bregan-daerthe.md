@@ -208,7 +208,6 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
   - *Greeting:* "How'd you get that scar? Tell me true, and I'll buy the drink."
   - *Business:* "Margo reads people. I read rooms. Between us we'll know if you're worth the captain's time."
   - *Under pressure:* "Finally. Something interesting."
-
 ---
 
 ### Vessa
