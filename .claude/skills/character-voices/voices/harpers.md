@@ -50,15 +50,14 @@ The Harpers mostly sound like people pretending to be someone else: a moneylende
 - **Sentence shape:** Chatty, medium-length sentences that meander, with jokes about his own playing. Underneath, he asks short, well-aimed questions.
 - **Word choice:** Tavern talk: songs, regulars, who owes whom a drink. He self-deprecates about the three strings. He calls regulars by nicknames and strangers "friend".
 - **Swearing:** *Casual · Pearls · Phrase.* Casual tavern swearing ("shit", "bloody", "fuck me"), always good-natured and self-directed. Once in a while a gem: "That lute's been tuned by a drunk goat with a grudge."
-- **Personality in speech:** He makes himself small and likeable on purpose. His loyalty to Bonnie's gang shows in how he steers talk away from them, and with the party he talks around them rather than about them. When he's honest, he's careful and slow, and clearly weighing each word.
+- **Personality in speech:** He makes himself small and likeable on purpose. His loyalty to Bonnie's gang shows in how he steers talk away from them, and with anyone who asks he talks around them rather than about them. When he's honest, he's careful and slow, and clearly weighing each word.
 - **Quirks:** He plucks a string while thinking. He answers "How are you?" with a comment on the room ("Busy night. Durnan's in a mood."). He never finishes a song if a conversation nearby is more interesting.
 - **Signature phrases:** "Three strings is plenty for this crowd." / "Buy a bard a drink and he'll tell you anything. Well. Something." / "Friend."
 - **Never:** He never brags, never names his employers, and never says anything unkind about Bonnie.
 - **Sample lines:**
   - *Greeting:* "Evening, friend. You're new. Don't request anything with a key change; I've only got the three strings and they're tired."
-  - *Business:* "I've drunk with them two years. I know what they are. I'd like you to hear the whole of it before you write anything down."
+  - *Business:* "I've drunk with them two years. I know what they are. I'd like anyone judging them to hear the whole of it first."
   - *Under pressure:* "Shit. Keep your voice down and keep smiling. Half this room is listening and the other half's pretending not to."
-
 ---
 
 ### Bonnie
