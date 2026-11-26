@@ -6,7 +6,7 @@ Game mechanics for running Bregan D'aerthe as both a player faction and a villai
 
 Jarlaxle's purpose in Waterdeep is intelligence — what the city's power structure looks like from the inside, which Masked Lords carry real weight with the Lords' Alliance council, and what it would take to buy Luskan a seat at that table. The half-million dragons in Neverember's vault are a welcome side opportunity. The political picture is the actual mission.
 
-Rather than competing with Xanathar or Manshoon for the Stone, Jarlaxle already holds Eye #3, aboard the *Scarlet Marpenoth* and mounted beneath the *Eyecatcher*'s keel, and is content to let the other factions exhaust themselves chasing each other. His asset inside Xanathar's organization — **Nar'l Xibrindas**, a drow mage who serves as the beholder's advisor and reports to Jarlaxle by *Sending* spell — keeps him informed of the Guild's movements. The Sea Maidens Faire parades give him cover to move personnel and materials through any ward without scrutiny.
+Jarlaxle already holds Eye #3, aboard the *Scarlet Marpenoth*, and he moves on the other Eyes before the other factions consolidate. His asset inside Xanathar's organization — **Nar'l Xibrindas**, a drow mage who serves as the beholder's advisor and reports to Jarlaxle by *Sending* spell — keeps him informed of the Guild's movements. The Sea Maidens Faire parades give him cover to move personnel and materials through any ward without scrutiny.
 
 The vault itself, a way to open the Stone without all three Eyes, and leverage over Waterdeep's nobility independent of the carnival's goodwill — those are the gaps the party can fill, provided Jarlaxle decides to cultivate them.
 

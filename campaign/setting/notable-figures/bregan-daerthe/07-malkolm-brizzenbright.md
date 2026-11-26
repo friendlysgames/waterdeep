@@ -31,7 +31,7 @@ Those who stop to talk find a fussy, proud old manager who is anxious about the 
 
 ## Connections
 
-Malkolm answers to nobody. He dislikes the theater's owner, the false "Rongquan Mystere" (**Jarlaxle Baenre / "Zardoz Zord"**), and the drow who use his dressing room. He also clashes with the booking manager **Krebbyg Masq'il'yr**, who runs the house as "Kreb Sorrush" and wants to run it without the ghost interfering. His daughter is the one person he wants to hear about `[design]`.
+Malkolm answers to nobody. He dislikes the theater's owner, the false "Rongquan Mystere" (**Jarlaxle Baenre**), and the drow who use his dressing room. He also clashes with the booking manager **Krebbyg Masq'il'yr**, who runs the house as "Kreb Sorrush" and wants to run it without the ghost interfering. His daughter is the one person he wants to hear about `[design]`.
 
 ## Overview
 
@@ -53,12 +53,12 @@ Malkolm Brizzenbright is the ghost of the Seven Masks Theater in the Dock Ward, 
 
 - **Sound:** A reedy, theatrical, hollow voice with an actor-manager's diction, and a hiss when someone projects poorly.
 - **Sentence shape:** Long, aggrieved, theatrical complaints full of stage terminology. When someone finally listens, he gets eager and specific.
-- **Word choice:** Old theatre vocabulary: "the house", "blocking", "my stage", "philistines". He calls the drow "the new management" with disdain.
+- **Word choice:** Old theater vocabulary: "the house", "blocking", "my stage", "philistines". He calls the drow "the new management" with disdain.
 - **Swearing:** *Stingy · Euphemist · Clipped.* Old-fashioned and prim ("Blasted", "confounded"), then one real "damn them" he's proud of.
 - **Personality in speech:** Proprietary outrage and anxiety. He's specific about grievances: the drow who come and go at irregular hours, the dressing room they use, the false name on the playbills. He's thrilled when anyone takes him seriously.
-- **Quirks:** He critiques the party's diction. He moves props to make a point. He sighs dramatically.
+- **Quirks:** He critiques visitors' diction. He moves props to make a point. He sighs dramatically.
 - **Signature phrases:** "My stage!" / "Project, for pity's sake!" / "Finally, someone who listens."
-- **Never:** He never lets bad acting pass, never leaves the theatre, and never believes "Rongquan Mystere".
+- **Never:** He never lets bad acting pass, never leaves the theater, and never believes "Rongquan Mystere".
 - **Sample lines:**
   - *Greeting:* "You there! Project! I can't hear you from the gallery, and I've no body, so that's saying something."
   - *Business:* "There are drow in my dressing room at all hours, and a man on the playbills whose name is no more real than I am alive."
@@ -101,7 +101,7 @@ Malkolm Brizzenbright is the ghost of the Seven Masks Theater in the Dock Ward, 
 - **Bregan D'aerthe** (Factions Guide): the Seven Masks Theater outpost, response teams, escalation, revelation list
 - **Bregan D'aerthe** (Organizations): the company's lore and Malkolm's Key Members line
 - **Dock Ward** (Gazetteer): the Seven Masks Theater
-- **Jarlaxle Baenre / "Zardoz Zord"**, **Krebbyg Masq'il'yr** and **Soluun Xibrindas** (Notable Figures): the owner behind "Rongquan Mystere", the booking manager and the killer in the audience
+- **Jarlaxle Baenre**, **Krebbyg Masq'il'yr** and **Soluun Xibrindas** (Notable Figures): the owner behind "Rongquan Mystere", the booking manager and the killer in the audience
 - **Faction Outposts**, **Sea Maidens Faire** (Quests): where Malkolm appears in play
 - **The Theater's Back Room** (Bregan D'aerthe mission): the mission that features him
 
@@ -125,7 +125,7 @@ Malkolm Brizzenbright is the ghost of the Seven Masks Theater in the Dock Ward, 
 > - **Conflicts:** Dock Ward citation. `gazetteer/waterdeep/trades-ward.md:248` cites this page's old line 7 for the Dock Ward, but the old line 7 is the "Featured in" line and names no ward. Line 7 now holds the Factions Guide bullet.
 > - **Routed to quests:** The testimony. "A party that treats him with respect earns his testimony" lives in `campaign/structure/arc-e-faction-outposts.md:335` and `:451` (Three Clue Rule path to the Faire) and `arc-h-sea-maidens-faire.md:335`, pending the **Faction Outposts** and **Sea Maidens Faire** journals. The scene with him at the foot of the gallery stair lives in `campaign/quests/faction-events/bregan-daerthe/m05-the-theaters-back-room/ev-01-the-theaters-back-room.md` (lines 133 to 142) and `overview.md:38`. The letter in the stage manager's office (`arc-e-faction-outposts.md:333`) is not tied to him and stays in the outpost.
 > - **Changed sentences:** One clause in the verbatim blocks was restated. Resonance: "and useful surprise when his grievance against Jarlaxle turns out to be the intelligence the party needed" became "and useful surprise when his grievance against the new management turns out to be exactly what a visitor needs to know". The change removes the quest payoff and the name "Jarlaxle", because Malkolm does not know who stands behind "Rongquan". The old summary's "Affiliation", "Featured in", Emotions, Motivations, Inspirations, Persona, Morale and Relationships are otherwise unchanged. The old Overview ("The founding ghost ... dead for over thirty years — anxious about the new management, specific in his grievances, and waiting for someone worth telling.") ran 28 words with an em-dash and became three sentences of 21 words or fewer.
-> - **Voice:** Moved from `.claude/skills/character-voices/voices/bregan-daerthe.md` (Malkolm, lines 134-148). Changed here and needed in the profile: Personality in speech lost "the machinery in the basement, the secret door he didn't build, the handwriting that isn't Tethyrian" and now reads "the drow who come and go at irregular hours, the dressing room they use, the false name on the playbills", and the Business line "There is a machine in my basement, Lantanese, hideous, and a door I never built, and a man whose handwriting is no more Tethyrian than I am alive." became "There are drow in my dressing room at all hours, and a man on the playbills whose name is no more real than I am alive." The removed claims are the machinery, the secret door and the handwriting that `gazetteer/waterdeep/dock-ward.md:306` says were invented and removed. The tagline, Sound, Sentence shape, Word choice, Swearing, Quirks, Signature phrases, Never, Greeting and Under pressure lines are unchanged. "He critiques the party's diction" is an encounter habit with no source and stays.
+> - **Voice:** Moved from `.claude/skills/character-voices/voices/bregan-daerthe.md` (Malkolm, lines 134-148). Changed here and needed in the profile: Personality in speech lost "the machinery in the basement, the secret door he didn't build, the handwriting that isn't Tethyrian" and now reads "the drow who come and go at irregular hours, the dressing room they use, the false name on the playbills", and the Business line "There is a machine in my basement, Lantanese, hideous, and a door I never built, and a man whose handwriting is no more Tethyrian than I am alive." became "There are drow in my dressing room at all hours, and a man on the playbills whose name is no more real than I am alive." The removed claims are the machinery, the secret door and the handwriting that `gazetteer/waterdeep/dock-ward.md:306` says were invented and removed. The tagline, Sound, Sentence shape, Word choice, Swearing, Quirks, Signature phrases, Never, Greeting and Under pressure lines are unchanged. "He critiques the party's diction" is an encounter habit with no source; it now reads "He critiques visitors' diction", and "theatre" is spelled "theater" in Word choice and Never. The skill's profile needs the same three changes.
 > - **Design:** Each `[design]` sentence, so it can be reviewed or struck.
 >   - Background, origin: a family of players on the coast road; prompting from the wings by ten; a middling actor and a very good manager; arrival by ship with six players and a trunk of masks; seven stock masks as the source of the theater's name; the Dock Ward chosen because sailors watch to the end, and free entry for crews so the house is never empty.
 >   - Background, family and death: a wife who kept the box office and sewed costumes and died of a winter fever; one daughter raised in the wings; his own dressing room; the play he never staged; his death of a lung fever in that room with the last act unfinished; the debts, the sale and the daughter leaving with a touring company.

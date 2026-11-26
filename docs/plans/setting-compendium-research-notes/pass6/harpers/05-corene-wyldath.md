@@ -60,16 +60,16 @@ Context: "four months" appears in the gazetteers, the quest files and the page's
 > "- A plaza with a public well and benches, where the ward's water-carriers fill their barrels. A halfling woman called Halla sits on the west bench by the well every day from 16:00 to 16:30."
 > — `campaign/gazetteer/waterdeep/trades-ward.md:80` (header "**The Trades Ward Plaza** — Public square with a well" at `:79`)
 
-> "All three leads end at the same place, the west bench by the public well in the Trades Ward plaza. Corene sits there every day from 16:00 to 16:30 to meet contacts."
-> — `campaign/quests/faction-events/harpers/m05-the-sleeping-asset/ev-01-the-sleeping-asset.md:69` (the second sentence is the routine; the first is the quest's three leads)
+> "All three leads end at the same place, the west bench by the public well in the Trades Ward plaza. Corene sits there every day from 16:00 to 16:30 to meet contacts. Each lead gives the place and the time without a check once the members ask about a halfling woman named Halla."
+> — `campaign/quests/faction-events/harpers/m05-the-sleeping-asset/ev-01-the-sleeping-asset.md:69` (the three sentences are the quest's lead mechanic; the routine is the second)
 
 ### A4. Harper identity and the pin
 
-> "- **Anchors.** Corene's anchors are her Harper pin, the name \"Halla Ironstave\" spoken as a question, and Dalen Voss if **Salon Guest Leads Recorded** is marked and the party carries Saeth Cromley's account."
-> — `campaign/quests/faction-events/harpers/m05-the-sleeping-asset/ev-02-the-extraction.md:93` (the rest of the bullet covers how the anchors work in play: "A helper who is the anchor has Advantage, a stranger shouting has Disadvantage, and lying does not work.")
+> "- **Anchors.** Corene's anchors are her Harper pin, the name \"Halla Ironstave\" spoken as a question, and Dalen Voss if **Salon Guest Leads Recorded** is marked and the party carries Saeth Cromley's account. A helper who is the anchor has Advantage, a stranger shouting has Disadvantage, and lying does not work."
+> — `campaign/quests/faction-events/harpers/m05-the-sleeping-asset/ev-02-the-extraction.md:93` (the bullet is quest-register mechanics for the extraction)
 
-> "**The symbol:** Their symbol — a silver harp cradled within a crescent moon — is known across the continent, though most Harper operatives are careful never to display it openly."
-> — `campaign/setting/organizations/01-harpers.md:66` (the line continues: "The wiki sets the harp and moon on a field of black or royal blue and says Harpers carry a silver pin, the badge of membership, and wear it only where they want to be recognized (Forgotten Realms Wiki, *Harpers*, edition not stated).")
+> "**The symbol:** Their symbol — a silver harp cradled within a crescent moon — is known across the continent, though most Harper operatives are careful never to display it openly. The wiki sets the harp and moon on a field of black or royal blue and says Harpers carry a silver pin, the badge of membership, and wear it only where they want to be recognized (Forgotten Realms Wiki, *Harpers*, edition not stated)."
+> — `campaign/setting/organizations/01-harpers.md:66`
 
 ### A5. Who she reports to and who she knows
 
@@ -125,7 +125,7 @@ Named contacts in the sources (none is her handler in a day-one line):
 
 > "Corene uses the **Spy** stat block while the custom **Occupying Devourer** rides her." — `campaign/quests/faction-events/harpers/m05-the-sleeping-asset/overview.md:10` (the rest of the paragraph covers the guild minders and the Harpers Mechanics Reference)
 
-> "Corene uses the **Spy** stat block, Small, with 27 hit points. The devourer inside her has Total Cover, so spells and attacks that target it fail and damage goes to the host." — `campaign/quests/faction-events/harpers/m05-the-sleeping-asset/ev-02-the-extraction.md:68` (the rest of the paragraph covers the devourer's own ability scores and attacks; the 27 HP is a quest-time mechanic, and the page needs only "Spy")
+> "Corene uses the **Spy** stat block, Small, with 27 hit points. The devourer inside her has Total Cover, so spells and attacks that target it fail and damage goes to the host." — `campaign/quests/faction-events/harpers/m05-the-sleeping-asset/ev-02-the-extraction.md:68` (rest of the paragraph covers: "It keeps its own Intelligence, Wisdom and Charisma and uses the host's attacks."; the 27 HP is a quest-time mechanic, and the page needs only "Spy")
 
 Planning document, not a campaign file, for the stat block row (`docs/plans/harpers-mechanics-reference.md:573`): "| Spy (Vell, Corene, Jalester, Perrin Valt, residents, field agents) | **Spy** | 1 | XMM p.295. |"
 
@@ -142,8 +142,8 @@ Current page: `campaign/setting/notable-figures/harpers/05-corene-wyldath.md`. E
 | 1 | L5 | "- *Halfling spy (compromised), neutral good, she/her*. Stat block: **Spy**." | The label "(compromised)" is a state; its day-one status is disputed (D1). Species, pronouns, alignment and stat block are day-one (B). | D1 sources |
 | 2 | L7 | "- **Featured in:** **The Sleeping Asset**, **A Friend's House**" | Quest-name list. "A Friend's House" has no Corene scene; the one mention is Dalen Voss at `m04-a-friends-house/ev-01-the-salon.md:206`. See D3. | `m05 overview.md:5`; `m04 ev-01-the-salon.md:206` |
 | 3 | L11 | "**Resonance.** Corene should inspire respect for the courage her deep-cover work required; growing dread as the party notices the subtle wrongness in her recent reports; and genuine sympathy when they understand she may not know she is compromised." | The first clause is day-one. The second and third clauses ("the party notices", "when they understand") narrate a quest discovery. | `m05 ev-01:7` ("Hear Mirt's brief about Corene"), `ev-01:10` ("Talk to Corene and find out, by several separate methods, that something rides in her skull."), `ev-01:151` (the five ways to find out) |
-| 4 | L13 | "**Emotions.** ... genuine loyalty to the Harpers that the intellect devourer is slowly erasing, and the particular exhaustion that looks like calm." | State (see D1). | `m05 overview.md:25` ("She is aware and cannot act") |
-| 5 | L15 | "**Motivations.** ... The intellect devourer's goals diverge: map Harper operations, identify the network, and avoid detection." | State (see D1). Matches the quest's reading of the devourer's aims. | `m05 ev-01:19` ("Her questions have changed to who, where and how many Harpers.") |
+| 4 | L13 | "**Emotions.** Corene most often feels methodical field-operative focus, a growing gap between what she reports and what she intended to say, genuine loyalty to the Harpers that the intellect devourer is slowly erasing, and the particular exhaustion that looks like calm." | State (see D1). The "genuine loyalty ... slowly erasing" clause describes a devourer already in place. | `m05 overview.md:25` ("She is aware and cannot act") |
+| 5 | L15 | "**Motivations.** Corene wants to maintain her cover, extract meaningful intelligence, and survive. The intellect devourer's goals diverge: map Harper operations, identify the network, and avoid detection." | State (see D1). The devourer clause matches the quest's reading of its aims. | `m05 ev-01:19` ("Her questions have changed to who, where and how many Harpers.") |
 | 6 | L21 | "To those who pay attention, something shifted three weeks ago; her reports are still accurate, but she is asking different questions." | The time anchor is disputed (D1). "Asking different questions" matches `trades-ward.md:130`. | `trades-ward.md:130`; `m05 overview.md:21` |
 | 7 | L21 | "She carries Nihiloor's Occupying Devourer, a custom variant that keeps her mind intact, so she can be freed if the devourer is forced out." | State. "Occupying Devourer" is a custom block named in the quest files (`m05 overview.md:10`; `m05 design-notes.md:9`) and in the planning doc (`docs/plans/harpers-mechanics-reference.md:243`). | `m05 overview.md:25` |
 | 8 | L21 | "The devourer is careful not to leave gaps large enough to trigger an alert." | No line matches. Nearest: "The devourer must not be alerted, so *Detect Thoughts* and accusations spoil it and the Hosted Corene fight begins." (`m05 ev-02-the-extraction.md:130`). Quest-time register. | `m05 ev-02:130` |
@@ -203,7 +203,6 @@ The Dock Ward line says she "lives in the ward"; the Field Ward line and the que
 **D3. "Featured in: A Friend's House".**
 > "- **Featured in:** **The Sleeping Asset**, **A Friend's House**" — `campaign/setting/notable-figures/harpers/05-corene-wyldath.md:7`
 > "His missing officer is Dalen Voss, who was Corene Wyldath's contact in the Watch. Saeth does not know that, and the party cannot learn it here." — `campaign/quests/faction-events/harpers/m04-a-friends-house/ev-01-the-salon.md:206`
-
 Corene appears in `m04 A Friend's House` only as the named contact of Dalen Voss. No scene features her. Her other quest appearances are in `m05` and in the Force Grey debrief (C).
 
 **D4. Her Harper pin.** No conflict. "her Harper pin" is in `m05 ev-02:93` only. Her Notable page does not mention a pin.
@@ -234,7 +233,7 @@ The Sleeping Asset (`campaign/quests/faction-events/harpers/m05-the-sleeping-ass
 
 Factions Guide mission row: `campaign/guides/factions/02-harpers.md:72` ("| 6th | **The Sleeping Asset** | Find and rescue Harper informant Corene Wyldath, missing three weeks from her post inside Xanathar's Dock Ward operation. An intellect devourer rides her. The members also expose the mole in the Harper records. | +4 |").
 
-Xanathar's Lair hook: `campaign/guides/factions/02-harpers.md:31` ("Mirt wants Nihiloor dead — the mind flayer's intellect devourers have touched three Harper assets."). It counts the hosts without naming Corene.
+Xanathar's Lair hook: `campaign/guides/factions/02-harpers.md:31` ("| **Xanathar's Lair** | Mirt wants Nihiloor dead — the mind flayer's intellect devourers have touched three Harper assets. ..."). It counts the hosts without naming Corene. (The row continues: "He offers tactical support for the Xanathar lair heist if the party commits to eliminating Nihiloor. Nihiloor always escapes, so the support rests on a real attempt, not a kill.")
 
 Force Grey: `campaign/quests/faction-events/force-grey/m05-the-legates-eyes/ev-01-the-legates-eyes.md:154`, `:160`; `design-notes.md:17`.
 

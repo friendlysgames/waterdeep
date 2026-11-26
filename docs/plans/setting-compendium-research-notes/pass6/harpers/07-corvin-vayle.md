@@ -178,7 +178,7 @@ The page is Ches 1. Each row gives the status and where the fact already lives.
 **D3. What Corvin passes to the party**
 - Trollskull guide (campaign): "Corvin passes one piece of Harper network intelligence/tenday if party is Harper-affiliated or asks." — `campaign/guides/trollskull-manor/03-staff-and-hiring.md:58`
 - Appendix D (Alexandrian): "If the characters are Harper-affiliated, this connection unlocks a minor information channel — Corvin can carry messages for them at no cost and will occasionally bring back relevant street intelligence." — `sources/Appendix_D_-_Running_the_Tavern.md:306`
-- Higher rank: campaign (guide). "One piece per tenday" is a mechanic and does not belong in a Background. The org page gives the "one piece" line to Variel, not to Corvin: "Variel Duskwhisper ... passes one piece of network intelligence per tenday" (`campaign/setting/organizations/01-harpers.md:103`).
+- Higher rank: campaign (guide). "One piece per tenday" is a mechanic and does not belong in a Background. The org page gives the "one piece" line to Variel, not to Corvin. The full line: "- **Variel Duskwhisper** — Wood elf bard; Harper courier operating under touring musician cover; passes one piece of network intelligence per tenday. See the **Variel Duskwhisper** page in Notable Figures." (`campaign/setting/organizations/01-harpers.md:103`)
 
 **D4. Name collisions (not this figure)**
 - `sources/Act_III_Arc_E.md:89`: "| G2 — Yard | **Corvin** (Servant/Gardener) |"
