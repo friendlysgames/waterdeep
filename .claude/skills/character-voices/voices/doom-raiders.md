@@ -107,7 +107,6 @@ The Doom Raiders are retired adventurers turned Zhentarim cell, and they still t
   - *Business:* "Two on the roof. One in the alley. Mine."
   - *Under pressure:* "Go. I'll hold them."
   - *With Fala:* "The garden looks good this year. You should rest more."
-
 ---
 
 ### Senna Vael
