@@ -113,17 +113,16 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 
 - **Sound:** A deep, gravelly, tired voice, slow and deliberate.
 - **Sentence shape:** Measured sentences that circle the point, and conditional offers ("If I had something, and I'm not saying I do…").
-- **Word choice:** Lawyer-ish criminal caution: immunity, "in writing", "a signed release". He calls interrogators "friend" with heavy irony.
+- **Word choice:** Lawyer-ish criminal caution: immunity, "in writing", "a signed pardon". He calls interrogators "friend" with heavy irony.
 - **Swearing:** *Casual · Plain · Phrase.* Worn and casual ("I've had ten years of shit. Yours is small.").
 - **Personality in speech:** Calculating, evasive and exhausted. He's contemptuous of threats and says so calmly. He gives a little to show he has more.
 - **Quirks:** He taps the table for "in writing". He answers every question with the price of answering.
 - **Signature phrases:** "In writing." / "I'm not saying I do." / "Threats are slow, friend. Deals are fast."
-- **Never:** He never reveals the Stone's location without immunity, never raises his voice, and never trusts a promise that isn't signed.
+- **Never:** He never gives away what he knows about the messages without immunity, never raises his voice, and never trusts a promise that isn't signed.
 - **Sample lines:**
   - *Greeting:* "Lamplighter. Retired from the other thing. What do you want, friend?"
-  - *Business:* "Signed release from a magister or a Lord, in writing, and I'll draw you a map. Not before."
-  - *Under pressure:* "Go ahead. Then nobody gets it. Threats are slow, friend."
-
+  - *Business:* "Immunity from a magister or a Lord, in writing, and I'll tell you where the messages go. Not before."
+  - *Under pressure:* "Go ahead. Then you get nothing. Threats are slow, friend."
 ---
 
 ### Malkolm Brizzenbright
