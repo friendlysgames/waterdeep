@@ -164,17 +164,16 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 
 - **Sound:** A smooth, cultured Calishite accent that slips, now and then, into a colder, more precise drow cadence.
 - **Sentence shape:** Polite, economical merchant's small talk. She asks perfectly ordinary questions that are each part of a profile.
-- **Word choice:** The cloth trade (weaves, dyes, shipping delays) and polished courtesy. She calls the party "honoured friends", as a merchant would.
+- **Word choice:** The cloth trade (weaves, dyes, shipping delays) and polished courtesy. She calls strangers "honoured friends", as a merchant would.
 - **Swearing:** *Stingy · Plain · Clipped.* None in cover. In private, one cold drow curse.
-- **Personality in speech:** Analytical detachment. She reads a room without being read. Her curiosity about the party shows in one question too many about their fights.
+- **Personality in speech:** Analytical detachment. She reads a room without being read. Her curiosity shows in one question too many about the fights of anyone who goes down the well.
 - **Quirks:** She never drinks from her glass. She compliments fabric while clearly looking at the wearer's weapons.
 - **Signature phrases:** "Negotiations are slow." / "Honoured friends." / "What a fascinating evening."
 - **Never:** She never takes notes in public, never drinks, and never admits to being anything but a merchant.
 - **Sample lines:**
-  - *Greeting:* "Good evening, honoured friends. Forgive me, I couldn't help noticing the troll. Such an eventful place."
+  - *Greeting:* "Good evening, honoured friends. Forgive me, I couldn't help noticing your gear. Such an eventful place."
   - *Business:* "Cloth, mostly. Silks from Calimport. And you? You fight for coin, or for something else?"
   - *Under pressure:* (the accent drops away completely) "Sit down. You're making a scene, and I dislike scenes."
-
 ---
 
 ### Margo Verida
@@ -192,7 +191,6 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
   - *Greeting:* "You look like people with a story. Sit, I'll play something, and you can decide whether to tell it."
   - *Business:* "I'll pass it to him. But I'll tell him what I think of you too, so be honest."
   - *Under pressure:* "Put that down, darling. I've ended better fights than this with a lute."
-
 ---
 
 ### Khafeyta Murzan
