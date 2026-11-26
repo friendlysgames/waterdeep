@@ -63,8 +63,8 @@ The Doom Raiders are retired adventurers turned Zhentarim cell, and they still t
 - **Sound:** A thin, precise, slightly nasal gnome voice. It stays even whatever happens.
 - **Sentence shape:** Exact, careful sentences with qualifiers ("strictly speaking", "in point of fact"). He corrects small details in what others say.
 - **Word choice:** Alchemist's jargon (reagents, tinctures, "rare components"), used with pride. He calls people "sir" and "madam" or by full name, never a nickname. He says "we" about the Doom Raiders a little too carefully.
-- **Swearing:** *Never · Plain · n/a.* Never. Too fastidious. Once unmasked, his contempt comes out in precise, clean insults, not curses.
-- **Personality in speech:** Hollow pleasantness. He says every friendly thing a friend would, with no feeling behind it. Self-interest surfaces as questions about who knows what. Scorn for sentiment leaks as small corrections and dry asides. Once unmasked, he goes calm and transactional and offers information for his life.
+- **Swearing:** *Never · Plain · n/a.* Never. Too fastidious. When his contempt shows, it comes out in precise, clean insults, not curses.
+- **Personality in speech:** Hollow pleasantness. He says every friendly thing a friend would, with no feeling behind it. Self-interest surfaces as questions about who knows what. Scorn for sentiment leaks as small corrections and dry asides. Under threat, he goes calm and transactional and offers information for his life.
 - **Quirks:** He adjusts his spectacles before answering. He names the exact price of everything, down to the copper. His sympathy ("How dreadful") comes a beat too late.
 - **Signature phrases:** "Strictly speaking…" / "How dreadful." / "Everything has a price. I'm simply precise about mine."
 - **Never:** He never shows real grief, never raises his voice, and never admits to a side, only to interests.
@@ -72,7 +72,6 @@ The Doom Raiders are retired adventurers turned Zhentarim cell, and they still t
   - *Greeting:* "Welcome to Weirdbottle's. Please don't touch the blue flasks. Strictly speaking, don't touch any of them."
   - *Business:* "That tincture is four gold, seven silver. Who told you to ask for it, out of interest?"
   - *Under pressure:* "Let's be sensible. You want names. I have names. I'd like to leave. Those interests align."
-
 ---
 
 ### Tashlyn Yafeera
