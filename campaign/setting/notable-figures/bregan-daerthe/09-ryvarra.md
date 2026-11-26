@@ -78,7 +78,6 @@ Ryvarra is a Calimshan cloth merchant who takes her evening wine at a reserved t
 > [!gamemaster]**Secret**
 >
 > - Ryvarra reports to Jarlaxle Baenre, and the cloth merchant is a cover. The tells are the untouched glass, the lack of notes and an accent that slips (DC 14 Insight).
-> - What happens when the party identifies her lives in **Trollskull Alley** and the **Bregan D'aerthe First Meeting** event.
 
 **Tone:** Plain and procedural in the GM text, with a dry, gentle humor about the untouched glass and the polite merchant's talk in Personality and the Overview. The narrator treats her patience and her mother's weave as real and does not mock them.
 
