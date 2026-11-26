@@ -82,17 +82,16 @@ The Harpers mostly sound like people pretending to be someone else: a moneylende
 
 - **Sound:** A low, even halfling voice, quiet enough to lean in for. She shows no emotion, and the calm has an exhausted edge.
 - **Sentence shape:** Short, complete reporting sentences: fact, fact, assessment. She asks few questions. Lately, the ones she does ask are about Harper operations rather than the target.
-- **Word choice:** Field-report precise: times, streets, counts. She uses Harper cant correctly and a little too often. She calls the party by role ("the new cell") before she uses their names.
+- **Word choice:** Field-report precise: times, streets, counts. She uses Harper cant correctly and a little too often. She calls the people she meets by role ("the contact") before she uses their names.
 - **Swearing:** *Stingy · Plain · Clipped.* Never. She's too controlled. When the real Corene surfaces, the first thing out might be a single raw "fuck" before she snaps back.
 - **Personality in speech:** Her loyalty sounds perfect. The intellect devourer shows as a gap: her curiosity drifts to who, where and how many Harpers there are, and she deflects personal questions a beat too smoothly. Now and then, briefly, the real Corene surfaces as a hesitation, an unfinished sentence, a question she seems to regret.
 - **Quirks:** She stops mid-sentence and resumes as if nothing happened. She repeats a report back word for word when asked to confirm it. She never sits with her back to a door.
 - **Signature phrases:** "Confirmed." / "Who else is on this?" / "I'm fine. Next question."
 - **Never:** She never jokes, never volunteers feelings, and never admits a gap in her memory.
 - **Sample lines:**
-  - *Greeting:* "You're the contact. Good. We have ten minutes before the shift change."
-  - *Business:* "Two shipments this tenday, both through the Mistshore warehouse. Who's your handler now? I should know who's reading this."
+  - *Greeting:* "You're the contact. Good. We have until half past four."
+  - *Business:* "Two shipments this tenday, both through the same yard. Who's reading this? I should know."
   - *Under pressure:* "I don't — that isn't — I'm fine. Ask me again. Ask me again slowly."
-
 ---
 
 ### Variel Duskwhisper
