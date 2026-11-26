@@ -13,13 +13,13 @@
 
 ## Background
 
-Nessa Vayle is an Illuskan human server and the twin sister of **Corvin Vayle**. She grew up in a city and learned early to pay attention to the people around her (*Running the Tavern*, Alexandrian Appendix D). Since she was sixteen she has worked bars in pairs with Corvin, and she takes the floor while he handles the back and the cellar (*Running the Tavern*, Alexandrian Appendix D; **Staff and Hiring**). She and Corvin hire out together for ten gold pieces a tenday between them. They need the combined wage to afford their rent in the North Ward (*Running the Tavern*, Alexandrian Appendix D).
+Nessa Vayle is an Illuskan human server and the twin sister of **Corvin Vayle**. She grew up in a city and learned early to pay attention to the people around her (*Running the Tavern*, Alexandrian Appendix D). Since she was sixteen she has worked bars in pairs with Corvin, and she takes the floor while he handles the back and the cellar (*Running the Tavern*, Alexandrian Appendix D; **Staff and Hiring**). She and Corvin hire out together for ten gold pieces a tenday between them, and she needs the combined wage to help pay their rent in the North Ward (*Running the Tavern*, Alexandrian Appendix D).
 
 Nessa was born in Waterdeep on the same day as Corvin, into an ordinary family that neither of them names `[design]`. As a child she did the talking while he did the watching, and she has never settled with him which of the two came first `[design]`. Their first bar work was clearing tables in a taproom whose owner let Nessa keep the tab book, because she could add a column faster than he could `[design]`. When the owner died two years later, his heirs sold the taproom, and she and Corvin never saw the three months of wages that he owed them `[design]`. Since then Nessa has asked for her pay at the end of every shift, and she has walked out of two posts that would not give it `[design]`.
 
 Nessa asked Corvin once what his errands were, and his answer satisfied her, so she has not asked again. She decided that a person who does not know a thing cannot be made to say it, and she has kept to that rule since `[design]`. She sees him slip away with something folded in his hand, because she sees everything that crosses a bar, and she looks at the next table `[design]`.
 
-The bar where the twins last worked changed owners at the end of winter, and the new owner brought his own staff `[design]`. On Ches 1, 1492 DR Nessa is between posts, and she and Corvin take shifts where they find them and look for a post they can keep. They share one room in the North Ward `[design]`, and they are listed among the server candidates for Trollskull Manor (**Staff and Hiring**).
+Nessa lost her last post with Corvin when the bar changed owners at the end of winter and the new owner brought his own staff `[design]`. On Ches 1, 1492 DR Nessa is between posts, and she and Corvin take shifts where they find them and look for a post they can keep. She shares one room in the North Ward with Corvin `[design]`, and she is listed beside him among the server candidates for Trollskull Manor (**Staff and Hiring**).
 
 **Personal goals.** Nessa wants a taproom floor of her own to run `[design]`. She means to keep the keys, the tab book and the hiring, with Corvin working the back as he does now, and she puts a few coins from every wage into a tin toward a lease `[design]`. She also wants to read a lease or a wage promise through to the end before she signs it, because the old owner's promise was never written down `[design]`.
 
@@ -52,7 +52,7 @@ Nessa Vayle is a server who hires out as a pair with her twin brother, Corvin. S
 - **Sound:** A quick, bright voice, nearly identical to her twin's and always slightly overlapping his. Corvin is a touch lower and slower. Nessa is louder.
 - **Sentence shape:** Short, rapid back-and-forth: one says something, and the other contradicts or corrects it. Alone, each speaks in normal, efficient sentences.
 - **Word choice:** Service slang and sibling insults: tables, orders, "your side", "my side". They refer to each other in the third person while standing side by side ("He's wrong." / "She's always saying that.").
-- **Swearing:** *Punctuation · Colourful · Rant.* Constant, affectionate sibling swearing ("piss off", "you absolute shit"), always at each other and never at customers.
+- **Swearing:** *Punctuation · Colorful · Rant.* Constant, affectionate sibling swearing ("piss off", "you absolute shit"), always at each other and never at customers.
 - **Personality in speech:** Their competition is affection. When one is praised, the other claims half of it. Nessa's incuriosity is loud and deliberate ("Not asking. Don't care.").
 - **Quirks:** Constant correction ("Three ales." / "Two ales and a cider.").
 - **Signature phrases:** Nessa: "Not asking." / Both: "Package deal."
@@ -70,7 +70,7 @@ Nessa Vayle is a server who hires out as a pair with her twin brother, Corvin. S
 
 **Relationships.** Corvin and Nessa Vayle are a package hire for the tavern staff and Trollskull Manor server candidates detailed in the **Trollskull Manor** guide. Corvin's courier role would make any tavern where they work a minor Harper waypoint. Her twin brother is **Corvin Vayle**.
 
-**Tone:** Plain and procedural in the GM text, with a dry, light humour about the bickering in Personality and the Overview. The narrator treats Nessa's choice not to ask about her brother's errands as ordinary good sense.
+**Tone:** Plain and procedural in the GM text, with a dry, light humor about the bickering in Personality and the Overview. The narrator treats Nessa's choice not to ask about her brother's errands as ordinary good sense.
 
 ---
 
