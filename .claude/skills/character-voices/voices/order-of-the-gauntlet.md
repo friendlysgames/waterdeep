@@ -14,10 +14,9 @@
 - **Signature phrases:** "I'll tell you plainly." / "That's not good enough." / "Ask me. I'll answer."
 - **Never:** She never softens a truth, never boasts, and never claims knowledge she lacks.
 - **Sample lines:**
-  - *Greeting:* "Savra Belabranta, Order of the Gauntlet. I'll tell you plainly what I want from you, and you can say no."
-  - *Business:* "Something in this city is rotten behind a pious face. I can't prove it yet. I'd like your help."
+  - *Greeting:* "Savra Belabranta, Order of the Gauntlet. Ask me what you like, and I'll tell you plainly."
+  - *Business:* "Something in this city is rotten behind a pious face. I can't prove it yet, and I need paper a magistrate would read."
   - *Under pressure:* "Behind me. I've faced worse than this, and I was on the wrong side of it then."
-
 ---
 
 ### Sister Valdra
