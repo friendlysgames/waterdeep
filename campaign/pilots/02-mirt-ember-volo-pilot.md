@@ -6,7 +6,7 @@
 - Ancestry: Human
 - Known for: Patient loans, a famous table, lectures on architecture
 
-Mirt, called the Old Wolf, is a moneylender of the Castle Ward and the closest advisor of Open Lord Laeral Silverhand. He is a man of great girth, with a grey beard trimmed without much care and small sharp eyes. He is said to have been a mercenary general of the North before he took to lending. I have called at his mansion three times and been told he was out (the porter was polite, and I took the hint).
+Mirt, called the Old Wolf, is a moneylender and the closest advisor of Open Lord Laeral Silverhand. He is a man of great girth with small sharp eyes. He is said to have been a mercenary general of the North before he took to lending. I have called at his mansion three times and been told he was out (the porter was polite, and I took the hint).
 
 > *Mirt is also a Masked Lord of Waterdeep, Volo, and with Remallia Haventree he leads the Waterdeep Harpers. New members meet him first.*
 >
@@ -14,7 +14,7 @@ Mirt, called the Old Wolf, is a moneylender of the Castle Ward and the closest a
 
 ### Personality
 
-Dear reader, the Old Wolf is loud by trade. He spends his days on politics and his nights on drink, he roars with laughter, and he is vulgar on purpose. I was fed at his table once and rate the duck five tankards and the company two daggers. His generosity has strings, and he does not hide them, since a loan from Mirt is repaid in favors more often than in coin. Ask about his past and you will get a joke. Ask about buildings and you will get an evening, for he reads a house by its plan, and I took nine pages of notes.
+Dear reader, the Old Wolf is loud by trade. He spends his days on politics and his nights on drink, he roars with laughter, and he is vulgar on purpose. I was fed at his table once and rate the duck five tankards and the company two daggers. His generosity has strings, since a loan from Mirt is repaid in favors more often than in coin. Ask about buildings and you will get an evening, for he reads a house by its plan, and I took nine pages of notes.
 
 ### Connections
 
@@ -26,13 +26,13 @@ Mirt and Durnan, who keeps the Yawning Portal, are said to have gone down the We
 
 Rumor, and I stress rumor, has him receiving Harpers at dinner in a manor in the Sea Ward. He has never said a word against the Cassalanters, a rare restraint in Waterdeep.
 
-> *He has no proof, Volo, and so he says nothing. Mirt has kept a dossier on the Cassalanters for two years and suspects their money stood behind the Howling Hatred cult. He is also hunting a leak in his own cell, and he has not found Tobin Harrask.*
+> *He has no proof, Volo. Mirt has kept a dossier on the Cassalanters for two years and suspects their money stood behind the Howling Hatred cult. He is also hunting a leak in his own cell, and he has not found Tobin Harrask.*
 >
 > *~Elminster*
 
 ## Overview
 
-Mirt is a moneylender of great girth, known across Waterdeep as the Old Wolf and counted as Open Lord Laeral Silverhand's closest advisor. He will lecture on architecture for an evening if anyone gives him the opening, and I recommend giving it.
+Mirt is a moneylender of great girth, known as the Old Wolf and counted as Open Lord Laeral Silverhand's closest advisor. He will lecture on architecture if anyone gives him the opening.
 
 ---
 
