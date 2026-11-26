@@ -23,7 +23,7 @@
 *A disembodied voice in the gardens: few words, each one a verdict.*
 
 - **Sound:** A clear, calm woman's voice that comes from everywhere in the garden at once, with leaves moving when she speaks.
-- **Sentence shape:** One or two short sentences, spaced far apart. Every sentence is complete and final. This is a deliberate break from `ember-voice` speech.
+- **Sentence shape:** One or two short sentences, spaced far apart. Every sentence is complete and final.
 - **Word choice:** Nature and time: seasons, roots, dreaming, balance. Mielikki is "the Lady of the Forest". She names no mortal politics.
 - **Swearing:** *Never · Plain · n/a.* Never.
 - **Personality in speech:** Ancient patience and urgency. Her approval comes through the garden itself: flowers opening, a warm breeze. Her disinterest in the gold is a single dismissal.
