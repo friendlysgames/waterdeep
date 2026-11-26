@@ -109,17 +109,17 @@ The Doom Raiders are retired adventurers turned Zhentarim cell, and they still t
 ---
 
 ### Senna Vael
-*A friendly, attentive tiefling server who remembers everyone's order and asks one or two questions too many.*
+*A friendly, attentive tiefling bartender who remembers everyone's order and asks one or two questions too many.*
 
 - **Sound:** A bright, pleasant voice with a smile in it. It lowers and sharpens slightly when she's actually listening for information.
 - **Sentence shape:** Easy, chatty service talk in medium sentences, with a friendly question tacked on the end of most exchanges.
 - **Word choice:** Tavern-warm: "love", "welcome back", the drink by name. She asks about companions and plans in the tone of small talk.
 - **Swearing:** *Casual · Plain · Phrase.* None on shift. Casual off shift, with the staff.
-- **Personality in speech:** Her warmth is real, and so is her curiosity. The intelligence gathering is in who-sits-with-whom questions. Mild guilt surfaces as extra kindness to the party. If her cover is ever disclosed, she's matter-of-fact about it, with no shame and no drama.
+- **Personality in speech:** Her warmth is real, and so is her curiosity. The intelligence gathering is in who-sits-with-whom questions. Mild guilt surfaces as extra kindness to a patron who has been decent to her. If someone challenges her cover, she's matter-of-fact about it, with no shame and no drama.
 - **Quirks:** She greets regulars with their order. Her "Who's your friend?" sounds like manners. She lingers a moment longer than needed at interesting tables.
 - **Signature phrases:** "The usual?" / "Who's your friend?" / "It's honest work, mostly."
-- **Never:** She never brings up Davil unprompted, never pries about the party directly, and never lies when Davil has told her not to.
+- **Never:** She never brings up Davil unprompted, never pries about a patron directly, and never lies when Davil has told her not to.
 - **Sample lines:**
   - *Greeting:* "Welcome back! Cider for you and the dark for your friend, yes? Who's the new face?"
-  - *Business:* (if disclosed) "Davil asked me to tell you myself. I pass him who comes and goes. Not you, unless you get interesting."
+  - *Business:* (if challenged) "I pass Davil who comes and goes. Not you, unless you get interesting."
   - *Under pressure:* "Everyone, through the kitchen, now, mind the step."
