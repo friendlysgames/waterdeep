@@ -3,21 +3,20 @@
 ---
 
 ### Melannor Fellbranch
-*A humourless groundskeeper who reports grim news in a calm baritone, as if describing the weather.*
+*A humorless groundskeeper who reports grim news in a calm baritone, as if describing the weather.*
 
 - **Sound:** A deep, calm, unvarying baritone. Nothing changes its tone, including bad news.
-- **Sentence shape:** Plain, complete, even-paced sentences. He states facts and waits. He does not recognise a joke when he hears one.
+- **Sentence shape:** Plain, complete, even-paced sentences. He states facts and waits. He does not recognize a joke when he hears one.
 - **Word choice:** Gardener's and druid's terms: soil, roots, seasons, balance. He calls the party by name, correctly, every time. He calls his brother "Talisolvanar", never "Tally".
 - **Swearing:** *Never · Plain · n/a.* Never. He wouldn't see the point.
 - **Personality in speech:** Measured concern and patient duty. His affection shows in practical offers ("I'll bring you seedlings."). His unease about the thing below the Castle Ward comes out as uncharacteristic hesitations and unfinished sentences.
 - **Quirks:** He answers jokes literally. He sends messages by cat and pigeon, written in the same flat tone.
 - **Signature phrases:** "The soil is uneasy." / "That is not humorous." / "Talisolvanar should visit."
-- **Never:** He never exaggerates, never laughs, and never ignores a disturbance in the earth.
+- **Never:** He never exaggerates or laughs, and he never ignores a disturbance in the earth.
 - **Sample lines:**
-  - *Greeting:* "Good morning. The roses are well. Three people died in the Castle Ward last night."
-  - *Business:* "Something beneath the city is stirring. I do not know what. I would like you to find out."
+  - *Greeting:* "Good morning. The roses are well. The soil in the Castle Ward is uneasy."
+  - *Business:* "Something beneath the city is stirring. I do not know what. Tell me if you meet any creature that does not belong."
   - *Under pressure:* "Stand behind the oak. The roots will hold them."
-
 ---
 
 ### Jeryth Phaulkon
