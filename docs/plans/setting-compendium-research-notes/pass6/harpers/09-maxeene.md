@@ -46,7 +46,7 @@ No source gives an age, a birth, a breeding history or a home before Waterdeep. 
 
 > "**Persona.** To the world, Maxeene is a grey roan draft mare with a white blaze, hired out by the day from a Dock Ward stand off Fillet Lane." — `campaign/setting/notable-figures/harpers/09-maxeene.md:21`
 
-> "**Maxeene** works a hire stand off Fillet Lane." — `campaign/gazetteer/waterdeep/dock-ward.md:218` (the same sentence opens "Esloon Bezant sells escort and protection with a crew of five fighters, and")
+> "**Maxeene** works a hire stand off Fillet Lane." — `campaign/gazetteer/waterdeep/dock-ward.md:218` (the same bullet opens "Esloon Bezant sells escort and protection with a crew of five fighters, and")
 
 > "Any character who describes Maxeene to the stablehands and makes a successful DC 12 Charisma (Persuasion) check learns that she stands at the hire stand off Fillet Lane in the afternoons." — `campaign/quests/faction-events/harpers/m01-the-talking-mare/ev-01-the-talking-mare.md:121` (a search check; the stand is a fixed fact, the search is quest time)
 
@@ -71,7 +71,7 @@ No source gives an age, a birth, a breeding history or a home before Waterdeep. 
 
 > "Maxeene is warm, placid and a little vain about her ears." — `campaign/quests/faction-events/harpers/m01-the-talking-mare/ev-01-the-talking-mare.md:151`
 
-> "Maxeene is a Harper asset who enjoys conversation and expects it to be a courtesy." — `campaign/quests/faction-events/harpers/m01-the-talking-mare/ev-01-the-talking-mare.md:149` (the line reads "Maxeene (Unaligned, Draft Horse, she/her) :: a Harper asset who enjoys conversation and expects it to be a courtesy.")
+> "Maxeene (Unaligned, Draft Horse, she/her) :: a Harper asset who enjoys conversation and expects it to be a courtesy." — `campaign/quests/faction-events/harpers/m01-the-talking-mare/ev-01-the-talking-mare.md:149` (the quest journal's character tag line)
 
 ### A4. Enchantment and speech (the one origin fact)
 - The enchantment: "A druid's permanent enchantment lets her speak Common." (`ev-01-the-talking-mare.md:17`). "A friendly druid gave her a permanent enchantment years ago so she speaks Common, and she's been listening to passengers ever since." (`ev-01-the-talking-mare.md:67`, inside a quoted Mirt note). "A Harper-friendly druid gave her a permanent enchantment years ago, so she understands and speaks Common, and she has listened to her passengers ever since." (`campaign/quests/faction-events/harpers/m01-the-talking-mare/overview.md:21`)
