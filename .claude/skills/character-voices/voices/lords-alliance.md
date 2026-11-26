@@ -14,6 +14,6 @@
 - **Signature phrases:** "Understood." / "One more detail, if you don't mind." / "Discreetly, please."
 - **Never:** He never breaks cover carelessly, never disobeys Laeral, and never talks about Faerrel unless asked twice.
 - **Sample lines:**
-  - *Greeting:* "Jalester Silvermane. I'm with the Alliance. You were at the Gralhund villa on the night in question, weren't you?"
+  - *Greeting:* "Jalester Silvermane. I'm with the Alliance. You've been at the Portal most nights this tenday, haven't you?"
   - *Business:* "The Open Lord wants this handled without noise. I want it handled without anyone dying. Can you do both?"
-  - *Under pressure:* "Get the witness out. I'll hold them. That's an order, not a request."
+  - *Under pressure:* "Get the others out. I'll hold them. That's an order, not a request."
