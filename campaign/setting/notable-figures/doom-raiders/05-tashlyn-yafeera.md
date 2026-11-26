@@ -31,7 +31,7 @@ On Ches 1, 1492 DR Tashlyn keeps her post at the South Gate and speaks for the c
 
 To most people at the South Gate, Tashlyn is a compact, precise Calishite woman who stands behind a dwarf magister and carries a captain's rank in the City Guard. Her temper is quick, and people take her for impulsive until they see how exactly she fights.
 
-She states her own excellence as a fact and does not repeat an instruction. When she is angry her voice drops and speeds up, and she gets shorter with everyone. Praise from her is rare and comes out as a single flat word, "Adequate", which she means as high praise. She never sits during a briefing.
+She states her own excellence as a fact and does not repeat an instruction. When she is angry her voice drops and speeds up, and she gets shorter with everyone. Praise from her is rare and comes out as a single flat word, "Adequate", and she means it as the highest she gives. She never sits during a briefing.
 
 She respects anyone who can beat her in melee and despises everyone else, and she tells the unskilled so. Under the pride she is exact about what she owes, to Vorondar Levelstone and to the hired swords she arms. She does not talk about the third lair or about her family in Calimshan.
 
@@ -46,7 +46,7 @@ She respects anyone who can beat her in melee and despises everyone else, and sh
 - **Manshoon's Zhentarim:** The rival cell that peeled off part of the Doom Raiders' network. Tashlyn has sources inside it. The Doom Raiders believe Urstul Floxin leads it and have not heard Manshoon's name connected to it, and she is not a member of it (**Urstul Floxin**).
 - **Xanathar's Guild:** The criminal organization that wants to wipe out anyone it takes for a Zhentarim operative. She arms the cell against it.
 - **The Black Network:** No source says whom Tashlyn answers to above the five Masters `[research]`.
-- **Her family and her sword master:** A house in Calimshan that has not written to her, and the retired sellsword who beat her in its yard. She has sent neither a letter `[design]`.
+- **Her family and her sword master:** A house in Calimshan that has not written to her, and the retired sellsword who beat her in its yard. She has written to neither of them `[design]`.
 
 ## Overview
 
