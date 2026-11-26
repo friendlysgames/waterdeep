@@ -67,9 +67,13 @@ No source gives a birth year, a name before "Ziraj", a family, a home, or an age
 > "- **Ziraj the Hunter** — Master of Assassination; operates from the rooftops and Corellon's Crown. See the **Ziraj the Hunter** page in Notable Figures."
 > — `campaign/setting/organizations/06-doom-raiders.md:101`
 
-**Campaign, Factions Guide, the cell's service to members**
+**Campaign, Factions Guide, the cell's service to members (Mission and rank section)**
 > "- Ziraj the Hunter can be requested for a single operation per quest, to be taken alive or quietly eliminated. He won't take suicidal assignments and doesn't argue about it."
-> — `campaign/guides/factions/07-doom-raiders.md:16` (his Ardragon favor is at line 59 in the same file)
+> — `campaign/guides/factions/07-doom-raiders.md:16`
+
+**Campaign, Factions Guide, the Ardragon rank (the full row)**
+> "| 25 | **Ardragon** | The Network deploys a three-person crew (two **spies** and one **assassin**) to assist in one heist or operation per quest. Davil's informants inside Manshoon's cell can be activated for specific intelligence once per quest (DC 14 Intelligence check; failure means the informant is unavailable for two tendays). Ziraj the Hunter extends Davil's friends a favor: each Ardragon member can request it once per campaign, and one member's use does not spend another's. Ziraj neutralizes one named target, captured alive or quietly eliminated, and won't take assignments he considers suicidal. If Ziraj dies, Yagra Stonefist offers a capture-only substitute in its place. |"
+> — `campaign/guides/factions/07-doom-raiders.md:59`
 
 **Campaign, Doom Raiders History (the cell's leaders)**
 > "- Their leaders are Davil Starsong, Master of Opportunities and Negotiations; Istrid Horn, Master of Trade and Coin; Skeemo Weirdbottle, Master of Magic; Tashlyn Yafeera, Master of Arms and Mercenaries; and Ziraj the Hunter, Master of Assassination."
@@ -81,7 +85,7 @@ No source gives a birth year, a name before "Ziraj", a family, a home, or an age
 > "Ziraj takes the back table at Corellon's Crown, where Fala Lefaliir shelters him. Tarrow's is a chandler's shop at 22 Sail Street run by Wenna Tarrow, and Corellon's Crown is a greenhouse in the North Ward (**Dock Ward**; **North Ward**)."
 > — `campaign/setting/organizations/06-doom-raiders.md:64` (the complete line continues with the Black Network safe house on Sail Street; this is the sentence about Ziraj and the greenhouse)
 
-**Adventure, Fala entry (Fala's own entry; the page of the entry was not read)**
+**Adventure, Fala entry (the page of the entry was not read)**
 > "{@creature Fala Lefaliir|WDH} is an outgoing wood elf with long, braided hair. Like the elven god Corellon Larethian, Fala is neither male nor female. If referred to as \"he\" or \"she,\" Fala gently requests to be addressed by name or as \"they.\" Fala is friends with a member of the Zhentarim named Ziraj, who saved Fala's life. He visits Fala from time to time, and Fala has set aside a room for him on the second floor."
 > — `sources/adventure-wdh.json:3432`
 
@@ -172,12 +176,12 @@ Current page: `campaign/setting/notable-figures/doom-raiders/06-ziraj-the-hunter
 
 | # | Line | Sentence (exact) | Why quest-time | Where it already lives |
 |---|---|---|---|---|
-| 1 | L7 | "**Featured in:** **Trollskull Alley**, **Kolat Towers**, **Vault of Dragons**, **Doom Raiders Mission 5 — The Yellowspire Job**, **Doom Raiders Mission 6 — Ziraj's Last Hunt**" | Quest names only (routed) | `campaign/quests/faction-events/doom-raiders/m05-the-yellowspire-job/`, `m06-zirajis-last-hunt/`; `campaign/guides/factions/07-doom-raiders.md:59` (the Ardragon favor) |
+| 1 | L7 | "**Featured in:** **Trollskull Alley**, **Kolat Towers**, **Vault of Dragons**, **Doom Raiders Mission 5 — The Yellowspire Job**, **Doom Raiders Mission 6 — Ziraj's Last Hunt**" | Quest names only (routed) | `campaign/quests/faction-events/doom-raiders/m05-the-yellowspire-job/`, `m06-zirajis-last-hunt/`; the Ardragon row at `campaign/guides/factions/07-doom-raiders.md:59` (quoted in A2) |
 | 2 | L23 | "**Morale.** In a fight, Ziraj fires from elevation with his oversized longbow (requires Strength 18, deals 2d6 + modifier), repositions silently, and never engages in melee unless cornered. If wounded, he leaves intentional trail marks that he taught Yagra years ago." | "If wounded" is the state Ziraj is in during Ziraj's Last Hunt. The trail code is a backstory fact that the quest file states. The bow and the melee habit are day-one | `campaign/quests/faction-events/doom-raiders/m06-zirajis-last-hunt/overview.md:17` ("Yagra Stonefist reaches Trollskull Manor at 02:10, armor on and breathing evenly despite the run from Sail Street. A Splinter kill team is hunting Ziraj the Hunter across the rooftops, and he is wounded somewhere east of where she lost his trail marks."); `m06-zirajis-last-hunt/overview.md:23` (A3, the taught code) |
 | 3 | L25 | "**Relationships.** Ziraj is the Doom Raiders' Master of Assassination, a close friend of Fala Lefaliir (who shelters him at Corellon's Crown), a colleague Yagra will run across the city to save, and a presence on the Trollskull Alley rooftops that the party may not notice for weeks." | "a colleague Yagra will run across the city to save" is the rescue in Ziraj's Last Hunt | `campaign/quests/faction-events/doom-raiders/m06-zirajis-last-hunt/overview.md:17` (Yagra's run from Sail Street); `m06-zirajis-last-hunt/overview.md:60` ("- **Yagra Stonefist** (Doom Raiders): brings the news, guides the party to the trail marks and carries Ziraj.") |
 | 4 | L21 | "**Persona.** To the world, Ziraj is a hulking shadow that glares from its perch, rains down death with an oversized bow, and slinks off without a whisper. Where he comes from remains a mystery. To those he trusts, he uses the quiet back table at Corellon's Crown and says \"Three left\" when asked for a report. Deep down, he kills because someone he cares about asked him to, and if no one asked, he would stop." | Day-one wording, but the reason it gives conflicts with the Rooftop Assassin source (D1) | `sources/adventure-wdh.json:31965`; `campaign/setting/organizations/06-doom-raiders.md:42`; conflict at `sources/Appendix_C_-_Player_Faction_Missions.md:623` and `:656` |
 | 5 | L21 | (the same Persona line as row 4) "To those he trusts, he uses the quiet back table at Corellon's Crown and says \"Three left\" when asked for a report." | Day-one habit; the back table is in the Appendix D entry for Fala | `sources/Appendix_D_-_Running_the_Tavern.md:1271`; `campaign/setting/organizations/06-doom-raiders.md:61` |
-| 6 | L29 | "A half-orc of conspicuous size who keeps to Trollskull Alley's rooftops and rarely speaks — when he does appear at street level, it is at Corellon's Crown, at the back table, and only briefly." | "keeps to Trollskull Alley's rooftops" narrows the adventure's city-wide watch; the Trollskull Alley hunt is the Rooftop Assassin mission | `sources/adventure-wdh.json:31966` ("The City Watch has received reports of a figure who haunts the rooftops of Waterdeep"); `sources/Appendix_C_-_Player_Faction_Missions.md:623` ("A rooftop assassin has been picking off targets in the North Ward.") and `:632` ("My sources say he goes to ground somewhere near Trollskull Alley.") |
+| 6 | L29 | "A half-orc of conspicuous size who keeps to Trollskull Alley's rooftops and rarely speaks — when he does appear at street level, it is at Corellon's Crown, at the back table, and only briefly." | "keeps to Trollskull Alley's rooftops" narrows the adventure's city-wide watch; the Trollskull Alley hunt is the Rooftop Assassin mission | `sources/adventure-wdh.json:31966` ("The City Watch has received reports of a figure who haunts the rooftops of Waterdeep-a hulking shadow ..." as quoted in A1); `sources/Appendix_C_-_Player_Faction_Missions.md:623` ("A rooftop assassin has been picking off targets in the North Ward.") and `:632` ("My sources say he goes to ground somewhere near Trollskull Alley.") |
 
 Quest-time clauses in the voice profile: none found. The profile's lines 99 to 113 are day-one. The sample "Business: \"Two on the roof. One in the alley. Mine.\"" is a sample line. Ruling 16 applies only to clauses that narrate a quest event.
 
@@ -219,7 +223,7 @@ Quest-time sentences in the source texts that the page does not use (for awarene
 - Higher rank: the quest files agree with the page (Assassin). The Appendix says Veteran. Not settled here.
 
 **D5. Where he is seen (city-wide versus Trollskull Alley)**
-- Adventure: "a figure who haunts the rooftops of Waterdeep" — `sources/adventure-wdh.json:31966`
+- Adventure: "The City Watch has received reports of a figure who haunts the rooftops of Waterdeep" — `sources/adventure-wdh.json:31966`
 - Page: "keeps to Trollskull Alley's rooftops" — `06-ziraj-the-hunter.md:29`
 - Appendix C: "A rooftop assassin has been picking off targets in the North Ward." — `sources/Appendix_C_-_Player_Faction_Missions.md:623`
 - Higher rank: the adventure (city-wide). The page narrows it to Trollskull Alley. Not a flat contradiction.
@@ -250,7 +254,7 @@ Quest-time sentences in the source texts that the page does not use (for awarene
 - `campaign/guides/trollskull-manor/08-notable-patrons.md:30`: "- Introduces Ziraj the Hunter (large Calishite Zhentarim, wants a quiet table in the back)" (D2).
 - `campaign/quests/faction-events/lords-alliance/m04-the-archer-above/design-notes.md:5`: "sends the party after Ziraj the Hunter, who has killed three people with a crossbow in the North Ward." (D3).
 - `campaign/setting/deities/gruumsh.md:111`: "- **Sister Valdra**, **Yagra Stonefist**, **Ziraj the Hunter**, **Hrabbaz**, **Grevik Nass**, **Yorn the Terror** (Notable Figures): the half-orcs in the files." Consistent with half-orc.
-- `campaign/setting/history/04-the-founding-of-chains.md:54`: "and Ziraj the Hunter, Master of Assassination." Consistent.
+- `campaign/setting/history/04-the-founding-of-chains.md:54`: "- Their leaders are Davil Starsong, Master of Opportunities and Negotiations; Istrid Horn, Master of Trade and Coin; Skeemo Weirdbottle, Master of Magic; Tashlyn Yafeera, Master of Arms and Mercenaries; and Ziraj the Hunter, Master of Assassination." Consistent.
 
 **E2. Routed quest references (quest-time facts; the day-one page must not restate them)**
 
@@ -259,7 +263,7 @@ Ziraj's own quest appearances, by file (count of lines naming him):
 - `campaign/quests/faction-events/doom-raiders/m06-zirajis-last-hunt/overview.md` (20). Samples at lines 17, 23, 31 and 60 (quoted in C and A3). Line 31: "The party can carry Ziraj to Fala's shop across the line of the sweep, hold the roof with Ziraj's longbow covering the alley, or draw the team away with a false trail. Each choice exposes Ziraj to a different risk."
 - `campaign/quests/faction-events/doom-raiders/m06-zirajis-last-hunt/design-notes.md` (6). Line 11 (quoted in B).
 - `campaign/quests/faction-events/doom-raiders/m05-the-yellowspire-job/ev-01-the-yellowspire-job.md` (14; line 348, quoted in B); `ev-02-the-debrief.md` (14; line 159); `overview.md` (7). Samples: "Davil asks Ziraj to hand his surveillance notes on the Kolat Towers force field to whoever went into Yellowspire. Ziraj and Fala Lefaliir give them to Doom Raiders members at Corellon's Crown, in either version." — `m05-the-yellowspire-job/overview.md:56`; "**Ziraj's Last Hunt** becomes available at Renown 13 and 7th level, and it runs after **Kolat Towers**." — `m05-the-yellowspire-job/overview.md:70`
-- `campaign/quests/faction-events/doom-raiders/r25-ardragon/ev-01-ardragon.md` (28), `design-notes.md` (4). The Ardragon crew favor is in the Factions Guide (`campaign/guides/factions/07-doom-raiders.md:59`).
+- `campaign/quests/faction-events/doom-raiders/r25-ardragon/ev-01-ardragon.md` (28), `design-notes.md` (4). The Ardragon row is quoted in A2 (`campaign/guides/factions/07-doom-raiders.md:59`).
 - `campaign/quests/faction-events/doom-raiders/r50-dread-lord/ev-01-dread-lord.md` (8)
 - `campaign/quests/faction-events/doom-raiders/r10-viper/ev-01-viper.md` (1); `r10-viper/design-notes.md` (1)
 - `campaign/quests/faction-events/doom-raiders/m04-silencing-skeemo/ev-02-the-chase.md` (1)
@@ -296,7 +300,7 @@ For each gap: what the sources say, and what the drafter must stay consistent wi
 
 **F8. A home.** The adventure says "if he even has a home" (`sources/adventure-wdh.json:31966`). The sources place him at Fala's second-floor room and at the back table (`sources/Appendix_D_-_Running_the_Tavern.md:1271`; `sources/adventure-wdh.json:3432`). A home elsewhere is not sourced. A Background must not give him another home.
 
-**F9. Physical appearance.** The adventure gives "hulking shadow" (`sources/adventure-wdh.json:31966`) and "half-orc". The Appendix C scene gives "enormous ... broad across the shoulders, with a face that has been in a number of fights and remembers all of them" (`sources/Appendix_C_-_Player_Faction_Missions.md:650`). Usable as a read-aloud description; the scene itself is quest content.
+**F9. Physical appearance.** The adventure gives "a hulking shadow that glares from its perch" (`sources/adventure-wdh.json:31966`) and "half-orc" (`:31965`). The Appendix C scene gives "enormous ... broad across the shoulders, with a face that has been in a number of fights and remembers all of them" (`sources/Appendix_C_-_Player_Faction_Missions.md:650`). Usable as a read-aloud description; the scene itself is quest content.
 
 **F10. Why he kills only when asked (his reason).** The adventure gives the rule (`sources/adventure-wdh.json:31965`). The deeper cause is not given. A cause is `[design]`, and it must agree with the adventure's rule that a friend asks.
 
@@ -324,7 +328,7 @@ Counts from Grep over `campaign/` (44 files, 254 lines). Non-quest lines are quo
 
 Non-quest files and key lines:
 - `campaign/setting/organizations/06-doom-raiders.md` (11 lines): lines 37, 42, 61, 63, 64, 101 (quoted in A and B; line 64 is the back table and the greenhouse sentence).
-- `campaign/guides/factions/07-doom-raiders.md` (6): lines 16 and 59. Line 59: "| 25 | **Ardragon** | ... Ziraj neutralizes one named target, captured alive or quietly eliminated, and won't take assignments he considers suicidal. ..." (the row continues with other text; quoted in full in the Factions Guide at that line). Line 16 is quoted in A2.
+- `campaign/guides/factions/07-doom-raiders.md` (6): lines 16 and 59 (quoted in full in A2).
 - `campaign/setting/notable-figures/doom-raiders/01-davil-starsong.md` (2): not read in full.
 - `campaign/setting/notable-figures/doom-raiders/02-yagra-stonefist.md` (2): not read in full. Yagra's page should be checked for the romance (D7).
 - `campaign/setting/notable-figures/doom-raiders/04-skeemo-weirdbottle.md` (1): not read in full.

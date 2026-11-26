@@ -22,7 +22,7 @@ Wiki extract: `/tmp/claude-0/-home-user-waterdeep/a51d8faf-477c-574c-b157-e1f226
 
 1. **Three lines assume Davil's arrest.** The Resonance, Motivations and Relationships lines say "when she takes over as faction contact", "after Davil's arrest" and "Davil's replacement as faction contact after his arrest" (`05-tashlyn-yafeera.md:11`, `:15`, `:25`). Davil's arrest is a quest event (`sources/adventure-wdh.json:4028`). The organization page already removed the same wording (`campaign/setting/organizations/06-doom-raiders.md:187`). The drafter has to restate these as day-one facts or route them.
 2. **Alignment conflicts with the wiki.** The page says "lawful evil" (`05-tashlyn-yafeera.md:5`), and every campaign quest tag agrees. The wiki's 5e alignment is "Neutral" (wiki line 57). Campaign wins; the wiki ranks last (see D1).
-3. **The stat block "Swashbuckler" has no source.** The page's Summary (`:5`) is the only file that gives Tashlyn a stat block. The published adventure gives none (`sources/adventure-wdh.json:31950-31956`). The wiki gives a CR (wiki line 58: "challenge5e    = 9") and no block name. Treat the block as the page's `[research]` label (see D2).
+3. **The stat block "Swashbuckler" has no source.** The page's Summary (`:5`) is the only file that gives Tashlyn a stat block. The published adventure gives none (`sources/adventure-wdh.json:31950-31956`). The wiki gives a CR (wiki line 58: "challenge5e    = 9") and no block name. Treat the block as the page's label without a source (see D2).
 4. **Her post is a bodyguard cover that earned a captaincy.** The adventure gives the order (`sources/adventure-wdh.json:31955`). Three other campaign files state the captaincy as her post or as cover (`governance-and-guilds/city-watch.md:69`, `history/04-the-founding-of-chains.md:58`, `s01-davils-arrest/ev-01-davils-arrest.md:107`). The organization page settled the adventure's order (`06-doom-raiders.md:165`). See D3.
 5. **The Overview is 37 words** (`05-tashlyn-yafeera.md:29`). The brief limit is 21.
 
@@ -70,7 +70,7 @@ No source gives a birth year, age, parents, siblings, family name or a home dist
 
 ### A3. The South Gate post and the magister
 
-**Adventure, Tashlyn entry (page 199)**
+**Adventure, Tashlyn entry (page 199), the title**
 > "{@creature Tashlyn Yafeera|wdh|Tashlyn} is Master of Arms and Mercenaries for the Waterdeep Zhentarim. In this role, she provides armor, weapons, and training to sellswords on the Black Network's payroll."
 > — `sources/adventure-wdh.json:31954`
 
@@ -96,15 +96,15 @@ No source gives a birth year, age, parents, siblings, family name or a home dist
 > "- **Ranks and titles:** The Masters' titles are the cell's only sourced ranks. Davil is the leader, as the wiki infobox and the published adventure agree (Forgotten Realms Wiki, *Doom Raiders*, 5e), and Tashlyn speaks for the cell when he is away. The ranks that members earn are a game rule and live in the Factions Guide."
 > — `campaign/setting/organizations/06-doom-raiders.md:63`
 
-**Campaign, Organization page, Key Members (the day-one standing)**
+**Campaign, Organization page, Key Members (the standing when Davil is away)**
 > "- **Tashlyn Yafeera** — Master of Arms and Mercenaries; second voice of the cell when Davil is unavailable. See the **Tashlyn Yafeera** page in Notable Figures."
 > — `campaign/setting/organizations/06-doom-raiders.md:100`
 
-**Campaign, Organization page, Structure (the contact paragraph)**
+**Campaign, Organization page, Structure (the secondary contact)**
 > "**Secondary Contact:** Tashlyn Yafeera — speaks for the cell whenever Davil is unavailable. She has sharper intelligence on Manshoon's faction than Davil and relies on it when she acts for the cell."
 > — `campaign/setting/organizations/06-doom-raiders.md:51`
 
-**Campaign, Organization page, Structure (the primary paragraph)**
+**Campaign, Organization page, Structure (the primary contact)**
 > "**Primary Contact:** Davil Starsong — a sun elf retired adventurer who leads the Doom Raiders' Waterdeep operation. Charming, direct, and genuinely invested in ending the street violence Manshoon's cell has caused. Tashlyn Yafeera handles the cell's business whenever Davil is unavailable."
 > — `campaign/setting/organizations/06-doom-raiders.md:49`
 
@@ -169,7 +169,7 @@ No other source gives a duration. The adventure gives none (`sources/adventure-w
 - Adventure: no CR, AC, HP or block name in `sources/adventure-wdh.json:31950-31956`.
 - Appendix B: no stat line in `sources/Appendix_B_-_Player_Factions.md:532`.
 - Wiki: "| challenge5e    = 9" — wiki line 58 (5e); "| refs5e         = <ref name="WDH-199-200">..." — wiki line 60. "[[Category:Fighters]]" — wiki line 92.
-- Stat-block label "Swashbuckler" for other Doom Raiders: Davil is "Swashbuckler (with modifications)" (`campaign/setting/notable-figures/doom-raiders/01-davil-starsong.md:5`).
+- Stat-block label "Swashbuckler" for another Doom Raider: Davil is "Swashbuckler (with modifications)" (`campaign/setting/notable-figures/doom-raiders/01-davil-starsong.md:5`).
 
 ---
 
@@ -182,13 +182,13 @@ Current page: `campaign/setting/notable-figures/doom-raiders/05-tashlyn-yafeera.
 | 1 | L7 | "**Featured in:** **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**, **Doom Raiders Mission 3 — The Missing Snobeedle**, **Doom Raiders Mission 4 — Silencing Skeemo**, **Doom Raiders Mission 5 — The Yellowspire Job**" | Quest names only (routed) | `campaign/quests/faction-events/doom-raiders/m03-the-missing-snobeedle/`, `m04-silencing-skeemo/`, `m05-the-yellowspire-job/`; Factions Guide `campaign/guides/factions/07-doom-raiders.md:68-70` |
 | 2 | L11 | "**Resonance.** Tashlyn should inspire respect for her martial competence, irritation with her unfettered superiority, and grudging trust when she takes over as faction contact with more efficiency and fewer words than Davil." | "when she takes over as faction contact" is the handover after Davil's arrest | `sources/adventure-wdh.json:4028` (page 40): "The characters continue to receive missions, but they come from {@creature Tashlyn Yafeera|WDH} (see {@adventure appendix B|WDH|12})."; `campaign/guides/factions/07-doom-raiders.md:30` ("Tashlyn takes over."); `campaign/setting/organizations/06-doom-raiders.md:187` (routed) |
 | 3 | L15 | "**Motivations.** Tashlyn wants to keep the Doom Raiders armed, trained, and operational after Davil's arrest, prove that she is the stronger leader, and best anyone foolish enough to challenge her." | "after Davil's arrest" | Same as row 2. `campaign/setting/organizations/06-doom-raiders.md:187` says: "Tashlyn's Notable Figures Motivations line ("after Davil's arrest") is not used." |
-| 4 | L25 | "**Relationships.** Tashlyn is the Doom Raiders' Master of Arms and Mercenaries, Davil's replacement as faction contact after his arrest, and a leader who communicates exclusively by flying snake, using fewer words and expecting more inference." | "Davil's replacement ... after his arrest" (arrest); "communicates exclusively by flying snake" is a delivery mechanic | `sources/Appendix_B_-_Player_Factions.md:532`: "**Secondary Contact: Tashlyn Yafeera.** Takes over mission briefings after Davil's arrest, communicating via flying snake. She has sharper intelligence on Manshoon's faction than Davil did, and her assignments reflect it."; `campaign/guides/factions/07-doom-raiders.md:37` (the flying snake in First Meeting); `campaign/setting/organizations/06-doom-raiders.md:170` (the flying-snake bullet moved to the Factions Guide) |
+| 4 | L25 | "**Relationships.** Tashlyn is the Doom Raiders' Master of Arms and Mercenaries, Davil's replacement as faction contact after his arrest, and a leader who communicates exclusively by flying snake, using fewer words and expecting more inference." | "Davil's replacement as faction contact after his arrest" (the arrest); "communicates exclusively by flying snake" is a delivery mechanic | `sources/Appendix_B_-_Player_Factions.md:532`: "**Secondary Contact: Tashlyn Yafeera.** Takes over mission briefings after Davil's arrest, communicating via flying snake. She has sharper intelligence on Manshoon's faction than Davil did, and her assignments reflect it."; `campaign/guides/factions/07-doom-raiders.md:37` (the flying snake in First Meeting); `campaign/setting/organizations/06-doom-raiders.md:170` (the flying-snake bullet moved to the Factions Guide) |
 | 5 | Voice L88 | "- **Quirks:** Her flying-snake messages are two or three words long. She finishes other people's explanations for them when they're too slow. She never sits during a briefing." | Delivery mechanic (flying snake is the cell's quest-brief method) | `campaign/setting/organizations/06-doom-raiders.md:170` (routed) |
 | 6 | Voice L90 | "- **Never:** She never pleads, never praises lavishly, and never admits she misses Davil." | Presumes Davil is gone | `sources/adventure-wdh.json:4028`; `campaign/guides/factions/07-doom-raiders.md:73` |
 | 7 | Voice L92 | "  - *Greeting:* \"You're late. Davil's gone. You report to me now.\"" | "Davil's gone" is the arrest | `sources/adventure-wdh.json:4028`; `campaign/guides/factions/07-doom-raiders.md:73` |
 | 8 | Voice L87 | "- **Personality in speech:** Unfettered superiority. She states her own excellence as a fact. Quick temper shows in how much shorter she gets. Grudging respect for anyone who beats her comes out as one clipped word (\"Adequate.\") that she means as high praise." | Day-one. Listed for completeness | n/a |
 
-Quest-time clauses in the voice profile: rows 5 to 7. The other lines of the Tashlyn profile (`doom-raiders.md:81` to `:94`, except the three rows above) are day-one. Row 5 is a delivery mechanic and row 6 implies a quest state. Ruling 16 says these get a day-one restatement and the skill's profile changes to match.
+Quest-time clauses in the voice profile: rows 5 to 7. The other lines of the Tashlyn profile (`.claude/skills/character-voices/voices/doom-raiders.md:81` to `:94`, except the three rows above) are day-one. Row 5 is a delivery mechanic and row 6 implies a quest state. Ruling 16 says these get a day-one restatement and the skill's profile changes to match.
 
 The arrest and the handover are quest content. The Factions Guide routes them: "**Two days after Gralhund Villa, the City Watch arrests Davil and holds him at Castle Waterdeep pending questioning about the Zhentarim's role in the street violence.** Contact passes to Tashlyn Yafeera during his detention; see the [**Davil's Arrest**](../../quests/faction-events/doom-raiders/s01-davils-arrest/ev-01-davils-arrest.md) Event." — `campaign/guides/factions/07-doom-raiders.md:73`
 
@@ -208,7 +208,7 @@ Quest-time sentence in the wiki (not on the current page, listed for awareness):
 - Page: "Stat block: **Swashbuckler**." — `05-tashlyn-yafeera.md:5`
 - Adventure: no block name (`sources/adventure-wdh.json:31950-31956`).
 - Wiki: "| challenge5e    = 9" — wiki line 58. The wiki gives a CR and no block name.
-- Higher rank: none gives a stat block. The label stays as the page's `[research]`-level claim. The CR 9 is a wiki-only claim.
+- Higher rank: none gives a stat block. The label has no source in any file; the drafter should treat it as unsourced. The CR 9 is a wiki-only claim.
 
 **D3. Her post: bodyguard with an earned captaincy, or captain**
 - Adventure (the published order): "Tashlyn has established a useful cover by serving as a bodyguard to Vorondar Levelstone, a dwarf magister stationed at the South Gate. She likes the dwarf and has earned his confidence, allowing her to reach the rank of captain in the City Guard. In that position, she watches over traffic that passes through the gate-and ensures that her associates in the Black Network can come and go freely." — `sources/adventure-wdh.json:31955`
@@ -217,8 +217,8 @@ Quest-time sentence in the wiki (not on the current page, listed for awareness):
 - Event: "> Tashlyn Yafeera (Lawful Evil, Calishite Human, she/her) :: the Doom Raiders' Master of Arms and Mercenaries, a City Guard captain under the dwarf magister Vorondar Levelstone, and terse to the point of rudeness." — `campaign/quests/faction-events/doom-raiders/s01-davils-arrest/ev-01-davils-arrest.md:107`
 - Event: "She has come off the night watch and is still wearing the grey coat of a City Guard captain." — `campaign/quests/faction-events/doom-raiders/m04-silencing-skeemo/ev-01-the-approach.md:22`
 - Factions Guide: "- Tashlyn's City Guard position provides one piece of actionable Splinter intelligence per tenday at Renown 3+." — `campaign/guides/factions/07-doom-raiders.md:15`
+- Organization page, Structure: "- **The Open Lord's Watch (wary rival):** The Watch keeps a file on the cell, and Tashlyn holds the rank of captain in the City Guard through her bodyguard post (**The Open Lord's Watch**; **The City Watch**). Captain Staget reasons that if Xanathar's Guild and the Zhentarim want to destroy each other, the Watch may as well let them (*Dragon Heist*, 5e)." — `campaign/setting/organizations/06-doom-raiders.md:91`
 - Organization page, settled: "> - **Settled:** Tashlyn's role follows her Notable Figures page (ruling 18): bodyguard to a dwarf magister at the South Gate. The old Summary called her \"Captain of the City Guard\". The published adventure (`adventure-wdh.json` line 31955) and `code-legal-and-magisters.md` line 47 make the captaincy a rank her bodyguard cover earned, and the GM Notes say so." — `campaign/setting/organizations/06-doom-raiders.md:165`
-- Organization page, Structure: "**Tashlyn Yafeera** ... " not quoted; the Structure's rank line is at `06-doom-raiders.md:91`: "- **The Open Lord's Watch (wary rival):** The Watch keeps a file on the cell, and Tashlyn holds the rank of captain in the City Guard through her bodyguard post (**The Open Lord's Watch**; **The City Watch**)."
 - Open Lord's Watch page, Draft Notes: "> - **Conflicts:** Tashlyn's cover. `city-watch.md:69` says \"She holds the rank of captain in the City Guard as cover\", and her Notable Figures page says \"a Calishite bodyguard to a dwarf magistrate at the South Gate\" (`05-tashlyn-yafeera.md:21`). `organizations/06-doom-raiders.md:63` says the bodyguard post has earned her the rank. This page follows the Doom Raiders page and her Notable Figures page, and `city-watch.md:69` inverts the order. Not edited." — `campaign/setting/organizations/11-open-lords-watch.md:153`
 - Higher rank: the adventure (`sources/adventure-wdh.json:31955`). The page's bodyguard wording (`05-tashlyn-yafeera.md:21`) matches it. `city-watch.md:69` and the history line invert the order and are stale (see E1).
 
@@ -273,7 +273,7 @@ Tashlyn's own quest appearances, by file (line counts from the Grep of `Tashlyn|
 - `sources/Appendix_C_-_Player_Faction_Missions.md:1365`: "A flying snake arrives at Trollskull Manor while Davil is still in Watch custody. The message is in Tashlyn's handwriting, precise and without decoration:"
 - `sources/Appendix_C_-_Player_Faction_Missions.md:1410`: "Tashlyn, informed of the outcome, becomes substantively more respectful in her dealings with the party — the work she asked them to do is the hardest kind of work, and she knows it."
 
-Date conflict on the arrest (routed; not for this page): `m01-the-dockside-killer/overview.md:17` says "Ches 26"; `campaign/setting/governance-and-guilds/city-watch.md:85` says "by the morning of Ches 25 it has sealed the villa and begun processing twenty-three bodies. Davil Starsong is arrested two days after the villa". Not settled here.
+Date conflict on the arrest (routed; not for this page): `m01-the-dockside-killer/overview.md:17` says "Ches 26"; `campaign/setting/governance-and-guilds/city-watch.md:85` says "Davil Starsong is arrested two days after the villa, and the Watch cracks down on the Black Network." (its Ches date: "by the morning of Ches 25 it has sealed the villa and begun processing twenty-three bodies."). Not settled here.
 
 ---
 
@@ -321,17 +321,17 @@ For each gap: what the sources say, and what the drafter must stay consistent wi
 Counts from Grep over `campaign/` (61 files, 503 lines). Non-quest lines are quoted or named. Quest-file lines are routed and given as counts above (E2).
 
 Non-quest files and key lines:
-- `campaign/setting/organizations/06-doom-raiders.md` (24 lines): lines 7, 9, 37, 49, 51, 60, 63, 74, 91, 100, 114, 165, 170, 177, 187, 189 (quoted in A and D; "Not the villain Zhentarim" is at line 9)
-- `campaign/guides/factions/07-doom-raiders.md` (10): lines 15, 30, 31, 32, 33, 37, 68-71, 73 (quoted in C and D)
+- `campaign/setting/organizations/06-doom-raiders.md` (24 lines): lines 7, 9, 37, 49, 51, 60, 63, 74, 91, 100, 114, 165, 170, 177, 187, 189 (quoted in A and D; "Not the villain Zhentarim" is at line 9).
+- `campaign/guides/factions/07-doom-raiders.md` (10): lines 15, 30, 31, 32, 33, 37, 68-71, 73 (quoted in C and D).
 - `campaign/setting/governance-and-guilds/city-watch.md` (4): line 69 (D3); line 85 "Tashlyn deals with a constable by showing the badge of a City Guard captain."
 - `campaign/setting/governance-and-guilds/code-legal-and-magisters.md` (6): line 47 (A3)
 - `campaign/setting/history/04-the-founding-of-chains.md` (5): line 54 "- Their leaders are Davil Starsong, Master of Opportunities and Negotiations; Istrid Horn, Master of Trade and Coin; Skeemo Weirdbottle, Master of Magic; Tashlyn Yafeera, Master of Arms and Mercenaries; and Ziraj the Hunter, Master of Assassination."; line 58 (D3)
-- `campaign/setting/organizations/11-open-lords-watch.md` (3): line 69 "The Zhentarim (Doom Raiders) (wary rival): The Watch keeps a file on Davil Starsong's cell, so his people avoid anything that invites scrutiny (**The Zhentarim (Doom Raiders)**). Tashlyn Yafeera has earned the rank of captain in the City Guard as bodyguard to a magister at the South Gate (**Tashlyn Yafeera**)."; line 153 (D3)
+- `campaign/setting/organizations/11-open-lords-watch.md` (3): line 69 "- **The Zhentarim (Doom Raiders) (wary rival):** The Watch keeps a file on Davil Starsong's cell, so his people avoid anything that invites scrutiny (**The Zhentarim (Doom Raiders)**). Tashlyn Yafeera has earned the rank of captain in the City Guard as bodyguard to a magister at the South Gate (**Tashlyn Yafeera**)."; line 153 (D3)
 - `campaign/setting/notable-figures/doom-raiders/01-davil-starsong.md` (1): line 25 (A4)
 - `campaign/setting/the-grand-game/what-each-faction-knows-at-start.md` (2): not read in full
 - `campaign/setting/deities/bane.md` (2), `campaign/setting/deities/yondalla.md` (2), `campaign/setting/geography/city-of-the-dead.md` (3), `campaign/setting/geography/dragonward-and-walking-statues.md` (1): not read in full
 - `campaign/gazetteer/waterdeep/southern-ward.md` (2): line 20 places the South Gate on the ward boundary: "East, the Trollwall, with the southern inner gate to the Caravan Grounds and the South Gate beyond (wiki, circa 1372 DR)."
-- `campaign/gazetteer/waterdeep/dock-ward.md` (line 22): "its South Gate page says the South Gate stood where the two wards met." Not read in full.
+- `campaign/gazetteer/waterdeep/dock-ward.md` (line 22): the South Gate's place where the two wards met (the sentence "its South Gate page says the South Gate stood where the two wards met"). Not read in full.
 - `campaign/guides/gm-guide/player-factions-overview.md` (1): not read in full
 - `campaign/structure/arc-*.md` (superseded or pending conversion): `arc-c-fireball.md` (4), `arc-d-gralhund-villa.md` (9), `arc-e-faction-outposts.md` (5), `arc-f-xanathars-lair.md` (2), `arc-g-cassalanter-villa.md` (2), `arc-h-sea-maidens-faire.md` (2), `arc-i-kolat-towers.md` (8), `arc-j-vault-of-dragons.md` (2). Not read in full. Routed.
 - `campaign/quests/act-ii/gralhund-villa/` (ev-09-aftermath.md 11; overview.md 2; ev-01-what-the-factions-say.md 1; flowchart.md 1; design-notes.md 1). Routed.
