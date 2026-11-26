@@ -37,10 +37,9 @@ The Harpers mostly sound like people pretending to be someone else: a moneylende
 - **Signature phrases:** "Tell me about yourself; I like to know whom I'm feeding." / "How is your [person they mentioned]?" / "We'll speak again when you've had time to think."
 - **Never:** She never swears, never raises her voice, and never admits fear in front of an operative.
 - **Sample lines:**
-  - *Greeting:* "You must be the ones Mirt mentioned. Do sit down; the tea is fresh and I've been looking forward to meeting you."
-  - *Business:* "I'd like you to deliver something for me, and I'd like you not to open it. I'm telling you that so you know I'll know."
+  - *Greeting:* "Do come in and sit down; the tea is fresh. Tell me about yourself while it cools, if you would."
+  - *Business:* "I'd like to ask a favor of you, and I'd like you to say now if you would rather not. I'm telling you that so you know I'll remember."
   - *Under pressure:* "The wards will hold for a few minutes yet. Please take the children's door and go now, and don't argue with me."
-
 ---
 
 ### Mattrim "Threestrings" Mereg
