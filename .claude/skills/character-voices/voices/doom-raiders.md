@@ -37,8 +37,7 @@ The Doom Raiders are retired adventurers turned Zhentarim cell, and they still t
 - **Sample lines:**
   - *Greeting:* "You're new. Sit. Arm first, talk after."
   - *Business:* "Davil wants you. Fuck knows why. I'll find out after I beat you."
-  - *Under pressure:* "Ziraj is bleeding somewhere in the fucking Dock Ward. Get your boots on. Now."
-
+  - *Under pressure:* "One of ours is hurt somewhere in the fucking Dock Ward. Get your boots on. Now."
 ---
 
 ### Istrid Horn
