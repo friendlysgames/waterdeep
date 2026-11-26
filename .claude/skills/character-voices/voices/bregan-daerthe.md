@@ -75,7 +75,7 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
   - *Under pressure:* "Drop it! Please drop it, I really don't want to shoot you!"
 ---
 
-### Krebbyg Masq'il'yr ("Kreb Sorrush")
+### Krebbyg Masq'il'yr
 *A rash young drow who runs a theatre's bookings, switching between casting and conspiracy mid-sentence.*
 
 - **Sound:** A quick, cheerful, slightly frantic voice, a stage manager's patter.
@@ -88,9 +88,8 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Never:** He never plans, never argues with Fel'rekt, and never lets anyone insult the theatre.
 - **Sample lines:**
   - *Greeting:* "Kreb Sorrush, bookings, how can I help, casting's on Tuesdays, sorry, darling, who sent you?"
-  - *Business:* "You want in the basement? Ha, no. Ask Fel. Also the ghost hates you already, don't take it personally."
+  - *Business:* "You want in the back office? Ha, no. Ask Fel. Also the ghost hates you already, don't take it personally."
   - *Under pressure:* "Fel! Fel, it's happening! What do we do?"
-
 ---
 
 ### Zelifarn
