@@ -54,7 +54,6 @@ The Doom Raiders are retired adventurers turned Zhentarim cell, and they still t
   - *Greeting:* "Come in out of the damp, dear. Sit down. Let's see what we can arrange for you."
   - *Business:* "Two hundred gold, a tenday's grace, and ten percent each tenday after. Sign here, and Vergadain smile on it."
   - *Under pressure:* "Take the ledgers to the back room, please. I'll handle our guests."
-
 ---
 
 ### Skeemo Weirdbottle
