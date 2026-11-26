@@ -56,7 +56,7 @@ The Trades Ward is the city's shop floor, a ward of guildhalls, stalls and balco
 
 > [!gamemaster]**GM Notes**
 >
-> - Skeemo has sold the Doom Raiders to Manshoon's Zhentarim since before the party arrived, for rare components and protection from Watch inspections. The coffer in **The Poisoned Delivery** holds poison under a layer of mint.
+> - Skeemo has sold the Doom Raiders' secrets to Manshoon's Zhentarim since before Ches 1, 1492 DR, for rare components and protection from Watch inspections. The coffer in **The Poisoned Delivery** holds poison under a layer of mint.
 
 **Fenerus Stormcastle's House** — Small house and message drop, Quill Alley
 - A small house that the lamplighter Fenerus rents in an alley. Residents of the ward know him, and a map marks the alley with his name.

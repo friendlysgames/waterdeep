@@ -55,7 +55,7 @@
 - They were sent to Waterdeep in 1489 DR to establish a Zhentarim foothold. The published adventure says only that they came "three years ago".
 - They want a legitimate economic foothold, which means alliances with local guilds and nobles. They have formed several, run afoul of other houses, and fended off Harper spies.
 - Their fronts are ordinary businesses. Davil holds court in a curtained room at the Yawning Portal, and Skeemo runs Weirdbottle's Concoctions in the Trades Ward. Istrid runs an illegal lending operation out of a heavily guarded warehouse in the Dock Ward (`adventure-wdh.json` line 31934).
-- Tashlyn serves as Captain of the City Guard at the South Gate under the dwarf magister Vorondar Levelstone. She has earned his confidence over two years, according to the Doom Raiders organization page, and the published adventure gives no duration.
+- Tashlyn's cover is a post as bodyguard to the dwarf magister Vorondar Levelstone at the South Gate, and it earned her the rank of captain in the City Guard. She has won his confidence over two years, according to the Doom Raiders organization page, and the published adventure gives no duration.
 - The cell prefers contracts to confrontation and holds that the Black Network works best as a legitimate enterprise. Its agreements hold, and its violence is purposeful.
 - Davil wants to end the street violence that Manshoon's cell has caused, because a legitimate criminal enterprise cannot run in a city where an illegitimate one keeps shooting people.
 - The Doom Raiders operate openly, meet in taverns and recruit adventurers. They are the first Zhentarim contact the party meets, during **Trollskull Alley**.
@@ -93,7 +93,7 @@ The Zhentarim, also called the Black Network, is a mercenary and trading company
 > - The Harpers do not know that the Splinter is Manshoon's cell or that it answers to Kolat Towers. No Harper contact names him.
 > - The man in Kolat Towers is a clone who believes he is the true Manshoon, and he keeps a simulacrum in reserve. The old outline asked whether he was the original or a simulacrum, and he is a third thing.
 > - His location is set by the escalation tier. At Unaware and Suspicious he is in E13, where his study is, and at Alert and Lockdown he is in E12. The activation of the simulacrum is linked to the same tiers.
-> - Skeemo Weirdbottle is a traitor to the Doom Raiders and has been from the start. Davil has suspected it for months, and Tashlyn confirms it during his arrest.
+> - Skeemo Weirdbottle is a traitor to the Doom Raiders and has been from the start. Davil trusts him and does not know, though he suspects that someone in his cell is leaking.
 
 **Tone:** Measured and factual, in the Ember history register. The Doom Raiders are sincere and Manshoon is patient. State each cell's view of the other as that cell's own belief, and give no narrator ruling on which one is the true Zhentarim.
 
